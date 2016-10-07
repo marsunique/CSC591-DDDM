@@ -15,18 +15,35 @@ ckey = "ESH4cnWcKgKVHFPcnIjpAUvbe"
 csecret = "aTOvrDtmqn2I15RZKEANNNhkPsXryAlECDdmbkAp2L268Dw8N8" 
 atoken = "3060784180-REBbkm5XaSZ1XBwpYDL6d6HS12CdXJ7Kz1JEMaR"
 asecret = "CDtvPLmbIheR6GXgd5aIKuD0Jl0vJDpRdSIZqHtwpEcWs"
-count = 0
+
 #fileOut = open("/Users/charliebuckets/Desktop/projects/smScraper/output.txt", "a")
 
 class listener(StreamListener):
     def on_data(self, data):
+        
         try:
+            print "ANOTHER ONE."
             all_data = json.loads(data)
             tweet = all_data["text"]
             username = all_data["user"]["screen_name"]
+            timeStamp = all_data["timestamp_ms"]
+            hashTags = all_data["entities"]["hashtags"]
+            userId = all_data["user"]["id"]
+            location = all_data["user"]["location"]
+            language = all_data["lang"]
+            created_at = all_data["created_at"]
+            place = all_data["place"]
+            followers_count = all_data["user"]["followers_count"]
             
+            #print all_data
+            with open('fetched_tweets.txt','a') as tf:
+                tf.write(data)
+            #tf.close()
+
+
             #hiringString = re.search("[Tt][Rr][Uu][Mm][Pp]", tweet)
             #tweetString = tweet.encode("utf-8")
+            
             return True
         
         except BaseException, e:
@@ -35,6 +52,7 @@ class listener(StreamListener):
     
     def on_error(self, status):
         print status
+        return true
         
 #    def on_exception(self, status):
 #        print status
@@ -44,10 +62,75 @@ auth = OAuthHandler(ckey, csecret)
 auth.set_access_token(atoken, asecret)
 api = tweepy.API(auth)
 
-#twitterStream = Stream(auth, listener())
-#twitterStream.filter() s
+twitterStream = Stream(auth, listener())
+twitterStream.filter(track=['#AZvsSF'])
 
 
+''' SAMPLE TWITTER JSON OBJECT FROM STREAM
+{u'contributors': None, 
+ u'truncated': False, 
+ u'text': u'#AZvsSF THESE ARE THE CARDINALS I KNOW', 
+ u'is_quote_status': False, 
+ u'in_reply_to_status_id': None, 
+ u'id': 784217049652264960, 
+ u'favorite_count': 0, 
+ u'source': u'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>',
+ u'retweeted': False, 
+ u'coordinates': None,
+ u'timestamp_ms': u'1475806889342',
+ u'entities': {u'user_mentions': [], u'symbols': [], u'hashtags': [{u'indices': [0, 7], u'text': u'AZvsSF'}], u'urls': []}, u'in_reply_to_screen_name': None, 
+ u'id_str': u'784217049652264960',
+ u'retweet_count': 0,
+ u'in_reply_to_user_id': None, 
+ u'favorited': False, 
+ 
+ u'user': {
+     u'follow_request_sent': None, 
+     u'profile_use_background_image': False, 
+     u'default_profile_image': False,
+     u'id': 1623724580, 
+     u'verified': False, 
+     u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/754456973270056960/umtsrMcw_normal.jpg', u'profile_sidebar_fill_color': u'000000', 
+     u'profile_text_color': u'000000', 
+     u'followers_count': 332, 
+     u'profile_sidebar_border_color': u'000000', 
+     u'id_str': u'1623724580', 
+     u'profile_background_color': u'000000', 
+     u'listed_count': 2, 
+     u'profile_background_image_url_https': u'https://abs.twimg.com/images/themes/theme1/bg.png', 
+     u'utc_offset': -18000, 
+     u'statuses_count': 6961, 
+     u'description': u'sc:caleb_conerly Cardinals 1-3',
+     u'friends_count': 188, 
+     u'location': u'Houston, TX', 
+     u'profile_link_color': u'000000', 
+     u'profile_image_url': u'http://pbs.twimg.com/profile_images/754456973270056960/umtsrMcw_normal.jpg', 
+     u'following': None,
+     u'geo_enabled': True, 
+     u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/1623724580/1471659383', 
+     u'profile_background_image_url': u'http://abs.twimg.com/images/themes/theme1/bg.png', 
+     u'name': u'CXI', 
+     u'lang': u'en', 
+     u'profile_background_tile': False, 
+     u'favourites_count': 5591, 
+     u'screen_name': u'Cconerly_', 
+     u'notifications': None, u'url': u'https://curiouscat.me/Cconerly_6', 
+     u'created_at': u'Fri Jul 26 19:44:46 +0000 2013', 
+     u'contributors_enabled': False, 
+     u'time_zone': u'Central Time (US & Canada)', 
+     u'protected': False, 
+     u'default_profile': False, 
+     u'is_translator': False}, 
+ u'geo': None, 
+ u'in_reply_to_user_id_str': None,
+ u'lang': u'en', 
+ u'created_at': u'Fri Oct 07 02:21:29 +0000 2016',
+ u'filter_level': u'low', 
+ u'in_reply_to_status_id_str': None, 
+ u'place': None
+}
+'''
+'''
 for tweet in tweepy.Cursor(api.search, q="hate trump", lang = "en").items(300):
 #    print tweet.text.encode("utf-8")
     count = count + 1
@@ -70,7 +153,7 @@ print "done"
 #except baseExcpetion, e:
 #    print "Failed on read", str(e)
 #    time.sleep(5)
-
+'''
 
 
 '''
