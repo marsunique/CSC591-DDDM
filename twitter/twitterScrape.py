@@ -16,6 +16,7 @@ csecret = "aTOvrDtmqn2I15RZKEANNNhkPsXryAlECDdmbkAp2L268Dw8N8"
 atoken = "3060784180-REBbkm5XaSZ1XBwpYDL6d6HS12CdXJ7Kz1JEMaR"
 asecret = "CDtvPLmbIheR6GXgd5aIKuD0Jl0vJDpRdSIZqHtwpEcWs"
 
+
 #fileOut = open("/Users/charliebuckets/Desktop/projects/smScraper/output.txt", "a")
 
 class listener(StreamListener):
