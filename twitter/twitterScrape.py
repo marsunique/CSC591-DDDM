@@ -24,6 +24,13 @@ class listener(StreamListener):
         
         try:
             print "ANOTHER ONE."
+            # not sure how the whole unicode 'u' thing is going to work.  This is a potential fix 
+            # if we run into problems with it
+            #  ||
+            # \  /
+            #  \/
+            #all_data = json.dumps(json.loads(data))
+            
             all_data = json.loads(data)
             tweet = all_data["text"]
             username = all_data["user"]["screen_name"]
