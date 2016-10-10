@@ -16,15 +16,22 @@ csecret = "aTOvrDtmqn2I15RZKEANNNhkPsXryAlECDdmbkAp2L268Dw8N8"
 atoken = "3060784180-REBbkm5XaSZ1XBwpYDL6d6HS12CdXJ7Kz1JEMaR"
 asecret = "CDtvPLmbIheR6GXgd5aIKuD0Jl0vJDpRdSIZqHtwpEcWs"
 
+
 #fileOut = open("/Users/charliebuckets/Desktop/projects/smScraper/output.txt", "a")
 
 class listener(StreamListener):
     def on_data(self, data):
         
         try:
-            print "ANOTHER ONE."
+            # not sure how the whole unicode 'u' thing is going to work.  This is a potential fix 
+            # if we run into problems with it
+            #  ||
+            # \  /
+            #  \/
+            #all_data = json.dumps(json.loads(data))
+            
             all_data = json.loads(data)
-            tweet = all_data["text"]
+            tweet = all_data["text"]            
             username = all_data["user"]["screen_name"]
             timeStamp = all_data["timestamp_ms"]
             hashTags = all_data["entities"]["hashtags"]
@@ -35,13 +42,20 @@ class listener(StreamListener):
             place = all_data["place"]
             followers_count = all_data["user"]["followers_count"]
             
+            
+            match = re.search(".?([Hh][Ii][Ll][Ll][Aa][Rr][Yy]).?|([Tt][Rr][Uu][Mm][Pp]).?|([Cc][Ll][Ii][Nn][Tt][Oo][Nn]).?|([Rr][Ee][Pp][Uu][Bb][Ll][Ii][Cc][Aa][Nn]).?|([Dd][Ee][Mm][Oo][Cc][Rr][Aa][Tt]).?|([Dd][Ee][Bb][Aa][Tt][Ee]).?", tweet)
+            
+            
+            if match:
+                print tweet
+                
             #print all_data
-            with open('fetched_tweets.txt','a') as tf:
+            with open('debate_fetched_tweets.txt','a') as tf:
                 tf.write(data)
             #tf.close()
 
 
-            #hiringString = re.search("[Tt][Rr][Uu][Mm][Pp]", tweet)
+            
             #tweetString = tweet.encode("utf-8")
             
             return True
@@ -63,7 +77,7 @@ auth.set_access_token(atoken, asecret)
 api = tweepy.API(auth)
 
 twitterStream = Stream(auth, listener())
-twitterStream.filter(track=['#AZvsSF'])
+twitterStream.filter(locations=[-172.863636, 4.671721,  -28.019894, 71.943955])
 
 
 ''' SAMPLE TWITTER JSON OBJECT FROM STREAM
