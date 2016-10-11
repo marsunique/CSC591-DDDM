@@ -3,6 +3,7 @@ import facebook
 import json
 import requests
 import time
+import MediaName as Media
 
 #import sys
 #reload(sys)
@@ -15,7 +16,7 @@ class Facebook_post_scrape():
         self.api = 'https://graph.facebook.com'
         self.version = 'v2.3'
         self.page_name = page_name
-        self.token = 'EAACEdEose0cBAHHDvHgLZBElxLu1wjkt2GXJl2N6rc3BdWG5kLzFvsqqbyZBilnVlUpDuq1J1e5DsIZCsbZBM1C46vrZAICzaiDbFpjZBpu0fXVQaNq4ljNErRB5mtJPZBhlpTX1ZCgCz7hnNuepRA3tzdRtvxvLzHK31iynTneSFAZDZD'
+        self.token = 'EAACEdEose0cBAHZAAnBrGvatCaqeCeFUhlepaO3hmb5lJW3zYYJl9nzI1i8pdzW8TGGsCRZAbl1ovvMxSmZCFmYpjthEaaJFOMEj9qTo8dweOrnZBCfBbYkP1q0vxxwn0kglVh66sntpukk3IPkgDhYxWCAbzXb1ubjgNBMJ4wZDZD'
     def scrape(self):
         query = self.api + '/' + self.version + '/' + self.page_name + '/posts?access_token=' + self.token
         print 'Fetch from: ' + self.page_name
@@ -61,13 +62,17 @@ class Facebook_post_scrape():
         finally:
             result_file.close()
 
-
 if __name__ == '__main__':
-    test = Facebook_post_scrape('FoxNews')
+    index = 1
+    for media in Media.media_dic:
+        print str(index),
+        print media + '\t==>' + 'FB page name: ' + Media.media_dic[media]['name'] + '\tid: ' + Media.media_dic[media]['id']
+        index += 1
+    name = raw_input("Please select a media company: ")
+    selected_name = Media.media_dic[name]['name']
+    print selected_name
+    test = Facebook_post_scrape(selected_name)
     test.scrape()
-
-
-
 
 
 '''
