@@ -17,7 +17,7 @@ class Facebook_post_scrape():
         self.api = 'https://graph.facebook.com'
         self.version = 'v2.3'
         self.dic = dic
-        self.token = 'EAACEdEose0cBADZB1Vn2NVzdNgqypmcqwfWMB2ZAH9nWFZBRKpwZBthfTQi6KFg4Wq3OQabMqqaECCqynfSkZBwyYq0c7JnVx4INUVLNxZCQuZCWusscHqJQyHvVfLU4iToG8dD9ZBcYZCnL2d8WZCsZBhV6gJ9PkNregZBjZCWzZAswIQqxz4Lllrrg1umznJXScmL7YVSx3jZBOKnPTkKfe6KBwk2'
+        self.token = 'EAACEdEose0cBAH6QbnL5KFtIcbQ0opsOutKXQxAvAm0eKhwiSDL9zZBkdJswKhuQXp6X6xFd4PyoHEhYF8vgXhcZBhZBqp9ieUZBh1LqrBAptiojlwjug9KgZADjOBKMBPLcrcWqK2mJZADIycoNmrNHtctmSwP1AJX3BZB3unqOwZDZD'
     def scrape(self):
         for media in self.dic:
             page_name = self.dic[media]['name']
