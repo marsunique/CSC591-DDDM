@@ -17,7 +17,7 @@ class Facebook_post_scrape():
         self.api = 'https://graph.facebook.com'
         self.version = 'v2.3'
         self.dic = dic
-        self.token = 'EAACEdEose0cBAH6QbnL5KFtIcbQ0opsOutKXQxAvAm0eKhwiSDL9zZBkdJswKhuQXp6X6xFd4PyoHEhYF8vgXhcZBhZBqp9ieUZBh1LqrBAptiojlwjug9KgZADjOBKMBPLcrcWqK2mJZADIycoNmrNHtctmSwP1AJX3BZB3unqOwZDZD'
+        self.token = 'EAACEdEose0cBALKbfTGZBDWRkZBtUo7fpO2nFeb0jaEM8dHoBL7Q0JWYChucEiIXgKXoZC9uBRllaYSFSzhpaqoANlZAIZAxDZArqBjbp2vPzmZCvmZBccCbZCqE6YFBeZAPZCdkKlPkNrvRg8K92QVLGahMKT3qhaoXs6OX3a6sDStIAZDZD'
     def scrape(self):
         for media in self.dic:
             page_name = self.dic[media]['name']
@@ -58,7 +58,7 @@ class Facebook_post_scrape():
                         comments_count = 1
                         for comment in comments:
                             comment['message'] = ''.join(comment['message'].split('\n'))
-                            print >> result_file, str(comments_count) + ' | ' + comment['from']['name'].encode('utf-8') + ' | ' \
+                            print >> result_file, str(comments_count) + ' | ' + comment['from']['name'].encode('utf-8') + ' | ' + str(comment['like_count']).encode('utf-8') + ' | ' \
                                                     + comment['id'].encode('utf-8') + ' | ' + comment['message'].encode('utf-8')
                             comments_count += 1
                     else:
