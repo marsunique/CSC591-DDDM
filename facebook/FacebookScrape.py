@@ -5,6 +5,7 @@ import requests
 import time
 import sys
 import MediaName as Media
+import Token
 
 #import sys
 #reload(sys)
@@ -13,11 +14,11 @@ import MediaName as Media
 #graph = facebook.GraphAPI(access_token=None)
 
 class Facebook_post_scrape():
-    def __init__(self, dic):
+    def __init__(self, dic, access_token):
         self.api = 'https://graph.facebook.com'
         self.version = 'v2.3'
         self.dic = dic
-        self.token = 'EAACEdEose0cBALKbfTGZBDWRkZBtUo7fpO2nFeb0jaEM8dHoBL7Q0JWYChucEiIXgKXoZC9uBRllaYSFSzhpaqoANlZAIZAxDZArqBjbp2vPzmZCvmZBccCbZCqE6YFBeZAPZCdkKlPkNrvRg8K92QVLGahMKT3qhaoXs6OX3a6sDStIAZDZD'
+        self.token = access_token
     def scrape(self):
         for media in self.dic:
             page_name = self.dic[media]['name']
@@ -81,7 +82,7 @@ if __name__ == '__main__':
     command = raw_input("Continue? (yes/no)")
     #selected_name = Media.media_dic[name]['name']
     if command == 'yes':
-        test = Facebook_post_scrape(Media.media_dic)
+        test = Facebook_post_scrape(Media.media_dic, Token.token)
         test.scrape()
     else:
         sys.exit('GoodBye!')
