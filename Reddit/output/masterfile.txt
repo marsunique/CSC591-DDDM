@@ -1,0 +1,36 @@
+ITEM NUMBER, THREAD TITLE,THREAD ID
+0, DEFAULT ENTRY, NONE
+1, [FBI Obtains Warrant for Newly Discovered Emails in Clinton Probe — as Reid Accuses Comey of Hatch Act Violation], 5a8mz9, 1477894245.0
+2, [Trump tells supporters to vote twice to fight voter fraud], 5a9gp0, 1477903922.0
+3, [Harry Reid accuses Comey of sitting on proof of Trump-Russia ties, possible Hatch Act violation], 5a9qt5, 1477907483.0
+4, [Here Are All the Insane Things You’ve Probably Forgotten About Trump’s Campaign], 5a9s7c, 1477908002.0
+5, [The FBI is sitting on "explosive" information regarding Donald Trump and Russia, top Democrat asserts], 5a9zsq, 1477910677.0
+6, ['He appears not to understand basic military activities': Experts blast Trump for his comments on Mosul operation], 5a7nb1, 1477883158.0
+7, [It's All But Official: Donald Trump Won't Release His Tax Returns], 5a7p5q, 1477883756.0
+8, [Trump: Clinton will let 650M immigrants into U.S.], 5a9zhq, 1477910572.0
+9, [Clinton campaign says Comey letter violates Justice Department protocols], 5a8399, 1477888081.0
+10, [Trump touts waterboarding, stokes immigration fears in border state], 5aa7ej, 1477913598.0
+11, [Finance professor: 'There is good reason few economists have endorsed Trump's economic plan'], 5a7up1, 1477885466.0
+12, [Donald Trump 'had to ask what a Gold Star family was' after he attacked the Muslim-American parents of the soldier killed in Iraq], 5a7dgy, 1477880153.0
+13, [Donald Trump Foundation's largest donation was for refurbishment of a fountain outside one of his own hotels], 5a7i4d, 1477881580.0
+14, [Early Turnout Tilts Toward Democrats in Swing States], 5a90bx, 1477898472.0
+15, [Over a Third of Trump Supporters Follow White Nationalists on Twitter, Research Finds], 5a70zz, 1477876284.0
+16, [Temper Tantrump: Donald Trump Melts Down Over Evan McMullin Surge in Utah], 5a7ztj, 1477887026.0
+17, [Trump’s Closest Allies Admit the Campaign Was a Total Mess], 5aa3pi, 1477912109.0
+18, [Newly discovered emails unlikely to change decision not to charge Clinton: experts], 5a91ez, 1477898837.0
+19, [Rick Wilson and now Frank Luntz say major Trump story to be dumped this week. Wild speculation incoming.], 5a9go0, 1477903916.0
+20, [Former Ethics Counsel to Bush Files Complaint Against FBI Director for Latest Disclosures on Clinton Email Probe], 5a7vnf, 1477885747.0
+21, [Trump tells supporters to vote twice to fight voter fraud], 5a9leg, 1477905573.0
+22, [Trump rally speaker fantasizes about death of Hillary Clinton], 5a7ee7, 1477880423.0
+23, [Trump University staff included child molester, drug trafficker], 5aa05m, 1477910809.0
+24, [Trump takes aim at NASA's climate budget], 5a9qj9, 1477907390.0
+25, [FBI agents knew of Clinton-related emails weeks before director was briefed], 5a72gz, 1477876764.0
+26, [Even Joe Walsh Thinks James Comey’s Letter About Clinton Emails Was ‘Wrong & Unfair’], 5a9yt4, 1477910332.0
+27, [Donald Trump's companies destroyed or hid documents in defiance of court orders], 5abmsn, 1477940988.0
+28, [Huffpollster: Most Voters Say Donald Trump Doesn’t Respect Democracy], 5a8hsl, 1477892636.0
+29, [Trump offered Christie VP spot, then took it back: report], 5a84ar, 1477888413.0
+30, [Thanks to Trump, we can better understand how Hitler was possible], 5a6d7k, 1477868252.0
+31, [That Time Donald Trump Called Poor People Morons], 5a7fnj, 1477880804.0
+32, [Clinton emails: FBI director ignored Attorney General's advice not to 'take action that could influence election'], 5a5jzt, 1477854324.0
+33, [Trump reportedly didn’t know what a ’Gold Star family’ was], 5a7c3o, 1477879737.0
+34, [Trump says Clinton would let 650 million people into US in a week.], 5aasiq, 1477923153.0

@@ -1,0 +1,952 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [What are the pros and cons of more women in the field of medicine?], 533y44, 1474086617.0, 8
+2, [Has the Mainstream Media been purposefully biased against the Sanders campaign from the beginning of the Primary Season?], 4nhvl0, 1465614160.0, 0
+3, [Is the political press fair and unbiased?], 3s1on4, 1447044214.0, 3
+4, [What are some advantages/strong points that Bernie has that he can use to convince the Democratic delegates to choose him as the nominee, and what are his challenges/weak points likewise?], 4g58us, 1461473825.0, 0
+5, [I am having trouble finding anything racist Donald Trump has actually said while campaigning.], 4sgtk3, 1468356766.0, 8
+6, [At lunch I heard talk of a Military Coup in the US if Donald Trump wins on the radio. I felt it was worth discussion.], 4w7agf, 1470379546.0, 4
+7, [Which tax plan is better for middle-class voters, Clinton's or Trump's plan?], 54wgh0, 1475100115.0, 161
+8, [I've heard many people say Donald Trump is sexist and that's a large reason why they don't want to vote for him. What part of his policies and what has he done is the past that would be sexist?], 4iherg, 1462786652.0, 24
+9, [I'm an undecided voter. Please tell me why Hillary is the best choice for Nominee/President.], 44vaoz, 1455026638.0, 15
+10, [Was what Trump said today any different than what Hillary said in 2008?], 4wz67g, 1470813793.0, 43
+11, [If Bernie Sanders wins Michigan by eight percent points over Hillary how does this effect the race?], 49c1k4, 1457375052.0, 24
+12, [Who is more at fault for the global recession?], 3zfix7, 1451954964.0, 0
+13, [My boss and coworkers have a very different view points from me, I just want the truth.], 3v72g9, 1449120282.0, 4
+14, [Has Hillary Clinton's Campaign broken any Super-PAC/Campaign Finance laws?], 4w8h12, 1470396670.0, 14
+15, [Are we ready, mentally, for another 9/11 sized terrorist attack?], 4kh6ul, 1463921092.0, 14
+16, [In light of Brexit, what are the pros/cons of a multi-day voting period instead of just a one day vote?], 4pu15r, 1466912463.0, 3
+17, [If Bernie wins the popular vote and the super-delegates nominate Hillary will they then also elect Donald Trump?], 46iyh6, 1455885771.0, 116
+18, [Should Nazism be considered right wing or authoritarian?], 4dkakc, 1459946451.0, 7
+19, [Does Bernie Sanders meet any established definition of Communism?], 43s37s, 1454408625.0, 12
+20, [Why has Russia never joined NATO?], 4sh4ze, 1468361122.0, 1
+21, [Mendacity ratings for all presidential hopefuls], 3tjqw3, 1448039670.0, 2
+22, [What is Sander's plan to address lobbyists in Congress?], 449bdl, 1454676870.0, 5
+23, [Are Americans too religious for Socialism?], 4a8tmd, 1457914181.0, 16
+24, [Does the US purposely intimidate Russia with it's large military budgets, wars, and military personnel abroad?], 4x3cro, 1470879730.0, 18
+25, [Would a Donald Trump presidency make sense considering the business life cycle?], 4j66q5, 1463173043.0, 19
+26, [If central banks can print money, why do citizens pay taxes?], 3wge0l, 1449911130.0, 20
+27, [Did Hillary Clinton commit perjury at the Benghazi hearings?], 4rqe01, 1467947976.0, 344
+28, [Since the reliance on state militias is no longer how the U.S. Military works, shouldn't the 2nd Amendment be revised? Or should we return to a more fragmented, state militia based military?], 4pnr9d, 1466814373.0, 49
+29, [Why will Loretta Lynch not indict Hillary Clinton?], 4ob9q2, 1466074913.0, 55
+30, [Is there any truth to this article I found from the "Gatestone Institute?"], 4rltiu, 1467881893.0, 4
+31, [Why does Americans complain so much about taxes?], 43ffu6, 1454209958.0, 38
+32, [Should we disarm the police in America?], 49z5lp, 1457737634.0, 39
+33, [Does white privilege exist in the United States?], 4pe34p, 1466672244.0, 284
+34, [What are the pros and cons of leading candidates Hillary Clinton and Donald Trump?], 4bedlr, 1458624486.0, 135
+35, [Is Obama's reaction to Flint the same as Bush's reaction to Katrina?], 44vn9c, 1455033626.0, 203
+36, [Why do American politics seem to be more "moderate" than many other places in the world?], 4paaw2, 1466626065.0, 164
+37, [Why wouldn't Bernie run as an independent?], 4glotp, 1461742803.0, 69
+38, [If Cruz/Rubio and Clinton got the nominations, what do you think would happen if both Bernie and Trump ran as independents?], 45gevb, 1455334531.0, 16
+39, [Gold Star families have sent a letter to Donald Trump demanding he apologize over remarks made to the Khan family, and John McCain has issued a lengthy rebuke of Trump. Is this indicative of a fracture within the Republican party?], 4vmvh3, 1470092017.0, 642
+40, [Should the President of the United States be on a reality TV show while still in office?], 3wtt9j, 1450152674.0, 6
+41, [What are the similarities and differences between Hillary's "Basket Of Deplorables"comment and Romney's "47%" comments in 2012?], 52he90, 1473751725.0, 33
+42, [Why don't the public have access to all Clintons emails (from her time as SoS) under the FOIA?], 5a605n, 1477862997.0, 10
+43, [Should unpaid housework be included in GDP?], 4twxvy, 1469136210.0, 85
+44, [Isn't Bernie Sanders out of the race for Democratic Party nomination?], 4iagp2, 1462664894.0, 204
+45, [Is it true that there have not been prosecutions for mishandling or removal of classified information based on gross negligence?], 4rjdxc, 1467852063.0, 145
+46, [Which candidate is the most supportive of either free or open source software?], 4b1p2d, 1458388434.0, 19
+47, [What are the DNC's procedural options for changing their presidential nominee post-convention if that nominee is charged with a crime?], 4i1w9f, 1462510115.0, 93
+48, [Is there a backlash against "socialist" programs due to backlash against gender / ethnic minorities (and their vocal protests against the status quo), and is this backlash a political shift with staying power for the West?], 4c3maf, 1459067276.0, 65
+49, [How effective are efforts like Correct the Record in shaping perceptions?], 4w1imt, 1470295120.0, 17
+50, [Sanders received 60% of in-person votes in Maricopa County. How much would the state have swung if there hadn't have been so many issues with voting?], 4bnyt6, 1458789213.0, 314
+51, [Is Sanders key point being disproven with every one of his and Trump's wins?], 45dgaw, 1455286702.0, 10
+52, [Does Donald Trump meet any established definition of Fascism?], 43qvzd, 1454392791.0, 119
+53, [Is Trump a liberal or a conservative?], 46rp7d, 1456027465.0, 20
+54, [If Hillary Clinton has to drop out of the Presidential election, who replaces her?], 529gn4, 1473642153.0, 756
+55, [[META] Proposed policy to move election content to megathreads.], 45hc4q, 1455345937.0, 79
+56, [How much evidence is there that the Clintons compensated donors via their Foundation and State Department connection?], 4x4dmo, 1470891508.0, 17
+57, [Is amending the US Constitution seen as a Cardinal political sin?], 4pwqr6, 1466954949.0, 27
+58, [Will our war in Syria end badly for the US and is it increasing the risk for WW3 this year?], 3u9e8h, 1448512350.0, 26
+59, [Does the authority of the EPA lead to a net loss or gains of jobs?], 4vvkw2, 1470210199.0, 6
+60, [Are the security clearance accusations against Hilary Clinton a red flag or a red herring?], 4ruo7h, 1468013537.0, 8
+61, [Does a plan to stop Climate Change exist - and is stopping the Keystone XL pipeline likely to reduce or stop climate change?], 3rsv9w, 1446867780.0, 58
+62, [On the topic of 'safe spaces:' what are the pros and cons?], 4zkqi9, 1472186504.0, 52
+63, [According to the National Academy of Sciences, in the last 7 years the US government reduced the protection for endangered species. Why did our government do this and how can these protections be restored??], 3wwl6g, 1450188785.0, 74
+64, [Trumps healthcare reform plan], 48pv6b, 1457000386.0, 1
+65, [Has any candidate raised money the same way as Bernie Sanders?], 444kly, 1454606903.0, 42
+66, [Promotion: Join /r/ModelUSGov], 49yqvk, 1457730971.0, 25
+67, [What police reform measures are feasible at a federal level that might help alleviate the disproportionate shootings of Black Americans?], 4rvhsf, 1468023906.0, 315
+68, [What are the pros and cons for President Barack Obama's "aggressive effort to upgrade the militarys nuclear weapons program"?], 4wlwwb, 1470621895.0, 192
+69, [How would a Jesse Ventura/John McAfee or a Jesse Ventura/Gary Johnson 2016 Libertarian ticket for President change the election?], 3z40mo, 1451744275.0, 64
+70, [Is there truth to Donald Trump's comments concerning his financial disclosure form?], 4juh6o, 1463566653.0, 54
+71, [[link] Sanders 50% Problem - Why States With Half of the Electorate as Minority + $100k Earners May Destroy Sanders Chances], 48r3cy, 1457020906.0, 13
+72, [Manufacturing Consent, by Noam Chomsky  group read at r/NonFictionBookClub], 3wkvz2, 1449992830.0, 101
+73, [Is there a large gender pay gap within the US?], 480da0, 1456665932.0, 93
+74, [If Bernie Sanders becomes president could he extend Medicare to everyone without going through congress through a signing statement or something?], 44bwgw, 1454723033.0, 48
+75, [Has a candidate, who was nonviable in a primary state (i.e. Clinton in VT) gone on to win a primary?], 48ohhi, 1456983315.0, 4
+76, [Is our president correct that to stop terrorists our most powerful tool is to say we are not afraid?], 3ttvqe, 1448240960.0, 5
+77, [Some people are concerned about Hillary being elected because it would be continuing the Clinton dynasty. Are dynasties a bad thing and if so, why?], 48ddaw, 1456818974.0, 7
+78, [How could US lawmakers reverse inequality trends threatening consumer spending to help the middle class prosper as much as the developing world?], 4kgupf, 1463914949.0, 57
+79, [Should universities outsource certain departments to private companies?], 3xsq2o, 1450789274.0, 26
+80, [I have a question about Benghazi: I've read a lot of fact-checks on Clinton's and the State Department's involvement in the failure to intervene in Benghazi, but I don't understand one thing.], 4r4vet, 1467624557.0, 46
+81, [Hillary's opponents label her crooked. Would an impartial review of the evidence at hand justify that label?], 4uzqwu, 1469724745.0, 596
+82, [First Debate Fact-Checking Thread], 54nezg, 1474958715.0, 2586
+83, [Marco Rubio recently said that Obama has been a divisive president. What evidence is there for this?], 4b4ajc, 1458442723.0, 223
+84, [Did the Clinton Campaign Break Campaign Finance Law?], 4fgh8v, 1461079470.0, 251
+85, [In light of Lebron James' announcement to support Clinton - What historical effect have high profile celebrities/athletes had on polling/voting in their respective state?], 55qwmi, 1475569983.0, 278
+86, [Have the elites contributed the most to the rise of Donald Trump?], 53ywte, 1474579387.0, 226
+87, [If we take the status of Saddam Hussein's WMD possession to be the legitimating factor of a Coalition invasion of Iraq, were the British public justified---on balance---in their support of the war, given the information available to them in 2003?], 4sq77c, 1468481976.0, 63
+88, [What happens if there are TWO contested conventions?], 4hiwr7, 1462241067.0, 58
+89, [What are the implications of the purported transfer of $400 million by the US to Iran?], 4wk1mw, 1470586073.0, 21
+90, [What strategies are there for communicating the subjective cost of a government plan or program to citizens?], 4pi16a, 1466732852.0, 4
+91, [What are some things that both Trump and Hillary could say and we wouldn't know who said them, but would also upset half the people on both sides?], 52wpx7, 1473982354.0, 187
+92, [What is the International Impact of Bernie Sanders as a Jewish Candidate?], 47qngn, 1456542608.0, 80
+93, [If your political views don't fit into a political party, is it fair that they effectively aren't worth much as GOP and Dem voters?], 4fnl5a, 1461191397.0, 94
+94, [It seems that for many measures of social progress, The United States South fairs worse than the rest of the nation. How do politics or policies contribute to this?], 3s5vh4, 1447122070.0, 100
+95, [Will Democrats swing the election to Trump?], 45xt6r, 1455588843.0, 261
+96, [Could the United States adopt a parliamentary system without amending the Constitution?], 465gw5, 1455696984.0, 17
+97, [The New York Times admits it has a liberal bias, but doesn't that actually undermine its credibility on the issues that matter to liberals?], 3wt9m7, 1450144903.0, 100
+98, [What are the implications of HRC's tech guy attempting to remove email addresses from emails?], 53ncu3, 1474407094.0, 422
+99, [Likelihood of NY Dem Primary Election Fraud], 4g6imu, 1461494576.0, 233
+100, [Is it possible for a United States president to be impeached for actions they committed prior to being elected?], 4r2sj4, 1467594010.0, 300
+101, [What is the alternative to Trumps wall?], 4uiwam, 1469486169.0, 19
+102, [Should mandates that require new buildings to be built with solar panels be enacted?], 54kj5l, 1474924828.0, 175
+103, [Just 19% trust the government always or most of the time, so which candidate can restore our trust?], 3ud50a, 1448585639.0, 93
+104, [Help me understand Jill Stein's student debt policy to me], 4yvrf2, 1471826850.0, 229
+105, [[wage gap] Is this graphic accurate?], 4mfxp7, 1465029019.0, 73
+106, [If Hillary wins the Democratic nomination, what reasons would Bernie supporters have to vote for or against her in the general election?], 47y3mf, 1456637033.0, 68
+107, [Is it ageist to cut entitlement (Social Security/Medicare) benefits for young and middle aged people, while elderly people potentially may keep non reduced benefit amounts?], 49xdaw, 1457703588.0, 6
+108, [In primaries, do we elect delegates to the national conventions or nominate a candidate for the general election?], 49m3me, 1457521685.0, 7
+109, [Is the EU-Turkey refugee plan illegal?], 4nhnak, 1465611324.0, 9
+110, [Everyone agrees that the Medicare for all approach totally failed in Vermont. The question is why Medicare for all totally failed?], 47hces, 1456405332.0, 9
+111, [From a financial/tax only standpoint, at what salary does it not make sense to vote democratic?], 45sazb, 1455505045.0, 9
+112, [Everyone is talking about how long it's been since Hillary did a press conference, but what is considered a 'normal' amount of press conferences?], 51a1lg, 1473119822.0, 294
+113, [What would you say to refute or support Bernie's plans to fund his proposals?], 466vt9, 1455717789.0, 39
+114, [What are the potential consequences of the exposure of Trump Hotels breaking the embargo with cuba?], 552o6j, 1475191253.0, 358
+115, [Are Clinton's policies more 'pro African American' than Sanders'?], 46uipk, 1456073126.0, 71
+116, [Does Sen. Sanders use money from SuperPACs?], 464s7l, 1455687928.0, 16
+117, [Is doing nothing on immigration a viable solution?], 4rll6q, 1467878682.0, 66
+118, [Is Donald Trump's contribution to Pam Bondi bribery?], 4n00xl, 1465347455.0, 287
+119, [Does the GOP have a future should they lose this election?], 46bbis, 1455775758.0, 206
+120, [If Bernie Sanders hypothetically wins the Presidency, will he be able to pass his ambitious ideas?], 453zt6, 1455155836.0, 159
+121, [Why is violent crime decreasing in certain cities despite an increase in most large cities?], 4wgvi5, 1470534126.0, 177
+122, [Can we keep Obamacare without major reforms? If so, do we want to keep it? If not, what is next?s], 4f2wbz, 1460857542.0, 228
+123, [What does the level of Trump's support say about the electorate?], 3yp0ox, 1451449503.0, 132
+124, [Does the military have to follow unlawful orders given by the president?], 52i4dn, 1473761140.0, 11
+125, [By what ethical standard should we judge someone's vote?], 50l72h, 1472728578.0, 11
+126, [Should we be more concerned about fracking or the coal usage which the natural gas displaces?], 4488hi, 1454660719.0, 11
+127, [What legislation is the left proposing to fix the gender wage gap that is not already in the Equal Pay Act of 1963?], 565hgf, 1475790934.0, 202
+128, [Bernie Sanders overwhelmingly won the youth vote in the democratic primary. Is this more likely due to a generational ideological shift or to younger voters being more embracing of change?], 4h59qm, 1462065212.0, 466
+129, [Hungary's border fence vs. Trump's wall], 4j4c8w, 1463136612.0, 23
+130, [Have politicians failed to address the white who live in poverty?], 4qidil, 1467268530.0, 72
+131, [Barbados 1979 Referendum], 4nhdc6, 1465607988.0, 5
+132, [What public actions have been undertaken by Hillary Clinton to address human trafficking and child marriage in Saudi Arabia?], 506olj, 1472526229.0, 50
+133, [Should healthcare be a right in the US?], 446tls, 1454642284.0, 229
+134, [What independent evidence corroborates or refutes the allegations made via the recent James O'Keefe video?], 58jxzh, 1477032823.0, 391
+135, [Why doesn't the Tea Party separate from the mainstream Republican Party in the United States?], 4picpg, 1466736462.0, 12
+136, [Why is Trump's proposal of a wall on the Mexican border so controversial?], 47bnll, 1456332327.0, 12
+137, [Why does Sanders have a significantly higher favorable rating with Democratic voters than Clinton, and policies that are very popular with Democrats, yet is losing by millions of votes?], 4oh26y, 1466158876.0, 722
+138, [Taxation without representation for commuters?], 41vnrc, 1453343819.0, 73
+139, [How well did Sanders handle the VA scandal?], 45yg60, 1455596043.0, 87
+140, [Did Hillary Clinton blame President Obama and The West for the fallout in Libya and Syria?], 4eyy5i, 1460784905.0, 16
+141, [What role does race play in policing in the United States?], 4sbg91, 1468279444.0, 44
+142, [Bernie Sander's Proposals], 43koa8, 1454299899.0, 248
+143, [Has ceremonial marriage between gay couples long been legal in the US? And if so, why were gay couples travelling to Canada to get married?], 4jr85j, 1463524908.0, 8
+144, [Does the State Department Audit Allow For Prosecution Of Hillary], 4l1g6w, 1464233839.0, 358
+145, [Do black voters pay attention to elections later than white voters?], 41hehz, 1453121596.0, 24
+146, [Why did youths vote for remain on Brexit referendum when their unemployment rate is so high?], 4qfmn2, 1467237332.0, 249
+147, [Reparations: Pros & Cons], 47nnas, 1456493803.0, 50
+148, [Was Trump's use of his foundation to pay settlements legal? If not, what penalties might he face.], 53ov2p, 1474425317.0, 229
+149, [In light of the msnbc article this morning regarding Trumps interest in Nukes, what ability does a sitting president have to use Nukes? What oversight exist on the national and international level.], 4vz33b, 1470267236.0, 577
+150, [Was Obama really a "no Drama" President?], 47a98l, 1456309378.0, 19
+151, [Civil Liberties and Donald Trump's campaign], 3tyx4t, 1448331317.0, 29
+152, [Is national debt different from personal debt?], 4b0t5g, 1458372864.0, 110
+153, [I am Josh Blackman, constitutional law professor and author of Unraveled: Obamacare, Religious Liberty, and Executive Power. AMA], 53hdyw, 1474318286.0, 293
+154, [What are some positive aspects of conservative ideology?], 409sxw, 1452427475.0, 117
+155, [Can anyone explain the actual level of impact the Petrodollar system has on U.S. foreign policy, geopolitics, and the economic significance of it?], 4t0gyn, 1468635002.0, 37
+156, [How viable is the concept of glocalization?], 444e4x, 1454602550.0, 3
+157, [Effectiveness of free college. Is it really regressive?], 4462d0, 1454633044.0, 63
+158, [It takes 270 electoral college votes to win the Presidency. Linked map shows its possible to tie at 269 republican and 269 democrat.], 4709ik, 1456165592.0, 83
+159, [Figures on both the American left and right accuse the opposing party of racism. Do either side's arguments hold any water?], 4vsfzq, 1470173602.0, 265
+160, [How have Donald Trump's recent statements affected his campaign?], 4w5h49, 1470358066.0, 266
+161, [A good source for 'neutral' US election news?], 4xifoq, 1471109780.0, 14
+162, [How will single payer healthcare affect doctor salaries?], 4wudoo, 1470746185.0, 14
+163, [What is the relation between the alt-right and New Atheism?], 4ux6hn, 1469684946.0, 13
+164, [Why has the GOP moved so much to the right? Where have all the moderate Republicans gone?], 4alg84, 1458118614.0, 189
+165, [Implications behind Obama pseudonym and Hillary's email?], 54dh7q, 1474801934.0, 57
+166, [Why is healthcare in the United Stated so inefficient?], 5742g4, 1476307994.0, 591
+167, [Is it possible for the US Government to extract funds from our trade deficit with Mexico, and apply these funds to a project of our choosing, like, say, a wall?], 4bdi1c, 1458613169.0, 9
+168, [What is the evidence that Europe is more left-wing than the United States?], 43bqrx, 1454142366.0, 9
+169, [[Academic] Understanding the Role of the Reddit User], 3vy0es, 1449620169.0, 75
+170, [In the US, who receives more public services and benefits: veterans or illegal immigrants?], 4m12kx, 1464814234.0, 280
+171, [Why is there a need for "Redistribution of income and wealth"?], 542tbu, 1474629368.0, 216
+172, [Given the problem of widespread voter ignorance, could epistocracy produce better outcomes than democracy, and if so, should it be adopted?], 4zu7qh, 1472333322.0, 393
+173, [I've read about dead people voting, or people voting numerous times, how is this possible?], 4n8plz, 1465466566.0, 16
+174, [Is the anti-Clinton sentiment among Sanders voters enough to prevent her from winning in November?], 4i3ccg, 1462532556.0, 329
+175, [What role does climate change play in the acceleration of violence in the Middle East?], 4u2mux, 1469221269.0, 49
+176, [If Hillary Clinton were to be convicted, wouldn't she still be able to run for president? Eugene Debs still ran while in prison.], 4lbbc7, 1464392520.0, 365
+177, [Are Donald Trump and Bernie Sanders part of a global phenomenon?], 45rj4y, 1455496455.0, 213
+178, [Is there any evidence from the DNC email leak that the DNC did anything to rig or influence the primaries in favor of Hillary Clinton?], 4up2gh, 1469574293.0, 122
+179, [What is an unbiased name for Palestine-Israel?], 3y5409, 1451038007.0, 62
+180, [Is there actually evidence in the leaked DNC emails of Hillary offering federal positions to large donors?], 4ujihm, 1469493384.0, 1254
+181, [Can Bernie Sanders win ?], 419juh, 1452997598.0, 263
+182, [Should tragedy be politicized?], 4nspzo, 1465800533.0, 28
+183, [What's worse: citizens on welfare or increasing minimum wage?], 3ulmf5, 1448757664.0, 136
+184, [Hillary Clinton's Email Scandal], 4423jv, 1454565171.0, 115
+185, [Hillary Clinton is often described as a "moderate" or "centrist." Does the evidence support this?], 4u2mwk, 1469221289.0, 430
+186, [Has the "natural born citizen" clause outlived its purpose?], 41s86s, 1453286077.0, 72
+187, [Why does the corporate income tax exist at all?], 4eujiu, 1460714115.0, 28
+188, [Should we have less philosophers and more welders?], 3sogl3, 1447462132.0, 118
+189, [If the Constitution is not a living document, do women have constitutional protections?], 45oy41, 1455459468.0, 51
+190, [[Announcement] Live fact-checking thread tonight for US presidential debate], 58djsx, 1476948380.0, 364
+191, [To what extent is Hillary Clinton to blame for the Benghazi attacks?], 4b9cy7, 1458537807.0, 151
+192, [What are the implications of Hillary Clinton's foreign policy principles in Syria and their effect on the American-Russian relationship? How do they differ from Obama's?], 56vrsv, 1476179994.0, 287
+193, [Does politicians in other countries join political parties early?], 48y3h0, 1457138599.0, 18
+194, [Is politics finally starting to catch up to internet subculture?], 52no7f, 1473838944.0, 210
+195, [How seriously should we take 538's election forecast?], 4thzvw, 1468912675.0, 80
+196, [Cruz's Five for Freedom], 49yxld, 1457734222.0, 169
+197, [Thoughts on the DNC Platform calling for Justice Dept. to investigate fossil fuel companies.], 4qaakv, 1467159940.0, 11
+198, [Pete Davidson from Saturday Night Live (where Donald Trump recently guest hosted) claims that Trump "doesn't really know how to read". Could this feasibly be true? Is there any evidence for or against this claim?], 3tw29k, 1448274451.0, 0
+199, [Have we been getting less corrupt?], 4ftgdw, 1461280988.0, 167
+200, [If the Russians are behind the DNC email leak, have they necessarily done anything illegal/against international law?], 4vi7yj, 1470017326.0, 205
+201, [Is populism good or bad?], 3x8j01, 1450401822.0, 65
+202, [[META] What Are You Watching? Week of 10/17], 580dan, 1476773011.0, 99
+203, [There have been continued discussions among Republicans on stopping Trump, should the party attempt to stop him or simply embrace him for the general?], 4jg6xy, 1463349509.0, 138
+204, [Why wasn't the US as effective in Afghanistan as it was in Japan after WWII?], 4jh9so, 1463365328.0, 126
+205, [Just became a citizen. Would like to vote], 4b8lj4, 1458526661.0, 217
+206, [To what extent is a third party vote a vote for Trump or a vote for Clinton?], 5a7556, 1477877601.0, 23
+207, [Is Donald Trump a liberal?], 4banzf, 1458558653.0, 18
+208, [Could A Chemical Or Biological Attack Perpetrated By The Islamic State Justify The Use of Nuclear Weapons?], 3w6d0g, 1449750596.0, 19
+209, [Why don't European countries contribute more money to NATO?], 4qzasz, 1467526471.0, 121
+210, [If all NATO members have committed to reaching target defense spending within the decade, then why are American politicians and pundits still criticizing them for not pulling their weight?], 4rd6oa, 1467760921.0, 121
+211, [Would Turkey Be Justified in Kidnapping or Drone-Killing Fethullah Gulen in Pennsylvania?], 4tfffg, 1468880774.0, 518
+212, [A discussion on the abandonment of neoliberal economic theory by both parties during the 2016 primary season], 459d33, 1455234166.0, 201
+213, [What would be required for substantial primary reforms?], 4gu5rr, 1461881684.0, 181
+214, [How far did the 'war on terror' contribute to the rise of Islamic extremism?], 4ah398, 1458047665.0, 11
+215, [Requiring links in top level replies], 46n6gy, 1455949585.0, 174
+216, [What are potential & likely outcomes to the problem of a state having zero companies willing to participate in the ACA Healthcare Exchange?], 4jqx3y, 1463520875.0, 5
+217, [How is Turkey opening its Syrians border in Aleppo beneficial?], 44mljc, 1454895735.0, 6
+218, [If Hillary is indicted before the nomination, how would that effect her campaign and the primaries? What if she's nominated first, or president-elect?], 48oyxo, 1456989544.0, 36
+219, [Did the Bush administration ignore warnings about 9/11?], 447jip, 1454651169.0, 34
+220, [How long should convicted rapists be sentenced?], 4muy5v, 1465272156.0, 177
+221, [Why don't we use Instant Runoff Voting (IRV), or what are the disadvantages?], 4afpym, 1458026563.0, 35
+222, [How accurate is The Young Turks assertion that Bernie Sanders would do better than Hilary Clinton in General Election with Donald Trump?], 4irta1, 1462947980.0, 95
+223, [What are the pros and cons of eliminating federal agencies? (EPA, Dept. of Education, Energy, Commerce, Agri, etc.)], 3s3tyy, 1447080879.0, 68
+224, [UBI as proposed by Charles Murray], 4ude2j, 1469400506.0, 100
+225, [How likely is it that either Trump or Clinton end up not winning the primary? Are there historical examples of front runners with a large margin after Super Tuesday not winning?], 48u2mu, 1457068598.0, 35
+226, [Why don't Minority groups Support Sanders?], 43tqzc, 1454439528.0, 101
+227, [What can Hillary Clinton and the DNC realistically do to convince "Bernie or Bust" supporters to vote for her?], 4uyds0, 1469700927.0, 15
+228, [Live AMA with Iran Expert from the Brookings Institution on /r/Geopolitics], 48by0g, 1456803238.0, 13
+229, [What makes some peaceful protests successful and some not so much?], 4rblo5, 1467733494.0, 63
+230, [How does one read and interpret Senate and Congress transcripts?], 4pcxjo, 1466657147.0, 1
+231, [If both Trump and Sanders decide to run as Independant in the General Election, what does that look like and who wins?], 48nn5i, 1456974335.0, 1
+232, [Which of the remaining states are favorable for Bernie Sanders], 49df7z, 1457397305.0, 56
+233, [Hillary Clinton is often referred to as the "Presumptive Nominee" for the Democratic party. At what point, if any, does Trump become the Republicans' presumptive nominee? Are we already there?], 48m5q9, 1456954758.0, 353
+234, [The Trump campaign has details of the proposed boarder wall payment strategy. Is there any precedent for a policy like this? Will any parts need congressional approval? What types of out comes could be expect if implemented?], 50o2p7, 1472776178.0, 394
+235, [How serious are the accusations that Hillary Clinton silenced and damaged the reputations of women who alleged sexual misconduct by Bill Clinton?], 56lx7n, 1476043676.0, 206
+236, [Why would a 'super delegate' pledge their support before the convention?], 49r3b9, 1457599164.0, 231
+237, [Which nonprofits and organizations support the Trans Pacific Partnership (TPP)?], 4x33qi, 1470876746.0, 151
+238, [How should we regulate political speech?], 49pm9t, 1457579981.0, 68
+239, [Hillary Clinton's Calls for Rule Exemption for Small Banks], 4zkqos, 1472186570.0, 245
+240, [What is the neutral approach to addressing sexual assault allegations made against both Bill Clinton and Donald Trump?], 57axd8, 1476402383.0, 305
+241, [Do caucuses or primaries favor Hillary Clinton?], 486q0c, 1456729959.0, 116
+242, [Is this election an [almost] perfect storm for a perfect a third party candidate? Or at least record-breaking voting for a third party candidate.], 4i8aln, 1462616695.0, 305
+243, [Why did Republicans/pro-life supporters oppose Trump's comments about punishing women who get illegal abortions?], 4dh642, 1459902121.0, 394
+244, [Rising mortality among middle age white males in the US: what are the causes and what can/should be done?], 3rmzc8, 1446766191.0, 105
+245, [Trump's tax plan: Does it actually raise taxes on the middle class?], 55xtwu, 1475670767.0, 283
+246, [[META] Announcing an AMA on Tuesday, April 12th at 12:00pm ET with Edward Alden of the Council on Foreign Relations], 4e3ruo, 1460276525.0, 119
+247, [If the UK leaves the EU, what is the likely effect upon the US?], 4g3xqb, 1461454614.0, 48
+248, [Who would be the best choice for Trump's running mate/VP?], 493sgj, 1457234935.0, 49
+249, [Could this be a reasonable way to make inferences on the efficacy on Bernie Sanders' $15 federal minimum wage plan?], 478zbt, 1456292775.0, 23
+250, [[META] New ban policy], 4cxs5o, 1459570029.0, 376
+251, [The Rise of Authoritarianism and Populist Strongmen], 4u78ts, 1469287099.0, 74
+252, [Should the media in the US be more regulated?], 4a6o4n, 1457865087.0, 321
+253, [Can Anyone Give a Reasonable Critique of Bernie Sanders's Economic Plans?], 3uej9r, 1448609127.0, 124
+254, [If the Equal Rights Amendment had passed, how would certain gender related laws and policies today be different?], 4c2um2, 1459054639.0, 92
+255, [Which party makes the stronger case (no pun intended) for this election year Supreme Court vacancy?], 4ap743, 1458182736.0, 164
+256, [A Quality Conservative Podcast?], 4xhnty, 1471092262.0, 358
+257, [What countries have the best constitutions?], 46ysno, 1456138321.0, 172
+258, [How does the k-12 academic curriculum in the United States compare with that in foreign countries? Are there lessons that can be learned?], 4963fa, 1457271641.0, 126
+259, [Why is it that Republican politicians typically have weaker fact-check records than Democratic politicians do?], 4uxmns, 1469690639.0, 162
+260, [If Hillary Clinton is nominated, and then gets indicted, do the Democrats have a mechanism of nominating another candidate?], 48uz2u, 1457081559.0, 84
+261, [Why isn't Bernie Sanders doing well with black voters?], 472fj6, 1456197439.0, 631
+262, [Is there a net benefit to having an "outsider" as President?], 4fz515, 1461370263.0, 191
+263, [Will another candidate enter the Democratic Primary in weeks to come? Whom do you theorize is most likely to enter the race?], 464oty, 1455686803.0, 6
+264, [In practice, how do campaign donations translate into benefits for donors?], 42g9m8, 1453678555.0, 7
+265, [How controversial is Hillary's pick of Ken Salazar as the Head of her Transition Team?], 4ye6f6, 1471576676.0, 265
+266, [The Atlantic "...the preponderance of Middle Eastern violence in recent decades has been perpetrated not by Islamists but by secular autocrats against Islamists."], 4oh9gq, 1466161928.0, 26
+267, [What are the implications of Nevada on the overall national outlook for both candidates?], 46tc8r, 1456050843.0, 23
+268, [/r/NeutralPolitics hits 70K subscribers], 4mnk2x, 1465164922.0, 277
+269, [By popular demand, we have relaunched /r/NeutralNews!], 4o2olv, 1465955579.0, 1287
+270, [Tax Policy Center releases analysis of Clinton tax proposals], 4aztja, 1458357962.0, 175
+271, [If Bernie Sanders loses Iowa, does he stand a chance?], 435ccr, 1454043949.0, 167
+272, [Happy belated 75k subs, NeutralPolitics! To celebrate: an all-week AMA with the NeutralPolitics mod team!], 4sae04, 1468264288.0, 267
+273, [What methods of resolution are available to the parties in the South China Sea dispute?], 50bsma, 1472601019.0, 171
+274, [Bernie Sanders is currently losing in superdelegate count (Hillary's 457 to Bernie's 22). What does it take to get superdelegates to switch sides?], 48o3cs, 1456978569.0, 41
+275, [How many times have Democrats reopened investigations?], 42zv2x, 1453959681.0, 134
+276, [Was George W. Bush really such a bad president?], 43wxy5, 1454484344.0, 688
+277, [How important is it for national leaders to prioritize practical solutions to major issues? What are some reasons which justify or condemn the practice of enumerating and offering empathy for problems without offering a solution?], 3va3kp, 1449179827.0, 76
+278, [Bernie Sanders vs. Verizon: Who is right?], 4eulkz, 1460714959.0, 349
+279, [What would be the upside of a national firearm registry?], 43ezq9, 1454203994.0, 38
+280, [Does the United States Military budget need to be decreased or increased, and why for either?], 4pqcox, 1466847037.0, 47
+281, [Should the US utilize its resources such as Norway and other nations do to meet budget needs?], 4bk87c, 1458721232.0, 44
+282, [What do protests actually achieve (if anything)?], 48wzdp, 1457120228.0, 149
+283, [What alternatives for a fair redistribution of districting have been proposed to counter gerrymandering?], 57ggkc, 1476482099.0, 312
+284, [Are "Red" or "Blue" states "better off", and would any increased beneficial metric be more circumstantial or more due to specific policy?], 4sevdt, 1468321138.0, 9
+285, [Why do you think that people vote for the 3rd Party?], 48p6uc, 1456992648.0, 10
+286, [When Obama was elected, I felt that the US had achieved a major milestone in terms of overcoming racial divides, and that race relations would only continue to improve. It seems that race relations have only deteriorated, especially over the past few years. Why do you think this is happening?], 3saku0, 1447204064.0, 260
+287, [Discussion Post: Tim Kaine Selected As Clinton's Running Mate], 4u5u79, 1469262124.0, 332
+288, [To what extent could judicial appointments impact the 2nd amendment right to bear arms?], 4x5olu, 1470909050.0, 129
+289, [Which Democratic presidential candidate will fare better with a Republican Congress?], 41wo6l, 1453356671.0, 67
+290, [How analagous is 19th-20th century anarchism to the modern islamist terror phenomenon?], 4t7txn, 1468752693.0, 194
+291, [Why is Trump doing so much better in the tracking polls than standard polls?], 58vq93, 1477205787.0, 455
+292, [To What Extent Should Private Religious Schools Allow Modification of Science, History, Medical etc. Standards in Schools and Allow Modified Grading?], 40fbjl, 1452519236.0, 92
+293, [Trump attacking the judge, naming the people suing him--is that illegal?], 4m1mp8, 1464821700.0, 28
+294, [Which Third Party would come out on top?], 4c68c8, 1459126384.0, 160
+295, [[META] r/NeutralPolitics is looking for new mods], 4xowjy, 1471222298.0, 192
+296, [Nearly 90% of Americans believe that the Iraq war played a role in today's refugee crisis. Are they right, and should the answer to this question affect America's policy towards refugees from the Middle East?], 4rafxl, 1467712979.0, 84
+297, [What is the most accurate description of ISIS's motivation for their Paris attack?], 3sxjlc, 1447646668.0, 63
+298, [What can the President do?], 3yljr6, 1451382285.0, 48
+299, [How does the Obama Administration's record on appointing donors and bundlers to government positions compare to Reagan, Bush 1&2 and Clinton administration.], 52qvxm, 1473894048.0, 385
+300, [How does the world view Hillary Clinton as a candidate for president of the US?], 4shtdu, 1468368854.0, 19
+301, [What evidence is there for corporations bringing back offshore assets when corporate taxes are lower/lowered?], 4dsb4q, 1460081197.0, 18
+302, [How do the Hamas control Gaza?], 4l516j, 1464294217.0, 108
+303, [Did Ben Carson lie about West Point?], 3rxofv, 1446961858.0, 132
+304, [What political currency could Sarah Palin bring to the Trump campaign?], 41vw3i, 1453346615.0, 37
+305, [What is the Obama Administrations record on prosecuting corporate and banking crimes?], 53rhlt, 1474460552.0, 61
+306, [Is there a name for the "myopia" or "red/blue shift" of the political spectrum?], 3ugnwc, 1448658343.0, 62
+307, [Is the Georgian solution an effective one to corruption?], 4sn2dj, 1468444249.0, 147
+308, [Is there evidence that public political figures should avoid rhetoric that encourages "stochastic terrorism"?], 4xa1wc, 1470975284.0, 49
+309, [Harry Reid has accused James Comey of violating the Hatch Act. Is there a strong case to be made for this? Is there solid evidence for the Trump Campaign - Russian Actor allegation?], 5afc3n, 1477980272.0, 45
+310, [How do the benefits of free trade stack up to its costs?], 3tmltd, 1448090058.0, 28
+311, [What's the expected value of your vote?], 55f30h, 1475383426.0, 163
+312, [I'm not strictly aligned with either U.S. political party. Why can't the Republicans put forth a candidate in recent years that appeals to voters like me?], 43focv, 1454213088.0, 287
+313, [Is there any truth to the claims in this article regarding electoral fraud and exit poll discrepancies?], 4h0t3b, 1461983502.0, 147
+314, [How relevant is a presidential candidate's medical history/state, and to what extent do the electorate have a 'right to know' about that history/state?], 52osvr, 1473855337.0, 39
+315, [Stop and frisk: is it effective? Should it be legal?], 4y5xb9, 1471473444.0, 264
+316, [Why are countries in the Southern Cone of South America so much better than the rest of Latin America or the Caribbean?], 4bzzag, 1458995788.0, 101
+317, [Is Peak Oil a serious threat? If so, should politicians respond? How would they respond?], 54ijdw, 1474885858.0, 190
+318, [Liberal seeking centralization], 447chw, 1454648744.0, 10
+319, [Why attack France?], 3st4gz, 1447556377.0, 9
+320, [Is there merit to claims that the Clinton Foundation exists to provide favors for donations? How do we evaluate these claims?], 4x947n, 1470964553.0, 211
+321, [[META] AMA TOMORROW at 12:00pm ET with Edward Alden of the Council on Foreign Relations], 4ec8om, 1460430785.0, 96
+322, [Is Turkey really supporting ISIS? If so, how is supporting ISIS good for Turkey's national interest?], 3xze2l, 1450920181.0, 110
+323, [What was the cause of the discrepancy between exit polls and actual vote totals in the Democratic primary?], 4vovme, 1470115376.0, 27
+324, [Live AMA on weapons-making manuals and freedom of speech, on AskHistorians!], 47xy3n, 1456635221.0, 32
+325, [How do Clinton and Trump differ in regards to war and external intervention?], 4tyh1u, 1469154765.0, 228
+326, [What the heck happens in a Trump / Sanders / Bloomberg 3 way?], 42mlng, 1453772337.0, 167
+327, [How will Bernie prevent colleges from raising tuition fees, knowing that the government will pay for it?], 46r05m, 1456017938.0, 429
+328, [Looking for a pre-2007 biography of Clinton], 441tmu, 1454561723.0, 75
+329, [Is a One State, Two-State or Three State solution better for solving the Israeli-Palestinian conflict?], 3ron1v, 1446789486.0, 67
+330, [Can we combat terrorist groups like ISIS with renewable energy?], 3w6of2, 1449755872.0, 88
+331, [Are tax credits a better method of reducing inequality than higher minimum wage?], 3txz2e, 1448316720.0, 102
+332, [Free or reduced cost of college has been a major theme this election season, which some claim would actually devalue existing degrees. Is there any evidence for this view? And are the other benefits worth it?], 4j29jk, 1463108443.0, 263
+333, [Did Thatcher improve the situation in the UK for women?], 4rzm4a, 1468084491.0, 99
+334, [Which party does the fight for the nomination of the supreme court benefit?], 47p23t, 1456523010.0, 104
+335, [What influence does the president have over the Dakota Access Pipeline?], 51vgf0, 1473421601.0, 145
+336, [Should Democratic and Republican National Committees give more primary delegates to swing states?], 48e2o4, 1456828871.0, 21
+337, [Why do developed nations not target each other citizens with advantageous immigration policies?], 43wg8o, 1454477948.0, 20
+338, [Was the Tea Party really born of disdain for the establishment? If so, why the conservative ideology and hatred of Obama?], 45lxhs, 1455417808.0, 55
+339, [Why is the income of illegal aliens prorated (partially ignored) when considering household eligibility for the SNAP (food stamps) program? What kind of effect on our taxes, economy, and society does this provision have and is it a net positive or negative overall?], 57k8ob, 1476529140.0, 105
+340, [How feasible is a universal healthcare system in the United States?], 3x6b1h, 1450356116.0, 104
+341, [Does TTIP threaten the NHS?], 4g3o5f, 1461450478.0, 92
+342, [How has social media affected the 2016 campaigns?], 4991ez, 1457325494.0, 118
+343, [What Policy changes can be made to reduce extreme polarization and promote cooperation between the democrats and republicans?], 512odc, 1472995076.0, 64
+344, [Should world leaders use the phrase "Radical Islam" when discussing IS influenced terrorist attacks?], 4nwozs, 1465867371.0, 249
+345, [Why is the NYT delegate count different then that of RealClearPolitics or even a Google search?], 4gmsa4, 1461758216.0, 190
+346, [Does a flat tax work? What would its effects be on the US economy?], 3ti79p, 1448008193.0, 133
+347, [Help with definition of some US political terms, their casual applications and the consequences thereof], 3sks52, 1447389522.0, 11
+348, [What are if any of the negatives of TPP on a large Scale.], 4g51xg, 1461470929.0, 67
+349, [Bernie Sanders wins Michigan in large polling upset. What advantages and disadvantages does this actually mean for the Democratic primary candidates.], 49mvy5, 1457533917.0, 349
+350, [Why is terrorism so high on US priority list?], 4lr6mu, 1464665519.0, 364
+351, [Live AUA today with Carnegie India on India's Foreign Policy on /r/Geopolitics!], 4luyey, 1464726396.0, 44
+352, [Firms like Uber classify drivers as contractors, rather than as employees. Is this business structure legally legitimate, or merely an attempt to get around employment laws?], 4jxcps, 1463615738.0, 372
+353, [How (if at all) do non-us countries avoid the "spoiler" effect], 50nx2e, 1472774458.0, 23
+354, [Are immigrants really stealing our jobs?], 42rxlf, 1453850522.0, 167
+355, [Fact check Obama vs. NRA on gun control? (specific quotes included)], 4o9adj, 1466049272.0, 291
+356, [New NSA rules allowing intelligence sharing with FBI: Are they as bad as the media portrays?], 4aao0f, 1457941613.0, 165
+357, [Should the United States wage a ground war with ISIS? If so, how can we effectively stabilize the region after ISIS has fallen?], 3v6axf, 1449110100.0, 139
+358, [Are there American politicians who are left wing on a state level but against more federal governance?], 4znf9f, 1472225472.0, 58
+359, [could the devolved Scottish Parliament block Brexit? If so, what would be the implications?], 4pt4po, 1466900013.0, 231
+360, [What do the public and the government gain from foreign companies buying 'home' companies?], 4o11qb, 1465934307.0, 3
+361, [To what extent should schools be allowed to redefine information away from historical and medical accuracy in favor of teaching the school's philosophy?], 44obln, 1454917621.0, 3
+362, [The Clinton campaign has said that they won't consider another debate unless Sanders stops running negative ads. Does anyone know of any view-able on the web?], 4cd3sd, 1459241095.0, 35
+363, [I feel like there's strong support for Hillary Clinton and not very strong support for Bernie Sanders among the black community at large but I don't know much about Hillary's record with said black community. Is there a reason she has more support than Bernie?], 459qqy, 1455238550.0, 32
+364, [Introducing the new Neutral Politics sidebar], 442cjg, 1454568285.0, 33
+365, [Will Recent Court Decisions Pertaining to Voter Registration Laws in WI and NC Be Accommodated By The States in Question in Time for the 2016 Elections?], 4vfpvf, 1469969253.0, 128
+366, [How did the current US conservative and liberal platforms come to be?], 3sytlc, 1447666971.0, 24
+367, [Does the US' democratic republic require a classical education (or similar curriculum?)], 4xf286, 1471055674.0, 129
+368, [Is there any merit to denying the Armenian genocide?], 4m9u6o, 1464936211.0, 56
+369, [GOP declares pornography public health crisis as part of draft platform. What purpose does this serve?], 4sfb5h, 1468328231.0, 600
+370, [Antarctica gaining more ice: whats the implication on global climate change discourse?], 3ral6q, 1446543971.0, 45
+371, [Biggest differences between Sanders & Clinton?], 49upmc, 1457663020.0, 102
+372, [How legitimate are the grievances and methods of Black Lives Matter?], 3v0fwa, 1449015174.0, 257
+373, [Quick note of appreciation], 48nf7c, 1456971651.0, 174
+374, [Why is there so much more money from outside groups registering as "conservative" compared to those registering as "liberal" for the 2016 election cycle?], 49xuzr, 1457712728.0, 60
+375, [Does Equal rights for women include or preclude Selective Service registration? What is controversy surrounding this issue?], 47ma9a, 1456473161.0, 59
+376, [What are the merits and drawbacks of California Proposition 60, condoms in pornographic films?], 5a6u1h, 1477874049.0, 305
+377, [No fact-checking thread for tonight's debate], 56lznk, 1476045126.0, 666
+378, [Should France collect ethnic data of its citizens?], 4vcidj, 1469921433.0, 118
+379, [[META] AMA with Professor Andrew Bacevich. August 18th, at 2:00PM EST.], 4xvanu, 1471317727.0, 146
+380, [Is it common for state reps to run unopposed and how to solve this?], 4lydi8, 1464768135.0, 86
+381, [What will it take for a third party to gain 5% in the USA?], 49r7br, 1457600869.0, 24
+382, [[META] Welcome to all the new users. Please read this.], 4nczi4, 1465535853.0, 87
+383, [What are the pros and cons of Trump's healthcare proposal?], 48q10b, 1457002865.0, 85
+384, [Do we need to reform the student loan system in the US?], 3rt09i, 1446869768.0, 90
+385, [Do Unregulated Free Markets Work?], 4iwlce, 1463023080.0, 117
+386, [Seeking recommendations for political podcasts], 3tgbsk, 1447981324.0, 45
+387, [[META] How are we doing?], 4ijohi, 1462831486.0, 287
+388, [Rojava: Northern Syria has apparently been taken over by Kurdish, militant feminist anarchists. What is the US government's position on this group? Who supports and does not support this group?], 4jykwt, 1463629942.0, 22
+389, [What are the specifics of David Duke's positions?], 4verf2, 1469952903.0, 14
+390, [Is it right to attribute the violence of bad actors to rhetoric?], 4shh0n, 1468365118.0, 15
+391, [What would happen if both Sanders and Trump got nominated? Who would be more likely to win the support of undecided voters?], 45nx3k, 1455442737.0, 13
+392, [Is Escalation in the Middle East Inevitable?], 3rxzll, 1446966830.0, 12
+393, [Sanders "Liberal Elite" Vote Rhetoric], 48mtpj, 1456964326.0, 52
+394, [[META] What Are You Reading? Week of 10/28], 59tqpe, 1477679892.0, 120
+395, [What is the most effective healthcare policy? Is single-payer all it's cracked up to be?], 42nl93, 1453783295.0, 63
+396, [Is Gov. Rick Snyder actually to blame for the Flint water crisis and should he be put in jail?], 41gqfe, 1453111412.0, 225
+397, [What are the causes behind significant rises in ACA premiums?], 52195c, 1473505638.0, 122
+398, [Why do Senators Sanders and Cruz have zero endorsements from fellow Senators?], 49kpxt, 1457501914.0, 108
+399, [Where to for digital journalism and internet discussion?], 41o1nt, 1453228631.0, 37
+400, [What has been the impact of Rubio's New Hampshire debate fluke so far?], 47ueph, 1456598375.0, 25
+401, [What value do grand juries currently provide?], 50u144, 1472861866.0, 158
+402, [[META] r/NeutralPolitics is going into lockdown mode and restructuring], 4cxx7m, 1459571482.0, 300
+403, [What are the best politics-related accounts or news channels to follow on Twitter?], 4g3r3c, 1461451747.0, 51
+404, [Evaluation of this criticism of Sanders' tax plan], 4ckzoh, 1459376947.0, 333
+405, [What public health policies address availability of timely treatments?], 4gfeq9, 1461646750.0, 80
+406, [What implications does the US national report submitted to the Human Rights Council and Universal Periodic Review have on the upcoming election and our conversation on human rights?], 547asq, 1474697583.0, 38
+407, [Are there any sources that factor in the Electoral College when projecting the US general election at this stage of the primary process?], 4c3egk, 1459063623.0, 38
+408, [Hello Reddit. I am Andrew Bacevich. AMA.], 4ybzlc, 1471552241.0, 163
+409, [[META] Introducing the new mods!], 4zrnrh, 1472284640.0, 51
+410, [[META] Changes], 4jr3kb, 1463523224.0, 212
+411, [What is the environmental impact of the Keystone XL pipeline and why was it so disputed?], 490m3t, 1457173313.0, 13
+412, [Texas is instituting a law to allow weapons on university campuses. Is this going to have an effect on safety? Will the effect be positive or negative?], 4vjw0k, 1470040074.0, 146
+413, [What are the best sources for moderate political commentary?], 3yhq1e, 1451312246.0, 82
+414, [Help finding a subreddit where political ideas can be discussed], 4rf882, 1467785900.0, 3
+415, [Should the composition of UN Forces be re-evaluated to include more US soldiers?], 4q4cw6, 1467075227.0, 2
+416, [To what extent can unions be thought of as cartels?], 49w4ct, 1457681342.0, 4
+417, [What would Bernie's education plan mean for private universities?], 47flu2, 1456382771.0, 4
+418, [Is Iran a threat?], 3rxl70, 1446960416.0, 39
+419, [What reformative steps, if any, legislative or otherwise, can the United States take to resolve the growing rift between citizens and their perception of police?], 4vijro, 1470021578.0, 100
+420, [What are the pros and cons of California's propositions on death penalty reform?], 583kwl, 1476823731.0, 235
+421, [[META] New rules regarding sources], 4wafhz, 1470433185.0, 163
+422, [What role should nuclear power play within the United States? What does this current election cycle mean for the nuclear industry?], 4bxjnj, 1458957174.0, 236
+423, [What are the best ways to reform education?], 4lwe05, 1464744448.0, 151
+424, [Innovative Policy Series - Utah's Four Day Workweek!], 4nc7um, 1465526179.0, 183
+425, [What would the effects be on military recruitment if Bernie Sanders free college plan was instituted?], 4abvy6, 1457963066.0, 117
+426, [Is there truth to the assertion that Bernie Sanders' economic policies will increase the velocity of money?], 4jyfjx, 1463628250.0, 44
+427, [Are patents good or bad for innovation?], 4k2bcj, 1463691342.0, 222
+428, [Why has Israel established settlements in the West Bank and Golan Heights in spite of opposition from major nations and the UN Security Council?], 4p7pyw, 1466581419.0, 135
+429, [What is the best course of action for those of us who want to end a "first past the post" electoral system?], 4nqhc0, 1465771047.0, 513
+430, [Professional/Practical, educational and geographic backgrounds of SC justices: should the court make-up be less homogeneous on these fronts? Are they important/meaningful considerations or peripheral concerns?], 4bwg10, 1458941342.0, 70
+431, [AMA Announcement: Josh Blackman, Constitutional Law and Healthcare Law expert.], 53esqv, 1474270407.0, 134
+432, [What are some must read books?], 3tulle, 1448251701.0, 105
+433, [Should Us Citizens Support The 800 United States Military Bases Around the World?], 40znj5, 1452834792.0, 154
+434, [Is there a real possibility that the RNC nominates someone other than Trump?], 4sashw, 1468270824.0, 17
+435, [Why are politicians allowed to campaign and fundraise for future campaigns while they are still in office?], 4rk8kq, 1467861503.0, 13
+436, [Is it a good idea to allow the US Federal Reserve to be audited by Congress?], 44v86e, 1455025405.0, 15
+437, [[META] Welcome, new subscribers!], 463rx9, 1455675629.0, 227
+438, [What would a revitalized Republican party look like?], 48yovv, 1457146375.0, 42
+439, [How can a city mitigate the effects of inequality and gentrification during a period of economic boom?], 4hl5se, 1462270569.0, 120
+440, [Tax analyses on both Clinton's and Sander's tax plans have been released by the non-partisan Urban-Brookings Tax Policy Center. How do you think this will effect the primary and/or general election?], 48yt64, 1457147898.0, 322
+441, [Is Trump's proposed nuclear policy a substantial departure from current policies? If so, how substantial?], 552la3, 1475190260.0, 67
+442, [In democratic elections how influential is the placement of candidates on ballot forms?], 4qa2t3, 1467157491.0, 228
+443, [What are some arguments for and against the US's decision to spend so much on defense, and have military bases around the world?], 57sm6k, 1476669202.0, 320
+444, [Gun laws during President Obama's term; what has been, and what should have been, the role of the different Congresses?], 3zwu14, 1452221024.0, 83
+445, [[META] Reminder: we reject submissions that are requests for predictions], 4knwqg, 1464038696.0, 206
+446, [I am interested in a general discussion about Merrick Garland's nomination to SCOTUS.], 4apo61, 1458189125.0, 247
+447, [How much stock should be put into sites like iSideWith.org?], 49j0mg, 1457480455.0, 289
+448, [Breaking down the Iowa Caucuses by Demographics - is Sen. Sanders about to run into a demographic wall?], 43xq9o, 1454495380.0, 247
+449, [Does Clinton's $30bn coal mining community plan actually win her any voters?], 474ty6, 1456228664.0, 26
+450, [Scalia's death: what does the vacancy mean for the US Supreme Court?], 45n4w1, 1455431820.0, 424
+451, [In what way, with evidence, has there been fraud in the democratic primary?], 4n6qeg, 1465441476.0, 446
+452, [One year after the Iran Deal, in what ways is the world better and worse off?], 505hqf, 1472512476.0, 326
+453, [What changes to space law would we need to colonize Mars?], 4mgt4g, 1465043641.0, 155
+454, [The US is $~19 trillion in debt. How big of a problem is this? How could the situation be improved?], 4rwhi6, 1468035197.0, 57
+455, [What would happen if both Donald Trump and Bernie Sanders ran as independents?], 3wgj41, 1449913549.0, 140
+456, [Why don't the major parties leverage the so-called "spoiler effect"?], 4uwlp6, 1469678208.0, 215
+457, [New York Primary Results Megathread], 4fklqh, 1461139675.0, 272
+458, [What will happen with Sanders and the DNC's ruling in the coming weeks?], 3xerwe, 1450513251.0, 106
+459, [What does the latest Politico article on Hillary campaign's fundraising mean?], 4hjb78, 1462246008.0, 305
+460, [What are the pros and cons of a consumption tax compared to an income tax?], 4qoqt3, 1467358996.0, 195
+461, [What Strategies Should a Millennial Employ to Increase her Winning Chances at an Election?], 4tu6fj, 1469088125.0, 62
+462, [Has the economy improved or worsened in the last eight years, and how much of the blame/credit for that can go to Obama's administration?], 4v7m8d, 1469840590.0, 439
+463, [Scalia claimed in his 2015 Obergefell dissent that the legislature should be the source of these types of sweeping changes. How can the cultural right square Scalia's dissent with the NC bathroom lawsuit?], 4ik2ws, 1462836767.0, 44
+464, [The (US) labor force participation rate has been dropping since 2000 - is this a cause for concern?], 4u371p, 1469228775.0, 15
+465, [Can anyone recommend typical conservative radio shows?], 4tcgd5, 1468831068.0, 15
+466, [Does the US executive branch fundamentally have greater influence over foreign policy than it does over domestic policy?], 4ht2un, 1462367976.0, 17
+467, [What caused the fall of Salvador Allende and Rise of Pinochet?], 5abn29, 1477941128.0, 93
+468, [How would you patch the LLC Loophole?], 420kin, 1453420607.0, 92
+469, [What's behind the sudden narrowing in the polls between Bernie Sanders and Hillary Clinton?], 41caev, 1453038403.0, 124
+470, [Is high-speed rail a worthy project for America to pursue?], 4ykdqh, 1471659249.0, 418
+471, [Is there a consensus among economists about the effects of the minimum wage?], 3rl7vu, 1446726530.0, 111
+472, [The Democratic Party in Maine essentially abolished superdelegates recently. Why was this done, and is it a policy the entire party should adopt?], 4ipk2a, 1462920580.0, 318
+473, [What downballot (House, Senate, governor) elections in 2016 will have the most impact on voters?], 492oai, 1457218401.0, 146
+474, [What credible evidence is there that elections in the United States have been rigged?], 479gh4, 1456298487.0, 127
+475, [Three followup questions from the James Comey Congressional Hearing], 4rre7f, 1467960306.0, 45
+476, [Why has the Turkish military decided to initiate a military coup in Turkey?], 4t17fn, 1468643723.0, 341
+477, [What are the pros and cons of Early Voting?], 4e82ob, 1460358257.0, 181
+478, [What are the pros and cons of Hillary Clinton's plan to impose an exit fee for companies that go overseas?], 4wt17y, 1470725888.0, 280
+479, [Can we compare and contrast the approaches to leadership styles of Clinton and Sanders? Which approach is more likely to lead to the types of changes Democratic voters are seeking?], 42y8hn, 1453940929.0, 75
+480, [Does Senator Sanders endorsement of Secretary Clinton matter substantially?], 4sj6ys, 1468384205.0, 125
+481, [What are the pros and cons of nuclear power?], 51zy0s, 1473487150.0, 94
+482, [Based on policy and their history, which of the current Republican candidates is most moderate?], 47kgbe, 1456453640.0, 165
+483, [Why did Donald Trump lose to John Kasich in Manhattan for the Republican Primary?], 4fmo2h, 1461175990.0, 260
+484, [[META] Announcing NeutralTalk, a companion sub to NeutralPolitics], 4cxvs8, 1459571066.0, 75
+485, [Live AMA with CFR's Director of the Center for Preventive Action], 43tcst, 1454429989.0, 5
+486, [Are millennials accurately represented in polling?], 4cgir4, 1459301694.0, 45
+487, [What books would you recommend that give a neutral view of political ideology in the modern world?], 48in6t, 1456895633.0, 41
+488, [If election day were a national holiday, which party would benefit more?], 41kgy1, 1453173586.0, 129
+489, [Has Ajamu Baraka ever recanted from saying MH17 was a false flag operation?], 4x29ss, 1470866675.0, 58
+490, [What is the difference between Single-Payer and Universal Healthcare? What are its advantages and disadvantages?], 43vlil, 1454467316.0, 61
+491, [Democratic National Convention Megathread], 4v2pfo, 1469765298.0, 92
+492, [What do reputable economic studies predict would happen if we deported all the illegal immigrants in the US?], 476z4y, 1456268797.0, 229
+493, [Why has Oregon shifted from a 'Red state' to a 'Blue state' over the past 70 years?], 526mqs, 1473591322.0, 169
+494, [[AMA] Edward Alden, Senior Fellow at the Council on Foreign Relations], 4egkx6, 1460503515.0, 247
+495, [What caused the decline of crime in America during the 90s?], 4ox5y8, 1466428995.0, 29
+496, [How do Democratic senators win in states that are solid for Republicans, and vice versa, with the decline of split ticket voting?], 55kyz6, 1475480780.0, 210
+497, [7th Democratic Debate Megathread (Flint, MI)], 49a4es, 1457341335.0, 169
+498, [Why is China not on the G7?], 4l9h6o, 1464358089.0, 133
+499, [[META] Locking of the "Gold Star families" thread], 4vtb3g, 1470183909.0, 156
+500, [Tepid Tuesday Results Megathread], 49lbeb, 1457510011.0, 100
+501, [How concerning should Trudeau's proposed $29.4 billion deficit be?], 4bjotu, 1458713499.0, 278
+502, [Objectively speaking, what have been Barack Obama's successes as president? What have been his failures?], 44jl8u, 1454841959.0, 275
+503, [Is moving homeless camps a way for cities to lessen the number of homeless?], 4kepra, 1463883035.0, 158
+504, [12th Republican Debate Megathread (Miami, FL)], 49vyla, 1457679089.0, 157
+505, [Why did Jim Webb withdraw from the Democratic primary?], 4lnzkk, 1464612450.0, 65
+506, [Myanmar's Elections: What do they mean for the region's future?], 3t5rwj, 1447799433.0, 61
+507, [Reliable Sites], 4917ue, 1457184174.0, 33
+508, [Is there a good podcast or audio course where I can learn about American politics (the structure, elections, issues today- medicare, social security etc)?], 4ig6s3, 1462767876.0, 153
+509, [What podcasts do you enjoy the most?], 45134h, 1455109301.0, 117
+510, [What are the practical and hypothetical implications of the Obama Administration officially blaming Russia for interfering with the election?], 56fwq5, 1475938484.0, 136
+511, [[META] Important Reminder (or "Make NeutralPolitics Great Again")], 4276i8, 1453520484.0, 417
+512, [How will closing the loophole on slave produced goods impact the American and the global economy?], 47m8sy, 1456472610.0, 65
+513, [Hey NeutralPolitics! Let's talk about your favorite political theories and papers!], 4drl9h, 1460072247.0, 100
+514, [Why were Mike Huckabee and George Voinovich so successful with black voters and what can other Republicans do to replicate their success?], 4wc5di, 1470453896.0, 183
+515, [Live Brexit AMA with CFR's Paul A. Volcker Senior Fellow for International Economics on /r/Geopolitics!], 4p5zaz, 1466560810.0, 138
+516, [Given the presence of defectors leaving the west to join the Islamic State, should public education begin including counter-manipulation courses of some sort to avoid common recruitment pitfalls to protect people against induction into cults, and if so, how?], 41b4an, 1453018846.0, 36
+517, [How important are swing voters today, really?], 4upy65, 1469584420.0, 241
+518, [Corporate tax incentives and inter-state competition], 58jk31, 1477028331.0, 48
+519, [Future direction space policy after 2016 election ?], 4c4m7z, 1459086625.0, 50
+520, [Did Aetna do anything wrong by leaving the exchanges after threatening the DoJ?], 4y7hne, 1471489693.0, 121
+521, [What are the pros/cons of single subject rules? Should they be implemented at the federal level?], 4dvwd7, 1460142359.0, 106
+522, [Is there any evidence, in practice, which suggests that a tax on carbon will have wide-spread economic benefits?], 50h6gw, 1472679031.0, 245
+523, [[META] Happy birthday to NeutralPolitics!], 45urrg, 1455538857.0, 102
+524, [What are the pros and cons of the Standing Rock pipeline?], 5aezki, 1477976728.0, 462
+525, [What policy changes are needed to ensure the long-term stability of Obamacare?], 50hecc, 1472681884.0, 17
+526, [Alternatives to First Past the Post: Score/Range vs Instant Runoff Voting], 4pd3ci, 1466659218.0, 18
+527, [A bill has been proposed in the Senate to establish a federal smoking age of 21. What are the chances that it will pass?], 4892qa, 1456760053.0, 19
+528, [Why are many presidential candidates suddenly going by their first names?], 47946x, 1456294400.0, 70
+529, [What are some successful causes that Mitch McConnell has spearheaded?], 4aq0ro, 1458193943.0, 149
+530, [Longroom Polling: How accurate is it?], 4w6gbu, 1470369430.0, 6
+531, [Is Win For Life a proxy for Basic Income experiment?], 4q6fls, 1467099862.0, 6
+532, [Why does the European Union not have a streamlined system for identifying potential terror suspects?], 4pcssc, 1466655583.0, 5
+533, [Gun Control and the First Time Criminal], 4ob85u, 1466074260.0, 6
+534, [How if at all should financial regulatory policy change?], 4hxs2t, 1462440921.0, 7
+535, [The influence of superdelegates in the Democratic Party primary], 431tqa, 1453986200.0, 6
+536, [A recent outbreak of Yellow Fever in Angola has raised fears of global contagion. What should be done in the future to prevent such issues? Is the US at risk?], 4ivu6i, 1463014046.0, 164
+537, [If Trump and Clinton have record unfavorable ratings, why are they the frontrunner?], 4o7fd0, 1466027839.0, 105
+538, [What was the presidency of George W. Bush like before 9/11?], 48bb3o, 1456795672.0, 255
+539, [In an article this week, the NYT attributes Trump's popularity to poor voters' belief that the Republican Party has failed to represent their interests. Have the Democrats similarly failed to represent the interests of these voters? Or did they have other reasons for continuing to vote Republican?], 4cgk8n, 1459302219.0, 320
+540, [Every four years we discuss and fight over the parties' platforms, but then we never hear about them again. What difference do they make?], 4vshvt, 1470174322.0, 150
+541, [Can the government order a company to build something?], 468sud, 1455747327.0, 187
+542, [Innovative Policy Series - France's Anti-Food Waste Laws!], 4tty2f, 1469084938.0, 169
+543, [What are some policy solutions to our aging prison population?], 4op9pe, 1466297635.0, 128
+544, [Are there any constitutional provisions for a scenario where a major party candidate pulls out of the election?], 56kbmw, 1476008718.0, 37
+545, [Is torture justified, effective or even legal in the case of terrorism suspects?], 4dbkmi, 1459812715.0, 36
+546, [What are the pros and cons of foreign aid, philanthropy, and NGOs? Should it be further regulated?], 49mp9v, 1457530784.0, 35
+547, [Conservative vs neo conservative vs libertarian], 46wk2s, 1456108618.0, 36
+548, [What is Bernie Sanders' End Game?], 49cvqc, 1457390383.0, 50
+549, [How should we define the term war hawk? Which candidates fit the term?], 4gutes, 1461890176.0, 67
+550, [Recommendation for books on Conservatism and Libertarianism?], 407r4f, 1452397765.0, 71
+551, [Is there truly no alternative to F. Hollande in the left in France?], 4kthfj, 1464121280.0, 151
+552, [How important is manufacturing to the economy?], 4rjo7f, 1467855076.0, 88
+553, [Is there evidence to suggest the attempted Turkey coup was or wasn't staged?], 4td9rp, 1468843131.0, 353
+554, [How do we evaluate Hillary Clinton's tenure as Secretary of State?], 45g1yz, 1455330134.0, 71
+555, [Is it illegal to offer money, goods, or services on political party convention floor?], 4dwoah, 1460155241.0, 88
+556, [There have been persistent murmurs in the news that senior GOP officials are "exploring options" to replace Trump. Would the optics for this be better or worse than keeping Trump? What is the likely short-term election strategy and long-term party strategy behind this?], 4w0cxu, 1470281576.0, 21
+557, [What do you think of applying algorithms to politics?], 4h6cqh, 1462081475.0, 22
+558, [I know it's kinda late for this, but is there any chance we could some nonpartisan breakdowns of each candidate's views before Super Tuesday?], 48dvt2, 1456826134.0, 21
+559, [Is there evidence to suggest the larger reddit community has non-trivial political weight/leverage?], 4hwvt0, 1462428065.0, 54
+560, [Final Primary Megathread], 4n2375, 1465371735.0, 107
+561, [[Sixth Republican Presidential Debate thread]], 414lz0, 1452914430.0, 108
+562, [How feasible is it for Bernie Sanders to implement the substantially left leaning changes he promised as part of his election campaign, if elected president?], 3y7lth, 1451103105.0, 289
+563, [[Fifth Democratic Presidential Debate thread]], 449k3r, 1454681032.0, 110
+564, [How come Iceland turned into a "mess" after David Oddsson deregulated the financial industry? Can this be partially attributed to the sky high interest rates set by the federal reserve?], 3w2yaq, 1449702508.0, 73
+565, [Why hasn't ISIS attacked Israel?], 4p9qlh, 1466614919.0, 53
+566, [[META] Q&A about the approval process for submissions at /r/NeutralPolitics], 40n7vq, 1452646636.0, 52
+567, [Is there a "bipartisan" pro/con database/article for every (or most big) US Presidential candidates?], 3ua6om, 1448524734.0, 74
+568, [What are the pros and cons of 'ban the box' policies?], 4m8dxc, 1464918362.0, 199
+569, [Neutral description of left and right worldviews on ISIS.], 3vsdpa, 1449523717.0, 113
+570, [Second Democratic debate Megathread], 3sz6jv, 1447673267.0, 111
+571, [Influence of education on social mobility and equality appears very low. What now?], 57a4s9, 1476392637.0, 134
+572, [Arguments for and against Free Trade], 49cgcs, 1457383644.0, 132
+573, [What happened with the 2012 GOP Autopsy?], 4vzpus, 1470274476.0, 39
+574, [Is Trump's campaign in trouble, particularly from a financing standpoint?], 4p7tsy, 1466582840.0, 39
+575, [Have intelligence agencies become powerful enough that they could potentially engage in serious corruption or coercion of government officials?], 49vyvl, 1457679195.0, 34
+576, [Recommended books on international relations?], 4hs7rx, 1462354269.0, 90
+577, [What are the implications of the House Obamacare lawsuit?], 4j76im, 1463186409.0, 155
+578, [Is there a legitimate risk to allowing Syrian refugees into the United States? If so, what are they and how severe?], 3t7xjx, 1447829695.0, 224
+579, [How effective is phone banking?], 4a78e9, 1457876122.0, 20
+580, [Innovative Policy Series - Ontario's Municipal Appeals Board], 4z7ayb, 1471998137.0, 115
+581, [[META] Restructuring complete. r/NeutralPolitics has reopened for business.], 4dbsma, 1459815607.0, 74
+582, [Neutral book about Welfare, Entitlements or other social programs?], 4aoqqf, 1458176730.0, 97
+583, [Does war promote or prevent scientific progress?], 42eggm, 1453637597.0, 59
+584, [What does Taiwan's election of a independence-minded president mean for the country's future?], 41911l, 1452990106.0, 40
+585, [Is there historical precedent to "Breaking up Big Banks"?], 4dzi1s, 1460195376.0, 252
+586, [Does the recent DNC email leak provide sufficient evidence that the DNC was colluding against Sen. Bernie Sanders? And if so, what would be the implications of such collusion?], 4u54vm, 1469252273.0, 186
+587, [Can NATO enter airspace or waters of one of it's members against their will?], 4tfex9, 1468880591.0, 8
+588, [After Brexit: Must the UK negotiate access to the EU with the WTO? Is there another good option?], 4ptjfq, 1466905623.0, 6
+589, [Do the superdelegates in the democratic primary actually matter?], 4dku97, 1459958700.0, 256
+590, [What is the breakdown of US forces currently stationed in Iraq?], 4r8ft7, 1467684457.0, 121
+591, [How much stock should I put into websites like isidewith.com?], 3ur1ov, 1448856007.0, 97
+592, [[META] NeutralPolitics: Origins and Purpose], 4cxvz1, 1459571131.0, 117
+593, [What are the differences between Sen. Sanders and Trumps' campaign policies?], 463akd, 1455669940.0, 21
+594, [How do you think the 2/13 GOP debate went?], 45oh12, 1455451407.0, 22
+595, [Neutral (as possible) articles on Sanders VA controversy?], 459vg6, 1455239985.0, 22
+596, [What, if any, is the "free market" solution to the increase of drug/medicinal prices], 4za69n, 1472033042.0, 260
+597, [Large differences in regional voting power due to electoral college: explanation for differences in US politics compared to Europe? Impact on issues such as climate change?], 4bqd6j, 1458825582.0, 96
+598, [Labor protections in the United States are substantially slimmer than those in most European countries. Does this cause a measurable impact on the hiring practices in the U.S. compared to those in Europe?], 48u1a3, 1457068102.0, 215
+599, [Why aren't military generals/leaders serious presidential candidates anymore?], 4id9wq, 1462710802.0, 332
+600, [META: On the Meaning of "Neutral"], 4wwj5n, 1470782813.0, 804
+601, [AUA about the COP21 and Climate Diplomacy this Monday with the Carnegie Endowment for International Peace on /r/Geopolitics], 3wrj4a, 1450112779.0, 41
+602, [How can we best win the War on Poverty?], 3vfrxj, 1449278882.0, 100
+603, [Germany has pledged to accept a little over 50% of refugees from Syria, yet France would seem to be suffering from more ISIS retaliation. What is setting France apart?], 4v4eoc, 1469788401.0, 22
+604, [What is the purpose of "religious liberty" bills? How well would they stand up in court?], 4bozgj, 1458802833.0, 22
+605, [Are there good policies for reducing cigarette butt littering?], 4vv6q6, 1470205005.0, 41
+606, [How dangerous is anti-biotic resistance, and what should the government's reaction be to it?], 54dijx, 1474802609.0, 292
+607, [What are some fact-based pros and cons to the Legalization of Marijuana?], 53k6jk, 1474352473.0, 103
+608, [If the Republican Party is collapsing, how would a Trump nomination influence their political strategy?], 42slvc, 1453858349.0, 104
+609, [If a Republican captures the WH in November, what kind of policies can we reasonably expect to come forth for the next 4 (or 8) years?], 45b9ez, 1455255825.0, 153
+610, [How Realistic is this calculator Vox tax burden calculator], 4c2cy2, 1459047218.0, 127
+611, [Why is the two party system in the US so persistent?], 4afykn, 1458029987.0, 244
+612, [Announcing our Debate Fact-Checking Initiative], 548hi7, 1474715871.0, 744
+613, [Was the 2011 intervention in Libya justified?], 4o0wgk, 1465931523.0, 125
+614, [March (to) Madness  Northeast Primary Megathread], 4gloga, 1461742648.0, 63
+615, [Why are Green Parties consistently anti-nuclear?], 4nfh06, 1465578439.0, 609
+616, [How does the Brexit vote effect the TTIP?], 4qpbj8, 1467367206.0, 26
+617, [Could Britain join NAFTA?], 4pqhrz, 1466849244.0, 22
+618, [Following both the Sandy Hook and Orlando shootings, there are increasing calls for stricter gun laws. Would the Norwegian model be acceptable to americans?], 4o78ah, 1466025047.0, 25
+619, [What polls are used to check the 15% threshold to include a third party candidate in the major presidential debates?], 4i83kk, 1462613259.0, 24
+620, [Bernie and the Youth Vote], 484epz, 1456712047.0, 23
+621, [Do we have any evidence that the recent political hacks have been from Russia?], 52uj5c, 1473941824.0, 225
+622, [How would the US government go about breaking up big banks via Dodd-Frank?], 4v1yot, 1469756467.0, 10
+623, [Was an independent investigation ever held, looking into the Democratic Party's December data breach?], 4ptna1, 1466907128.0, 8
+624, [What can (or should) really be done about gun violence in America?], 4nvzfw, 1465858562.0, 8
+625, [What is the best approach to the ratings agencies?], 3zr4ec, 1452134067.0, 65
+626, [Are we anywhere near an objective, empirically tested theory that can predict how policies will impact the economy?], 448tmi, 1454669172.0, 42
+627, [[META] Stories Linked In Twitter], 43bgru, 1454138419.0, 44
+628, [David Cameron is currently coming under fire due to an offshore trust fund set up by his late father. Did he actually do anything wrong, or is this just political point scoring by the opposition?], 4du2mz, 1460104913.0, 282
+629, [Should the U.S. reconsider its alliance with Saudi Arabia?], 3zl4hg, 1452043363.0, 231
+630, [[META] NeutralPolitics traffic and submission statistics.], 4cxwow, 1459571330.0, 42
+631, [AUA this Thursday on all things Middle East with the Carnegie Endowment for International Peace], 3tey80, 1447955511.0, 45
+632, [Should civic education be improved in the United States? And if so, how?], 4514xc, 1455110082.0, 86
+633, [[META] Soliciting feedback on fact checking posts], 4x96n3, 1470965296.0, 110
+634, [How reliable is fivethirtyeight?], 43p8v1, 1454373494.0, 111
+635, [In Saturday's debate, host Martha Raddatz referred to encryption as " a new terrorist tool used in the Paris attacks." Is there any evidence that encryption was used in the Paris attacks?], 3xtl1n, 1450809752.0, 264
+636, [Iowa caucuses: Ted Cruz wins; Clinton, Sanders tied. O'Malley and Huckabee drop out. Who benefits most?], 43sry0, 1454418808.0, 317
+637, [[Eighth Republican Presidential Debate thread]], 44m8t1, 1454891151.0, 114
+638, [Have wages really been stagnant for years?], 49ny4w, 1457557273.0, 138
+639, [Is the US in the process a political realignment?], 4ajvss, 1458097239.0, 344
+640, [Political ignorance: implications, thoughts etc], 4bcscy, 1458603956.0, 162
+641, [On Super Tuesday, no incumbent House congressmen lost their primaries and many seats were uncontested.], 48q0kx, 1457002671.0, 473
+642, [Free Trade Policies], 4m73ks, 1464902274.0, 67
+643, [What Does NeutralPolitics Think of Realclearpolitics as a neutral source?], 42zpoi, 1453957964.0, 66
+644, [Why do Voter ID laws get deemed racist in America but they seem to be very common around the rest of the World?], 4vizh8, 1470027440.0, 24
+645, [[Question] If left-wing euroscepticism is a thing, why is the response to Brexit primarily divided along left/right lines?], 4plqgr, 1466783414.0, 27
+646, [Why wasn't the Iraqi Green Zone opened earlier?], 4jrlnz, 1463529467.0, 27
+647, [Why have U.S.-Chinese and U.S.-Russian relations become so tense and aggressive?], 4k5z77, 1463738087.0, 142
+648, [AUA on the Refugee Crisis with the Carnegie Endowment for International Peace's Beirut and Brussels Centers on /r/Geopolitics], 518yev, 1473103000.0, 44
+649, [If Rubio drops out, how likely is it that he endorses Ted Cruz, and how likely is it that his committed delegates switch to Cruz?], 49dmx6, 1457399880.0, 324
+650, [Why were only 34 delegates awarded in Washington?], 4eqych, 1460666778.0, 193
+651, [What is the impact that universal healthcare would have on healthcare jobs?], 44s90o, 1454985059.0, 69
+652, [Is this roughly the Democrats' position on immigration?], 4a72d7, 1457872589.0, 9
+653, [What are the pros and cons of a Election Threshold], 45qceo, 1455481998.0, 10
+654, [What do you think about how the terms of Republican Primary debates are negotiated? Is it reasonable for the candidates to try to negotiate directly with the hosting outlet, or should the party maintain control?], 3sb97p, 1447213365.0, 9
+655, [Should America move away from a First Past the Post voting system?], 4acaiy, 1457972967.0, 508
+656, [Why did so many states become "red" or "blue" in 1992, 1996, and 2000?], 50whse, 1472892639.0, 191
+657, [What is "ideological colonization" and how is globalization actually affecting "gender choice"?], 4w3pmm, 1470331499.0, 44
+658, [Are generational differences real? Do arguments based on them hold weight?], 4bbd7s, 1458574000.0, 67
+659, [Bloomberg considering a White House bid, how would it affect the race?], 42bukw, 1453600353.0, 115
+660, [How does the Philippines' potential "separation" from the US affect the power dynamics in Asia and the dispute over the South China Sea?], 595066, 1477350617.0, 337
+661, [How democratic is Pakistan? And how much will its infrastructure grow in a decade?], 4c4q2p, 1459089318.0, 71
+662, [Can we get an unbiased look at GA House Bill 757, the Free Exercise Protection Act?], 4bpz8r, 1458817948.0, 70
+663, ["War on x" rhetoric: what is it good for?], 3vhpiw, 1449308709.0, 70
+664, [In an interview with the New York Times, Trump claims that the United States is not required to uphold NATO, arguing that it is an outdated alliance. Is this true?], 4u2uum, 1469224457.0, 142
+665, [If you were dictator of Mississippi, how would you fix the state economic problems?], 47gcnt, 1456391333.0, 200
+666, [Is the UK now committed to leaving the EU?], 4pp3y9, 1466829783.0, 227
+667, [How related is the drop in crime with the incarceration rate in the US?], 4sldbn, 1468413910.0, 94
+668, [Welcome new visitors! Please read this.], 447nr3, 1454652662.0, 148
+669, [What can be done to fix Venezuela's economic crisis?], 4lb0d8, 1464388608.0, 50
+670, [Is the nationalization of an industry ever appropriate? If so, when can it be beneficial, and for what industries is it appropriate?], 43vtwf, 1454470203.0, 95
+671, [Ides of March Primary Results Megathread], 4akv8o, 1458110253.0, 71
+672, [What solid red/blue states could flip their vote in the 2016 US general election?], 4ccnt4, 1459234526.0, 94
+673, [[META] r/NeutralPolitics has six new mods], 4e0b31, 1460212019.0, 53
+674, [Globalism, Brexit and the rise of populism  Is there another path?], 4q447n, 1467072528.0, 512
+675, [What are the pros and cons of Britain leaving the EU?], 4oydqm, 1466452668.0, 291
+676, [Is there a place where I can find all events for major presidential candidates/events in my area/state?], 4ykmgp, 1471662032.0, 12
+677, [How likely / possible is it for a candidate to dramatically improve their favorables with a certain demographic?], 448dh0, 1454662627.0, 9
+678, [Who would pay for family leave under Clinton's plan? Employers or the federal government?], 595ftv, 1477355171.0, 31
+679, [What are some neutral journalism resources to get information from?], 4tpj5n, 1469019362.0, 126
+680, [Live AUA with the London School of Economics IDEAS about the European Union's Foreign Policy on /r/Geopolitics], 40sfro, 1452727079.0, 51
+681, [What are legislative alternatives to the current practice of Gerrymandering in the US? What pros (if any) argue that no policy change is needed?], 4zp8lh, 1472255014.0, 265
+682, [What Balanced Research Do We Have on Gun Ownership/Safety], 4odqth, 1466118073.0, 180
+683, [What is the purpose of party surveys with leading questions?], 4c9lgg, 1459189106.0, 127
+684, [What are John Kasich's chances of winning the nomination? Is he a "moderate"?], 45soug, 1455509663.0, 130
+685, [Are there any examples of countries that employ a libertarian philosophy to governing?], 4442mw, 1454594127.0, 102
+686, [Racial preferences in undergraduate decisions: How should the US Supreme Court rule in Fisher v. University of Texas at Austin?], 3w8lqa, 1449792500.0, 104
+687, [Could Turkey request to invoke Article V of the NATO treaty based on tonight's attack?], 4qd6xd, 1467195149.0, 32
+688, [What specific reforms does the EU need?], 4pypz7, 1466990651.0, 215
+689, [There is a lot of controversy over airport security in the United States and how it is handled. Is there any evidence that it can be handled in a better and more effective way?], 4jkw1b, 1463430040.0, 244
+690, [Just how secure are online voting systems?], 4thtao, 1468910252.0, 77
+691, [Obama, Bush, and the use of Rhetoric], 49yzz7, 1457735270.0, 74
+692, [Pros & Cons of NAFTA. Did it work as intended?What went wrong? Did we gain from it?], 4frskx, 1461250055.0, 216
+693, [Super Tuesday Results Megathread], 48jhz1, 1456906913.0, 277
+694, [McConnell says if Trump wins the nomination they will "drop him like a hot rock," running negative ads to separate Trump from the Congressmen up for re-election. Would Trump stand a chance in the general if the Republican establishment essentially campaigns against him?], 47vl2d, 1456615724.0, 400
+695, [The Panama Papers: What do they tell us about the international financial system?], 4dbl1s, 1459812879.0, 536
+696, [What are the geopolitical ramifications of the attacks in Paris?], 3sse0s, 1447544178.0, 132
+697, [Is there an argument against breaking up the big banks?], 45drer, 1455292929.0, 184
+698, [Post-debate discussion thread], 58etts, 1476963853.0, 133
+699, [Interesting Findings on Caucuses vs. Primary Voter Turnout - What Impact Does This Have on Nominations?], 4c7bi1, 1459143347.0, 57
+700, [What is responsible for the supposed "Decline of the Black Family?"], 4xsbc5, 1471271321.0, 32
+701, [Does this article accurately reflect the history and motivations of the Iraq war? Can we even know?], 46crym, 1455795364.0, 31
+702, [What kind of regulations would be lifted by the TTIP?], 4jbeks, 1463261322.0, 83
+703, [Does Puerto Rico account for a net benefit or loss for the US government?], 4ep8hr, 1460631742.0, 187
+704, [What could a Vice President theoretically do in their capacity as "President of the Senate?"], 52ft1j, 1473733332.0, 253
+705, [What connection exists between the WikiLeaks DNC emails and the theft of DNC's opposition research on Trump last month?], 4uvowx, 1469668076.0, 13
+706, [Help finding unbiased political podcasts or talk shows?], 4q7888, 1467110939.0, 9
+707, [Is a balanced budget amendment in America feasible?], 46y861, 1456130161.0, 12
+708, [Semi-Super Saturday Results Megathread], 494c95, 1457242886.0, 132
+709, [Drones and Modern Warfare.], 3tboj0, 1447899766.0, 79
+710, [How can we truly stop ISIS and stabilize the Middle East?], 3t2fub, 1447736300.0, 190
+711, [A popular argument of Sanders supporters lately is that Bernie performs more favorably against Trump than Hillary in various polls; How much truth is there to this, and how much does it matter?], 4hx2kj, 1462430552.0, 79
+712, [The Public Option vs. Medicare for All], 47d400, 1456356443.0, 197
+713, [Gov. Abbott proposed, among other things, an amendment to the Constitution preventing Congress from regulating an activity that occurs "wholly within one State." What would such an activity be? Or look like?], 407um3, 1452399143.0, 31
+714, [Why has the number of banks in the US decreased every quarter since the 1980s?], 3y05ey, 1450932097.0, 56
+715, [Is the future of journalism promising or depressing, and is there anything that can be done about it?], 3u4ff1, 1448425339.0, 56
+716, [Is there evidence to demonstrate that SNAP abuse is or isn't widespread?], 4f5ih5, 1460901999.0, 231
+717, [Are President Obama's concerns over the current 9/11 bill justified?], 4f4w0x, 1460889403.0, 196
+718, [Why are debate moderators inevitably journalists rather than experts in various fields?], 44nxw7, 1454912585.0, 57
+719, [What are Sanders' chances of winning Ohio? Betting sites and FiveThirtyEight have very different opinions.], 4a46h6, 1457825064.0, 31
+720, [just how influential are political parties and campaigns in controlling content in major media outlets through 'transactional reporting'?], 453nnj, 1455152101.0, 202
+721, [Discussion Megathread on Republican Primaries!], 4hw482, 1462418159.0, 109
+722, [Does the media have an obligation to treat candidates or parties fairly, and if so, what is the best way to do so?], 51xpb7, 1473460492.0, 267
+723, [Did Filipino Foreign Policy just pull a 180?], 56wfhb, 1476189634.0, 59
+724, [Advantages and Disadvantages of TPP?], 4a6o5j, 1457865099.0, 60
+725, [how do we know that the things wikileaks puts out is real?], 59ycrb, 1477735474.0, 13
+726, [What constitutes a "fair share" of taxes at various income levels?], 44xyu9, 1455069993.0, 11
+727, [Where does campaign swag go when a candidate loses?], 4kvi38, 1464146228.0, 33
+728, [[META] NeutralPolitics needs new mods!], 4cxwm0, 1459571309.0, 59
+729, [Effects and Viability Of A Four Party Political System], 4e2tih, 1460261658.0, 86
+730, [Is there somewhere I can get an interactive map that shows the amount of ISIS controlled territory over the course of the war?], 4cay7r, 1459212257.0, 179
+731, [What happens when a U.S. state goes bankrupt?], 4ex92r, 1460763254.0, 237
+732, [What was the reasoning behind the Hague Invasion Act?], 4nv83h, 1465846856.0, 116
+733, [To what extent should modern democratic political systems be made more "direct"?], 46ebuu, 1455823819.0, 116
+734, [/r/NeutralPolitics hits 50K subscribers], 44bhio, 1454717642.0, 306
+735, [What would it take to re-redistrict electoral districts (undo gerrymandering)?], 44deto, 1454742391.0, 119
+736, [Final Debate Fact Checking Thread], 58dqa1, 1476950644.0, 283
+737, [Which potential Trump VP would most likely allow him to gain voters that were not previously committed to him?], 4hynl1, 1462456461.0, 34
+738, [What are the pros and cons of public secularism?], 47u02w, 1456589030.0, 88
+739, [How responsible is the European community for "enabling" Erdoan?], 4p09c5, 1466476790.0, 62
+740, [Welcome back, /r/bestof! This is a strictly moderated sub, so please read this before participating!], 48o6z9, 1456979701.0, 123
+741, [Why isn't Somaliland recognized by the US/UN?], 4ugh33, 1469444261.0, 187
+742, [Bernie Sanders Policies], 3zn715, 1452069756.0, 38
+743, [What would a lawsuit against Saudi Arabia look like?], 52hkbi, 1473753893.0, 93
+744, [Is there a podcast that contains the upcoming U.S. presidential debates in full?], 54etrc, 1474834030.0, 61
+745, [At what point is our democracy no longer representative? US ranks almost dead last population/legislative seats.], 4jh158, 1463361837.0, 63
+746, [What are the Pros and Cons of a No-Fly Zone over Syria?], 44pg1v, 1454936667.0, 128
+747, [Why has environmentalism dropped from 76% of Americans to 42%? (Gallup)], 4g3w9d, 1461453988.0, 38
+748, [Should the US be permitted to use drones to kill its own citizens abroad if they have joined some terrorist organization? So far there have been at least 8 documented cases of Americans being killed by drones overseas.], 43r6hj, 1454396388.0, 68
+749, [What do you believe is the importance of civility during debates?], 3wajmq, 1449817452.0, 96
+750, [How do you foresee the GOP civil war ending? Can they recover in time to challenge Hillary in 2020 if they lose this year, or are the Dems holding onto the White House a further two terms and beyond all but confirmed?], 488dgh, 1456749257.0, 14
+751, [What would be the pros and cons of a populist legislative exchange in the US?], 4ov01w, 1466396483.0, 95
+752, [Rising housing prices: What can or should be done?], 42gd3v, 1453680047.0, 94
+753, [Brexit Megathread], 4pht05, 1466730435.0, 782
+754, [Are parliamentary democracies inherently more stable than presidential democracies?], 466nk9, 1455713812.0, 63
+755, [I would like to hear your opinions on Brexit], 49tifc, 1457646982.0, 128
+756, [The Government has declared 22 of Clinton's emails Top Secret. How big a deal is this?], 43c6c4, 1454148986.0, 132
+757, [Is this picture comparing Bernie and Hillary outcomes accurate?], 4lvqjn, 1464736925.0, 43
+758, [What's caused Japan's, Canada's and Australia's sudden drop in press freedom?], 4htavm, 1462372524.0, 280
+759, [Why did Nixon resign rather than be impeached?], 4o1vc5, 1465946154.0, 17
+760, [Where can I find voter turnout statistics for the 2016 primaries?], 46ws4x, 1456111369.0, 15
+761, [How likely do you think a brokered GOP convention is at this point?], 48mw0k, 1456965179.0, 38
+762, [Campaign spending and lobbying, is it out of hand?], 3vxhnp, 1449612276.0, 41
+763, [If Sanders succeeded in "closing the tax loopholes for corporations", would companies move out of the US?], 47hg5n, 1456407082.0, 103
+764, [How effective has the double dissolution rule been recently?], 4gj471, 1461710586.0, 135
+765, [Looking for a site for economist's views], 59ia78, 1477526037.0, 210
+766, [[META] Announcing New Community Initiative], 5753u7, 1476319918.0, 71
+767, [What are the implications of the Urban Institute study on Sanders' healthcare proposal?], 4iky84, 1462847416.0, 41
+768, [What policies have been shown to positively impact growth of small business in the United States? How can we use that to determine which candidates in the upcoming election will most likely stimulate small business development?], 43l077, 1454304225.0, 42
+769, [What would be the economic impact of Bernie Sanders' speculation tax on Wall Street?], 3xnu17, 1450700331.0, 40
+770, [Questions about the bomb/robot used to kill the shooting suspect in Dallas.], 4s1x2v, 1468122504.0, 140
+771, [Is there evidence that Hillary Clinton acts in the interest of Wall Street?], 4erx2r, 1460679719.0, 136
+772, [Is there any way to make college more affordable?], 464c8p, 1455682440.0, 108
+773, [Is the idea of a political spectrum or compass useful? Why or why not?], 4yes7s, 1471583136.0, 42
+774, [How effective has China's censorship of Panama Papers been? And what are potential consequences after the revelations?], 4e86d6, 1460359823.0, 146
+775, [Donald Trump has released a five point plan on ethics reform. Do these points have merit?], 582h58, 1476802543.0, 79
+776, [What would happen if there was no minimum wage?], 488ai1, 1456748123.0, 45
+777, [How does a government improve middle class wages?], 45za41, 1455605102.0, 45
+778, [I've recently been looking for literature to question and/or reinforce my political views. I'd love it if you guys could make some suggestions from all over the political spectrum!], 4scb0q, 1468288873.0, 17
+779, [Which deserves more focus: spending levels or taxation levels?], 4di5ce, 1459914514.0, 15
+780, [Are there any significant differences between Obama, Clinton, and Sanders' strategies on how to handle ISIS?], 4pu9ok, 1466915817.0, 46
+781, [February 11th Democratic Primary Debate Megathread], 45dank, 1455284103.0, 46
+782, [[META] How did the AMA go? Should we do more of these?], 4ehij3, 1460515373.0, 80
+783, [Super Tuesday megathread], 48fscm, 1456859726.0, 274
+784, [[META] r/NeutralPolitics: passing 60k subscribers, new mods and some adjustments to the rules], 49fy8q, 1457428905.0, 192
+785, [Are there any countries that had two dominant parties and moved to having more than two? Was it successful?], 4pb13w, 1466635832.0, 76
+786, [Have the Russian government's attempts to increase the birth rate been effective? Do they need to do more to increase the birth rate?], 4jiv3s, 1463388527.0, 79
+787, [What would prevent billionaires and the 1% from leaving the U.S. if Bernie Sanders becomes elected and raises their taxes immensely?], 446jc4, 1454638773.0, 50
+788, [When did the Campaign Contribution Tax go out of Style?], 4w0uip, 1470287030.0, 16
+789, [What has the West learnt about intervention in Latin America, Asia, the Middle East + Western Asia, etc.?], 4qyb7g, 1467511886.0, 18
+790, [Has any redditor seen a poll that reflects the "Unlikely Voter" turnout in the Brexit, or what the "Unlikely Voter" plans to do in the US in November?], 4qi21q, 1467264609.0, 18
+791, [Can Obama do a recess Appointment for Supreme Court: Why or why not?], 4q6lnd, 1467102218.0, 18
+792, [Objectively speaking, how have refugees impacted the crime rates in Europe? I see a lot of people arguing both ways ("it's not bad" and the "it's increasing a lot"), and I'm interested in the actual statistics/any opinions about what could be done if it is bad.], 4bv4x3, 1458907433.0, 16
+793, [Would Sanders Be the VP Nominee?], 459yom, 1455240946.0, 18
+794, [Heroin use has exploded across the US and other parts of the developed world in the last several years. What is causing this, and what can be done about it?], 3sjprp, 1447373711.0, 199
+795, [What actually happened in Nevada, and were any rules actually broken?], 4jlvb4, 1463443727.0, 331
+796, [Is there truth to the claims of refugees raping EU citizens?], 4m07x9, 1464797942.0, 50
+797, [Donating your time, energy, and money (Activism)], 42j8tv, 1453719032.0, 51
+798, [Is campaign finance reform needed or is all of the problems overstated?], 48oyw4, 1456989524.0, 21
+799, [What are the pros and cons of building a "back door" into smart phone software?], 46f18a, 1455835401.0, 19
+800, [The return of Glass-Steagall... what does it mean?], 4v31ah, 1469769355.0, 209
+801, [Looking for some college educated voter statistics, any help?], 58zl22, 1477272012.0, 51
+802, [What happend with the Green party in Sweden (Miljpartiet)?], 4kvid0, 1464146310.0, 125
+803, [Judicial activism: what is the proper definition; is there empirical evidence of this phenomenon; is it a feature or a bug; if a bug, what are policies that can deal with it?], 56a7r1, 1475853734.0, 127
+804, [What's the best strategy the mainstream Republican Party could adopt at this stage to stop Donald Trump's nomination?], 48rsce, 1457037281.0, 130
+805, [Is Obamacare working or not? Should it be repealed?], 5948q1, 1477341129.0, 86
+806, [Are there any policies that can help decrease the problem of racial ghettoization? What has been done and can be done to tackle ghettos?], 50de1p, 1472619342.0, 21
+807, [How do ambassadorships and political appointments work? Money and Mechanics.], 4uj4wu, 1469489042.0, 18
+808, [How can the salaries of media consultants be tied to media spending?], 4spn41, 1468474666.0, 19
+809, [What are the chances that Garland gets appointed?], 4ap7gh, 1458182866.0, 21
+810, [Any good (and obviously neutral) books/Articles/&c of Reagan's presidency (and preferably the effects his policies had on future policies)?], 49br36, 1457368548.0, 20
+811, [Should the UK stay in the EU?], 46rdgd, 1456022856.0, 52
+812, [Want to learn about the 2016 election without bias - where do I start?], 4179cd, 1452955109.0, 53
+813, [To what extent do regulations on payday lending benefit or harm (would-be) borrowers?], 4mjb02, 1465090394.0, 176
+814, [Who is Mike Pence? What does he stand for? What has he accomplished?], 4suprv, 1468548785.0, 408
+815, ["How can we scale back increasing partisanship and political attacks given its negative impacts on political culture?], 46qgdq, 1456010086.0, 55
+816, [For What Reasons did Republicans Vote Against the 911 First Responders Reauthorization Bill?], 4ukth3, 1469508262.0, 92
+817, [Is there a way to find out the US debt repayment obligations broken down by year?], 560kuj, 1475716415.0, 135
+818, [Trying to understand the motivation of voters who's first choice is socialism/progressive (Sanders) and second choice is libertarian?], 4dbm43, 1459813280.0, 131
+819, [What can we expect from establishment Republicans if Donald Trump wins the nomination?], 47s61p, 1456557974.0, 21
+820, [Casual Thread #4 (22 November 2015)], 3tv4oe, 1448259429.0, 21
+821, [Congress has overridden Obama's veto on the 'Saudi Sept 11' bill. What are the consequences of this?], 54zvfv, 1475141892.0, 321
+822, [Is it typical for past presidents and presidential nominees to attend their party's national convention?], 4i1lu1, 1462506292.0, 97
+823, [Can price transparency significantly reduce healthcare costs?], 4wzkfi, 1470819196.0, 21
+824, [How have Central Asian countries reacted to Putin's foreign policy?], 51b0vp, 1473131701.0, 59
+825, [Is it possible to have a political design that prevents tyranny of majority, without being tyranny of minority? How would we distinguish between the two?], 4c05m9, 1458999579.0, 24
+826, [Are there any real world examples of Bernie Sanders' type of protectionism?], 4bubce, 1458893368.0, 23
+827, [General News Source], 47f5j1, 1456379061.0, 22
+828, [Should U.S. corporations be taxed on profits made abroad?], 4283p9, 1453532350.0, 22
+829, [What are the pros and cons of California's Prop 61 "Drug Price Relief Act"?], 4zpjyb, 1472258618.0, 102
+830, [What were the pros/cons to the Panama Free Trade Agreement?], 4driq5, 1460071330.0, 243
+831, [Is there any proof that Trump is in debt to Russians?], 4uwbqi, 1469675215.0, 25
+832, [The war in Colombia is coming to an end. How will that affect the region?], 41qmf3, 1453264940.0, 107
+833, [Live AMA with Parag Khanna, geopolitical futurist and author of Connectography: Mapping the Future of Global Civilization on /r/Geopolitics], 4yolk5, 1471721313.0, 109
+834, [What is the equation for Ted Cruz's endorsement of Trump?], 549ozd, 1474743923.0, 24
+835, [Can we talk about the Republican Party's quick flip on free trade?], 4wte0l, 1470730440.0, 24
+836, [These are the details on how Trump plans to pay for the wall between US and Mexico, is this feasible?], 4v4pt0, 1469793011.0, 26
+837, [Are claims that the DEA is unfair against the legalization of medical marijuana justified?], 4xb819, 1470995725.0, 164
+838, [New Hampshire Results Discussion], 453qme, 1455152999.0, 112
+839, [8th Democratic Debate Megathread (Miami, FL)], 49rlzk, 1457607131.0, 67
+840, [What is the opposition to the 9/11 Zadroga Bill?], 3vw0d7, 1449578265.0, 67
+841, [In 1992 and 1996, which states did Clinton win due to Perot's candidacy?], 4ijkm5, 1462829865.0, 27
+842, [How viable is the ColoradoCare single-payer proposal?], 4xw8ka, 1471329102.0, 65
+843, [What data would suggest success or failure in minimum wage increases?], 4wxfsj, 1470793218.0, 28
+844, [Should Afghan diaspora be repatriated by Pakistan? Or should they be given Pakistani nationality for those who want to?], 4u73s1, 1469284092.0, 26
+845, [Can a president be bought? What would be the implications?], 43h4f3, 1454233843.0, 26
+846, [Solicitation of interest: /r/JihadInFocus for discussion and analysis of the actions, ideology, and propaganda of Jihadism], 40za43, 1452829989.0, 27
+847, [Is pew research a reliable source of information?], 3sv9a0, 1447594558.0, 67
+848, [What are the implications of Turkey shooting down Russia's warplane?], 3u2euk, 1448392757.0, 173
+849, [[META] Call for Hall of Fame Submissions], 4vn8o2, 1470096427.0, 30
+850, [Political Podcast Suggestions?], 49drsa, 1457401473.0, 31
+851, [What are the probable impacts of $15 minimum wage laws?], 4di4df, 1459914168.0, 77
+852, [Are the teacher strikes and protests in Oaxaca rooted in legitimate grievances about Mexico's education reforms?], 4r0rao, 1467551543.0, 29
+853, [Italy's constitution doesn't allow referendums on matter of foreign policy (international treaties). How do you consider such a limitation?], 4ples3, 1466777530.0, 29
+854, [Do you think the US should cut the defense budget?], 4c6ol7, 1459133460.0, 30
+855, [Is there a good site for listing what the candidates have actually accomplished?], 4a887x, 1457902371.0, 127
+856, [How does the world view the Obama presidency?], 4546hw, 1455157944.0, 77
+857, [The Estate Tax: What is it, who does it affect, and why is it so controversial?], 4diviz, 1459924121.0, 28
+858, [Who does Kasich staying in the race benefit?], 489l9s, 1456770322.0, 34
+859, [What are the benefits of increasing border patrols in the E.U.? What do they control on the border?], 44fz4m, 1454789818.0, 34
+860, [4th Republican Debate LIVE Megathread], 3sbuqt, 1447221524.0, 31
+861, [How is the Act of Being Registered with a Political Party Advantageous to the Voter?], 4drwoy, 1460076291.0, 80
+862, [Let's Talk About Saudi Arabia.], 4f3qcb, 1460869736.0, 31
+863, [How would Bernie Sanders' tax regulations and other policies affect the US economy?], 4ajjj7, 1458092774.0, 31
+864, [[META] Introducing public mod logs], 4m2fer, 1464831079.0, 91
+865, [How well does a presidential candidates favorability rating correspond with their performance in the general election in November?], 46tiar, 1456053316.0, 35
+866, [What Were the Issues with the Gun Control Vote: Politics or Policy?], 4p6ju1, 1466567204.0, 35
+867, [Discussion of the first US presidential debate], 54ommz, 1474974739.0, 152
+868, [What are the 'conservative' and 'progressive' responses to the 'problem of automation'?], 51dp19, 1473168088.0, 37
+869, [Who would each candidate choose as VP?], 46afpc, 1455765588.0, 94
+870, [In July, Putin warned about the United States' development of anti-missile defense systems, stating it would disrupt the global balance of power and lead to more conflict. Is he right to be concerned about this, or is he spinning events to fit Russian interests?], 4wc0zq, 1470452492.0, 40
+871, [What are the pros and cons of a "helicopter drop" by a central bank?], 4shzfv, 1468370670.0, 39
+872, [Why are there so many Independent officeholders in the Northeast United States?], 4jufn2, 1463566019.0, 100
+873, [What would a "moderate" justice look like?], 4b2f8p, 1458406054.0, 44
+874, [Islamic radicalisation and deradicalisation in the West: What causes it, and what should be done?], 4dbkru, 1459812777.0, 45
+875, [Is "The Big Short" book a fair depiction of the housing bubble and subsequent financial crisis of the 2000 decade?], 40nm8w, 1452651427.0, 140
+876, [Are there more news magazines like The Economist but with different biases?], 437vlm, 1454082290.0, 58
+877, [Republican Debate Megathread], 47me7a, 1456474692.0, 78
+878, [Republican National Convention Megathread], 4tzqes, 1469170573.0, 94
+879, [What are the benefits and downsides to North Carolina's bond proposal?], 49ofky, 1457564699.0, 118
+880, [Have there been any polls this election cycle using Ranked or Approval voting systems?], 562r39, 1475742507.0, 31
+881, [Is there any sort of precedent for citizens of a nation successfully suing another nation?], 548a2n, 1474712358.0, 17
+882, [Did the data that Snowden release actually damage the US?], 52pcp2, 1473866293.0, 32
+883, [Did california's top-two system produce the closest to Condorcet candidate?], 51t9if, 1473393440.0, 10
+884, [What are the merits of "fast track" powers for the President?], 51adc5, 1473123779.0, 12
+885, [What would be the likely impacts of abolishing qualified immunity?], 506ihj, 1472524327.0, 9
+886, [What would the "demise" of a political party look like today?], 4z30b3, 1471931522.0, 22
+887, [What are the pros and cons of a top-two primary?], 4w78m3, 1470378897.0, 8
+888, [If the Democrats win the election, can Obama retract his nomination of Merrick Garland for a more liberal judge?], 4vz78e, 1470268600.0, 34
+889, [In US Presidential races, do political endorsements matter?], 4vtfjj, 1470185306.0, 11
+890, [Should drug use prior to the commission of a felony be a mitigating or an aggravating circumstance?], 4vpup3, 1470128033.0, 5
+891, [Turkey: What is being censored?], 4ubl0u, 1469360677.0, 9
+892, [Would anyone go without an attorney, if the Legal Services Corporation had been defunded?], 4tzmic, 1469169067.0, 5
+893, [Will job growth as a result of tariffs exceed the job loss from diminishing demand as a result of the same tariffs?], 4tozsr, 1469011183.0, 15
+894, [If free movement of workers, goods and services within the EU is good, why limit the union to European countries?], 4tf090, 1468874521.0, 13
+895, [How much do the United States and Western Europe share intelligence about terrorist related activities?], 4te9bb, 1468860825.0, 8
+896, [Do any prominent judges/justices in non-us countries utilize Originalism for constitutional interpretation.], 4tc5ac, 1468826772.0, 38
+897, [Looking for an unbiased report/book on unions' effects on American economy, specifically pertaining to the auto industry], 4suvbo, 1468550465.0, 22
+898, [What are the most neutral sites or Newspapers in Australia?], 4slq0x, 1468419979.0, 9
+899, [According to International/Maritime law, which countries have rightful claim of the South China Sea?], 4slm5t, 1468417945.0, 10
+900, [How does a $12/$15 dollar minimum wage effect those already making that much?], 4rejjx, 1467777230.0, 14
+901, [How can the South China Sea territorial disputes be peacefully resolved?], 4pdbya, 1466662203.0, 21
+902, [Is changing party affiliation in order to run for elected office common?], 4p6iyy, 1466566928.0, 9
+903, [Why is the US economy still considered to be struggling?], 4o82vj, 1466035831.0, 15
+904, [Sober, lay-accessible analysis of the history of SCOTUS decisions regarding gun control?], 4o3fjt, 1465964252.0, 17
+905, [Trump Vs. Clinton Healthcare Views?], 4o2fo2, 1465952770.0, 13
+906, [Would limiting or redistributing CEO salaries actually benefit employees?], 4nzlmf, 1465905046.0, 12
+907, [How to promote a politics and law class to high schoolers], 4mz1za, 1465335299.0, 38
+908, [[META] Public mod logs: Pros and cons?], 4lcc5m, 1464405376.0, 47
+909, [Are European far-right parties, like the National Front and AfD, legitimately capable of winning major positions?], 4l2fna, 1464246890.0, 30
+910, [What is in the United States' interest if Britain stays in or out of the EU?], 4jodzp, 1463475912.0, 14
+911, [Would an Australian style Medicare levy work in the US?], 4eut89, 1460718162.0, 13
+912, [Who exactly are Israeli settlers? What are the demographics?], 4etjc8, 1460699547.0, 15
+913, [Is campaigning for down ballot elections considered "the norm" for members of Congress? Or is it rare?], 4esn8h, 1460688450.0, 11
+914, [Pivot to Asia: Substantive Policy Outcomes, or Mostly Rhetoric?], 4ddo7o, 1459840188.0, 24
+915, [If Trump secures the nomination, what is his path to victory in the general election?], 4aqhoo, 1458200930.0, 52
+916, [Does anyone know of a relatively unbiased political quiz?], 4agpuu, 1458040930.0, 34
+917, [What are some good sites to learn about both sides of political issues?], 4a95n9, 1457919542.0, 18
+918, [Can someone explain why prediction markets have Kasich as more likely to win the nomination than Rubio?], 49viop, 1457673212.0, 19
+919, [Live AUA on Russian Foreign Policy with the Carnegie Endowment for International Peace on /r/Geopolitics], 49tk36, 1457647730.0, 38
+920, [Why do countries like Russia, Philippines and Lithuania have such large number of women in high management roles?], 49njdn, 1457548663.0, 18
+921, [Are paper ballot votes more credible than computer based?], 49bgu3, 1457362765.0, 24
+922, [What we talk about when we talk about "the establishment"], 48pvhq, 1457000525.0, 16
+923, [What are the potential consequences of the EU referendum?], 48ohip, 1456983325.0, 29
+924, [Assuming that Trump and Clinton win their party nominations, what sort of effect can we expect on the 2016 congressional elections?], 48mghx, 1456959420.0, 10
+925, [What would Trump's foreign policy as president look like?], 48ckd5, 1456809681.0, 40
+926, [Who makes the decision whether someone is eligible to become president?], 47mugw, 1456481369.0, 18
+927, [What prevents a US citizen from moving to a US state with public healthcare and great welfare benefits?], 47c8pz, 1456343864.0, 11
+928, [Slowing things down (an update to the automod removing top level comments without sources)], 46rife, 1456024744.0, 18
+929, [Why does China support UNSC reform?], 45t84f, 1455515958.0, 35
+930, [Are the effects of US trade agreements like NAFTA on the working class becoming more politically visible?], 45dumv, 1455294926.0, 26
+931, [What is the economic impact of illegal immigration on the United States?], 45crcg, 1455276016.0, 7
+932, [Seeking clarification about superdelegate controversy], 45beqs, 1455257720.0, 17
+933, [Most Neutral Website for Politics?], 44udon, 1455012816.0, 23
+934, [Is it a good idea to reduce the patent length on pharmaceutical drugs? How about price fixing?], 44fjst, 1454779374.0, 20
+935, [Does Marco Rubio's campaign depend on Bush/Christie/Kaisch dropping out quickly?], 44ezf8, 1454766857.0, 16
+936, [I calculated and plotted the total tax increases for every possible income under the combination of all of Sanders' proposals. Please discuss.], 446vql, 1454643026.0, 8
+937, [How much influence do state and local endorsements have in primary elections?], 43xnc8, 1454494209.0, 12
+938, [What is the best news / world news source that is neutral and unbiased?], 43ib19, 1454256002.0, 19
+939, [You will be the moderator of the next democratic/republican debate. What five questions would you ask each candidate?], 43chxn, 1454154457.0, 13
+940, [If Bloomberg enters the US Presidential race, how likely does it become that the House picks our next POTUS?], 42kbwh, 1453737290.0, 9
+941, [Did the videos by the Center for American Progress accurately portray the practices of Planned Parenthood? Can we even know?], 42aaen, 1453571396.0, 18
+942, [How might campaign contributions lead to corruption? Where is the line? How can you tell if a politician is corrupt?], 427bsq, 1453522373.0, 12
+943, [[Fourth Democratic Presidential Debate thread]], 41i9mn, 1453138517.0, 37
+944, [(Meta) With policy issues on which you're not neutral, how do you approach a conversation with the "other side" in order to understand their opposing view?], 41ag5c, 1453009449.0, 13
+945, [Do nuclear weapons really act as deterrents in the 21st century?], 40650m, 1452371576.0, 14
+946, [Unbiased books on the Great Recession], 3zog02, 1452087963.0, 9
+947, [Request for impartial explanation of Hammond family ranching history in Oregon], 3zkvq5, 1452040223.0, 9
+948, [What have been the advantages and disadvantages to women entering the workforce? Is it a net gain or loss?], 3xidvs, 1450591138.0, 7
+949, [United States DHS releases new bulletin phase of NTAS], 3x6jcj, 1450360734.0, 3
+950, [What are the legal arguments covering Obama's Immigration Accountability Executive Action?], 3vzocb, 1449641980.0, 31
+951, [A majority of Americans now advocate for sending ground troops to combat ISIS. Is this the right course of action?], 3vroec, 1449505135.0, 15

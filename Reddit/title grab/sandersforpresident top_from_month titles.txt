@@ -1,0 +1,115 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Remember that one time Mother Nature felt the Bern?], 4v8uev, 1469855173.0, 5031
+2, [Sanders confirms he is running for Senate re-election in 2018.], 4va4ey, 1469873884.0, 5258
+3, [Tulsi Gabbard on the Trans-Pacific Partnership (TPP) "The Trans-Pacific Partnership is a bad for the American people, especially the middle class."], 4v7ghr, 1469838719.0, 3243
+4, [.@BernieSanders wont use his massive email list to fundraise for @HillaryClinton], 4v9a45, 1469861085.0, 3030
+5, [Bernie Sanders: "No, I Will Not Yield!" (6/4/1992) [neither should you!]], 4vaiar, 1469879983.0, 2762
+6, [A Message for the Trolls Here Tonight], 4va8on, 1469875741.0, 2614
+7, [Hillary Clinton Talks Tough on Shadow Banking, But Blackstone Is Celebrating at the DNC], 4v6a5c, 1469823386.0, 1941
+8, [Anyone remember almost a year ago, when we all got massively excited by this? Never forget.], 4v9635, 1469859504.0, 1169
+9, [Post Convention Real Time with Bill Maher Interview with Bernie Sanders (VIDEO)], 4vawi1, 1469887413.0, 1214
+10, [Met this guy wearing a Bernie onesie at the DNC protests], 4v6ur1, 1469831585.0, 760
+11, [Here's a photo I took at the DNC that I thought you guys might appreciate!], 4v80w1, 1469845265.0, 752
+12, [Remembering when Bernie cared enough to give Black Lives Matter a voice], 4v9ou9, 1469867174.0, 829
+13, [When Bernie proved he's the most fashionable candidate], 4v8xo6, 1469856357.0, 807
+14, [See you all in 2020. Forever forward my friends.], 4vahkz, 1469879658.0, 914
+15, [I Wasn't Ready to Say Goodbye - S4P Mods Are As Varied & Passionate As You], 4valab, 1469881350.0, 809
+16, [Artist rendering of Killer Mike's interview with Bernie, one of my favourite moments of the campaign.], 4v8wmt, 1469855972.0, 739
+17, [Sanders media consultants to work for Wasserman Schultz challenger], 4vaaxy, 1469876708.0, 696
+18, [Campaign For Universal Health Care In Colorado Seeks Bernie Sanders' Help], 4v8jq0, 1469851490.0, 615
+19, [Ohio's Nina Turner Has Gained New Fans After Convention Snub], 4v8ntj, 1469852862.0, 596
+20, [I remember thinking I'd never seen such a genuine smile on a politician in my life as I did with Sanders in this video.], 4v916q, 1469857694.0, 444
+21, [To Win, Hillary Should Be Like Bernie, New Poll Suggests], 4v61rs, 1469818945.0, 397
+22, [One of my favorite moments from our historic campaign. I love you folks, and will miss you.], 4va119, 1469872434.0, 437
+23, [Good Night /r/SandersForPresident!], 4vafix, 1469878727.0, 421
+24, [Don't give up! Tim Canova's primary against DWS is on August 30th. Facebank your friends to help phonebank and canvass!!! Remind people in his district that they have to be registered as a dem by August 1st.], 4v9f8t, 1469863095.0, 346
+25, [Tulsi on Campaign Finance Reform - Congresswoman Tulsi Gabbard is committed to taking big money superpacs out of politics, and empowering the people.], 4v7w1f, 1469843717.0, 314
+26, [WATCH: Sanders Supporters Cheer Bernie on Last Day of DNC], 4v9rum, 1469868461.0, 341
+27, [Bernthology - A social anthology for Bernie Sanders and the revolution he is inspiring. 729+ fan made songs, videos, and creative artworks...], 4v9u0h, 1469869381.0, 267
+28, [Thank You Bernie Sanders], 4v6ewl, 1469825502.0, 226
+29, [So long and thanks for all the fish, /r/sfp], 4vae1i, 1469878093.0, 259
+30, [RoseAnn DeMoro on Twitter: "I'm #StillSanders & supporting #Bernie to win change for the 99% http://ourrevolution.com #FridayFeeling #FeelTheBern"], 4v8kjm, 1469851766.0, 226
+31, [Reflections and Resolutions: Moving Forward], 4v7edb, 1469838014.0, 195
+32, [Wasserman Schultz: 'Sometimes you just have to take one for the team'], 4v637n, 1469819724.0, 159
+33, [At the DNC, Fossil Fuel Lobbyists Shack Up With the Fourth Estate], 4v69w1, 1469823249.0, 151
+34, [Nate Silver: Bernie Sanders Could Win Iowa And New Hampshire. Then Lose Everywhere Else.], 4va0ze, 1469872408.0, 143
+35, [On the closure of /r/sandersforpresident], 4v91o8, 1469857869.0, 138
+36, [Thanks from a Gen Xer who learned a shitload this last year...], 4vaga0, 1469879073.0, 169
+37, [Congressional Internships in DC and Hawaii with Congresswoman Tulsi Gabbard | Representing the 2nd District of Hawaii], 4v88in, 1469847733.0, 134
+38, [100,000 people have come to recent Bernie Sanders rallies. How does he do it?], 4v9gb9, 1469863548.0, 126
+39, [Bernie Sanders on Twitter: "Im Jewish. My fathers family died in concentration camps. I will do everything I can to rid this country of the ugly stain of racism."], 4vaimp, 1469880109.0, 199
+40, [Bernie Sanders says to support third parties (1991)], 4va9fy, 1469876074.0, 118
+41, [As S4P reaches it's close, always remember one thing from the man himself- "Never, ever lose your sense of outrage."], 4vaidh, 1469880009.0, 122
+42, [Farewell S4P. Bernie earned your vote. Hold other candidates to the high same standard.], 4vai6r, 1469879936.0, 126
+43, [Remember facebanking? Shout out to all of you who helped spread the word on Facebook!], 4v9950, 1469860711.0, 99
+44, [TPP: Top Lobbyist Says TPP Will Probably Become Law Soon After Nov. 8th], 4v7ho7, 1469839122.0, 64
+45, [The love train goes on: 9 Bernie state delegates from Dallas became Deputy Voter Registrars last night. Ending the primaries on positive action. #RememberMaricopa], 4v8sd4, 1469854451.0, 63
+46, [Before we go our separate ways, remember, "never ever lose your sense of outage"], 4vaer7, 1469878403.0, 70
+47, [Thank you Bernie!], 4vaiaf, 1469879979.0, 63
+48, [The End], 4vai9y, 1469879971.0, 82
+49, [Goodbye S4P], 4vai7e, 1469879944.0, 77
+50, [A New Progressive Subreddit. Working to keep the movement alive and support the man who brought us all together.], 4v6nt1, 1469829106.0, 49
+51, [Dnc living in a cold war era.], 4v6ctj, 1469824652.0, 43
+52, [Feel the bern], 4vahme, 1469879674.0, 53
+53, [My goodbye to a passion project two plus years in the making. And an invitation to the next step.], 4v99ww, 1469861002.0, 47
+54, [This Old Man, Hope], 4v79q6, 1469836498.0, 45
+55, [Thank You Bernie Sanders], 4vaidl, 1469880010.0, 53
+56, [Good Bye!], 4vaj08, 1469880269.0, 61
+57, [Thank you r/SandersforPresident], 4vag9p, 1469879071.0, 40
+58, [Remember RollingStone's great video at the very beginning of the campaign?], 4v9l56, 1469865586.0, 41
+59, [Reddit boosts Sanders' momentum], 4v8x1k, 1469856123.0, 35
+60, [Goodbye], 4vai79, 1469879943.0, 55
+61, [Best of /r/SandersForPresident 2015 Winners  /r/SandersForPresident], 4vagr6, 1469879287.0, 36
+62, [Why Bernie Sanders was the real victor in 2016], 4v9knr, 1469865370.0, 38
+63, [While we are all sharing memories of the campaign, and wishing each other a find farewell...], 4vaho5, 1469879695.0, 42
+64, ['From mid-range he could kill you': Bernie Sanders' basketball days | Sport], 4v9j0n, 1469864658.0, 32
+65, [So since we have proof of collusion between Hillary, the DNC, and I think the white house: Can't we just contact the FBI?], 4v8ut8, 1469855315.0, 31
+66, [Bernie Sanders Officially Announces 2016 Presidential Run], 4v9h6y, 1469863909.0, 28
+67, [Saying goodbye to a great community, and looking forward to a progressive future.], 4v92ce, 1469858125.0, 27
+68, [The community is already fracturing.], 4va75m, 1469875098.0, 28
+69, [Why are surveys showing 90% of Sanders supporters voting for Hillary?], 4v99xg, 1469861010.0, 31
+70, [Love], 4vaidy, 1469880014.0, 32
+71, [Dear Americans, From a Canadian], 4v7626, 1469835348.0, 25
+72, [I STAND WITH BERNIE SANDERS!], 4vahs6, 1469879743.0, 29
+73, [for those that care, i've created a subreddit to use when this one shuts down], 4v8882, 1469847635.0, 24
+74, [Thank you Bernie!], 4vahp2, 1469879709.0, 29
+75, [Goodbye once again], 4va8zj, 1469875865.0, 20
+76, [Bernie Sanders won't hit Clinton on 'damn emails'], 4v9ld9, 1469865674.0, 17
+77, [Bernie Sanders' Reddit supporters raise $1M], 4v9htv, 1469864171.0, 20
+78, [Thank you S4P Family], 4v85s6, 1469846869.0, 19
+79, [Thanks S4P], 4vahoi, 1469879703.0, 27
+80, [Bernie Sanders - Stand Up to the Beast of America], 4v7zgf, 1469844812.0, 17
+81, [Thank You!], 4vaicf, 1469880001.0, 23
+82, [Thank you r/s4p], 4vahhc, 1469879619.0, 20
+83, [That one time Bernie introduced us to Tulsi!], 4v8wup, 1469856054.0, 19
+84, [Help! Blue pill or Red pill?], 4v6i9t, 1469826919.0, 17
+85, [Bernie Delegate's Powerful Message at the DNC:something for us all to remember and make happen. It's up to us.], 4va3au, 1469873391.0, 17
+86, [Don't look back, /r/SandersForPresident. A new day is breakin'.], 4vage4, 1469879125.0, 14
+87, [The Bernie Revolution Continues], 4v9daz, 1469862339.0, 10
+88, [The election has shown that politics is going the way of Organized Religion: People just dont want to belong to dogmatic groups any more This is the true revolution], 4v6ghj, 1469826197.0, 9
+89, [It's been a great ride. My final SandersforPresident post with some opinions and advice.], 4va2em, 1469873017.0, 13
+90, [I did not sign up for this... "HRC Mobile Action Network"], 4v9ezs, 1469862995.0, 10
+91, [Tulsi Gabbards positions on Standing Up for LGBT Rights and Marriage Equality], 4v8jp1, 1469851480.0, 7
+92, [Why the sudden influx of Tulsi Gabbard posts?], 4v8vus, 1469855705.0, 6
+93, [Thank You to SandersForPresident for the voice you've given us.], 4v7y0t, 1469844351.0, 7
+94, [Rosario Dawson On The Young Turks: Great summary and discussion of how different groups of supporters in the Bernie movement are feeling and moving forward from here...], 4vagr4, 1469879286.0, 8
+95, [Or that one time Bernie owned Coachella?], 4v905r, 1469857319.0, 7
+96, [Thank you BERNIE! Thank you intrepid MODS!], 4v6yq9, 1469832929.0, 6
+97, [Is This the Future of Bernie's Revolution? | Mother Jones], 4v6e3t, 1469825163.0, 8
+98, [This is one of the moments I want you all to never forget and use as fuel...], 4va73q, 1469875075.0, 6
+99, [What happened to Nina Turner?], 4v828g, 1469845729.0, 5
+100, [On what comes next.], 4va2wc, 1469873214.0, 3
+101, [What are you doing with your Bernie bumper stickers?], 4v8f4b, 1469849945.0, 2
+102, [#Bernexit], 4v6ypi, 1469832921.0, 6
+103, [Behind the Name: Meaning, origin and history of the name Bernard], 4va5yk, 1469874599.0, 2
+104, [Anyone else see Bill Maher right now?], 4vabp0, 1469877009.0, 0
+105, [Trump], 4v62rn, 1469819489.0, 1
+106, [Bernie and the FORCE will long endure.], 4v7aq7, 1469836825.0, 0
+107, [What Bernie Sanders Plans to Do Next], 4v9r0r, 1469868094.0, 0
+108, [A plea to fellow Berners], 4v6edm, 1469825282.0, 0
+109, [An open letter to my fellow Berners], 4v7tso, 1469843024.0, 0
+110, [Hillary Clinton's campaign must acknowledge Berner grievances - xpost from /r/strongertogether], 4v88t8, 1469847827.0, 0
+111, [I supported Bernie and I'm sorry he's not the nominee. But we now have only 100 days to keep a madman out of the White House. Time to put aside our differences and get to work.], 4v64he, 1469820448.0, 0
+112, [Bernie Sanders Has A Message For His Loudest Supporters Donald Trump is the worst candidate for president in the modern history of this country,], 4v6103, 1469818482.0, 0
+113, [The next president will likely appoint 4 Supreme Court justices: Who do you want picking them?], 4v78g7, 1469836088.0, 0
+114, [Bernie Sanders' former press secretary: "NO ONE STOLE THIS ELECTION"], 4v8qgv, 1469853802.0, 0

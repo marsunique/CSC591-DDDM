@@ -1,0 +1,1001 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Is Hillary Clinton Actually The Underdog in the Presidential Race?], 52rzit, 1473907161.0, 0
+2, [Has Bernie Sanders shown us what is to come in the political landscape?], 5ab50r, 1477930450.0, 1
+3, [Which political opinion do you have that doesn't "line up" with the rest of your ideology?], 4rrdkk, 1467960071.0, 1
+4, [Any Ideas why Hillary has refused to give a press conference this year?], 50np4p, 1472771936.0, 6
+5, [Is it now undeniable that Sanders won CNN's Debate on Sunday (3/6)?], 49ogvc, 1457565188.0, 0
+6, [Why did Obama use a pseudonym email with Clinton?], 549nq2, 1474743048.0, 0
+7, [Could the pro-life stance become a progressive one in the future?], 4rpx19, 1467942719.0, 0
+8, [Sander's Double Standard], 4abl86, 1457956927.0, 54
+9, [How much of the dislike of HRC is sexism?], 4dxszk, 1460170044.0, 24
+10, [Trump advisor defects and pens open letters to Trump voters], 4cdvgl, 1459253275.0, 6
+11, [Does Bernie Sanders want to purge moderate and conservative Democrats?], 4lh9jl, 1464493890.0, 26
+12, [If Trump ran as a Democrat and was running against Cruz, who would you vote for?], 57t5a4, 1476675324.0, 0
+13, [Is it significant that Hillary Clinton's State Department destroyed Blackberry phones with hammers?], 51gpf2, 1473216326.0, 0
+14, [Bernie Sanders' favorability is now underwater.], 4imtmq, 1462871557.0, 156
+15, [Do you think Hillary Clinton decision to not accept the invitation from Pea Nieto will affect her with the Latino vote?], 51krqt, 1473276288.0, 6
+16, [Anybody else became a Hillary Clinton supporter in the last couple of months partly due to obnoxious reddit bernie supporters?], 424ews, 1453474215.0, 6
+17, [Does Hillary Clinton support the individual right to own a gun for the purpose of self defense?], 4xv17r, 1471314565.0, 12
+18, [Obama Filibustered Justice Alito, Voted against Roberts], 466f4r, 1455710221.0, 1
+19, [Clinton Staffer who setup her private email server will take the 5th amendment. How will this affect the race?], 4m5gda, 1464870395.0, 6
+20, [All the Paris attackers identified so far are European. Is it time to ban all travelers from Europe?], 3t6r4k, 1447813500.0, 0
+21, [Should we rethink the idea of gun ownership as an individual constitutional right?], 4p4yq9, 1466549301.0, 9
+22, [Why is the foreign policy of the Democratic Party so hawkish towards Russia?], 4p7k30, 1466579306.0, 0
+23, [Where is Gary Johnson? Forget Trump -- it should be Johnson vs Sanders.], 3xoejg, 1450712166.0, 2
+24, [Why I, as a person of a minority group, am fed up with redditors calling Trump and the Republicans "racist" and "bigoted".], 42wgqs, 1453909802.0, 6
+25, [(Bias Alert) Response to Trump Rally], 4a25s9, 1457780591.0, 2
+26, [Why do we use the term 'Radical Islam' but not 'Radical Judaism' i.e, for the Settlers breaking international law and killing Palestinians?], 3t5wof, 1447801605.0, 0
+27, [Politico reveals that the Clinton Victory Fund uses less than 1% of funds for State parties. Does this break campaign finance law, and will it matter in the long run?], 4hkxxq, 1462267470.0, 9
+28, [Why is there so much talk about Sanders and Castro, yet none about Clinton supporting the Honduran Coup in 2009?], 49u8ib, 1457657132.0, 11
+29, [Are the Tories to the left of the Democrats? Specifically, when it comes to their new leaders, Theresa May and Hillary Clinton?], 4scibx, 1468291054.0, 4
+30, [What would be the cultural impact of a Johnson victory?], 4lwreo, 1464748683.0, 0
+31, [Could Donald Trump have a Chester Arthur moment?], 4z8vzl, 1472016532.0, 0
+32, [The FBI argued that disclosing even the number of records it has pulled off Clinton's server "could reasonably lead to the public identification and compromising of potential witnesses, as well as defensive actions to conceal activities, elude detection, and/or suppress or fabricate evidence."], 4n8ihw, 1465463839.0, 0
+33, ["It is easier to buy a Glock, than it is to buy a book." - President Obama], 4sjp1d, 1468390360.0, 0
+34, [If the Green Party simply never existed and the presidential race was Democratic vs. Republican vs. Libertarian, would the Libertarian Party reach the 5% vote cutoff needed for federal funding?], 5a3lsb, 1477816708.0, 0
+35, [Does the Sanders Campaign have an Integrity Problem?], 46o9j2, 1455965531.0, 31
+36, [Why doesn't Hillary Clinton release the transcripts of her speeches?], 4abvy8, 1457963067.0, 7
+37, [Is Hillary Clinton a hypocrite for not wanting more debates?], 4ccmzg, 1459234197.0, 1
+38, [Donald Trump just gave you the job of writing a speech attacking Hillary Clinton on foreign policy. What would you say?], 4miipi, 1465079283.0, 9
+39, [[Theory] Collective responsibility: Is it ever appropriate or acceptable to hold a nationality, race, ethnicity, or religious group accountable for political actions?], 55kxo5, 1475480271.0, 0
+40, [Is it just me, or is Sanders everywhere in time but the here and now?], 45fh1y, 1455322981.0, 30
+41, [Given Hillary's weakness among men, should Hillary pick a male VP or a female VP?], 4kimn6, 1463953880.0, 0
+42, [Sanders Supporters], 43vua0, 1454470328.0, 186
+43, [What would a Hillary Clinton concession speech look like?], 4nk3n9, 1465648615.0, 7
+44, [Most of Reddit being so vehemently against the PC movement/culture, and yet also being extremely pro-party who endorses it.], 3s9lqg, 1447188199.0, 0
+45, [So much for that clean campaign from Sanders...], 4776k7, 1456271516.0, 5
+46, [Since many Republican states have embraced voter ID laws should Democrats do so as well?], 595j0w, 1477356037.0, 2
+47, [Why are people defending what happened at the Trump rally? Someone's voice was silenced with violence, how is this a good thing for America?], 4a4rsz, 1457834628.0, 1
+48, [Trump's opposition to Super PACs is enough to win my vote.], 3rn8ia, 1446769897.0, 12
+49, [Is Trump trying to turn America's military into a mercenary force?], 4ltcjs, 1464695824.0, 12
+50, [Is there a way that the Democratic party can combine its push for idealistic efforts (represented in Bernie) while also pragmatically ruling (represented in Hillary)?], 4mslfv, 1465243666.0, 0
+51, [Why aren't either candidates addressing the issue of the 'Fourth Industrial Revolution' aka an impending unemployment crisis caused by intelligent automation?], 566c15, 1475801143.0, 8
+52, [Why is this sub so overwhelmingly anti-Sanders?], 43cdlk, 1454152356.0, 3
+53, [To Hillary fans: how will Hillary being the Democratic nominee not be another repeat of the 2000 Gore disaster?], 3z2u2j, 1451723167.0, 2
+54, [What commonly discussed negative qualities of Bernie Sanders (especially by his detractors) are actually not true?], 45pdcs, 1455467655.0, 2
+55, [How will Reddit react to Bernie Sanders eventual decline?], 43otfa, 1454367951.0, 0
+56, [Let's be real, gun-free zone is a joke], 3t6s97, 1447813929.0, 0
+57, [Hate Trump, but agree with him on the protesters], 4adkxi, 1457998826.0, 9
+58, [Which Democrat would be a "better" candidate than Hillary this November?], 4j6in7, 1463177837.0, 18
+59, [Get rid of delegates and the electoral college. Make the popular vote decide every election. Good idea?], 4gjtfx, 1461719310.0, 6
+60, [Why doesn't Bernie speak more against his supporters violently protesting at Trump rallies?], 4a50g0, 1457838125.0, 1
+61, [Not that it will happen, but how much more popular would an Obama third term be as a voting choice, versus a Clinton or Trump presidency?], 51d01l, 1473157122.0, 1
+62, [Will Madeline Albright threatening women with eternal damnation help HRC's campaign?], 44ihpl, 1454826362.0, 0
+63, [Idea: All taxpayer funded primaries should be open, while the parties are free to hold closed primaries they would fund and facilitate themselves.], 4ngis0, 1465597465.0, 5
+64, [RBG "regrets making" Donald Trump Remarks, calling them "ill-advised". What was responsible for a sitting Supreme Court Justice changing views espoused only a few days ago?], 4suexl, 1468545540.0, 0
+65, [What has Hillary Clinton been unfairly attacked for over the past 2.5 decades?], 4bbwwk, 1458589113.0, 2
+66, [How can Sanders claim to be calling for a 'revolution' when he has done nothing to help elect anyone but himself?], 429gil, 1453553506.0, 28
+67, [Should Hillary Clinton's information security concerns be a primary issue in the General Election?], 4j6zvx, 1463184060.0, 18
+68, [Is the US now a center-left country?], 4u0xnz, 1469187960.0, 2
+69, [Why does the US still have 800 military bases across the world? Why does it seem like the American public is uninterested in reducing this number?], 4k90qd, 1463790207.0, 1
+70, [Could Bernie Sanders supporters create a party similar to the Podemos party in Spain?], 4jhr3a, 1463371957.0, 4
+71, [Hillary refers to an AR-15 as an "automatic weapon"], 49cziv, 1457391839.0, 6
+72, [Are President Obama and the left delusional about Islamic Terrorism /ISIS?], 3vfmic, 1449276695.0, 5
+73, [Charles Koch has said that Hillary Clinton might be a better president than a Republican. What does this mean for her campaign?], 4g6ssm, 1461499998.0, 3
+74, [Donald Trump is not racist.], 3zaacs, 1451866545.0, 0
+75, [when do you think we will have our first openly homosexual/bisexual president?], 4b8l90, 1458526541.0, 0
+76, [Hillary Clinton on AIDS`], 4a0kq8, 1457756973.0, 19
+77, [Is a situation where Clinton wins the election and Trump wins the popular vote plausible?], 4xjcyw, 1471128627.0, 3
+78, [Does it make sense for Indiana Democrats to strategically vote for Cruz in Tuesday's primary?], 4h57y9, 1462064500.0, 3
+79, [Clinton supporters, what is your opinion on holding gun manufacturers responsible after mass shootings?], 4dqlg3, 1460056934.0, 12
+80, [Why doesn't Sanders get criticism for being anti-science for his free trade scepticism?], 49iot9, 1457475797.0, 4
+81, [I know Clinton's email ordeal has been talked to death, but do you think she will be found guilty of anything?], 4i88vv, 1462615910.0, 3
+82, [Do you think a lot of the anti-Clinton sentiment that we see on Reddit is correlated with sexism?], 41k4lb, 1453169354.0, 0
+83, [Could supporting Trump be a good move in terms of a long game goal of reshaping the system?], 4jjoru, 1463403447.0, 0
+84, [So Donald Trump can't face Megyn Kelly, but he'll be tough on Hillary, China, Mexico and ISIS?], 42vw1u, 1453899927.0, 1
+85, [House Republican's first plan to replace Obamacare has largely bipartisan origins. Will it work?], 4pbg5l, 1466640593.0, 7
+86, [What are good reasons for the FBI giving Cheryl Mills immunity in the email investigation? Bad Reasons?], 546eqn, 1474686637.0, 0
+87, [I think the 2016 election could be do-or-die for the Republican party.], 3y5spm, 1451055030.0, 3
+88, [Why does nobody talk about the massive problems with socialism in Europe?], 45sru6, 1455510555.0, 8
+89, [What are your predictions for 2020 if (1) Trump wins or (2) Clinton wins?], 55rkss, 1475579648.0, 3
+90, [Gravis NY Poll - Hillary 53% Sanders 46%, Trump 57% Kasich 22%], 4fdrsk, 1461038800.0, 0
+91, [Should there be a federal law banning smoking indoors? Almost half the states still allow it in places like bars, restaurants and casinos despite 2nd hand smoke being a health hazard.], 4xm86t, 1471169782.0, 3
+92, [The cost of Sanders Vatican trip], 4exotw, 1460768798.0, 121
+93, [At what point in this election so you think the majority (51%) of sander's supporters will admit he lost?], 49jtf2, 1457490602.0, 17
+94, [Could Bernie Sander's environmental proposals actually worsen the environment?], 4fab49, 1460984434.0, 0
+95, [If Hillary gets the nomination, I feel as though she'd lose against almost any Republican nominee.], 3rt5j7, 1446871889.0, 1
+96, [I believe South Carolina is in play for Sanders.], 45m0lh, 1455418726.0, 0
+97, [So Bernie supporters are alleging Hillary is cheating], 4b5dzu, 1458459989.0, 6
+98, [During Fusion's Green Party Forum, Jill Stein stated her support of lowering the voting age to 16. Is this viable or would it create a conflict of interest?], 53jq3r, 1474346872.0, 4
+99, [Why is there an unspoken expectation for the people to fall behind either the Democrat or Republican nominee, even if you don't support or agree with either?], 4l6qg5, 1464316089.0, 0
+100, [Why is the USA obligated to grant citizenship to people that came here illegally when people who come here legally have a tough time getting one as is?], 3xrsex, 1450772830.0, 3
+101, [Why do democrats still claim the wage gap between men and women exists?], 41gw2b, 1453113783.0, 4
+102, [Bernie Sanders to sit out debate], 42z73g, 1453952053.0, 20
+103, [Why doesn't Bernie Sanders get that banning "corporate money" will result in more gridlock/hardline conservatism?], 43fh6u, 1454210489.0, 17
+104, [Sanders confirms that he is shooting for the Democratic nomination], 4h9e1h, 1462143682.0, 1
+105, [Glenn Greenwald and others claim Democrats are waging war on their own core Citizens United argument to protect Hillary Clinton. Is he right?], 4esys9, 1460692359.0, 0
+106, [Most people agree that getting an education is the best investment an individual can make, so why isn't making sure its citizens are highly educated a priority for the US?], 4af6e7, 1458019285.0, 8
+107, [Will Hillary using an unsecured phone line affect the current investigation or is a trivial detail?], 4j3aim, 1463121419.0, 0
+108, ["Hillary would be a right-wing politician in Canada or Europe"], 4aqlud, 1458202736.0, 1
+109, [Clinton, on her private server, wrote 104 emails the government says are classified. How does this change the discussion regarding whether or not she committed a crime?], 495xtp, 1457268827.0, 6
+110, [Polls show the race between Hillary and Bernie tightening nationally. Is this typical in the late stages of a race after a string of Bernie-friendly states? Or does Hillary have to worry about barely scraping by?], 4ehq1b, 1460517989.0, 4
+111, [How can Israel claim to be a democracy, when it claims primacy over all of Jerusalem, yet 230,000 residents of Jerusalem (nearly all of them born there) cannot vote in Federal Knesset elections?], 3xllmq, 1450663115.0, 15
+112, [How does Bernie Sanders have such a large following given facts and economic analysis?], 3ygnfg, 1451293246.0, 9
+113, [If Bernie Sanders Gets The Democratic Nomination, How Will He Do When The Republicans Start Putting Out Attack Ads?], 4jajjg, 1463240554.0, 0
+114, [Why Sanders is losing the South - an alternative to the Race Narrative], 49ly75, 1457519370.0, 5
+115, [What caused Americas political spectrum to shift so far right?], 3zwiyx, 1452217251.0, 7
+116, [Is it all over for Sanders?], 4ez8q2, 1460789203.0, 9
+117, [Should I still support Sanders if I want to distance myself away from his fans?], 3y82nc, 1451111777.0, 0
+118, [What does Sanders have against Vietnamese people?], 449u3j, 1454686623.0, 32
+119, [Does the financial and political elite's reponse to the EU referendum reveal a fundamental misunderstanding of the will of the populace? What does this mean for the US election?], 4pvpeq, 1466936726.0, 1
+120, [General Election Debate: Should Trump and Clinton debate on FoxNews?], 4l6e22, 1464311831.0, 0
+121, [Are a lot of businesses being hypocrites about North Carolina?], 4fcjd4, 1461023966.0, 1
+122, [Sanders appears to not be gaining on Clinton in Democratic opinion polls anymore. Why is this the case?], 4cb6rt, 1459215284.0, 0
+123, [Are Democrats who call for another Glass Steagall aware that the law would have made the financial crisis worse, not better?], 45uyu5, 1455542243.0, 0
+124, [Why is Bernie Sanders surging ahead of the Primaries, and can he build upon his current momentum?], 40u8ib, 1452749184.0, 1
+125, [How will Hillary handle Trump during the general election?], 3yez68, 1451266383.0, 1
+126, [WikiLeaks tweets that founder Julian Assange's "internet link has been intentionally severed by a state party." If true, what are the reasons for and implications of this unprecedented breach of the Ecuadorian embassy's diplomatic immunity?], 57wgkx, 1476725148.0, 38
+127, [Donald Trump refuses to disavow David Duke's endorsement. What effect do you think this will have?], 48363y, 1456702883.0, 19
+128, [Texit? What would be the realistic implications?], 4pyabv, 1466984630.0, 11
+129, [Let's just say a Republican wins - are we really going to wait another 4 years to discuss climate change?], 4383wa, 1454087883.0, 9
+130, [Thoughts on Sanders recent comments on handling Russia?], 47qm41, 1456542133.0, 6
+131, [Trump donates $100,000 to the National September 11th Museum. How does this affect the public's perception of him? What about the race itself?], 4e8pin, 1460368430.0, 3
+132, [Clintons honesty?], 4cyxw0, 1459583398.0, 4
+133, [Bernie Sanders Accused of Using Campaign Money to Benefit Family: Thoughts?], 3zxoif, 1452231608.0, 3
+134, [Interesting look through Hillary's donor lists...], 46lmnt, 1455930745.0, 8
+135, [Do you think Donald Trump is considering Sen. Bob Corker (TN) for vice president?], 4kpmv7, 1464059565.0, 1
+136, [Elizabeth Warren as Senate Majority Leader?], 4i5xdk, 1462581721.0, 0
+137, [Why do people believe Hillary is 'bought by Wall Street'?], 4c5qpa, 1459118265.0, 0
+138, [What good has Hillary Clinton done for America?], 493snt, 1457235022.0, 0
+139, [If Sanders were serious about "revolution"...], 46ifhf, 1455877646.0, 1
+140, [How much of a landslide would it take for the Democrats to retake the House? If that number is above 60%, how is that morally justifiable?], 40bi33, 1452465370.0, 0
+141, [Why is it considered normal or reasonable to support your race if your a minority, but racist if you do it when you're white?], 3wsb8t, 1450130663.0, 69
+142, [Does Reddit as a whole misunderstand campaign finance?], 3z6whv, 1451800350.0, 26
+143, [Why I think all of the Donald Trump critics are getting it wrong...], 4apjne, 1458187431.0, 6
+144, [Is experience a weakness for a presidential nominee?], 4xjybq, 1471136898.0, 1
+145, [Assuming Trump wins the election, will we see a thrid run by Hillary for the white house in 2020?], 4x6j03, 1470922770.0, 0
+146, [Who would win in an election between Paul Ryan and Joe Biden?], 4n9fuz, 1465479378.0, 1
+147, [Harry Reid Called Trump "an anti-woman, anti-Hispanic, anti-Muslim and anti-immigrant billionaire." Why is "billionaire" lumped in with the other negatives?], 4i28na, 1462514933.0, 1
+148, [Families affected by gun violence still criticizing Sanders over his gun stance. How will this affect his campaign?], 4dz1v3, 1460187777.0, 0
+149, [Are Safe Spaces, free speech zones and speech codes unconstitutional at public colleges?], 4de456, 1459846661.0, 1
+150, [Sanders supporters, can we agree that if the superdelegates stay the way they are, Sanders has virtually no chance of winning the nomination?], 48hj4j, 1456881991.0, 3
+151, [In December 2007, Clinton was beating Obama in the polls 45-27. Obama went on to win the Iowa and New Hampshire primaries changing the political landscape. Can Sanders do the same?], 3v15du, 1449024388.0, 3
+152, [Can you explain to a Bernie supporter why Hillary could be a good president?], 46u4ho, 1456063921.0, 5
+153, [What impact will a Trump presidency have on the rest of the world?], 57fraw, 1476471260.0, 4
+154, [Universal healthcare and free higher education are proven policies that have been broadly adopted by the developed world. Why are Sanders plans considered "radical" or "Utopian" by large swaths of the American electorate?], 43he7d, 1454238051.0, 0
+155, [Seems like the gloves are off now. Is Clinton going too far?], 4dlpkz, 1459977829.0, 0
+156, [If Cruz doesn't sue the Enquirer, is that a tacit admission that the sex affairs story is true?], 4cafgk, 1459205174.0, 0
+157, [Had Hillary divorced Bill after his affairs and public humiliation, where do you think she would have ended up in the political system today?], 46fmja, 1455842483.0, 4
+158, [At this point, less than 40 days until the election, if either candidate were to drop out, would their parties be able to run someone else or has that deadline elapsed?], 55h2f9, 1475415709.0, 1
+159, [Could Hillary scrap TPP as a last resort to regain some Sanders voters?], 4ujyrv, 1469498280.0, 1
+160, [What are the specific legislative accomplishments of Secretary Clinton?], 4duiwd, 1460112093.0, 0
+161, [Why are some Sanders supporters on social media so enthusiastic?], 4cgmio, 1459302981.0, 0
+162, [Considering that automation is eating jobs, and the machines that now do the work require capital to purchase, isn't some form of 'sharing' (ie: Communism or a variant) an inevitable necessity? If 9 out of 10 people cannot work for wages - what is the alternative?], 42w216, 1453902499.0, 0
+163, [Even if most Americans support Trump and end up voting for him, will the powerful people behind the scenes do everything they can to make sure he isn't our next president?], 3yh8fm, 1451303135.0, 0
+164, [Hillary Clinton's Colorado fundraiser and modern privacy], 4ermr5, 1460676132.0, 3
+165, [Does the transgender bill deserve the attention it is getting?], 4ej0px, 1460535298.0, 0
+166, [Why does there seem to be a strong contingent of delusional Bernie Sanders supporters?], 3wt58t, 1450143267.0, 0
+167, [Has Bernie Sanders political revolution already failed to materialize?], 478osh, 1456289244.0, 36
+168, [Why are people rushing to Sanders' defense over his questionable actions but will readily spew hate at Clinton?], 44tp1d, 1455003431.0, 5
+169, [Jane Sanders Says Bernie Will Vote for Hillary If She Wins the Nomination], 4esfeb, 1460685814.0, 25
+170, [What are your thoughts on the American government's intervention in Honduras?], 4ge26g, 1461630050.0, 0
+171, [Reuters new poll shows Trump gaining on Clinton], 4bdswm, 1458616975.0, 0
+172, [Is NPR Bias?], 42un2d, 1453882565.0, 0
+173, [What happens if Hillary gets indicted for her use of emails after she wins the democratic nomination?], 41rrb7, 1453279511.0, 0
+174, [Trump Falsely Claims that Obama and Hillary Clinton "Created" ISIS, but ISIS Was Formed in Early 2006, When Both Obama and Clinton Were in the Senate], 3zfo3y, 1451957019.0, 1
+175, [Presumptive Libertarian nominee Gary Johnson is reportedly very seriously considering former Massachusetts Governor Bill Weld as his VP.], 4jwly9, 1463606315.0, 1
+176, [Stop calling the Democratic Party and liberals: "The Left"], 3u0hwh, 1448353593.0, 0
+177, [Who has Obama called racist other than Trump?], 4pzy73, 1467007166.0, 0
+178, [Should US states have a constitutional right to secede?], 4ppx47, 1466840530.0, 1
+179, [What would a Hillary/Elizabeth ticket look like against Trump?], 4ibwez, 1462686602.0, 0
+180, [Why is so much energy among Democrats (especially on this website) devoted to criticizing/smearing Hillary (a candidate that represents their views far more than the current GOP) over Republican candidates that have gotten more extreme since 2012?], 430ilp, 1453967851.0, 0
+181, [Is it safe to say that there's an actual Civil War going on in the Republican Party?], 3wgfia, 1449911840.0, 1
+182, [Why doesn't anyone (or HRC) call out Sanders when he says he doesn't have a SuperPAC when in reality, he does?], 44hya1, 1454819144.0, 5
+183, [What is up with all this Class-Warfare Rhetoric?], 3y5wbp, 1451057814.0, 5
+184, [How effective will the "Crooked Hillary" nickname be for Trump?], 4mbsiz, 1464967927.0, 0
+185, [If Sanders cares so much about income inequality, why is he complaining that welfare programs are a "subsidy" to corporations?], 3uvp0m, 1448935250.0, 10
+186, [Assuming Hillary wins this election and the next, what can Republicans do in 2024 in order to win the presidency again?], 4wx3q7, 1470789469.0, 14
+187, [If Hillary has 100% locked in the democratic nomination, why does it matter to hillary supporters and the news that Sanders Drop out of the race?], 4fv5qk, 1461301955.0, 0
+188, [Trump Has a Right to Speak.], 4a59k7, 1457841992.0, 131
+189, [Gun control and gun ownership has no effect on homicide rates either way. Six charts that plot homicide rates versus gun ownership and gun control for 150+ countries.], 3vc9mn, 1449211700.0, 58
+190, [The #NeverTrump aren't strong, but are they strong enough to stop Trump?], 4lyn9k, 1464771882.0, 0
+191, [Third party candidates?], 4g5gm3, 1461477123.0, 0
+192, [Could strong border control and strong anti-illegal immigration laws actually help the lives of legal immigrants?], 4em7ya, 1460591965.0, 0
+193, [Do you believe Trump has asked legitimate questions no one else was willing to ask throughout this campaign?], 4dxi8o, 1460166130.0, 0
+194, [Has this country ever been so divided in politics?], 4a7gcb, 1457881231.0, 2
+195, [Is the U.S. a true democracy? Please compare your opinion.], 48fgqw, 1456852775.0, 0
+196, [IS it a big deal that State Senators and Representatives are switching from Hillary to Bernie?], 468x65, 1455748890.0, 0
+197, [Jim Gilmore was last night's real winner, and here's why...], 454u0v, 1455165383.0, 1
+198, [Republicans of Reddit! What would it take for you to vote for Bernie Sanders?], 3xrgfk, 1450767437.0, 0
+199, [Does lying still matter in the GOP? Is there a difference in lying about policy and a personal matter.], 3rsoq9, 1446865205.0, 0
+200, [Is the GOP becoming the anti-war party.], 51asf7, 1473128831.0, 0
+201, [Is Ted Cruz making the race personal?], 4hntlj, 1462318540.0, 0
+202, [Clinton supporters- why do you like her foreign policy?], 4d6z66, 1459732822.0, 6
+203, [Sanders supporters specifically, but really everyone. What do you think when you see constant misinformation as the main form of support for a candidate?], 47m37t, 1456470486.0, 0
+204, [Should Hillary Clinton go by Hillary or Clinton for campaign?], 4g4qt0, 1461466436.0, 11
+205, [Do you believe Bernie Sanders understands macroeconomics?], 4aato9, 1457944075.0, 14
+206, [Trump is dropping significantly in Ohio and Florida. It looks like RNC and MSM's attacks are working. What can Trump do to defect this?], 49gw78, 1457442260.0, 14
+207, [Is Sexism a driving force in modern American Politics?], 4ey72l, 1460775083.0, 7
+208, [Could a well done TV Drama actually help fix the political divide in this country?], 4ellpb, 1460583672.0, 5
+209, [Thought's on Hillary's latest attack on Sanders?], 4dsdml, 1460082035.0, 31
+210, [A 2011 FEC report showed Trump with a net worth "in excess of $4.2 billion". Does thing calm concerns he isn't a billionare or does it hurt him since he claims he's worth more?], 4qzmj5, 1467531497.0, 33
+211, [Why I think Bernie Sanders is more electable than Hillary Clinton], 3ytddb, 1451530857.0, 0
+212, [Liberals how do you feel about SJWs], 3v8rop, 1449147616.0, 5
+213, [With the result of Brexit, are the supposed "undemocratic" aspects of the American system (Senate representation, electoral college, amendments requiring 2/3 or 3/4 vote to pass, etc.) justified?], 4psrlv, 1466894640.0, 0
+214, [Elizabeth Warren says she will "fight her heart out" to keep Trump out of the White House. Does this signal that she would like to be on the Democratic ticket as VP?], 4hvg7w, 1462410123.0, 0
+215, [Do you believe a Hillary Clinton presidancy is guranteed now, or more than likely?], 4hsr0m, 1462362051.0, 1
+216, [Does Bernie owe any of his success to the Republicans who spent a few million dollars to "support" him to weaken Hillary?], 4hr50b, 1462344673.0, 0
+217, [Bernie Sanders and income inequality - what has he done?], 4f9g1i, 1460970185.0, 3
+218, [Has the Black Lives Matter movement overreached by going beyond police and criminal justice to campus protests and interrupting campaign events?], 4ad4re, 1457991871.0, 0
+219, [Donald Trump only got 7% of the vote in Wyoming, an all-time low for him. What does this mean for his campaign?], 4a8dz1, 1457906067.0, 0
+220, [Is Reddit hurting the Democratic Party's chance of a Presidency?], 443pw8, 1454588089.0, 3
+221, [What happens if Clinton gets the nomination but then gets indicted with this whole email issue?], 42m80t, 1453768244.0, 1
+222, [Regarding conservative beliefs that religion ought to be a valid reason to not allow LGBT service in their establishment, has the question been asked to any candidate: Do they feel if a religion felt they should not serve ,say, black people do they feel that would be reasonable?], 3z02da, 1451665097.0, 2
+223, [Theory: The Democratic Party is long-term unsustainable.], 3sn7se, 1447434919.0, 0
+224, [Have local Democratic governments failed midwest cities?], 4zk5lx, 1472179890.0, 0
+225, [What does the future of the ACA look like with massively increasing premiums, insurers leaving exchanges and co-ops failing?], 4ybuq8, 1471550243.0, 4
+226, [Could the DNC have avoided the WikiLeaks controversy by releasing internal emails before the leak?], 4uh5wj, 1469456208.0, 0
+227, [What do you think Mitt Romney's third party chances are?], 4ks4gk, 1464093056.0, 0
+228, [Has Clinton's email issue gotten worse?], 47gv2f, 1456397976.0, 3
+229, [Sexism among Democratic voters? More men support Bernie, more women support Hillary. Is this more indicative of an aversion of male Democrats to vote for a female, or a preference of female Democrats to vote for a female?], 40zcws, 1452830969.0, 1
+230, [Donald Trump calls the Paris/Egypt missing airliner terrorism without any evidence or confirmation. Is this just Trump the candidate or does it reflect his approach to foreign policy?], 4k3gbl, 1463705887.0, 21
+231, [Do you think Hillary's campaign has been dogged by implicit sexism?], 49k33l, 1457493894.0, 42
+232, [Are there any benefits of having a superPAC protect a presidential candidate on the Internet?], 52s50r, 1473908894.0, 0
+233, [What would be the cultural impact of a Hillary Clinton victory?], 4lv6cg, 1464729777.0, 36
+234, [Thoughts about Bernie Sanders comments about Cigarettes?], 4g8l5j, 1461540881.0, 20
+235, [Clinton Campaign Chief Implicated in Panama Papers, Any Importance/Impact], 4dkovv, 1459955035.0, 0
+236, [How likely is it that Chelsea Clinton will run for president in the future?], 4d73l8, 1459734561.0, 11
+237, [How do we change the voting process from "First past the post" to "ranked voting"? Can this be done on the individual state levels and outside of the elected leaders?], 59i3ng, 1477524137.0, 0
+238, [Betting markets have Trump way up. Has he been underestimated?], 4k4fmw, 1463717466.0, 3
+239, [How is Rubio considered electable when he's such a hardcore conservative?], 43ur1z, 1454456821.0, 3
+240, [People all across the American political spectrum claim that Hillary is corrupt. How much weight is there to this claim?], 4ngaql, 1465594387.0, 0
+241, [Finally, a new Nevada poll (N=1236). Results: Sanders 45, Clinton 45 and undecided 9. Thoughts?], 45fe1a, 1455321920.0, 7
+242, [The Rich Win Because No One Else Plays The Game], 3um9r2, 1448767486.0, 6
+243, [A new batch of released emails shows a top Clinton aide arranging a meeting between a Clinton Foundation donor and a US Ambassador. Does this really qualify as "pay to play?" If so what are the ramifications?], 4x8r58, 1470960433.0, 31
+244, [If you were the Clinton campaign how would you prepare for a potential for a Wikileaks surprise.], 596kip, 1477366629.0, 12
+245, [Whether Trump or Clinton win the election, how much do you think they'll win by?], 4nk8tu, 1465651522.0, 0
+246, [What would it take to change it voting system from FPTP? How could it be accomplished? What laws would need to be passed?], 4nd3s7, 1465537387.0, 0
+247, [Republican primary turnout is up while democratic primary turnout is down. Why is happening and is it reflective of what may occur in November?], 4h7ac9, 1462096784.0, 1
+248, [A sizeable portion of the black community are conservatives and devout Christians - why is it that they do not vote for Republicans, and instead vote in overwhelming numbers for the much more "liberal" Democrats?], 4g288s, 1461417532.0, 1
+249, [If Bernie wants to reduce income inequality and loves Nordic countries so much, why does he focus so much on the minimum wage instead of what the Nordic countries do?], 4dd67g, 1459833208.0, 0
+250, [Which Democrats could have really offered Hillary Clinton a legitimate race for the nomination?], 4dclte, 1459826041.0, 1
+251, [Dick Cheney said that if there were even a 1% chance of Pakistan providing nuclear material to terrorists they should be attacked. Should this logic be adopted with Climate Change?], 4amhs1, 1458136453.0, 0
+252, [Did Trump's campaign chose UIC for their Chicago Rally to be intentionally provocative?], 4a2i13, 1457786318.0, 1
+253, [Shouldn't liberals be happy about the ascendance of Trump?], 4934ab, 1457225442.0, 0
+254, [Are Hillary Clinton's speech transcripts like Mitt Romney's tax returns?], 46j2gn, 1455887521.0, 0
+255, [Why is being PC considered (by some people) to be a "Bad Thing"?], 42na5x, 1453779850.0, 0
+256, [Is there any similarity between changing perceptions toward Muslims today, and the change in perception toward Jews leading up to the Holocaust?], 3vt65m, 1449536655.0, 1
+257, [Gun Control vs Syrian rebels, are the issues so different?], 3tg0hx, 1447976931.0, 0
+258, [Why are there no mainstream conservative networks besides Fox News?], 3rhltc, 1446671819.0, 2
+259, [What are Hillary's chances to clinch the nomination before June 7th?], 4made5, 1464943707.0, 2
+260, [How would Sanders finance a general election?], 4iaud5, 1462670536.0, 4
+261, [Sanders said that he will run till convention .Will Obama endorse Clinton before that to stop Sander's attacks on her or to sideline his campaign], 4a6h26, 1457861576.0, 3
+262, [Do you believe 3D printers should be regulated?], 4lzaj3, 1464780941.0, 7
+263, [Voters uncomfortable with candidate as nominee: Clinton (21%) = Trump (21%) < Sanders (30%)], 4inpnb, 1462885608.0, 7
+264, [What does the 75 year wait for Clinton Emails mean?], 4mxofj, 1465309112.0, 0
+265, [According to a NBC News poll Hillary Clinton's favorability rating (32/56) is the lowest they've ever recorded. Is there any chance of a recovery before the GE?], 4f7ail, 1460939737.0, 0
+266, [What do you think of the FairTax proposal, to replace income and payroll tax with a consumption tax on new goods?], 4jxd9d, 1463615923.0, 0
+267, [How is "Healthcare is a right" different from "Haircuts are a right"? Neither hospitals nor salons exist in nature. People choose to become barbers and doctors because you can make a living. How can a service - that even under single *payer* is still a *paid* service - be a right?], 49kglb, 1457498481.0, 0
+268, [What is the likelihood that Bernie sanders wins the Democratic primary? Becomes president?], 3uth6e, 1448892698.0, 0
+269, [To what extent can the Clinton adminstration be blamed for NAFTA?], 55399g, 1475198101.0, 0
+270, [Could Trump be the face of a new kind of political leader? As we move into a globalized world, will CEO's replace career politicians?], 4v2a7q, 1469760189.0, 2
+271, [Would you consent to the government monitoring you (telephone, computer, mobile etc.) in order to combat terror?], 4uowcd, 1469572242.0, 0
+272, [Why are "bad" Vice Presidents selected?], 4t36u3, 1468674088.0, 0
+273, [Could a Sanders insurgency in the Democratic Party have been successful against anybody but Clinton?], 4i74tw, 1462597736.0, 1
+274, [Poll ranks "socialist" as the least likely kind of candidate Americans would vote for. Why is there a stigma on socialism and is it fair?], 4egwbi, 1460507640.0, 0
+275, [Ex-Trump Insider: Donald Doesnt Want to Be President], 4dt05j, 1460089964.0, 0
+276, [Cruz Supporters: What is "The Thing" and how do why does Cruz refuse to talk about it?], 4ce8fb, 1459260278.0, 0
+277, [What will the long term effect be on die-heard Sander Supports], 47sddf, 1456560735.0, 1
+278, [If Bernie Sanders truely wants to follow Scandinavia, Why is he in support of a minimum wage?], 42awnj, 1453586077.0, 2
+279, [Is Ann Coulter right about immigration?], 41lhvr, 1453185905.0, 0
+280, [If Trump faces Bernie the conservative liberal and left leaning republican will back Trump, leading to a Donald Trump US presidential win.], 4136d0, 1452894915.0, 0
+281, [Trump, the Clintons, and Sexism], 3yfr8p, 1451279047.0, 0
+282, [Trump wins Politifact lie of the year, yet many think he's a truth speaker. Why is this?], 3xrscu, 1450772803.0, 0
+283, [Question about the GOP and the concept of 'traditional values'], 3xiyf6, 1450601091.0, 0
+284, [How do people favour gun control explain the catastrophic failure of anti-gun legislation in a place like Brasil?], 3vffki, 1449273760.0, 0
+285, [How do you feel about candidates paying people to post positive things about them on social media?], 4g5kon, 1461478839.0, 11
+286, [Is the Sanders agenda for the privileged?], 4cvfxx, 1459543629.0, 97
+287, [Were Brexit and the FARC vote propelled by the same forces? Does it mean anything for Trump?], 55og7k, 1475540513.0, 0
+288, [How big is Donald Trump's "hidden advantage" due to stigma of admitting to being his supporter?], 54f885, 1474841178.0, 8
+289, [What are the advantages and disadvantages of a weak federal government?], 53dw22, 1474258035.0, 4
+290, [FBI formally confirms investigation into Hillary Clinton's emails. Any effect on the primary tomorrow?], 44tn2a, 1455002740.0, 7
+291, [Why isn't Bernie attacking Hillary, but Trump?], 3y435l, 1451016616.0, 0
+292, [Carl Bernstein on CNN: 'White House is horrified at how Clinton is blowing up her campaign... worried she could blow the Democrats chance for the White House.' Thoughts?], 44moxp, 1454896864.0, 0
+293, [Do you buy that minority or oppressed groups "can't" be racist, thus giving them somewhat of a free pass to criticize & mock white males or white people?], 3yrlkw, 1451496405.0, 0
+294, [Trump was the big winner in tonight's democratic debate], 3xjtkq, 1450618825.0, 3
+295, [Hillary's VP?], 4khybe, 1463939445.0, 15
+296, [How Democrats suppress the vote], 3rdlkc, 1446600831.0, 22
+297, [Are Hillary supporters at all nervous about the e-mail investigation?], 4cqoh4, 1459469237.0, 12
+298, [Is the Sanders campaign the modern equivalent of the 1980 Kennedy Campaign? Very left wing and very divisive to the party?], 4jwn8j, 1463606804.0, 17
+299, [When will Sanders's tax returns be released?], 4exsrz, 1460770182.0, 10
+300, [Why is it considered wrong to say, "We have a Muslim problem" but considered fine to say, "Trump supporters are racist"?], 40ovuv, 1452667224.0, 8
+301, [In the Michigan primary, more people voted for Republicans than for Democrats.], 4txlxd, 1469144564.0, 5
+302, [What would the societies/governments of the 4 regions of the political compass look like?], 4msjxe, 1465242937.0, 4
+303, [Man who installed Hillary's private email server has been given immunity by the government, what does this mean for Hillary?], 48q216, 1457003333.0, 2
+304, [How close are we to Presidential Candidate calling for the repeal of the 2nd Amendment?], 3we5i8, 1449880028.0, 2
+305, [Is Hillary's health going to be a major issue in this election?], 51h2i8, 1473220364.0, 0
+306, [Would you be in favor of one 6 year term rather than two 4 year terms in the USA?], 530ox9, 1474037182.0, 4
+307, [Are elected officials more religious by percentage than the electorate?], 4sqim3, 1468486261.0, 1
+308, [What would have to happen to get the US to switch to a voting system like instant run-offs or something other than the problematic single-winner system in place now that forces everyone to vote for one of two major parties if they want their vote to count or not steal votes from a major candidate?], 4noy5n, 1465736842.0, 0
+309, [Elizabeth Warren says she is capable of being President. What does this mean?], 4nhsmd, 1465613120.0, 0
+310, [Is it a good idea to repeal voter ID laws?], 4gpz08, 1461811789.0, 1
+311, [Western Europeans, do you like your "social democratic" policies or do you want more free-market policies?], 4dyuo4, 1460184672.0, 1
+312, [Why do Americans view politics and elections as if they are a sport?], 4dbmmu, 1459813459.0, 0
+313, [Is the Fascist label really unfair for Trump at this stage?], 49x3j7, 1457698747.0, 0
+314, [Is reddit severely underestimating Trump's chances against Hillary in the general election?], 46ysk9, 1456138289.0, 1
+315, [Why do people think that Bernie won't face the same obstruction that Clinton will face if he wins the general?], 46w3fr, 1456102965.0, 0
+316, [Because of Hilary's 8 super delegate votes she beat Sanders 15-13 in New Hampshire... Why isn't this being discussed?], 451q1i, 1455120953.0, 1
+317, [Should Hillary release the transcripts from her Goldman Sachs speeches?], 44eexq, 1454757243.0, 0
+318, [What has to happen for the republican party establishment to stop freaking to about Donald trump, and for the Democratic party establishment to start?], 42avvj, 1453585600.0, 0
+319, [Is Hillary flipflopping her stances and positions really indicative of her being untrustworthy?], 42492a, 1453471198.0, 1
+320, [Regarding Clinton's emails. Is there precedence for the criminality of what she did?], 41sqx0, 1453293828.0, 0
+321, [Students at Amerhest college in Massachusetts are protesting free speech. Anybody that agrees/ disagrees with them? What do you guys think this could mean about the future of our country?], 3ulq75, 1448759339.0, 0
+322, [Why the un-warranted hate for Obama from a lot of people?], 3u1cfc, 1448367817.0, 0
+323, [I have a question about something Hillary Clinton said to Donald Trump.], 54z5no, 1475131929.0, 0
+324, [Over the next 4 years could a centrist party rise in the United States?], 530fbs, 1474031648.0, 1
+325, [Sanders Campaign Manager calls for Brokered Convention], 4do5ww, 1460010555.0, 0
+326, [Why is Trump's temporary ban on Muslim immigration so evil?], 3wysso, 1450230826.0, 0
+327, [Am I the only one that feels that the left isn't really that much better when it comes to the whole racism and bigotry thing?], 3wv5ft, 1450171043.0, 0
+328, [Agree or Disagree: The Sanders Campaign is making many of the same mistakes that the Clinton campaign made in 2008.], 4eshag, 1460686445.0, 32
+329, [Why have Bernie supporters rallied behind Clinton so quickly?], 4pyblu, 1466985117.0, 252
+330, [Glenn Greenwald recently said, "the big scam of the democrat and republican parties is that they agree overwhelmingly on most issues." What are some of these issues?], 50qfu7, 1472804084.0, 0
+331, [I'm tired of these shootings happening so often...], 3v7609, 1449121671.0, 8
+332, [Why do White Republicans make more money on average (according to exit polls) than white Democrats despite being (on average) less educated?], 5551oc, 1475219695.0, 0
+333, [Could Hillary neutralize the emails issue by announcing at large investment in cyber-security?], 54od31, 1474971223.0, 0
+334, [Would a lottery run by the federal government help with the debt crisis? And if so are there any legal issues that can prevent this from being implemented?], 4snrg2, 1468452843.0, 2
+335, [If no candidate reaches 270 what does congress do?], 4nkd7b, 1465654267.0, 0
+336, [Do the eleven states' lawsuit against the Obama Administration have a case?], 4lf5x8, 1464455913.0, 3
+337, [How much has Sanders hurt Clinton for the Main Contest?], 4hvcw2, 1462409036.0, 1
+338, [Why do Pro-Life individuals sometimes support an incest exception?], 4gsn77, 1461851057.0, 0
+339, [New York has some extremely tough voter registration deadlines. How will this affect the NY primary results?], 4f0nqj, 1460813544.0, 2
+340, [Advocating for the Devil], 4d7r5i, 1459743865.0, 0
+341, [What is a positive vision of conservatism?], 4bbkkw, 1458580144.0, 1
+342, [Would Sanders be comfortably in the lead if Trump wasn't in the race at all? Has he split the youth vote and siphoned some enthusiasm that would have otherwise gone to Bernie? His rallies seem to be full of young people.], 4a64ly, 1457855745.0, 0
+343, [Violence is now commonplace at Trump rallies. How is this a reflection on contemporary American politics and where do we go from here?], 4a1wfh, 1457776364.0, 0
+344, [Did Hillary hurt herself in that CBS News interview?], 46lt3o, 1455932811.0, 0
+345, [If Hillary Clinton can't be trusted to reform wall street because of donations from wall street, how can Bernie be trusted to make college free when he gets lots of money from academic institutions?], 450iks, 1455101147.0, 2
+346, [Trump supporters, recently Trump said Jeb had to rely on his mommy; is this the kind of discourse you endorse?], 42nb88, 1453780211.0, 1
+347, [What are five good reasons a democrat should not vote for Hillary Clinton?], 3uqsfw, 1448852269.0, 2
+348, [How effect would Hillary's message of unity and love and kindness be in the election?], 4fmlh9, 1461174222.0, 0
+349, [Why is the Drudge Report ignoring the Cruz infidelity scandal?], 4c4zt4, 1459097747.0, 4
+350, [When does Bernie Sanders concede?], 4a40s7, 1457822111.0, 3
+351, [Are calls for assassination of Trump any different than calls for assassination of Obama in 08?], 48s7f6, 1457044359.0, 5
+352, [Without mentioning God or Religion, Can you give me an argument for why Abortion is wrong?], 3ytweb, 1451538646.0, 0
+353, [Why is Bernie Sanders still running and why are people supporting him when it is virtually impossible for him to attain enough delegates?], 4bxpf3, 1458959271.0, 0
+354, [In 2006, President Obama, Hillary Clinton, and Joe Biden were U.S. Senators and obstructed a Republican President during the nomination of a new Supreme Court Justice. Today, 10 years later, Republicans are threatening to do the same to President Obama. Why do so many here seem surprised by this?], 473970, 1456207196.0, 7
+355, [Sanders missed a local Iowa Democratic Party fundraising dinner yesterday. The event had been scheduled for nearly a year. At what point does his revolution push people too far?], 42hv2z, 1453699924.0, 87
+356, [What qualities does Bernie Sanders possess that would make him an effective commander in chief? And what exactly are his skills and experience in foreign affairs?], 49t0ea, 1457636576.0, 9
+357, [Would Sanders have Beaten Trump?], 5955tj, 1477352323.0, 18
+358, [Hillary supporters: How do you feel about her receiving $2.9 million from the banking industry for giving twelve speeches?], 4dyt2c, 1460183962.0, 0
+359, [Political violence .], 4mkikb, 1465107120.0, 4
+360, [Do you really want Hillary Clinton as your Commander in Chief?], 3t5dpg, 1447791519.0, 4
+361, [How would Libertarian Presidential nominee Bill Weld be doing right now?], 5470on, 1474694022.0, 5
+362, [What would have happened if Biden had run?], 4mx8td, 1465301439.0, 4
+363, [Will a Warren VP pick 'turn off' anti-trump conservatives?], 4mgibl, 1465038354.0, 2
+364, [What is your opinion on Hillary's statement that Bernie puts gun manufacturers' rights before the parents of victims of Sandy Hook?], 4dsiad, 1460083655.0, 5
+365, [Why is opposition to illegal immigration controversial?], 4a0x16, 1457761475.0, 4
+366, [In 2015 Michael Bloomberg proposed banning African Americans from owning firearms- will this hurt him if he decides to run?], 42l0t0, 1453752395.0, 0
+367, [Why does the USA (where Christianity is the main religion) have an obligation to take in refugees (who are mainly Muslim) from the Middle East? Why not send them to countries where Islam is the main religion and don't have much violent conflict going on?], 3yfmlb, 1451277084.0, 0
+368, [Why the United States mass shooting number for 2015 is not 355, but 21.], 3vcoin, 1449218117.0, 20
+369, [Sanders supporters, if Sanders wins the nomination, how do you plan to bring back the Clinton supporters to the fold after targeting them and Clinton with so much vitriol?], 49uqf6, 1457663316.0, 46
+370, [We know there are #NeverTrump Republicans. Are there #NeverHillary Democrats?], 4m41yd, 1464850170.0, 9
+371, [Why does Sanders continue to dismiss Clinton's wins in the South?], 4e6uug, 1460340788.0, 75
+372, [Why did America support Pakistan over India? Will America be supporting India instead anytime soon?], 5013f5, 1472442999.0, 7
+373, [If Democrats keep winning the presidency, some people say that party fatigue will eventually set in and that we'll have a republican president. What would they look like?], 4d29xc, 1459645063.0, 6
+374, [What do hedge funds gain from supporting HRC?], 4viv1a, 1470025804.0, 0
+375, [Has U.S. Military Intervention Ever Been Good? Should It Still be a Valid Option Today?], 4unpp3, 1469552393.0, 2
+376, [Best news source], 4qq2th, 1467378866.0, 0
+377, [Over 60,000 Democrats in Brooklyn are registered today compared to November 2015. What could cause this, and what are the chances that it's a mistake or intentionally fraudulent?], 4ffay7, 1461059255.0, 1
+378, [Why is Trump responsible for the violence at his rallies?], 4ak4g6, 1458100333.0, 2
+379, [I will submit what I think is an unpopular statement on this subreddit, I think people who consider Hillary the more electable Democratic candidate have it backwards, and here is why.], 43xov5, 1454494836.0, 3
+380, [The DNC is refusing to sanction a debate next week. All candidates want a debate. They are being held hostage by their own party.], 42vb2k, 1453891365.0, 0
+381, [If Hillary Clinton's emails are going to blow up in her face I really hope it happens sooner rather than later...], 40cp8r, 1452482486.0, 0
+382, [What are you're thoughts on Trump's loyalty test for admittance into one of his rallies?], 401psg, 1452298513.0, 1
+383, [Is the United States due an ex-military President?], 4vxldi, 1470243977.0, 2
+384, [Do you think there will be violence at the Democratic or Republican conventions?], 4jeqt1, 1463316770.0, 0
+385, [The IG Had to Get His Clearance Level Upped Just to Read Hillary's Secrets-Soaked Private Email], 41sa5x, 1453286845.0, 0
+386, [Is is just me or is the criticism of Trump for not disavowing David Duke hard enough really petty?], 48itee, 1456897756.0, 66
+387, [Why do you think the candidates (Clinton & Trump) talked haven't about the current controversy involving the Chess World Championship being held in Iran?], 55ok22, 1475541774.0, 18
+388, [Do we think that a Bernie presidency would actually usher in the "political revolution?"], 439csc, 1454111658.0, 20
+389, [If Donald Trump wins in 2016, could a potential backlash cause a Democratic majority in Congress for the redistricting in 2020 from the census.], 4xdbid, 1471034552.0, 0
+390, [How would Donald Trump dropping out (as opposed to being derailed by the RNC) affect voter turnout/the election?], 4niizy, 1465622548.0, 1
+391, [Should Bernie denounce his past support for gun immunity bill?], 4ezwy3, 1460799665.0, 0
+392, [Why is Iraq war a complete disaster but Afghan war justified?], 4dpnjn, 1460034486.0, 0
+393, [Bernie Sanders campaign just sent an e-mail asking supporters to phone bank to win New York. Is this a possibility or is it a lost cause?], 4bsno2, 1458870353.0, 0
+394, [Doesn't Donald Trump have the most sensible and moderate foreign policy of all the Republican candidates? Why is he then being attacked for having "weak" foreign policy?], 49yr5g, 1457731101.0, 1
+395, [So far, Mike Ditka, Charlie Sheen, Dennis Rodman, Mike Tyson, Kid Rock, Azealia Banks, and Kirstie Alley, among other celebrities, have endorsed Donald Trump. How seriously should we take political endorsements from celebrities?], 49vbwc, 1457670771.0, 0
+396, [Astroturfing from Sanders campaign?], 4984xt, 1457312873.0, 0
+397, [What do you make of this article by Einstein from 1949?], 47maz7, 1456473447.0, 0
+398, [Need opinions about Bernie-supporter rhetoric], 46yjtq, 1456134815.0, 0
+399, [Hillary's Superdelegates], 46xpro, 1456123151.0, 0
+400, [Why Republicans must elect Marco Rubio.], 44i3ff, 1454820978.0, 0
+401, [I don't think I want to vote next year], 3vzvxk, 1449644925.0, 1
+402, [How does Cuba keep its health care costs so low and have results equal to or greater than the USA?], 3vsrsy, 1449530772.0, 1
+403, [A question for "the Left": why is economic equality desirable?], 3tupo2, 1448253360.0, 0
+404, [What would be the best way for Sanders to end his campaign so that his message can persist at this level?], 4eotli, 1460625996.0, 42
+405, [What are some interesting possible outcomes if nobody gets a majority in the electoral college?], 590uex, 1477286559.0, 0
+406, [If neither Clinton nor Trump manage to get the required 270 electoral votes to win the Presidency due to third party candidates who will the House of Representatives likely select?], 4va1o1, 1469872711.0, 2
+407, [Why are superdelegates votes public?], 4fw5h8, 1461315636.0, 1
+408, [Assuming Hillary wins the nomination, what will the debates be like?], 4ehht6, 1460515118.0, 1
+409, [Bernie supporters, do you agree with Sanders on immigration?], 4dh0ts, 1459900282.0, 0
+410, [Should President Obama have gone after the previous administration's officials for "war crimes."], 4cd73p, 1459242470.0, 1
+411, [Can a Bernie supporter explain why someone torn between Clinton and Sanders should go with him, even though his policies are unlikely to ever get through Congress?], 4bpl3c, 1458811687.0, 0
+412, [Why is Trump running for a Republican?], 4auv41, 1458273810.0, 0
+413, [Trump wins the Northern Mariana Islands: How will this affect the race?], 4ai4bp, 1458071978.0, 1
+414, [Outside of America (or where I come from at least), it is a strongly held belief that the American government is responsible for the radicalization of Islam, and that Muslims weren't mindlessly violent before that. What do Americans make of this?], 4acblk, 1457973780.0, 0
+415, [What are the chances of agent provocateur activity at Trump rally in Chicago?], 4a343e, 1457799698.0, 1
+416, [Why and how has the 'left' moved so far left on the political spectrum that a self-identified socialist (Bernie) has become a major contender for president?], 49r500, 1457599907.0, 2
+417, [A Response to the Romers Critique of Friedman Bernienomics Analysis. Is mainstream Keynesian economics oblivious to effects of inequality?], 48ped1, 1456994908.0, 0
+418, [How likely is it that Hillary Clinton will be indicted for the private email server?], 45frk4, 1455326624.0, 0
+419, [Sanders supporters - If Ron Paul was running right now who would you vote for?], 42bfyr, 1453594805.0, 0
+420, [Most gun control advocates claim the "majority of American people support these measures we propose", yet actual public sentiment indicates otherwise], 3zl5nn, 1452043760.0, 1
+421, [Why are gun deaths the only one we care about? The only ones we try to legislate against?], 3zl1s9, 1452042395.0, 3
+422, [Why don't conservatives have a strong alternative to the ACLU?], 3z4bu2, 1451750951.0, 1
+423, [Why is Trump so popular?], 3z1k5x, 1451702844.0, 0
+424, [An example of media bias in reporting on the PP shooting], 3uu6k3, 1448909760.0, 0
+425, [Would you ever drop your political party for full, real decentralized voting and societal administration?], 3ulnd5, 1448758133.0, 1
+426, [If Government can't impose morality, don't incest and polygamy need to be legal?], 3uhf0l, 1448672951.0, 1
+427, [How do you feel about transgender/non binary people and pronouns?], 3tz915, 1448335891.0, 1
+428, [What if we raise the minimum wage to a percentage of a business' earnings so that Large Corporations like Walmart and McDonalds have to pay their employees ~$15 while mom and pops will have the advantage of an $8 minimum wage allowing them to compete. Would this work?], 3sgk5f, 1447308220.0, 2
+429, [Will the 114th congress be seen as the worst all time?], 4vqyb3, 1470144924.0, 5
+430, [Why don't we have a 'voting week'?], 4kme4m, 1464008721.0, 6
+431, [Trump was endorsed by the Black Republican Caucus today.], 4akg8t, 1458104613.0, 0
+432, [Is Bernie Sanders a hypocrite?], 3yvf8o, 1451564312.0, 4
+433, [What would the impact be of Trump dropping out of the race for $150 Million?], 4p73uf, 1466573735.0, 7
+434, [Hillary Clinton supporters, What are some things you like/admire about Bernie Sanders?], 4abkzt, 1457956816.0, 9
+435, [Why do millennials hate Donald Trump so much?], 3tzfw6, 1448338495.0, 25
+436, [If Biden had won the Democratic primary and was now the nominee against Trump, how would the race be different?], 551zo2, 1475182050.0, 0
+437, [Why do so few Americans vote for third parties compared to other democratic countries?], 4xdwp7, 1471042428.0, 5
+438, [Who will run in 2020?], 4x0hzr, 1470833201.0, 5
+439, [Should the United States Department of Education be abolished?], 4o4qcs, 1465980760.0, 0
+440, [Progressive VP picks for Hillary?], 4likob, 1464515197.0, 5
+441, [How would a contested convention work for the Democratic Party? Is there any merit to Sanders' assertions that it will happen?], 4hbg2d, 1462164490.0, 0
+442, [Why aren't the same people who are boycotting North Carolina pushing for ending our relations with Saudi Arabia?], 4ejkup, 1460543741.0, 0
+443, [Anti-Trump Protesters: Are the political left's chickens coming home to roost?], 4a2rsk, 1457791557.0, 0
+444, [Is Clinton-Warren a strong ticket?], 49rz2r, 1457613308.0, 2
+445, ["Bernie or Bust" What are your thoughts?], 49pruq, 1457581833.0, 0
+446, [Is Bernie Sanders the Ron Paul of the left?], 3zzlic, 1452257986.0, 3
+447, [Does anyone else think Trump would be a great short term solution for getting the American economy on track, while still opposing his ideologies?], 3wt19o, 1450141664.0, 0
+448, [Bunch of Trump supporters helped Sanders win in WV - argument for closed primaries?], 4it4pr, 1462967258.0, 68
+449, [I'd like to discuss justice in modern America. 90% of convictions forego our guaranteed right of a trial with the "Plea Bargain" system. Now people are being arrested for handing out copies of the constitution and jury rights information.], 40bor5, 1452468623.0, 13
+450, [Would Clinton Supporters vote for Sanders if He won through indictment or super-delegates?], 4m8hz8, 1464919696.0, 37
+451, [The Republican party was said to be a fractured mess as Trump won the nomination, but instead the GOP is unified and the Democrat party is in a bitter fight to the end for the primary.], 4kskuf, 1464102380.0, 62
+452, [Is a Stein spoiler possible?], 4n9b24, 1465476893.0, 0
+453, [Noam Chomsky says Democrats are really just moderate Republicans... Do you agree?], 4gkkjs, 1461728414.0, 0
+454, [What is the postmortem for the Democrat Party if Trump wins?], 4hzj0h, 1462477557.0, 0
+455, [Should people be allowed to do what they want if we have free healthcare?], 4adivd, 1457998041.0, 3
+456, [I'm calling it now: Trump is our next president], 413j38, 1452900521.0, 0
+457, [What would conservatives have done differently than Obama to avert an economic recession back in 2009?], 40mea9, 1452633401.0, 5
+458, [How are Trump's comments about Hillary considered sexist, but Hillary's response to Trump isn't?], 3y1xly, 1450965021.0, 0
+459, [In the latest Republican debate, Barack Obama and Hillary Clinton's name was said frequently. Why wasn't Bernie Sanders mentioned in this?], 3x8qvo, 1450404860.0, 4
+460, [Sanders Supporters: Does Jane Sanders alleged bank fraud affect the way you view Bernie at all?], 4ce5fo, 1459258517.0, 10
+461, [Why is Hillary more popular among black voters than Bernie?], 45liec, 1455412599.0, 8
+462, [When does Bernie Sanders drop out of the race?], 42byct, 1453601726.0, 8
+463, [What happens if no candidate reaches 270 electoral votes, and the votes for both the president in the House of Representatives and the vice president in the Senate are ties?], 58xvcj, 1477243660.0, 0
+464, [Should we just leave Afghanistan for the Taliban?], 58jzuj, 1477033425.0, 0
+465, [Will this being a high-interest presidential election result in low-information voters turning out in greater numbers?], 50ifvr, 1472693939.0, 1
+466, [Would it benefit either Clinton or Trump to run a positive campaign instead of attacking each other?], 4ttq5d, 1469082045.0, 0
+467, [What is Trump's strategy for the NE states this November?], 4llq9o, 1464577483.0, 2
+468, [Why argue about bathrooms and gender?], 4dybzk, 1460177243.0, 0
+469, [Should the federal government add sexual orientation as a protected class?], 4dqi93, 1460054989.0, 0
+470, [Some protester gets beat up at Trump rally in Arizona. Why are many Trump supporters so happy.], 4b6tmr, 1458489430.0, 4
+471, [Is Donald Trump a Fascist?], 4a7304, 1457872955.0, 0
+472, [Who becomes president in the event of a 269-269 Electoral College tie?], 57imzy, 1476506898.0, 10
+473, [If Trump sinks super low in the polls, do you think he'd change his policy?], 51v67e, 1473417572.0, 8
+474, [How prevalent is election rigging and voter fraud in the United States?], 59yhx6, 1477737660.0, 0
+475, [Some Democrats see Senator Elizabeth Warren (D-MA) as a potential running mate for Clinton.], 4ipk40, 1462920598.0, 16
+476, [What are some credible arguments for supporting Traditional Marriage?], 4g566y, 1461472671.0, 0
+477, [How many more delegates is Sanders expected to win during the delegate election processes?], 4f4gjr, 1460881512.0, 3
+478, [Why does nobody in the Sanders camp bring up his religion when discussing his viability?], 4clibr, 1459383893.0, 5
+479, [If gun owners have to be licensed by the government, why not journalists?], 423ux0, 1453464543.0, 0
+480, [Should the United States alter/abolish the 2nd amendment?], 4oolxq, 1466287154.0, 48
+481, [What would your optimal candidate for a 2020 race be?], 4h7kid, 1462101951.0, 0
+482, [Should gun control devolve to local control?], 4fodcq, 1461200928.0, 0
+483, [Donald Trump says the U.S. is headed towards a "very massive recession." Is there any evidence to suggest that he is right?], 4fc5wk, 1461019479.0, 0
+484, [Is anybody else really bummed about there not being another debate?], 4ast0n, 1458247992.0, 0
+485, [Does Sanders' political revolution simply come down to a $15 trillion tax increase?], 49uhh5, 1457660159.0, 0
+486, [Would Donald Trump really make a bad President of the USA? Simply put, is he a genuine madman?], 492qiu, 1457219462.0, 0
+487, [Statistical model has Trump with a 97% chance to defeat Hillary Clinton], 47rg91, 1456551068.0, 0
+488, [Why would a terrorist attack benefit trump in GE?], 47jo38, 1456446217.0, 1
+489, [How certain is Hillary's nomination?], 46y9zp, 1456130900.0, 2
+490, [Is Donald Trump the Least Hawkish Candidate?], 45l3va, 1455408505.0, 0
+491, [Why hasn't Elizabeth Warren endorsed Bernie Sanders? Here's one theory. Lets discuss!], 44yv96, 1455080002.0, 0
+492, [A discussion on the philosophical differences between dems and repubs.], 41vl2c, 1453342888.0, 0
+493, [I'm a web developer, and I have an idea on how to solve political ignorance in this country.], 40hwcv, 1452563443.0, 0
+494, [If Obama cares so much about gun violence (taken to tears) such that he's now taking Executive Action, why didn't he do so five or so years ago? There has been no uptick in gun violence to justify; just politics?], 3zmsgc, 1452064343.0, 3
+495, [Who else cant wait for the Donald Trump & Hilary Clinton debate?], 3y0t4y, 1450943308.0, 0
+496, [Is the GOP establishment out of control?], 3xnnbt, 1450696931.0, 0
+497, [Assault Riffle Owners of Reddit, Why Shouldn't there be an Assault Weapons Ban?], 3xb5j4, 1450444821.0, 0
+498, [Are we heading down the path to McCarthyism again?], 3vu9z3, 1449551812.0, 0
+499, [Thoughts on the Anti-Political Correctness Movement?], 3vpzp8, 1449474214.0, 0
+500, [Bernie admitted in 2010 that Single Payer only had 8 votes. So why the hell is he now pushing for it?], 3u50vc, 1448433544.0, 1
+501, [Has Hillary Clinton given up on trying to win younger voters?], 4d8ivm, 1459755433.0, 31
+502, [How come Republicans were underrepresented in the recent ABC News National Poll?], 4pz8tq, 1466997786.0, 0
+503, [If trump loses the general, has the republican primary opened the door to actual white nationalist running in 2020?], 49e9zd, 1457407553.0, 5
+504, [Did Donald Trump just commit political suicide?], 42u4zh, 1453876210.0, 5
+505, [John McCain was called too old to run at 75, 4 years ago. Bernie Sanders is 74.], 40232s, 1452303301.0, 7
+506, [Who will get Reddit's popular support if/when it becomes clear that Sanders will not get his party's nomination?], 3tt3bx, 1448225252.0, 6
+507, [White House official says that Obama thinks Clinton is qualified to be President], 4dsgx1, 1460083175.0, 296
+508, [Racism is at the heart of the Trump movement, which is driven by racial resentment by white men angry that they no longer dominate American society the way they used to, says NY Times columnist.], 4ie0t2, 1462730179.0, 518
+509, [What do we expect our representatives to be?], 4uik99, 1469481757.0, 1
+510, [Is a governmental monopoly on banking a good idea?], 4lib66, 1464510554.0, 0
+511, [How competitive will Pennsylvania be this election?], 4k0jrt, 1463656743.0, 0
+512, [How much political power does Facebook have? Might they ever make an effort to affect an election?], 4il36h, 1462849051.0, 0
+513, [Im an 18 year old college student thinking about running for office, looking for advice!], 4i1lp5, 1462506243.0, 1
+514, [Non-Americans/Canadians: Who would you vote for in the USA elections?], 4eum89, 1460715238.0, 1
+515, [Would there be a way to solve wealth inequality without socialism?], 4ekah1, 1460556202.0, 0
+516, [Do you think that Hillary Clinton and/or Bill Clinton still regrets Hillary Clinton's 2008 loss?], 4e7vlx, 1460355263.0, 0
+517, [How are Ted Cruz and Bernie Sanders fulfilling their Senatorial duties during this campaign?], 4dyj9u, 1460180056.0, 1
+518, [Question for supporters of immigration in Europe: what do you expect the future will look like, politically, if large amounts of immigration occur?], 4cc44r, 1459227235.0, 1
+519, [There have been a great number of irregularities this primary that have discouraged voting on both sides of the isle. Moving forward what can we do to make sure this does not continue?], 4btrhc, 1458885180.0, 0
+520, [Trump and Clinton have maintained much worse favorable ratings than Rubio or Sanders, and yet they're leading. Is this typical and does this signify anything besides name recognition?], 4avk0n, 1458283595.0, 0
+521, [Is the 'cultural purity' argument against illegal immigration inherently racist?], 4aeixx, 1458010969.0, 1
+522, [Is it fair to compare the movement for homosexual rights to the movement for black rights in the United States?], 499dho, 1457330284.0, 0
+523, [Is this the year for a Libertarian candidate?], 47j6zu, 1456440495.0, 0
+524, [Any thoughts on Washington Post's Jonathan Capehart and his articles about Bernie Sanders photos?], 46n7yl, 1455950125.0, 0
+525, [Are Hillary's connections to Wall Street a legitimate criticism?], 455eta, 1455171924.0, 0
+526, [DISCUSSION: I think referring to the presidential election process as a race is inherently divisive and fosters a competitive environment.], 42t1yp, 1453863505.0, 0
+527, [Who would be in a Bernie Sanders cabinet?], 41muvz, 1453205358.0, 0
+528, [Should we have gone into Iraq and Afghanistan?], 4wnipy, 1470644071.0, 2
+529, [Is there truth/significance in the leaked memo that suggests in 2012 the Obama administration supported a Syrian insurgency that would evolve into the Islamic State?], 4o757v, 1466023831.0, 3
+530, [What are some positive things communism and communists have accomplished domestically (in the US) and internationally], 4ieuto, 1462748569.0, 5
+531, [Sanders says he intends to be a Democrat even after this election. What if he was made part of the party leadership a la Howard Dean?], 4gs25g, 1461840614.0, 3
+532, [Did Hillary Clinton basically mainstream the idea of first ladies running for elected office?], 4d7rmk, 1459744057.0, 3
+533, [How is Bernie's free healthcare and free education not a "blank cheque" to the medical and education establishments?], 4ae6ab, 1458006560.0, 4
+534, [The Clinton Foundation was apparently subpoenaed by the State Dept. Is this going to be a problem for Hillary Clinton?], 45bgbm, 1455258274.0, 0
+535, [RCP Average has Bernie Sanders is leading in Iowa for the first time since the race began. What does this mean for the upcoming primary, and can he keep the lead and win the state?], 42obzc, 1453791611.0, 2
+536, [Is it possible to view the US as an equally successful society as Canada or the Nordic countries? If not, does it inherently follow that left-of-center policies need to be adopted to at least some extent?], 3yx8vh, 1451607169.0, 0
+537, [Puerto Rico is one of the last colonies in the world, and is owned by the United States. The island deserves to be an independent state.], 3x1uq5, 1450277770.0, 3
+538, [I consider myself fairly liberal, but recently the left has been doing things that I can't agree with. How can I rationalize this?], 3u16cl, 1448364895.0, 3
+539, [Democrats, if you could flip one red county in the US, which would you flip? Republicans, if you could flip one blue county in the US, which would you flip?], 4jitks, 1463387818.0, 8
+540, [How come no one is creating content that speaks TO Trump supporters?], 4bhilb, 1458684330.0, 0
+541, [Was I the only one offended by Sanders' flippant remark equating mental illness to stupidity?], 49bui4, 1457370680.0, 9
+542, [Hillary wants to talk about electability. As a Bernie supporter, I challenge Hillary's supporters to carry this argument!], 3ztlof, 1452166303.0, 0
+543, [Why don't presidents just veto any controversial bills they don't like ?], 503cn5, 1472474785.0, 9
+544, [Why is there a double standard when it comes to scandals in the Sanders and Clinton campaigns? Why do Bernie scandals get a pass in the mainstream media?], 435fcr, 1454044985.0, 6
+545, [Christians who vote conservative - do you think Jesus is pro gun? Would he be in favor of cuts to the social safety net? Would he be in favor of universal health care? Would he be in favor of lower tax rates for the 1%?], 3rruy0, 1446853263.0, 0
+546, [Does Trump's new nickname for Hillary ("Heartless Hillary") resonate?], 4kfm0u, 1463895578.0, 49
+547, [What does the VP pick of Tim Kaine say about how Hillary will run her administration and how progressive she or her cabinet will be?], 4u9nw2, 1469330789.0, 15
+548, [What is the potential fallout for Trump's leaked audio recording from 2005?], 56ezvq, 1475921897.0, 1455
+549, [How will Bernie supporters react if/when Bernie endorses Hillary?], 4dbl7i, 1459812937.0, 89
+550, [What do you think about the idea that Trump is already hurting the US economy?], 4nqb0b, 1465768252.0, 22
+551, [If Sanders declines to endorse, or runs as independent, what is Clintons White House strategy?], 4g1mvs, 1461405988.0, 19
+552, [What is the Clinton campaign doing right now?], 50jmdz, 1472707626.0, 29
+553, [Why Are Sanders Supporters mad about Hillary getting NH Superdelegates yet see no irony in redistribution of wealth aka socialism?], 45hu19, 1455352828.0, 0
+554, [If Trump ends up 20 points underwater in the polls to Hillary by the time the convention rolls around, is it possible that the GOP finds a way to nominate a different candidate?], 4mfzcv, 1465029708.0, 9
+555, [Further clarification and comments from officials suggests Sanders reached out first to the Vatican and that the Pope did not invite Sanders. Will this be a story? Why is Bernie going to the Vatican days before NY?], 4e8zk4, 1460373150.0, 60
+556, [If a Republican began revoking American citizens' rights without due process, they would be called a Fascist by the media, and others. Why hasn't Hillary Clinton received any of this criticism for demanding that those on the No-Fly list not be allowed to buy guns, which is a protected right?], 3webvt, 1449882314.0, 38
+557, [What's your argument for closed primaries?], 4juuam, 1463572399.0, 6
+558, [Who would win an election between Trump and Sanders?], 4e1ugf, 1460247403.0, 0
+559, [Is Hillary Clinton Fundamentally Honest and Trustworthy?], 4cfvk7, 1459293512.0, 5
+560, [Guns and Islam--analogous or apples and oranges?], 4bit0e, 1458701663.0, 4
+561, [What as Clinton "flip-flopped" on, other than gay marriage?], 48zbcj, 1457154392.0, 2
+562, [Trump's campaign manager insists that Trump is not afraid to debate], 42y7pr, 1453940670.0, 5
+563, [If Hillary is indicted, who should be the Democrat nominee?], 4l89je, 1464336314.0, 0
+564, [As a moderate Dem, should I be worried that a Warren VP would pull a Clinton presidency too far leftward?], 4p20bx, 1466499424.0, 54
+565, [When will we see a centrist presidential candidate succeed in the United States again?], 59jnk3, 1477540183.0, 23
+566, [Allegations have arisen that Trump has forcibly touched two women. Will these allegations seriously impact voter behavior in November? If so, how are these allegations different from those Bill Clinton faced in the '90s? Do voters hold Presidential candidates to different standards than in the past?], 577cd2, 1476345191.0, 778
+567, [Bernie Sander's VP], 4l7ol0, 1464327860.0, 0
+568, [Is Hillary Clinton a feminist icon?], 4vdjmj, 1469935336.0, 115
+569, [Question about Clinton's emails and the ongoing FBI investigation and Congressional hearings on it.], 4nortw, 1465733347.0, 5
+570, [Why does Bernie claim to be a socialist?], 4m1xyl, 1464825337.0, 0
+571, [State Caucus Flips, why are the Clinton delegates failing to show?], 4ecp9d, 1460436447.0, 5
+572, [Any other Democrats here who will support Trump if Hillary wins the nomination?], 3rg9a0, 1446639593.0, 0
+573, [Why is there still such a focus, in political conversation, on college education rather than self-education and/or online education?], 54x671, 1475108641.0, 0
+574, [Line Item Vetoes on bills presented by Congress. What are the pros and cons?], 53ucyn, 1474508176.0, 2
+575, [Could Elizabeth Warren have won this presidential race?], 4zui7b, 1472337984.0, 0
+576, [Senator Sanders' Influence and respect level in the Senate], 4offtf, 1466137287.0, 2
+577, [Could Sanders have won if the primary schedule was different?], 4aqcg3, 1458198702.0, 1
+578, [In regards to minimum wage.], 4a9yee, 1457931032.0, 1
+579, [Has anyone here had time to closely examine "Hillary Clinton's Flip Timeline" gaining traction elsewhere on reddit?], 481klj, 1456691613.0, 0
+580, [Why is Bernie the only candidate being ripped for being older? Hil is 68 and Donald is 69], 463y8g, 1455677723.0, 2
+581, [Why is no one talking about Hillary's debate statement that if elected she'd have the "political capital" to get things done.], 45hyfu, 1455354595.0, 0
+582, [Why is "not being able to get things done" a valid complaint against Sanders?], 45hvn8, 1455353451.0, 0
+583, [Bernie Sanders Taxation Plan. Will he really tax us at 2/3rd our income?], 44gynq, 1454806337.0, 3
+584, [Why isn't Caucusing seen as suppressing the vote in the same way as voter ID laws?], 44b6u2, 1454713585.0, 0
+585, [Is there any argument against GMO labeling other than that people are too stupid or anti-scientific to be informed about what they're eating?], 43dig6, 1454176130.0, 0
+586, [Something to think about. Donald Trump has 30 percent of the vote in recent Republican polls. Bernie Sanders has 30 percent of the vote in recent Democratic polls.], 3wawlm, 1449822487.0, 0
+587, [Is the current push for social justice the beginnings of a new era of McCarthyism?], 3sp7l4, 1447473240.0, 0
+588, [If Bernie Sanders were to be 'outed' as a millionaire would it discredit the income inequality argument of his campaign in the eyes of his supporters?], 4d6xlp, 1459732196.0, 19
+589, [Liberals really went overboard with "socialism"], 42nb15, 1453780151.0, 58
+590, [Is Hillary Clinton a weak candidate?], 4zkgmz, 1472183240.0, 18
+591, [If political campaign contributions were requires to be anonymous, would that solve the problems caused by money in politics?], 4ymozw, 1471687720.0, 0
+592, [Obama didn't create Trump, Republicans did.], 49xbzl, 1457702958.0, 8
+593, [In 3 out of 4 swing states, more democrats would be satisfied with a Clinton nomination than Bernie. What does this say about the Bernie or Bust movement?], 4fq9ng, 1461224466.0, 49
+594, [Obama Delays Endorsing Clinton], 4n1n4b, 1465365952.0, 14
+595, [What are the benefits of social corporatism in a society? Does social corporatism as an economic policy make sense?], 4z7ml5, 1472001776.0, 7
+596, [New WI Poll : Trump 42 Cruz 32 Kasich 23 . Is Trump peaking at right time?], 4dd8iy, 1459834050.0, 7
+597, [Why do people call Cruz a "religious zealot?"], 4ckdvv, 1459366919.0, 14
+598, [Do Bernie Sanders supporters really believe that he won't endorse Hillary if he loses?], 46q0wq, 1456002855.0, 23
+599, [Why is Sanders seen as weak and unable to lead?], 3t12r5, 1447716617.0, 8
+600, [Who would be in the best position to beat Hillary in 2020?], 4enexe, 1460606789.0, 14
+601, [Is it desirable, or even possible, to create a modern state modelled off Athenian Democracy?], 57s056, 1476661945.0, 9
+602, [Free Speech was taken away at Donald Trumps Rally in Chicago], 4a29xs, 1457782496.0, 0
+603, [Why hasn't Obama legalized marijuana by executive order yet?], 50o89f, 1472777901.0, 0
+604, [Joe Rogan: "This country has a mental health problem disguised as a gun problem and a tyranny problem disguised as a security problem." How relevant is this quote in today's political environment?], 49e3rf, 1457405503.0, 9
+605, [Bernie continues to do worse than Obama did in 2008. Is momentum a thing & how will it impact New York?], 4dka1c, 1459946162.0, 9
+606, [Why the media and many redditors fail to understand the rise of Donald Trump.], 40er1q, 1452509814.0, 30
+607, [How much of an issue should Hillary Clinton's health be in the current campaign?], 4yvb67, 1471821289.0, 0
+608, [NAFTA: Good or bad?], 4junrw, 1463569437.0, 3
+609, [If All Democratic Primary Contests Were Open Primaries, Which States Might Have Voted Differently in 2016?], 4hkbt7, 1462258879.0, 0
+610, [Is the erosion of privacy a bipartisan effort? The vote tally for the Patriot Act tells a different story.], 46wui4, 1456112174.0, 3
+611, [Trump supporters get criticised a lot, but at least they have a reason to be optimistic: Bernie does not (and he's never lead in the polls, ever)], 3zly18, 1452053691.0, 0
+612, [Given that insurance rates are going up and cost of drugs is going up, what exactly was "affordable" about ACA?], 3ucga1, 1448573555.0, 3
+613, [Clinton needs 143 delegates to clinch, there are 151 supers remaining uncommitted, could they put her over the top before CA?], 4iwm1r, 1463023295.0, 18
+614, [Should Debbie Wasserman-Schultz resign as the DNC chair and apologize for some of the transgressions and lack of professionalism in the leaked DNC emails?], 4uajlg, 1469343473.0, 29
+615, [Sanders lying about endorsements? Does this challenge the "honesty and integrity" based campaign of Sanders?], 447cwv, 1454648878.0, 38
+616, [If you take all the states Trump is currently ahead in the polls, and add the state he is least behind in (New Hampshire), Trump would win by exactly 1 electoral vote. What would the repercussions be to an election that close?], 54ek4r, 1474827218.0, 0
+617, [What if the states were ruled by their winning parties?], 53gc8r, 1474295639.0, 0
+618, [What are some problems with legalizing all immigration and vastly expanding the social safety net for citizens to compensate?], 50r83g, 1472815243.0, 0
+619, [If Hillary wins this election, who will run in 2020?], 4ol0f7, 1466221507.0, 0
+620, [Could the RNC removing Trump from the nomination bring people back to Republicans?], 4nwwsd, 1465869989.0, 2
+621, [How would Cruz fare if he were to make another run at the Presidency in 2020 should he lose the nomination?], 4h1z0d, 1461999074.0, 1
+622, [What is the real reason that Kasich has not dropped out? Surely him dropping out strengthens the opposition against Trump?], 4focm3, 1461200680.0, 1
+623, [Haven't seen this question brought up on this sub: How does Sanders reconcile his trade policy hurting the poor in the 3rd world?], 4duzua, 1460120514.0, 0
+624, [Have Republicans already exhausted all possible negative attacks on Trump leaving little for the Democrats in the general?], 4az7bm, 1458349311.0, 0
+625, [John Kasich just won Ohio. Is a brokered convention imminent?], 4algrr, 1458118856.0, 0
+626, [Would Sanders be better off dropping out and using his money to fund a wave of grassroots congress members?], 4aco2o, 1457982500.0, 0
+627, [Can you explain the support for Trump in one sentence?], 4a4a6b, 1457826877.0, 0
+628, [What if Sanders and Trump each ran independently?], 494sqn, 1457249700.0, 1
+629, [Who is the next Bernie Sanders?], 493srw, 1457235068.0, 1
+630, [CNN Trump KKK Argument], 48lfxl, 1456939788.0, 2
+631, [Tulsi Gabbard, Hawaii Congresswoman - A rising star for the Democratic party? [For 2020 and beyond]], 48b37k, 1456793086.0, 0
+632, [Why are all media (CNN FOX MSNBC) and Republicans declaring Hillary the overwhelming winner of the Dem race? Is Sanders getting the nod virtually impossible and if not how?], 47t69a, 1456573991.0, 0
+633, [How would Bernie Sanders do as Vice President?], 46xoen, 1456122653.0, 0
+634, [Clinton vs. Sanders, Experience vs. Judgement], 44m2fa, 1454888814.0, 0
+635, [I know this is crazy. Do you think Clinton could deliver the presidency for Sanders?], 44i0o8, 1454819992.0, 2
+636, [Why is there an opposition to making English the official language of the United States of America?], 42himd, 1453695478.0, 0
+637, [Why has the Affordable Care Act casued an incrase for health care costs in the US?], 420u6h, 1453423932.0, 0
+638, [Do Trump and other candidates bear responsibility for those who endorse them?], 40n76a, 1452646383.0, 0
+639, [Has the State Department released a smoking gun in the Hillary Clinton e-mail scandal?], 401n24, 1452297399.0, 1
+640, [Do you think Hillary Clinton could win a second term?], 3z9ta5, 1451856890.0, 0
+641, [If war is against my religious beliefs should I be able to opt out of paying taxes ?], 3yqh2d, 1451472858.0, 0
+642, [Is it fair to compare the current state of Islam to Christianity in the USA (and other countries) 200 years ago?], 3xswv9, 1450792898.0, 2
+643, [The problems of Islam - looking at a study], 3xkyly, 1450652007.0, 1
+644, [Any former disillusioned Obama supporters liking him more and more since the midterms?], 3uc6ym, 1448567365.0, 1
+645, [What would a Donald Trump concession speech look like?], 4njw8n, 1465644735.0, 19
+646, [Sen. Claire McCaskill (D-Missouri) tweeted about Donald Trumps Weight. Is this an example of the "double standard"?], 54y8al, 1475120802.0, 29
+647, [How can we save Medicare?], 4km6t8, 1464005286.0, 3
+648, [Are the Trump Protesters/rioters helping Trump?], 4h3flb, 1462025538.0, 3
+649, [What are some things America does right?], 4g7hjd, 1461516954.0, 3
+650, [Is Sanders' tweet "We will not allow the Donald Trumps of the world to divide us," a tacit endorsement of the protest tonight?], 4a2j5m, 1457786834.0, 0
+651, [Is it wrong of me, a Bernie Sanders supporter, to vote for Trump in the general if Hillary wins the nomination?], 48i6j8, 1456889665.0, 0
+652, [President Obama's and others' recent arguments that "discrimination against muslims helps the extremists" is self-defeating and will not win over hearts and minds of Americans], 3x3bp7, 1450310697.0, 0
+653, [Why is "doing what's right" more important than Democracy?], 3tkv44, 1448064077.0, 3
+654, [[MegaThread] CNN March 26 GOP Town Hall Live Thread], 4cicqd, 1459326237.0, 16
+655, [It's only been a week and Hillary Clinton already broke her promise not to respond to Trump], 40hn0z, 1452560338.0, 17
+656, [If Sanders is elected, he would arguably be the first non-Christian President ever. Why isn't this talked about more often?], 3ybuq4, 1451196036.0, 19
+657, [Can anyone explain this weird disparity between the news/media and reality with Hillary?], 491gr1, 1457189509.0, 16
+658, [Why don't the parties hold their conventions a few weeks before the general instead of a few months?], 58te3f, 1477175979.0, 2
+659, [Has Hillary Clinton been at a disadvantage due to high expectations during this election season, and will they hurt her during the General?], 4o8xep, 1466045277.0, 0
+660, [What sort of turnout for America's different demographics can we expect, compared to previous presidential elections?], 4lzud9, 1464790454.0, 0
+661, [What are the odds of the republicans running a "3rd Party" candidate in an attempt to create no electoral college majority?], 4hwe0a, 1462421583.0, 1
+662, [What's the likelihood of Donald Trump besting Hillary Clinton in New York come the generals?], 4fny31, 1461195750.0, 1
+663, [Future of the Trump coalition], 4cvixi, 1459544799.0, 0
+664, [Should Europe repeal it's hate speech laws?], 4ct6aa, 1459502592.0, 0
+665, [Will the USA leave their 2 party system behinde if National Popular Vote Interstate Compact is enacted?], 4clce8, 1459381719.0, 0
+666, [Sanders supporters, are you surprised that Clinton will debate him in New York?], 4ciagb, 1459325244.0, 0
+667, [What could Gary Johnson do to achieve a successful run for president?], 4bugya, 1458895877.0, 0
+668, [No representation without taxation], 4bh56y, 1458677824.0, 0
+669, [What does AIPAC actually do?], 4bfcz0, 1458638678.0, 0
+670, [With the recent violence, how bad could a Trump vs Bernie general become if they both made it to the general and focused their attacks on one another?], 4ac3la, 1457967917.0, 0
+671, [Protesting and Political Rallies], 4a4psp, 1457833806.0, 0
+672, [What are the theories as to why Sanders lost Massachusetts ?], 48p1dw, 1456990387.0, 0
+673, [How does /r/politicaldiscussion feel about the Democratic Party "superdelegates" procedure?], 48ovwh, 1456988474.0, 0
+674, [Why DIDN'T Trump outright, unequivocally denounce David Duke and the KKK?], 48e7cw, 1456830685.0, 0
+675, [A Political Science professor at my university is forecasting a 97% chance of Trump winning the general.], 47sbdw, 1456560008.0, 0
+676, [Hillary Foreign Policy Successes?], 45got4, 1455337988.0, 1
+677, [Due to the massive amount of individuals donating time and money to the Sanders Campaign, if he loses do you think that his supporters will be too disappointed and unmotivated to show up for Hillary in the General?], 456fcu, 1455184948.0, 0
+678, [Why do we have superdelegates?], 455z4p, 1455178867.0, 0
+679, [Thoughts on Tulsi Gabbard as a potential VP choice (for Bernie as HRC will most likely choose a Latino, domestic policy male).], 44qw9d, 1454966983.0, 0
+680, [Trump to the Power], 44nqw0, 1454910187.0, 0
+681, [Is Trump sewing the seeds for a third party run ?], 445vom, 1454630618.0, 0
+682, [If Trump gets the Republican nomination, do you think he will become president or not and WHY?], 434w0i, 1454038244.0, 0
+683, [If Trump Wins in the General, Against Hillary, zzz What does the Democratic Party Look Like?], 42yyfa, 1453949295.0, 0
+684, [Any difference between Planned Parenthood videos vs. past Factory Farm videos?], 42xtfm, 1453935506.0, 0
+685, [Myers-Briggs-ing the candidates?], 42dm07, 1453624103.0, 1
+686, [If trump wins the White House, do you think he will make it four years without doing something to get him removed from office?], 425isi, 1453498246.0, 1
+687, [Is there a plausible scenario in which an independent candidate can win the general election without being in either the republican or democrat primary?], 41o130, 1453228295.0, 0
+688, [The perception of the presidential candidates seems to be totally out of phase with reality.], 416njn, 1452943918.0, 0
+689, [Trump hype train giving way to Cruz?], 40gbpy, 1452538756.0, 0
+690, [Serious Question for people sort of about Gun Control/Mass Shootings], 3zra4u, 1452136058.0, 0
+691, [Will Trump's attack on Bill Clinton's sexual predatory behavior neutralize Hillary Clinton uses of the GOP's "War on Women" argument?], 3ypi63, 1451456965.0, 0
+692, [If Trump doesn't get the GOP nomination, who will?], 3yh6aa, 1451302100.0, 0
+693, [How can Bernie come out of this debate looking good considering his campaign was involved in the data breach, does he have a leg to stand on?], 3xhz7d, 1450584263.0, 0
+694, [If HRC wins the presidency, who's your way-to-early prediction for 2020 Republican nominee?], 3x4que, 1450330924.0, 0
+695, [Should America move to being a more neutral country?], 3wh4e4, 1449923859.0, 0
+696, [If Critics of White Privilege Are Correct, Isn't White Voter Support for Trump Rational?], 3w4ppy, 1449726282.0, 2
+697, [How big could winning Iowa and New Hampshire be for Bernie Sanders when many believe he's unelectable?], 3vxwdm, 1449618637.0, 1
+698, [I'm working on my thesis about the Social Construction and Importance of Human Rights and want to get your input. What does "human rights" mean to you?], 3tyygs, 1448331849.0, 0
+699, [Was the theater massacre any less appalling than the Charlie Hebdo killings?], 3tdd8x, 1447924035.0, 0
+700, [Why don't the major parties give up on the contentious and polarizing issues?], 3sqiot, 1447496790.0, 1
+701, [Has T-Mobile illustrated the flaw with net neutrality?], 3scooj, 1447234065.0, 0
+702, [Could this system help to improve politics?], 3r84h1, 1446510029.0, 0
+703, [Would Trump's wall work?], 4hk39f, 1462255633.0, 37
+704, [Trump is going to win, according to Allan Lichtman - a political scientist who has used his 'keys to the White House' theory to correctly predict the last 8 elections.], 54f2ix, 1474838629.0, 0
+705, [Why do party nominees get intelligence briefings?], 4i78nw, 1462599308.0, 7
+706, [Why are people against Trump's plan to build a wall across the US border?], 4hqtqe, 1462342187.0, 0
+707, [If Hillary Wins, Will She Have To Make Compromises With the Sanders Camp?], 4fvpc0, 1461309342.0, 0
+708, [Does New York let independents cast provisional ballots?], 4fhq56, 1461103602.0, 6
+709, [So are we just going to ignore Hillary's victory?], 43slcd, 1454415859.0, 0
+710, [Sanders is not electable.], 4273wa, 1453519543.0, 0
+711, [Trump's popularity and the misconception about the average voter, have you guys considered that maybe you're just living in a bubble?], 3x1xu1, 1450279862.0, 0
+712, [Does seceding from the Union (ex. texit) technically violate any amendment in the constitution?], 4say5g, 1468273049.0, 0
+713, [Is there room for Christian Democracy in the United States?], 4cy8iy, 1459574901.0, 14
+714, [Serious question for those concerned with Clinton's email "scandal"], 462uar, 1455664416.0, 17
+715, [Does the Hogan/Gawker decision raise First Amendment concerns?], 4nv3nn, 1465844313.0, 11
+716, [If he had been eligible, would Arnold Schwarzenegger have run for President?], 56goll, 1475957416.0, 5
+717, [Is raising the national minimum wage to 15$ an hour really the best idea?], 4ejbv2, 1460539957.0, 7
+718, [What is your definition of a racist?], 3z69on, 1451790534.0, 7
+719, [With this latest attempt at mass murder in Las Vegas, can we now agree that it's the person who's to blame and not the tool used?], 3xprf7, 1450742497.0, 0
+720, [Would 2nd amendment rights have protected Paris?], 3ss5ze, 1447539589.0, 4
+721, [What would happen if the US just decided to refuse to acknowledge its national debt? If it made a public statement that it would halt all payments toward its debt in any fashion whatsoever?], 4y4gx0, 1471450824.0, 0
+722, [What do you expect a Hillary Clinton presidency to look like?], 4wwmz4, 1470784061.0, 7
+723, [Would it be a good strategy for Trump to say he'll release his tax returns when Clinton releases her Wall Street speeches?], 4jedke, 1463309909.0, 0
+724, [What do you make of the threats and harassment made by Trump supporters to GOP delegates? Do you think it will backfire?], 4f61ej, 1460915807.0, 7
+725, [Let's turn the question around - Would you as a Hillary supporter vote for Bernie if he won the nomination?], 4bv278, 1458906003.0, 9
+726, [Did Hillary Clinton destroy evidence?], 50mtbq, 1472760087.0, 0
+727, [There seems to be another side to the NVDems convention debacle. After watching this relatively reasonable explanation of the events with video does the anger on the Sanders side make any sense?], 4jsjvb, 1463540672.0, 0
+728, [What do you think of these statements by Sanders and Clinton on a Panama Free Trade Deal?], 4ddrkd, 1459841536.0, 9
+729, [What happens if Trump wins? Will it be like a U.S. Brexit?], 58rpr2, 1477142042.0, 8
+730, [Will Hillary start taking the gloves off for Bernie soon? Or is it not worth alienating his supporters?], 4dn03g, 1459995183.0, 9
+731, [Who is Killer Mike, and why does his opinion suddenly matter?], 442xsz, 1454576520.0, 10
+732, [Should SCOTUS justices remain neutral on Presidential elections?], 4sjafn, 1468385320.0, 11
+733, [I am well past college aged, democrat, in a swing state, and I am voting for Trump.], 41mvlc, 1453205677.0, 0
+734, [Does Trump represent a growing wing of fascism in American Politics?], 3tlt5f, 1448077970.0, 16
+735, [Will Clinton's Numbers Increase once she Puts Away Sanders?], 4j7bgr, 1463188165.0, 55
+736, [Is Trump really wrong to suspect a conflict of interest with Trump U judge], 4mu9k3, 1465264385.0, 0
+737, [Clinton has selected Tim Kaine of Virginia to be her running mate. How does this compare to Pence?], 4u5szq, 1469261619.0, 1509
+738, [Have immigration restrictions been a net plus or a net minus for humanity as a whole? Would most people worldwide be better off with open borders?], 4z25i9, 1471921215.0, 0
+739, [Will Regional Identities Become Less Important As More Internet Proficient People Start Voting?], 4uf4xd, 1469424261.0, 2
+740, [How would the nation react to a presidential candidate promising to only serve one term? How would you react?], 4nwktr, 1465865987.0, 0
+741, [How best to address self radicalization?], 4nutr5, 1465837875.0, 0
+742, [Could Trump have been doing much better if not for unforced errors?], 4ise97, 1462956112.0, 1
+743, [What's the primary reason you voted for or will vote for your favored candidate?], 4imshr, 1462871108.0, 3
+744, [If only members of the party should vote in primaries, why are they taxpayer funded?], 4hs8de, 1462354501.0, 2
+745, [Is it understandable for the average Arab person to want to be at war with Israel?], 4gsltk, 1461850243.0, 0
+746, [Why have there been no polls for the NY democratic primary released since Thursday?], 4f2ttt, 1460856531.0, 0
+747, [Can someone describe to me why gun manufacturers should be held liable for gun deaths when the 2nd amendment allows us to carry weapons?], 4euiv6, 1460713848.0, 0
+748, [If Clinton wins the nomination, will all the people donating to Sanders turn around and similarly empower Clinton to not have to fund raise from corporate donors?], 4esihd, 1460686835.0, 1
+749, [How many jobs lost if single payer implemented?], 4em5r6, 1460591156.0, 1
+750, [Bernie supporters: If politicians should not take money from wealthy individuals, and it has so far been impossible to pass public campaign funding, how do you suggest newcomers fund their campaigns?], 4dmonp, 1459991178.0, 0
+751, [What will happen to Bernie's war chest once he concedes? Does he turn it over to the DNC? To Hillary's campaign?], 4df3or, 1459863192.0, 0
+752, [What's the upper limit on how crazy the Republic National Convention gets?], 4d4sgt, 1459684387.0, 0
+753, [How do you feel about on campus carry?], 4c4476, 1459076019.0, 0
+754, [Dem Polls for 3/15 are all pre-Michigan.], 49z9ga, 1457739217.0, 0
+755, [I'm an undecided NC democrat voter. Sell me on your candidate.], 48cogq, 1456811040.0, 0
+756, [Why do some supporters present themselves so poorly.], 486aw2, 1456726979.0, 0
+757, [How does everyone feel about Marco Rubio's "attack" on Trump?], 47q0zl, 1456535922.0, 0
+758, [What's the difference between Sanders 2016 and Obama 2008?], 46qfx8, 1456009890.0, 1
+759, [Honest question: What is the logic behind progressive taxation (i.e. the rich paying a higher % rather than simply paying more at the same rate?)], 44h8v5, 1454810032.0, 2
+760, [Why is Trump being criticized for not doing the FOX debate, but Bernie Sanders - who has often complained about the lack of Democrat debates - is getting a free pass for refusing to take part in the upcoming MSNBC debate?], 42vd8u, 1453892186.0, 3
+761, [Presidential Election takes up too much oxygen - how do we fix this?], 3yb1rt, 1451181895.0, 2
+762, [Why does Obama get so much hate from the GOP for being "anti-gun"? I can't think of any new gun regulations that have been implemented since the day he took office. What has he done exactly in the eyes of Republicans that makes it seem like he wants to take away guns?], 3uffqd, 1448627692.0, 0
+763, [New Anti Trump commercial combines children and vulgar language and gestures. Do you think the creators went to far?], 3rn470, 1446768183.0, 2
+764, [What is the modern conservative argument against raising the minimum wage?], 3r8ctx, 1446513218.0, 0
+765, [Am I the only one who thinks Obama did a better job of organizing a "political revolution" than Bernie?], 41jolj, 1453163691.0, 91
+766, [The Obama Administration just blocked the release of Clinton's correspondence on the TPP until after the election. Should the State Department be allowed to dictate release dates around the election?], 4mv4dy, 1465274110.0, 48
+767, [Why are republicans being blamed for the planned parenthood shooting if Muslims are not being blamed for terrorism?], 3v66kp, 1449108541.0, 14
+768, [What do you think about Hillary and de Blasio's "C.P. Time" joke?], 4edxwx, 1460454109.0, 56
+769, [Trump caught in behind the scenes conversation with MSNBC co-hosts], 478iqr, 1456287167.0, 32
+770, [Planned Parenthood is a non profit organization that receives federal and state financial aid but also has endorsed candidates and spent money to get them elected. This seems to me like a lapse of logic?], 45e0eb, 1455298769.0, 52
+771, [Current and former supporters of Bernie Sanders...do you see a shift in tone of his campaign, and if so, does it change how you see him at all?], 4cc2iw, 1459226631.0, 18
+772, [Should Chris Christie be impeached, and if so, on what charges?], 54ib4f, 1474882548.0, 1
+773, [What are the repercussions if Donald Trump wins and gets 3 supreme court nominees?], 4iyvzt, 1463054076.0, 0
+774, [Why are people talking like the Dem superdelegates as if they've already voted?], 4ef6a0, 1460477632.0, 0
+775, [A philosophical political question I've been considering lately: Is the majority always the oppressor? Debate in comments.], 4dwyks, 1460159001.0, 3
+776, [Will George W. Bush be looked back on as a decent president?], 4c5ihv, 1459113596.0, 0
+777, [Why do certain economists and so many people still believe in the trickle-down effect?], 49kmht, 1457500616.0, 0
+778, [What is the legality of offering games on Steam to supporters who canvass/phonebank/garner donations?], 497ozb, 1457306261.0, 4
+779, [Email servers turned over by a former Clinton aide who was granted immunity showed no signs of hacking. Will this be the end of the investigation?], 48v7u2, 1457085168.0, 3
+780, [Is Hillary Clinton the Democrats Mitt Romney?], 44hvak, 1454817991.0, 0
+781, [Trump is going to OVER perform in Iowa], 43osqo, 1454367699.0, 2
+782, [48 Hours to Iowa, When will Sanders his release his tax plan? He had said he would do it before Iowa. How is he going to fund free college and free insurance and balance costs of those initiatives at same time?], 4348of, 1454030184.0, 4
+783, [Half the country already thinks Obama is a socialist/Muslim/Manchurian candidate, so why would Bernie being an actual socialist have a negative impact?], 427ek7, 1453523331.0, 5
+784, [The Bundy-BLM dispute is about land grabbing and political corruption.], 3zm3wm, 1452055803.0, 0
+785, [If corruption didn't occur, would Communism work?], 3z4w5r, 1451766168.0, 4
+786, [Why are America's founding fathers treated as though they were infallible?], 3vsguq, 1449525504.0, 0
+787, [Is the Democratic Party playing with Serious Fire on Radical Islam and Syrian Refugees?], 3ta2p6, 1447871680.0, 0
+788, [Bernie Sanders' campaign manager blames Hillary for ISIS. Is this the new normal?], 4dts52, 1460100526.0, 30
+789, [Why does Reddit have concerns with national security when it comes to classified material on HRCs server, but not when it comes to Snowden and Manning's leaks?], 444231, 1454593823.0, 24
+790, [Trump rises in a recent Reuters National poll, almost level with Clinton, should her campaign be worried?], 4j1b7e, 1463096866.0, 34
+791, [Is Sanders' rhetoric giving rise to the Tea Party of the left?], 44b5l7, 1454713078.0, 13
+792, [Let's talk about gun confiscation in the U.S.], 3vjtdv, 1449359709.0, 11
+793, [How important is it for Politicans/Political Candidates to be seen in good health?], 529ora, 1473644842.0, 57
+794, [Why doesn't Hillary Clinton support a $15 federal minimum wage?], 4lb5tv, 1464390559.0, 0
+795, [Why do I so often read on reddit "if Sanders loses I'm voting for Trump?" What would motive someone to vote to vote to a radically different candidate? Is it really just voter dissatisfaction and hate for super-PAC candidates?], 47xsow, 1456633297.0, 10
+796, [If Trump stepped down, who would the GOP put up to replace him?], 4x0b5q, 1470829976.0, 4
+797, [Who are some names we may see in Trump's cabinet if he is elected?], 4iwpa3, 1463024343.0, 4
+798, [If Hillary reaches the number of delegates needed to win the nomination, does she automatically win?], 4ikavi, 1462839522.0, 3
+799, [Should Clinton adopt any of Sanders' policies or ideologies?], 4h6oo1, 1462086730.0, 0
+800, [Can anyone tell me why western governments, like the Dutch, are donors to the Clinton Foundation?], 4fyj7c, 1461361953.0, 0
+801, [How can all of the candidates have negative approval ratings except for Bernie but still, he's not winning in the primaries?], 4em29l, 1460589920.0, 0
+802, [If the FBI recommends to indict Hillary Clinton, but the DOJ doesn't indict, what happens to her campaign?], 4ctae5, 1459504286.0, 0
+803, [Sanders changes his mind on gun control bill at the 11th hour], 4361on, 1454053057.0, 4
+804, [What exactly is Bernie Sanders' beef with Wall Street?], 42iytr, 1453714950.0, 0
+805, [Why the Democratic party is eager to give citizenship to all illegal immigrants yet doesn't seem to care about legal immigrants?], 41fna5, 1453096306.0, 0
+806, [What does everyone make of Obama's blatantly false statement that "A violent felon can buy the exact same weapon over the internet with no background check, no questions asked," during his speech?], 3zo11t, 1452081586.0, 0
+807, [Socialism?], 3rc6kl, 1446576104.0, 3
+808, [Could Hillary Clinton be the first Democratic presidential candidate to win the college-educated vote?], 53fc41, 1474278080.0, 0
+809, [Hillary Clinton "President Obama took money from interest groups and it did not influence his politics"], 4f2ubu, 1460856730.0, 11
+810, [Opinions on Jeffersonian Democracy?], 4q36yj, 1467061121.0, 6
+811, [If Gary Johnson makes it to the debates, could he throw the election to the House?], 4kazyg, 1463815133.0, 0
+812, [Trump and Clinton are tied in a Rasmussen Reports poll.], 4h096s, 1461976799.0, 0
+813, [If Clinton gets the nomination, do you think Sanders will endorse her?], 4c901v, 1459172608.0, 5
+814, [Republicans that acknowledge growing income inequality. Wouldn't spending money on making sure that everyone had healthcare and education narrow the income gap?], 422hv0, 1453444992.0, 5
+815, [Do Democrats and President Obama really think the GOP is afraid of 3 year old orphans?], 3tz035, 1448332456.0, 0
+816, [Should NATO/US place military outposts in the deserts of the Middle East between major cities once IS is defeated?], 4zbusi, 1472062539.0, 0
+817, [On the idea of 'Donald the Dove' and 'Hillary the Hawk'.], 4lxhhl, 1464757003.0, 0
+818, [If Sanders gets the democratic nomination, who do you think he'll pick as his VP and why?], 4384ox, 1454088468.0, 9
+819, [The contradiction of Sanders], 42tesc, 1453867712.0, 9
+820, [Obama Privately Tells Donors That Time Is Coming to Unite Behind Hillary Clinton. Think it will piss off Bernie people?], 4aufcs, 1458267995.0, 21
+821, [re: Oregon - Do you forfeit your first amendment rights when you exercise your second amendment rights?], 3ze98x, 1451931569.0, 22
+822, [Does the term 'superpredator' deserve the attention it is getting?], 4f011t, 1460801581.0, 6
+823, [Likelihood that Trump doesn't get a majority in any state come Election Day?], 4oti7f, 1466375229.0, 0
+824, [What was Bernie Sanders' "peak day"?], 4hplof, 1462332898.0, 6
+825, [Is Obama a Divisive President?], 4a7hq5, 1457882174.0, 5
+826, [When Will Bernies answers become grounded in reality?], 3xymf4, 1450906539.0, 0
+827, [Hillary's Cabinet and VP?], 4g9139, 1461547459.0, 16
+828, [Is a successful politician obliged or forced to manipulate the less intelligent members of the society they govern?], 4so1xs, 1468456296.0, 6
+829, [Are there any legitimate paths to the White House for Gary Johnson? Assuming he gets into the debates gets his message out to the general public, what would a winning electoral map look like for him?], 4mawkd, 1464951694.0, 7
+830, [Sanders predicts 'major victory' in NY], 4ejexl, 1460541249.0, 8
+831, [Bernie Sanders leads every Republican while Hillary Clinton trails 5/6 of them in new national poll. Thoughts?], 46f0zd, 1455835311.0, 0
+832, [Is Bernie intentionally sucking at debates in order to not weaken Clinton in the general election or is he just plain bad?], 41hb5n, 1453120173.0, 0
+833, [Will 2016 see greater or lower turnout than 2012?], 54sfl8, 1475034485.0, 1
+834, [Under the assumption that Hillary Clinton wins the 2016 election, what possible candidates would we see in 2020?], 54ci4u, 1474786215.0, 0
+835, [What should a Presidential Candidate look for in a VP?], 4syv2z, 1468614977.0, 3
+836, [Why is federal gun registration so intractable politically?], 4od11h, 1466108388.0, 0
+837, [Replacement Migration], 4jrl5t, 1463529298.0, 0
+838, [If the NeverTrump crowd were to field a decent nominee with significant financial backing, could we see that candidate pick off a few states and try to send the election to the house?], 4idpuv, 1462721256.0, 2
+839, [Have Populists/Statists merged as a new identifiable voting block in American Politics? Who/Where/What are they?], 4h7o58, 1462103941.0, 0
+840, [Why has Sanders' embrace of socialism helped him be more competitive against Clinton than Cruz's embrace of true conservatism against Trump?], 4gumvm, 1461887946.0, 1
+841, [Regardless of the outcome of this election, barring him being the nominee, do you think Sanders will be a political factor in 2020? (Not necessarily as a candidate)], 4fu6s0, 1461289870.0, 2
+842, [Bernie's tax returns. Hillary's transcripts. Honest discussion, why is it such a struggle to require transparency from a potential POTUS.], 4euiu5, 1460713837.0, 1
+843, [What impact will the Panama Papers revelation play on the 2016 elections?], 4dmcpn, 1459986908.0, 0
+844, [With students asking for counseling over Trump 2016 chalk drawings at multiple universities and with the strong backlash to those requests, how do you think college campus climate will effect this election?], 4ctmjp, 1459509158.0, 0
+845, [Is classical liberalism dead?], 4cmg0v, 1459395891.0, 0
+846, [How do you think North Korea's relationship with America would be different had we not gone to war with Vietnam?], 4c5e4j, 1459110513.0, 1
+847, ["Early installment weirdness" - is this a good explanation of why the US differs politically in so many ways from other developed countries?], 4bugpw, 1458895777.0, 0
+848, [I am very dissatisfied with my state's handling of its primary yesterday, and I wish to ask others how I can effectively voice my concern and play a role in preventing future, either intentional or accidental, state-wide acts of voter suppression.], 4bqdgu, 1458825762.0, 1
+849, [Who is really to blame for Trump's rise? Many say the Republican Party but I'd argue the guilt is better placed elsewhere.], 4b1mvs, 1458387224.0, 0
+850, [Instead of undermining Donald Trump, why doesn't the GOP just support him?], 4aw4m6, 1458292244.0, 1
+851, [Kasich needs 116% of the remaining delegates to win why the hell is he still in?], 4atjwc, 1458256916.0, 1
+852, [I know the government can't violate people's free speech, but does the First Amendmnet apply to regular citizens?], 4aif0n, 1458077155.0, 0
+853, [What are the chances Bernie Sanders will win the election?], 4a9y9v, 1457930983.0, 1
+854, [Housing is the Fourth Racket that has not been addressed.], 4a8oje, 1457911750.0, 0
+855, [What good does proectinism do when jobs are being lost to robots and AI not overseas and illegals?], 49r518, 1457599919.0, 0
+856, [Here's the video of Hillary Clinton's "Super Predator" comments from the 1990s. Is there anything in this video that suggests she's talking about all black people, or even black people in particular?], 499wwj, 1457338061.0, 0
+857, [PPP Florida Poll: Trump Vs. Clinton results are very interesting.], 47quau, 1456544547.0, 1
+858, [Trump be selling watches in Manhattan were in not for his inheritance from his father], 47p9wa, 1456526395.0, 0
+859, [Racial disparity in arrests and sentencing. Is it racism or simply regional logistics?], 47lruh, 1456466510.0, 0
+860, ["The US cannot be a social democracy because it is too big and diverse." Here's why I find this argument weak.], 46ra98, 1456021664.0, 0
+861, [Does Clinton have 9 times the delegates that Sanders has even with less votes than him?], 453m6o, 1455151612.0, 2
+862, [H.C.'s "firewall" -- Are minority groups going to find Clinton's assumption of support insulting?], 4513kj, 1455109498.0, 0
+863, [Hillary dabbing. Good or bad with young voters?], 44alpn, 1454703845.0, 0
+864, [We have to accept that with growth comes pain], 446ink, 1454638547.0, 1
+865, [Bernie's Army], 43mxu3, 1454331296.0, 1
+866, [The Washington Post's Philip Bump writes "Sorry, Bernie Sanders and Ted Cruz. You are part of the establishment, too."], 423hgf, 1453458917.0, 1
+867, [Should the United States Government consider paying reparations to African-Americans?], 41ywsh, 1453390353.0, 0
+868, [How do democrats run to the right on guns for the general election?], 41iwx7, 1453152182.0, 1
+869, [Does anyone else think there is an overreaction to Ted Cruz's "New York Values" comment?], 41en9s, 1453083149.0, 2
+870, [Is it ok for Americans to not take responsibilities for the unintended consequences of the iraq invasion?], 3z5e7w, 1451777183.0, 0
+871, [Webb/Huntsman 2016?], 3xvw9m, 1450849717.0, 0
+872, [Are Donald Trump poll numbers artificially low?], 3x8x24, 1450407334.0, 0
+873, [Going 'Green' as weapon against ISIS/ISIL/Daesh], 3vx1fx, 1449602393.0, 0
+874, [How do you swiftboat Trump?], 3v2gae, 1449041592.0, 0
+875, [Democrats: if we theoretically had strong unions in America, similar to Scandanavia, would you still be opposed to limited government?], 3ukykp, 1448744598.0, 0
+876, [Why does no one have a problem with Ted Cruz running for president considering he wasn't born in the US?], 3ukhab, 1448731017.0, 0
+877, [Any Democrats think Trump is no longer worth it?], 3u2w8c, 1448403608.0, 1
+878, [Donald Trump and the White Nationalists], 3u19kh, 1448366451.0, 0
+879, [White House: "Pass a law that prevents somebody...on a terror watch list from being able to attend a mosque"], 3u033m, 1448347395.0, 0
+880, [Do Republicans/Conservatives think the strategy of being a political party with a demographic that overwhelmingly consists of straight, white, and Christian-Protestant voters be successful in the long run past 2016?], 3sud7z, 1447576937.0, 1
+881, [Why does reddit seem to have no problem with mexican immigrants in the US but hate muslim immigrants in europe?], 3ss3xr, 1447538242.0, 0
+882, [Donald Trump's Prescription for American Greatness], 3sa5dj, 1447197858.0, 1
+883, [Sanders to Boxer (on NV): 'I can't believe my people would do this' - has he lost control of his supporters?], 4kbau2, 1463819681.0, 118
+884, [As a non-Bernie-supporter, I have a problem with the term "Bernie Bro" and the issue of parochialism vs. intersectionality in the liberal movement], 45n0yi, 1455430583.0, 18
+885, [What is the difference between a Socialist and a Democrat? (Serious) Chris Matthews asked Hillary, and now I ask you; Self professed Democrats and Socialists - what is the defining difference.], 3zqs8l, 1452130007.0, 20
+886, [Is Donald Trump using Nixon's "Madman Theory" to win the election?], 4l8tty, 1464345615.0, 28
+887, ["I'm a democrat but I'm not a socialist." - John Kasich], 452mib, 1455138964.0, 74
+888, [Is the Second Amendment fundamental to a free democratic society?], 4odhs0, 1466114998.0, 10
+889, [Is it fair to say that Obamacare is a great example of why Politicians dont compromise?], 4k8o75, 1463785816.0, 25
+890, [Hillary and the Speeches], 46qcia, 1456008345.0, 13
+891, [What's the rational argument behind progressive income tax?], 4l6xy5, 1464318616.0, 16
+892, [Why did Vermont's single payer system fail and what implications does this have for a national system?], 46eyq2, 1455834486.0, 132
+893, [Does the Bernie campaign have a problem with vetting what their surrogates say?], 4epdct, 1460633746.0, 272
+894, [Who are some public liberal intellectuals on par with the late William F. Buckley Jr?], 4kkvzf, 1463985320.0, 13
+895, [Supporters of Hillary Clinton, what are your reasons for supporting her over Bernie Sanders?], 4g0jai, 1461388403.0, 0
+896, [When will we have our very asian american president?], 4fj6r7, 1461121564.0, 83
+897, [A Koch brother has said that Hillary may be a better president than the Republicans. Is this a plus or a minus for her in the general?], 4g8vsc, 1461545313.0, 17
+898, [$100 tax on all gun sales. Is this an example "common sense" regulation gun owners can expect to deal with in near future?], 3s1lhl, 1447042913.0, 16
+899, [With Cruz dropping out, should Bernie Sanders get out of the way so Clinton can focus on Trump?], 4hs1z0, 1462352149.0, 136
+900, [On Hillary's "glass ceiling" comments], 446pzd, 1454641053.0, 73
+901, [If Trump loses in November, which Republican do you think is in the best position to become the 2020 candidate?], 53u2uo, 1474504947.0, 25
+902, [What are your thoughts on Absentee Ballots?], 54qswu, 1475015115.0, 3
+903, [How much debt is Obama actually responsible for?], 54dvqf, 1474809719.0, 0
+904, [What would it take to have a proper 3rd party?], 4tu9v5, 1469089487.0, 3
+905, [Will Hillary Clinton lose votes if her VP pick is female], 4ngi4n, 1465597229.0, 3
+906, [Could George W. Bush beat Ted Cruz for his US Senate seat when Cruz is up for reelection in 2018?], 4k8nj9, 1463785593.0, 0
+907, [New Tennessee General Election Poll - Could It Be In Play In GE?], 4k5av8, 1463728211.0, 0
+908, [Attacks via candidates' spouses: when Hillary makes Bill a key part of her campaign, does she open herself up to being attacked on the grounds of his baggage?], 4k30qt, 1463700822.0, 1
+909, [Is Ted Cruz intending to run as an independent?], 4gxdrs, 1461924903.0, 0
+910, [Which of these places best defines SOCIALISM... Venezuela and Cuba? Or Scandinavia?], 4djyki, 1459940402.0, 2
+911, [How can Trump win Louisiana and end up with less delegates than Cruz? is this ethical? Can he file a lawsuit?], 4c7ana, 1459142985.0, 0
+912, [If Warren endorsed Clinton and was VP, theoretically, how would they do?], 4b09ai, 1458364293.0, 0
+913, [Just how many people would be willing to boycott the general elections just to stick it to their party?], 497lzl, 1457304901.0, 1
+914, [If Trump gets the POTUS and dems took back the house...Would Democrats support obstructionism?], 492jxy, 1457216241.0, 0
+915, [How do people propose overturning Citizens United without gutting the 1st amendment?], 490c44, 1457168776.0, 0
+916, [Dynastic Politics: Anyone Bothered?], 48tl32, 1457062476.0, 0
+917, [Why are most Democrats and some right wing nationalists so against free trade?], 48ep96, 1456838259.0, 0
+918, [Does Tulsi Gabbards endorement of Bernie Sanders mean anything for his chances?], 485cd7, 1456720202.0, 2
+919, [Why didn't Bernie Sanders give a concession speech?], 484d80, 1456711518.0, 2
+920, [Will Hillary be the next Hubert Humphrey?], 47talp, 1456576192.0, 0
+921, [The republican ticket will be Trump-Rubio], 47lfsr, 1456463051.0, 0
+922, [Could the Hillary email thing end up being a huge PLUS for her in the general election?], 47gep0, 1456392022.0, 1
+923, [More people should know about Libertarian Gary Johnson], 47277y, 1456194642.0, 2
+924, [Concerning Bernie's plan for Healthcare. What happens if people leave the country?], 45dqun, 1455292614.0, 0
+925, [Milton Friedman once said, "Heaven preserve us from the sincere reformer who knows what's good for you and by heaven he's going to make you do it whether you want to or not. That's when the greatest harm is done." How true is this statement? Can we apply it to Bernie Sanders?], 4447qi, 1454596833.0, 0
+926, [Who should Sen. Sanders pick as his VP and why?], 43zb7r, 1454525358.0, 0
+927, [This Clinton 'No-Fly' Zone response seems nonsensical, but she is a very experienced person on the subject. What's going on here?], 434bhs, 1454031165.0, 0
+928, [Do you think Hillary would put Bernie on the ticket in order to get the left to vote?], 42ebdh, 1453635178.0, 2
+929, [Is the Sanders campaign underutilizing the 140k strong SandersforPresident subreddit?], 42bxp3, 1453601500.0, 0
+930, [Is conservatism the default state in human nature?], 41z2je, 1453394052.0, 0
+931, [Would Bernie Sander be able to pass his legislative agenda with this Congress or a democrat controlled college?], 40w2aq, 1452775158.0, 0
+932, [Is Bernie Sander going to lose or win Iowa, and by how much?], 3z7x7e, 1451815798.0, 0
+933, [Why do we still need Unions? Aren't there enough federal laws in place to protect workers?], 3yoodo, 1451444393.0, 1
+934, [Why do Bernie supporters think the media is in the tank for Clinton, when they've been hammering her for months over the email scandal?], 3xk5lu, 1450628185.0, 0
+935, [Does anyone else think that Carly Fiorina was acting a bit sexist in last nights debate?], 3x3uuo, 1450318336.0, 1
+936, [Which ideology would hurt the United States the most? The far right or the far left?], 3wdyon, 1449877412.0, 0
+937, [Security for soft targets in the wake of the Paris attacks? Should we ban the burqa or the niqab?], 3t5rox, 1447799324.0, 0
+938, [How can we allow the media to go unpunished when they push propaganda?], 3rw2mf, 1446935339.0, 0
+939, [Why are American's OK with other Americans having to compete with foreign workers for jobs on US soil?], 3rv3v3, 1446907338.0, 2
+940, [Do any other conservatives think the fight for gun rights isn't being properly framed as being a last means for protecting our other rights?], 3rjre9, 1446703056.0, 0
+941, [General election polling in mid-April had Obama ahead of Romney by 4 points. Obama beat Romney by 4 points in November. Why does everyone say GE polling is way off base at this stage?], 4f3wcb, 1460872355.0, 12
+942, [Why do presidential nominees spend money on TV ads over other things?], 54x25d, 1475107339.0, 0
+943, [(Inspired by Profiles in Courage)Do you think it is an elected officials job to do what their constituents want, or is it their job to do what they think is right, even if it goes against the will of the people who put them in the office they hold?], 54tx0i, 1475053666.0, 0
+944, [What should the criteria be to run as a democrat or republican?], 4jyne1, 1463630770.0, 2
+945, [What happens if delegates bound to Trump don't show up to vote?], 4grwv4, 1461838387.0, 1
+946, [What is stopping either party from running a spoiler candidate against the other?], 4f11pp, 1460822704.0, 0
+947, [Does the pursuit of victory justify the abandonment of core, historical democratic values?], 4es5p2, 1460682554.0, 0
+948, [Does the government have the legal authority to break up the big banks?], 4ej1ao, 1460535528.0, 0
+949, [Overcrowded colleges], 4e730f, 1460343888.0, 0
+950, [The US system of choosing a president, from the primaries and conventions to the electoral college, is uniquely complex. How would you change it?], 4dtj5y, 1460097000.0, 0
+951, [What states do you think a progressive Democratic nominee would lose in a general?], 4dn7fw, 1459997805.0, 0
+952, [Trump May Be Stripped of All of His South Carolina Delegates], 4cs0sl, 1459486511.0, 1
+953, [If it does come to a GOP brokered convention -- how important do you factor VP picks?], 4bs2yi, 1458862835.0, 1
+954, [Would you say that the 2016 election year will be a major mark in history text books?], 4b08g3, 1458363942.0, 0
+955, [How does the GOP handling of the Garland nomination compare to Democratic opposition to Alito?], 4aubee, 1458266561.0, 0
+956, [What will Marco do next?], 4aokk1, 1458174434.0, 1
+957, [Are we (as voters, citizens, w/e) morally obligated to vote with our party?], 4amk0s, 1458137792.0, 0
+958, [What are the long-term effects of Trump hypothetically just falling short of the nomination, or being denied it in a brokered convention?], 4am2ex, 1458128310.0, 0
+959, [Would there be any merit to a Reddit-style upvote/downvote system for elections?], 4ait8i, 1458083143.0, 0
+960, [Question for Democrats: with regard to campaign finance, how do you personally feel about Donald Trump not taking money from special interests (e.g. banks, corporations)?], 4aigze, 1458078077.0, 0
+961, [What role, if any, should violence play in the contemporary political process in America? What conditions must be present for the use of violence to be justified?], 4a5kbx, 1457846616.0, 0
+962, [Is it possible Sanders' victory last night was the result of Republicans skewing the results by voting in the Democratic primary?], 49r4ws, 1457599868.0, 0
+963, [A Wall Street Journal poll released today found that a full 1/3 of Bernie Sanders supports wouldn't vote for Clinton. Should this worry Democrats at all, or will everything be different by November?], 49ppou, 1457581154.0, 0
+964, [What's the difference between Communism and Anarchy?], 499f84, 1457330986.0, 0
+965, [What's the difference between firing someone for opposing gay marriage and blacklisting someone for being communist?], 48zdo9, 1457155244.0, 0
+966, [Did Sanders Actually Intend to Win the Nomination (Initially)?], 48p24c, 1456990720.0, 0
+967, [What is behind the rise of Trump and Sanders in 2016?], 48ndqo, 1456971138.0, 0
+968, [It seems to me that Rubio's single victory, now cinches the nomination for Trump], 48mdiz, 1456958192.0, 0
+969, [Could an establishment "last line of defense" against Trump be the Electoral College's unwillingness to confirm him?], 48ack9, 1456783663.0, 0
+970, [Can Trumpism Create a Winning Coalition?], 47jn9c, 1456445950.0, 0
+971, [Does Ted Cruz ever drop out? If so, when? Would that wrap up the nom for Trump?], 46tcwj, 1456051098.0, 2
+972, [Knowing that released detainees have rejoined terrorist forces like Al-Qaeda, would you have kept Guantanamo at its former capacity?], 46buhp, 1455782213.0, 2
+973, [What's to Stop the President from Nominating Justices?], 45zq3v, 1455610919.0, 0
+974, [Could a Trump-like candidate happen in today's Democratic party?], 45yhwz, 1455596548.0, 0
+975, [If Sanders wins the nomination would Joe Biden be a good choice as his VP?], 44mnq3, 1454896480.0, 0
+976, [What would be an equitable compromise between a father's and mother's interests in the abortion debate?], 44m8gz, 1454891028.0, 0
+977, [Nobody seems to be very happy with the candidates in either of the two main parties. Why hasn't a third party gained political momentum from this opportunity?], 44jbdu, 1454837920.0, 0
+978, [What would be the outcome of a brokered convention on the Democratic side?], 43fifr, 1454210926.0, 1
+979, [Why is small gov't good for America?], 428jm4, 1453538794.0, 0
+980, [What if neither Bernie or Trump get the nomination, how will reddit and alike hop on the crazy clinton train? I see the possibilities as: Cruz/Carson/Kasich vs. Clinton ballet], 425e4s, 1453495991.0, 0
+981, [Does Trump actually fit within the GOP, and is nationalism inherently statist?], 41xd8r, 1453366077.0, 2
+982, [How does Bernie win if he wants to hike taxes for the rich above 50%?], 419t55, 1453001102.0, 0
+983, [What should be prioritized, security or liberty?], 3yt2u7, 1451526570.0, 0
+984, [How much attention is Trump's outrageous behavior getting is because he is the GOP frontrunner?], 3yfffx, 1451273980.0, 0
+985, [If Trump runs as an Independent and if the DNC forces Sanders to run as an Independent, could we see a possible split in the 2 parties?], 3xj0zt, 1450602458.0, 0
+986, [It feels so strange how this current political election has brought out two candidates who, while both running for the major political parties, have distanced themselves greatly from their mainstream demographics. Bernie and Trump, regardless of political ideologies, are breaking their parties' mold], 3xi15w, 1450585135.0, 0
+987, [Would Bernie have/have had a better chance of winning the nomination if he wasn't so nice to Clinton?], 3xcq05, 1450481039.0, 0
+988, [Why is Fox News treated (politically) like the opposite of MSNBC instead of the opposite of CNN?], 3udx2u, 1448598002.0, 0
+989, [Isis is not contained, with new terrorist threats, is this the right time for America to assemble a coalition of nations to eliminate this threat, with recent statements it appears, Europe, the Middle East allies and Russia will participate.], 3tijdf, 1448013752.0, 0
+990, [Syrian refugees held in refugee camps stateside?], 3t2v3o, 1447742363.0, 0
+991, [Mizzou: I don't think I've heard in this story anything where anybody said anything to whoever made a swastica in the bathroom.], 3si6ch, 1447335811.0, 0
+992, [Who are the "Obama Republicans" of 2016?], 3s0k3g, 1447027149.0, 0
+993, [[LIVE Thread] Trump Rally 1/28], 436h97, 1454059074.0, 20
+994, [Tulsi Gabbard: "Senator Clinton clearly didn't do her homework before her vote on Iraq." Is this a fair criticism?], 4dtji2, 1460097134.0, 27
+995, [Would you like to have seen Ross Perot get elected in 1992?], 57zzrv, 1476768793.0, 11
+996, [I understand liberals belief to a woman's right to choose, but what if the husband wanted to child?], 45lvo5, 1455417189.0, 10
+997, [The Onion Headline: "Poll Finds Hillary Clinton Candidate Most Americans Want To Have 8-Ounce Glass Of Tap Water With". Is the media portray of Hillary Clinton as being a cold and drab person fair?], 40tdd4, 1452738937.0, 9
+998, [Hillary as a Blue Dog - Does this accusation hold water?], 51t3gn, 1473391550.0, 26
+999, [Why the hell is Rand Paul trying to take credit for proposing the Muslim ban?], 3w3ktw, 1449711407.0, 8
+1000, [Trump has received a lot of attention for his recent campaign comments regarding the second amendment. What will be the implications for his campaign?], 4wz5lq, 1470813559.0, 1406

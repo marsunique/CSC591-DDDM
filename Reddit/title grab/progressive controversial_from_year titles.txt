@@ -1,0 +1,1001 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Bernie Sanders Says He Will Vote for Hillary Clinton], 4pmns1, 1466800803.0, 22
+2, [Michael Moore Blasts Hateful People Chasing Hillary Clinton About Her Health In Brilliant Smackdown], 52eqq2, 1473721169.0, 5
+3, [A Vote For Jill Stein Is A Vote For Trump By Sally Kohn.], 548i2o, 1474716162.0, 0
+4, [Trump tried to downplay his pro-Russian tilt in the last debate. Then he proved it.], 58eghp, 1476959248.0, 0
+5, [Hillary Clinton isn't the lesser of two evils. She's one of the most experienced candidates in history], 54bwwf, 1474777820.0, 19
+6, [If the election is really rigged, 33 states are rigged by Republicans], 58a6ty, 1476911613.0, 0
+7, [Hillary Clinton for President: Hillary Clinton for President: Our endorsement is rooted in respect for her intellect, experience and courage.], 54au5d, 1474763377.0, 0
+8, [If Youre Liberal and You Think Hillary Clinton Is Corrupt and Untrustworthy, Youre Rewarding 25 Years of GOP Smears], 43wmd4, 1454480064.0, 3
+9, [Kevin Drum at MOJO: Hillary Clinton Is Fundamentally Honest and Trustworthy], 4uoqmx, 1469570294.0, 6
+10, [Your Vote for Jill Stein Is a Wasted Vote], 53zpbf, 1474589361.0, 1
+11, [Hillary Clinton May Not Be a Savior, But She Is Exactly What We Need: Democrats Needed the Overblown Promise of the Obama Campaign in 2008 to Lift Us Out of our Bush-era Depression. Now Its Time to Accept that No Matter Who Our Leader Is, He or She Is not Going to Be Savior.], 3s518d, 1447110122.0, 0
+12, [Could Hillary Clinton Become the Champion of the 99 Percent?], 4wbozt, 1470448627.0, 0
+13, [Jill Stein thinks Wi-Fi could be dangerous for our brains], 4voagx, 1470108369.0, 4
+14, [Watch: Hillary Clinton addresses supporters after clinching the nomination], 4n7mzt, 1465452174.0, 1
+15, [Lets Call Establishment Dems What They Are: REPUBLICANS], 4jp4xx, 1463487163.0, 0
+16, [I'm pro-life. And I'm voting for Hillary. Here's why. [Some excellent talking points]], 4wi2d7, 1470550633.0, 0
+17, [The case Against Bernie Sanders], 41jb9o, 1453158636.0, 1
+18, [Smoking Gun: Email Suggests Hillary Broke Law; Clinton instructed an aide to remove the classification marking from information, a federal offense], 402yum, 1452314515.0, 2
+19, [Remember "progressive" Killer Mike? Now goes by #SlickConservative and is pro-NRA. Guess Killer was right all along.], 4qxsui, 1467504436.0, 8
+20, [New revelations show a nation for sale under Hillary Clinton], 4ze0xe, 1472092301.0, 7
+21, [The Sanders Campaign Tried to Rig Caucus Tiebreakers With Double-Sided Coins], 4q77ci, 1467110595.0, 0
+22, [Dont rule it out: Bernie Sanders (slightly) leaves door open for Green Party run with Jill Stein], 4m9rbr, 1464935084.0, 0
+23, [Bernie Lied! Hillary Clinton Actually Refused to Call Him Unqualified Three Times], 4drhmh, 1460070945.0, 1
+24, [The Key Question On The Clinton Foundation Is Whether It Saved Lives. The Answer Is Clearly Yes.], 542iij, 1474624907.0, 0
+25, [This is what the "Green Tea Party" Doesn't Seem to Understand about Being Progressive], 4wq35t, 1470690845.0, 1
+26, [Bernie Loses His Halo: Even progressives are criticizing him now after hes shown a harder edge.], 4knq9m, 1464035952.0, 3
+27, [Sanders flunks on foreign policy], 44cagc, 1454727773.0, 0
+28, [Lets Grow Up, Liberals: I voted for Bernie Sanders. But its enough with the purity already.], 4smd3g, 1468432386.0, 0
+29, [Hillary Clinton Reaches Out to Sanders Supporters and Expands Criticism of Trump: Hillary embraces more of Bernie's ideas in California and makes a strong and provocative critique of Trump.], 4lh3ti, 1464491545.0, 4
+30, [Harvard Study Confirms The Media Tore Down Clinton, Built Up Trump And Sanders], 4ptto4, 1466909532.0, 0
+31, [Why Im Supporting Hillary Clinton: A Plea to Louisiana Progressives], 4jm0mz, 1463445601.0, 0
+32, [Jill Stein: Clinton emails reveal security risks, special deals for donors], 4z8tx6, 1472015841.0, 0
+33, [Sanders loses convention leverage: Bernie's summer was supposed to be about strengthening his hand for the Democratic convention. But since the California primary, his position has gotten weaker.], 4ojdsj, 1466201251.0, 1
+34, [Jill Stein says leaked emails prove DNC sabotage; urges Sanders to withdraw Clinton endorsement, explore collaboration with Green Party], 4u8mls, 1469316307.0, 2
+35, [Why the Green Party Has Destroyed Itself with Jill Stein], 54dkwc, 1474803734.0, 0
+36, [Jill Stein Continues Pandering to Anti-Vaxxers], 4vklyv, 1470051193.0, 8
+37, [Hillary Clinton Is Trying Really Hard to Repel Progressives], 523u0n, 1473553448.0, 0
+38, [Hillary Clinton Has Eased One Of The Biggest Doubts About Her Capacity To Be A Good President], 4ye32l, 1471575720.0, 0
+39, [Bernie Sanders Goes AWOL on Guns Filibuster: He was up in Vermont. Well, okay. He deserves some rest. But what a thing to missand what a message it sends.], 4og93q, 1466147359.0, 0
+40, [An Ode to My Berniebro Trolls], 48x83h, 1457125424.0, 2
+41, [Hillary Clinton gets Backing From Congressional Black Caucus], 459tkg, 1455239416.0, 0
+42, [Hillary Clinton correct that Bernie Sanders flip-flopped on liability for gun makers, sellers], 41h54v, 1453117594.0, 0
+43, [Texas Newspaper Destroys The Myth That Hillary Clinton Is The Lesser Of Two Evils], 55m7tc, 1475500019.0, 2
+44, [Hillary Clinton is just the latest ambitious American woman to be accused of ill health.], 536j9l, 1474132004.0, 2
+45, [Beware the Hillary Clinton-Loathing, Donald Trump-Loving Useful Idiots of the Left: The Republican nominees words are music to the ears of progressives averse to the Democratic nominees support for the U.S.-led liberal world order.], 4xu8dj, 1471305361.0, 0
+46, [Biden spills beans: Sanders will endorse Clinton], 4qodmt, 1467354198.0, 1
+47, [Think Youve Got It Locked, Hillary? Meet Jill Stein.], 4oyh45, 1466454248.0, 0
+48, [The System Isnt Rigged Against Sanders: Clintons winning because more Democrats want her to be the nominee.], 4l7tle, 1464329771.0, 1
+49, [Clinton turned Sanders's attacks on her Wall Street ties into a game of chicken. And she won.], 45fkmd, 1455324220.0, 0
+50, [For those of you voting for Jill Stein, please look at her electoral history], 4z1l24, 1471914732.0, 17
+51, [A New Low For Jill Stein - The Boston Globe], 4v3tsc, 1469780141.0, 8
+52, [Hillary Clinton Becomes First Female Nominee of Major U.S. Political Party], 4urkei, 1469603609.0, 4
+53, [Cenk Uygur on Bernie Sanders Speech: The Revolution Matters More Than Defeating Trump], 4ojg2q, 1466202069.0, 3
+54, [Hillary Did What She Needed To Do: If Undecided Voters Were Looking For An Excuse To Come Around To Clintons Corner, They May Have Found It On Monday Night.], 54otgt, 1474977474.0, 17
+55, [President Trump? Theres only one way to stop it happening: As the first TV debate looms the race is on a knife edge. Unless voters on the left want to repeat bitter history, they have to swallow their doubts and back Hillary], 54ey7s, 1474836461.0, 86
+56, [Bernie Sanders Officially Announces He Will Run for President Forever], 4oi7t6, 1466179248.0, 11
+57, [The Folly of the Protest Vote: Either Clinton or Trump will be the next president of the United States. Not Jill Stein. Not Gary Johnson.], 543hia, 1474641839.0, 0
+58, [Hillary Clinton says Bernie Sanders supported Minutemen, indefinite detention for the undocumented], 49vggs, 1457672438.0, 1
+59, [Patton Oswalt Flips The Idiotic Hillary Clinton Pneumonia 'Controversy' On Its Head], 52f76n, 1473726478.0, 8
+60, [Bernie Sanders: "Yes," I'll Vote for Hillary Clinton], 4pn9pj, 1466808795.0, 0
+61, [Hillary Clinton's first general election campaign ad!], 4nqq24, 1465774443.0, 0
+62, [You Might Not Have Noticed, but Hillary Clinton Has a Really Progressive Tax Plan], 48ybd0, 1457141444.0, 0
+63, [I'm glad Sanders won New Hampshire, but I want Hillary Clinton to be president], 45d1cq, 1455280100.0, 2
+64, [Trump Could Win It All: A new survey shows a sizable number of Democrats ready to defect from Hillary Clinton to Donald Trump.], 409e37, 1452420993.0, 2
+65, [Green Party Seeks Sanders Supporters to Expand Its Base], 4wwg98, 1470781847.0, 0
+66, [Bernie or Bust Voters Have a Home with the Green Partys Jill Stein], 4vuii5, 1470197096.0, 0
+67, [Why are Bernie supporters posting anti-Hillary memes inspired by Trump fans and literal Nazis? :: We Hunted The Mammoth], 4vtes7, 1470185070.0, 0
+68, [An incredible speech by Cory Booker at the DNC - I can't wait to see him to run for president in 2024], 4v0lj0, 1469739957.0, 0
+69, [The Nation. Why Hillary Clinton Doesnt Deserve the Black Vote.  From the crime bill to welfare reform, policies Bill Clinton enactedand Hillary Clinton supporteddecimated black America.], 4uwcsr, 1469675532.0, 1
+70, [How the National Rifle Association helped get Bernie Sanders elected], 4ppl85, 1466835965.0, 2
+71, [The Electoral Map Is Looking Pretty Darn Good For Clinton Right Now], 4i5232, 1462569886.0, 1
+72, [Can We Trust Julian Assange and WikiLeaks? -- The D.N.C. emails were in the public interest but they also show how reckless and agenda-driven WikiLeaks has become.], 4wqcrc, 1470694599.0, 7
+73, [Why The Two Historically Unpopular Candidates Meme Is A Sham  One That Boosts Donald Trump], 565lt5, 1475792522.0, 12
+74, [Never In A Million Years Will I Vote For Jill Stein], 4vdxkb, 1469940736.0, 0
+75, [Hey progressives, Hillary isnt the enemy: Im a Sanders supporter, but Im sick of Bernie Bros Clinton Derangement Syndrome], 3sman6, 1447413262.0, 7
+76, [Al Gore: If You Care About The Climate Crisis, Dont Vote For A Third Party -- In my experience, it matters a lot.], 4z3i9n, 1471938000.0, 4
+77, [Jill Stein's Plan to Stop Trump by Electing Him -- NYMag], 4v85pg, 1469846840.0, 0
+78, [Bernie Blew It -- Elizabeth Warren is the surrogate he was supposed to be. His supporters have become Clintons. How Sanders overplayed his hand.], 4qdkbm, 1467200677.0, 0
+79, [HRC Stands with Hillary Clinton in Iowa], 42iz06, 1453715019.0, 0
+80, [Clinton's VP Tim Kaine is a warmonger and anti-abortion], 4u6r1a, 1469277077.0, 3
+81, [Sanders: 'Clinton will make an outstanding president'], 4sic9i, 1468374524.0, 1
+82, [Liberal groups to Bernie and Hillary: Time to unify], 4ojbeq, 1466200324.0, 2
+83, [A Progressive Case for Hillary Clinton], 4ldu9y, 1464427758.0, 3
+84, [Hillary Clinton Beats Bernie Sanders in Nevada Caucuses], 46ss2s, 1456042666.0, 0
+85, [Left-Leaning Economists Question Cost of Bernie Sanderss Plans], 45y0lz, 1455591290.0, 0
+86, [Bill Clinton rips Sanders backers' 'sexist,' 'profane' attacks], 44rri8, 1454979021.0, 1
+87, [3 Big Achievements of the Clinton Foundation That the Right Wing Will Never Be Able to Smear.], 4zr7yo, 1472278529.0, 7
+88, [Moody's: Hillary Clinton's economy would create 10.4 million jobs in 4 years], 4ve0fk, 1469941890.0, 5
+89, [I won't be shamed into voting for Clinton.], 4qv89k, 1467453170.0, 4
+90, [Progressive Family Values: Policies for the real, real America.], 54mkov, 1474948813.0, 0
+91, [Thinking Of Casting A Protest Vote? You Better Know Your History.], 532v7b, 1474073611.0, 0
+92, [How Russia Often Benefits When Julian Assange Reveals the West's Secrets], 50o3e0, 1472776407.0, 1
+93, [Can Sanders and Warren work together? -- He's got the movement, she's got the clout, but some doubt whether they can turn it into action.], 4xfp8f, 1471062999.0, 0
+94, [Hillary Clintons Pathetic Fiscal Plans  Matt Bruenig], 4hm4de, 1462287754.0, 0
+95, [Sanders campaign just crossed Nevada's most powerful union], 435ian, 1454046000.0, 1
+96, [Clinton calls Sanders out on Planned Parenthood], 41uvx3, 1453333534.0, 0
+97, [Bernie Sanders proposes tax hike to pay for health care plan], 41gmeg, 1453109757.0, 1
+98, [Bernie Sanders, Absent From Filibuster, Endorses Anti-Abortion Candidate], 4oi6k9, 1466178463.0, 2
+99, [Privilege is what allows Sanders supporters to say theyll never vote for Clinton], 4i9y3m, 1462655871.0, 0
+100, [Jill Stein insists Trump is less dangerous than Clinton  and attacks Bernie Sanders as a DC insider], 53hnzg, 1474322391.0, 157
+101, [Clinton Inflames Progressive Base with Choice of Tim Kaine as Vice President. "If Clinton has reached out to Bernie supporters, it appears that she has done so to stick triangulating thumbs in their eyes."], 4u8a3d, 1469310599.0, 3
+102, [A Final Debunking of Progressive Attacks on Hillary Rodham Clinton], 4ppatq, 1466832189.0, 0
+103, [The Hillary Clinton email story is out of control], 51xedf, 1473456775.0, 9
+104, [Hillary and Tim Kaine: a Match Made on Wall Street], 4u9hvk, 1469328542.0, 4
+105, [Hillary Clinton just achieved another big first], 4ou5oh, 1466385137.0, 0
+106, [Erica Jong: Why I trust Hillary Clinton], 4ldev5, 1464420750.0, 0
+107, [3 Reasons to Vote for Hillary Clinton That Have Nothing To Do with Hillary Clinton], 54pamn, 1474985897.0, 1
+108, [Why Hillary Clinton Wouldn't Be A Foreign Policy Hawk As President], 4x080h, 1470828594.0, 0
+109, [Green Candidate Jill Stein Maintains Anti-Vaxxer Cred], 4vp7bo, 1470119560.0, 0
+110, [Jill Stein on vaccines: People have real questions], 4v8fcj, 1469850010.0, 1
+111, [Leaked memo: Sanders team wanted use of private jet in exchange for backing Clinton], 4uivb7, 1469485824.0, 0
+112, ["As is extremely obvious, the Democrats definition of terrorist is anyone whom the U.S. government suspects of being a terrorist.], 4p6i0t, 1466566632.0, 0
+113, [Want To Know Why 50 People Died In Orlando? It Wasnt Terrorism  It Was A Gun.], 4nw9a2, 1465862004.0, 1
+114, [This is why Trumps winning, and why I wont vote for Hillary], 4brpnd, 1458857692.0, 1
+115, [Bernie Sanderss Big Night Might Be Last One for a While], 453543, 1455145991.0, 0
+116, [The fight over Hillary Clintons speaking fees is ridiculous], 44fwua, 1454788342.0, 0
+117, [Hillary Clinton Narrowly Defeats Bernie Sanders in Iowa Democratic Caucuses], 43tz4q, 1454444465.0, 1
+118, [Hillary Clinton for the Democratic Nomination], 43hb4d, 1454236676.0, 0
+119, [Democrats would be insane to nominate Bernie Sanders], 42w1hj, 1453902249.0, 0
+120, [Sanders: We will raise taxes, yes we will], 42phso, 1453806498.0, 0
+121, [The progressive case for Hillary Clinton is pretty overwhelming], 53hr2j, 1474323496.0, 18
+122, [In first debate, Clinton goes after the heart of Trumps candidacy], 54qh12, 1475010436.0, 4
+123, [Trump deals Clinton a winning card], 4h46f5, 1462045933.0, 5
+124, [Why This Election Is SO Important. Wes Clark Jr. Vs. Jimmy Dore Debate], 54p5kw, 1474983160.0, 1
+125, [Something I don't get about the far left], 541di5, 1474609034.0, 0
+126, [Hillary Clinton told FBI concussion made her forget briefings, report reveals], 50vo2n, 1472881313.0, 2
+127, [The Wild Beliefs of Ajamu Baraka, Jill Steins Green Party Running Mate: Ajamu Baraka, the Green Party vice-presidential pick, has a history of engaging with fringe theories.], 4yaq3y, 1471530364.0, 0
+128, [Green Party presidential candidate Jill Stein touts her green new deal], 4xj4z3, 1471125091.0, 0
+129, [Snopes defended Jill Stein -- both are wrong about vaccines], 4voo0o, 1470112797.0, 0
+130, [Jill Stein Interview with Fox Business News 29th June 2016], 4qo8wn, 1467352521.0, 2
+131, [A Clinton-Warren ticket gets closer to reality: Progressives just might get their original dream candidate], 4mzrsl, 1465344406.0, 2
+132, [Does MSNBC have no shame? - Declaring Clinton's victory before the delegates actually vote.], 4mx8h3, 1465301281.0, 0
+133, [Its time to look in the mirror, Bernie: Now, more than ever, Sanders needs to be criticized for his failed political theories -- Sanders backers must stop calling Clinton a "sore winner," and instead learn the right lessons from his failure], 4lhd9g, 1464495477.0, 0
+134, [Thomas Frank: Bill Clinton's Five Major Achievements Were Longstanding GOP Objectives], 4jil9c, 1463384124.0, 0
+135, [Protestors go crazy during The Triggering event at UMass], 4gne0r, 1461770129.0, 1
+136, [Liberal Biases, Too, May Block Progress on Climate Change: Liberal resistance to nuclear power plants, which emit virtually no greenhouse gases, could be damaging in the effort to combat climate change.], 4frt3q, 1461250357.0, 0
+137, [Van Jones says he might vote for Stein], 4e2teh, 1460261615.0, 0
+138, [Hillary Clinton Throws "Excuse Me" Back At Bernie Sanders in An Ultimate Repeat Shade], 49s06c, 1457613864.0, 2
+139, [Exclusive: Bernie Sanders Begins Building Foreign Policy Team], 47eyp9, 1456377258.0, 0
+140, [The Definitive, Encyclopedic Case For Why Hillary Clinton is the Wrong Choice], 4793c3, 1456294099.0, 1
+141, [The Editorial Board of the Washington Post: Bernie Sanderss fiction-filled campaign], 436d5y, 1454057472.0, 0
+142, [Ta-Nehisi Coates on Bernie Sanders and Reparations], 41s74r, 1453285667.0, 0
+143, [Democratic debate: Hillary Clinton goes after Bernie Sanders on gun control], 41jz5r, 1453167466.0, 0
+144, [Hours before debate, Sanders shares details of health plan that would raise income taxes], 41ga39, 1453104861.0, 1
+145, [Bernie Sanders is enjoying a lift but only a fool would bet against Hillary Clinton], 41cogn, 1453047053.0, 0
+146, [Hillary Clinton Is Stepping Up Her Smear Campaign Against Bernie: First she suggested the Vermont senator was sexist. Now shes reaching for the race card.], 3rl60h, 1446725580.0, 1
+147, [Hillary Clinton: Child care now costs more than rent. Heres how to fix this crisis.], 4kbrtb, 1463827559.0, 5
+148, [Bernie Sanders Has Earned His Success. Hillary Clinton Embodies White Privilege], 47kk59, 1456454800.0, 5
+149, [Your Gleeful Liberal Takedown of Hillary Clinton Is Affirming Institutional Sexism: Its time liberals acknowledge that their vitriol toward the presidential candidate is hurting women  and speaks to something deeper], 4zvnu2, 1472353248.0, 0
+150, [If at first you dont succeed: how Hillary Clinton came back from the brink - Eight years ago, Hillary Clinton conceded defeat to Barack Obama. Next week, she will be officially nominated as the Democratic candidate and potential first female president. How did she get here?], 4u8w4n, 1469320159.0, 4
+151, [Americans are split on "reverse racism." That still doesn't mean it exists.], 4qgqdr, 1467249778.0, 0
+152, [Hillary Clinton Gets Her Victory Speech as Road to Nomination Clears], 46vo9u, 1456097204.0, 0
+153, [Jill Stein is not the savior the left is looking for.], 4v89jh, 1469848059.0, 17
+154, [Vote for the Lying Neoliberal Warmonger: Its Important], 4zvxr3, 1472356948.0, 2
+155, [The Irony in Democrats Celebration of Muslim Lives: While Trump verbally disparages Muslims, a Democratic president is actually killing Muslim children by the dozen.], 4vpne2, 1470125327.0, 0
+156, [Clinton has raised tens of millions to aid in electing Democrats. Sanders? "We'll see."], 4czmzv, 1459593219.0, 5
+157, [Yes, Donald Trump is grotesque. But I will never vote for Hillary Clinton], 4chsr9, 1459318109.0, 1
+158, [Bernie Isn't Best for Black Voters], 463yzo, 1455677972.0, 0
+159, [The Gary Johnson Swindle and the Degradation of Third Party Politics], 542gjk, 1474624076.0, 13
+160, [Bernie Sanders is too old], 44bb7u, 1454715306.0, 0
+161, [Friends Don't Let Friends Vote for Jill Stein], 4xnujw, 1471205201.0, 0
+162, [Will Sanders Supporters Come Around? -- The science of intergroup dynamics suggests they will.], 4vhic3, 1470007528.0, 5
+163, [Elizabeth Warren To Endorse Hillary Clinton After The Democratic Primary Ends], 4m30dl, 1464837675.0, 5
+164, [Bernie Sanders: $15T in tax increases proposed, hitting most taxpayers, report finds], 48yk2l, 1457144649.0, 7
+165, [After Bernie: Green Party Hopeful Jill Stein Says Millennials Can Take Over This Election], 4m2aww, 1464829603.0, 7
+166, [Attention, World: Chelsea Handler Is Set To Interview Ann Coulter], 4zvbgy, 1472348848.0, 1
+167, [Why Does Green Party's Stein Keep Leaving The Door Open For The Anti-Vaxxer Crowd?], 4yeqh7, 1471582605.0, 0
+168, [Why commission must let Gary Johnson, Jill Stein into debates], 4xofha, 1471215578.0, 0
+169, [Senator Menendez Op-Ed: Hillary Clinton Has the Right Stuff for Prez], 4lcow4, 1464410114.0, 1
+170, [Bernie Sanders Is Losing Fair and Square], 4knkhg, 1464033164.0, 0
+171, [Hillary Clinton will almost certainly clinch the Democratic nomination on June 7], 4iwaq6, 1463019513.0, 1
+172, [Polls that claim to show Bernie is more electable really show a candidate who hasn't been attacked], 4gj3q6, 1461710411.0, 1
+173, [Bill Clinton Has Always Been This Person: Clinton has spent his entire career inflicting harm on black people while cynically claiming to speak for their interests], 4e6kmy, 1460336776.0, 2
+174, [This is why gun control advocates will never forgive Bernie Sanders], 4dkd69, 1459947905.0, 0
+175, [Bernie Sanderss fiction-filled campaign - The Washington Post], 438vli, 1454104717.0, 0
+176, [Clinton Accuses Sanders of 'Flip-Flopping' on Guns], 41dt8j, 1453071161.0, 2
+177, [Watchdog Group Destroys GOP Conspiracy Theories By Giving Clinton Foundation High Marks], 50t40t, 1472850353.0, 25
+178, [No brain, no heart, no spine], 4d5zik, 1459715451.0, 18
+179, [Will the Left Survive the Millennials?], 546ye9, 1474693215.0, 0
+180, [Clinton's F-You to Progressives: This is How Trump Could Become President], 4v7nmv, 1469841027.0, 0
+181, [Hillary Clintons Technology Policy Is Surprisingly Solid], 4qgp2l, 1467249381.0, 1
+182, [Decoding Bernie Sanders #ArtfulSmear of Hillary Clinton], 4mfh7i, 1465022226.0, 0
+183, [You want a People's Revolution? Support The People's Convention in Philly, July 23rd!], 4m8c4w, 1464917795.0, 1
+184, [George Takei scolds Bernie supporters who would rather bust than vote for Hillary], 4gwzdz, 1461918664.0, 0
+185, [Sanders Over the Edge - Paul Krugman], 4dwnj9, 1460154932.0, 0
+186, [Sanders Campaign Missteps With Influential Nevada Union and DREAMers Anger Activists], 45y2fb, 1455591892.0, 2
+187, [Quinnipiac Poll: 6 in 10 American Voters Do Not Trust Hillary Clinton], 3y09n4, 1450934020.0, 2
+188, [Clarification: not voting for someone is not the same thing as voting for someone else], 537twh, 1474157316.0, 16
+189, [Dont believe what you hear about Clinton], 553rmv, 1475203964.0, 0
+190, [Why no Progressive Party? I think it would go over better than the green party. There are literally 12,000,000 people that would consider joining.], 4o9b1t, 1466049494.0, 0
+191, [George Zimmerman to auction off gun he used to kill Trayvon Martin], 4j07y1, 1463081390.0, 1
+192, [Why Soviet Refugees Aren't Buying Sanders's Socialism: The ultra-conservative views of many in the Russian Jewish community are driven by memories of life in the USSR.], 4ekter, 1460568824.0, 0
+193, [Obama's Gun Confiscation Count: Week #375], 4dy9rh, 1460176355.0, 1
+194, [Beyond shady: Clinton-supporting PAC money pays "spies" to sabotage Bernie Sanders campaign], 4df6lh, 1459864879.0, 0
+195, [Bernie Sanders Is Currently Winning the Democratic Primary Race, and I'll Prove It to You], 4boyg1, 1458802459.0, 2
+196, [White People Explain Why They Feel Oppressed], 4bapy2, 1458559639.0, 0
+197, [Sanders upsets families in Newtown wrongful death lawsuit], 49j3mh, 1457481541.0, 0
+198, [Hillary Clinton stresses gun control as 'big difference' of Democratic race], 441ows, 1454560211.0, 0
+199, [Republicans Start To Acknowledge They Might Face Bernie Sanders], 43wu6o, 1454482927.0, 0
+200, [Labor Deploys Ground Forces to Iowa For Hillary], 426q6r, 1453514669.0, 1
+201, [Should nondisabled adults without children have to work to get food stamps?], 41oyq3, 1453243388.0, 1
+202, [Oscar 2016: The nominees are blindingly white. Again.], 40y2r7, 1452814745.0, 0
+203, [A message from /pol/.], 3w9n21, 1449805714.0, 0
+204, [Two Reasons I Can't Vote For Hillary], 3sjr5g, 1447374306.0, 1
+205, [Meet the Women Who Say Theres a Better Feminist in the Race Than Hillary Clinton], 3si6e4, 1447335838.0, 0
+206, [If Hillary picks Tim Kaine for VP I think I will cry.], 4u5k6f, 1469258004.0, 21
+207, [Inside the bitter last days of Bernie's revolution -- For better and for worse, Sanders made all the big decisions.], 4n3nlm, 1465395481.0, 11
+208, [Bernie Sanders has not released full tax returns], 4gxs2n, 1461931376.0, 51
+209, [Russia may be meddling in US politics. Where is the left-wing outrage? -- Thanks to Bernie Sanders, leftwingers of my generation are poised to wield enormous influence over national politics. Lets not use it to excuse Russia], 50hbut, 1472681010.0, 3
+210, [Why Does the Left Hate Hillary?], 4m1p7s, 1464822518.0, 5
+211, [Heres What Bernie Sanders Doesnt Want You To Know About College Costs], 45xwm3, 1455590019.0, 0
+212, [Wall St. Ties Linger as Image Issue for Hillary Clinton], 3u0mup, 1448355825.0, 0
+213, [Jill Stein in Moscow criticized US human rights, said nothing about Russian human rights], 4wjx4b, 1470583105.0, 8
+214, [Its Official: Sarah Palins Career Is In A Death Spiral, Her Last Trainwreck Speech Sealed It], 4d6hst, 1459725411.0, 8
+215, [No, Jill Stein is NOT Anti-Vax], 4wctim, 1470462088.0, 3
+216, [War and Wall Street:Clinton's Bleak Record], 4vrpzo, 1470161292.0, 3
+217, [It looks like a mess, but the Democratic Party is more unified than it seems], 4un2be, 1469539862.0, 4
+218, [Bernie Sanders Endorses Hillary Clinton, Cementing Democrats Unity: Whether Mrs. Clinton can also win over the 12 million Sanders voters will be one of her biggest challenges at the partys convention and in the weeks ahead.], 4shq97, 1468367950.0, 5
+219, [Endorsement: Hillary Clinton has needed knowledge, experience], 42d8yy, 1453619063.0, 0
+220, [The betrayal that should haunt Hillary Clinton: How she sold out working women & then never apologized], 3rafhp, 1446541505.0, 5
+221, [Bernie Sanders wrong to say, 'When you're white ... you don't know what it's like to be poor'], 49gtlm, 1457441237.0, 14
+222, [A man who has declared bankruptcy four times isnt a great person to put in charge of job creation. We have too much blind faith in business leaders.], 4uiual, 1469485469.0, 558
+223, [A Milestone For Women In Politics], 4nj77c, 1465632486.0, 11
+224, [I love Bernie Sanders but.....], 44wcg2, 1455047926.0, 30
+225, [WikiLeaks is fanning a conspiracy theory that Hillary murdered a DNC staffer.], 4x71j9, 1470933063.0, 19
+226, [Stop Mocking Gary Johnson], 567pza, 1475816521.0, 0
+227, [Jill Stein: 'I would not have assassinated Osama bin Laden'], 52cl8i, 1473682574.0, 1
+228, [Who said it, Trump or Clinton? Democrats Can't Decide], 4yglav, 1471605210.0, 0
+229, [Democrats gear up to stop Obama on TPP trade deal], 4xj871, 1471126575.0, 0
+230, [Wikileaks/Assange promoting conspiracy that Hillary killed DNC staffer], 4x5ect, 1470905031.0, 0
+231, [WikiLeaks founder speaks to Green Party convention in Texas], 4wt5bq, 1470727322.0, 2
+232, [Why the Black Lives Matter Platform's False Accusation of Israeli 'Genocide' Was So Damaging: The groups new platform, and this false accusation, united American Jewish organizations and individualsusually at oddsin outrage], 4wem8w, 1470490649.0, 1
+233, [Keith Ellison: I'm a Progressive. And I'm with her.], 4spmzn, 1468474624.0, 2
+234, [Top Sanders supporter: He must endorse Clinton before the Dem convention -- One of Bernie's most important backers in Congress gives him a push.], 4qbxey, 1467178451.0, 0
+235, [The enormous ambition of Hillary Clintons child-care plan], 4ldkgr, 1464423248.0, 0
+236, [Why Bernie Doesn't Quit: Public Choice 101], 4k0wca, 1463662801.0, 0
+237, [Pro-Trump tow truck driver leaves disabled Sanders supporter stranded on roadside], 4iqwj1, 1462936783.0, 3
+238, [Hillary Clinton embraced as keynote speaker at fund-raiser for all-boys Eagle Academy she helped establish], 4h5y7k, 1462075302.0, 1
+239, [Think Trump's 45 Percent Tariffs Are Bad? Try Obama's 10,000 Percent Tariffs], 4ceztg, 1459279174.0, 0
+240, [All-out warfare is about to break out between Bernie Sanders supporters and the political press], 4bsz4h, 1458874587.0, 1
+241, [Hillary Clinton Wins Texas' Democratic Presidential Primary], 48lvi1, 1456949361.0, 1
+242, [Hillary could lose to Trump in Democratic New York], 48bwb0, 1456802671.0, 1
+243, [Sanders rails against Clinton as wannabe progressive], 443wry, 1454591176.0, 1
+244, [Bill Clinton: Bernie Sanders is No Obama], 43wasr, 1454476011.0, 1
+245, [White House applauds Clinton for Iowa win], 43vqrf, 1454469104.0, 2
+246, [Clinton vows to win nomination to keep Bloomberg out of race], 42gibo, 1453682176.0, 0
+247, [Bernie Sanders Reverses Course on Gun Immunity Vote], 41buyb, 1453030775.0, 1
+248, [Hillary Clinton in Her Own Words], 3ygl55, 1451292212.0, 1
+249, [Dear Everyone: Hillary Losing Is Hillary's Fault, Not ANYONE Else's], 4k99yw, 1463793276.0, 9
+250, [Hillary Clinton Brings Out the Real Donald Trump], 54qvpb, 1475016123.0, 7
+251, [Why Leftists Should Have No Problem Voting For Hillary Clinton: What matters is not who you vote for, what matters is what happens in the world as a result], 4wmvmy, 1470635020.0, 5
+252, [Hillary Clinton Wins Florida], 4alevq, 1458118040.0, 7
+253, [Handbook for Psychopaths: The formula for becoming an infallible legend in your own mind. Remind you of anyone?], 544tqw, 1474667984.0, 3
+254, [Hillary Clinton Threatened To Murder Bernie Sanders, Says Credible Not-Russian-Sounding News Site], 50hy60, 1472688427.0, 2
+255, [A new road ahead for the Green Party], 4wwge5, 1470781889.0, 3
+256, [Last time the Clintons were in the White House, they dismantled black communities: the data is clear that the last time a Clinton was in the White House, minorities were jailed at higher rates than during any of Clintons predecessors, with 673,000 new inmates in state and federal prisons.], 4uxg9d, 1469688274.0, 0
+257, [Tim Kaine has a refreshing (and bipartisan) approach to financial reform.], 4ud6wb, 1469397228.0, 0
+258, [Sanders To Endorse Hillary Clinton], 4s198b, 1468113834.0, 1
+259, [88 people were shot during the gun control sit-in], 4pizg2, 1466743812.0, 3
+260, [Hillary Helps a Bankand Then It Funnels Millions to the Clintons], 4p75ls, 1466574319.0, 2
+261, [Hillary Clinton: The Historical Figures in Her Victory Video], 4ou845, 1466386115.0, 0
+262, [Will Bernie Sanders Supporters Vote For Clinton? Why Many Youth Want Jill Stein, Gary Johnson As The Next President], 4odckv, 1466113097.0, 0
+263, [Bernie Sanders' Team Says the Race Isn't Over: 'Clinton Does Not Have and Will Not Have' Enough Delegates to Win], 4n575q, 1465423787.0, 0
+264, [Sanders is beating Obamas 2008 youth vote record. And the primarys not even over.], 4ma7r4, 1464941495.0, 3
+265, [CNN anchor schools Sanders surrogate: Bernie is not going to win 107 percent of the delegates], 4m4ce6, 1464854193.0, 0
+266, [Hillary Clinton Is Still the Favorite], 4lcraq, 1464411019.0, 0
+267, [It's Over Gandalf. We Need to Unite Behind Saruman to Save Middle Earth from Sauron!], 4b06sc, 1458363272.0, 3
+268, [So I keep hearing people say Trump is literally Hitler.], 4a4lf2, 1457831981.0, 0
+269, [Hard Choices: I used to hate Hillary. Now Im voting for her.], 4598de, 1455232652.0, 0
+270, [Nothing changed about Hillary Clintons emails today. Heres why its still a complete non-issue.], 43f015, 1454204111.0, 2
+271, [Sanders operatives accused of posing as union workers in Vegas], 4351nf, 1454040206.0, 1
+272, [Listen To Tim Kaine's "I'm Conservative" Radio Ads From 2005: In his radio ads during the contentious 2005 Virginia gubernatorial campaign, Kaine touted his support for restrictions on late-term abortion, while his issues page mentioned Virginias history of fiscal conservatism.], 4ucalz, 1469375675.0, 8
+273, [Sorry Clinton supporters but Jill Stein is not an anti-vaccine presidential candidate], 4u40sc, 1469238546.0, 69
+274, ["She is willing to build bridges between people rather than burn them. She understands the fragility of the global community and has the background to try to build coalitions to fight terrorism and build the global economy," -- Mark Cuban], 4u0n2f, 1469183520.0, 7
+275, [Ralph Nader Still Won't Admit He Elected Bush], 4pfxgs, 1466703830.0, 0
+276, [Bernie Sanders Or Bust: Why Bernie Must Be Our Nominee], 44n568, 1454902370.0, 4
+277, [Why Im supporting Clinton over Sanders: Liberals dont need a savior, but someone who can actually get things done in Washington], 43o39x, 1454355459.0, 0
+278, [Defecting Democrats, Trump and bitterness: Why Jill Stein just might turn November upside down], 4pmw9z, 1466804168.0, 14
+279, [Exit Polls, and Why the Primary Was Not Stolen From Bernie Sanders: Its true that he did better in exit polls than in actual elections. But the problem was the flaws in those polls, not a conspiracy.], 4q2wv9, 1467056615.0, 12
+280, [A Berniecrat's Argument Against Jill Stein and For Hillary Clinton], 59lx58, 1477567661.0, 0
+281, [The Bernie Sanders Left Has Problems With Tim Kaine? Oh, Grow Up, People! -- Yes, the Virginia senator is moderate on some things. But why does taking on the banks gain one more progressive cred than fighting racial discrimination? Hmmm], 4vu0ws, 1470191811.0, 0
+282, [How Putin Weaponized Wikileaks to Influence the Election of an American President], 4ueyc1, 1469421875.0, 0
+283, [Bernie Sanders Endorses Hillary Clinton], 4si6mt, 1468372833.0, 4
+284, [Bernie Sanders definition of progressive is a very selective one.], 44u90w, 1455010967.0, 4
+285, [Misfire by Sanders campaign: Bernies wrong to try to own the word progressive in criticism of Hillary], 446n0h, 1454640044.0, 0
+286, [You might be surprised to learn that Hillary is a flaming liberal...], 43xisy, 1454492342.0, 2
+287, [The Media Are Bored, but Below the Radar, Clinton Is Connecting], 3z9lyo, 1451852213.0, 2
+288, [Sanders returning to campaign trail for Clinton], 4yzevw, 1471879849.0, 3
+289, [Hillary Clinton's evisceration of Donald Trump], 4maupt, 1464950839.0, 5
+290, [Clintons Long Shadow: Hillary Clinton may never be called to account for her role in Haitis ongoing political crisis.], 4lap4u, 1464384146.0, 3
+291, [Why Video Evidence Wasnt Enough to Get Justice for Tamir Rice: The video didnt matter to the prosecutor because killing black people is not a crime.], 3z683a, 1451789825.0, 2
+292, [Richard Dawkins Slams 'Regressive Left' for Turning 'Treacherous Blind Eye' to Misogyny, Homophobia Promoted by Islam], 3wsocr, 1450136602.0, 19
+293, [The unexpected side effect of Hillary 2016: How she transformed Democrats into new Republicans], 4o1k04, 1465942104.0, 21
+294, [It's beyond debate that Donald Trump is unfit to be president], 54kh40, 1474923987.0, 252
+295, [Charles Blow Blames Rigged Election Talk On Sanders: Clinton Is Beating Men  Deal With It], 5980it, 1477382660.0, 0
+296, [Taking Care of Business on Debate Night -- Last nights most amazing feat: Hillary Clinton turned Donald Trumps career into a handicap on the biggest night of the campaign.], 54qn9y, 1475012985.0, 0
+297, [Who Hates Trade Treaties? Surprisingly, Not Voters: Support for trade agreements in general, and the pending Pacific pact in particular, stands in notable contrast to the toxicity of trade this election season.], 53tcu6, 1474496362.0, 0
+298, [If You Thought Obama Was Giving Less Military Gear to Local Police Departments, You Were Wrong], 532i9h, 1474069293.0, 2
+299, [Pence finally releases fact today that Trump pays no taxes: "Other than a whole bunch of zeros, he (Trump) and I have a great deal in common [on our tax returns]."], 51zsjm, 1473485292.0, 0
+300, [Unfinished Business: The Essential Hillary Clinton: CNN Documentary (9/5/2016)], 51ftxp, 1473205450.0, 1
+301, [Gulf Residents Arrested Telling Obama: More Drilling Equals More Floods], 4zauzr, 1472043097.0, 2
+302, [The secret to Trump: Hes really a Russian oligarch (well, not really, but he acts like one)], 4yyzmv, 1471870900.0, 0
+303, [Who among the superdelegates will take up and wield the long forgotten initiative to instruct legislators? If they can't give us Sanders, demand at least referenda on the constitutional amendments we need to survive as a free people.], 4tmrd9, 1468982735.0, 1
+304, [Our Democratic Socialism], 4taryb, 1468807833.0, 1
+305, [What Bernie Sanders Meant], 4siguz, 1468375936.0, 2
+306, [St. Stein Speaks! -- As Americas most uncompromising leftist, I believe we need more selective criminal prosecutions of people based on specious national security grounds.], 4rsh6k, 1467974756.0, 0
+307, [Elizabeth Warren Is Hillary Clintons Most Rational Choice for VP: The case for Warren is stronger than Tim Kaine boosters allow. Stronger than anybody else's, in fact.], 4qldmu, 1467318347.0, 2
+308, [Has Elizabeth Warren been replaced as the face of American Progressive politics by Bernie Sanders?], 4ppro8, 1466838373.0, 0
+309, [Thinking About Hillary  A Plea for Reason], 4o1of0, 1465943757.0, 0
+310, [Evolution Or Expediency? Clinton's Changing Positions Over A Long Career], 4ko7do, 1464042702.0, 0
+311, [Ralph Naders run for Harvard board backed by Bernie donor who supported quasi-white nationalists], 4kboac, 1463825851.0, 0
+312, [Reid openly wants progressive Alan Greyson to lose his primary.], 4jv449, 1463577149.0, 0
+313, [Bernie Sanders says climate change is real], 4jowns, 1463483408.0, 1
+314, [Hillary Clinton vs. Bernie Sanders - Big Oil & Big Money], 4hkavz, 1462258525.0, 1
+315, [Heat From Democrats on Bernie Grows Louder: Drop Out and Get #WithHer], 4gy4ly, 1461938345.0, 0
+316, [The Obamacare Replacement Mirage], 4eaotz, 1460410180.0, 0
+317, [A video game like animation with Bernie Sanders as hero and Reddit as his trusty sidekick bringing some levity and fun to the campaign. Thank you Wautil], 4c7sn9, 1459150913.0, 0
+318, [It's Over Gandalf. We Need to Unite Behind Saruman to Save Middle Earth from Sauron!], 4azqxy, 1458356963.0, 0
+319, [Hillary Clinton Thunders to Big Win in South Carolina], 47z58a, 1456646804.0, 0
+320, [Why the Democratic establishment fears Bernie Sanders], 475fhy, 1456238535.0, 0
+321, [The Single Most Important Difference Between Bernie and Hillary], 44gdxg, 1454797658.0, 0
+322, [The Argument For Bernie Sanders], 43pqrg, 1454379244.0, 1
+323, [Bernie Sanders calls out the media, Donald Trump, and Clinton's SuperPAC], 437mxs, 1454077480.0, 0
+324, [Hillary Clinton Scores Endorsement from Biggest LGBT Rights Group], 41oj1p, 1453237147.0, 0
+325, [Nearly 70 are arrested in America over ISIS plots and they include refugees], 3tczbd, 1447917958.0, 0
+326, [When discussing racism, especially online, it's important to remember: you don't know more about racism than people who experience it], 3rcfb5, 1446582378.0, 0
+327, [Pirate Party like Democratic candidate for US presidency being cheated out of debate spot by Democrat Party insiders.], 3r9738, 1446524293.0, 0
+328, [Media Scrambles To Discourage Sanders Supporters From Voting Jill Stein], 4xiwk9, 1471120619.0, 20
+329, [Gary Johnson Just Has One Simple Question: And What Is Aleppo?], 51rwaf, 1473377787.0, 9
+330, [President Barack Obama endorses Hillary Clinton for president], 4nc0c7, 1465523652.0, 11
+331, [If you live in a swing state, please just vote for Hillary], 4vtcc6, 1470184299.0, 34
+332, [Hillary Clinton's pledge to avoid middle-class tax hikes is bad news for progressive politics], 3tym83, 1448327139.0, 9
+333, [11 reasons why Bernie Sanders lost this thing fair and square By kos], 4kpwhm, 1464062718.0, 5
+334, [Reports: Sanders Will Nominate Clinton Ahead Of DNC Roll Call], 4upezy, 1469578333.0, 16
+335, [Ralph Nader: I was not a spoiler in 2000. Jill Stein doesnt deserve that insulting label, either.], 511ep7, 1472974303.0, 11
+336, [Ohio city posts shocking photos to highlight heroin problem], 520k9u, 1473495332.0, 1
+337, [The Paranoid Left Mistakes Hillary Clinton for a Neoconservative], 51vn9s, 1473424557.0, 1
+338, [Russian Greens blast Jill Stein's silence on Putin's human rights abuses], 51umtl, 1473410302.0, 0
+339, [Jill Stein calls for green New Deal to address climate change], 50l129, 1472726173.0, 0
+340, [WikiLeaks Doesn't Care It's Naming Teenage Rape Victims And Outing People], 4zfnoc, 1472112189.0, 0
+341, [WikiLeaks posted medical files of rape victims and children, investigation finds: The radical transparency organization has published sensitive personal data belonging to hundreds of ordinary citizens, an investigation has revealed], 4zaqme, 1472041043.0, 3
+342, [Bernie Sanders: No need to reveal personal finances], 4z4hy7, 1471951621.0, 0
+343, [CNN Green Party Town Hall focuses on whether Barack Obama is an Uncle Tom], 4z3cxt, 1471936018.0, 2
+344, [With A Comfortable Lead, Clinton Begins Laying Plans For Her White House Agenda], 4yv6y4, 1471819757.0, 3
+345, [Donald Trump's campaign is basically a RSS feed of Russian disinformation and white supremacist sites], 4yfzra, 1471597604.0, 0
+346, [The Racial Wealth Gap Will Persist Until Neoliberalism and Its Peddlers Are Defeated], 4y6vaz, 1471483193.0, 0
+347, [What's next for the Bernie Sanders movement (especially for Californian students)?], 4wtp50, 1470736086.0, 1
+348, [Green party's Jill Stein invites Bernie Sanders to take over ticket: Stein, expected to become the partys nominee at its August convention, says she has invited Sanders to collaborate: Everything is on the table], 4s127r, 1468111276.0, 0
+349, [Report: Clinton Planning To Fill Half Of Cabinet Positions With Women], 4r7voi, 1467677335.0, 1
+350, [What to Do About Guns? John Lewis Revives Civil Rights Tactic: The Georgia representative and other House Democrats borrowed from an old playbook when they staged a sit-in to try to force a vote on gun legislation.], 4pwarj, 1466946351.0, 0
+351, [The struggle of being transgender in an eating disorder clinic], 4pnd2e, 1466809886.0, 2
+352, [Hillary Clintons Feminist Mission: Defeat Americas Biggest Sexist], 4pbuca, 1466644884.0, 0
+353, [Clinton Just Effectively FIRED Debbie Wasserman-Schultz], 4ol565, 1466223156.0, 1
+354, [Every Bernie supporter needs to hear this], 4nz4w6, 1465898347.0, 0
+355, [Leftists for Trump: What Is to Be Done About These Insufferable Nihilists? -- Politics is not about your personal catharsis.], 4ndxul, 1465549274.0, 3
+356, [Green Party's Jill Stein to Sanders fans: 'There's a plan B here'], 4nd8ry, 1465539261.0, 0
+357, [How Bernie Sanders Exposed the Democrats Racial Rift], 4nd0uf, 1465536309.0, 0
+358, [The pragmatic progressive: what sets Obama apart from Bernie Sanders], 4lrwh5, 1464674927.0, 0
+359, [Sanders Needs to Talk Down His Supporters], 4k04dz, 1463650439.0, 1
+360, [Why Are Bernie Sanders Supporters Voting For Jill Stein? She is An Anti-Establishment Choice], 4jsgrj, 1463539593.0, 0
+361, [Checkoff secrecy not justified], 4jll97, 1463440158.0, 0
+362, [Why Sanders is a better bet against Trump], 4j294v, 1463108305.0, 2
+363, [Clinton Camp says She's Been Forced to the Left Enough Already], 4h1r6c, 1461996055.0, 0
+364, [Sanders campaign begins laying off staff], 4gqrr3, 1461821902.0, 1
+365, [Campaign Mystery: Why Don't Bernie Sanders' Big Rallies Lead To Big Wins? Because the $ame people attend multiple rallies.], 4gl8tx, 1461736788.0, 3
+366, [Bernie Sanders Could Win The Election OUTSIDE The Democratic Party [Truth&Comedy]], 4gaqz9, 1461571143.0, 1
+367, [Bill Clinton Insults Blacks in Order to Build Hillarys Big Tent Party], 4esw31, 1460691439.0, 0
+368, [The Bernie Sanders voters who would choose Trump over Clinton], 4aesbb, 1458014237.0, 2
+369, [Is this Sanders choice for VP? Check out her record on wikipedia and YouTube. She deserves to lead the Sanders youth to a new Democratic Party they can embrace.], 484zm1, 1456717585.0, 1
+370, [Hillary Clintons progressive problem: The real policy differences between her and Bernie Sanders can actually be quantified], 44x136, 1455058922.0, 1
+371, [Bill Clinton erupts, and its 2008 all over again], 44rd6q, 1454974036.0, 1
+372, [Trump has all the angry old men. Clinton has all the angry old women. Sanders has all the young people. Who is embracing the future?], 44phj3, 1454937363.0, 0
+373, [Why Liberals Should Support a Trump Republican Nomination], 44b66f, 1454713314.0, 2
+374, [Watch Bernie Sanders Sing With Vampire Weekend at Iowa Rally: Rolling Stone.], 43ln3r, 1454312630.0, 1
+375, [How Relevant Is The Human Rights Campaign?], 41v8x2, 1453338282.0, 0
+376, [Hillary Clinton's Coming Legal Crisis. To understand the gravity of these issues, it is important to recognize that this is not just an email scandal. It is an email + server + foundation scandal.], 41huo4, 1453129621.0, 2
+377, [Bernie's ISIS strategy is a disaster], 41cc45, 1453039340.0, 0
+378, [Rand Paul: Hillary Clinton's Support For Rape Victims Makes Husband's Sex Life Fair Game], 3zkx21, 1452040703.0, 2
+379, [Hundreds of Armed Right-Wing Militia Members Take Over Federal Building], 3zfd9d, 1451952667.0, 0
+380, [Century of Enslavement: The History of The Federal Reserve], 3yb0ea, 1451181243.0, 1
+381, [Debbie Wasserman Schultz must go, and the case Bernie Sanders must make tonight], 3xicgd, 1450590440.0, 1
+382, [Rand Paul: Hillary Clinton and Marco Rubio Have Same Foreign Policy], 3vbgmb, 1449200277.0, 0
+383, [Nobody Understands Poor Sam Harris], 3udjp7, 1448592044.0, 0
+384, [I could never imagine Bernie Sanders discussing this subject matter so thoroughly.], 3tg9vm, 1447980586.0, 0
+385, [8 Syrians Caught at Texas Border in Laredo], 3tf1i5, 1447957853.0, 1
+386, [Clinton Foundation Failed to Report $20M in Donations from Governments], 3tb6x0, 1447893067.0, 1
+387, [My beef with Hillary is mainly that she is an enemy of the poor | Matt Bruenig], 3s3x6j, 1447083115.0, 1
+388, [Susan Sarandon joins Louis C.K. in being just fine with a possible GOP win that would put the less-privileged in jeopardy.], 4cgvll, 1459306170.0, 10
+389, [George Takei urges fellow Sanders supporters: Abandon family squabble and back Clinton], 4gs8fy, 1461843393.0, 4
+390, [On coldest night of 2016, Birmingham's homeless warming station used for Sanders rally], 41n0lh, 1453207932.0, 5
+391, [Hillary Clintons latest attack on Bernie Sanders shows shes a rotten candidate], 415m68, 1452927798.0, 5
+392, [Harvard legal expert delves into problems the U.S. has with cynicism and elections, SLAMS apathetic youth/non-voters], 5420j1, 1474617628.0, 3
+393, [Whats Really Ailing Hillary: A long time ago, Clinton was far more transparent, emotional and open than she is today. Then the media began slamming herand didnt stop.], 536exs, 1474128767.0, 4
+394, [The Case Against Jill Stein - Rolling Stone], 50qrwc, 1472808716.0, 2
+395, [Progressives: Dems Want Your Votes While Working Against Your Candidates], 4z29o5, 1471922563.0, 0
+396, [Did Longtime Ally Just Blow Major Hole in Clinton's TPP Credibility? "Virginia Governor Terry McAuliffe, a longtime friend of the Clinton family, said this week that Hillary Clinton would support the controversial Trans Pacific Partnership if elected president, despite claiming to oppose it..."], 4v0unp, 1469743412.0, 0
+397, [Bernie Sanders Easily Wins the Policy Debate], 4l9k4g, 1464359910.0, 2
+398, [Will Bernie Sanders Hurt His Own Cause? -- Petty political fights distract from the Vermont senators goal of a long-lasting movement.], 4ktleo, 1464122824.0, 4
+399, [Heres the fatal flaw in Bernie Sanders supporters claim that the establishment screwed him], 4ko4nh, 1464041715.0, 3
+400, [Here's why I never warmed up to Bernie Sanders], 4h4te1, 1462058273.0, 0
+401, [Why Bernie Sanders Can't Govern], 44cbtb, 1454728233.0, 0
+402, [Cut Clinton some slack], 43zf5h, 1454527777.0, 1
+403, [J.J. Abrams: Why Im Supporting Hillary Clinton for President], 43pleb, 1454377548.0, 0
+404, [Why Bernie Sanders Doesnt Want Your Vote], 40aweo, 1452452306.0, 2
+405, [Critics cry foul over Coingate: Hillary Clinton had 1.6% chance of winning 6 coin tosses that made her winner in Iowa], 43vol7, 1454468342.0, 28
+406, [This Election is Too Important Not to Vote for Hillary], 59b5ub, 1477432855.0, 0
+407, [Wikileaks Releases Hillary Transcripts!], 56koxx, 1476014835.0, 0
+408, [Can Bernie Undo the Damage Hes Done to Clinton?], 53zm0r, 1474588287.0, 0
+409, [Bill Clinton: "Make America Great Again"], 52dyon, 1473710360.0, 0
+410, [Russia-Backed DNC Hackers Strike Washington Think Tanks: The same Kremlin-backed group that hacked the Pentagon, State Department, and DNC targeted DC insiders last week.], 50bgdc, 1472596903.0, 3
+411, [Why Clinton Republicans matter], 504a2j, 1472493867.0, 1
+412, [From Jill Stein, disturbing echoes of Ralph Nader], 4zmtz0, 1472214600.0, 0
+413, [Why isn't fivethirtyeight.com including Jill Stein in their election forecast and polling numbers? They have only Clinton, Trump, and Johnson. RealClearPolitics.com includes Stein. Stein's eventual share of the vote could be important in states in which Clinton and Trump are close in the polls.], 4wz5xt, 1470813680.0, 1
+414, [The real Hillary Clinton: warm, honest, caring.], 4swcdh, 1468568547.0, 0
+415, [Vladimir Putin Has a Plan for Destroying the Westand It Looks a Lot Like Donald Trump], 4re526, 1467772370.0, 2
+416, [I Triggered A State Department Leak More Serious Than Hillary Clintons: You Might Be Surprised At How Light The Punishment Was.], 4qmbzo, 1467330134.0, 1
+417, [Rep. Tulsi Gabbard Dodges Debating Opponent: The Congresswoman Who Resigned From A Top Democratic Party Post After Protesting A Lack Of Debates Between Bernie Sanders And Hillary Clinton, Is Now Refusing To Debate Her Own Democratic Opponent.], 4qa1rf, 1467157159.0, 2
+418, [Hillary Clinton and Elizabeth Warren Meet to Forge Unity: The sit-down comes as Mrs. Clinton is quickly consolidating the support of Democrats, particularly on the left, since becoming the presumptive nominee this week.], 4nghca, 1465596944.0, 1
+419, [Bernie Sanderss aides just threw him under the bus to Politico], 4n3bfr, 1465389355.0, 0
+420, [Voters outraged as media accused of falsely, preemptively crowning Clinton], 4mxmz6, 1465308373.0, 1
+421, [Before Bernie: How Ralph Nader Created a System to Exploit Young, Idealistic Progressives], 4ldilf, 1464422446.0, 0
+422, [OK, Enough, Just Pick Warren], 4laglo, 1464380244.0, 3
+423, [WaPo poll finds 90% of Native Americans NOT offended by Washington Redskins name.], 4k3ujs, 1463710415.0, 1
+424, [Bernie's Bad End: "What were getting instead is an epic descent into whining."], 4his6f, 1462239487.0, 0
+425, [The end is near: Clinton and Sanders camps quietly signal resolution], 4gu7i1, 1461882360.0, 2
+426, [An Elaborate Hillary Clinton Facebook Conspiracy With Coordinated Attacks and Porn? No, Just a Glitch], 4glffn, 1461739224.0, 4
+427, [The Baltimore Sun endorses Clinton for president], 4ge56i, 1461631077.0, 1
+428, [When Bernie Sanders, Conventional Politician, Called for Still More Mass Incarceration], 4efoex, 1460489874.0, 1
+429, [Why do you try to restrict 2nd amendment rights?], 4dw2ur, 1460146104.0, 0
+430, [Trump fought for and got the inclusion of the first transgender contestant in Miss Universe In 2012 when she was initiatally denied], 49z16s, 1457735793.0, 3
+431, [Dolores Huerta says she was shouted down with English-only chants from a Sanders crowd], 46uosc, 1456077363.0, 0
+432, [Feminisms Generation Gap: Gloria Steinem and Madeleine Albright are the latest to expose the divide.], 44txx9, 1455006670.0, 1
+433, [Howard Dean: "Labor Unions are Super PACS that democrats like" so why isn't Bernie being asked for transcripts for his speeches to labor unions], 44dlml, 1454744893.0, 1
+434, [Bernie Sanders' Single-Payer Health Care Plan Would Increase Federal Spending By At Least $28 Trillion], 41kg6f, 1453173334.0, 0
+435, [Why This Progressive Is Really Excited About Hillary], 41dff4, 1453064919.0, 0
+436, [The Bernie Sanders and Killer Mike video list from Atlanta], 3x1743, 1450265551.0, 1
+437, [Where Has Hillary Clinton Been? Ask the Ultrarich: Mrs. Clinton raked in roughly $50 million at 22 fund-raising events, averaging around $150,000 an hour, according to a New York Times tally.], 512duw, 1472989771.0, 27
+438, [After Orlando, Its Clearer Than Ever: This Election Is a Civil War], 4o2yw5, 1465958890.0, 17
+439, [Bernie Sanders Gives Millennials 4 Big Reasons Why They Should Vote For Hillary Clinton], 54igtn, 1474884799.0, 41
+440, [Robert Reich (Why All Progressives Must Vote For Hillary)], 571y4a, 1476268720.0, 7
+441, [WIRED Endorses Optimism], 4ych9o, 1471558407.0, 8
+442, [Hillary Clinton Now Loses to Trump in Polls. Bernie Sanders Beats Trump by 10.8 Points.], 4kvo3i, 1464148162.0, 8
+443, [How to Stop Trump: The protesters shutting down Donald Trumps rallies arent attacking democracy  theyre protecting it], 4bcvnc, 1458605226.0, 24
+444, [Was a Trump Server Communicating With Russia? This spring, a group of computer scientists set out to determine whether hackers were interfering with the Trump campaign. They found something they werent expecting.], 5afg4w, 1477981410.0, 298
+445, [10 reasons why #DemExit is serious: Getting rid of Debbie Wasserman Schultz is not enough], 4vn0sl, 1470093851.0, 14
+446, [Robert Reich: Why all progressives should vote Hillary], 57nxed, 1476591987.0, 9
+447, [The Atlantic Magazine: Why Can't Hillary Clinton Stop Lying? The Democratic presidential nominee came off a successful convention week in Philadelphia and landed right back in hot water with another fabrication.], 4voqkv, 1470113670.0, 35
+448, [Bernie Sanders: It is imperative we elect Hillary Clinton], 54yx96, 1475128925.0, 6
+449, [Hillary Clinton is far from the only American going to work sick], 52ic12, 1473764079.0, 4
+450, [The Sad Decline of VOX: How a Once-Promising Media Outlet Became a Bastion of Neoliberal Corporatism], 50egqa, 1472633067.0, 4
+451, [Tired of the 2 party BS political system? Want a Real Progressive party that believes honesty and integrity should be core values?], 4wh0wy, 1470536184.0, 3
+452, [Green Party hopeful Jill Stein: Hillary Clinton should be prosecuted], 4rxha6, 1468047512.0, 0
+453, [Ben Stein: 'I don't think Trump knows a goddamn thing about economics' -- The Republican economist talks about the 2016 election and why hell still vote for Donald Trump despite this preposterous ideas about the economy], 4mmnji, 1465146796.0, 4
+454, [Stupid Billy Corgan is stupid], 4j9d96, 1463216813.0, 4
+455, [Face It: A Vote for Hillary Clinton Is a Vote for War], 41cizq, 1453043314.0, 5
+456, [KING: White men killed most cops in 2016, conservatives silent | "Instead, 71% of police who've been shot and killed so far in 2016 have been killed by good old-fashioned white men."], 4rp3m9, 1467933633.0, 315
+457, [Dear fellow liberals/progressives, we've lost a battle unfortunately but the war still rages on and many more battles are coming. Lets keep up the same activism we've had for Sanders for a progressive future in America.], 4n3air, 1465388946.0, 8
+458, [Julian Assange Explains Why Voting for Hillary Clinton Will 'Spread Terrorism'], 4ayjnm, 1458340420.0, 7
+459, [Hillary Clintons Not Sick -- Our Sexist Media Is | "Hillary Clinton has pneumonia! Omigod!!! A 68-year-old woman whos been racing around the country for months shaking a million hands has contracted a minor illness! She must be unfit to serve as president! She must be hiding something!"], 52kvyy, 1473807424.0, 0
+460, [Newly released Clinton emails shed light on relationship between State Dept. and Clinton Foundation], 4x4j3k, 1470893398.0, 5
+461, [Green Party Sees Opportunity Amid Wide Voter Discontent], 4wt4wz, 1470727192.0, 4
+462, [The Black Lives Matter Network advocates for dignity, justice, and respect | Black Lives Matter], 4s67el, 1468197831.0, 3
+463, [I Used an Assault Rifle in the Army. I Dont Think Civilians Should Own Them. -- These weapons were intended for the battlefield.], 4oscqx, 1466349133.0, 2
+464, [AP declares Clinton winner of Democratic primary], 4mwavj, 1465288649.0, 2
+465, [I Don't Like Hillary Clinton Or The Democratic Party. I'm Voting For Them Anyway.], 56n2uv, 1476061310.0, 11
+466, [Why Is the Progressive Left Helping the Elite Elect Hillary?], 4fxd7p, 1461337480.0, 14
+467, [Colin Powells foundation and Hillary Clintons are treated very differently by the media], 50b6t7, 1472593560.0, 25
+468, [Sanders puts Clinton over the top; In dramatic show of party unity, the Vermont senator asks that Clinton be formally selected as the Democratic nominee.], 4urkth, 1469603760.0, 25
+469, [Barney Frank Is Not Impressed by Bernie Sanders: Bernie Sanders has been in Congress for 25 years with little to show for it.], 4co2fv, 1459419638.0, 9
+470, [An All-Caps Explosion of Feelings Regarding the Liberal Backlash Against Hillary Clinton], 43wtdp, 1454482634.0, 7
+471, [Greener Pastures: A top environmental activist isnt so sure about the Green Party presidential candidates green cred. Jane Kleeb was one of the most prominent leaders in the fight against the Keystone XL pipeline, and now shes turned her attention to defeating the Dakota Access pipeline.], 528ig7, 1473629581.0, 0
+472, [The Bitch America Needs], 524len, 1473563172.0, 0
+473, [10 Questions I Would Like Green Party Supporters and Jill Stein to Answer], 5247cu, 1473558301.0, 5
+474, [Russian environmentalists label U.S. Greens leader, Putin 'accomplice'], 51pls0, 1473338167.0, 3
+475, [Politico offers up the media-generated fake Clinton scandal of the day], 50rpx7, 1472823268.0, 3
+476, [[CommonDreams.org:] Survey of Our Readers: 41.7% for Hillary Clinton, 33.4% for Jill Stein, 13.4% Would Write-In Bernie [/r/jillstein x-post]], 4wz64m, 1470813758.0, 4
+477, [The Real Reason They Attack Jill Stein], 4wxmlp, 1470795339.0, 0
+478, [Clintons Post-Convention Bump Is Showing No Signs Of Fading], 4wsgwn, 1470718824.0, 4
+479, [Hillary Clinton is now the only candidate not pandering to the anti-vaccine movement], 4vsmw5, 1470176185.0, 3
+480, [Trump: My Position On Keeping Terrorists Out Is What Bothered Khizr Khan], 4vpra2, 1470126745.0, 2
+481, [Hillary Clinton DNC biography video narrated by Morgan Freeman], 4vcbxp, 1469918751.0, 0
+482, [Sanders Team Wanted DNC To Pay For Private Plane For Fall], 4ums3n, 1469535065.0, 2
+483, [Green Party's Jill Stein: What We Fear from Donald Trump, We Have Already Seen from Hillary Clinton], 4nwcwx, 1465863284.0, 0
+484, [Bernie or bust? The lessons of 1968], 4kva75, 1464143677.0, 1
+485, [Progressive scion Barney Frank finally speaks up about Bernie Sanders.], 4cnmo2, 1459412639.0, 4
+486, [Glenn Greenwald: Hillary Clinton Has Embraced Some of the Most Brutal Dictators in the World], 4btouq, 1458884170.0, 3
+487, [How the gay community shamefully lets Clintons off the hook], 4aegdu, 1458010073.0, 3
+488, [Are We Too Tough On Hillary Clinton?], 485top, 1456723971.0, 0
+489, [Hillary Clinton crushes Bernie Sanders in South Carolina: 5 takeaways], 47zye2, 1456659077.0, 2
+490, [Hillary Clinton's Lead Over Sanders Nearly Vanishes], 40l12e, 1452604065.0, 2
+491, [Bragging that she and Israel were born within months, Clinton praises its 'prowess in war'], 3w0kcy, 1449654943.0, 3
+492, [Al Gore: If You Care About The Climate Crisis, Dont Vote For A Third Party  ThinkProgress], 4z1da2, 1471912283.0, 16
+493, [Indian Oil Companies Will Develop 2.7 GW Of Solar Capacity [ Indian Oil Plans to STAY IN BUSINESS over the next 10 years. ]], 59cj3x, 1477447446.0, 0
+494, [Why Populists Lose Elections], 58wn6g, 1477219221.0, 0
+495, [Bernie Sanders and the Democratic Biopsy], 57zo7s, 1476765311.0, 0
+496, [Clinton and Sanders Focus on the Wrong Percent - Cass Sunstein], 572s06, 1476282522.0, 0
+497, [Wikileaks Throws Weight Behind Trump], 560gd3, 1475714995.0, 0
+498, [Stop the hate], 543cmx, 1474639023.0, 0
+499, [White House under pressure to call out Moscow over hacking actions], 52j5ft, 1473778236.0, 0
+500, [Don't buy the new iPhone until Apple pays its taxes (and because there's no earphone jack)], 51myk0, 1473304299.0, 0
+501, [Three Cheers for Kaepernick: Is Sitting During the National Anthem an Acceptable Form of Protest?], 50lzz5, 1472742906.0, 0
+502, [Study Questions How 'Tolerant' People Really Feel About Interracial Couples], 4ysdgy, 1471771277.0, 0
+503, [Open Letter to Sanders' Supporters], 4y2sxy, 1471422568.0, 0
+504, [Wasserman Schultz poised to beat Sanders-backed challenger: An awful summer for the former Democratic Party chief doesn't look like it will extend to losing her job in Congress.], 4xc3w9, 1471010112.0, 0
+505, [Protesters Say They Will Occupy City Hall Park Until the NYPD Is No More], 4vtm7z, 1470187325.0, 0
+506, [A Fracking Pipeline Puts Tim Kaines Fossil Fuel Industry Ties to the Test. Oil industry lobbyist: Hes the best we could have hoped for."], 4vnkn0, 1470100287.0, 0
+507, [People running for office that are part of the Political Revolution.], 4v3j49, 1469775961.0, 0
+508, [The Latest: Thunderstorms give way to heat for DNC protests], 4ukuht, 1469508596.0, 0
+509, [The Republican Convention, Translated for Liberals], 4twqci, 1469133136.0, 0
+510, [The Corporate Liberal in America], 4ttua7, 1469083527.0, 0
+511, [Hillary Clinton: Immigration needs reform, not Trump's bigotry], 4sfp98, 1468335211.0, 0
+512, [Bernie Sanders and Hillary Clinton Campaigns in Talks for Possible Endorsement Next Week], 4rmxp6, 1467897826.0, 0
+513, [What will happen if Hillary is indicted?], 4qz4ga, 1467523742.0, 0
+514, [Putting Labor in the Lab: How Workers Are Rebooting Their Future], 4qms8f, 1467335234.0, 0
+515, [Bernie Sanders: Donald Trump could benefit from the same forces that gave the Brexit proponents a majority in Britain should sound an alarm for the Democratic Party in the United States], 4qi0np, 1467264189.0, 0
+516, [Ironically, the same reasons why Robert Reich gives for the GOP to "Dump Trump are the reasons why Drumpf won the GOP primary], 4pcr3q, 1466655004.0, 0
+517, [Why Bernie Sanders Enrages Democratic Leaders, In One Sentence], 4oke36, 1466213931.0, 0
+518, [When Should You Start Worrying About the Polls? -- At this point before an election, a simple polling average has differed from the final result by about nine percentage points.], 4l3erg, 1464261473.0, 0
+519, [When it comes to cultural change in America, conservatives are pro-evolution while progressives advocate for intelligent design.], 4hpomq, 1462333566.0, 0
+520, [New York City Mayor De Blasio Investigated for Money Laundering], 4h0xo6, 1461985034.0, 0
+521, [After the Panama Papers: How Should Authorities React? -- Pushing for greater transparency is an important first step.], 4dkd2e, 1459947851.0, 0
+522, [Why should a Muslim love America? | "Trying to find a way and a reason to do so must sometimes feel foolish and naive. Why serve a country that often hates you? Why support a country that sometimes fails you? Why tell your children to believe in a country like that?"], 4dgm8k, 1459894826.0, 0
+523, [What Black Americans Lost by Siding with Democrats], 4cwffo, 1459556088.0, 0
+524, [Which Candidate Do The People Trust Most With The Military?], 4b66g3, 1458473465.0, 0
+525, [Politics and the Golden Rule], 49ydmd, 1457724185.0, 0
+526, [NRA tweets support for Bernie Sanders], 49dieu, 1457398387.0, 12
+527, [Liberals Should Vote for Marco Rubio to Stop Trump - The Atlantic], 48e8vh, 1456831310.0, 0
+528, [Why Erica Garner supports Sanders], 465x94, 1455703458.0, 0
+529, [Schumer in '07: 'We Should Not Confirm Any Bush Nominee to the Supreme Court'], 462z83, 1455666184.0, 0
+530, [As Candidates Vie For the 'Anti-Establishment' Label, Real Establishment Lives On], 45zusm, 1455612680.0, 0
+531, [Hard Choices I used to hate Hillary. Now Im voting for her], 45739k, 1455194201.0, 0
+532, [No Reporters Allowed at Clinton Big Bank Speeches.], 43aha4, 1454125498.0, 0
+533, [FBI Expands Hillary Clinton Corruption Investigation], 41nz5o, 1453227144.0, 0
+534, [2016 State of the Union Address Response], 40qb82, 1452687427.0, 0
+535, [On Wall Street Reform, Bernie Sanders Is the Democrat and Hillary Clinton is the Republican], 3zs1xa, 1452145857.0, 0
+536, [Washington Doesnt Listen? Nah. Maybe Politicians Listen Too Much.], 3xf2ma, 1450519071.0, 0
+537, [When Performance Is Your Politics: On the Planned Parenthood shootings and the left's response], 3us419, 1448871049.0, 0
+538, [The Statue of Liberty Was Born a Muslim], 3tc8w4, 1447907503.0, 0
+539, [#MillionStudentMarch will hurt the poeple it claims to serve! huh?], 3sv2t1, 1447590604.0, 0
+540, [In Nationwide Student Revolt over Campus Racism, NY's Ithaca College is Latest School to Erupt], 3sqw6m, 1447504336.0, 0
+541, [Anyone else find it a little hypocritical that Mizzou football WILL STILL PLAY BYU, the de facto face of the LDS Church who this week excommunicated gay couples and THEIR KIDS, after protesting injustice on their campus?], 3scxao, 1447238128.0, 0
+542, [Outrage from Within and Without over Netanyahu Speech at Think Tank with Clinton Ties], 3sb86n, 1447212982.0, 0
+543, [Sanders To Campaign With Clinton Tuesday], 4sb5kl, 1468275912.0, 14
+544, [Millennials: Someone You Love May Be Alive Because of Hillary Clinton], 56e0fl, 1475907540.0, 4
+545, [Gary Johnson Talks Climate Change: We Do Have to Inhabit Other Planets], 54fbby, 1474842556.0, 0
+546, [Bill Blum: Black Lives Dont Matter to Donald Trump or Hillary Clinton], 52lder, 1473812805.0, 2
+547, [The gender wage gap hasnt budged in 9 years], 52kql7, 1473805718.0, 1
+548, [Election Update: Clinton's Lead Keeps Shrinking], 51gult, 1473217931.0, 3
+549, [Clinton names Warren ally to transition team], 50d9cy, 1472617850.0, 2
+550, [My response to Hillary's "grassroots fund raising effort"], 4y6vzf, 1471483401.0, 3
+551, [It appears that the Center of Public Integrity is all aboard the Jill Stein express], 4wjqzx, 1470579320.0, 0
+552, [Clinton's third-party headache], 4wir59, 1470561164.0, 0
+553, [How political idealism leads us astray], 4waqwo, 1470437334.0, 3
+554, [New website allows white people to offer reparations directly to people of color], 4vwzdu, 1470231507.0, 0
+555, [The Obama Administration Has Brokered More Weapons Sales Than Any Other Administration Since World War II], 4uyoyi, 1469705668.0, 2
+556, [Anyone else particularly proud now that Hillary's got the nomination?], 4uri8t, 1469602868.0, 0
+557, [How Debbie Wasserman Schultzs DNC Tried To Weaponize Bernie Sanderss Jewishness], 4uh1nd, 1469454055.0, 2
+558, ['Enough is Enough' Vote for Jill Stein], 4qppri, 1467373014.0, 0
+559, [On Women Who Oppose Hillary Clinton: A Conversation With Liza Featherstone], 4qe9fk, 1467213098.0, 3
+560, [The Quick Startup Guide to Hillary Clinton], 4h0tfy, 1461983601.0, 1
+561, [Hillary Clinton is the best prepared, most knowledgeable candidate on economic policy: The 8 A.M. Call], 4gh81i, 1461673268.0, 0
+562, [Why women should vote for women], 4ejwqs, 1460549014.0, 1
+563, [Vote blue no matter who | "They decided that Al Gore wasnt pure enough for them, so they voted for Ralph Nader. They decided that they wanted to send a message to the Democratic Party, that they wanted to vote their conscience, and they elected George W. Bush president of the United States."], 4crbem, 1459477316.0, 1
+564, [Clintons Bold Vision, Hidden in Plain Sight? "Mrs. Clinton does have an ambitious vision, and its one that should be inspiring. The fact that it remains mostly hidden from view reveals more about our current political environment than it does about her"], 4au3p1, 1458263690.0, 1
+565, [The Self-Fulfilling Prophecy of Disliking Hillary Clinton], 4atlud, 1458257536.0, 4
+566, [No, Bernie Sanders, that is NOT the real Selma in that photo], 49ewo8, 1457414989.0, 0
+567, [Hillary Clinton's Winning Numbers in South Carolina Suggest Sweep in South], 47zb5s, 1456649174.0, 1
+568, [In Speech on Ending Racism, Hillary Clinton Offers $125 Billion Plan to Help Poor Minorities], 46540r, 1455692042.0, 2
+569, [Evidence Indicates that Bernie Sanders is the Democrats Best Shot at the White House], 45il8o, 1455364390.0, 2
+570, [Sanders Wins Big in New Hampshire! Now Hes Only 352 Delegates Behind Clinton!], 454gsg, 1455161204.0, 0
+571, [Hillary Clinton's Problem Isn't That She's Not Progressive, It's That She's Cautious], 449mnt, 1454682342.0, 3
+572, [Sanders on his arrest during 60's civil rights action], 44723t, 1454645232.0, 1
+573, [Hillary Clinton goes with populist fire in closing argument in Iowa], 43ligy, 1454310889.0, 0
+574, [From Hillary Clinton, a Single Message Told Across the Decades], 43hpjv, 1454243271.0, 3
+575, [Hillary Clinton Has a Killer Mike Problem], 42dedk, 1453621100.0, 1
+576, [Heres One Big Problem With The Bernie Sanders Plan For Health Care Utopia], 420v0u, 1453424221.0, 0
+577, [Hillary Clinton: Stop distorting Sander's Record and atone for your mistakes.], 41n1ul, 1453208471.0, 0
+578, [Top Google search: 'Will Hillary Clinton get prosecuted?'], 41k4l7, 1453169353.0, 0
+579, [On guns, Sanders has an authenticity problem -- Matt Bai], 3zvu7h, 1452208080.0, 0
+580, [On Medicare-for-All, Hillary Clinton Reminds Us That She's Part of the Problem], 3y0uqy, 1450944093.0, 0
+581, [What Hillary Clinton Gets (and Bernie Sanders Doesnt) About Wall Street], 3wbq58, 1449834412.0, 1
+582, [Bernie Sanders needs to get up to speed on Mid-East foreign policy.], 3vrmnh, 1449503877.0, 0
+583, [New Hillary Clinton Emails Show She Wanted Credit for Libya Intervention in 2011. Now She Doesnt.], 3t31mw, 1447745118.0, 2
+584, [That one sentence response to those who are trying to blame refugees tonight...], 3stjon, 1447562992.0, 3
+585, [Rocky Anderson - "Bernie Sanders the real deal" YouTube], 3sbm3x, 1447218224.0, 1
+586, [Eating Less Meat Could Save up to $31 Trillion (and Many Lives)], 4bhwor, 1458689865.0, 9
+587, [Bernie Sanders Flips Off Black Voters On His Way Out the Door], 4ohyng, 1466173967.0, 0
+588, [Green Party's Jill Stein on the Feminist Case Against Hillary Clinton], 4lc8m5, 1464404058.0, 6
+589, [Hillary Clinton will be elected president today], 43osim, 1454367608.0, 0
+590, [Clinton has a new weapon against Trump: Elizabeth Warren: The strategy shows a new level of coordination among Democrats in the general-election fight against Donald Trump.], 4kxmk2, 1464174122.0, 31
+591, [Michael Moore Defends Support For Hillary Clinton], 59mgjz, 1477576205.0, 1
+592, [Donny, you're out of your element: the 2016 election in 15 Big Lebowski quotes], 55y4z1, 1475676506.0, 0
+593, [The top 5 education innovations needed to keep up in a new economy], 55wzpi, 1475659078.0, 0
+594, [How the Clinton-Trump Race Got Close], 557dhu, 1475262236.0, 1
+595, [Hillary Clinton has a plan to fight poverty], 53tw0w, 1474502739.0, 1
+596, [How the U.S. Government Has Used 9/11 to Criminalize People of Color], 52f9v4, 1473727322.0, 0
+597, [MSNBC Absurdly Fact-Checks Hillary's "Basket of Deplorables" Comment About Trump's Racist Supporters], 52681c, 1473585167.0, 2
+598, [Hillary Clinton: I regret using half when talking about Trumps basket of deplorables], 525g7l, 1473574104.0, 0
+599, [Be afraid: Trump may have bought the Fourth Estate], 51yfo3, 1473469192.0, 1
+600, [A clearer view of Hillary Clinton in 3,721 pages], 50etuy, 1472637889.0, 0
+601, [So Canova and the Grayson's are getting wiped out in Florida.], 50ei7w, 1472633610.0, 0
+602, [Analysis: Clinton lucks out with Jill Stein on her left], 4yntaf, 1471705995.0, 0
+603, [Where the Green Party's Jill Stein stands on jobs, taxes and more], 4y7xoy, 1471494427.0, 0
+604, [Bill Clinton in Vegas: Hillary's email server 'a mistake'], 4xj5h6, 1471125345.0, 1
+605, [There's Plenty Of Time For Trump Or Clinton To Become Likable Enough], 4vc8xx, 1469917368.0, 0
+606, [Debate between Jill Stein and Gary Johnson], 4umbm1, 1469528286.0, 0
+607, ["Financial expert and former [United States] Assistant Secretary of Housing, Catherine Austin Fitts, says the U.S. government's actions with Hillary Clinton means it is more lawless than ever."], 4tsie7, 1469067255.0, 0
+608, [Hillary Clinton to Latinos at LULAC: 'You make our nation stronger, smarter, more creative'], 4swaob, 1468567921.0, 0
+609, [Bernie Sanders Endorses Hillary Clinton for President], 4sowi1, 1468466036.0, 2
+610, [Hillary Clinton's rise earns place of honor in birthplace of US women's suffrage | US news], 4sfj3z, 1468332085.0, 0
+611, [The post-Brexit ugliness of the left], 4s56u1, 1468180090.0, 0
+612, [All That Glitters is Feardom: Whatever Happens, Dont Blame Jill Stein], 4qo02y, 1467349526.0, 0
+613, [The Subtle Force of Tom Perez: Hillary Clinton's Possible Vice Presidential Pick], 4ppmrx, 1466836515.0, 0
+614, [Can the Sanders Campaign Build a Progressive Alternative to the US Establishment?], 4p5cg2, 1466553812.0, 0
+615, [What Can Europes Far Right Tell Us About Trumps Rise?], 4owux9, 1466423949.0, 3
+616, [The Progressive Case for Hillary Clintons Incrementalism], 4olkbk, 1466228505.0, 0
+617, [The enduring whiteness of the American media], 4kydck, 1464187124.0, 1
+618, [Trump's campaign dwarfed by Clinton's], 4kg80v, 1463904655.0, 0
+619, [Passion of Bernie Sanders and his supporters turns against Democrats], 4k6fqo, 1463744911.0, 1
+620, [Zimmerman to auction gun that killed Trayvon Martin, might use cash against Clinton], 4j0crn, 1463083731.0, 0
+621, [Vice President Joe Biden 'Confident' Hillary Clinton Will Be Democratic Nominee], 4irpl2, 1462946573.0, 0
+622, [More Than A Protest Candidate: Sanders Can Still Win], 4ghwq3, 1461688143.0, 1
+623, [Paul Krugman Is Proof That To Be Successful Even As An Objective Academic You Must Serve The One Percent], 4f58ip, 1460895984.0, 0
+624, [Black Lives Matter Says Bill Clinton Is Proving Their Point On Politics], 4eiy1g, 1460534186.0, 0
+625, [The Great Divide in the Democratic Primary], 4eg6e2, 1460498006.0, 0
+626, [Sanders Movement will evaporate with him. - Chris Hedges], 4ed040, 1460440480.0, 0
+627, [Get Off My Lawn, Bernie Kids! Why Im Voting for Hillary Clinton], 4cv2xj, 1459537332.0, 0
+628, [Hillary Clinton Mocks Obama's Hope], 4cof5u, 1459425560.0, 1
+629, [Trump and Clinton: Censoring the Unpalatable], 4ceos8, 1459271840.0, 0
+630, [Hillary Clintons Indefensible Stance on the Death Penalty], 4aydsh, 1458337882.0, 0
+631, [Bernie Sanders Is Right to Trash the Ex-Im Bank], 49xneq, 1457708535.0, 0
+632, [Glenn Beck's Ideal Presidential Ticket Is Embarrassing], 48usz9, 1457079023.0, 0
+633, [Hillary Clinton: Outsourcer-in-Chief], 48ss6a, 1457052345.0, 1
+634, [Clinton should prepare to fight dirty against Trump], 47olyf, 1456514672.0, 1
+635, [Black Lives Matter Activist: White House Meeting a Sham], 46ipdw, 1455881831.0, 0
+636, [NYT Rounds Up Left-Leaning Economists for a Unicorn Hunt], 46g3hj, 1455848023.0, 0
+637, [Supreme Court thrusts electability back into 2016 presidential race], 45z8c6, 1455604587.0, 2
+638, [The Movement Has Found Its Leader: Bernie Sanders], 45gsdv, 1455339252.0, 3
+639, [Hillary Clinton finally found her argument against Bernie Sanders], 45dd4e, 1455285230.0, 1
+640, [Racism can only be done by white people?], 44xw1c, 1455069119.0, 0
+641, [American attitudes toward animals are shifting], 4267le, 1453508181.0, 1
+642, [Does Bernie Sanders actually want to be president?], 41mjx1, 1453200684.0, 0
+643, [Former Attorney General Eric Holder took a veiled shot at Bernie Sanders Sunday, urging worshipers at Mother Emanuel AME Church in Charleston to hold politicians who have stood against gun reform accountable at the ballot box.], 41efoy, 1453080363.0, 1
+644, [Sanders gets a look at Clintons South Carolina firewall], 41c3fz, 1453034961.0, 0
+645, [Biden praises Bernie Sanders' record on guns and inequality, says he never thought Hillary Clinton was 'prohibitive favorite'], 40q6sd, 1452685539.0, 0
+646, [Sanders' Cause is coming to town], 3y4mjg, 1451027050.0, 2
+647, [Bernie Sanders defines democratic socialism.], 3xwykc, 1450867490.0, 0
+648, [Obama Touts U.S. Strikes on ISIL, But Can Military Escalation Make Up for Failed Strategy?], 3x3tha, 1450317838.0, 0
+649, [Join The Progressive Green Party On /r/ModelUSGov!], 3vlc13, 1449383818.0, 0
+650, [Hillary Clinton's Ghosts: A Legacy of Pushing the Democratic Party to the Right], 3vk3zc, 1449364629.0, 0
+651, [Behind the Clinton campaign: Dark money allies], 3vdk76, 1449232550.0, 1
+652, [Ted Cruz has always had a master plan. Now it could win him the White House.], 3u5it3, 1448441209.0, 0
+653, [Jamar Clark Protests: 5 Shot Near Black Lives Matter Encampment], 3u32ce, 1448406401.0, 0
+654, [Why Bernie Sanders is calling Hillary Clinton out on paid family leave], 3tdfha, 1447925062.0, 0
+655, [Retired USDA Inspectors Share Concerns About HIMP Project], 3tb5zk, 1447892704.0, 1
+656, [Clinton's Corruption Problem and Saturday's Debate], 3spp7u, 1447480620.0, 2
+657, [President Obama Is Not My Ally], 3sg7qr, 1447303268.0, 0
+658, [Liberalism = Conservatism + Time: What Hillary Clinton, Antonin Scalia, and a reactionary 19th century judge have in common.], 3s1lfv, 1447042890.0, 1
+659, [Six better reasons not to eat pork], 3rn42w, 1446768144.0, 1
+660, [Guns, motor vehicles and U.S. deaths, the trend lines | Hillary Clinton said about 90 Americans fall to guns every day. MOSTLY TRUE. Then a reader said whoa, what about motor vehicles? A reporter dug in.], 3r8qat, 1446518138.0, 1
+661, [Debunked: The Myth That Ralph Nader Cost Al Gore the 2000 Election], 4h6yyd, 1462091354.0, 19
+662, [I Miss Barack Obama], 44wqam, 1455054581.0, 11
+663, [More Than Half of Americans Would Date Someone Who Cant Read over a Trump Supporter], 5a0is3, 1477777889.0, 416
+664, [Trump, Putin or Duterte: Can you pick which politician said what?], 50b2vn, 1472592106.0, 5
+665, [Jill Steins fairy-tale candidacy], 4zsqm4, 1472301644.0, 0
+666, [Why Hillary Clinton wouldnt be a foreign policy hawk as president], 4xdjqw, 1471037790.0, 0
+667, [Bernie Ain't Done, and Neither Are We!], 4otqie, 1466378950.0, 0
+668, [What Hillary Clinton Really Represents (2016) A documentary exploring Hillary's corporate donations and her history of racist tactics.], 4fb9dq, 1461005110.0, 5
+669, [Donald Trump: Make America Hate Again (Documentary)], 4edzq4, 1460454863.0, 5
+670, [Sorry, Dreamers: Its Time to Say Goodbye to Bernie Sanders], 48lkw5, 1456942958.0, 0
+671, [Bernie Sanders gave a disastrous performance on foreign policy. I'm still not writing him off. - Vox], 44f3m6, 1454769166.0, 6
+672, [The Clintons sordid race game: No one will say it, but the Clintons rise was premised on repudiating black voters], 43ku2s, 1454301981.0, 5
+673, [Sanders Seen As Strongest Candidate As He Crushes Trump In The Polls], 4ilus4, 1462858267.0, 10
+674, [As reckless as George W. Bush: Hillary Clinton helped create disorder in Iraq, Libya, Syria  and, scarier, doesnt seem to understand how], 4aiw5t, 1458084209.0, 9
+675, [Whats Wrong With Hillary? The GOP is fretting about Trump, but the Democrats likely standard-bearer could do just as much damage to her own party], 4ahvvy, 1458067062.0, 21
+676, [Hillary's Pneumonia: The Media's Lowest Moment], 52c55e, 1473675941.0, 16
+677, [Emma Watson Was Told Not To Say 'Feminism' In A Speech. She Did Anyway.], 3v3671, 1449052670.0, 44
+678, [Bernie Sanders Warns of the Danger of a Third-Party Vote], 533bpt, 1474079031.0, 8
+679, [Progressive group switches endorsement to Clinton: Democracy for America, a major progressive group that had backed Bernie Sanders in the Democratic presidential primary, endorsed Hillary Clinton for president on Tuesday.], 4si88y, 1468373317.0, 7
+680, [You Want A Revolution? Then Help Out the Sanders' Delegates and Other Activists Behind The People's Convention in Philly, July 23rd], 4m8znv, 1464925441.0, 7
+681, [Left-Leaning Economists Question Cost of Bernie Sanderss Plans], 45xlin, 1455586395.0, 7
+682, [There Is No Sound Logic Behind 'Protest Voting'], 54ipts, 1474888585.0, 3
+683, [Mike Pence refuses to say that former KKK leader David Duke is deplorable: Well, at least Duke didnt use a private email server or something terrible like that], 52hljn, 1473754336.0, 5
+684, [Few (If Any) Progressives on Clinton's Transition Team], 4yij2s, 1471637118.0, 4
+685, [Trump's Support Isn't REALLY About Hard Times for the Middle Class. It's About Racism.], 4xuhwb, 1471308448.0, 4
+686, [The Truth Behind the Democratic Platform Debate: Accusations that the Clinton campaign isnt serious about climate change are absurd.], 4qhyhp, 1467263473.0, 6
+687, [Bernie Has It Backward: Hell Have More Leverage if He Endorses Clinton], 4q6bj3, 1467098376.0, 0
+688, [Why Elizabeth Warren Is Backing Hillary Clinton], 4nesr1, 1465563394.0, 4
+689, [Guaranteed Income for All? Switzerlands Voters Say No Thanks: A proposal to give each adult the equivalent of about $2,560, regardless of employment status, was rejected 77 percent to 23 percent.], 4mpwuk, 1465196303.0, 4
+690, [When Hillary Clinton Killed Feminism], 4956go, 1457255696.0, 4
+691, [Clinton in Nevada: Not everything is about an economic theory], 45tgej, 1455518901.0, 4
+692, [Supporters of Hillary Clinton on Saturday pounced on a newly unearthed resolution signed by Bernard Sanders in 1982 affirming marriage is between husband and wife, asserting the document undercuts the notion hes been a longtime supporter of same-sex marriage.], 44if66, 1454825392.0, 5
+693, [ Why Im Supporting Hillary Clinton, With Joy and Without Apologies], 431o4d, 1453983725.0, 0
+694, [Why Are Progressives Asking Poor Families to Subsidize Wall Street and the Richest Americans], 404zcz, 1452344663.0, 4
+695, [Jill Stein's VP choice thinks Bernie Sanders is a capitalist-imperalist], 4x7ujq, 1470949191.0, 62
+696, [Kaepernick didnt bring politics into sports. The NFL did that by playing the anthem.], 511ige, 1472975889.0, 26
+697, [Obama Demolishes Trump, Endorses Hillary], 4rgoes, 1467806408.0, 9
+698, [Hillary is Wall Street's preferred candidate over Trump], 4in549, 1462876107.0, 21
+699, [Don't forget, you have to vote to STOP Trump], 56j5r7, 1475991559.0, 68
+700, [Is Hillary Clinton More Liberal Than Barack Obama? -- Joseph Stiglitz says yes.], 50rfn2, 1472818469.0, 6
+701, [Jill Stein anti vaccine message -- be aware progressives], 4vjdfp, 1470032597.0, 0
+702, [Bernie Sanders Nominates Hillary Clinton for President], 4urwl7, 1469608238.0, 6
+703, [Hillary Clinton Says Shes Weighing Medicare for 50-Year-Olds], 4s6d8e, 1468199919.0, 8
+704, [Hillary Clinton Never Came Close to Compromising National Security], 4rrags, 1467958981.0, 5
+705, [Sanders confirms endorsement chatter], 4rn4oq, 1467901274.0, 8
+706, [Liberal Elites Hate the Left], 4pgmeu, 1466715823.0, 0
+707, [Bernie Sanders Is Personally Calling Democrats To Reassure Them On Party Unity: Behind the scenes, Sen. Bernie Sanders is delivering a different personal message to Democrats than some of his campaign's public statements.], 4k8ebc, 1463782117.0, 24
+708, [An Illustrated History of Donald Trumps Hair. Warning! Dont Read Before Lunch! Photos], 58vms4, 1477204473.0, 3
+709, [Im the Last Thing Standing Between You and the Apocalypse | Inside the final weeks of Hillary Clintons cautious  and surprisingly risky  campaign.], 570gaf, 1476249426.0, 3
+710, [These Policies Could Move America Toward a Universal Basic Income], 54ie7p, 1474883779.0, 3
+711, [9/11 Tapes Reveal Raw And Emotional Hillary Clinton], 51xi1a, 1473458079.0, 4
+712, [Hillary Clinton's Email Statements: More than a short circuit], 4xfy3g, 1471066085.0, 4
+713, [Jill Stein and Donald Trump are both linked to a dangerous anti-vaccine myth that just wont die], 4w2j3p, 1470309617.0, 0
+714, [Jill Stein discussing danger of Wi-Fi signals on children's brains.], 4vp42v, 1470118331.0, 5
+715, [How The Bernie Protesters Are Undermining Their Own Movement], 4urvpp, 1469607889.0, 0
+716, [Bernie Sanders Set to Endorse Hillary Clinton at New Hampshire Rally], 4sasi0, 1468270826.0, 4
+717, [Who gives money to Bernie Sanders? -- Our analysis of nearly 7 million donations offers unprecedented detail about the army that's funded his insurgent campaign.], 4meq4u, 1465012772.0, 4
+718, [Hillary Clinton Versus Bernie Sanders: Taking Election Fraud Allegations Seriously (Part 1)], 4ik0vm, 1462836056.0, 4
+719, [Bill Clinton Blames Millennials For Anger, Economy, Congress], 4fzlj3, 1461376001.0, 3
+720, [Hillary Clinton Praised Corrupt Brazilian President Dilma Rousseff For Her Transparency: In 2012, Clinton said soon-to-be-impeached Rousseff was the global standard for transparency.], 4fjpd4, 1461127889.0, 4
+721, [Stan Bush [Reporter for KCNC-TV, CBS4 Denver]: "Guess @HillaryClinton campaign dsn't want reporters to hear fundraiser speech. Turned on a static noise machine pointed at us when she spoke."], 4dv8qw, 1460125916.0, 4
+722, [How Hillary Clinton Militarized US Policy in Honduras], 4dlvyd, 1459980565.0, 4
+723, [Sandy Hook family member to Bernie Sanders: 'Shame on you'], 4dkdgx, 1459948056.0, 0
+724, [Clinton email probe enters new phase as FBI interviews loom], 4cg0i1, 1459295271.0, 4
+725, [Hillary Clinton wins big, and all these male pundits can talk about is her voice], 4aqsan, 1458205598.0, 0
+726, [Bernie Sanderss most vitriolic supporters really test the meaning of the word progressive], 49uird, 1457660597.0, 0
+727, [How Secretary of State Clinton Enabled the Coup in Honduras], 46y4by, 1456128638.0, 4
+728, [Why the Congressional Black Caucus endorsement of Hillary Clinton is a really big deal], 45xitu, 1455585554.0, 3
+729, [Hillary Clinton is at her best when she's counted out, campaigning her heart out], 44ggrq, 1454798918.0, 0
+730, [Clinton Campaign warns Sanders Against 'Bernie Bros' Attacks], 445x0c, 1454631111.0, 0
+731, [Hillary Clintons historical problem with honesty], 42zek3, 1453954401.0, 3
+732, [Cecile Richards: With Hillary Clinton, No Better Chance Than Now for Womens Health], 42gpk3, 1453685094.0, 0
+733, [Debate reinforces Sanders is the Wrong Choice for Democrats Today], 41l226, 1453180539.0, 0
+734, [The Neo-Con Brain Is Ruled By One Thing - "So it turns out that Liberals and Conservatives are different in more ways than just our ideology. We actually have very different brains. And according to scientists the neo-Con brain is ruled primarily by one thing - fear."], 40f7r8, 1452517344.0, 4
+735, [Four Questions Bernie Sanders Needs to Answer], 3xijmg, 1450593852.0, 2
+736, [Killer Mike Introduces Bernie Sanders in Atlanta], 3u25ek, 1448385431.0, 2
+737, [Im a Bernie Sanders voter who will not support Hillary Clinton: Here are 10 reasons why], 3sb2so, 1447210935.0, 0
+738, [The APs Big Expos On Hillary Meeting With Clinton Foundation Donors Is A Mess], 4zdy2g, 1472091252.0, 8
+739, [Julian Assange, Donald Trump, and Vladimir Putin: A Troika for Our Insane Era: In a bizarre mind-meld that could only happen today, the WikiLeaks founder is refusing to say whether he got the hacked DNC emails from Russia, and Trump is defending Putin.], 4vua0d, 1470194522.0, 8
+740, [Rapper Killer Mike faces flak for uterus comment at Sanders rally], 466djb, 1455709601.0, 0
+741, [Hillary Clinton Told the Truth About Her Iraq War Vote: Her foreign policy judgment cant be understood without that context.], 447jcv, 1454651113.0, 10
+742, [Sign up for this Donald Trump event and don't go: "Tickets are free, and you can reserve up to two. Therefore, if youre reading this, I encourage you to sign up for tickets! And then don't go."], 3t7bhk, 1447821054.0, 42
+743, [More like Reagan than FDR: Im a millennial and Ill never vote for Hillary Clinton], 3v0pft, 1449018674.0, 12
+744, [Clinton gives nod to Sanders with 65% top estate tax rate], 546ebd, 1474686498.0, 16
+745, [Hillary has nothing to brag about: Her foreign policy record is a disaster], 42b0lf, 1453588124.0, 12
+746, [Clinton surges to 15-point national lead in McClatchy-Marist poll], 4w6vrg, 1470374532.0, 118
+747, [How Russia Dominates Your Twitter Feed To Promote Lies (And, Trump, Too): Fake News Stories From Kremlin Propagandists Regularly Become Social Media Trends. Heres How Moscow Does It And What It Means For Americas Election 2016.], 4wfnx2, 1470514598.0, 29
+748, [The whole reason for having an independent third party that cannot be silenced is there are 25 percent of Bernies voters who are not going into that dark night to vote for the No. 1 cheerleader for Wal-Mart, for Wall Street, for an endless war, Stein said], 4i06lj, 1462488048.0, 44
+749, [Fighting Hillary is How Progressives Win - Councilwoman Kshama Sawant], 4mjkh9, 1465093901.0, 16
+750, [Here are 4 reasons why progressives should fear Trumps love of Putin], 4xx1sa, 1471340419.0, 3
+751, [Look Whos Back: How a German Comedy About Hitler Predicted Donald Trump | IndieWire], 4ovsuq, 1466407916.0, 7
+752, [U.S. election: Hillary Clinton's historic moment], 4nivzr, 1465627653.0, 5
+753, [Establishment Democrats Fight to Defeat Medicare-for-All Ballot Measure in Colorado], 4krwps, 1464089523.0, 4
+754, [Astrid Silva: I stand with Hillary because she stands with immigrant families], 440phn, 1454547624.0, 4
+755, [Clintons lead is evaporating, and anxious Democrats see 2008 all over again], 4152ho, 1452920273.0, 6
+756, [End the Gun Epidemic in America | "It is a moral outrage and national disgrace that civilians can legally purchase weapons designed to kill people with brutal speed and efficiency."], 3vi67a, 1449317663.0, 5
+757, [New National Poll Shows Sanders Surge and Clinton Decline], 3vgkll, 1449290370.0, 5
+758, [Academia, Love Me Back | "On the second page the professor circled the word hence and wrote in between the typed lines This is not your word. The word not was underlined. Twice. My professor assumed someone like me would never use language like that."], 59vbg9, 1477700439.0, 2
+759, [How the Internet Normalized Donald Trump and Impacted American Politics], 54y9ia, 1475121194.0, 3
+760, [Katy Tur And Joy Reid Tear Apart Trump Surrogate Jack Kingston], 5290g7, 1473636678.0, 0
+761, [President Barack Obama "has taken less vacation days than any other president in a generation," while Congress "has taken more vacation days than any other Congress in history."  Occupy Democrats on Saturday, August 20th, 2016 in a posting on Facebook], 51ytgt, 1473473616.0, 1
+762, [Is the National Anthem Racist? Beyond the Debate Over Colin Kaepernick. -- The quarterbacks refusal to stand during the playing of The Star-Spangled Banner raises the issue. A musicologist says no.], 511kfw, 1472976705.0, 0
+763, [The lesser of two evils], 50h9yp, 1472680303.0, 0
+764, [Jill Stein marks three months since gorilla Harambes death], 503ise, 1472477765.0, 0
+765, [Anti-Semitizing pro-Palestinian activism comes at a price: this increasingly common reflex has adverse effects that greatly outweigh its short-term benefit], 4z2760, 1471921740.0, 0
+766, [The "New" Progressive Left], 4yna6n, 1471696566.0, 0
+767, [Michael Moore self-sabatoging campaign], 4y2ajs, 1471415653.0, 0
+768, [Ex-CIA Director Who Endorsed Clinton Calls for Killing Iranians and Russians in Syria], 4wys9u, 1470808792.0, 0
+769, [The Daily 202: Why is progressive frustration with Hillary Clinton not boosting the Green Party?], 4w4kas, 1470347069.0, 0
+770, [Cory Booker's DNC speech spawns swoons, marriage proposals], 4vcev9, 1469919965.0, 0
+771, [Against Neo-McCarthyism: In their eagerness to defeat Trump, liberal pundits are reviving a damaging discourse], 4v425f, 1469783517.0, 0
+772, [The DNC Is Playing Chicken With Progressives], 4ujf6h, 1469492357.0, 4
+773, [How Bernie Sanders missed his moment], 4ql6xx, 1467315482.0, 0
+774, [House Democrats Electrify Gun Debate | Rachel Maddow | MSNBC], 4pnaoc, 1466809109.0, 3
+775, [Jesse Kremer (R-WI): "Our country has been torn apart by President Obama's divisive racism, hatred of Christianity and lambasting of the military and law enforcement. This terrible belief system has obviously crept into our own statehouse."], 4odw1k, 1466119688.0, 3
+776, [Dr Jill Stein | Full Talk and Q&A | Oxford Union], 4odg9l, 1466114454.0, 0
+777, [AP count: Clinton has delegates to win Democratic nomination], 4mwdyk, 1465289710.0, 0
+778, [Bombshell: Clinton aide claims that if Bernie wins California he wins the nomination], 4mtgi1, 1465255262.0, 3
+779, [The inevitable crucifixion of Sen. Elizabeth A. Warren  former progressive savior], 4m5f7w, 1464869892.0, 1
+780, [The universal basic income is a bad idea whose time will never come], 4it025, 1462965186.0, 0
+781, [Hillary Clinton, the surprise populist: Column], 4htlfe, 1462379513.0, 0
+782, [Hillary Clinton gets booed for flip-flopping, question-dodging], 4ezrxb, 1460797371.0, 1
+783, [Brynjolfsson and McAfee: The jobs that AI can't replace], 4e5hd7, 1460316428.0, 2
+784, [The Amsterdam News endorses Hillary Clinton for president], 4csyyx, 1459499616.0, 1
+785, [Hillary Supporters: I want to know why], 47shha, 1456562317.0, 2
+786, [My Fellow Humans of America -- We MUST Elect Bernie Sanders: Here are 6 reasons why], 46fywf, 1455846493.0, 3
+787, [Sanders' Economic Plan Torn Apart By Former Clinton, Obama Economists], 46bw9n, 1455782853.0, 0
+788, [Bernie Sanders Vows to Protect Organic Farming, Calls Out Monsanto As Presidential Campaign Heats Up], 45tsh1, 1455523520.0, 0
+789, [Liberals Are Heading Down the Path of Fox News. It's Time to Knock It Off.], 45tacv, 1455516762.0, 1
+790, [Why Henry Kissinger Matters in 2016 and Why Bernie is Right to Question Hillary on Embracing Him], 45dkpz, 1455289088.0, 3
+791, [Sanders could turn Clintons supposed leadership against her and define her as being out of touch with the Democratic Partys redefined foreign affairs legacy.], 44xyca, 1455069836.0, 2
+792, [Hillary Fight Song...Creative Hillary Support makes a video that's better than the pro's], 44m5d3, 1454889908.0, 1
+793, [Hillary Clinton Doing Finance Industry Fundraiser Just Before Iowa, hosted by a Wall Street firm that invests in fracking], 42y79q, 1453940518.0, 0
+794, [Bernie Sanders Struggles to Champion Women like Hillary Clinton], 42sf0x, 1453856200.0, 1
+795, [Bernie Sanders calls Planned Parenthood part of the political establishment.], 41ur7e, 1453331780.0, 0
+796, [The Case Against Bernie Sanders -- NYMag], 41lmma, 1453187611.0, 3
+797, [President Bernie Sanders: How the Impossible Became the Inevitable], 40u42b, 1452747589.0, 2
+798, [Sanders bests Clinton in new early state polls], 40tgbo, 1452739875.0, 2
+799, [Help me win Christmas dinner], 3y4373, 1451016636.0, 4
+800, [Making collective Muslim guilt palatable to liberals], 3vzs0q, 1449643382.0, 2
+801, [Protests highlight the racism behind Minnesota nice], 3vn9py, 1449424603.0, 3
+802, [In NYC Afro-Latinos and Queer Youth Protest Minneapolis Terror], 3vislq, 1449332545.0, 2
+803, [Since Republicans refuse to act on gun violence, the president should. U.S. Rep. Mike Thompson (CA-5), Chair of the House Gun Violence Prevention Task Force, recently sent a letter (below) signed by 114 of his colleagues calling on the White House to take action to reduce gun violence.], 3uzs7g, 1449004470.0, 2
+804, [Why Bernie Sanders isn't a Democrat], 3u2nww, 1448399033.0, 3
+805, [Hating Hillary: The One Thing Left and Right Men Can Agree On], 3tws5x, 1448287644.0, 0
+806, [The American People Agree With Clinton: Trump Is A Bigot. This New Poll Confirms It.], 52hhmw, 1473752927.0, 26
+807, [Poll: Nearly half of voters think Trump will detonate a nuke], 546lhs, 1474688908.0, 32
+808, [Sam Harris Thinks Ben Carson Understands the Middle East Better Than Noam Chomsky], 3uandn, 1448532898.0, 28
+809, [Dr. Jill Stein Owes Her Supporters Some Truth: She Won't Win], 56ux9c, 1476168700.0, 7
+810, [Bernie Sanders to campaign for Hillary Clinton in New Hampshire], 50p4dm, 1472787744.0, 7
+811, [Hillary Clinton FULL Speech DNC Convention - July 28, 2016], 4v7xdk, 1469844138.0, 7
+812, [Obama Is Eager to Hit the Stump for Hillary Clinton and Shred Donald Trump], 4mvfpo, 1465277805.0, 7
+813, [Establishment Democrats Courting Disaster], 4lrdio, 1464667957.0, 7
+814, [Bernie Sanders goes negative with Goldman Sachs, Iraq jabs], 41ud2q, 1453325903.0, 9
+815, [PSA: Its really, really sexist to blame Hillary Clinton for Bills infidelity], 54ucs5, 1475060036.0, 13
+816, [Does Donald Trump have dementia?], 483ltq, 1456706224.0, 13
+817, [Hillary Clinton is gaining momentumand shes seizing the moment to make her agenda even more progressive], 57bmwy, 1476410120.0, 12
+818, [Voting Third Party is the Electoral Equivalent of Sending Thoughts and Prayers], 4wmstb, 1470633858.0, 10
+819, [DNCs Apocalypse Now: Bernie Supporters are Mad as Hell and They Should Be], 4uv7gk, 1469662368.0, 12
+820, [I Wrote That I Despised Hillary Clinton. Today, I Want To Publicly Take It Back.], 54zbig, 1475134139.0, 9
+821, [The myth of Gary Johnson: Hes attracting a lot of support from Millennials. But why?], 5422sq, 1474618525.0, 39
+822, [Spare Me The Phony Outrage Over Clintons Basket Of Deplorables Remark], 524slv, 1473565682.0, 33
+823, [Sanders: 'My Job' Is to Make Sure Clinton Is Elected President], 4smywm, 1468442857.0, 44
+824, [Hillary Clinton is 'nasty, but I can be nastier,' Trump says [ Yep, That's Why You're Unqualified. ]], 55eia4, 1475375769.0, 17
+825, [Video: Obama endorses Hillary and thanks Bernie for a great campaign and a positive, influential message], 4ndzgd, 1465549960.0, 13
+826, [How a Trump Presidency Would Unleash Racist ViolenceAnd Devastate the Left], 54p8e5, 1474984686.0, 4
+827, [Texas has highest maternal mortality rate in developed world, study finds -- As the Republican-led state legislature has slashed funding to reproductive healthcare clinics, the maternal mortality rate doubled over just a two-year period.], 4yt156, 1471780942.0, 5
+828, ['Bipartisan Fraud': Debate Rules Shut Out Third-Party Candidates], 4xwgrf, 1471332207.0, 5
+829, [How Clinton Emails Became The New Whitewater: A Scandal In Search of A Crime], 4xuhmp, 1471308350.0, 5
+830, [Whats a Class Revolution Without Black People? -- The gaping hole among Bernie holdouts and Jill Steins supporters tells you a lot about their movement.], 4w29jv, 1470305723.0, 5
+831, [QU Poll: Hate is winning; Americans disapprove of both Clinton and Trump], 4qgnpv, 1467248972.0, 5
+832, [Clinton Broke Federal Rules With Email Server, Audit Finds], 4l0bwr, 1464220554.0, 4
+833, [How corporate America bought Hillary Clinton for $21M. "A look at Mrs. Clintons speaking venues and the whopping sums shes received since she left State gives us an indication whos desperate for a place at the trough  and whom another Clinton administration might favor..."], 4kkyka, 1463986385.0, 0
+834, [No Full Tax Returns Yet from Bernie Sanders? Yes, it Looks like Bernie and Jane are Hiding Something], 4gw9ar, 1461908197.0, 0
+835, [Donald Trump has revealed an alarming lack of policy knowledge. So has Bernie Sanders.], 4e2hoe, 1460256759.0, 0
+836, [Grassroots revolt against Hillary: Occupy activists launch Battle of New York to fight Clinton machine, anti-Sanders bias in belly of beast], 4e1f9o, 1460240646.0, 4
+837, [Why Bernie Sanders will be irritating Hillary Clinton right up until July], 4dgr7c, 1459896798.0, 4
+838, [The Bernie Bro smear must go: #BernieMadeMeWhite claps back at idiotic primary meme], 4cj8uk, 1459340199.0, 3
+839, [Women who lost children to violence form powerful Hillary Clinton coalition], 472aij, 1456195765.0, 0
+840, [A Vote for Bernie Is a Feminist Act Why the younger generation of women are right.], 46oueu, 1455975525.0, 4
+841, [Bernie arrested in 1963 while chapter president of the Congress for Racial Equality], 469k48, 1455756200.0, 5
+842, [Paul Krugmans dead wrong about Bernie: Why Sanders track record proves hes not just about happy dreams], 463dne, 1455670936.0, 4
+843, [What is the proof that racism actually exists?], 44cdvu, 1454728971.0, 0
+844, [Hillary Clinton Has Won Iowa Caucuses, Associated Press Says], 43vi7y, 1454466234.0, 6
+845, [The War on Bernie Sanders: The Democratic Party elite has launched a virtually unprecedented attack against Bernie Sanders.], 43s2ux, 1454408481.0, 3
+846, [Bernie Sanders Won the Debate, Defeated the DNC, and Became the Real Democratic Front Runner], 3xreby, 1450766524.0, 4
+847, [Bernie Sanders' Campaign Raises $1 Million in 1 Day During Fight With DNC], 3xj7yn, 1450606264.0, 5
+848, [Bernie Sanders: Hillary Clinton's pursuit of 'regime change' in Libya helped rise of Isis], 3xdikl, 1450493005.0, 4
+849, [Is r/progressive taking the right path where we only see articles against the loony side of right?], 3wxwjh, 1450217953.0, 4
+850, [Feinstein breaks with Obama: 'ISIL is not contained'], 3t5hbt, 1447793793.0, 3
+851, [Paris Terror Attacks Will Trigger Weekend-Long Republican War-gasms], 3ssdjl, 1447543938.0, 3
+852, [Longtime Bernie Sanders supporter Tulsi Gabbard endorses Hillary Clinton for President], 4wcjar, 1470458544.0, 117
+853, [Stand Up to Big Pharma Greed. Vote Yes on Proposition 61], 59hx0m, 1477522146.0, 3
+854, [Why Does The Government Continue to Lie About Social Security?], 59h413, 1477511936.0, 0
+855, [Green bonds take root in the U.S. municipal bond market], 59fdk2, 1477480418.0, 1
+856, [Why Jim Chanos is thoroughly unimpressed by Tesla [ Look for Tesla at a Bargain ]], 58i533, 1477013331.0, 0
+857, [NRA: Poll Shows Americans Fear Government Corruption and Gun Control Over Mass Shootings], 57mb35, 1476571005.0, 0
+858, [Getting Rid Of Globalization Wouldn't Stop Inequality], 56kibo, 1476011751.0, 0
+859, [Curt Schilling says hes serious about running against Elizabeth Warren - The Boston Globe], 55ij7z, 1475448945.0, 0
+860, [Who Will Save Us From America?], 55fvbu, 1475394699.0, 0
+861, [Donald Trump Deposition: Part 1], 55e1cf, 1475369676.0, 2
+862, [Advice She Didn't Ask For | Full Frontal with Samantha Bee | TBS], 552z0q, 1475194830.0, 0
+863, [Watching the Presidential Debate...], 54v2r2, 1475073022.0, 0
+864, [TRUMP'S WACKO 2 Sided Janet Yellen Conspiracy Theory FAIL.], 54thd4, 1475047532.0, 2
+865, [Trump / Clinton Major Debate Points.], 54ou7c, 1474977785.0, 0
+866, [Government investigators were expected to visit Yellowstone National Park to look into an employee's claims of sexual exploitation of female workers and financial misconduct], 54o5hm, 1474968430.0, 0
+867, [In a world in which everyday sexism remains rife, progress on gender discrimination will require quotas], 54k6w0, 1474919366.0, 2
+868, [The "new liberal economics" is the key to understanding Hillary Clinton's policies], 535rni, 1474114067.0, 0
+869, [Hillary Clinton's Iron Will], 52u3rg, 1473934887.0, 1
+870, [Deplorables': Can The Media Ever Get It Right?], 52l90s, 1473811455.0, 0
+871, [Using a Rat Balloon to Protest Labor Abuse - The Atlantic], 528owu, 1473632331.0, 0
+872, [The Clinton Foundation and the Merchants of Doubt], 510uto, 1472966341.0, 0
+873, [The RT Election: The American far-left and hard-right, supported by Moscows media, have coalesced on a Kremlin-friendly platform], 50p6ow, 1472788461.0, 1
+874, [Election Update: As The Race Tightens, Dont Assume The Electoral College Will Save Clinton], 50o5xu, 1472777188.0, 1
+875, [Deportations Under Obama Could Hit 10-Year Low], 50hb3p, 1472680725.0, 0
+876, [The Berniecrats Network :: Candidates for public office who support Bernie], 50fegi, 1472646261.0, 0
+877, [Thoughts on Black Lives Matter?], 5080xy, 1472542057.0, 0
+878, [Why The Alt-Right Is Coming Out Of Online Chat Rooms To Support Trump], 507cpm, 1472533797.0, 0
+879, [Using American Power Prudently], 505qx4, 1472515631.0, 1
+880, ['The 2016 Hutchins Forum: "Race & The Race To The White House" - 18 August 2016 - Summary and Closing Remarks - Lawrence D. Bobo, Ph. D. - W. E. B. Du Bois Professor of the Social Sciences, Harvard University], 4zvk6h, 1472351941.0, 2
+881, [Donald Trump is a "Messenger" of Division, Violence and Hate], 4zva5s, 1472348394.0, 1
+882, [Trump 2.0 Uses a Teleprompter, and He Regrets  Something], 4yimzn, 1471638667.0, 1
+883, [Trumps good political timing: Younger Americans are shunning democracy], 4y47sb, 1471445661.0, 2
+884, [Anti-science claims dog Green Party's Jill Stein], 4y2rb6, 1471421896.0, 1
+885, [Which Presidential Candidate Would Be More Favorable For Building an Independent Movement?], 4xuy55, 1471313570.0, 0
+886, [Obama Administration Forced To Release Drone Kill List "Playbook"], 4xg0wc, 1471067087.0, 1
+887, [A Small Occupation With a Large Goal: 'Abolish the NYPD'], 4vw4x8, 1470217876.0, 0
+888, [The Minimum Wage: How Much Is Too Much? - Alan Krueger], 4uog8j, 1469566283.0, 0
+889, [Genetically Engineered Crops Are Part and Parcel of the Decline of Rural Communities], 4to0py, 1468997761.0, 0
+890, [Inside Story - How Powerful Is The Bilderberg Group?], 4rq9vv, 1467946655.0, 0
+891, ['The gun didn't kill my boy. I did': Father grieves son he accidentally shot], 4rihut, 1467841000.0, 1
+892, [Brexit is a Rejection of Globalisation | Business], 4qmz85, 1467337629.0, 1
+893, [Belgium: Nigel Farage speaks to the European Parliament - FULL SPEECH], 4qf95z, 1467232378.0, 0
+894, [Government Investment and Opportunity for All], 4q9x6k, 1467155656.0, 0
+895, [Should robots pay taxes?], 4psemr, 1466888313.0, 1
+896, [Leading Antiwar Progressives Speak Favorably of Aspects of Trumps Foreign Policy], 4pojo5, 1466823137.0, 1
+897, ["You may say you oppose fascism, but you are creating the conditions under which it flourishes. This is true of Cameron, Blair, Thatcher, both Clintons, both Bushs, Reagan, and every politician who supports or supported neoliberal policies."], 4p7xjg, 1466584256.0, 1
+898, [Democratic Candidate Violently Arrested at Trump Rally], 4mqkoi, 1465206027.0, 0
+899, [Why Hillary Clinton Benefits From a Genuine Convention Debate: Facing a barrage of well-meaning advice from Democrats panicked about Trump, Clinton needs a shift back to issues.], 4lhe2f, 1464495837.0, 0
+900, [Progressives Challenge: Keeping Sanderss Fire Berning After Primary], 4l7cad, 1464323433.0, 1
+901, [Not Even Nate Silver Got Donald Trump Right], 4knudu, 1464037722.0, 0
+902, [Too much globalisation can be taxing], 4kc8kn, 1463836343.0, 0
+903, [Abby Martin on Hillary Clintons Hunger for Endless Wars], 4jyh71, 1463628765.0, 0
+904, [Bernies win tonight in West Virginia!!], 4isxil, 1462964104.0, 0
+905, [It's Not About Sentencing. Police Need to Make More Arrests.], 4i9ybi, 1462655979.0, 0
+906, [Donald Trump mistakenly refers to 9/11 as 7/11 in speech gaffe during Buffalo rally], 4ffvol, 1461067585.0, 2
+907, [Reddit Has Sort Of Become a Pro-Donald Trump Wasteland], 4eyjwp, 1460779596.0, 1
+908, [Obamas Gift to Donald Trump: A Policy of Cracking Down on Journalists and Their Sources], 4eecwj, 1460460499.0, 1
+909, [It's his spin on "negging," a concept popularized by men who style themselves as "pick-up artists" to attract women by subtly insulting them. The online scene behind it, predictably, is a wasteland of misogyny.], 4df7nm, 1459865520.0, 0
+910, [Crazy About Money.], 4bx1sd, 1458950394.0, 0
+911, [When Work Disappears], 4bgem5, 1458658936.0, 0
+912, [Obama Wants Democratic Donors To Line Up Behind Hillary], 4b4iw1, 1458446308.0, 1
+913, [Whoopi Goldberg literally just said on "The View" when bragging about Hillary being able to shake anything "they asked Hillary about murdering Vince Foster"], 4aj1ci, 1458086064.0, 2
+914, [Ohio, Kasich was on Lehman Bros board of directors ...the fraudulent failed wall street firm that literally helped finance the closure of US factories and their moves to Mexico and China. Kasich is wall street and he is there to spoil Trump from stopping job exports by wall street.], 4afxye, 1458029739.0, 0
+915, [Free Trade: The Elites Are Selling It But The Public Is No Longer Buying], 4afv7v, 1458028661.0, 0
+916, [more than 100,000 mourning a murderer. any christians mourning a murderer?], 491riw, 1457196510.0, 1
+917, [Hillary Goes to War], 488scv, 1456755124.0, 0
+918, [Hillary Clinton has won the Democratic presidential primary in South Carolina. She won the overwhelming support of black voters on her way to a commanding victory over Vermont Sen. Bernie Sanders.], 47z705, 1456647504.0, 1
+919, [Progressives with guns: yoga, ammo and LGBT rights  video | World news], 47t9w0, 1456575813.0, 0
+920, [We Need to Talk About Hillary], 47hjhl, 1456408766.0, 0
+921, [What are your thoughts on this? Caitlyn Jenner: I Get More Flak For Being Conservative Than Being Transgender], 46j5sx, 1455889039.0, 1
+922, [Robert Scheer: How the Democrats Killed Roosevelts Dream of the Affordable Home - Book Excerpt], 469f8k, 1455754793.0, 0
+923, [Feasibility of creating a website that keeps a scorecard of all the wrongdoings of each person of note?], 45okke, 1455452915.0, 1
+924, [Ta-Nehisi Coates: The Ideal Presidential Candidate Would Have "Greater Acknowledgment of History"], 45h0ng, 1455341955.0, 2
+925, [The Democratic Primary miracle: Why Sanders vs. Clinton is just the beginning], 441ogw, 1454560072.0, 1
+926, [Bernie Sanders Made The Only Attack On Donald Trump That Actually Worked], 43uwve, 1454458869.0, 0
+927, [If You Don't Want Cruz or Trump as the Nominee, You Better Get on Board With Rubio], 43stqh, 1454419632.0, 0
+928, [Bernie Sanderss Radical Environmental Proposal: Hillary Clinton keeps adopting his positions, but not this one. ("He wants to ban hydraulic fracturing outright. Clinton and OMalley have proposed lesser measures, and show no sign of going further.")], 43fd8m, 1454208969.0, 1
+929, [New Hampshire voters deserve one more debate], 41zxbp, 1453411274.0, 2
+930, [Carly Fiorina: Unlike Clinton, "I actually love spending time with my husband"], 410gow, 1452845486.0, 0
+931, [Did Joe Biden just endorse Bernie Sanders?], 40pa11, 1452672620.0, 1
+932, [Even in Californias Progressive Paradise, Gov. Brown Understands Dangers of Minimum Wage Hikes; Warns $15-an-hour jump would wreck state budgeting], 404pw4, 1452340239.0, 1
+933, [Bernienomics 101], 3zenz5, 1451940922.0, 0
+934, [A New Opportunity in 2016 | Bernie Sanders], 3z8kwy, 1451826760.0, 3
+935, [This Is Not Bernie Sanders' Revolution], 3ypwzk, 1451463435.0, 2
+936, [Kenny Rogers on Donald Trump: "I love what he says, I have to admit"], 3xuvx3, 1450834924.0, 0
+937, [Tim Kaine, possible Hillary Clinton running mate, is madder than ever Congress hasnt declared war on ISIS], 3wvd8t, 1450174658.0, 0
+938, [Don't Forget to Vote in the DFA Endorsement Poll], 3wb50v, 1449825810.0, 2
+939, [Donald Trump: Ban all Muslim travel to U.S.], 3vxbg9, 1449608982.0, 0
+940, [Marco Rubio: Liberals talk about gun control after CA attack but no one is talking about bomb control], 3vht62, 1449310627.0, 0
+941, [Meat tax far less unpalatable than government thinks, research finds], 3u39sd, 1448409599.0, 0
+942, [A lively and informative Democratic debate], 3szkm0, 1447680668.0, 0
+943, [The Real Divide Between Sanders and Clinton], 3so6m3, 1447457877.0, 3
+944, [Whos really demanding to be coddled on campus? Yale students arent the spoiled brats for refusing to be racially trolled on Halloween], 3sll0q, 1447401525.0, 0
+945, [How to write an article about political correctness run amok], 3shjfl, 1447323588.0, 3
+946, [Bernie Sanders' Plan to Close Private Prisons Is a Distraction, not an Answer], 3shge9, 1447322147.0, 0
+947, [The GOP is dead... Maybe someone should tell them that. Washington Post: "From coast to coast, conservatives score huge victories in off-year elections"], 3rht06, 1446675324.0, 0
+948, [Sanders to deliver keynote address to Southern Region of National Federation of Democratic Women], 3r991o, 1446524985.0, 1
+949, [Libertarian Socialism Is Not An Oxymoron], 516wua, 1473065117.0, 13
+950, [She sounds like Netanyahu: Hillary Clinton goes extra hawkish in her biased, die-hard pro-Israel AIPAC speech], 4blku3, 1458747109.0, 12
+951, [Hillary Clinton Is Proposing A Policy To Tackle Deep Poverty], 56yvfz, 1476232056.0, 19
+952, [Leaked Emails Show DNC Planned To Reward Big Donors With Federal Appointments], 4uif4g, 1469479707.0, 17
+953, [The Democrats have no soul: The Clintons, neoliberalism, and how the peoples party lost its way], 4efu8t, 1460492742.0, 32
+954, [While Wooing Republicans, Clinton Sticks to Progressive Policy], 4xe2wb, 1471044544.0, 8
+955, [Being a plutocrat has its advantages. Just ask Peter Thiel, the billionaire founder of PayPal, who apparently used a sliver of his vast fortune to fund a lawsuit aimed at destroying digital media pioneer Gawker Media.], 4l772y, 1464321726.0, 35
+956, [Clinton Vaults to a Double-Digit Lead, Boosted by Broad Disapproval of Trump (Poll)], 58ygsk, 1477256802.0, 6
+957, [Trump's Many Business Failures, Explained], 4vsvfo, 1470179011.0, 5
+958, [John Pilger: Why Hillary Clinton Is More Dangerous Than Donald Trump - New Matilda], 4uuvpx, 1469658621.0, 0
+959, [Michelle Obama's Speech for the Ages], 4uulsb, 1469655013.0, 6
+960, [#Demexit: US Democrats Reject Clinton, Switch to Stein], 4upomh, 1469581439.0, 0
+961, [Trump: Elizabeth Warren is 'very racist'], 4non2a, 1465730885.0, 8
+962, [Hillary Clinton questions why Donald Trump isn't releasing his tax returns], 4ldlhs, 1464423725.0, 6
+963, [Clinton admits role in Honduran coup aftermath: embrace of far-right narrative on Latin America is part of electoral strategy], 4lbm6q, 1464396256.0, 6
+964, [Forming a Progressive Party], 4fwjw1, 1461321738.0, 6
+965, [How can you vote for someone as anti science as Bernie Sanders?], 4dg6ox, 1459888180.0, 0
+966, [By a substantial margin, Sanders has interrupted others at the debates more than any other democrat. Waving his finger in their faces while he does it doesn't help.], 4a0s5m, 1457759704.0, 0
+967, [Clinton donors say Sanders is raising more than the front-runner], 3xxajr, 1450873765.0, 6
+968, [Hillary Clinton Should Stand With Bernie As He Stood With Her], 3xh68h, 1450570820.0, 6
+969, [As American Education Collapses, Democracys Foundation Shakes: They know nothing about art. They know nothing about history. They know nothing about philosophy.], 54jjbr, 1474904499.0, 9
+970, [Hillary supporters take down Bernie FB pages in coordinated porn attack], 4gqcxf, 1461816737.0, 7
+971, [Gates Foundation is spearheading the neoliberal plunder of African agriculture], 429y2q, 1453563365.0, 9
+972, [Yes, Philando Castile Was Killed for the Color of His Skin: We cant talk about police brutality without talking about white supremacy.], 4tp71t, 1469014030.0, 17
+973, [Jill Stein pens open letter to Bernie: Green Party presidential candidate invites Sanders to cooperate on political revolution], 4kpasb, 1464055783.0, 16
+974, [Be nice to Hillary Clinton online  or risk a confrontation with her super PAC], 4il0kp, 1462848181.0, 17
+975, [Gary Johnson is Worse than Donald Trump], 4whtqe, 1470547178.0, 14
+976, [No longer pretending to be objective, NYT turns 3rd debate into The Hillary Clinton Show], 3xpp04, 1450741456.0, 16
+977, [12 Ways Gary Johnson Is a Hardcore Right-Wing Radical], 540y6e, 1474603889.0, 90
+978, [Sanders Camp Flirts with Going Full "Burn It Down"], 4k3gsf, 1463706029.0, 27
+979, [TIL that the top 10 lowest income counties in the US are all represented by republican congressmen], 4tuwgm, 1469098510.0, 782
+980, [The Reviews Are In: Conservatives Say The DNC Was 'Disaster' For The GOP], 4v7ls3, 1469840439.0, 24
+981, [Joe Biden endorses Hillary Clinton], 4ne0f8, 1465550371.0, 12
+982, [Hillary Clinton Gets Gored: Will innuendo in the presidential race bring on apocalypse?], 519ukf, 1473117278.0, 11
+983, [Bernie Sanders Refuses to Concede Nomination to Hillary Clinton], 4o1h1r, 1465940961.0, 10
+984, [Green Party Candidate Dr. Jill Stein Says, "Bernie and I Need to Talk"], 4k4mzy, 1463719825.0, 12
+985, [Powerful Politician Argues White Privilege Doesn't Exist, Accidentally Demonstrates White Privilege], 3rfifb, 1446627650.0, 11
+986, [Inside Trump's 'cyborg' Twitter army. Could automated online propaganda sway the election?], 59w28j, 1477708001.0, 0
+987, [How Does the Minimum Wage Work?], 59060f, 1477278735.0, 0
+988, [Economic mobility and racial inequities: How the next president can revive the American dream], 58iwws, 1477021385.0, 0
+989, [Poll: Faso, Teachout in virtual dead heat], 5568t5, 1475237563.0, 0
+990, [F***ing Politics, How Does It Work?], 54nads, 1474957139.0, 0
+991, [Ta-Nehisi Coates On Trump's "Deplorables" | All In | MSNBC], 52kzwm, 1473808677.0, 0
+992, [Let Me In - We Are Here [Re-Framing the Refugee Crisis]], 51gmku, 1473215436.0, 0
+993, [Clinton, Trump prepping for debates showdown], 4zxhsd, 1472380008.0, 0
+994, [Freethinkers and Libertarianism (Book Excerpt from Fighting Back the Right)], 4yv0cf, 1471817272.0, 0
+995, [What Does Bernie Sanders Think Of Third Parties?], 4w733z, 1470376923.0, 0
+996, [One Democratic Convention Speech Nailed The Progressive Vision], 4vnw65, 1470103906.0, 0
+997, [3 officers killed; 3 injured in Baton Rouge], 4taylz, 1468810306.0, 0
+998, [Bull Market Blues], 4t5mrr, 1468720315.0, 0
+999, [What Do 'Black-on-Black Crime' and the 'Ferguson Effect' Have To Do With Police Violence?], 4sx4rf, 1468580338.0, 0
+1000, [Obama Fracking Rules Are Struck Down by Court: A federal judge in Wyoming said the Interior Department had overreached when it issued new rules for hydraulic fracturing on government-owned lands.], 4pbxyf, 1466645960.0, 0

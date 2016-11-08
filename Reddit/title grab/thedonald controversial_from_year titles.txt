@@ -1,0 +1,1001 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Japanese Donald Trump Commercial], 4obc78, 1466075929.0, 0
+2, [The Orlando Shooting in a Nutshell], 4ogefp, 1466149347.0, 1
+3, [Trump slowed down 50% --- guys guys guys. This is hilarious.], 4gq9if, 1461815497.0, 0
+4, [U.S. officials say American Muslims do report extremist threats], 4odith, 1466115361.0, 1
+5, [10 Things Trump Supporters Are Too Stupid To Realize], 4uurw1, 1469657227.0, 1
+6, [My favorite poster from Mr. Trump's campaign so far], 4x25qn, 1470865193.0, 0
+7, [Formally recognize Black Lives Matter as a terrorist organization.], 4rva4n, 1468021409.0, 1
+8, [If She Wasn't My Daughter, A poem by Donald Trump], 59y1jy, 1477730889.0, 0
+9, [Forget the stupid emails - Hillary committed treason and here is the smoking gun - two 15 year old letters, a video & audio tape...], 4vm9tm, 1470083917.0, 0
+10, [GOP Officials Exploring Options if Trump Drops Out], 4w01tk, 1470278128.0, 0
+11, [Trump placed on Suicide Watch after devastating debate defeat in which he admits he does not pay taxes, mocks women for their weight, reads Mein Kampf for pleasure reading. The election is over, friends! That was quick!], 54sxcd, 1475040309.0, 0
+12, [Any of you guys want to have an intelligent discussion?], 4iwga3, 1463021400.0, 2
+13, [Donald Trump is a big fat idiot], 4uutjo, 1469657825.0, 3
+14, [FUCK TRUMP], 5824bs, 1476796032.0, 4
+15, [Trump's views on Nuclear weapons], 4w2emc, 1470307794.0, 8
+16, [Trump scores MAJOR endorsement of the American Nazi Party!!! Real opportunity for Donald Trump and White Nationalists to carry out their mutual goals!], 588vqi, 1476886995.0, 4
+17, [To all the broke Berniebots that aren't getting their $27.86 back], 4gq4sx, 1461813827.0, 3
+18, [Trump Pence 2016], 588vp8, 1476886975.0, 0
+19, [You guys are a bunch of fucking faggots.], 4ithcj, 1462973567.0, 1
+20, [Is Donald Trump OK? Erratic behaviour raises mental health questions], 4vuc0u, 1470195130.0, 5
+21, [The university longboard assosciation wanted a hoodie design!...], 4i1bxx, 1462502766.0, 0
+22, [Bernie > Trump], 4uafqc, 1469341849.0, 4
+23, [Deal with it liberals. I'm too fucking nimble.], 4og95h, 1466147376.0, 3
+24, [Donald Trump's daughter steps forward to say "Daddy grabbed me by the pussy and sat me on his lap as we sat on a statue of 2 parrots fucking."], 58x1w6, 1477225891.0, 0
+25, [OCTOBER SURPRISE, BITCHES!], 57atzv, 1476401311.0, 1
+26, [I can't wait to see you guys from /r/thedonald fucked up when this madman will destroy America. I know Hillary is a crook, but Trump is the endgame of your country], 53hvte, 1474325176.0, 0
+27, [New poll shows Trump polling at 100 percent of local Klan chapters nationwide!], 59jgv9, 1477538200.0, 5
+28, [Trump DESTROYED in final presidential debate; leaves debate stage humiliated, weeping. Will Donald survive until Election Day? Stay tuned.], 58fok6, 1476978398.0, 6
+29, [Arkancide is the unfortunate habit of potential witnesses to the Clintons' dirty dealings in Arkansas suddenly deciding to shoot themselves twice in the back of the head.], 55zqqn, 1475706691.0, 0
+30, [Donald Trump, the Destroyer of Worlds], 4hxfy8, 1462435747.0, 0
+31, [Now that Trump is all but guaranteed the nomination...], 4hsnw3, 1462360653.0, 0
+32, [Did Donald forget to take his meds? What is the explanation for his lunatic, mouth-foaming debacle at the debate? I haven't seen a slaughter that bad since I visited a pig farm!], 56ryo9, 1476135155.0, 2
+33, [American voters are incredibly stupid, biased, and blindly believe almost anything?], 4xfxr8, 1471065960.0, 0
+34, [Kass: Trump Will Withdraw, He Doesn't Like to Lose], 4xdr8j, 1471040488.0, 1
+35, [Twitter suspends account of Melania Trump speechwriter Meredith McIver, who probably isn't a real person], 4wqvyq, 1470701268.0, 0
+36, [Send a big "Thank You" note to the DNC for the 5 million votes they are gifting Donald Trump with Hillary Clinton's corruption and Wasserman's dirty tricks against Bernie Sanders!], 4up129, 1469573826.0, 0
+37, [My dad doesn't know what Reddit, Memes or Centipedes are...but that doesn't stop him from being HIGH ENERGY!], 4gob6j, 1461790214.0, 0
+38, [Trump Cites Iraq Withdrawal He Passionately Supported To Say Obama Founded ISIS"], 4xdtv6, 1471041412.0, 2
+39, [sexy trump girls DESTROYING the internet], 4q4o40, 1467078704.0, 1
+40, [There's a reason some Democrats are switching to the Donald Party], 4goc1n, 1461790591.0, 6
+41, [Watch "Rigging the Election - Video II: Mass Voter Fraud" on YouTube], 587chg, 1476864832.0, 7
+42, [Donald Trump, aka the easy way to lose respect for people you like], 4x9yez, 1470974174.0, 2
+43, [Trump is an utter asshole.], 59iizo, 1477528547.0, 0
+44, [The Clintons Serve Big Pharma, Not You], 5acwxv, 1477956922.0, 2
+45, [Sanders' campaign is alive and well!], 4flpwl, 1461156164.0, 3
+46, [Tim Cain wants to be like Trump.], 55z9a9, 1475700062.0, 0
+47, [Hillary Clinton On The Verge Of Death - Coughing in Cleveland], 51h21z, 1473220225.0, 0
+48, [Is it true trump owes China millions..my girl is having a debate with me.], 4z9i6d, 1472024272.0, 0
+49, [Bernie supporter wants to know where I can buy all seasons of "The Apprentice" individually], 4js8c9, 1463536851.0, 0
+50, [My lesbian aunt is convinced that Hillary and Huma are lesbian lovers.], 59wzgl, 1477717794.0, 3
+51, [What is it about Trump?], 4v3em4, 1469774219.0, 2
+52, [Campaign denies Melania Trump's speech plagiarizes parts of Michelle Obama's], 4tl1vr, 1468962850.0, 0
+53, [Fuck Isis], 4nxcht, 1465874998.0, 10
+54, [Show this to any non supporters of Trump to shut them up.], 4y8an9, 1471498207.0, 3
+55, [Someone Was Actually Arrested For In-Person Voter Fraud. She's A Trump Supporter.], 59zlog, 1477758601.0, 4
+56, [Donald Trump dead at age 70], 583epq, 1476821342.0, 5
+57, [Spot The Difference], 4wy4ls, 1470801122.0, 5
+58, [Trump supporter attacked and beaten in El Cajon], 552cle, 1475187149.0, 0
+59, [Chicago Tribune's John Kass: Democrats should ask Clinton to step aside], 5aczma, 1477957658.0, 0
+60, [amen], 57v24l, 1476699740.0, 1
+61, [The Donald isn't the first Presidential Candidate to use 'questionable' language on the campaign trail], 57e66p, 1476440786.0, 0
+62, [Fascism and Donald Trump - YouTube], 4ad3kj, 1457991298.0, 1
+63, [I want a president that loves pussy, not one that is one, or has one!!], 57hxxd, 1476498948.0, 0
+64, [Data visualization of Donald Trump's current approval ratings using a live streaming robotic wig.], 5472s2, 1474694772.0, 0
+65, [With love, from social democratic countries.], 4aqb3r, 1458198138.0, 0
+66, [Is voting for Trump treason against the human species? Discuss.], 57vvef, 1476712555.0, 0
+67, [In response to the "We don't believe in Safe Spaces, but we do believe in our Territorial Sovereignty to censor here" comment from a mod], 4nxqcf, 1465879497.0, 3
+68, [My Facebook feed this morning], 4aol98, 1458174681.0, 6
+69, [Sad angry white people], 57hd76, 1476492759.0, 9
+70, [I would consider it an honor to be banned from this subreddit dedicated to this buffoon.], 4gxaf8, 1461923454.0, 12
+71, [You poor bastards. You really do have to choose between a Clinton shit sandwich and a giant Donald douche. Good luck.], 59apng, 1477426958.0, 0
+72, [Hello Young People, It's Hillary Clinton Again], 55245c, 1475183866.0, 3
+73, [How many times has Donald raped Ivanka?], 512v60, 1472999041.0, 0
+74, [Trump family of thieves.], 4ulm8f, 1469518439.0, 0
+75, [Shitlib cries out for someone to assassinate Trump on twitter and gets a little justice from /pol/], 4abon2, 1457958706.0, 3
+76, [Donald Trump's Most Idiotic Moments], 4uuvfh, 1469658531.0, 8
+77, [Obama roasts Trump (starting at 1:25)], 59i1n2, 1477523535.0, 0
+78, [Kim Jong Un is awesome], 57fcom, 1476462160.0, 4
+79, [Best comeback in the history of politics], 56qh4d, 1476105372.0, 4
+80, [I don't believe it], 4o00rj, 1465912377.0, 0
+81, [Bernie said, "When you're white... you don't understand what it's like to be poor."], 4a00vo, 1457749544.0, 0
+82, [October 24th declared national "Report-a-Donald Trump-Rape Day"; THOUSANDS of women expected to come forward and compete for MILLIONS in prizes. Ladies, come forward and share your own Donald Trump rape story today! The nation thanks you for your courage.], 5958hk, 1477353130.0, 3
+83, [So if Donald Trump wins the election, would it still have been rigged or not?], 586y8f, 1476860066.0, 0
+84, [Deplorables Against Trump], 5400qe, 1474593084.0, 0
+85, [People who had stuff on Hillary Clinton], 528n64, 1473631639.0, 0
+86, [Donald Trump battles radio host Hugh Hewitt on claim that Obama is 'founder of ISIS'], 4x8psu, 1470959999.0, 0
+87, [I know libs don't listen to logic but], 4prgn2, 1466866790.0, 2
+88, [Donald and your supporters prepare to be fucked.], 4kokkl, 1464047176.0, 0
+89, [i cant believe people actually vote for this douchebag please explain], 4j5sf0, 1463165826.0, 2
+90, [Donald's Can't Lose Plan for the Economy], 4ieby9, 1462738386.0, 1
+91, [Is there a world where Bernie could be Trump's VP?], 484hl1, 1456713004.0, 0
+92, [My friend carved a "trumpkin"], 59ykfi, 1477738691.0, 0
+93, [MRW a porn star claims she turned down 10k and a private jet for sex], 590lp4, 1477283743.0, 0
+94, [Just leaving this here to hang out.], 58tbmx, 1477174866.0, 0
+95, [DRUDGE MIND F], 57554w, 1476320313.0, 1
+96, [Look at all them millionaires..], 49dcrp, 1457396475.0, 0
+97, [Donald Trump supports his endorsement from the KKK but not "not" accepting the endorsement], 48c9bo, 1456806543.0, 1
+98, [Trump to put his signed first edition of Mein Kampf up for sale to help finance his dying campaign], 551q3h, 1475177686.0, 4
+99, [Free speech utilizer here], 4nx6q5, 1465873192.0, 5
+100, [Make Taco Bowls Great Again], 4i5em6, 1462574958.0, 0
+101, [Clintons for Prison 2016], 5a09ep, 1477773562.0, 0
+102, [Wikileaks exposes the Assassination of Scalia???], 57bwjo, 1476413071.0, 0
+103, [Donald Trump's Alleged Mob Ties: 5 Damning Revelations], 4vti4v, 1470186099.0, 0
+104, [#BlackLivesMatter], 4tlzs3, 1468974273.0, 0
+105, [Hillary's true identity is starting to come out!], 4qqrja, 1467391566.0, 3
+106, [posted "Trump 2016" to /r/feminism, to piss them off, banned], 4j8aca, 1463200765.0, 0
+107, [Shook Donald's hand], 4ukigq, 1469504619.0, 4
+108, [I'm a Bernie Sanders Supporter, but guess what?], 4gmo39, 1461756366.0, 9
+109, [Donald Trump In Critical Condition After Choking on Own Bullshit - The Daily Currant], 4qw6f2, 1467470229.0, 6
+110, [Did Milo Yiannopoulos REALLY say this?!], 4ofu42, 1466142032.0, 0
+111, [Donald lied about helping small businesses after 9/11], 529cxu, 1473640917.0, 7
+112, [Weiner's emails were planted by the Russians!...so says the libtards.], 5ag4os, 1477988944.0, 0
+113, [Why doesn't Trump use some of the appalling statistics regarding incarceration rates during the Bill Clinton administration? Minorities bore the brunt of it. (See attached document)], 58bo4d, 1476928123.0, 0
+114, [Look! I just found 2 SJW's hanging out together O.o], 53vla8, 1474522698.0, 1
+115, [Hillary Clinton green screen scandal], 53afik, 1474195226.0, 1
+116, [DNA tests show Ivanka's new baby has half Trump genes--one quarter from The Donald!], 4p4omk, 1466545757.0, 1
+117, [Remembering those who have fallen to make America great], 4ls4if, 1464678057.0, 0
+118, [Trump will skull fuck Hillary so hard that Bill will come.], 4j0lfl, 1463087470.0, 0
+119, [Kasich is out, Trump is in! Officially in, of course.], 4hwty1, 1462427387.0, 0
+120, [Debate drinking game--if you pas out before Hillary, you lose!], 54mnd9, 1474949659.0, 14
+121, [Trump announcement: "Nobody loves women more than I do. That's why I rape them by the dozen."], 59xzc1, 1477730058.0, 0
+122, [To all BLM supporters], 542dog, 1474622891.0, 4
+123, [The best of Donald Trump captured in one amazing video!], 4s1hxe, 1468116979.0, 2
+124, [Hey guys, I'm a Bernie supporter.], 4n735o, 1465445551.0, 3
+125, [BREAKING: Top U.S. Company FIRES American Employees And Hires Illegal Aliens... BOYCOTT NOW!], 51sbl9, 1473382847.0, 0
+126, [DONGNALD TRUNP THROWS A PARTY], 4sl5oo, 1468410568.0, 0
+127, [Multiple Officers Shot At 'Black Lives Matter' Protest In Dallas], 4rsjlg, 1467975682.0, 0
+128, [BBC Have Called it, Great Britain's left the EU], 4pktc5, 1466768624.0, 0
+129, [To celebrate becoming the Republican presidential Nominee, Today Donald Trump got radical on a skateboard], 4hwtk4, 1462427255.0, 0
+130, [Hillary waves like idiot; Bill follows rubbing hands together greedily], 4h4lii, 1462054591.0, 0
+131, [The Trump Effect], 4di7ma, 1459915339.0, 1
+132, [Hadley Freeman: in Donald Trumps world, youre classy or a loser. Which is he?], 4c2i8w, 1459049416.0, 1
+133, [Trump on climate change], 4bo4mh, 1458791277.0, 0
+134, [Trump Foundation admits error in donation to Florida attorney general campaign], 4blhem, 1458744471.0, 0
+135, [Super peaceful muslim refugees in Sweden caught on Australias' 60 minutes throwing peace punches at production crew.], 4bcc92, 1458597315.0, 0
+136, [HS Newspaper editorial: "Why You Should Vote for Trump"], 4aaut5, 1457944578.0, 2
+137, [99 percent chance of Hillary Clinton victory! Suck it, goons], 59xy0h, 1477729568.0, 0
+138, [Hillary won debate because you suck], 54tjw2, 1475048515.0, 3
+139, [How is it racist to suggest we all not the same? Love trump for telling it how it is], 4zxjl4, 1472380834.0, 0
+140, [LARGEST GROUP EVER! We need 10000000 members to Make America Great Again! Our FB Group https://www.facebook.com/groups/520754444797060/], 4zpxjv, 1472262926.0, 1
+141, [Will Bill Clinton suddenly reveal a serious illness in the midst of the election in order to facilitate Hillary's win? : conspiracy], 4ihxb1, 1462794925.0, 3
+142, [Found on r/sandersforpresident, front page right now. This is just purely outrageous.], 4bk2mc, 1458718950.0, 0
+143, [This shit is why I'm voting for Donald], 4gth52, 1461870171.0, 0
+144, [TRUMP CAUGHT GRABBING A PUSSY.], 571ch1, 1476260568.0, 0
+145, [Major announcement: Trump to put his signed first edition of Mein Kampf up for sale to help finance his dying campaign], 550x0z, 1475159489.0, 4
+146, [Why are black people so racist now and say everyone else is racist for saying anything they dislike to hear?], 4z455u, 1471946500.0, 0
+147, [Trump's campaign is a dumpster baby. Can't figure out how to fund-raise from trailer trash rednecks on welfare with three broken down cars in the yard who want to "Make 'Merica Grate Agin.], 4p56kp, 1466551919.0, 4
+148, [NSFW Why isn't this fucking posted everywhere? Donald trump lied about his dick size it would seem.], 4bb21x, 1458566513.0, 15
+149, [VIDEO: How the Media is Deceiving You!], 59zuq2, 1477764819.0, 0
+150, [#TakeBackMyEarlyVote is trending on Twitter], 59yce2, 1477735328.0, 0
+151, [Donald Trump just won a debate 3 vs. 1!], 56r5us, 1476119828.0, 1
+152, [Election 2016], 56ohgf, 1476078465.0, 0
+153, [I did nothing wrong, I don't recall, Im not sure, I'll ask Reddit.], 55fvvk, 1475394954.0, 0
+154, [BREAKING: Julian Assange Just Released Thousands Of 'Cables' PROVING Hillary Is Lying About THIS...], 51s9pe, 1473382219.0, 0
+155, [Polls in the Era of Media Fraud], 4yunuq, 1471811934.0, 0
+156, [Looks like Trump does donate to charity, thoughts?], 4w85xz, 1470391824.0, 0
+157, [I've got a bad feeling about this...], 4uz64l, 1469713653.0, 0
+158, [Donald Trump in 2008: Hillary Clinton would 'make a good president'], 4siswi, 1468379679.0, 0
+159, [The Donald a stand up guy.], 4rdnsf, 1467766578.0, 0
+160, [WATCH: Where the Hell is the Orlando Jihadist's Missing Wife?], 4q357i, 1467060407.0, 0
+161, [That's all folks!], 4n54oa, 1465422887.0, 0
+162, [Super Trump [artwork]], 4hyvvj, 1462461796.0, 0
+163, [Who's more violent?], 4ci99m, 1459324767.0, 1
+164, [Casey Neistat's vlog starts with an opening shot of a hilarious Trump impersonator in NYC.], 4cak0v, 1459206989.0, 1
+165, [Doesnt it say something that the voting is hidden here?], 4c3lma, 1459066973.0, 0
+166, [Black off-duty cop reports why he was shocked at what he saw at a Trump rally.], 4be638, 1458621671.0, 2
+167, [The Mayo Clinic did a great job writing Trump's bio.], 4arnyt, 1458221264.0, 0
+168, [Donald Trump - Playboy - 8 Sexy Woman Trump Has Dated], 58hbag, 1477004614.0, 4
+169, [Donald Trump couldn't have sexually assaulted all those women, because if he had, one of them would have revealed by now how long his penis is, a matter that was important enough that he brought it up during a presidential debate.], 58dz23, 1476953671.0, 0
+170, [Hillary Clinton Campaign Chair (Podesta) Leaks - examined], 57cmyh, 1476421188.0, 4
+171, [HIDDEN CAM: NYC Democratic Election Commissioner, "They Bus People Around to Vote"], 5760ft, 1476329494.0, 0
+172, [Breaking: Pro-Trump Imam's Brother Kidnapped By Islamic State As He DESTROYS Obama+Hillary For Founding ISIS], 562uju, 1475743830.0, 0
+173, [Trump supporter attacked and beaten], 55327r, 1475195834.0, 1
+174, [Car shows are awesome], 54dzgi, 1474812129.0, 2
+175, [Trump summed up], 4zwgkq, 1472364106.0, 3
+176, [Reminder to be on your best behavior when rocking your MAGA gear!], 4zw8j3, 1472360971.0, 3
+177, [Any Proud Boy Trump Supporters?], 4uwhq1, 1469677017.0, 0
+178, [seems to be the typical liberal response], 4rpqwp, 1467940805.0, 4
+179, [Cruz Picks Fiorina as VP], 4gqgvl, 1461818082.0, 0
+180, [Anyone here want some FREE SHIT?!?!?!?!], 4d8c6k, 1459752526.0, 0
+181, [Donald], 4bgveg, 1458671558.0, 0
+182, [Donald Trump Killed Jean-Benet Ramsey], 4yp3w7, 1471729649.0, 7
+183, [Who's going to pay for the wall? MEXICO!], 59rlju, 1477643803.0, 0
+184, [Liberals ar retarded against the Trump], 4xjx08, 1471136408.0, 0
+185, [Here's What Happened When A Terrorist Attacked LGBT People In Israel], 4o1cmd, 1465939227.0, 0
+186, [Man of the hour.], 4mncox, 1465161598.0, 4
+187, [Leonard Cohen votes for Trump], 4rteb3, 1467989337.0, 4
+188, [If there's one thing we learned from Orlando... It's that we need to dismantle White Supremacy.], 4nx8g8, 1465873735.0, 0
+189, [SJ Peaceful Protesters bombarding us], 4nmw08, 1465702953.0, 0
+190, [It's all but over for Hillary now! Trump 2016!!!], 57xoxc, 1476744470.0, 0
+191, [Cuck'd], 4bzwum, 1458994495.0, 0
+192, [As an ex-Bernie voter I've been wanting to ask this for a while now. What's can the Trump do for us, and how can we stop Hillary?], 4uqzq3, 1469596382.0, 11
+193, ['Not a puppet, not a puppet, you're the puppet!" Trump embarrasses himself by acting like an uncreative schoolboy at final debate, walks off stage with head hung in shame], 58fwnz, 1476983498.0, 31
+194, [Found Hillary in Skyrim Special Edition today! #DrainTheSwamp], 59wc1p, 1477710828.0, 0
+195, [vote for who you think is winning the final debate!], 58efad, 1476958873.0, 1
+196, [Anybody here?], 56ow13, 1476083859.0, 0
+197, [poll: Donald Trump v Simon Cowell for President ... who wins?], 50hhcs, 1472682980.0, 0
+198, [What Donald Trump's opposition to House Speaker Paul Ryan means for Republicans], 4w5h70, 1470358090.0, 0
+199, [Oh No It's True], 4su9lc, 1468543868.0, 2
+200, [I played Halo5 tonight with a stranger but for someone reason I just felt like he was a good guy... Someone I could trust..... Someone with good values.... Ya know ?], 4rtz24, 1468001167.0, 0
+201, [Trump on terrorism, crime, and the economy], 4r9bn3, 1467695756.0, 2
+202, [Donald tried to tell us about last week's GoT episode months in advance.], 4llukh, 1464579152.0, 1
+203, [Help from a Canadian], 4krzyf, 1464090977.0, 1
+204, [El Rato u dog], 4hrz3w, 1462351214.0, 1
+205, [This Canadian's Bacon], 4h63bj, 1462077476.0, 0
+206, [What Trump policies are unique to him and are objectively 'great ideas'?], 4bng5s, 1458782348.0, 0
+207, [Focus], 4a5tan, 1457850545.0, 1
+208, [Sex Habits Of Trump Supporters Revealed | The Daily Caller], 447rwy, 1454654122.0, 0
+209, [The Donald Trump In These Allegations Is Not The Complete Monster I Married], 57l8eu, 1476549310.0, 7
+210, ['wah wah wah I cant lose' -the dump], 58jh8k, 1477027406.0, 6
+211, [Donald Trump: 'I hope' Trump Foundation hasn't broken any laws], 54fwxi, 1474850833.0, 7
+212, [lol wanna hear a joke], 4p59ww, 1466553028.0, 5
+213, [Does Donald play the Trumpet?], 4etkrb, 1460700061.0, 0
+214, [A match made in ?????], 4j2ak3, 1463108791.0, 3
+215, [Monica Lewinsky is voting for Trump], 54yeu8, 1475122868.0, 18
+216, [Radio Host DESTROYS Sexual Assault lies! We need every voter to hear this, please consider sharing #Trump2016], 5a34sx, 1477810319.0, 0
+217, [One word], 59w4b8, 1477708583.0, 2
+218, [Trump's Twitter debate lead was 'swelled by bots' - BBC News], 5871xc, 1476861232.0, 0
+219, [An Indiana parade featured a float showing Donald Trump executing Hillary Clinton], 55whwk, 1475652445.0, 0
+220, [Now 30 BENGHAZI-related emails have been recovered from Hillary's server  and they weren't in the batch she turned over to the State Department], 50dge7, 1472620133.0, 3
+221, [Donald Trump halves Hillary Clinton's lead: poll www.washingtontimes.com], 502tit, 1472466578.0, 0
+222, [I would like to make a motion that this is the song Trump comes out to for the first debate against Hillary.], 4yyy4p, 1471870101.0, 0
+223, [Speaking of The Donald], 4vlpej, 1470073571.0, 1
+224, [Redacted Tonight: Bernie Actually Won, Widespread Election Fraud in the DNC], 4vdco8, 1469932804.0, 3
+225, [Where are we gonna get that much salt?], 4uwlhn, 1469678157.0, 0
+226, [Sheeple], 4urqe2, 1469605805.0, 2
+227, [Honest American Historical Figures], 4trlzy, 1469056538.0, 0
+228, [How is there not a Trump & Hillary porn parody yet?], 4poy5o, 1466827820.0, 1
+229, [A tribute to r/sandersforpresident], 4n36wi, 1465387352.0, 0
+230, [/r/trump for real Donald Trump news, information and discussion.], 4krh13, 1464083025.0, 0
+231, [Are they really banning this from the internet?], 4i6s1p, 1462592978.0, 0
+232, [How do you feel about Republican representatives trying to negate democracy?], 4bcp22, 1458602686.0, 1
+233, [Why its time for a Trump revolution], 4bbytf, 1458590387.0, 0
+234, [Do you think Trump will commit suicide when he loses the election in a historic landslide (I'd say probably 46 states - 4, though it could be 50-0 after yesterday's performance)? I say yes. What do you think?], 54yhf8, 1475123731.0, 4
+235, [Ben Carson says "I had fun on the debate stage with Trump"], 54fnk1, 1474847395.0, 3
+236, [Trump Rally Orange County], 4gwvac, 1461916863.0, 6
+237, [Paid trolls - proof from hillary memo], 59fws6, 1477488573.0, 4
+238, [Billy Bush fired from NBC for important job of morning show host; redneck high school drop outs continue to support Donald Trump for President], 588lit, 1476881890.0, 0
+239, [This Video Will Get Donald Trump Elected], 57n2bx, 1476580975.0, 0
+240, [So I just got banned from /r/politics for calling someone a Hillary Shill. They prefer censorship over discussion. I suggest for those who don't want to deal with Hillary shills you head over to voat.co while reddit becomes digg.], 51bpls, 1473139893.0, 0
+241, [I wonder how many electronic voting machines will be hacked, and how many dead people will vote this election...], 4yb6c2, 1471538536.0, 0
+242, [Text analysis of Trump's tweets confirms he writes only the (angrier) Android half], 4x6ixa, 1470922727.0, 2
+243, [Saw this on facebook], 4lxy3u, 1464762636.0, 4
+244, [It's nice to see Google can muster up a tiny pin on Memorial Day after a full fledged doodle for a Bin Laden sympathizer a few weeks ago...], 4lshc7, 1464683096.0, 0
+245, [Hillary visits her dad for Father's day.], 4jcs76, 1463283178.0, 4
+246, [PAC Caught in Recordings Inciting Violence at Trump Rallies], 587rf1, 1476870049.0, 0
+247, [my son is a cyber], 581yqt, 1476793555.0, 2
+248, [Are you sick of winning yet?], 55fawa, 1475386410.0, 1
+249, [A professor of history at American University is predicting the next president of the United States Of America], 54hz0x, 1474877791.0, 3
+250, [Testpostplsupvote], 54bgpw, 1474771776.0, 0
+251, [This is what Hillary is going to do with that campaign plane after the election - Stronger Together Airways], 54asyb, 1474762950.0, 0
+252, [German take on syria crisis], 4xlc7j, 1471155836.0, 0
+253, [So now ignorance of the law is okay? Next time I get stopped by the police I'll just pull a Hillary and say I didn't know I was doing anything wrong and get let go without consequence.], 4ruawi, 1468007783.0, 0
+254, [Promptly after dropping out of the race, Ted Cruz elbowed his wife in the head. #freeHeidi], 4hvsjb, 1462414159.0, 3
+255, [Holocaust Survivor Doing AMA Supports Trump], 4d7xbx, 1459746325.0, 2
+256, [More Liberal Propoganda!], 4d6j81, 1459726064.0, 1
+257, [What happens when you shine a light on $Hillary?], 4c46tu, 1459077543.0, 2
+258, [Why is Trump lying about meeting Putin?], 58e8w7, 1476956853.0, 17
+259, [Last bastion of 'free speech'], 4o1o6y, 1465943671.0, 27
+260, [4 minutes in ; OMGOMGOMG Trump is already flustered and doing incredible evasion. Laughable.], 56pea9, 1476090850.0, 16
+261, [Well-written pro-Trump article], 566l4a, 1475804008.0, 0
+262, [When my pumpkin carving becomes art], 59ofer, 1477609242.0, 0
+263, [Moderator Removed From Popular Subreddit For Being A Trump Supporter], 4xkhf4, 1471143948.0, 12
+264, [Regardless who you're voting for this video is disturbing and shows fraud], 58mczy, 1477071182.0, 10
+265, [My dad sent me this.], 4ino53, 1462884840.0, 8
+266, [I voted], 58qa2y, 1477120455.0, 4
+267, [Gen Flynn Says "With Trump, we'll actually win the war on terror"], 54dojy, 1474805574.0, 4
+268, [BREAKING: Obama BUSTED Giving $29 Million Taxpayer Dollars To HILLARY... This Is TREASON], 51twf9, 1473400857.0, 4
+269, [I found a copy of Donald Trump's secret campaign strategy. This explains a lot!], 4w5t2n, 1470361853.0, 4
+270, [Get this to r/all,Trump took a picture with a white supremacist], 4u6gva, 1469271990.0, 0
+271, [British Liberals respond to Trump #Brixit tweet.], 4ppm6l, 1466836289.0, 5
+272, [What do Trump supporters think of him kicking the baby out of his rally?], 4w0llq, 1470284309.0, 0
+273, [No one is talking about the latest wiki leaks dump on here yet?], 584v50, 1476838287.0, 5
+274, [I'm still undecided on this election but I do find it funny that everyone on the left was talking about McCain's health the entire election and how he might not even live to see the inauguration. However, now once a person of the left is (possibly) Ill no one on the left wants to talk about it.], 57ps9y, 1476618471.0, 4
+275, [BREAKING: DONALD TRUMP CONFIRMED GAY!!!! BTFO!!!! TENDIES!!!!! REEEEE!!!!!], 54z970, 1475133265.0, 6
+276, [Donald Trump is going to really make America again SUPER POWER], 5374sz, 1474146215.0, 5
+277, [Our Dorm Just Got a New Dot Matrix Printer], 4jotsd, 1463482160.0, 2
+278, [Painful], 4h1rcq, 1461996121.0, 4
+279, [Open Your Eyes: A Letter to the Blind], 4v198r, 1469748327.0, 22
+280, [Shit Trump Supporters Say...], 55owx3, 1475545802.0, 13
+281, [Clinton's slaughter of the overfed pig Donald Trump in first debate compared to Roosevelt's historic 1932 debate massacre against Adolf Hitler, Lincoln's piece-piece destruction of Jefferson Davis in 1864.], 54xm6i, 1475113807.0, 10
+282, [Trump to be honored at upcoming World Rapist Convention along with Bill Cosby, "Wow, what a bigly honor!" says Trump], 59d4pu, 1477453800.0, 0
+283, [Amazon caught deleting bad reviews of Hillary's new book.], 54piyq, 1474990929.0, 0
+284, [Having sex with Jabba the Candidate must be like having sex with Louis C.K.], 5950wx, 1477350841.0, 0
+285, [Wait.. this is news? I thought it was my favorite reality tv show!?], 58wijp, 1477217175.0, 3
+286, [Explanation of the first Clinton-Trump debates from an economic perspective], 55o4xb, 1475536752.0, 3
+287, [Googletown], 54me8s, 1474946803.0, 0
+288, [HILLARY DID HARAMBE], 4w5n3u, 1470359976.0, 0
+289, [Black Trump Supporter DESTROYS liberal triggered cuck protesters at RNC, and proves SHILLARY should be in a political prison camp with her supporters], 4u8sd0, 1469318646.0, 1
+290, [Newport Beach, CA], 4q0jwl, 1467015736.0, 2
+291, [It just got 10 feet taller.], 4kc36a, 1463833313.0, 4
+292, [Everyone is surprised that Trump won the primaries and he's just like:], 4hvwjq, 1462415490.0, 3
+293, [What is Donald trumps tax plan?], 4h7un5, 1462107854.0, 4
+294, [I was unsubscribed from r/thedonald, after i didnt use this account for like a couple weeks. Any reason why?], 4gov2n, 1461798074.0, 2
+295, [Cybersecurity experts discuss the security of Americas electronic voting systems by breaking down vulnerabilities at the state, local and manufacturer level], 595jke, 1477356186.0, 0
+296, [MASSIVE TRUMP RALLY! ALL ABOARD THE TRUMP TRAIN!], 588m4h, 1476882172.0, 0
+297, [Trump odds fall below 10 percent, sorry guys!], 5746ms, 1476309503.0, 11
+298, [Pence out, Pepe the white Supremacist frog in as Trump running mate; "Even the rats are fleeing this sinking ship! Escape for your lives while you still can!" explained Pence, aghast after the Trump's unhinged performance at the second presidential debate], 56putp, 1476096730.0, 0
+299, [Donald Is a Great Leader. This video is its proof], 52ulur, 1473943250.0, 0
+300, [T R U M P W A V E], 52rv7v, 1473905758.0, 0
+301, [The Donald into a Box,], 51ae9i, 1473124050.0, 0
+302, [The Donald into a Box, shipping your way], 51a39f, 1473120439.0, 0
+303, [How my vote will change to Trump], 4v7qvx, 1469842049.0, 0
+304, [Pussy Riot - Putin will teach you how to love /     ], 4uxi5f, 1469688986.0, 0
+305, [Cool animated Trump speech on national security], 4uvqdc, 1469668515.0, 0
+306, [donald with the real news], 4tn88o, 1468987860.0, 0
+307, [Make Space Great Again], 4nv7jm, 1465846532.0, 0
+308, [Fox News Poll: Voters trust Trump on economy, Clinton on foreign policy, nuclear weapons], 4k7ch7, 1463762836.0, 0
+309, [I want to see a HIGH ENERGY rally during the first two weeks of June. Where should I go?], 4ddsy4, 1459842078.0, 0
+310, [Fascism], 4y22vw, 1471413052.0, 29
+311, [Hillary Clinton devastated after "pardon me" joke by Trump at Al Smith Dinner], 58m6ws, 1477067392.0, 4
+312, [They named the new Street after Hillary], 559jee, 1475291632.0, 0
+313, [Michigan student successfully changes preferred pronoun to 'His Majesty' on class roster], 556l89, 1475244161.0, 1
+314, [The Donald], 54vuvp, 1475090864.0, 0
+315, [Buba Trump at Fort Myers Beach, FL on 9.25.2016], 54l8tv, 1474933813.0, 0
+316, [It has happened!], 549lda, 1474741435.0, 2
+317, [TiReUMP], 51ullc, 1473409847.0, 3
+318, [Trump voters are just Hitler dindus], 500vwn, 1472440347.0, 0
+319, [Donald Trump - Build That Wall Dance Song Comedy by DJ 2 Tal], 4xw41b, 1471327513.0, 4
+320, [Punking the Trump-Haters], 4v34s9, 1469770571.0, 0
+321, [Why Donald Trump is ACTUALLY Batman], 4t5tt8, 1468722999.0, 0
+322, [Good ole Milo "Hitler was a Muslim"], 4qs3w2, 1467413302.0, 0
+323, [Now what?], 4qnbzs, 1467341615.0, 0
+324, [The Donald at his finest], 4ppbu3, 1466832557.0, 1
+325, [In every report I ever heard Bill was always the receiver.], 4lpswn, 1464647982.0, 1
+326, [Ha! Almost made it to the top .. Just a little bit more.], 4jpc21, 1463490581.0, 0
+327, [I made some pictures you guys might like], 4bqs66, 1458836869.0, 1
+328, [MUST SEE!!! SHOCK VIDEO : Ex-Bernie Supporters Say They'll Vote for Trump NOT Hillary], 4vbkug, 1469903525.0, 6
+329, [Null, calm your shit, you're making us look like speds again], 5997k1, 1477398405.0, 0
+330, [Razing Hitler's House (Trump plans "pilgrimmage" to the Fuhrer's birthplace before it is torn down)], 58lswc, 1477059169.0, 1
+331, [Donald Trump Running Insecure Email Servers], 58ihsu, 1477016938.0, 2
+332, [#trumpforboobs], 57h4rm, 1476490157.0, 1
+333, [Trump's New Poster], 56p6us, 1476087921.0, 1
+334, [[NSFW] Cam girl impersonating Trump tonight], 555uyh, 1475231449.0, 0
+335, [Trump and Family Values], 527adq, 1473602306.0, 1
+336, [The video the Hillary Campaign is trying to suppress. Freedom is actually falling before her.], 51rwvo, 1473377994.0, 0
+337, [Donald Trumpet], 50mp41, 1472757989.0, 2
+338, [Donald Trump halves Hillary Clinton's lead], 503mia, 1472479710.0, 1
+339, [Why did Democrats hijack this forum?], 4va9yc, 1469876286.0, 1
+340, [I gotta say, I just got banned;)], 4ujfl5, 1469492487.0, 1
+341, [This post will trigger cucks], 4u8pa7, 1469317412.0, 0
+342, [Liberals have such great and mature attitudes], 4rripa, 1467961849.0, 0
+343, [Trump gets it right on Saddam], 4rnkfu, 1467910202.0, 2
+344, [TIL the clintons know more people that have died of suicide, then I know people who have died of anything.], 4r1vep, 1467578571.0, 0
+345, [Donald Trump announces his candidacy in Rock Band], 4pr83g, 1466861936.0, 0
+346, [The debate we all missed out on...], 4ll2iw, 1464568171.0, 0
+347, [Always Reppin], 4ko6p3, 1464042481.0, 0
+348, [So do y'all like or make fun of trump here ?], 4knxwy, 1464039154.0, 2
+349, [Request], 4kfkr3, 1463895082.0, 2
+350, [What has Trump said about student loan debt? It's one of my major concerns as a student who is about to graduate and is concerned after making a poor choice in my major.], 4hu8i8, 1462393722.0, 1
+351, [Amanada(39) is 5 miles away. Wanna hang out?], 4cczbq, 1459239223.0, 0
+352, [Tommy Robinson on Cologne (New Years Eve Attacks)], 4c6fgi, 1459129587.0, 1
+353, [ISIS withdraws Donald Trump endorsement after seeing Trump sex tape: "We can no longer in good conscience endorse this depraved man."], 574n72, 1476314843.0, 20
+354, [How Dare this disloyal man and some washed up magazine put down the Trump! Trump's co-author lies about Trump!], 4tgepx, 1468892626.0, 8
+355, [TIL that Tommy Chong named something special after Donald Trump], 4pgcir, 1466711706.0, 9
+356, [Bill Clinton recieves 1 million USD from Qatar as a Birthday present. MEDIA IS SILENT.], 57g39a, 1476476984.0, 16
+357, [is this page ironic or something?], 4u1pxq, 1469203160.0, 3
+358, [hi every1 im new], 4lgov3, 1464485276.0, 4
+359, [When 19 year old college kids realize they have no job], 4i3e2u, 1462533365.0, 0
+360, [Trump's broke and stealing his own money. What a loser.], 4p54gx, 1466551254.0, 10
+361, [Trump and Hillary had the time of their lives], 572d1g, 1476274843.0, 6
+362, [Trump gave at least $100K to Clinton Foundation], 4vmcm2, 1470085034.0, 5
+363, [], 4r2w9n, 1467595596.0, 8
+364, [EVERYONE HERE!!!!! YOU ARE LOOKING FOR /r/THE_DONALD], 4b23en, 1458397131.0, 8
+365, [Clinton's Corruption Level], 580mlv, 1476776001.0, 0
+366, [Trump found openly weeping after debate. 'I've lost; I have nothing to live for! Waaaah!"], 54x2y1, 1475107584.0, 0
+367, [Media coverage over Trump in a nutshell], 4y8mks, 1471501992.0, 0
+368, [Finally...Google admits to helping Hillary sabotage Bernie and Wikileaks catches Facebook in the act censoring for Hillary too. Here is proof they will do same to Donald...], 4v1ods, 1469753226.0, 2
+369, [Milo as Minister of Propaganda], 4ov6mx, 1466398991.0, 4
+370, [:p], 4gmlxl, 1461755483.0, 3
+371, [Drumpf sticks by his guns and won't talk about things he doesn't know about], 48b80i, 1456794659.0, 3
+372, [Shut up with your whining, this is what happens when you bring hate to people.], 4a3dh3, 1457806960.0, 69
+373, [let's face it : most internet people behind trump are unfit for society even if they are young white males], 59osba, 1477613054.0, 0
+374, [Trump and Pence Logo *Funny*], 4tixz1, 1468925311.0, 11
+375, [Grab em by the P*ssy - New Campaign Song], 56lxi4, 1476043865.0, 16
+376, [Yall are done you know that right?], 56owgt, 1476084035.0, 133
+377, [Here are a few fact about the Republican Nominee, Donald Trump and a brief insight into his life prior to becoming the candidate for the 2016 US Presidential election.], 5a6c7c, 1477867852.0, 0
+378, [Fraud and The Election], 58uunz, 1477194494.0, 4
+379, [Trump fails to understand cameras can see him], 574cn4, 1476311520.0, 6
+380, [I have got to get me some of these.], 55mlh5, 1475508222.0, 7
+381, [....And the Turtles are going to pay for it!!! *belch*], 4i6jus, 1462589929.0, 0
+382, [Trump is a womanizing, retarded faggot who needs to die along with all the subs and mods of this sub], 4w88kn, 1470392977.0, 42
+383, [I wonder who this could be...], 59yzli, 1477745678.0, 0
+384, [Final bets on how many states Trump will win?], 59k5i1, 1477545487.0, 0
+385, [Trump shares bold new plan for the "Final Solution" to America's Mexican Problem: "My final solution will make Hitler's look like mere child's play by comparison, it's going to be terrific. If you liked Nazism, you're going to love this. "], 588kmk, 1476881440.0, 0
+386, [Trump: I Know That Was Pretty Bad, But Lets Just Say Youre Going To Want To Save Your Energy], 57l8vp, 1476549626.0, 4
+387, [Kardashian Might Vote For Trump], 54bwg1, 1474777670.0, 4
+388, [:O], 51j553, 1473245983.0, 0
+389, [I'm a Sanders supporter. Tell me why I should vote Trump over Clinton.], 4ndcws, 1465540846.0, 5
+390, [The irony is that The_Donald bans any dissenting opinions.], 4j7yj3, 1463196434.0, 3
+391, [Ted Cruz 4 Pres], 4hva1e, 1462408101.0, 0
+392, [The Millennial Case Against Trump: "He's literally Hitler!"], 4dfaol, 1459867426.0, 0
+393, [The Orlando shooters father once hosted an Anti-American television show.], 4nvrjq, 1465855526.0, 8
+394, [Cruz tried to pass anti-masturbation legislation. Is Trump Pro-masturbation?], 4eqtxc, 1460664669.0, 0
+395, [Donald Trump confirmed for the new Pokmon series!], 4vnnv1, 1470101281.0, 13
+396, [Homeless woman guards Trumps Walk of Fame star], 59vg4b, 1477701768.0, 3
+397, [10th woman steps forward to say "I was raped by Donald Trump"; Trump now on pace to pass Bill Cosby's mark by end of 2017], 58knpw, 1477041892.0, 4
+398, [Trump Sniffing for 2 Minutes], 572bch, 1476274125.0, 3
+399, [What is the Donald doing right now?], 4x9687, 1470965175.0, 0
+400, [Trump out of context], 4x2etm, 1470868475.0, 0
+401, [Donald Trump is getting zero percent of the black vote in polls in Pennsylvania and Ohio], 4sqr6j, 1468489535.0, 4
+402, [Well that was easy...], 4pwbdj, 1466946646.0, 6
+403, [Daily Reminder: MEME MAGIC IS REAL], 4mwk5l, 1465291860.0, 5
+404, [Just wanted to say thanks], 590ert, 1477281517.0, 0
+405, [Wot?], 58utdp, 1477194055.0, 0
+406, [Clinton Campaign appears to feed NBC's Andrea Mitchell questions via cell-phone], 58ot31, 1477103562.0, 2
+407, [Donna Brazile denies giving Hillary debate question in advance], 58mexu, 1477072387.0, 2
+408, [ohhhhh Hillary...], 580mv9, 1476776089.0, 0
+409, [My reaction when its 60 days till the election and everything is coming up Trump.], 52jscv, 1473791615.0, 2
+410, [I'm sure you guys are too busy making memes and photoshopping pics of $hillary, but you might want to make sure the voting machines used in the general election aren't made by a company that pays large bribes to the clinton foundation.], 4uqtpx, 1469594388.0, 2
+411, [I want Donald trump to bend on one knee and call me daddy.], 4t2s2m, 1468666634.0, 0
+412, [Charge Hillary Rodham Clinton pursuant to 18 U.S.C. 641, 793, 794, 798, 952, and 1924], 4ri6z8, 1467836168.0, 0
+413, [Bern Victims Angry Their Donations Aren't Going Where They Planned], 4nhf4x, 1465608571.0, 0
+414, [Just a quick survey], 4n9wpj, 1465489792.0, 4
+415, [The only reason I'd vote for trump], 4kn9wd, 1464027157.0, 3
+416, [Kid talks about Trump in his graduation speech!!! EPIC], 4kjt2r, 1463970789.0, 1
+417, [Just going to leave this here.], 4jl2d2, 1463432921.0, 2
+418, [Check out /r/trump], 4jees4, 1463310505.0, 0
+419, [Trump is love, Trump is life], 4j17j1, 1463095623.0, 3
+420, [It's not whether you win or lose...], 4it8sb, 1462969180.0, 0
+421, [Crybaby Culture: How Political Correctness is Ruining Society WE NEED THE DONALD], 4hvmqw, 1462412246.0, 3
+422, [TEPID], 4h7g64, 1462099707.0, 0
+423, [The Wall], 4ffwpq, 1461068029.0, 2
+424, [Whiskey and the morning after: Yes, Virginia, There Are Liberal Bullies], 4ch5p3, 1459309736.0, 0
+425, [Watch "LIVE Stream: Donald Trump Rally in Phoenix, AZ (3-19-16)" on YouTube], 4b3td8, 1458435369.0, 1
+426, [Anti-Donald Trump Black Lives Matter Activist Is 'Hell Bent On Inciting Riots'], 4au57x, 1458264254.0, 0
+427, [As an ex-bernie supporter...], 5aewm9, 1477975956.0, 0
+428, [How can I reconcile my love for the 2nd amendment and Donald Trump wanting to use Stop and Frisk in cities that outlaw guns?], 54efyo, 1474823989.0, 7
+429, [Racism does not exist], 53herq, 1474318654.0, 0
+430, [Mt. Rainier rockin' The Donald], 4epwqy, 1460643703.0, 0
+431, [Don't vote this election!], 58c727, 1476933561.0, 0
+432, [Are you doing your part to Grab America By The Pussy?], 56ialu, 1475980398.0, 15
+433, [It's time to un-cuck, Trump supporters], 567z9w, 1475819544.0, 0
+434, [I painted a Donald Trumpkin for you guys!], 586kjc, 1476855703.0, 5
+435, [Donald Trumpet], 50kcxi, 1472717071.0, 4
+436, [Jewelry company publicly shames Ivanka, violates customer privacy], 4yf3wh, 1471586759.0, 4
+437, [Diving is Huge], 4xwwih, 1471338343.0, 3
+438, [There's a guy climbing Trump Tower...With Suction Cups!], 4x4jd8, 1470893492.0, 3
+439, [i like donald trump], 4slv1w, 1468422689.0, 2
+440, [So this is why our handlers in DC are throwing everything in at the Don to keep him out of office...(i made this feel free to share)], 4l5f8r, 1464299940.0, 0
+441, ["I believe in the fullest liberty within our own borders; and therefore I believe in efficiency in preparedness to prevent the restriction of this liberty by people outside our own borders." - Donald J Trump 2016], 4hmpny, 1462301939.0, 3
+442, [Donald Trump Used Legally Dubious Method to Avoid Paying Taxes], 5ahdbo, 1478005129.0, 1
+443, [South Korean Shadow Cabal], 5a0ki2, 1477778631.0, 0
+444, [Hackers can leverage lots of technical vulnerabilities to affect election results. But a coordinated attack would be tough, due to voting systems' fragmented nature.], 59vdc7, 1477700979.0, 0
+445, [Trump knows how to party], 59cbty, 1477445357.0, 0
+446, [This is what The Donald is going to do to Hillary in the polls], 57jusk, 1476523050.0, 0
+447, [Stone cold should be the GOP nominee. It's all in the video. I want a winner. Not a "stunner"], 56x8kr, 1476207572.0, 0
+448, [Hillary's globalism = The trickle-down version of Trump's America First plan], 56tz16, 1476157752.0, 0
+449, [#thuglife], 56krrx, 1476016251.0, 1
+450, [Exciting post-debate Electoral College map released!], 54xkri, 1475113346.0, 0
+451, [Hillary And Her Demon Spawn Chelsea], 52tj5a, 1473926540.0, 2
+452, [Topple Trump! | It's The Game You'll Love To Hate], 52eoaq, 1473720368.0, 3
+453, [Im not recommending /r/hillaryclinton because it reeks of saphic residues and the christina aguilera is deafening, but my life is fulfilled to see the litany of beaver tears about Matt "wake-up-white-people" Lauer], 51s9lt, 1473382193.0, 0
+454, [The Misunderstood Racism of the 2016 Election], 50o3q0, 1472776505.0, 0
+455, [The 25 questions Hillary Clinton must answer UNDER OATH on her secret server www.dailymail.co.uk], 50ei82, 1472633612.0, 2
+456, [New National Parks], 4uxiad, 1469689038.0, 1
+457, [Tom Barrack paid homage to Roosevelt by referring to Trump as the Man in the Arena. I think all Trump haters should think about this], 4u0flr, 1469180509.0, 0
+458, [I think so, Brain, but how will we get a pair of Abe Vigoda's pants.], 4tmxv3, 1468984642.0, 0
+459, [Sanders Supporters over at SFP. DELUSIONAL!], 4ss35l, 1468510859.0, 2
+460, [Build a Great Wall by SESTA X], 4ru43j, 1468004005.0, 0
+461, [Have any previous major party candidates been pro-torture?], 4rpl3a, 1467939018.0, 0
+462, [Trump Causing a Lump in Hillary's Throat], 4rhu2p, 1467829055.0, 2
+463, [The Blacklist S04E01: Hillary Clinton], 4qv7wi, 1467453006.0, 0
+464, [Faisal Islam on Twitter: "US Presidential candidate Donald Trump in Scotland, says "it's a great thing" that Britain has "taken back its country""], 4plwag, 1466786803.0, 0
+465, [Would one of you fine gents send me the gif with the journalist cuck an his quote next to the 7 yr old shooting an AR? Thank you kindly.], 4p8cvj, 1466590402.0, 0
+466, [Hillary Clinton is Evil! (REMIX)], 4p7y3h, 1466584460.0, 2
+467, [Donald trump .999 Silver bullion round by silver shield], 4op5ce, 1466295879.0, 0
+468, [Trump not taking back 9/11 Muslim claims during heated 'Meet the Press' interview], 4jbvn1, 1463269343.0, 0
+469, [Donald Donald Donald can't you see], 4j6jtp, 1463178296.0, 0
+470, [Make doge great again!], 4i8sxk, 1462626625.0, 0
+471, [Trump + Aliens = The Truth. Basic Math!], 4hqocr, 1462341015.0, 0
+472, [Carl the Cuck - Skrillex edition], 4dxio8, 1460166306.0, 1
+473, [Michelle Fields "GrabGate" Raw Footage Collage Sync'd w/Audio. All Available Video Included], 4dprr1, 1460036891.0, 0
+474, [Serious no based question], 4deob7, 1459855259.0, 0
+475, [Has Donald Trump Ever Used a Computer? Gizmodo Investigates], 48quki, 1457015515.0, 0
+476, [Trump Card 2016 Trailer [2:29]], 48eagn, 1456831959.0, 1
+477, [Congrats r/theDonald from r/sandersforpresident on your yuuuge win tonight and becoming the presumptive nominee.], 4hsa9m, 1462355208.0, 13
+478, [Major Trump announcement: "I am dying and have entered irreversible cognitive decline. Please fulfill the last wish of this dying old man and make me president. I am begging you."], 54xk6k, 1475113159.0, 11
+479, [Is Trump Mormon?], 57vk51, 1476707135.0, 0
+480, [Live online presidntial Debate meter?], 54o8pb, 1474969582.0, 0
+481, [25 Logical Reasons to Vote for Donald Trump], 51rvcd, 1473377470.0, 4
+482, [Was curious what trumpsucks.com would bring up. Got redirected to hillaryclinton.com.], 4zqcy1, 1472268134.0, 6
+483, [Is Donald Trump Secretly Hoping to Lose His Bid for the White House?], 4w9iyw, 1470416501.0, 7
+484, [Does Trump have an evacuation plan if Hillary's ass gets any bigger?], 4pnxby, 1466816251.0, 6
+485, [Arm the Mexican rapists?], 4dn8od, 1459998243.0, 7
+486, [Saw this driving through Virginia. Thought you guys would enjoy.], 56mhp1, 1476053615.0, 8
+487, [PEPE!], 54o36y, 1474967571.0, 0
+488, [As an ex-conservative who has moved to the left slowly overtime...], 4glvkn, 1461745395.0, 8
+489, [Dear America,], 4hssh8, 1462362748.0, 20
+490, [Fbi finds 15,000 more emails from Crooked Hillary's private server.], 4z4ouc, 1471954648.0, 12
+491, [A Veteran Spy Has Given the FBI Information Alleging a Russian Operation to Cultivate Donald Trump], 5ah6c7, 1478002056.0, 0
+492, [Anybody wanna compile a list of Hildabeast violations?], 5agrkm, 1477996633.0, 0
+493, [Peanut butter vandal mistakes gathering for Trump rally], 58n4jj, 1477084389.0, 0
+494, [Breaking: Ronna Removes Wendy Day From MIGOP Over Refusal To Back Trump], 580qo8, 1476777456.0, 0
+495, [Great Wall, by New Folder], 57kiei, 1476533675.0, 0
+496, [Democracy: A system of government in which we do not throw our political opponents in Prison, or grab female voters by the pussies. Trump aligns himself with Putin, Kim Jong-Un, vows to create new axis of evil that would make Hitler-Stalin-Mussolini-Tojo alliance "mere child's play" by comparison.], 56rpz8, 1476131484.0, 0
+497, [Rebranding Common Core], 52rhfk, 1473901211.0, 0
+498, [Islamic State calls slain Muslim American soldier an "apostate"], 4viugb, 1470025581.0, 0
+499, [9 minutes ago Tom Barrack: " We are at a tipping point, the world is a mess... globalism has crumbled and shattered into a thousand shards, and it needs a jeweler to put it back together... starting with the diamond of America... "], 4u0hgn, 1469181256.0, 0
+500, [First Award Goes to:], 4tynaj, 1469156777.0, 0
+501, [Donald's Right Eye?], 4tp3ea, 1469012581.0, 0
+502, [Made a little trumpilation], 4s5beb, 1468183041.0, 0
+503, [House Intel and Benghazi Committee Member Mike Pompeo On Hillary's Probable Perjury to the Benghazi Committee Under the False Statements Act  The Hugh Hewitt Show], 4rqucg, 1467953385.0, 0
+504, [Check out /r/Trump for up-to-date news, campaign info, and discussion.], 4i7g1p, 1462602380.0, 0
+505, [Found this game about trump, was fun], 4i736k, 1462597110.0, 0
+506, [My friends and I wrote recorded a dramatic ballad about Donald Trump and Marco Rubio.], 48uymx, 1457081371.0, 0
+507, [What's up you fucking retards?], 53k0bv, 1474350282.0, 9
+508, [Trump Exposes His Own Lies! On Iraq, Libya, Hillary, Immigration, Abortion, Health Care, Nukes, Etc. - All In His Own Words], 4u9ksm, 1469329615.0, 10
+509, [The irony is that The_Donald bans any dissenting opinions.], 4mr155, 1465212706.0, 9
+510, [Goodbye], 56xo78, 1476216715.0, 0
+511, [Americas Largest Police Union Endorses Donald Trump For President], 53k06h, 1474350234.0, 4
+512, [The Trump you know and love.], 4yeizm, 1471580375.0, 2
+513, [Where can I find 4x8 yard signs?], 4ybz7a, 1471552091.0, 0
+514, [Election Update], 4wjdpd, 1470571846.0, 2
+515, [What would you give Hillary out of 10 in looks?], 4w7j9p, 1470382771.0, 0
+516, [A lil lighthearted fun], 4uyyeq, 1469709991.0, 0
+517, ["Trumpkins" unite! LOL], 4s8k0r, 1468230420.0, 5
+518, [Americans are the Dumbest Nation of Liberals], 4pq0xl, 1466842084.0, 0
+519, [I'm all for freedom of expression, but this is vandalism. Why aren't the NYPD going after these guys?], 4n1a66, 1465361705.0, 4
+520, [Hello Hilary haters. I'm eager to read your counter arguments.], 4mqq5h, 1465208255.0, 0
+521, [Trump showing Bernie what the wall should look like], 4lyirm, 1464770125.0, 3
+522, [Feel the Trump], 4kplku, 1464059159.0, 0
+523, [MAGA], 4j922g, 1463211792.0, 5
+524, [Peter Thiel to back Trump as GOP presidential candidate], 4irktc, 1462944896.0, 0
+525, [This is why Donny sill save us], 56tkhb, 1476153580.0, 19
+526, [Drink It Up!], 49wut3, 1457694849.0, 7
+527, [Dont Be a Sucker 1947 Civil Defense Film (obscuremedia xpost)], 59my3r, 1477586221.0, 0
+528, [So it's all gone quiet here. The calm before the storm, or the sitting in disbelief? Can he still stand?], 56ld9u, 1476029569.0, 5
+529, [Tips for Next Time], 54pysc, 1475001453.0, 5
+530, [SHIT SHIT SHIT SHIT SHIT SHIT], 4w6ytg, 1470375549.0, 6
+531, [Please share!!! This was taken by a friend. It was deleted by Facebook and he was put in FB timeout for calling her out! God bless the BLUE!!], 4ue62h, 1469411465.0, 0
+532, [NFL Legend Hershel Walker Supports Trump  and He Says There Have Been Consequences | Video], 4q306q, 1467058272.0, 4
+533, [Podcast blames guns and Trump for politicizing Orland shooting.], 4nyti0, 1465893774.0, 0
+534, [My Dad After Cruz Loss], 4hynns, 1462456514.0, 0
+535, [Trump concedes Election: "Go home, folks. It's over. We lost."], 5605wa, 1475711720.0, 11
+536, [Game over, Trump-heads!], 55hvhv, 1475436784.0, 21
+537, [Tonight Debate. Brave Cuban.], 54nfyi, 1474959068.0, 0
+538, [Things I Trust More Than Hillary Clinton], 52ra8m, 1473898767.0, 9
+539, [If your country's #1 enemy is supporting your Presidential candidate you are screwed!], 4vmkt1, 1470088163.0, 18
+540, [Masturbation. Up vote this to make this the top result of masturbation on Google.], 4knzwl, 1464039916.0, 22
+541, [This subreddit's design is about as shitty as your candidate], 4t6wlu, 1468737963.0, 43
+542, [Obamacare plan 2017 - $1800/month BCBS. ! Vote !!!!!], 58nrsv, 1477092111.0, 7
+543, [You guys gotta read how those losers at The_Donald defend this POS. They are ignorant, deluded and outright pathetic. The lowest of the low.], 56fvjl, 1475937695.0, 8
+544, [FBI says it has posted additional Hillary Clinton documents. Email out at 5:36 pm. It's Friday], 547ax0, 1474697623.0, 6
+545, [My favorite type of trump supporters are the black ones, its like finding bill's cock inside hillary during the 90's], 4g4c94, 1461460581.0, 7
+546, [WikiLeaks CONFIRMS Hillary Sold Weapons to ISIS - AMERICAN FANS enjoy while visiting us], 5a2y7c, 1477808101.0, 19
+547, [Trump publishes new book on eve of election "Donald J. Trump's OFFICIAL guide to Not paying taxes for YEARS (IT'S GENIUS!): A Trumpian Primer on stealing from the poor"], 57ucvk, 1476690210.0, 0
+548, [New to this sub. Totally outraged], 54s4k4, 1475030884.0, 0
+549, [The Bible Endorses Donald Duck], 4wyyvd, 1470811099.0, 0
+550, [I think Trump's hair is silly.], 4w7hvc, 1470382263.0, 6
+551, [Shit The_Donald says], 4viq2i, 1470023930.0, 4
+552, [I'm British. Anyone fancy buying me 231 days of Reddit Gold so I can filter American politics off my /r/all?], 4be14q, 1458619873.0, 0
+553, [Trump presidency "means death for us all", say nation's top scientists], 5ahjvn, 1478008347.0, 0
+554, [Are posts being removed?], 59bpbx, 1477438863.0, 2
+555, [Can Politicians hack into the election computers? Yes they can. A view by Cybersecurity Expert during interview on Fox News], 58gvb4, 1476999498.0, 1
+556, [The nice thing trump has to say about Hillary], 56pv3s, 1476096819.0, 0
+557, [TIME2MAGA Watches - TRUMP MERCHANDISE. We now offer a range of donation options! Give this a SHARE and get them out there !], 54ej76, 1474826531.0, 0
+558, [Donald J Trump Presidential Q&A ends in Mic Cut], 53l36i, 1474364775.0, 3
+559, [X-Post: A European asks for a serious insight to why you are voting for Trump and what is wrong with the Presidential narrative], 536ypz, 1474142914.0, 3
+560, [Evidence on Reuters bias?], 51cm0d, 1473151740.0, 2
+561, [I think ugly people are okay. Am I a communist?], 50a5mc, 1472575951.0, 0
+562, [Make America Great Again Music video], 4zv4cq, 1472346345.0, 3
+563, [Build-A-Wall Workshop], 4wj7ep, 1470568605.0, 2
+564, [Wasn't it originally Crooked Bill?], 4wdb18, 1470468575.0, 0
+565, [Carlton is all of us], 4w7rx3, 1470386011.0, 2
+566, [Opinions of Ted Bundy?], 4w7rfu, 1470385817.0, 1
+567, [Test post, please ignore], 4uhxn8, 1469471581.0, 1
+568, [I never knew this incredible song existed, this is Donald Trump's theme song when he's president 100%.], 4sd1ag, 1468297025.0, 3
+569, [Pull in case of Trump not being the nominee], 4r8dt9, 1467683764.0, 0
+570, [Can we make a bot that adds 10ft. to the wall whenever someone says Drumpf?], 4p4yve, 1466549341.0, 2
+571, [#redpillnormies], 4lzm6q, 1464786276.0, 1
+572, [Berniebots trying to control the world yet again.], 4klu9m, 1463999746.0, 0
+573, [I would just like to thank the cucks...], 4kbj8v, 1463823484.0, 2
+574, [Standards are great, double standards are twice as great], 4jfhib, 1463334929.0, 2
+575, [Jeb Bush "Will not support Trump"], 4i7s3l, 1462607706.0, 1
+576, [Donald Trump Childhood Video Released! (420).], 4hsee6, 1462356776.0, 0
+577, [American in sweden with some questions about policies. I'm not condemning!], 4h72g1, 1462093061.0, 2
+578, [If passed, The "Protecting Workplace Advancement and Opportunity Act" will only hurt middle-class America. This is The Grand Slam home for Trump], 4glgpe, 1461739689.0, 2
+579, [Why shouldn't both, the woman and person doing the procedure, be punished for an abortion?], 4d05u2, 1459601745.0, 0
+580, [Hands too small to shake], 48zh4q, 1457156553.0, 2
+581, [If Trump becomes the president...], 48z19h, 1457150825.0, 2
+582, [Any Mormons out there?], 485in0, 1456721770.0, 3
+583, [Grab'em by; the art of Katie B Funk], 58ejp1, 1476960254.0, 6
+584, [Quantum leap], 589eka, 1476898242.0, 0
+585, [Donald trump impersonator], 57kxaa, 1476541700.0, 0
+586, [What's your response when someone says Trump is Hitler replacing Jews with Muslims?], 57i8vs, 1476502377.0, 2
+587, [How many people here were supportive of Rand before they went for Trump?], 54vxdw, 1475092169.0, 4
+588, [Figured you guys might like our shirts], 4zkogi, 1472185814.0, 3
+589, [Who are the Cucks now?], 4zjt68, 1472176066.0, 2
+590, [Check out Liberty Viral for part two tomorrow!], 4z2l1o, 1471926291.0, 0
+591, [Updated Odds: Just What The Hell Is Trump Doing? Clinton plant? Or globalist bashing great-maker?], 4ygw14, 1471609368.0, 3
+592, [Test post please ignore], 4vkhbq, 1470049138.0, 0
+593, [Hillary Clinton Blames Whites, Cops for Deaths of Young Black Men], 4s2bau, 1468127853.0, 3
+594, [I can't ever tell if Bernie Sanders is giving a speech or trying to blow a hair off his nose.], 4k8qgu, 1463786654.0, 4
+595, [The NY Times believes in us], 4e0st4, 1460226389.0, 5
+596, [liberal arts college graduates in a nutshell], 4dtied, 1460096709.0, 0
+597, [As an illegal Mexican, Donald Trump has inspired me to leave the US and apply to come here legally], 4dmfgo, 1459987876.0, 4
+598, [Why this millennial, small business owner is voting for Trump.], 59qf44, 1477630070.0, 0
+599, [UNSUBSCRIBE FROM /R/NEWS, CENSORSHIP SHOULD NOT BE EMBRACED], 4nrdtx, 1465782851.0, 40
+600, [Moody's: Where Trump's Economic Policies Might Spark Recession, Clinton's Could Boost GDP And Lower Unemployment], 4w9ymr, 1470425907.0, 12
+601, [I hate this motherfucker right here.], 4w719l, 1470376355.0, 12
+602, [Your boy is a brokedick.], 4p5iik, 1466555746.0, 13
+603, [Bad Hombres], 58e4vx, 1476955619.0, 18
+604, [Proud to be a "Deplorable" stuck in a basket.], 56jp4a, 1475999064.0, 0
+605, ['We will NEVER accept EU migrants quota' Hungary to vote NO in next week's referendum], 54hubb, 1474875941.0, 6
+606, [So this happened.], 52ckcw, 1473682143.0, 9
+607, [Donald Trump will make anime great again!], 4wgk98, 1470529979.0, 7
+608, [Finally, Katrina Pierson is setting the stories straight!], 4vxzzd, 1470252138.0, 0
+609, [Portrait of the Donald created using only fish.], 4v3k3f, 1469776336.0, 5
+610, [Said the LOLiberal:], 4i25ld, 1462513664.0, 0
+611, [SUPPORT TRUMP], 4c4g3a, 1459082874.0, 41
+612, [Nothing to See Here! (From /r/news)], 4nqloj, 1465772786.0, 110
+613, [Trump booted a black man from his rally and called him a thug. Turns out he is a supporter. - The Washington Post], 5a6xtj, 1477875273.0, 0
+614, [Trump. Photo by Soraya Doolbaz [NSFW]], 4twwb3, 1469135563.0, 16
+615, [CAll To ACTION!!! PUMP 4 TRUMP!!! (Wiz Army Black Ops)], 5ab94x, 1477933174.0, 0
+616, [Love trolling Hillary supporters.], 5917xx, 1477291222.0, 0
+617, [Smash hit song by phenomenal musician and Trump supporter.], 582csu, 1476800153.0, 4
+618, [Post debate polls finally out today], 5571aw, 1475254410.0, 5
+619, [Always Choose the Johnson], 4vbeym, 1469899463.0, 4
+620, [Trump to pick Indiana Governor Mike Pence as VP], 4su5qe, 1468542636.0, 4
+621, [r/uncensorednews for all your news needs], 4nsgdg, 1465796817.0, 0
+622, [Donald J. Trump For President  /r/The_Donald], 4i0tu6, 1462496512.0, 0
+623, [Now the Germans are asking us to knock down our glorious wall PATHETIC!!!], 4hyq7f, 1462458197.0, 0
+624, [MFW people say there's only 5 or 6 months left of Trump memes], 4hp6xs, 1462329945.0, 4
+625, [Donald Trump gets taken down as activist hacking group Anonymous], 4avmp3, 1458284715.0, 5
+626, [Our Glorious Donald], 4a7mho, 1457885506.0, 4
+627, [#MakeGrabbingPussyGreatAgain], 56ytwu, 1476231568.0, 29
+628, [Trumps Right That The GOP Primary Is Unfair  It Favors Him], 4erxwm, 1460680005.0, 0
+629, [Trump Telling It Like It Is - He really TRUMPS THAT BITCH], 5a4jcu, 1477830988.0, 0
+630, [so like, in the event trump won, would they do something to prevent him from getting in office or even kill him?], 4wophu, 1470664426.0, 0
+631, [Welcome to the Oligarchy and you're all loyal schills], 4u7sfr, 1469300165.0, 6
+632, [I'm glad we can finally be honest about this sort of thing ;)], 4tzphw, 1469170223.0, 8
+633, [This has been fun, under each pro Hillary post I have been posting "this post has been paid for by Hillary's super PAC' and have been down boated in seconds.], 4gg2g9, 1461655674.0, 8
+634, [Trump!!!], 56psbw, 1476095877.0, 15
+635, [If Hilary Clinton was a cartoon...], 4ar22e, 1458209988.0, 11
+636, [The left is...too dumb for words.], 59ziny, 1477756600.0, 0
+637, [SURPRISE!!], 59z1cu, 1477746495.0, 0
+638, [DONALD TRUMP SAVES THE WHITE HOUSE!!!! :D:D:D], 58qjdh, 1477123843.0, 0
+639, [Why is this a pie chart? Theyre so dumb...], 54yh19, 1475123617.0, 0
+640, [This is the Donald after the debate], 54x1wa, 1475107267.0, 0
+641, [Donald Trump is going to really make America again], 52unbp, 1473944009.0, 3
+642, [Can we please have a true friend in Bender Bending Rodriguez a President], 525td3, 1473579247.0, 2
+643, [Unedited Proof Hillary Faked Opening the Pickle Jar], 516oqi, 1473061683.0, 4
+644, [I think ugly people are okay. Am I a communist?], 50a3ks, 1472574735.0, 3
+645, [Megyn Kelly being sent on a "vacation" by Fox News not likely to return. TRUMP WINS AGAIN!!], 502d6b, 1472460123.0, 0
+646, [It's all going according to plan], 4tr67s, 1469050851.0, 0
+647, [There was a fantastic video, the best, of everyone not believing in Trump, laughing at him Republicans and media trashing Trump with the end of the video showing Trump being declared the presumptive nominee and saying, "People used to laugh at me, they aren't laughing now."], 4sxr7p, 1468591465.0, 0
+648, [Donald Trump Rally Violence], 4sfc4v, 1468328691.0, 2
+649, [Eviction Notice To Obama and Establishment Start Packing - Judge Jeanine], 4pwebt, 1466948089.0, 0
+650, [Strange Request. Does anyone do a good impression?], 4p8lrn, 1466594229.0, 3
+651, [Does anyone want to go halves?], 4n9jdo, 1465481362.0, 1
+652, [Donald Trump + Sea Bears = A Hate for Sombreros], 4joukx, 1463482508.0, 0
+653, [Reporting in from the Eugene, OR rally. Can practically smell the art majors milling about outside. Will drop photos if shenanigans ensue.], 4i83gg, 1462613200.0, 5
+654, [Police for Trump!], 49fw5k, 1457428060.0, 3
+655, [Donald Trump POOPS on Sernie Banders], 44yxkq, 1455080693.0, 3
+656, [When youre a star, they let you do it. You can do anything. Grab them by the pussy. You can do anything.], 56n9ph, 1476063620.0, 16
+657, [An analysis of the FBI's investigation into Hillary Clinton.], 5ah8fl, 1478002910.0, 2
+658, [Two words], 59vtps, 1477705645.0, 0
+659, [Trump sounded great on the radio in Cincinnati this morning (listen)], 59b8hv, 1477433706.0, 0
+660, [Hopefully The Donald can put an end to this Docker madness! We can't have people from Assyria docking in our country! ISIS!], 5950ch, 1477350668.0, 0
+661, [Visit live-streams.us for a live stream of the rally + live tweets + chat!], 58uvcr, 1477194731.0, 1
+662, [The real Reason why Trump wants to keep out the Mexicans...], 56wpej, 1476194926.0, 0
+663, [RICKY VAUGHN TOP 150 ELECTION INFLUENCER BANNED PERMANENTLY FROM TWITTER], 56w585, 1476185180.0, 1
+664, [Fly photo bombs Clinton during tonight's debate!], 56q1vr, 1476099165.0, 1
+665, [Hip Hop Version - Grab-Em By the Pussy RAP], 56kyx2, 1476020082.0, 1
+666, [Share on SJW Sites, It Just Might Catch On | whatever], 53q1rq, 1474439486.0, 1
+667, [Can we start a movement? Baskets for Hillary], 5241tj, 1473556273.0, 1
+668, [Now 30 BENGHAZI.............................], 50eefj, 1472632224.0, 1
+669, [Trump+Hillary= This Song], 4wd6iq, 1470466825.0, 0
+670, [Looking for Someone?], 4wbkpx, 1470447235.0, 0
+671, [The smell of success.], 4uqjnd, 1469591147.0, 1
+672, [EleGgigle ForHead?], 4ufi97, 1469429363.0, 1
+673, [One simple reason for the outrage at Ted Cruz? Republicans wanted Trump as their nominee.], 4txus4, 1469147343.0, 0
+674, [X-post /r/ar15: the donald AR15 Lower], 4t50dv, 1468711951.0, 1
+675, [trumps cousin does you how to make fireballs with yer face!#], 4rfrtj, 1467793118.0, 0
+676, [So what immigrants are the British trying to prevent from coming to their country?], 4plegj, 1466777394.0, 0
+677, [Who do you think should win the 2016 presidential election?], 4kw1nl, 1464152501.0, 1
+678, [I think TheDonald would enjoy this], 4k6xxg, 1463754046.0, 0
+679, [Canadian Girlfriend Matches Americans Dodging Trump With Single Canadians], 4j7srd, 1463194277.0, 0
+680, [Indiana man arrested for threats against Donald Trump on YouTube], 4j2mi7, 1463112887.0, 0
+681, [Black cop's experience at a trump rally (not op of video)], 4i91mn, 1462632324.0, 1
+682, [Anti-Trump Gamers], 4de2z0, 1459846172.0, 1
+683, [what no one talks about is our cooperation with russia?], 49fvdi, 1457427747.0, 1
+684, [Can't stump the trump: the foolish guac bowl merchant], 48xbab, 1457127164.0, 0
+685, [Hillary Emailgate: How One Twitter User Proved The "Intent" That The FBI Missed After Months "Investigating"], 54ajwd, 1474759431.0, 13
+686, [This short video will unite Trump & Bernie supporters BIG TIME.], 4vsjcu, 1470174898.0, 0
+687, [Found on Bill Clinton's Pornmaster5000], 5965uw, 1477362455.0, 12
+688, [Liberal Plot: Reserve rooms then Cancel, order goods then return. Coordinated "flash mob" type DDOS.], 5aar5i, 1477922449.0, 0
+689, [Tomi Lahren, the Barbie Doll], 59sc9l, 1477653368.0, 0
+690, [what's a good bug out country if hillary becomes president?], 58efpd, 1476958995.0, 0
+691, [You're the puppet], 58e8co, 1476956688.0, 0
+692, [#DicksOutForDonald https://www.facebook.com/ybhsociety/], 56tfye, 1476152234.0, 6
+693, [Today I became a trump supporter after reach front page of reddit.], 56pc2d, 1476089968.0, 0
+694, [Post debate polls finally out today; new consensus electoral map of expert political analysts released!], 553kkw, 1475201731.0, 0
+695, [Fox news just mentioned that non trump supports are called cucks.], 4zf5y2, 1472105807.0, 5
+696, [WHY YOU SHOULD NOT VOTE FOR HILLARY (DUH)], 4y0e8i, 1471393881.0, 0
+697, [Now an arrest in LA], 4nrbnw, 1465782077.0, 0
+698, [I made this Hillary Count-Up Website and will update it regularly as she puts off things more and more. Enjoy :)], 4njt83, 1465643208.0, 0
+699, [Trump supporters being conned], 4m9c78, 1464929563.0, 5
+700, [HOW DEMOCRATS THINK  Depending on the Audiencs], 54erou, 1474832694.0, 0
+701, [Let us pause for a minute to recognizes the great sacrifices this man has made for our great nation.], 4vepbu, 1469952005.0, 9
+702, [[({Meta})] this sub is against trump, right????], 4tn5ju, 1468986983.0, 11
+703, [I want to meet Donald Trump], 4o1udh, 1465945831.0, 0
+704, [I think it is pretty obvious who Trump's VP should be....], 4i487x, 1462551771.0, 0
+705, [Amazing Quote], 4gbhat, 1461582628.0, 8
+706, [Do Sanders supporters have jobs? Serious question.], 49zh5k, 1457742233.0, 0
+707, [Trump Complains Entire Personality Rigged Against Him], 57l8dh, 1476549281.0, 16
+708, [Donald Trump is good], 4tru1e, 1469059138.0, 13
+709, [Embarrassing Trump Audio Exposes Him as Totally Clueless], 4c7y94, 1459153481.0, 23
+710, [how we can swing the election - a new argument and a new way], 5925o2, 1477303661.0, 0
+711, [Trainwreck], 56pf3h, 1476091162.0, 3
+712, [The Republicans should be renamed the New Trumpublicans! who is with me?], 56oob9, 1476081004.0, 0
+713, [The Trump Wall.], 56l5xp, 1476024360.0, 0
+714, [The Murdoch Murdoch gang redpills /r/TheDonald], 55arc7, 1475307804.0, 4
+715, [Hillary did not pass out!], 52dvgd, 1473708812.0, 4
+716, [Trump's Binders full of Women], 4zmydh, 1472216778.0, 3
+717, [Trump may not be the most successful business man even in his own district!], 4vf34u, 1469958144.0, 6
+718, [Don't mind me, just another friend looking for a ban], 4uh5n0, 1469456067.0, 4
+719, [Neighbors carved an "Easter Island Trump" head into a broken tree stump in the front yard. Other neighbors not happy about it.], 4u3t8k, 1469236025.0, 2
+720, [Stopped by the DC Department of Justice this morning with a message], 4r7qjl, 1467675573.0, 0
+721, [Donald Trump's plot to deport all Mexicans from America], 4qvylt, 1467465970.0, 0
+722, [Has the donald responded to the Scotland Tweets?], 4qk8vh, 1467296554.0, 4
+723, [Mundane Mitt Romney's Sports Authority Chain In Liquidation, Closing All Stores By August], 4pmpgv, 1466801526.0, 4
+724, [Clinton Emails on Film], 4nife5, 1465621210.0, 0
+725, [r/TheDonald keepin it classy using picture of dead Parisians on the floor of the Bataclan], 4f7psb, 1460945432.0, 4
+726, [On CNN just now Trump supporter at Rally on Hilary "put her in jail!" Trump laughs and repeats it!!], 49drb1, 1457401297.0, 4
+727, [Trump recorded saying "You can grab them by the pussy, you can do anything you want when you're a star" in 2005 hot mic], 56dtzj, 1475905221.0, 153
+728, [TRUMP IS DA BEST GO TRUMP], 597s9h, 1477379906.0, 0
+729, [Why does Donald constantly accuse Hillary of things Bill did while in office? Did she really have that much to do with his decisions?], 58k493, 1477034904.0, 8
+730, [Wow, I LOVED seeing Donny Boy channeling his inner Kim Jong-Un at the debate by threatening political imprisonment of his opponent! Stalin would be proud!], 56x745, 1476206555.0, 7
+731, [YOU CANNOT STOP THIS], 53huyg, 1474324875.0, 7
+732, [LEADERSHIP: Do we need a leader who specializes in deleting national security by BleachBit/Towel Wiping? And, she shows it off to awe-inspired mind numbed robots?], 50pjve, 1472792768.0, 7
+733, [Behold my friends, Crooked Hillary!], 4v3la6, 1469776781.0, 0
+734, [The Rise and Fall of the Republican Party], 4tvy83, 1469117174.0, 8
+735, [Also /r/trump ;)], 4nrn3w, 1465786088.0, 0
+736, [Robert Kagan: This is how fascism comes to America], 4kyd0b, 1464186940.0, 5
+737, [ELI5: I don't understand this picture. Why is it green? 1456319488666.jpg (20001333)], 4jao92, 1463243903.0, 7
+738, [Why aren't you guys helping out Sanders more?], 4f8wf8, 1460961987.0, 6
+739, [What should we all do if/when Trump loses? Join the Klan? Any other ideas for like-minded organizations we could join to keep the Trump White Power Revolution alive? Thanks for your help, friends!], 572h9p, 1476276854.0, 28
+740, [On this halloween day, The Donald gets to meet his spiritual father], 5aclsj, 1477953825.0, 0
+741, [Richard Branson Meeting Donald Trump], 58q9qu, 1477120336.0, 11
+742, [Anon climbs Temple Mount in a Trump t-shirt and MAGA cap], 53skpg, 1474484046.0, 11
+743, [IT IS TIME FOR CHANGE], 4w5hpt, 1470358260.0, 10
+744, [I wrote a funny story, please enjoy.], 4o3b0u, 1465962796.0, 0
+745, [I colorized an image for Killary], 4nmjti, 1465698143.0, 0
+746, [Trump can "do anything" to women. An example for us all!], 56dhkb, 1475901015.0, 45
+747, [I'm a Bernie supporter who is switching to Trump if Bernie doesn't win the nomination. Here's me explaining my decision on a podcast.], 4aoux0, 1458178261.0, 0
+748, [Breaking: Trump has rabies], 56rq80, 1476131595.0, 8
+749, [Praise Our Savior], 563c17, 1475750752.0, 0
+750, [Haitians fleeing from Clinton-owned haiti looking for refuge in US from Mexico], 52hl44, 1473754190.0, 10
+751, [Why do you love Donald? And do you have good examples of the media's bias against him?], 4bg9s8, 1458655491.0, 8
+752, [Got em! - Stonetear equals Paul Combetta via Etsy], 541f4w, 1474609631.0, 11
+753, [71% of doctors think that Hilary's Health is a serious issue], 51zlvx, 1473483070.0, 17
+754, [Republicans concede Presidential Election], 56yboq, 1476225818.0, 5
+755, [Is this the first time a serious political candidate said this?], 55dpv9, 1475365412.0, 5
+756, [Republican Trump, or Democrat Clinton], 553dze, 1475199602.0, 0
+757, [Trump on debate: I was 'holding back], 54typf, 1475054332.0, 4
+758, [China Kill Us], 54dd8t, 1474800011.0, 4
+759, [Informal poll: Who has more pubes? Trump, Hillary or Bernie?], 4sh5ti, 1468361399.0, 3
+760, [America is gr8], 4m8csf, 1464917992.0, 3
+761, [Your opinions are wrong], 4l1q7x, 1464237281.0, 5
+762, [Woman who took selfie to counter protest anti-Islamic protest in Belgium turns out to be Anti-Semite. : news], 4kruey, 1464088475.0, 6
+763, ["They love me" - black donald trump], 4h7161, 1462092464.0, 4
+764, [Why the SJW feels good for doing what they do.], 4gff62, 1461646904.0, 6
+765, [Made from cut-up speeches & interviews: DO YOU WANT TO BUILD A WALL? (Frozen Parody)], 4fjitm, 1461125686.0, 4
+766, [Donald Trump is a whiny little bitch.], 570tue, 1476253912.0, 57
+767, [Study: 95 percent chance of human extinction during Trump presidency], 5ahjgd, 1478008098.0, 0
+768, [MY LAST VID BEFORE THE ELECTION: SEVEN RADICAL DEMANDS FOR PRESIDENT TRUMP FROM THE ALT RIGHT], 5agtgk, 1477997283.0, 0
+769, [Make America Great Again!!!!], 5agmyy, 1477995076.0, 0
+770, [Local level smear campaign?], 58ott0, 1477103783.0, 0
+771, [What the intelligentsia know about our next president], 58evj6, 1476964509.0, 0
+772, [Can't wait until Nov. 8 to cast your vote - wait no more! Tally your ticket as many times as you like right now!], 56vach, 1476173437.0, 0
+773, [BLIND MAN GOES HUNTING FOR JOSH PECK!!!!!], 55lmv3, 1475490491.0, 0
+774, [What will be the fate of Paul Combetta AKA stonetear?], 53ss8w, 1474488040.0, 2
+775, [Calvin Savage - "Vote for Trump because I can't!"], 51ywy0, 1473474740.0, 4
+776, [I think ugly people are okay.], 50cjve, 1472609609.0, 3
+777, [I think ugly people are okay.], 50c20j, 1472604003.0, 0
+778, [[YTP] TRUMP KILLS MILLIONS OF AFRICAN AMERICANS AND HISPANICS], 5032wt, 1472470445.0, 0
+779, [Social Security], 4zfyb5, 1472116180.0, 0
+780, [Best Candidate!], 4vk1i2, 1470042409.0, 0
+781, [Bernie just nominated Clinton.], 4urha4, 1469602526.0, 1
+782, [Donald Trump - Golden Dump (The Trump Hump) /#TheMockingbirdMan by Klemen Slakonja/], 4tnjyl, 1468991766.0, 0
+783, [It does matter Hillary it matters to a lot of us], 4s34ob, 1468139589.0, 1
+784, [Nigel Farage Resigns from UKIP (Real Hero Edition)], 4r8alg, 1467682641.0, 0
+785, [Hilary Clinton has interview regarding emails], 4qxvtk, 1467505676.0, 1
+786, [California for Trump T-shirt], 4ldhd9, 1464421882.0, 0
+787, [Watch "Da Ali G Show - Ali G interviews Donald Trump" on YouTube], 4l1m82, 1464235806.0, 1
+788, [At the end of the GMA segment 13/05/16 you could see Stephanopoulos glance off camera to see a bit of journalistic integrity hit the exit, stage right], 4j8pgb, 1463206576.0, 0
+789, [Collective Intelligence data used to predict TRUMP VP  /r/dataisbeautiful], 4h2ztk, 1462016060.0, 3
+790, [ArTiyme misrepresents comment history and couldn't disguise his username.], 4cdtf2, 1459252251.0, 0
+791, [Senator Armstrump], 4ayyzr, 1458346125.0, 2
+792, [Inside The Strange World Of Donald Trump Erotica], 4a5rtb, 1457849947.0, 2
+793, [On the map.], 48z2ye, 1457151422.0, 2
+794, [Hillary not wearing American Flag pin? What's the deal?], 54o7xa, 1474969296.0, 0
+795, [OT: Why can't Donny Trump afford suits that fit him? Trump at the suit store: "Give me the biggest suit you have!"], 56rqvx, 1476131895.0, 10
+796, [You went to the wrong subreddit - You meant to go here (link inside)], 499hd2, 1457331856.0, 8
+797, [Apparently my "friends" think I'm horrible for wanting to vote for Trump], 4l1ner, 1464236211.0, 14
+798, [This sub is about 1000x better with Make America Drumpf Again installed], 48egms, 1456834512.0, 42
+799, [Quick question], 4w725g, 1470376609.0, 48
+800, [Bill Cosby: "Donald Trump taught me everything I know about rape."], 58uupr, 1477194508.0, 16
+801, [This is perfect for this sub.], 4w8p5n, 1470400466.0, 17
+802, [Watch "Between Two Ferns With Zach Galifianakis: Hillary Clinton" on YouTube], 53zvzq, 1474591550.0, 23
+803, [Revised Trump campaign announcement], 56i6wp, 1475979117.0, 13
+804, [In response to the Hillary Mosaic, here is one of Trump], 4pb1hd, 1466635956.0, 15
+805, [roasted himself], 4hhbc9, 1462225572.0, 14
+806, [20,000 uptrumps and this becomes a Donald Duck themed subreddit], 4umo8b, 1469533485.0, 104
+807, [lets now forget how based howard stern is for not releasing old audio clips that would just cause confusion], 5a9j1i, 1477904735.0, 0
+808, [The Trumpty Dance], 56j2lb, 1475990391.0, 6
+809, [The Milk Crate], 52yzuo, 1474009732.0, 6
+810, [Donald Trump's Attorney General will be this guy. And he humiliated Hillary Clinton.], 528skr, 1473633761.0, 5
+811, [GOOGLE Search Trends Indicate Trump Landslide Victory], 511wxp, 1472982016.0, 7
+812, [tickcounter: days since hillary's last press conference], 4vnp5x, 1470101668.0, 0
+813, [Looks like the name is sticking.], 4r2pbd, 1467592626.0, 5
+814, [I think the Donald loves Pokeahotass.], 4njibd, 1465637952.0, 0
+815, [If Clinton's Wife wanted to become president, then why did she try the same year as Donald?], 4ltuon, 1464704555.0, 0
+816, [the trumpinator], 4kruri, 1464088636.0, 5
+817, [Plea from a Sanders supporter: CA your GOP primary is a done deal. Register Democrat by May 23 and vote against Hillary Clinton], 4k106c, 1463664822.0, 7
+818, [North America at night after November], 4jmdrj, 1463450298.0, 7
+819, [Trumps Junk], 4fg6co, 1461072985.0, 7
+820, [MAGA], 52y2ke, 1473998441.0, 10
+821, [16-Year-Old Black Trump Supporter Schools Black Lives Matter Moron in Epic Debate], 4pt3gl, 1466899502.0, 8
+822, [Milo Yiannopoulos: Muslim Culture Is Violent  CBS Philly], 4o2wka, 1465958106.0, 0
+823, [Looking for /r/the_donald? Click here!], 4nt9bz, 1465808450.0, 0
+824, [I slaved for hours to create this new logo for our nominee.], 4h4y8l, 1462060442.0, 41
+825, [Pope endorses Trump], 57c4x3, 1476415636.0, 0
+826, [Trump campaign updates logo after latest revelation], 56ey6d, 1475921144.0, 144
+827, [858 immigrants are accidentally given American citizenship], 53k6t6, 1474352577.0, 11
+828, [SJW Attacking Student for Wearing "unsafe" 'Make America Great Again' Hat [Calgary, Canada]], 52vptc, 1473968178.0, 12
+829, [[NSFW] Trump is love Trump is life], 4vbjh1, 1469902602.0, 11
+830, [I hate it when you guys are right.], 4nrjtw, 1465784957.0, 0
+831, [10 Facts About Donald Trump | Donald Trump jr ,Donald Trump Father and more...], 59vh38, 1477702051.0, 0
+832, [Trump SURGE! HERE WE COME], 588n8z, 1476882671.0, 0
+833, [From tonight's rally], 5839y2, 1476819255.0, 0
+834, [Did Billy Bush leak the "hot mic" Trump tape?], 56p5ho, 1476087427.0, 1
+835, [What the Corrupt Media Machine Has News Blackout On: Trump Takes Leads in Electoral College], 54ws9o, 1475104172.0, 0
+836, [Is Hillary Clinton abusing prescription thyroid medications?], 53r3e5, 1474454346.0, 3
+837, [Arnold supports building], 50zjry, 1472949092.0, 2
+838, [Trump voters are just Hitler dindus], 505qgn, 1472515482.0, 0
+839, [Worst intro to presidential candidate ever? Difficulty: it's your mom.], 4v4bvt, 1469787260.0, 0
+840, [I want in on the action!], 4ulpqt, 1469519726.0, 3
+841, [Wait... do you really get banned from offmychest for posting here?], 4ukjuq, 1469505084.0, 5
+842, [Don't be a dick Justin! shesh], 4ubzhj, 1469368713.0, 3
+843, [Losing yet again], 4ruua7, 1468015862.0, 0
+844, [FBI Director James Comey FULL STATEMENT [OFF SCRIPT] on Hillary Clinton Email Investigation], 4rmp2i, 1467894002.0, 3
+845, [Quick Poll: How risk-averse are you?], 4lqw8w, 1464661916.0, 0
+846, [[serious]An honest question from a northern European], 4i9siq, 1462652573.0, 3
+847, [Why Donald Trump Is A Gift To Democracy], 49pfn5, 1457577576.0, 5
+848, [Bernie's fuel can't melt Trump's stump.], 47f95a, 1456379840.0, 1
+849, [Paul Combetta used Reddit to try to figure out how to alter emails. (Xpost from r/Libertarian)], 53nad0, 1474406097.0, 15
+850, [Carnival in Germany [xpost r/funny]], 4a93jp, 1457918643.0, 18
+851, [The problem with the "Bill did it too" argument], 56wul6, 1476197975.0, 7
+852, [Ford shifting all U.S. small-car production to Mexico (this has gotta be a big boost in the Upper Midwest for Trump).], 52s8w2, 1473910147.0, 7
+853, [Trying to get banned from r/offmychest], 4ugi04, 1469444677.0, 7
+854, [Donald for potus 2k16], 4qg9br, 1467244477.0, 7
+855, [Congratulations on NH], 451vdy, 1455124195.0, 8
+856, [MASSIVE Trump rally footage released!], 55f7wj, 1475385263.0, 17
+857, [We will finish this campaign at all costs], 52jyg4, 1473794885.0, 12
+858, [Donald Trump], 4vfrw0, 1469970381.0, 10
+859, [The Don endorsed by N.Korea], 4lx8mu, 1464754140.0, 12
+860, [To the people here from /r/AskReddit: It's /r/The_Donald, not /r/TheDonald.], 4nr2b6, 1465778807.0, 131
+861, [Can you convince me to vote for Donald without mentioning Hillary?], 4uvutv, 1469669930.0, 31
+862, ["You can grab them by the pussy, you can do anything "], 56hxtf, 1475975941.0, 18
+863, [Guys?], 54opmx, 1474975904.0, 79
+864, ["Make America Scared Again", homeowner creates Anti-Tump halloween display in front yard.], 5adhqw, 1477962448.0, 0
+865, [It's All But Official: Donald Trump Won't Release His Tax Returns], 5a9k8u, 1477905158.0, 0
+866, [my new flag for my truck, needless to say the Mexicans next door... actually came out and said they love it!], 57bl2s, 1476409560.0, 0
+867, [What are we gonna do about Hillary hiring the gestapo?], 57au3u, 1476401346.0, 0
+868, [She is a totally unhinged person: Donald Trump questions Clintons mental stability in series of attacks], 4ww8iy, 1470779002.0, 0
+869, [How about some Comedy? Shocking Interview with Sweden Police about Muslims and Wristbands], 4wrxne, 1470712716.0, 0
+870, [Hillary Clinton Has A Seizure On Video, Please Share To All HillBots], 4vkbqp, 1470046680.0, 0
+871, [Crooked Hillary hard at work.], 4nsq4u, 1465800588.0, 0
+872, [Is this Chelsea Clinton in this sex tape? Help me out - can't tell], 4nhbxy, 1465607517.0, 0
+873, [Judge Presiding Over Trump University Case Is Member Of La Raza Lawyers Group Read more: http://dailycaller.com/2016/06/01/judge-presiding-over-trump-university-case-is-member-of-la-raza-lawyers-group/#ixzz4AfeH1Lr9], 4mlr2m, 1465126458.0, 7
+874, [I guess Rock on the Range was in New Mexico this year with Bernie as a headliner.], 4l6485, 1464308420.0, 8
+875, [Projection: Trump wins Indiana GOP primary], 4hrbnh, 1462346100.0, 8
+876, [Florida GOP leaders outraged by Trump tape: but can we talk about why NOBODY seems to care about the numerous crimes and horrible things Hillary has done? What the hell is happening?], 56fvnm, 1475937768.0, 0
+877, [Is this the first time a serious political candidate said this?], 557uay, 1475270159.0, 15
+878, [That's one scary costume], 53urq4, 1474512898.0, 13
+879, [Make America grab again], 56h1y5, 1475963963.0, 49
+880, [Presidential Nominee Quote], 56ic3i, 1475980914.0, 41
+881, [Hillary Seizures during 9/11 memorial], 52985p, 1473639327.0, 36
+882, [BLATANT US FEDERAL LAW VIOLATION - RE: FAKE CRAIGSLIST POSTINGS], 5a8g6w, 1477892132.0, 0
+883, [Confessions of a Paid Hillary Operative], 59z1dt, 1477746508.0, 0
+884, [MLG Donald Trump], 59e951, 1477466206.0, 0
+885, [Donald Trump vs Hillary Clinton: a sentiment analysis on Twitter mentions], 58jdrw, 1477026363.0, 0
+886, ["Clinton Won't Support U.S. Ground Troops"], 58efzm, 1476959090.0, 0
+887, [Financial shecurity?], 56q6bw, 1476100854.0, 0
+888, [Idiot takes an order bigger than he can afford...agrees to take less then blames Trump almost 30 years later...], 54zqj7, 1475139917.0, 0
+889, [The battle rages on, Trump 2016 has become a rallying cry... The Kyle Style Podcast Episode 53 In the Trenches of the Culture War], 52sozd, 1473915458.0, 0
+890, [Can't we all just get along?], 514oec, 1473035125.0, 4
+891, [Trump voters are just Hitler], 50628b, 1472519252.0, 0
+892, [TIME 2 MAGA - these are awesome!], 4x1nw6, 1470857168.0, 0
+893, [Ban me also], 4ughup, 1469444609.0, 2
+894, [lel], 4t19wg, 1468644599.0, 0
+895, [I'd like to hear r/TheDonald's thoughts on this criticism of Trump.], 4oow0r, 1466291866.0, 4
+896, [Yeah, some dipshits think that it's without an underscore. Click here for the real sub.], 4nufu3, 1465828669.0, 0
+897, [NJ mayor, deputy mayor break with GOP in protest of Trump], 4nft5m, 1465585948.0, 5
+898, [What ever happened to that Funny or Die parody of Trump?], 4nd641, 1465538256.0, 3
+899, [Who does Donald respectfully disagree with?], 4mpy5i, 1465196857.0, 3
+900, [So, it looks like Donald got a new piece of ass...], 4i9ons, 1462649994.0, 4
+901, [#FDT], 4fikxy, 1461114133.0, 4
+902, [Exposing Michelle Fields Using Her Own Ted Talk! A must see.], 4e023p, 1460206067.0, 4
+903, [Confused about Trump and Israel], 4dij3i, 1459919539.0, 0
+904, [GOP: Grabbing Occasional Pussy], 56fb08, 1475926826.0, 46
+905, [Emotionally driven video showcasing the violence by Trump Protestors], 4o6wc5, 1466019885.0, 0
+906, [Trump account in Russian Alfa Bank.], 55w1pf, 1475646755.0, 10
+907, [Hail Trump and his final solutions.], 4txtlq, 1469146952.0, 35
+908, [Tweeting like a champ], 4mpdbt, 1465188891.0, 19
+909, [Black Trump Supporter Smacks Down CNN Reporter for Race Baiting], 4u4irk, 1469244496.0, 16
+910, [Even though I am programmed for Hillary, I am siding with Donald in this presidential election!], 4g8j5n, 1461540045.0, 16
+911, [I was banned from /r/the_donald so this low energy sub is my new home I guess.], 4bry9c, 1458861080.0, 14
+912, [[Stefan Molyneux]The Truth About Donald Drumpf: John Oliver on Donald Trump], 49dzve, 1457404198.0, 15
+913, [Grab them by the pussy, Trump says. You can do anything.], 56dzjf, 1475907220.0, 56
+914, [PROOF TRUMPS A GOOD GUY], 4w280v, 1470305093.0, 0
+915, [The "Oh Shit" Moment: Hillary Wiped Her Server With BleachBit Despite Subpoena], 50w0ea, 1472885768.0, 9
+916, [Not even 20 seconds later... Got banned for it immediately.], 4rt6m9, 1467985436.0, 0
+917, [The Donald did 7/11], 4fg1o5, 1461070462.0, 8
+918, [Google doc with 27 pages of videos of Hillary Clinton lying. Enjoy.], 4do5tt, 1460010514.0, 9
+919, [How many Trump supporters have ever visited a 1st world country? Basically, EU or Japan.], 54zylz, 1475143157.0, 0
+920, [I Suffer From Severe Psychological Issues And I Need The Help Of Mental Health Professionals, Says Trump In Pointed Debate Comeback], 54usc9, 1475067310.0, 7
+921, [Mr Trump], 531657, 1474048844.0, 3
+922, [I'm fifteen years old and I LOVE Donald Trump! :) #MAGA lol], 4uq661, 1469586888.0, 0
+923, [Donald trump], 4uiiv1, 1469481200.0, 4
+924, [What does "Yuge" mean in Swedish?], 4s5qb2, 1468190674.0, 6
+925, [If this years political climate were Steven Seagal movies.], 4rgmgh, 1467805461.0, 4
+926, [Hola Muchachos], 4gh702, 1461672734.0, 6
+927, [Truly he is unstumpable. nsfw], 48y8db, 1457140371.0, 4
+928, [Donald Trump Makes History With Zero Major Newspaper Endorsements], 56citc, 1475889816.0, 56
+929, [HILLARY CLINTON ATE MY CHILDREN], 4tuxho, 1469098931.0, 12
+930, [Donald Trump either lied under oath or during a debate  /r/politics], 54ci3r, 1474786201.0, 17
+931, [Fuck you, Google], 51ucd1, 1473406457.0, 18
+932, [Trump is financed by Putin's Russia], 4vf9ai, 1469960959.0, 19
+933, [This explains why we cannot let these rats into our country], 4tl0sb, 1468962414.0, 0
+934, [Donald Trump raps Mac Miller's "Donald Trump"], 4n925z, 1465472748.0, 12
+935, [Hilary bleaching her servers and Donald making America great again. (X-post from r/pics)], 5ag07p, 1477987556.0, 0
+936, [Megyn Kelly... maybe not so bad? She's kicking some Clintonian ass here...], 59xg21, 1477723169.0, 0
+937, [Hail the Trump Overlord], 533t63, 1474084891.0, 6
+938, [Crooked Hillary showing off her dance moves], 52xso6, 1473995264.0, 7
+939, [thedonald summed up in one song], 4x7zgz, 1470951053.0, 0
+940, [This is America, and so can you!], 4vamfh, 1469881937.0, 6
+941, [Can I get banned from r/offmychest], 4ugv56, 1469450883.0, 7
+942, [Luis Miranda DNC communication directors cell number], 4ubxsq, 1469367732.0, 0
+943, ["I wish you good fortune in the wars to come..."], 4u13pa, 1469190991.0, 8
+944, [What did the sign that was shown by a protestor say?], 4u0p2j, 1469184296.0, 5
+945, [Makes sense to me...], 4s9a2q, 1468241923.0, 5
+946, [POKEMON:TRUMP LEAGUE], 4s2yee, 1468136850.0, 8
+947, [Wearing a hijab is a personal choice and can reflect ones personal devotion to Allah], 4e9rx9, 1460390106.0, 19
+948, [HRC transcript of paid speeches to Wall Street. She really is as crooked as we thought.], 56efl6, 1475913337.0, 0
+949, [Trump will win], 58fe14, 1476972680.0, 0
+950, [Recent studies show Hillary is an actual walking cunt], 57bai6, 1476406414.0, 0
+951, [Dear Mr.trump...please deport all illegal Mexicans and help our economy but if you go house to house have no drug arrest and America will back you!], 4z8wko, 1472016720.0, 0
+952, [Can I be a mod?], 4o3nz4, 1465966890.0, 0
+953, [Woman Who Painted Naked Trump Beaten By His Goons], 4ias9o, 1462669719.0, 14
+954, [Honest question: Trump called in to question Obama's birthplace, why are you all against him being misrepresented?], 48v1o0, 1457082582.0, 14
+955, [October Suprise again, bitches! LOL @ your weak "e-mailgate." This is how a real October surprise is done. Watch and learn from your betters], 5ah6lu, 1478002168.0, 0
+956, [Need help with school assignment related to Trump], 59ew17, 1477474046.0, 0
+957, [According to Google, We're Obsessed with Donald Trump], 59eial, 1477469235.0, 0
+958, [American Patriots vs. the Globalist Neocons], 59e95i, 1477466210.0, 0
+959, [DONALD TRUMP TRIBUTE], 593fjt, 1477325669.0, 0
+960, [Trump voters are just], 508hmq, 1472548093.0, 0
+961, [Confiscate their coats], 4vbrnk, 1469907975.0, 1
+962, [Latest General Election prediction for the General Election. Trump Vs Hillary (video.], 4uw2o4, 1469672372.0, 0
+963, [Remember that time when Bubba], 4tufdk, 1469091649.0, 1
+964, [Mr. Secretary?], 4t1hgi, 1468647277.0, 0
+965, [Titanic Trump], 4j7n1g, 1463192238.0, 0
+966, [RNC in a nutshell], 4u0xgi, 1469187863.0, 29
+967, [Vote on this Twitter Poll & Keep Donald Trump in the lead, #MakeAmericaGreatAgain!], 5aeru7, 1477974657.0, 0
+968, [Big state?], 59jer8, 1477537591.0, 0
+969, [Scott Adams' Blog - The Week I Became a Target], 55t656, 1475611845.0, 7
+970, ["They won't call them terrorists when they're white!" Oh yes we will!], 50u6sr, 1472863724.0, 9
+971, [SHES EVIL!], 4y1xs1, 1471411314.0, 0
+972, [is there anything we can do on this level to deter undocumented immigrants from voting?], 4xwsu8, 1471336942.0, 0
+973, [A spiffy new counter to emphasize the alarming rate at which Islamic terror attacks are being perpetrated across the globe. Part satire, part political critique, part exercise in free speech.], 4wo7q5, 1470655272.0, 0
+974, [Crooked/Finger Hillary], 4ty4er, 1469150550.0, 0
+975, [Blast Crooked Hillary with an Arsenal of Weaponry], 4njqt1, 1465641972.0, 0
+976, [Commie-Anarchists call for using "logical" violence against Trump supporters], 4mznch, 1465342920.0, 7
+977, [Trump rescinds pledge to back Republican nominee], 4ckd69, 1459366497.0, 9
+978, [I made a campaign poster for you guys.], 4cb0jd, 1459213123.0, 104
+979, [You're both fired...], 46115p, 1455629616.0, 16
+980, [Soviet Russia knows how to party], 56jwai, 1476002072.0, 20
+981, [To be fair, Jeb Bush is pretty low energy.], 4o4iqo, 1465977791.0, 0
+982, [rare donald], 4vx2vd, 1470233416.0, 0
+983, [Thanks Nicholas for pointing out another Clinton FAILURE.], 56d9r1, 1475898442.0, 0
+984, [Trump to Media: Ask Hillary Why She Didn't "Turn In" Donna Brazile], 5ae491, 1477968393.0, 0
+985, [PSA from Trae Crowder pleading to his fellow rednecks to think about The Donald], 5abdty, 1477936106.0, 0
+986, [tabs vs spaces], 565tv3, 1475795278.0, 0
+987, [This guy doing his part to MAGA. (He's getting so many honks) Southampton NY], 50smlq, 1472842074.0, 8
+988, [I'm catching so much shit from my friends for sharing trump posts on facebook.], 4x4li0, 1470894224.0, 0
+989, [In bashing Donald Trump, some say Ruth Bader Ginsburg just crossed a very important line - The Washington Post], 4sgblk, 1468348074.0, 6
+990, [This Donald Trump app is kinda funny. ITS HUGE], 4i3kjo, 1462536652.0, 0
+991, [Very high energy right now that I found this sub. I'm fairly certain you've seen this magnificent artistry], 4a5kdp, 1457846638.0, 7
+992, [What do you guys think of my new visual novel?], 56jw5j, 1476002027.0, 24
+993, [Spotify Founders Blast Swedens Business Environment in Open Letter], 4es9t6, 1460683971.0, 0
+994, [Khizr Khan Politicizes Sons Death For Democratic Gain], 4w4mtk, 1470348061.0, 0
+995, [The end is nigh], 4o3uxi, 1465969204.0, 0
+996, [Hey I though you guys might like this], 4nggou, 1465596694.0, 16
+997, [They Only Hear What They Want To Hear], 4fpd0n, 1461212726.0, 16
+998, [Umm], 5a8bdk, 1477890610.0, 0
+999, [Trump introduces new campaign slogan after the failure of "MAGA": "You may not love me, but you will fear me. I am the Lord of the Trumps"], 57yi17, 1476753124.0, 0
+1000, [This is a BIG LEAGUE movement. We won't go down without a fight!], 57nf1h, 1476585474.0, 0

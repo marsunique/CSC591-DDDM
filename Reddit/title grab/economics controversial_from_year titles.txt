@@ -1,0 +1,1001 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Generous welfare benefits make people more likely to want to work, not less!], 42asdz, 1453583578.0, 16
+2, [Study finds most russians were better off under the Soviet Union], 4a8e9p, 1457906251.0, 77
+3, [The Trans Pacific Partnership (TPP): Americas Economic War Against Asia And Latin America], 3up5qe, 1448820274.0, 7
+4, [The Evidence Is Piling Up That Higher Minimum Wages Kill Jobs], 3x2nmc, 1450298843.0, 12
+5, [Time to Do Away with the FDA], 3xycmn, 1450900018.0, 1
+6, [The Failed Dogma of Neoliberalism. Neoliberalism was characterized by deregulation (especially in the financial sector), the suppression of labor, attacks on trade unions, and the privatization of state-owned corporations.], 57hwyf, 1476498659.0, 1
+7, [United States is *not* an outlier in terms of health care spending], 51ypxw, 1473472515.0, 20
+8, [Stuck In Your Parents Basement? Dont Blame The Economy], 4la8w7, 1464375967.0, 0
+9, [Uber surge pricing: Why Uber Willand ShouldBe Regulated], 4s4iuq, 1468164016.0, 1
+10, [Cheap cab ride? You must have missed Ubers true cost], 43hmw5, 1454241995.0, 3
+11, [Why Economics Is a Lost Field], 3uojw0, 1448805106.0, 9
+12, [Everything You Ever Wanted to Know about Supply-Side Economics, in a Single Image], 45wy4s, 1455578816.0, 0
+13, ["U.S. retailers are selling roughly half as many goods (and services) as they were selling less than eight years ago. "], 417zgi, 1452972039.0, 5
+14, [The Uncomfortable Truth about Daycare], 4pxwz2, 1466979276.0, 0
+15, [The case for the Trans-Pacific Partnership], 5a08hg, 1477773107.0, 5
+16, [The Fight for 15: Its a bad idea. Raising the minimum wage to $15 would hurt millions of vulnerable people.], 3wrylp, 1450123390.0, 38
+17, [Now That We Can See the TPP Text, We Know Why its Been Kept Secret], 3ssxie, 1447553261.0, 0
+18, [90% of June job gains went to workers age 55 and older], 4s24io, 1468125254.0, 141
+19, [JFK's legendary campaign slogan was to get this country moving again. which he accomplished by cutting personal and business taxes with great success], 480gdk, 1456667375.0, 5
+20, [The case for cutting company tax remains strong], 4jzh5p, 1463641005.0, 0
+21, [Paul Krugman Crosses the Line], 4e35ek, 1460266629.0, 4
+22, [Socialism is bad? Nordic stock markets are among the best: Nordic countries often have beaten global benchmarks and U.S. markets for more than a century.], 4bs50s, 1458863579.0, 1
+23, [GDP actively rewards destruction of the environment, which by short extensions produces, rather than eliminates, poverty, especially for those already impoverished or at risk of so being.], 3vr041, 1449490959.0, 7
+24, [Rich kids will benefit more from free college], 4g1inb, 1461403937.0, 103
+25, [Why Is Paul Krugman Still Calling for Fiscal Stimulus?], 4d1bsq, 1459629053.0, 1
+26, [Even Famous Female Economists Get No Respect], 3sjdtn, 1447368294.0, 8
+27, [Our Giant Experiment With "Greed Is Good" Has Failed], 57fzjo, 1476475453.0, 3
+28, [Not joining TPP will cost Canada billions in economic growth: report], 527vo6, 1473616367.0, 2
+29, [For living wage campaigners to be right, economic theory has to be wrong], 3ua0ls, 1448521865.0, 18
+30, [Hedge Funds Arent Supposed To Beat The Market], 4af4a6, 1458018509.0, 72
+31, [It Would Take 228 Years for Black Families to Amass Wealth of White Families, Analysis Says], 4wwjki, 1470782950.0, 2
+32, [In couple of weeks, Swiss will vote on basic income referendum. 90%+ have self-interest to vote YES, but the YES vote will get less than this. why?], 4kduwc, 1463870905.0, 0
+33, [McDonalds CEO Admits Obamas Economy and Higher Wages Is A Rousing Success], 4ko2jp, 1464040921.0, 4
+34, [We Have Entered The Looting Stage Of Capitalism  Paul Craig Roberts], 4lpnn9, 1464645900.0, 3
+35, [If we can afford our current welfare system, we can afford basic income], 42k85l, 1453735130.0, 4
+36, [Krugman and the Gang of 4 Need to Apologize for Smearing Gerald Friedman], 46x2tz, 1456115013.0, 1
+37, [Why Big Oil Should Kill Itself], 3ylnn8, 1451383972.0, 22
+38, [Why Economists Are Coming Out in Favor of Unconditional Basic Income], 4nmenh, 1465696134.0, 96
+39, [Liberalism is still alive  its neoliberalism thats the problem], 55nkl8, 1475529127.0, 4
+40, [The US economy has not recovered and will not recover.Jobs offshoring benefitted corporate executives and shareholders, because lower labor and compliance costs resulted in higher profits.], 46emq6, 1455829415.0, 25
+41, [Whirlpool Put Laundry Machines In Some Schools And Increased Attendance By 90%], 4xnzy4, 1471208347.0, 1
+42, [Sixty-two people have the same amount of wealth as half the world, says Oxfam], 41gqlh, 1453111486.0, 2
+43, [Economics Is a Mess and Needs to be Reformed], 4d48aa, 1459674448.0, 0
+44, [Is New Zealand one of the worst in the world for inequality], 3ymzvl, 1451409516.0, 0
+45, [Did Regulation Cause the Financial Crisis?], 3xic56, 1450590298.0, 3
+46, [OPINION: The One Minute Case for a Basic Income | BIEN], 3wdtnb, 1449875404.0, 0
+47, [Damn Right Amazon Runs a Fucking Deficit and So Should America], 3rcimf, 1446584480.0, 0
+48, [Hayek on Evolution and Spontaneous Order at Meeting of Nobel Laureates at Lindau, 1983], 3r7w21, 1446506637.0, 0
+49, [Thanks, Obama. The historicand underratedeconomic record of the 44th president], 54lswn, 1474940130.0, 9
+50, [Why Women Are No Longer Catching Up To Men On Pay], 4yia9j, 1471633329.0, 9
+51, [UMass: A U.S. Financial Transaction Tax: How Wall Street Can Pay for Its Mess (PDF)], 468jon, 1455744497.0, 7
+52, [Why Doesn't Education Bring Equal Pay for Women?], 4f1hxp, 1460834435.0, 0
+53, [The devaluation of the Chinese yuan marks a crisis in capitalism], 406pn3, 1452383100.0, 0
+54, [participation trophies: rude awakening for millennials], 4v2me5, 1469764221.0, 1
+55, [Why free trade was a terrible mistake : "There is no way America can export itself back to national solvency. The United States has been by far the most serious victim of Chinese protectionism. American executives max out their stock options while the Chinese pit companies against one another"], 46fuki, 1455845049.0, 0
+56, [Fight For $15 Meets Reality: D.C. Restaurants Lost 1,400 Jobs During First Half of 2016], 4zkmtp, 1472185266.0, 2
+57, [Study: Federal regulations over the last few decades has made the average American $13,000 poorer than they otherwise would have been.], 4wzpsp, 1470821217.0, 0
+58, [Seattle's Minimum Wage Rise Is Reducing Employment In Seattle], 4uoq3p, 1469570096.0, 0
+59, [Watch Nobel Prize-winning economist Joseph Stiglitz explain globalization in three minutes], 4snu8n, 1468453773.0, 0
+60, [An E.U. Exit Will Strengthen the British Economy], 4rbngi, 1467734572.0, 2
+61, [Poland. The next Venezuela?], 4hb2zk, 1462161083.0, 2
+62, ["We're In Trouble": Alan Greenspan Delivers Stark Warning], 48jdan, 1456905070.0, 0
+63, [Gender bias against women in students' ratings of economics professors?], 43eoo9, 1454199702.0, 0
+64, [China's unprecedented real-estate bubble is collapsing], 3yrpsg, 1451499618.0, 0
+65, [The Citadel Is Breached: Congress Taps the Fed for Infrastructure Funding], 41u6lt, 1453322731.0, 27
+66, [Seattle's $15 Minimum Wage: Jobs Down, Unemployment Up. This Isn't Working, Is It?], 47xcmc, 1456629127.0, 84
+67, [The Right Minimum Wage - $0.00 - NYTimes 1987], 41ypnj, 1453386609.0, 23
+68, [It's Not Capitalism That Causes Poverty, It's The Lack Of It], 3xq6c2, 1450748645.0, 261
+69, [Worst recovery in postwar era largely explained by cuts in government spending], 4yd7jh, 1471566472.0, 1
+70, [How Adam Smith's Invisible Hand Was Corrupted by Laissez-Faire Economics - Evonomics], 4f13r5, 1460824348.0, 2
+71, [Rise in H-1B visa applications hints at lack of skilled workers in US], 4e06dn, 1460208739.0, 0
+72, [The Scourge of the Female Chore Burden: Melinda Gates explains the gender gap in unpaid labor and how it hurts the global economy.], 4dbbm0, 1459809364.0, 0
+73, [Abenomics Is Dead - Japanese Data Collapses Across The Board], 3yja37, 1451347557.0, 0
+74, [The Myth of Declining American Living Standards], 4foeje, 1461201307.0, 20
+75, [Mdecins Sans Frontires (MSF) : TPP is threatening to raise the price of generic drugs for people living with HIV/AIDS and many other diseases. TPP is pushing policies that impose aggressive intellectual property rights], 5a6qx6, 1477873011.0, 1
+76, [CLEVELAND FED: Raising the minimum wage is bad news for America's poorest], 58vs2g, 1477206463.0, 2
+77, [St. Augustine in Puerto Rico], 58igg8, 1477016546.0, 0
+78, [Don't Ditch Capitalism. Tax Its Extractive Side Effects and Use it to Fuel Growth], 4x0bki, 1470830167.0, 0
+79, [Why the basic income is a dangerous idea], 4jjdwq, 1463397423.0, 1
+80, [Why Not Getting Married Is Smart Economics For Women], 4jaaxo, 1463234642.0, 0
+81, [Robber Baron Recessions: Studies have confirmed a decline in business competition, as the government turned away from anti-monopoly efforts.], 4fbq0t, 1461013428.0, 1
+82, [How China Wrecked Free Trade], 4c4wt7, 1459094752.0, 0
+83, [How China Wrecked Free Trade], 4c2y3x, 1459056219.0, 0
+84, [Economists Actually Agree on This: The Wisdom of Free Trade], 49spag, 1457628725.0, 0
+85, [Osborne: Rich richer because of monetary policy], 54qp2y, 1475013666.0, 0
+86, [US capitalism in crisis while most Americans lose out by Rana Foroohar], 4knb2u, 1464027862.0, 0
+87, [Dutch city plans to pay all citizens a basic income, and Greens say it could work in the UK], 3ydv6x, 1451238293.0, 2
+88, [Inequality is now killing middle America - Joseph Stiglitz], 3vx789, 1449606405.0, 2
+89, [Richest 62 billionaires as wealthy as half the world population combined: Charity says only a crackdown on tax dodging, higher investment in public services and higher wages can halt the wealth divide widening even further and faster], 41gvcu, 1453113492.0, 9
+90, [We need to challenge the myth that the rich are specially-talented wealth creators], 4f3uge, 1460871567.0, 3
+91, [Raising the Minimum Wage Increases Unemployment], 4xvpuj, 1471322656.0, 5
+92, [Universal Basic Income Is Inevitable, Unavoidable, and Incoming], 4hmgpv, 1462296059.0, 2
+93, [Denmark has figured out the only way to save the American Dream. "Denmark's top marginal tax rate is 60 percent, and it applies to all income over 1.2 times the national average."], 538fjd, 1474165419.0, 750
+94, [Free Trade Agreements Have Been Good For America], 58uso2, 1477193807.0, 3
+95, [How Hedge Funds Held Argentina for Ransom], 4d5f7c, 1459699203.0, 2
+96, [Capitalism under fire: What's really driving income inequality? A Q&A with economist Steven Kaplan], 3yej5c, 1451257897.0, 7
+97, [Robert Shiller is Wrong about Real Estate], 53h35y, 1474313388.0, 0
+98, ["RANDs calculations plus my own Fermi estimate suggest that prescription drug price regulation would cost one billion life-years, which would very slightly edge out Communist China for the title of Worst Thing Ever." |Scott Alexander], 52ep42, 1473720641.0, 0
+99, [How A Chinese Aluminum Magnate Skirts U.S. Trade Agreements], 525806, 1473571090.0, 1
+100, [Government Stats May Be Wrong, But They're Not Manipulated], 4wwk01, 1470783101.0, 2
+101, ["The 99 percent just had its best year in nearly two decades"], 4qu1ez, 1467436038.0, 1
+102, [The Ugly Truth About A $15 Minimum Wage], 4gdz4u, 1461628992.0, 0
+103, [A higher minimum wage is no way to solve the problem of poverty], 4cl3gv, 1459378421.0, 1
+104, [Is Vast Inequality Necessary?], 4134mg, 1452894130.0, 0
+105, [After Capitalism: Where we're going we don't need roads], 3w8gg1, 1449790588.0, 2
+106, [Taxation Without Exasperation: Raising federal revenue doesnt have to be so intrusive and economically stifling. Its time for the U.S. to start taxing consumption instead of income.], 4e2a70, 1460253777.0, 6
+107, [Uber ruling will hurt both drivers and consumers], 5a5gzu, 1477852314.0, 0
+108, [Uber ruling is a massive boost for a fairer jobs market], 59xfk5, 1477722998.0, 0
+109, [The Economics Nobel Isnt Really A Nobel], 56d4su, 1475896870.0, 1
+110, [Britain's hard Brexit will be a huge buying opportunity], 55yn9b, 1475688226.0, 0
+111, [It will take black families 228 years to amass the wealth that white families have today, new study finds], 4wyaiz, 1470802970.0, 0
+112, [[Resubmitted] [x-post from r/basicincome] A basic income, or the end of the welfare state? Guy Standing on a universal basic income.], 4t4irc, 1468704220.0, 0
+113, [George Soros Is Preparing For Economic Collapse], 4ne8pi, 1465553980.0, 0
+114, [Economist Michael Hudson says neoliberal policy will pressure U.S. citizens to emigrate, just as it caused millions to leave Russia, the Baltic States, and now Greece in search of a better life.], 4mz4lg, 1465336291.0, 0
+115, [Why China Debt Bulls are Mostly Wrong], 4l8fjf, 1464338944.0, 1
+116, [Obama's New Overtime Rule: Bad for Workers], 4k4au1, 1463715885.0, 0
+117, [Is Kiwibank profitable enough to take on the big banks?], 4e5hi5, 1460316516.0, 0
+118, [It's time to end social security for the rich], 4dmnw4, 1459990899.0, 0
+119, [The Lies of Neoliberal Economics (or How America Became a Nation of Sharecroppers)], 4cxk45, 1459567753.0, 0
+120, [Why the odds remain stacked against female economists], 4cpjyo, 1459451474.0, 0
+121, [Audit the Fed is not about auditing the Fed], 41dk5a, 1453067131.0, 0
+122, [Seven reasons not to care about high executive pay], 3zjwrp, 1452025127.0, 1
+123, [FDA Forces Child to Go to London to Get Drug to Fight His Cancer], 3ynlgy, 1451426086.0, 1
+124, [Fighting climate change requires more than soothing fantasies - The Washington Post], 3yh9a3, 1451303532.0, 0
+125, [Heres What Genuine Tax Reform Looks Like], 3y1246, 1450947741.0, 0
+126, [Study estimates record poverty levels in Venezuela, now affecting 73 percent of households], 3urfkr, 1448861298.0, 1
+127, [Revenue lost from middle-class tax loopholes in the USA], 470kzh, 1456172203.0, 4
+128, [Zero Hedge: The Chilling Ways The Current Global Economy Echoes The 1930s Depression Era], 46vgb0, 1456093806.0, 0
+129, [Oil at $10 a barrel  maybe even under $0?], 40rwqf, 1452718837.0, 3
+130, [If We Don't Change the Way Money Is Created and Distributed, We Change Nothing], 3yeg5r, 1451256102.0, 20
+131, [Gold Yuan: Post-Dollar World Order Emerging in Eurasia], 52wroc, 1473982926.0, 4
+132, [Putting Income Inequality in Perspective - Did you know that if you make more than $32,400 per year, you are among the top 1% of the richest people in the world?], 4a5xqx, 1457852660.0, 1
+133, [Yes, There Is Such Thing As A Free Lunch], 3rx4vb, 1446953224.0, 3
+134, [A universal basic income could absolutely solve poverty], 4m0gmm, 1464803276.0, 7
+135, [I showed one of my debt graphs to my conservative friend R.], 3ywc7u, 1451585674.0, 6
+136, [Raising the Minimum Wage Wont Reduce Inequality | New Republic], 47zkcv, 1456652871.0, 18
+137, [Who owns the corporation. Nobody!], 407n2i, 1452396203.0, 3
+138, [Why Behavioral Economics is Cool, and Im Not], 3vt70u, 1449536995.0, 3
+139, [Why the Cost of Living Is Poised to Plummet in the Next 20 Years], 4tl88j, 1468965236.0, 251
+140, [US: Washington DC think tank recommends universal child benefit as a step toward universal basic income], 5a3lu7, 1477816728.0, 0
+141, [When Young Men Dont Work], 53a751, 1474191333.0, 0
+142, [Universal Basic Income wouldn't make people lazy - it would change the nature of work.], 50blbe, 1472598593.0, 3
+143, [Obamacare Leaves Many With Fewer Choices and Higher Prices: Insurers are bolting from the health law's exchanges, and premiums are rising dramatically.], 4z8wyd, 1472016852.0, 0
+144, [Income Inequality And the Poor are Still Getting Richer], 4nyw2m, 1465894829.0, 0
+145, [Does a $70,000 minimum wage work?], 4l5uwy, 1464305376.0, 0
+146, [Why Single-Payer Health Care Would Probably Still Be Expensive], 4jlxlr, 1463444548.0, 1
+147, [How Capitalism is Killing Itself], 4j1dig, 1463097639.0, 0
+148, [Progressives Drive Income Inequality: The Obama years proved that transfer payments reduce incentives to work and lower incomes.], 494ucd, 1457250382.0, 0
+149, [Why is Chinas music market still so small? "smaller than that of Austria or Switzerland."], 492re7, 1457219876.0, 3
+150, [The stock market is having a nightmare start to 2016 and it's all the Fed's fault], 407mv3, 1452396120.0, 0
+151, [Why did economists ignore the rise of the top one percent for so long?], 3ycm8r, 1451209653.0, 0
+152, [Who should pay to reduce poverty? Should it be you?], 3wq9ip, 1450088698.0, 0
+153, [The Game Theory Behind ISIS], 3wn4r3, 1450039053.0, 2
+154, [Most of What You Learned in Econ 101 Is Wrong], 3u4ogw, 1448428700.0, 0
+155, [13 women who transformed the world of economics], 3tr386, 1448178127.0, 2
+156, [The real college rankings], 3rz6y5, 1446989515.0, 69
+157, [Math is racist: How data is driving inequality], 51lmw4, 1473288788.0, 3
+158, [Worried about US recession? It's already here.], 40dfmf, 1452491637.0, 4
+159, [Most of Econ 101 Is Right], 3ulxws, 1448762622.0, 4
+160, [A Post-Keynesian Theory for Tobins q in a Stock-Flow Consistent Framework], 5ad4lv, 1477959007.0, 1
+161, [The Political Slant of the Nobel Prize in Economics], 56ohzn, 1476078673.0, 0
+162, [Bitcoin Will End The Nation State], 568od4, 1475828826.0, 0
+163, [Don't Ignore the Costs of Minimum Wage Increases When Celebrating the Benefits], 55pp5g, 1475554620.0, 0
+164, [As Our Jobs Are Automated, Some Say We'll Need A Guaranteed Basic Income], 54guhg, 1474862751.0, 1
+165, [Are Index Funds Eating the World?], 501qt2, 1472451505.0, 0
+166, [Economics Without Math Is Trendy, But It Doesn't Add Up - Noah Smith], 4yty45, 1471797983.0, 2
+167, [Brexit is terrifying  and no, not because of the economics], 4pslzw, 1466892045.0, 0
+168, [The deadliest country for kids - Why GDP can be a terrible measure of well being when not taking into account inequality], 4o9fkd, 1466050899.0, 1
+169, [Canadian household debt keeps breaking records.], 4mk57k, 1465101831.0, 0
+170, [US job growth slowest since 2010], 4mi211, 1465071094.0, 1
+171, [JOBS REPORT WHIFFS, UNEMPLOYMENT RATE FALLS TO 4.7%], 4mcz2k, 1464991046.0, 0
+172, [How the Deadly Sin of Avarice Was Rehabilitated as Self Interest], 4le1n6, 1464431351.0, 1
+173, [Why the title of 'developing country no longer exists], 4ky47z, 1464182349.0, 1
+174, [Gold might be about to defy 'conventional wisdom'], 4kcnwc, 1463846038.0, 1
+175, [Ivy League economist ethnically profiled, interrogated for doing math on American Airlines flight], 4idhuo, 1462715560.0, 1
+176, [BUFFETT: This is the 'time bomb' in the markets], 4h5hoz, 1462068455.0, 1
+177, [If all the richest 1% gave their wealth to the 99%, would the economy flourish or collapse?], 4fbk05, 1461010663.0, 0
+178, [How economics is like 1950s Freudian psychology], 4f5fv5, 1460900330.0, 0
+179, [Limiting warming to no more than 2C makes financial sense to risk-neutral investorsand even more so to the risk averse.], 4efiev, 1460486212.0, 0
+180, [Arguments against Free Trade are Deeply Flawed], 4dzj5o, 1460195931.0, 1
+181, [Milton Friedman on PBS Free to Choose Vol 1 of 10 Power of the Market], 4c8ary, 1459159304.0, 0
+182, [Stanford University Professor : Globalized capitalism is eroding the middle-class social base on which liberal democracy rests. We are moving back into societies where extremes of wealth and poverty are fuelling oligarchic domination], 4a5oh6, 1457848430.0, 0
+183, [CPI Report: US Core Inflation Data Show Largest Jump In Over 4 Years], 46kuyw, 1455920691.0, 0
+184, [[Questionnaire] Which School of thought do you adhere to?! Questionnaire 2016! (Results of the previous can be found on the side bar or more detailed version in the link of the questionnaire)], 44na3i, 1454904144.0, 0
+185, [Why the Economics Of "Me" Can't Replace the Economics Of "We"], 43cd6i, 1454152163.0, 0
+186, [Why extreme wealth is not merited | Oxfam], 41hhr5, 1453123102.0, 0
+187, [Everything You Need to Know about Government, Innovation and Entrepreneurship], 41ecxr, 1453079324.0, 1
+188, [The Real Cause of Secular Stagnation is Underconsumption], 40u16a, 1452746568.0, 1
+189, [Does the 8-hour day and the 40-hour week come from Henry Ford, or labor unions? | PolitiFact], 4090ah, 1452415282.0, 0
+190, [Bitcoins Bold Experiment: A Goldmine for Economic Researchers], 407vkh, 1452399522.0, 1
+191, [is economics less racially integrated than other disciplines?], 3zp82t, 1452104140.0, 1
+192, [PRECIOUS-Gold sinks 10 pct for third annual loss; tough year ahead], 3z5sck, 1451783491.0, 2
+193, [Environmental and Urban Economics: Endogenous "Amenities": The Case of Free Rides on Atlanta Streetcars], 3z1miw, 1451703914.0, 0
+194, ["worsening population density and rising poverty work synergistically to spawn a downward spiral."], 3yzpgv, 1451654931.0, 0
+195, [A very interesting paper on the effects (or lack thereof) of privatization on companies efficiency], 3y38kl, 1451000319.0, 0
+196, [88 Percent of Workers Who Would Benefit From a Higher Minimum Wage Are Older Than 20, One Third Are Over 40], 3x4wxi, 1450333312.0, 2
+197, [Zimbabwe dollar gains 18% vs Canadian dollar in 2015], 3x3m0b, 1450314860.0, 0
+198, [The minimum wage increases the gender wage gap at the bottom], 3wuqqr, 1450165084.0, 0
+199, [Short and sweet | The Economist], 3woxjt, 1450068584.0, 0
+200, [Walmarts Imports From China Displaced 400,000 Jobs, a Study Says], 3w50sx, 1449730638.0, 0
+201, [As Women Take Over a Male-Dominated Field, the Pay Drops: When women enter fields in greater numbers, pay declines  for the very same jobs that more men were doing before.], 4b3ize, 1458430825.0, 16
+202, [Ralph Nader wrote Janet Yellen a sexist letter. Her response is a fantastic short lesson in monetary policy.], 3u3arq, 1448409973.0, 10
+203, [Paul Krugman Raises the White Flag on Trade -  The Times columnist made his name by ridiculing critics of globalization. Now he admits that free-trade cheerleading was mostly garbage.], 4ajrqr, 1458095784.0, 15
+204, [Paul Krugman: Asimov's Foundation novels grounded my economics], 4wnfux, 1470642904.0, 5
+205, [A universal basic income is an old idea with modern appeal], 4ai3lr, 1458071592.0, 11
+206, [Capitalism will eat democracy unless we speak - Y.Varoufakis], 42tgxo, 1453868389.0, 12
+207, [Universal basic income isnt a magic bullet but its a start], 4zr6qs, 1472278084.0, 2
+208, [This is what a Harvard economics professor thinks should be top of the G7 agenda], 4lbkd3, 1464395618.0, 0
+209, [Niall Ferguson: "Future economic historians will look back at the first quarter of 2016 as the turning point; that was the end of the hangover induced by the GFC"], 4k1a38, 1463670228.0, 1
+210, [How Markets Magnify the Role of Luck and Create the Illusion of Meritocracy], 4ih4tv, 1462782253.0, 0
+211, [Neoliberalism  the ideology at the root of all our problems [Xpost from r/socialism]], 4eyooh, 1460781281.0, 3
+212, [Expanded Version: The Us Economy Has Not Recovered and Will Not Recover], 46jidu, 1455895443.0, 1
+213, [Comparative Advantage: An Idea Whose Time Has Passed | Foundation for Economic Education], 3ynm2j, 1451426467.0, 0
+214, [Bill Easterly on the Greatest Tyranny People in the World Face: That of Experts], 3wrzqm, 1450124159.0, 2
+215, [A Conservative Estimate of The Wal-Mart Effect': Wal-Marts growing trade deficit with China has displaced more than 400,000 U.S. jobs | Economic Policy Institute], 3wpbfa, 1450074289.0, 0
+216, [Stop Using Adam Smith and F.A. Hayek to Support Your Political Ideology], 3wh3e4, 1449923360.0, 0
+217, [What is going on? America is joining the likes of Third World countries. Poverty in the US has more than doubled since 1996], 45bain, 1455256209.0, 118
+218, [IMF admits disastrous love affair with the euro, apologises for the immolation of Greece], 4v3e1i, 1469773991.0, 176
+219, [Could you live on $1.90 a day? That's the international poverty line], 3sdbjb, 1447245098.0, 46
+220, [Dont be fooled. There will be damaging fallout from Brexit], 4zov7q, 1472250535.0, 211
+221, [Why Capitalism Works And Socialism Doesn't: Arbitrage], 4x9p32, 1470971076.0, 0
+222, ['Pokemon Go' has the power to transform retail, analyst says], 4t5ilf, 1468718824.0, 4
+223, [Neil Irwin Is Far Too Generous to Economists: They Only Care About Efficiency When the Policy Redistributes Income Upward], 4qz0q1, 1467522191.0, 0
+224, [Gender pay gap emerges in childrens pocket money], 4mcz7j, 1464991102.0, 4
+225, ["If you build it, they will come"  a lie peddled by the transit lobby], 4h7g4x, 1462099692.0, 0
+226, [Paul Graham has accidentally explained everything wrong with Silicon Valleys world view], 3zxz5l, 1452235312.0, 3
+227, [Hayek, Friedman, and the Illusions of Conservative Economics | Robert Solow], 3znmp0, 1452075799.0, 3
+228, [Is Regulation to Blame for the Decline in American Entrepreneurship? "We find that Federal regulation has had little to no effect on declining dynamism."], 3zhmtw, 1451983812.0, 4
+229, [Apple Makes $407,000 Profit Per Employee, Walmart And Retail, $6,300: Who's The Exploiter?], 3yo0kq, 1451434088.0, 0
+230, [Economics is Too Important to be Left to Economists], 3y6fbe, 1451075943.0, 3
+231, [Job Creation Faster In States That Raised Minimum Wage], 3sp5wb, 1447472494.0, 2
+232, [Prosperity Requires a Welfare State], 3rpanm, 1446799726.0, 0
+233, [Why everybody should have a Basic Income], 4160ad, 1452933508.0, 30
+234, [Americas Economic Freedom Has Rapidly Declined. --- "With losses of economic freedom in eight of the past nine years, the U.S. has tied its worst score ever, wiping out a decade of progress."], 43po90, 1454378440.0, 88
+235, [More than 20% of Americans are too poor to shop], 4yd0ec, 1471564341.0, 28
+236, [Corporate tax chartbook: How corporations rig the rules to dodge the taxes they owe], 56ajoj, 1475861381.0, 2
+237, [Golden Triangle: Iran, China, Russia to Drive the World Away From Dollar], 44g0sy, 1454790898.0, 0
+238, [Almost all the Republican candidates wouldve earned a higher minimum wage than workers today], 3se2h3, 1447264288.0, 3
+239, [Thomas Piketty seminar on Crooked Timber], 3w2nga, 1449697715.0, 9
+240, [This depressing chart shows that the rich arent just grabbing a bigger slice of the income pie  theyre taking all of it], 3ursen, 1448866413.0, 54
+241, [How to Fix Student Loan Crisis? Replace College Diplomas with IQ Tests], 54rqjx, 1475026411.0, 0
+242, [Trickle-Down Economics Must Die. Long Live Grow-Up Economics], 3uop4e, 1448808283.0, 0
+243, [The end of capitalism has begun], 3z5u0o, 1451784180.0, 0
+244, [Inequality made the Great Recession worse (especially for the poor)], 50aonu, 1472586301.0, 7
+245, [NGDP or NGO?, by Scott Sumner], 3z7dr1, 1451807486.0, 6
+246, [Why Oil Could Head Back To $90 Sooner Than Thought], 58g2c8, 1476986918.0, 0
+247, [When tech firms judge on skills alone, women land more job interviews], 56edel, 1475912460.0, 0
+248, [The Obama economy has now created 15 million jobs], 56dnp6, 1475903040.0, 1
+249, [EU sanctions against Russia have negative impact on economic relations of both sides], 5526s2, 1475184889.0, 0
+250, [Immigration Doesn't Hurt Native Jobs or Wages, Report Finds], 53wlxb, 1474536359.0, 1
+251, [New research from the London School of Economics estimates that a broad range of global stocks and other financial assets are overvalued because investment managers dont take the risks of climate change into account], 4z0qlz, 1471904405.0, 3
+252, [Why Are White People So Pessimistic About The Economy?], 4qyjzn, 1467515378.0, 0
+253, [Myth of the Declining Middle Class: Since 1979 lots of Americans have moved from the middle-middle class to the upper middle class], 4q64jo, 1467095870.0, 0
+254, [An Exclusive With Ron Paul], 4m9utt, 1464936456.0, 0
+255, [A Response to 'This is what a Harvard economics professor thinks should be top of the G7 agenda'], 4lpvj0, 1464648982.0, 1
+256, [American Capitalisms Great Crisis and How to Fix It], 4lcfxn, 1464406772.0, 1
+257, [Paul Mason on Post-Capitalism and economic transition], 4kdbki, 1463861693.0, 3
+258, [Chinese bank loans are growing much faster than M2, raising fears of speculative investment], 4ihcv6, 1462785789.0, 0
+259, [The False Promise of Helicopter Money], 4hhek3, 1462226311.0, 1
+260, [Paul Krugmans criticism of the eurozone can apply to the US], 4h82z0, 1462113418.0, 0
+261, [Business Bears the Weight of New York's Benefits], 4e47zv, 1460284395.0, 0
+262, [Stop Crying About the Size of Government. Start Caring About Who Controls It.], 4c3gex, 1459064509.0, 0
+263, [mainly macro: Is evidence based policy left wing?], 4bw0i7, 1458932520.0, 1
+264, [The impact of the San Francisco living wage on the hiring of inexperienced workers], 4a84mj, 1457899701.0, 0
+265, [Remember Liar Loans? Wall Street Pushes a Twist on the Crisis-Era Mortgage], 44izpy, 1454833235.0, 2
+266, [Is It Cheaper to Buy Weed on the Street or at a Dispensary?], 44atc4, 1454707831.0, 0
+267, [$15 Minimum Wage for California: Maybe Okay for the Coast, but a Disaster for the Central Valley], 44148m, 1454552794.0, 0
+268, [What Are Your Odds of Becoming a Millionaire? -- Here's how much race matters in American society.], 42ujq9, 1453881369.0, 0
+269, [Machine Learning Trading, Stock Market, and Chaos], 419ujg, 1453001591.0, 3
+270, [I Win My Inflation Bet with Robert Murphy], 3z5ecj, 1451777248.0, 2
+271, [Man who nailed 2015 oil plunge is predicting a dismal 2016], 3z3uls, 1451741023.0, 2
+272, [Scrooge and the Ethical Case for Consumption Taxation], 3yibox, 1451326525.0, 1
+273, [The US' wealth distribution is more unequal than any developed country...or any developing country for that matter, according to an Allianz study of 55 nations.], 3udllv, 1448592902.0, 0
+274, [How New Zealand fell further behind Australia], 3sym53, 1447663482.0, 1
+275, [Robots will take 15 million jobs - find out if yours is at risk], 3sph75, 1447477245.0, 0
+276, [Baby boomers are whats wrong with Americas economy], 3s25rq, 1447051387.0, 0
+277, [Fed tells banks to prepare for negative rates.], 451lle, 1455118289.0, 81
+278, [As women take over a male-dominated field, the pay drops], 4b06t1, 1458363277.0, 16
+279, [Post Brexit: German economy slumps worse than UK after referendum vote], 4pxtkq, 1466977750.0, 78
+280, [America's Best Days May Be Behind It], 4205l1, 1453414934.0, 27
+281, [After Shattering Glass Ceiling, Women CEOs Fall Off the Glass Cliff], 4z041g, 1471894713.0, 13
+282, [Do Corporate Leaders Need to Pay Taxes?], 57ww28, 1476733691.0, 0
+283, [Germany can't save DBK], 4s4np9, 1468167168.0, 3
+284, ["You Cannot Envision Yourself as an Economist Proffering Advice As If to a Benevolent Despot" -- James M. Buchanan - Coordination Problem], 4mjge1, 1465092390.0, 0
+285, [China May Never Get Rich], 4k1bhp, 1463671026.0, 2
+286, [Academic B.S. as artificial barriers to entry], 3y6kwy, 1451080628.0, 1
+287, [No More Stiglers, David Henderson], 3y1bur, 1450952930.0, 1
+288, [Note to American Enterprise Institute: Minimum Wages Do Not Correlate With Higher Unemployment], 3xqruv, 1450757224.0, 2
+289, ["A good labor economics class contains everything you need to see through the central tenets of our society's secular religion. Labor economics stands against the world. Once you grasp its lessons, you can never again be a normal citizen."], 3xolcq, 1450716943.0, 0
+290, [How to Steal $75,000 from the Poor in One Days Work], 3vye9u, 1449625415.0, 2
+291, [How Gun Traffickers Get Around State Gun Laws], 3so735, 1447458054.0, 2
+292, [Uncovering the Bad Math (or Logic) of an Economic Analysis Embraced by Bernie Sanders], 47peci, 1456528009.0, 45
+293, [What do criminal records tell us about Adam Smith and the Industrial Revolution?, Emily Skarbek], 5a9hp4, 1477904281.0, 0
+294, [US economic growth accelerated in Q3 2016], 5a1576, 1477786322.0, 0
+295, [How Economists View the Rise of Artificial Intelligence], 5a0qji, 1477781115.0, 0
+296, [Postcapitalism [in Amsterdam].], 59ygss, 1477737164.0, 1
+297, [Executive pay regulation will backfire if its not based on evidence], 58m6ix, 1477067149.0, 0
+298, [The US economy shows 'evidence for an imminent recession'], 56zab9, 1476236581.0, 1
+299, [Democracy does not cause growth], 555hos, 1475226065.0, 0
+300, [Australia shelves backpacker tax plan], 54pqzq, 1474996447.0, 0
+301, [How to regulate CEO pay (and how not to do it)], 5429e6, 1474621211.0, 0
+302, [Origins of state electric utility regulation: Was it protection of quasi-rents not creation of monopoly rents?], 53y7sa, 1474566780.0, 0
+303, [What Would It Take to Save the Middle Class?], 51wzvy, 1473450819.0, 0
+304, [Food Debate Shows Congress Is Really Bad at Regulating - Cass Sunstein], 51pn51, 1473338783.0, 0
+305, [Now that Brexit has become eminent, will a Swexit be next, and what will it mean?], 4zv9mp, 1472348209.0, 0
+306, [The FDA Wants To Make It Harder To Buy And Sell Poop], 4ywt0n, 1471838763.0, 0
+307, [JIM GRANT: Gold isn't a hedge on chaos  it's an investment in chaos], 4x0jfl, 1470833955.0, 0
+308, [GROWTH IN A TIME OF DEBT], 4wrc3f, 1470706274.0, 0
+309, [Luxury Is Losing Its Mojo], 4vmf1u, 1470085933.0, 0
+310, ['Handbag economics' and the other myths that drive austerity: Neoliberal politicians believe that that money can only be borrowed into existence, but that's not the case - and this fiction is forcing governments to resort to drastic measures], 4o93la, 1466047186.0, 0
+311, [DOW 18,000], 4n0qan, 1465355380.0, 0
+312, [Janet Yellen and the US economy], 4mvhyu, 1465278570.0, 0
+313, [How China Fell Off the Miracle Path], 4mnn9q, 1465166234.0, 2
+314, [A Question Most Americans Get Wrong About College Graduates], 4mf1k3, 1465016602.0, 0
+315, [3 job traits women value more than money], 4m108x, 1464813209.0, 1
+316, [Biggest banks in the world list: China dominates, US fades], 4l9llv, 1464360815.0, 0
+317, [FDRs Long Shadow: How Roosevelts Most Important Veto Planted the Seeds of Modern Austerity Politics], 4l74wh, 1464320959.0, 1
+318, [The real problem with negative interest rates? They are a stealth tax], 4jvqaa, 1463590223.0, 1
+319, [China could slam door on Apple, says top global risk expert], 4ggndu, 1461664246.0, 0
+320, [Low-Skilled Immigrants Are Good for the Working Class], 4dn0nd, 1459995374.0, 0
+321, [Make elites compete: Why the 1% earn so much and what to do about it | Brookings Institution], 4c8fm6, 1459161638.0, 1
+322, [Turkish Central Bank lowered one of its main interest rates], 4bw482, 1458935060.0, 0
+323, [Ban Drug Ads on TV? Some Positive Outcomes Would Be Lost], 4anaba, 1458155402.0, 0
+324, [Why don't better movies cost more?], 47fq4q, 1456383983.0, 0
+325, [Time for a carbon tax], 463t4z, 1455676040.0, 0
+326, [Is The Looming Bitcoin 'Hard Fork' Illegal?], 45w329, 1455565017.0, 1
+327, [Economists Are Ditching Their Calls for a Fed Rate Hike in March], 45f25n, 1455317674.0, 0
+328, [Are economics degrees fit for purpose? - BBC News], 44ehrq, 1454758518.0, 1
+329, ['Brexit' would lop 4 percentage points off UK GDP growth, hit pound 15-20%], 44bq6r, 1454720845.0, 0
+330, [US created 151,000 jobs in Jan vs 190,000 est; unemployment rate at 4.9%], 44aua8, 1454708267.0, 0
+331, [Googlenomics predicts sharp rise in US unemployment], 442fl7, 1454569434.0, 1
+332, [The Two Big Economic Policy Failures That John Maynard Keynes Would Be Disappointed by Today - Bloomberg Business], 43ioma, 1454266526.0, 0
+333, [Ending fowl play over trade], 42z9jn, 1453952820.0, 0
+334, [Elinor Ostrom: The Political Scientist Who Debunked Mainstream Economics], 41sdia, 1453288171.0, 1
+335, [The 62 Richest People On Earth Now Hold As Much Wealth As The Poorest 3.5 Billion], 41jpxw, 1453164183.0, 0
+336, [Why the Danes are the happiest people in the world], 3zws32, 1452220390.0, 0
+337, [Why supply and demand doesnt work for oil], 3zb9vm, 1451881054.0, 0
+338, [The Contribution of the Minimum Wage to U.S. Wage Inequality over Three Decades: A Reassessment], 3z3ek5, 1451732899.0, 0
+339, [CONVERSABLE ECONOMIST: Response to Krugman: More on Secular Stagnation], 3yws9k, 1451598080.0, 0
+340, [Do Tinder and related services increase assortative mating?], 3yi5ol, 1451321952.0, 0
+341, [Barefoot economic values, TTIP & the democratic retreat.], 3xy0v5, 1450890928.0, 1
+342, [How the Fed Just Reduced Inequality by Alexander Friedman - Project Syndicate], 3x9djl, 1450414051.0, 0
+343, [Adjustment in the Euro Area], 3wsz48, 1450140870.0, 0
+344, [How Hedge Funds Are Pillaging Puerto Rico], 3wqce1, 1450089889.0, 1
+345, [Remembering a World Without Growth], 3vb4mk, 1449195628.0, 0
+346, [Some of the Many Economic Myths Slain by Alchian & Allen], 3uub36, 1448912865.0, 2
+347, [Economics is about scarcity, property, and relationships], 3ujekk, 1448707319.0, 1
+348, [Why Millennials Still Live With Their Parents], 3u013c, 1448346595.0, 2
+349, [Is MMT applicable to the Eurozone?], 3sopri, 1447466019.0, 0
+350, [How trade deals like TPP fail the global poor], 3ruhj5, 1446894003.0, 2
+351, [Is Socialism no longer a dirty word? - New York Magazine], 3r9xuv, 1446534218.0, 1
+352, [Why we need rent controls], 3r942s, 1446523196.0, 0
+353, [Has "Capitalism" Destroyed Itself?], 3vxvgt, 1449618295.0, 10
+354, [Can Sanders Do It? Is it plausible that there could be 5 percent-plus real GDP growth and 300,000 new jobs per month over the eight years of a Sanders presidency?], 46lkfz, 1455929986.0, 304
+355, [Where Have All the Peak Oilers Gone? Doomsters fall largely silent as oil prices fall], 42fvxc, 1453671592.0, 46
+356, [The truth is out: money is just an IOU, and the banks are rolling in it - The Bank of England's dose of honesty throws the theoretical basis for austerity out the window], 4y3bgi, 1471430126.0, 20
+357, [$939 Million Short... But No Plan to Raise Revenue or Change Tactics], 4x7t9b, 1470948623.0, 2
+358, [Money for nothing: Why a universal basic income is a step too far], 4pacuq, 1466626854.0, 1
+359, [The Young and the Economically Clueless], 472x21, 1456203219.0, 2
+360, [Obama Puts the Middle Class First (Surprise: So Do Economists)], 42p106, 1453800337.0, 3
+361, [the universal basic income is inferior to the minimum family tax credit], 3yh4wk, 1451301439.0, 0
+362, [1/3 of the world population will live in Africa by 2100, how will this affect economy? sounds like a huge opportunity], 3xkvtg, 1450650365.0, 2
+363, [Refugees will repay EU spending almost twice over in five years - report | World news], 4jvt9w, 1463592073.0, 7
+364, [This is the scariest chart about the US economy right now], 4htvrg, 1462386644.0, 8
+365, [This might be the most controversial theory for whats behind the rise of ISIS], 3uz5hc, 1448987453.0, 5
+366, [Is Passive Investment Actively Hurting the Economy?], 4a9eeu, 1457923118.0, 7
+367, [Commentary: Universal Basic Income May Sound Attractive But, If It Occurred, Would Likelier Increase Poverty Than Reduce It | Center on Budget and Policy Priorities], 4zs5x9, 1472292290.0, 5
+368, [What Paul Krugman Needs to Know About Evolutionary Economics], 48y7oc, 1457140117.0, 5
+369, [This new year do background check on your investments to steer clear of frauds and ponzis - The Economic Times], 3z60ph, 1451786850.0, 11
+370, [Robots will take over most jobs within 30 years, experts warn], 45w3ye, 1455565469.0, 67
+371, [Krugman on Reich: Then and Now], 40c64g, 1452475565.0, 13
+372, [How rich do we need the rich to be?], 42b39n, 1453589373.0, 51
+373, [Economists tested 7 welfare programs to see if they made people lazy. They didn't.], 3trdm9, 1448183004.0, 38
+374, [The TPP is the Most Brazen Corporate Power Grab in American History: It's worst than any of us feared (x-post /r/technology)], 3s0ro2, 1447030631.0, 47
+375, [The Knowledge Jobs Most Likely to Be Automated], 592qym, 1477312389.0, 1
+376, [The number of people who regret voting for Brexit is now greater than the margin of victory for Leave], 58gfxf, 1476993700.0, 0
+377, [The World Bank Report Says Globalization Brings Inequality and Injustice to the Poors], 589l2r, 1476901901.0, 2
+378, [Former labor union leader advocates giving every American citizen aged 18 to 64 a supplemental income of $1,000 each month due to robots taking jobs], 56upd7, 1476166011.0, 0
+379, [LSE BREXIT  Do immigrants enjoy working more than British natives?], 54pv6f, 1474999210.0, 0
+380, [Capitalism?], 53cfow, 1474238985.0, 0
+381, [Obama's Trickle-Up Economics], 532mki, 1474070756.0, 0
+382, [Believe It Or Not, Women Are Doing Better], 4ztwvk, 1472327514.0, 0
+383, ["The Lack of EpiPen Competitors is the FDA's Fault" by Ron Paul], 4zkuf7, 1472187772.0, 1
+384, [Another Good Reason Not to Get Married, Courtesy of the IRS], 4yuwwc, 1471815914.0, 0
+385, [14 Signs The World Is On The Verge Of Generational Chaos], 4qek2b, 1467219144.0, 0
+386, [John Cochrane: How to raise GDP 10%, and reduce inequality too], 4n9qfd, 1465485470.0, 0
+387, [When It Comes To Wages, Econ 101 Is A Threat, Not A Theory], 4m9nmf, 1464933636.0, 0
+388, [Greenspan: Western World Headed for a State of Disaster], 4lf4fo, 1464454809.0, 1
+389, [5 Ways Capitalist Chile is Much Better Than Socialist Venezuela], 4kwk3e, 1464158857.0, 3
+390, [The Federal Reserve Board thinks too many people have jobs and wages are too high], 4kre56, 1464081879.0, 1
+391, [Corbyn outlines 'new economics' vision], 4ki4k2, 1463943670.0, 2
+392, [Make America Gold Again: Calls for Everyone's Favorite Standard Are Back], 4jtgvg, 1463552265.0, 0
+393, [The Worst Investment Today for the Average Person], 4jgm82, 1463355926.0, 2
+394, [Yes, Of Course Economics 101 Is Useless At Designing Public Policy], 4jazwx, 1463252629.0, 0
+395, [A Global Marshall Plan for Joblessness?], 4j1m25, 1463100569.0, 1
+396, [Even a Time Finance Columnist Is Now Questioning American Capitalism], 4ib3z7, 1462674458.0, 0
+397, [School Is to Submit: My Critique, Bryan Caplan], 4e9kxz, 1460385246.0, 0
+398, [Bill Black: The Myth that Obamas Taking Huge Contributions from Wall Street Was Fine], 4e1ti6, 1460247048.0, 0
+399, [The Panama Papers Prove It: America Can Afford A Universal Basic Income], 4dycot, 1460177511.0, 1
+400, [Universal basic income wont make America great again, either], 4df7qc, 1459865565.0, 0
+401, [Japans elderly turn to life of crime to ease cost of living], 4c5ghf, 1459112237.0, 0
+402, [A majority of Americans (58%) continue to see foreign trade as an opportunity for economic growth through increased U.S. exports, while about one in three (34%) see such trade as a threat to the economy. After nearly a decade of more skeptical views, Americans have viewed foreign trade positively], 4b34x6, 1458423958.0, 0
+403, [Sugar tax could increase our sugar intake, economic experts warn], 4axh8c, 1458319813.0, 2
+404, [Does tougher sentencing deter crime? Evidence from the London 2011 riots suggests it does], 49s3mv, 1457615640.0, 0
+405, [A 10% Rise In The Minimum Wage Cuts Teen Employment By 3% To 6% - Forbes], 49mw8h, 1457534049.0, 0
+406, [German Banks Told To Start Hoarding Cash. Officially an all-out revolution of the financial system.], 48yh6l, 1457143595.0, 0
+407, [As Chinas Economic Picture Turns Uglier, Beijing Applies Airbrush], 47jagf, 1456441785.0, 1
+408, [Chinas problems just gargantuan], 45xdwq, 1455584011.0, 0
+409, [Inflation Kills Subways $5 Footlong], 44wb6w, 1455047277.0, 0
+410, [The Need for a Tax on Financial Trading], 4365xp, 1454054669.0, 2
+411, [Iceland close to become the first country to eradicate gender gap], 4208dx, 1453416083.0, 1
+412, [Richest 1% Now Wealthier Than the Rest of the World, Oxfam Says], 41pvqs, 1453255648.0, 0
+413, [35,000 solar power industry employees added in 2015. 209,000 total industry employees.], 40lyam, 1452622952.0, 1
+414, ['Fat cat Tuesday' as top bosses pay overtakes UK workers], 3zjndv, 1452019150.0, 1
+415, [Study: Global warming to push one in 13 species to extinction], 3yn3bc, 1451412263.0, 1
+416, [Why you should always buy the mens version of almost anything], 3xzx2o, 1450928409.0, 0
+417, [Secret deal quadruples foreign workers in U.S.], 3x7tbl, 1450390937.0, 1
+418, [Banks Should Not Be Forced to Buy Stock in the Federal Reserve], 3wyhpu, 1450226591.0, 0
+419, [Never Mind $35, The World's Cheapest Oil Is Already Close to $20], 3wtj0h, 1450148764.0, 2
+420, [Childrens gifts to parents motivated by selfishness, economists claim], 3wmtn0, 1450030352.0, 0
+421, [Overwhelming evidence shows corporate tax hikes stifle growth in Canada and beyond | Fraser Institute], 3v7drn, 1449124741.0, 0
+422, [The Gospel Of Supply Side Jesus], 3v3gg2, 1449057323.0, 1
+423, [This might be the most controversial theory for whats behind the rise of ISIS], 3uv3ky, 1448927216.0, 1
+424, [Overthrowing Smith and Marx: Profits, Not Wages, as the Original and Primary Form of Labor Income], 3uj1mg, 1448700387.0, 0
+425, [Reasonable White Man Confronts Stupid Kids Wanting Free Shit], 3sp6i5, 1447472744.0, 0
+426, [Gender equality 'lifts US economy'], 4dvh27, 1460131587.0, 11
+427, [What Republicans Get Wrong About the Gold Standard], 3ssngl, 1447548646.0, 28
+428, [Over 80% Of Jobs Added In January Were Minimum Wage Earners], 48zupv, 1457161719.0, 34
+429, [China is carrying $1 trillion in bad debt and 'unless this vicious cycle is broken, financial crisis or at least a sharp slowdown is an inevitable ultimate outcome'], 4hav7t, 1462159144.0, 7
+430, [Wealthiest 20 people own more wealth than half the American population], 4yemii, 1471581407.0, 24
+431, [Destroying the Death Star was a huge mistake], 3vsj41, 1449526612.0, 70
+432, [The Case for Free Trade Is Weaker Than You Think], 4elu8c, 1460586926.0, 7
+433, [Column: The claim that if wages go up, jobs will go down is not a theory -- it's a scam], 57jyjl, 1476524662.0, 15
+434, [Your Sex Drive Is Making the Income Gap Worse], 4dw8h8, 1460148719.0, 12
+435, [The New Feudalism: Why States Must Repeal Growth-Management Laws], 58li6v, 1477054003.0, 22
+436, [The return of Keynesianism - Cutting-edge macroeconomic research opens the door for paleo-Keynesian policies], 59bamz, 1477434377.0, 21
+437, [Russia, China Building Yuan-Based Alliance Against Dollar], 51hb5b, 1473222985.0, 3
+438, [The TPP Has Always Been About Corporate Dominance, Not Trade or Economic Growth], 4leq2j, 1464444699.0, 0
+439, [Innovation Is Overrated - The Atlantic], 4eezge, 1460472987.0, 4
+440, [Paul Krugman Blames Over-Regulation for Urban Unaffordability], 4dkev0, 1459948842.0, 1
+441, [Bloomberg View: "Stop Bashing Wall Street. Times Have Changed"], 49zdl1, 1457740847.0, 3
+442, [Facebook Doesn't Waste Trillions In Time: That's The Value Facebook Adds For Us], 44fxf7, 1454788744.0, 2
+443, [Economic Growth Isn't Everything - Noah Smith], 43gw83, 1454230550.0, 0
+444, [Extreme Wealth is Not Merited | Oxfam International], 4283m2, 1453532312.0, 2
+445, [The Fed Doesn't Work For You], 41m03h, 1453192631.0, 0
+446, [Report: Dallas Fed Quietly Suspends Energy Mark-To-Market On Default Contagion Fears], 419vjc, 1453001917.0, 0
+447, [The day of reckoning arrives for global socialism], 3zf24u, 1451948003.0, 2
+448, [Economists dont know what they are talking about], 3wdxwp, 1449877155.0, 3
+449, [This Tuition Bill From 1979 Will Make You Want to Cry], 3uv7i8, 1448928774.0, 1
+450, [Economists Say We Should Tax The Rich At 90 Percent], 3tr415, 1448178483.0, 0
+451, [US profits combatting climate change .. or lose by doing nothing (NYU Center for Policy Integration)], 3rmvpy, 1446764683.0, 4
+452, [The New York Times Complains of Drug Price Hikes While Raising Its Own Subscription Fees], 3xsaz6, 1450781643.0, 0
+453, [Study finds women economists suffer a "co-author penalty." While men receive the same professional credit for solo-authored papers as for work done with a woman or another man, women arent properly credited for their work when they co-author a paper with a male colleague.], 463otp, 1455674541.0, 48
+454, [A Starting Point For Beginners: Economics in One Lesson], 5055a8, 1472508161.0, 2
+455, [What is Poverty in the United States: Air Conditioning, Cable TV and an Xbox], 4v46iz, 1469785207.0, 0
+456, [The US economy has been doing poorly. Europe and Japan have done much worse.], 4qmepa, 1467330983.0, 2
+457, [Terry Burnham: The monetary bubble to end all bubbles is coming], 4qioh2, 1467272579.0, 4
+458, [The $15 Minimum Wage Will Kill Jobs. Should You Care?], 4dt2yf, 1460090993.0, 5
+459, [How To Get Dads To Take Parental Leave? Seeing Other Dads Do It : NPR], 44rrs6, 1454979115.0, 3
+460, [Petrodollars are eurodollars, and eurodollar base money is shrinking], 42nmvg, 1453783822.0, 4
+461, [Study: The Strongest Evidence Yet That Abudant Parking Causes More Driving], 40wnhe, 1452786318.0, 2
+462, [Future Economists Will Probably Call This Decade the 'Longest Depression'], 409uq7, 1452428263.0, 4
+463, [Bagging a Birkin, a NPR story about people jumping through hoops to get the right to buy a $60,000 bag. A scathing indictment on inequality if you ask me.], 3y8yo6, 1451129876.0, 4
+464, [Who is responsible for the eurozone crisis? The simple answer: Germany], 3wrpid, 1450117057.0, 4
+465, [The Good Old Days of the Gold Standard? Not Really, Historians Say], 3v2igk, 1449042483.0, 4
+466, [Harvard professor identifies the 'worst nightmare' in America right now], 53718b, 1474144322.0, 5
+467, [Alan Greenspan wants the US to go back on the gold standard], 4s5g4o, 1468185647.0, 3
+468, [The Jobs Recovery May Not Be Flashy, But Its Strong], 4rv818, 1468020730.0, 3
+469, [Happy Birthday, F. A. Hayek], 4iex1q, 1462749546.0, 3
+470, [Economic theory Is dead. What will replace it?], 4ao1r3, 1458167378.0, 3
+471, [Does the porn industry point the way to a more equal America?], 3wp6ec, 1450072078.0, 0
+472, [Noahpinion: 101ism in action: minimum wage edition], 4e3igd, 1460272234.0, 10
+473, [New York Times : The Era of Free Trade Might Be Over. Thats a Good Thing], 4afxas, 1458029477.0, 57
+474, [Why We Need ZeroHedge], 4h1g6o, 1461991785.0, 16
+475, [The Fed caused 93% of the entire stock market's move since 2008: Analysis], 4a1sm8, 1457774749.0, 88
+476, [Former Colonies Aren't Poor Because of Western Plunder - Noah Smith], 3z0140, 1451664010.0, 51
+477, [Global stocks plunge amid fears of a new financial crisis], 41d1dr, 1453056316.0, 30
+478, [Results reveal that the women with the LGBT indicator on their rsums were discriminated against compared with the other women, receiving about 30 percent fewer callbacks.], 4b84ec, 1458519434.0, 46
+479, [Basic income after automation? Thats not how capitalism works], 582vqu, 1476811466.0, 33
+480, [The pioneer spirit of America is gone], 4rx6cx, 1468043557.0, 12
+481, [Bitcoin to become sixth largest global reserve currency by 2030], 3rcbio, 1446579831.0, 21
+482, ["in 2015, just 62 individuals had the same wealth as 3.6 billion people - OXFAM BRIEFING PAPER], 47exq5, 1456377005.0, 104
+483, [China is about to go through a similar (likely larger) bubble burst as Japan did in 1990s], 57x8w1, 1476738872.0, 61
+484, [An exciting new idea in Basic Income  Emergent Culture], 59gg2w, 1477499059.0, 7
+485, [AT&Ts Merger Could Be A Bad Sign For The Economy], 59c2e3, 1477442667.0, 0
+486, [Taiwan (China)A new political party to promote basic income is under preparation], 57serf, 1476666794.0, 0
+487, [Who Will Win the Nobel Prize in Economics? No One Has a Clue], 56kdni, 1476009577.0, 1
+488, [Trudeau says Canada to implement carbon tax], 560pe1, 1475717808.0, 0
+489, [IMF:Fading Ricardian Equivalence in Ageing Japan(PDF)], 54s7oz, 1475031893.0, 0
+490, [Racial Disparities In Wages Boil Down To Discrimination], 54hgr3, 1474870706.0, 0
+491, [Ezra Pound on Money | Counter-Currents Publishing], 545uv7, 1474680258.0, 0
+492, [Stiglitz and the demise of marginal productivity theory], 541uhv, 1474615215.0, 0
+493, [Are zero-hours contracts really worse than jobs for life? | Deborah Orr | Opinion | The Guardian], 527k91, 1473608483.0, 0
+494, [Eurosceptics are salivating at the idea of 'Irexit' after Apple's shock 13 billion EU-Ireland tax bill], 50gt95, 1472673651.0, 1
+495, [How should we tax peoples good fortune? New study has surprising data], 505okb, 1472514860.0, 1
+496, [Environmental and Urban Economics: An Economic Analysis of the NY Times Bashing of Exxon on "Carbon Stranded Assets"], 4yq4is, 1471742985.0, 0
+497, [Can "Charter Cities" Change the World? A Q&A With Paul Romer], 4xzipb, 1471383414.0, 0
+498, [The role of the six-day working week in Japanese sexism and the gender wage gap], 4xc54c, 1471010725.0, 0
+499, [Confucius Has Some Advice for Trading With China], 4x4u1k, 1470897213.0, 0
+500, [Its Not the Economy, Stupid.], 4wl4zl, 1470610581.0, 0
+501, [Bank of Canada: Time-Varying Crash Risk: The Role of Stock Market Liquidity (PDF)], 4u432k, 1469239323.0, 1
+502, [Subprime Government Negative Interest Bonds Climbs To $13 Trilllion In Just 2 Years], 4tt576, 1469074718.0, 1
+503, [The Struggling Norwegian Economy Illustrated in Charts], 4tcg7v, 1468831008.0, 0
+504, [Did This Landlord Prove that Parking Reform Can Lower Rents?], 4t1ggk, 1468646928.0, 1
+505, [Western Retreat Makes Room for Chinese Advance], 4rc3fa, 1467744412.0, 2
+506, [Italy Granted "Extraordinary " 150BN Bank Bailout Program To Prevent "Panic, Run On Deposits"], 4qtz61, 1467435248.0, 0
+507, [How to Synthesize New Economics with Traditional Economics], 4pgsu6, 1466718259.0, 1
+508, [What an MBA student needs to know about Elasticity in Economics], 4oinag, 1466189030.0, 0
+509, [a history of "command and control", or, thomas schelling is behind every door], 4ndtga, 1465547399.0, 0
+510, [Institutional investors are delusional: "institutions are expecting their hedge funds to return 13% per year"], 4nbfd9, 1465516347.0, 0
+511, [Dean Baker on Australias 25 Percent Corporate Tax Rate], 4na0qe, 1465492575.0, 1
+512, [Can Philosophy Stop Bankers From Stealing?], 4n27bn, 1465373234.0, 1
+513, [I love the idea of a Universal Basic Income. But here's the problem], 4mxc2z, 1465302948.0, 1
+514, [Relationship Between Happiness and Income in the U.S.], 4mrfxc, 1465219662.0, 0
+515, [Modesty sells | British Muslims are a growing market], 4mplu4, 1465192062.0, 1
+516, [Why the economic consensus on Brexit is flawed], 4lus4t, 1464723370.0, 1
+517, [Do Courts Have a Pro-Business Bias?], 4ljl96, 1464535816.0, 0
+518, [Why Has Regional Income Convergence in the U.S. Declined?], 4lejv0, 1464440877.0, 0
+519, [Compared to the older generation unemployment for millennials is 40% higher & college is 308% more expensive. Plus 1 in 5 are living in poverty.], 4k30xv, 1463700892.0, 0
+520, [Why Restaurants Are Ditching The Switch To No Tipping], 4jwv3e, 1463609813.0, 1
+521, [How Bad Biology is Killing the Economy: "The CEO of Enron happily applied selfish gene logic to his human capital, thus creating a self-fulfilling prophecy. Assuming that the human species is driven purely by greed and fear, Jeffrey Skilling produced employees driven by the same motives."], 4j8hah, 1463203388.0, 0
+522, [Janus's Bill Gross: 'Helicopter money' is coming in a year or so], 4hu9eb, 1462394148.0, 1
+523, [Could an income for all provide the ultimate safety net?], 4hoqik, 1462326456.0, 1
+524, [Chinese Investors Reeling After Wealth Management Firm's Collapse : Parallels : NPR], 4hnpv8, 1462317275.0, 0
+525, [Navigating like a Norwegian: How Norway Dispels the Private vs Public Sector Myth], 4h92qn, 1462139178.0, 1
+526, [Inequality, The Bourgeois, And Ideas That Changed The World With Deirdre McCloskey], 4h313s, 1462016727.0, 0
+527, [Does future growth depend on the universal basic income?], 4go4ru, 1461787219.0, 0
+528, [Sarandonizing Economics], 4fytwj, 1461366149.0, 0
+529, [Does Transit Really Reduce Congestion?], 4ddo1r, 1459840122.0, 0
+530, [Top French fashion brands set to become Chinese-owned], 4d61nm, 1459716892.0, 1
+531, [International Carbon Action Partnership (ICAP) - STATUS REPORT 2016], 4d22lg, 1459642076.0, 0
+532, [Should we care if a $15 minimum wage reduces jobs?], 4cz7tg, 1459587075.0, 0
+533, [Hyperinflation and Life in Zimbabwe, 2008], 4ckwfu, 1459375638.0, 0
+534, [Software Meets Capitalism: Interview with Steve Klabnik], 4c8qy6, 1459167343.0, 0
+535, [Violence against women: A cross-cultural analysis for Africa], 4bui4l, 1458896408.0, 0
+536, [The Time and Place for Helicopter Money], 4bmraj, 1458773161.0, 0
+537, [Why the Federal Reserve should be the world's central bank], 4bhqgk, 1458687530.0, 0
+538, [Ross McKitrick: How politicians wrecked the case for carbon taxes], 4anbie, 1458156085.0, 0
+539, [Staring down an economic reckoning in the Detroit of China], 496vbd, 1457289604.0, 0
+540, [Is China trade inflationary? I like contrarian arguments, but the hypothesis in the title is a bit too much for even me to accept. Instead I'll argue that the fans of the recent paper by Autor, Dorn and Hanson (ADH) are implicitly making this claim - probably.], 4926sv, 1457208483.0, 0
+541, [UMass economists find a place during the year of the outsider], 48t2jr, 1457056012.0, 0
+542, ['The Big Short', Housing Bubbles and Retold Lies], 48f7ty, 1456847805.0, 0
+543, [MarketWatch: Chinas real problem is its policy, not its economy], 48buj4, 1456802092.0, 1
+544, [Cut Health Costs or Help Workers. You Can't Do Both.], 47msxp, 1456480738.0, 0
+545, [Why we can't make a good case for or against the TPP], 46pjeg, 1455991416.0, 0
+546, [What Life Was Like in America 100 Years Ago], 4620hi, 1455649837.0, 0
+547, [Incentives and Food Stamps], 4602y8, 1455615700.0, 1
+548, [China's trade with countries along the Maritime Silk Road grew by an average of 18.2 percent annually over the past decade], 45ifg4, 1455361860.0, 0
+549, [U6 is now the last refuge of scoundrels], 45h2vb, 1455342680.0, 0
+550, [Three Stories About Capitalism (Jonathan Haidt)], 45fgsh, 1455322892.0, 0
+551, [Tesla predicts rosy 2016, but can Elon Musk be believed?], 4596b2, 1455231962.0, 0
+552, [Yen, bonds, gold all gain at dollar's expense, stocks sag], 457l0g, 1455202636.0, 0
+553, [Kyle Bass: China banks may lose 5 times US banks' subprime losses in credit crisis], 456qvm, 1455189223.0, 0
+554, [Anticompetitive Regulations Highlighted in the 2016 Heritage Index of Economic Freedom (Also, the U.S. Continues to Slip)], 44dv3s, 1454748556.0, 0
+555, [The simple arithmetic that could jump-start Americas economic growth - George Will], 444eoh, 1454602920.0, 0
+556, [U.S. Senators move to preserve solar net metering through energy bill amendment. The bill would require state regulators to account for the economic benefits of distributed solar before changing net metering valuations], 4425ca, 1454565799.0, 0
+557, [State benefits negatively affect personality  here's how], 43wcyf, 1454476784.0, 0
+558, [Business Insider: An industrial giant is sounding the alarm on the global economy (CAT)], 43fghk, 1454210213.0, 0
+559, [Missing the point on R&D and economic growth], 43bjd7, 1454139415.0, 0
+560, [Is the next recession on the way? Heres everything you need to know about the markets oil collapse], 42is37, 1453712298.0, 0
+561, [Why Aren't Government Employees Worse?, Bryan Caplan], 42f37i, 1453649994.0, 0
+562, [Keynesian economics and cognitive illusions], 42du2t, 1453627413.0, 0
+563, [Banning the Big Gulp and Taxing Sodas Are Lousy Solutions to the Obesity Problem], 429ohk, 1453557863.0, 0
+564, [Whos afraid of cheap oil? Low energy prices ought to be a shot in the arm for the economy. Think again], 425up9, 1453503429.0, 0
+565, [Davos Boss Warns Refugee Crisis Could Be Precursor To Something Much Bigger], 41lr0h, 1453189244.0, 0
+566, [This may be the most important chart for understanding politics today], 4161mg, 1452934080.0, 0
+567, [Has There Ever Been a Sound Theory of Economics?], 414nte, 1452915094.0, 0
+568, [Heterodox economists and mainstream eclecticism], 4137o8, 1452895515.0, 2
+569, [Minimum Wage, a potential solution to unemployment? - working paper pitch, need feedback], 40cznc, 1452486197.0, 1
+570, [The country that tricked the world], 40c6aj, 1452475626.0, 9
+571, [When does prosperity and rising incomes increase child poverty], 404pi5, 1452340063.0, 1
+572, [Duflo and Banerjee take the guesswork out of policies that help the poor], 3zo0g3, 1452081337.0, 1
+573, [Evil is the root of all money.], 3zn7ju, 1452069952.0, 1
+574, [Three Steps Towards More Effective Development Assistance (WP 01/26)  The Treasury - New Zealand], 3z0kbe, 1451682428.0, 0
+575, [Tipless CommonWealth Micropub shutters just nine months after opening], 3y0y4y, 1450945765.0, 1
+576, [What to Do About Inequality | Boston Review], 3xxrtl, 1450884034.0, 1
+577, [Grossman, M. (1972). On the Concept of Health Capital and the Demand for Health.], 3xk1ho, 1450624581.0, 0
+578, [links to papers of Demsetz, Harold], 3xgmdl, 1450558875.0, 0
+579, [U.S. renewable energy isnt helping the economy  or the fight against ISIS], 3x8358, 1450395391.0, 0
+580, [Why I worry experimental social science is headed in the wrong direction - Chris Blattman], 3w7qed, 1449778060.0, 1
+581, [Bon Jovi Teams Up With NFL for Fan Hospitality Business - RedBird Capital], 3vw1ac, 1449578739.0, 2
+582, [Recessions are always a problem and can always be avoided], 3vai7a, 1449186689.0, 0
+583, [The benefits outweigh the costs of holding bitcoins for the Central Bank of Barbados], 3v9oxw, 1449170438.0, 0
+584, [Emperor Palpatine, the Death Star, and systematic risk: How much would whatever government remains after the death of Palpatine need to bailout glactic institutions destabilized by the destruction of two deathstars and the death of Palpatine?], 3v6ava, 1449110080.0, 0
+585, [Are Successful CEOs Just Lucky?], 3uujgr, 1448917888.0, 0
+586, [TOWARD AN UNDERSTANDING OF WHY PEOPLE DISCRIMINATE: EVIDENCE FROM A SERIES OF NATURAL FIELD EXPERIMENTS], 3t30y6, 1447744814.0, 1
+587, [The Brexit debate, Alberto Mingardi], 3spvck, 1447483319.0, 0
+588, [Bank of Englands Andy Haldane warns Smart machines could take 15 million UK jobs and 80 million in the US], 3so1ao, 1447455448.0, 1
+589, [Wheres the money in America? This 3D map will show you], 3sish6, 1447354045.0, 2
+590, [NBER:Mobile Messaging for Offline Social Interactions: a Large Field Experiment -- by Tianshu Sun, Guodong (Gordon) Gao, Ginger Zhe Jin], 3scl1h, 1447232394.0, 2
+591, [IMF:Public Investment in a Developing Country Facing Resource Depletion(PDF)], 3sbsb6, 1447220625.0, 1
+592, [Berkshire Hathaway's profit up on investment gain], 3rwidg, 1446943366.0, 2
+593, [The 1 Percents Earnings Could Be Stagnating  At $671,000], 3rda0s, 1446596614.0, 0
+594, [KRUGMAN: The richest Americans should have a tax rate over 70%], 51r2xh, 1473367121.0, 1016
+595, [Basically Flawed: Proponents of Basic Income Underestimate How Disruptive It Would Be], 4mugr4, 1465266672.0, 7
+596, [The US is a currency manipulator just like everyone else], 4m3kg6, 1464844107.0, 7
+597, [How the Profound Changes in Economics Make Left Versus Right Debates Irrelevant], 4lgvw2, 1464488262.0, 6
+598, [Negative Oil Prices Arrive: Koch Brothers' Refinery "Pays" -$0.50 For North Dakota Crude], 41jdwn, 1453159679.0, 7
+599, ['Inequality' is behind the rise of Isis, says author Thomas Piketty], 3vjqwh, 1449358369.0, 6
+600, [Why amazing video games could be causing a big problem for America: "an additional reason many of these young men - who don't have college degrees -- are rejecting work is that they have a better alternative: living at home and enjoying video games."], 54659b, 1474683556.0, 142
+601, [3 charts explain why Pikettys idea that inequality fueled Islamic States rise is flawed], 3vwav5, 1449583708.0, 6
+602, [Brexit is making Britons poorer, and meaner], 5745m6, 1476309139.0, 283
+603, [Why So Few American Economists Are Studying Inequality], 52jy32, 1473794690.0, 11
+604, [6 foundational principles the most commonly used book for teaching economic principles leaves out.], 50n9ne, 1472766725.0, 12
+605, [Apocalypse now: has the next giant financial crash already begun? by Paul Mason], 3rmrsi, 1446762945.0, 11
+606, [Economists Should Stop Defending Milton Friedman's Pseudo-science], 505ltz, 1472513951.0, 0
+607, [Physics Has Einstein, Biology Has Darwin. Economics Has...], 40pqf7, 1452679020.0, 6
+608, [I am nominating Satoshi Nakamoto for the NobelPrize in Economics.], 3ruek4, 1446892437.0, 13
+609, [Poor kids who do everything right don't do better than rich kids who do everything wrong], 593qcs, 1477332219.0, 1315
+610, [Why does McCormick net weight .75 oz cinnamon sticks cost $6.19 ($132/lb) when local bulk store can sell it at $10.56 /lb. Pics in comments], 3xj9ol, 1450607148.0, 27
+611, [Study finds higher minimum wage hurting youth employment], 40bk4k, 1452466420.0, 73
+612, [Why a Universal Basic Income Will Not Solve Poverty], 4lw9wa, 1464743173.0, 101
+613, [Gender Identity and Relative Income within Households | Bertrand, Kamenica and Pan (QJE 2016)], 5aamgw, 1477920039.0, 1
+614, [How to Raise Wages: Policies That Work and Policies That Dont | Economic Policy Institute], 58rv0l, 1477144937.0, 1
+615, [[Canada] Gender wage gap adding to income inequality, Oxfam says in new report - CBC], 58386f, 1476818425.0, 0
+616, [The Peak Whale oil Theory], 57q545, 1476624768.0, 1
+617, [If our global economy were doing great, interest rates would not be where they are today], 56az36, 1475870087.0, 0
+618, [Markets Are Breaking Down Indias Caste System, Turning Untouchables into Millionaires], 55oxdw, 1475545949.0, 1
+619, [Erwin Dekker on Carl Menger on Adam Smith], 55aq6h, 1475307324.0, 0
+620, [Austerity Only Benefits Germany and Destroys Europe, Renzi Says], 53stux, 1474488769.0, 0
+621, [Free Trade's Unwilling Victims], 53nbmu, 1474406628.0, 1
+622, [Apple tax ruling must be overturned, says US business group], 53b8q4, 1474212149.0, 0
+623, [Harvard economist never thought his new study would take him where it did], 52w7z1, 1473976104.0, 0
+624, [Our world is not a pure market economy, and economics cant explain it], 52hzhn, 1473759331.0, 0
+625, [The European economy is going backwards], 518y8w, 1473102899.0, 1
+626, [Millennials Will Be The Last Globalized Generation], 4y4fqn, 1471450137.0, 2
+627, [China's Marshall Plan], 4ww9ah, 1470779284.0, 1
+628, [Reining in Wall Street to Benefit All Americans The Case for a Financial Transactions Tax], 4v3kie, 1469776483.0, 0
+629, [Bond Economics: John Taylor Highlights The Uselessness Of Taylor Rules], 4qypx2, 1467517808.0, 0
+630, [Economic Update: What Brexit Means (55:40) (Richard D. Wolff) TL;DR "Capitalism is a system of severe, profound contradictions..."], 4qp6ob, 1467365265.0, 0
+631, [Next domino to fall may be Italy, which has an October referendum], 4pz258, 1466995309.0, 1
+632, [What Do We Mean by Sound Money?], 4p41pr, 1466536144.0, 1
+633, [Economics Has Defeated Supersonic Airliners], 4oo5pl, 1466278315.0, 1
+634, [How Perfect Markets Concentrate Wealth and Strangle Growth and Prosperity], 4mqu9s, 1465209861.0, 0
+635, [The real reason that so many women have to spend so much time getting ready], 4lpsdn, 1464647791.0, 0
+636, [Throw out the standard urban economics model], 4l5fd4, 1464299994.0, 0
+637, [Inequality, Indian Style - Brand-filled shopping malls spread. So do shanties. A rich man builds a 27-story house for his family in a nation of 1.2 billion people where more than a quarter of them lives on less than two bucks a day.], 4jtp71, 1463555500.0, 0
+638, [Uber and Lyft Defeated by Voters in Austin, Texas], 4ih45a, 1462781956.0, 0
+639, [How negative interest rates work?], 4h4dji, 1462050392.0, 1
+640, [The Surprisingly Compelling Argument for Open Borders], 4fzbnf, 1461372618.0, 1
+641, [Yes, We Can Have Full Employment, Fair Wages, and Price Stability], 4fr1lt, 1461236091.0, 0
+642, [Free trade has won: adapt or die is the only option left to us], 4f5arh, 1460897283.0, 0
+643, [DW: Russia is running out of money], 4f20kq, 1460844287.0, 1
+644, [Watch Out for the U.S. Recession Signal in Friday's GDP Report - JPMorgan sees 50 percent chance of downturn in two years], 4bpktl, 1458811572.0, 2
+645, [Skyscrapers  but no sewage system. Meet a city run by private industry], 4bmnjp, 1458771713.0, 0
+646, [Central banks prove Einstein's theory], 4bcw6r, 1458605413.0, 2
+647, [Did central bankers make a secret deal to drive markets? This rumor says yes], 4azfa5, 1458352404.0, 0
+648, [Climate change cost is destined to rise], 49qbb6, 1457588219.0, 0
+649, [[X-Post from /r/WorldNews] Canada plans to experiment with giving people unconditional free money (universal basic income)], 499t59, 1457336561.0, 0
+650, [Natural scientists may have to stop sneering at their economist brethren, and recognise that the dismal science is, indeed, a science after all.], 48yy50, 1457149692.0, 0
+651, [Is Greece not another compelling reason to vote for Brexit on 23rd June? by Yanis Varoufakis], 48froe, 1456859355.0, 1
+652, [Buffett: Politicians Dead Wrong on Economy], 489rtt, 1456774005.0, 1
+653, [China #stock slide], 489hc5, 1456768060.0, 2
+654, [Foxconn, Sharp Said to Consider Revising Terms of Approved Deal], 482ff7, 1456698313.0, 1
+655, [Venezuela replaces hardline leftist economic czar after 1 month, will be replaced with a more business-friendly figure], 46lidr, 1455929295.0, 1
+656, [How blockchain will save us from the perils of central bank price fixing], 468e1n, 1455743173.0, 0
+657, [Is Mexico's Soda Tax Really Working?], 45n2kk, 1455431023.0, 0
+658, [Oil Is the Cheap Date From Hell], 45mmgi, 1455426317.0, 1
+659, [Canada sells off large chunks of its gold reserves], 45bixj, 1455259191.0, 0
+660, [Markets Don't Work as Well as We Thought - Bloomberg View], 457us4, 1455208614.0, 0
+661, [Citi: World economy trapped in death spiral], 44cncy, 1454732304.0, 1
+662, [Obama to propose $10-per-barrel fee on oil], 448mmi, 1454666200.0, 2
+663, [The Biofuel Scam Is Worse Than Solyndra | Manhattan Institute], 43xohh, 1454494685.0, 0
+664, [Why we should privatize utilities: Flint water victims can't sue the government], 43wfr2, 1454477792.0, 0
+665, [The Gender Wage Gap: Extent, Trends, and Explanations (PDF)], 413s5w, 1452903989.0, 0
+666, [Internet Yields Uneven Dividends and May Widen Inequality, Report Says], 40y36q, 1452814900.0, 1
+667, [Edmonton Uber rider wants fare cap or warning in wake of $1,114 bill on New Years Eve | National Post], 3zgp6v, 1451970840.0, 0
+668, [Does Wealth Inequality Matter for Growth? The Effect of Billionaire Wealth, Income Distribution, and Poverty | Cato Institute], 3zel7o, 1451939247.0, 1
+669, [Why are American healthcare costs so high? WSJ article unintentionally provides numerous clues. (Paywall - text in comments)], 3zbf5l, 1451883076.0, 1
+670, [Don't target NGDP, target NGO!], 3ysv16, 1451523383.0, 0
+671, [The Firm as a Time Lord], 3y0qhq, 1450941991.0, 1
+672, [There's No Miracle Cure for Health-Care Costs], 3xp8fp, 1450733106.0, 2
+673, [The Best Countries For Business 2015], 3xku46, 1450649258.0, 0
+674, [Is there really a Great Stagnation? The problem of measuring economic growth in America's digital economy - AEI | Pethokoukis Blog  AEIdeas], 3wmuvk, 1450031428.0, 0
+675, [Economists agree: economic models underestimate climate change [IPI survey of 365 economists]], 3vyund, 1449631357.0, 1
+676, [On spending  PHARMAC budget on one semi-wonder drug], 3vnmxt, 1449436614.0, 0
+677, [Should cryptocurrencies be included in the portfolio of international reserves of the Central Bank of Barbados | Central Bank Working Paper], 3urpep, 1448865216.0, 2
+678, [What is "narrow banking" - and could it put finance right?], 3upaze, 1448824706.0, 2
+679, [The Fed is above the law], 3u63j2, 1448451262.0, 1
+680, [Helen Clark: 'Many things blighting our world are linked to inequality'], 3u1weu, 1448378652.0, 0
+681, [Does market monetarism exist in reaction to fiscal stimulus?], 3tuern, 1448248902.0, 0
+682, [Swiss alternative bank breaks negative rates taboo], 3ttb9f, 1448230720.0, 1
+683, ["We know by now that [the rise of right-wing populism] is closely linked to a dramatic, underlying economic upheaval..right-wing populist electoral success reflects the mobilization of the skilled male manufacturing workers..." [x-post r/politics]], 3t3236, 1447745312.0, 0
+684, [Is fossil fuels disinvestment a cheap or expensive futile gesture?], 3svct4, 1447596756.0, 0
+685, [Are Women More Likely Than Men To End A Relationship?], 3sikzo, 1447347184.0, 0
+686, [The "sharing" economy sounds groovy: politically neutral, anti-consumerist. Wait until it comes for your job], 3rifq3, 1446684930.0, 2
+687, [Conservatives Don't Have a Secret Formula for Growth], 3rcs2q, 1446589285.0, 0
+688, [Americans pay more in taxes than for housing, food, clothes combined], 4eycho, 1460776961.0, 10
+689, [Why AI will break capitalism], 4nq9ib, 1465767565.0, 0
+690, [Wendys Serves Up Big Kiosk Expansion As [Minimum] Wage Hikes Hit Fast Food], 4j3s1o, 1463128255.0, 5
+691, [Bad Argument of the Day: Trickle-down Economics], 4ge1e9, 1461629781.0, 0
+692, [Shut Up About Harvard], 4ck7ad, 1459362858.0, 3
+693, [The dead hand of austerity; left and right], 42c5fg, 1453604339.0, 4
+694, [Has a Central Bank ever accurately predicted a recession? The answer is no.], 3w0hce, 1449653633.0, 67
+695, [Economists Believe a Recession Is Likely Within Next Four Years], 57exrc, 1476453171.0, 4
+696, [Why Its Time to Worry Again About Americas Rising Federal Debt], 56lwlq, 1476043308.0, 3
+697, [Seattle minimum wage workers have hours cut, lose jobs], 4xrjjx, 1471258006.0, 0
+698, [Millionaires don't flee high-tax states more often, study says], 4l8psf, 1464343437.0, 2
+699, [The Real Story of Wealth Creation: "Lots of people talk about the need for economic growth. But when pressed, almost no one has any clue how it works."], 4kkwef, 1463985482.0, 3
+700, [How the "Maximize Shareholder Value" Myth Weakens Companies and Economic Systems | naked capitalism], 4kklr9, 1463981382.0, 0
+701, [Regulation is probably not why CEOs are becoming social justice warriors], 4id5o4, 1462708369.0, 1
+702, [The coming debt bust: It is a question of when, not if, real trouble will hit in China], 4i9hr3, 1462644991.0, 1
+703, [Time for a Real Change: Repeal the Corporate Income Tax], 46cayt, 1455788664.0, 0
+704, [Distributive Institutions Are to Blame for Income Inequality, Not Power Couples], 3yjp0z, 1451353879.0, 3
+705, [The strange and misunderstood reasons for the Brazilian crisis], 3y0yb6, 1450945849.0, 4
+706, [Piketty challenges us to consider if we need to rein in wealth inequality in Australia], 59dgi6, 1477457232.0, 3
+707, [China: Soon the most visible victim of deglobalisation], 590qo6, 1477285346.0, 2
+708, [Brookings Institute-affiliated study at Center for Retirement Research at Boston College finds that investing a portion of Social Security Trust Fund in equities would have improved its finances and would likely reduce the need for higher payroll taxes], 58zbpx, 1477268957.0, 0
+709, [Why can't economics see race], 58mvzn, 1477081045.0, 0
+710, [No country on Earth is taking the 2 degree climate target seriously. If we mean what we say, no more new fossil fuels, anywhere.], 5624br, 1475734085.0, 0
+711, [Global Market Fears of Brexit Are Way Overblown], 4pd1il, 1466658582.0, 2
+712, [Is the Fed losing credibility?], 4oj28s, 1466196552.0, 0
+713, [What Would Happen If We Just Gave People Money?], 4mun5t, 1465268644.0, 2
+714, [Universal basic income: Sighing for paradise to come (The Economist)], 4mn2oc, 1465156566.0, 3
+715, [How China Fell Off the Miracle Path], 4mmzcb, 1465154707.0, 0
+716, [Housing Bubble 2016?], 4lgin2, 1464482646.0, 0
+717, [When All Economics Is Political], 4jfuks, 1463343290.0, 2
+718, [Elizabeth Warren, Democrats Slam The Fed's Lack Of Diversity], 4j26jo, 1463107402.0, 0
+719, [John Maynard Keynes died 70 years ago. We ignore his wisdom at our peril], 4ftiq7, 1461281806.0, 0
+720, [Cancel your subscriptions to Time Magazine], 4fcrr5, 1461026813.0, 1
+721, [Meatonomics: Great New Animated Video Explains the Terrible Economics of Meat Production in 3 Minutes], 4dljkc, 1459975075.0, 2
+722, [Economic models predict GOP White House, even with Trump], 4ddwz9, 1459843698.0, 2
+723, [The bizarre optimism in Donald Trumps theory of the economy], 4d5jol, 1459702886.0, 2
+724, [Former Treasury Assistant Secretary for Economic Policy and Wall Street Journal editor Paul Craig Roberts: "TPP Is Not A Trade Agreement"], 4c31lc, 1459057813.0, 1
+725, [The Hood Robin Economy No one can agree on the causes of inequality, but its effects are indisputable: more policies that benefit the already rich.], 4c16s2, 1459028414.0, 3
+726, [China sets economy growth target of 6.5-7.0% for 2016], 485tnl, 1456723959.0, 2
+727, [Oil Is the Cheap Date From Hell: Why falling oil prices hurt stocks even though they help the economy.], 46ypsz, 1456137183.0, 3
+728, ["A crude estimate of the number of US deaths caused by welfare reform dwarfs US deaths caused by al Qaeda, plus the decision to invade Iraq, plus murder."], 45smnk, 1455508956.0, 0
+729, [Greece is facing another recession because of austerity. The deeper the contraction, the more the government is likely to fall short of its budget targets, leading to pressure from creditors to enact more austerity], 44e0w8, 1454751045.0, 3
+730, [Are We Headed For Another Recession?], 412v1l, 1452889096.0, 3
+731, [Please, Not Another Bias! The Problem with Behavioral Economics], 3yxppl, 1451614689.0, 0
+732, [Destructive Long-Termism: "if the clear and present problem is inadequate demand, then we should have policies to deal with that problem  I dont care how important you think the long run is, we should deal with the crisis at hand."], 3ynbf9, 1451418858.0, 2
+733, [Patents and economics favor drugs with modest benefits for the very sick, but not preventing cancer], 3ykglu, 1451365239.0, 2
+734, [In Sweden, a Cash-Free Future Nears], 3ye8ab, 1451250216.0, 0
+735, [Bernie Sanders: To Rein In Wall Street, Fix the Fed], 3y16l4, 1450950093.0, 2
+736, [China to Overtake Switzerland as World Leading Producer of Rice], 3wfvic, 1449903385.0, 0
+737, [Stocks are more overvalued now than at 2000 and 2007 peaks], 3wdfgc, 1449868952.0, 2
+738, [Income Inequality And the Poor are Still Getting Richer], 3w5nw5, 1449740191.0, 2
+739, ["... the Fed chose to pursue a slow recovery."], 3vmmtx, 1449407368.0, 1
+740, [Every country's debt, mapped], 3v1lv0, 1449030178.0, 4
+741, [Were the Luddites right about technology and jobs?], 3ssq9y, 1447549940.0, 0
+742, ["Republicans have turned their back on Friedman, whether they know it or not, and draw their monetary doctrine from Austrian economists like Friedrich Hayek" (Krugman NYT Op-Ed)], 3sqaib, 1447492597.0, 0
+743, [The Economy Is Better  Why Dont Voters Believe It?], 3sj7cd, 1447364910.0, 3
+744, [Time to ask why we're still in the era of ultra-low rates], 3rmkww, 1446759561.0, 3
+745, [How to Help the Middle Class Retire Comfortably at No Extra Cost], 3rhek0, 1446667286.0, 2
+746, [Hostess And Twinkies saved by Automation And Firing 95% Of The Union Workforce], 4scdi7, 1468289632.0, 104
+747, [51% of young people polled reject capitalism], 4gpapv, 1461803557.0, 160
+748, [Race and gender may not affect employer interest in resumes], 4jg1e1, 1463346773.0, 12
+749, [How U.S. companies are avoiding $695 billion in taxes], 4906hj, 1457166333.0, 11
+750, [Goldman Sachs Says It May Be Forced to Fundamentally Question How Capitalism Is Working], 43z41l, 1454520703.0, 11
+751, [This research documents that the negative effects of globalization on employment and wages are larger than many people realized], 4uyt62, 1469707581.0, 20
+752, [Why the Economy Doesnt Roar Anymore], 57mau3, 1476570904.0, 8
+753, [93% of all counties in the US have not experienced a full recovery based on standard measures, and 16% of all counties have experienced no recovery.], 4xbv5m, 1471005555.0, 7
+754, [Central Banks Can Print Prosperity -- Intelligence Squared Debates], 4d4rgb, 1459683857.0, 6
+755, [Heaven Help Californias Non-Urban Cities Under a $15 Minimum Wage], 4cl2vk, 1459378203.0, 340
+756, [Trans-Pacific Partnership, currency manipulation, trade, and jobs: U.S. trade deficit with the TPP countries cost 2 million jobs in 2015, with job losses in every state | Economic Policy Institute], 48ws97, 1457115492.0, 19
+757, [The U.S. Still Depends On Canadian Crude Oil. This GIF Is Proof.], 4hvt8j, 1462414404.0, 15
+758, [Globalisations critics say it benefits only the elite. In fact, a less open world would hurt the poor most of all], 556ued, 1475249626.0, 10
+759, [The Argument for Universal Basic Income], 3xx5vy, 1450871253.0, 19
+760, [Basic income, government accountability, and everything else the U.S. should focus on instead of the election], 58cu5y, 1476940218.0, 5
+761, [Over 50, Female and Jobless Even as Others Return to Work], 3z66zn, 1451789400.0, 6
+762, [The Middle Class Is Shrinking! Because Theyre Getting Rich!], 3wa55m, 1449812130.0, 6
+763, [Why There's More Than One Gender Pay Gap], 41zxhr, 1453411350.0, 22
+764, [An expert on fighting poverty makes the case against a universal basic income], 4t9k8g, 1468789728.0, 381
+765, [New Data Show U.S. Trade Deficit Doubled, More Jobs Lost Under Obama Trade Deal That Was Template for the TPP], 4i1kb3, 1462505745.0, 118
+766, [The Short List of Jobs With High and Rising Pay - Real Time Economics], 4v0rxz, 1469742436.0, 10
+767, [Ubers tipping settlement will reduce earnings of African-American drivers], 4gkxop, 1461732883.0, 9
+768, [The Way To Save Social Security Shows What A Rotten Deal Social Security Is], 3z8bha, 1451822257.0, 23
+769, [Everybody Thinks They're Middle-Class], 53h27u, 1474312842.0, 4
+770, [The new 'voodoo': five proposed policies that have no basis in economics], 4yk33n, 1471655258.0, 6
+771, [U.K. stocks turn Brexit into boost, score track for best quarter since 2013], 55d38y, 1475355474.0, 308
+772, [Paul Ryan is helping Wall Street charge egregious fees and sell products that middle-class Americans do not need], 49r0ps, 1457598082.0, 59
+773, [Study finds climate change will reshape global economy], 3tqfbq, 1448167411.0, 40
+774, [TPP would generate net losses of GDP in the United States and Japan.], 41urvm, 1453332048.0, 104
+775, [Want Innovation? Try Raising Minimum Wages], 3ty6q4, 1448320569.0, 12
+776, [Controlling for quality, items marketed to girls and women cost an average 7 percent more than similar products aimed at boys and men.], 3y6sev, 1451086254.0, 17
+777, [Amazon shares tumble as rising expenses weigh on online retailer], 59t5s2, 1477667166.0, 8
+778, [Dumped Cherries a Reminder of Awfulness of USDA Marketing Orders], 4wlaqa, 1470613145.0, 9
+779, [Trade, Labor, and Politics by Paul Krugman], 4cemu6, 1459270362.0, 20
+780, [An open letter that the New York Times refused to publish from the economist that Paul Krugman smeared], 47llpm, 1456464534.0, 17
+781, [Piketty calls for fossil fuels divestment ahead of Paris climate talks], 3tkq4i, 1448061892.0, 22
+782, [The next recession will end capitalism as we know it], 57dngq, 1476433603.0, 0
+783, [Inequality is a distraction. The real issue is growth.], 4y5csy, 1471466689.0, 0
+784, [U.S. employment rebounds strongly in June, calming fears of economic slowdown], 4ruhwz, 1468011020.0, 5
+785, [Economic Models Must Account for Who Has the Power], 4jsgtl, 1463539617.0, 4
+786, [Bourgeois Equality: How Ideas, Not Capital or Institutions, Enriched the World, by Deirdre McCloskey - FT.com], 4e08b3, 1460210014.0, 4
+787, [Wages grew more for low-wage workers in states that raised their minimum wage in 2015], 4caes6, 1459204869.0, 3
+788, [What growing life expectancy gaps mean for the promise of Social Security | Brookings Institution], 491ppv, 1457195242.0, 3
+789, [Why the Chinese Yuan Will Lose 30% of its Value], 46qak3, 1456007467.0, 4
+790, [Congratulations to the Feds on the Funding Bill. Now: What about the Deficit?], 3yz2xl, 1451639910.0, 2
+791, [The median Obamacare customer who earns in that range spends more than 10 percent of their income on monthly premiums and out-of-pocket health expenses, the analysis found.], 3yj5f9, 1451345421.0, 2
+792, [Forget 'developing' poor countries, it's time to 'de-develop' rich countries | The Guardian], 3sdabu, 1447244500.0, 0
+793, [Newsflash To Fed: Retirement Is Impossible With Negative Rates], 4apw9l, 1458192170.0, 42
+794, [Why the Federal Government should never run a budget surplus], 4us1y9, 1469610274.0, 12
+795, [Economic Rationality Explains Everything And Nothing: Utility Maximization Is Unfalsifiable], 4d74w5, 1459735069.0, 12
+796, [President Vladimir Putin will survive Western sanctions and lower oil prices but the Kremlin chief has brought such stagnation that Russia could eventually collapse, former tycoon Mikhail Khodorkovsky said], 3uduef, 1448596813.0, 14
+797, [What the Pope Understands about the New Economic Paradigm That Most Economists Dont], 3tnbms, 1448102655.0, 28
+798, [Money talks: The economics of gun violence], 4odh7m, 1466114790.0, 28
+799, [Europeans are taking radical steps to save their economy. Here's why its not working.], 4a0ibr, 1457756069.0, 15
+800, [Controversial photos inside the homes of Russia's ultra-rich show the country's problem with wealth inequality], 4x0iot, 1470833554.0, 9
+801, [On the most extreme use of force  officer-involved shootings  we find no racial differences in either the raw data or when contextual factors are taken into account.], 4sjzgb, 1468394156.0, 10
+802, [Whats Yours Is Mine: Against the Sharing Economy by Tom Slee review  the problem with Airbnb and Uber], 4hrwsg, 1462350745.0, 12
+803, [Time to take Basic Income seriously], 47l33d, 1456459928.0, 9
+804, [Solar Is Proving Its National Lobbying Strength. Should It Be Used to Promote a Carbon Tax?], 4132kt, 1452893175.0, 12
+805, [Why the Left and Right Can Agree on Taxing Unearned Income - Evonomics], 4r4ghq, 1467618068.0, 8
+806, [Americans Are Too Compassionate For A Universal Basic Income], 4hc4ca, 1462170743.0, 0
+807, [How Test Scores Explain Inequality: Nations with higher average IQ save more, are better informed, work harder, and cooperate better], 40oyp7, 1452668296.0, 7
+808, [Without government, the marketplace will not solve climate change.], 3umnaq, 1448772940.0, 9
+809, [Climate change will be an economic disaster for rich and poor, new study says], 3t6kfv, 1447811008.0, 8
+810, [Quantitative easing has pernicious effects that favour the wealthy], 551vq0, 1475180374.0, 4
+811, [How Governments Lose Trillions Mismanaging Property], 50kerc, 1472717759.0, 2
+812, [An Alternative to Capitalism: "Start With Worker Self-Directed Enterprises"], 4xkdvk, 1471142644.0, 3
+813, [US job creation rebounds strongly in June], 4rugne, 1468010465.0, 2
+814, [Executive pay is obscene  restructuring the economy is the only way to curb it], 4o4nge, 1465979636.0, 1
+815, [Yale Professor Robert Shiller : There are parallels to 1937. Now, as then, people have been disappointed for a long time, and many are despairing.], 4g80tn, 1461531017.0, 3
+816, [Is 'Audit the Fed' going mainstream? "Andrew Levin, an economist now at Dartmouth College who has decades of experience at the Fed [proposes].. the GAO conduct a review of all aspects of the Fed, including monetary policy, but make the review annual and determined by GAO staff rather than Congress."], 4fxjxj, 1461341662.0, 2
+817, [Strong demand for things poor people sell somehow bad for poor people], 4e3kfr, 1460273149.0, 4
+818, [US is emerging as a top tax haven alongside the likes of Switzerland, the Cayman Islands and Panama. And states such as Delaware, Nevada, South Dakota and Wyoming, in particular, are competing with each other to provide foreigners with the secrecy they crave], 4dm70a, 1459984824.0, 2
+819, [Nafta May Have Saved Many Autoworkers Jobs], 4d1fus, 1459631484.0, 4
+820, ["I think that Bitcoin could be the world's next great safe asset." - David Andolfatto - VP Fed Bank of St.Louis], 4cckz7, 1459233463.0, 0
+821, [Taxing the 1%: Why the top tax rate could be over 80%], 4byxcq, 1458977022.0, 4
+822, [95% consensus of expert economists: cut carbon pollution], 3zq9zv, 1452123535.0, 3
+823, [Why Neoclassical and Behavioral Economics Doesn't Make Sense Without Darwin], 3z2iwd, 1451718173.0, 0
+824, [Generosity won't fix our shortage of organs for transplants - AEI], 3yo7ty, 1451437300.0, 5
+825, [The dangerous left-wing bias of economists strikes again], 3xej3u, 1450508941.0, 0
+826, [The FDA and Magical Thinking], 3wxmyt, 1450213214.0, 3
+827, [The Rise of Nudge and the Use of Behavioral Economics in Food and Health Policy | Mercatus], 3wlatr, 1449999427.0, 3
+828, [These are the 10 smartest countries in the world when it comes to science], 3vnklz, 1449434777.0, 0
+829, [Misconceptions about the Nordic economies], 5a5hcp, 1477852570.0, 1
+830, [Devaluation of Nigeria Currency Causes More Harm than Good!], 5a13u9, 1477785853.0, 0
+831, [China becomes world's largest acquirer in international M&A], 59mgz5, 1477576426.0, 0
+832, [Frugality Isn't What It Used to Be: What use is there today for one of the oldest virtues?], 595bhr, 1477353969.0, 0
+833, [Can Philosophy be Specialized?], 591ets, 1477293648.0, 0
+834, [Janet Yellen could be on the verge of starting a 'civil war' at the Fed], 58u1ka, 1477184700.0, 0
+835, [Millions of Indian debit cards 'compromised' in security breach], 58m5x0, 1477066747.0, 0
+836, [Medicaid has a Huge Return on Investment], 584jql, 1476835048.0, 0
+837, [Monetarism Defiant | Anna Schwartz], 581xt0, 1476793159.0, 0
+838, [China Property Boom Spurs Fear of Bubbles Burst], 57x9m6, 1476739122.0, 0
+839, [Open market operations vs. helicopter drops], 57njjf, 1476587065.0, 0
+840, [Unvaccinated adults costs US 7 billion annually?], 57i76n, 1476501855.0, 0
+841, [Pricing the Poorest Out of Opportunity], 56ukgs, 1476164412.0, 0
+842, [Andressen right about the U.S. economy?], 563u70, 1475758829.0, 0
+843, [An alternative to high-frequency trading], 562kw0, 1475740167.0, 0
+844, [Lagarde Urges China to Deepen Reforms as Yuan Joins Elite Group], 55tbtu, 1475614475.0, 0
+845, [China unveils major projects to boost growth], 54wom9, 1475102957.0, 0
+846, [Do You Know How To Measure What Your Company's Data Is Worth?], 54w4rk, 1475095493.0, 0
+847, [Economics of Nuclear Power], 53tlxx, 1474499430.0, 0
+848, [Chinese Consumers Are Bullish on Spending Again], 53huj7, 1474324731.0, 0
+849, [Statistical Significance is Not the Same as Economic Significance - credit card biases], 53ehcu, 1474265864.0, 0
+850, [One of Russia's biggest economic problems is summed up in this chart], 537y1f, 1474158921.0, 0
+851, [The new heavyweight macro critics], 52w58w, 1473975084.0, 0
+852, [The gender wage gap hasnt budged in 9 years], 52kqay, 1473805619.0, 0
+853, [Why China May See a Sharper Slowdown Ahead], 52i66l, 1473761850.0, 0
+854, [Where Do Monetary Rules Come From and How Do They Work?], 52d1q2, 1473691423.0, 0
+855, [Economics: a family business?], 52cji7, 1473681778.0, 0
+856, [Punk Economics "Outsider Economics" - Financial Times], 522fgz, 1473529232.0, 0
+857, [Why Jean Tirole Won the Economics Nobel - The New Yorker], 51kda9, 1473268090.0, 0
+858, [Deficit Spending Holding Recession at Bay], 50of0x, 1472779928.0, 0
+859, [Brexit: Economic prosperity and voting behaviour], 50klpo, 1472720412.0, 0
+860, [Central banks have hatched a get-rich-quick scheme for companies in an attempt to avoid a slowdown], 4zi42a, 1472155072.0, 0
+861, [Op-Ed: Here's proof that the economic recovery is over], 4yxcen, 1471845280.0, 0
+862, [The economics of marriage], 4ytksi, 1471790663.0, 0
+863, [The prime-age employment data suggest that the US has done about as well since 2007 as the euro area, a region that includes high-unemployment economies such as Spain and Greece.], 4yelrt, 1471581193.0, 0
+864, [The Economist | The other side of Warren Buffett: Dont Buff it up], 4ydjzw, 1471570123.0, 0
+865, [Divorce and childrens long-term outcomes], 4ybl7y, 1471545914.0, 0
+866, [Workers, dont fear the robot revolution], 4y4n2w, 1471454512.0, 0
+867, [Parents Say They'd Sacrifice Retirement to Send Kids to College], 4xx13s, 1471340142.0, 0
+868, [Who's Really Ahead in Rio?], 4xu5b7, 1471304352.0, 0
+869, [Conversation with John Cochrane (Part I) - What is Neo-Fisherian?], 4xss3r, 1471281756.0, 0
+870, [Brexit could be delayed to late-2019 as government not ready], 4xqivy, 1471243479.0, 0
+871, [Sharia compliance in deposit insurance], 4vqe1f, 1470135519.0, 0
+872, [CEO Personality and Firm Policies -- by Ian D. Gow, Steven N. Kaplan, David F. Larcker, Anastasia A. Zakolyukina (PDF)], 4uilxl, 1469482381.0, 0
+873, [Is an economist allowed to oppose the XL pipeline?], 4uifz6, 1469480049.0, 0
+874, [Pound hits new low on Brexit nerves], 4rhc7x, 1467818466.0, 0
+875, [Arabic: ABC Technique to build Africa's first integrated Silicon Valley called 'Silicon Africa'], 4rb1wu, 1467723071.0, 0
+876, [Robots Are Not Taking All The Jobs], 4qz90v, 1467525700.0, 0
+877, [The Mountain Town is Dying and Whistler is Exhibit "A"], 4qow7l, 1467361081.0, 0
+878, [Puerto Rico rescue bill clears Congress days before debt cliff], 4qj0be, 1467277041.0, 0
+879, [Nearly a decade later, low interest rates could actually start helping the US economy], 4qgy72, 1467252155.0, 0
+880, [Russia, China to Expand Transactions in National Currencies - Putin], 4pvo2u, 1466936164.0, 0
+881, [How Much To Access Government Data On Immigration? Only $173,775], 4pp9zd, 1466831887.0, 0
+882, [Occupational Licensing and the American Worker], 4pg4nm, 1466707726.0, 0
+883, [Yellen's Senate Hearing: Fed's Forecasting Has Lost All Credibility], 4pbzv5, 1466646555.0, 0
+884, [Few economist agree with the gold standard.], 4oft3a, 1466141658.0, 0
+885, [Why Inequality Is Worse For Your Wallet Than A Weak Economy], 4nifdr, 1465621207.0, 0
+886, [The Big Question: Has Robust Growth Deserted Us?], 4ndar8, 1465540010.0, 0
+887, [Global Yields Are Falling!], 4nbwz1, 1465522503.0, 0
+888, [Economies remain on "life support" from central banks, RBS chair Howard Davies says], 4nbehm, 1465516036.0, 0
+889, [Fitch Ratins Podcast: Fitch Global Economic Outlook], 4nahvy, 1465502898.0, 0
+890, [Seth Fischer: Japans Return-on-Equity Revolution], 4mwjeh, 1465291582.0, 0
+891, [Yellen drops summer rate rise hints], 4mtznf, 1465261266.0, 0
+892, [Hours before the Federal Reserve Bank of New York approved four fraudulent requests to send $81 million from a Bangladesh Bank account to cyber thieves, the Fed branch blocked those same requests because they lacked information required to transfer money], 4mr8u4, 1465216182.0, 0
+893, [US consumer spending jumps in April], 4lvun6, 1464738250.0, 0
+894, [Samuel Fleischacker on Adam Smith's Impartial Spectator], 4lhd49, 1464495412.0, 0
+895, [Oaktree Capital - Economic Reality], 4lcu2y, 1464412074.0, 0
+896, [Battle of the banknotes as rival currencies are set to be issued in Libya: Diplomats fear chaos as two central banks threaten to circulate their own dinars with separate security details and watermarks], 4l5ehn, 1464299637.0, 0
+897, [Ethics: End of the hard sell? - J&J channelled more than $100,000 to a nurse to write an article in a medical journal to boost sales of a drug. In the US alone, fines from prosecutions against the pharma industry reached $20bn in the period 1991-2010, suggesting something is wrong with the system], 4kyyck, 1464200274.0, 0
+898, [Why Villains Weren't Punished in the Financial Crisis], 4kx0id, 1464165125.0, 0
+899, [These are the world's oldest and youngest countries], 4km7up, 1464005761.0, 0
+900, [Fiscal Theory of the Price Level, Helicopters, and Central Bank Balance Sheets], 4kbdah, 1463820785.0, 0
+901, [Zimbabwe to print own version of US dollar], 4jww4q, 1463610195.0, 0
+902, [Economic development in an "Average is Over" world], 4jv4nt, 1463577432.0, 0
+903, [Moody's downgrades Saudi Arabia on lower oil prices], 4jp6mz, 1463487972.0, 0
+904, [Airline safety: Ten ways to tell you might be sitting next to an economist], 4j4xfu, 1463146926.0, 0
+905, [The Politics of Income Inequality], 4ifm0u, 1462759774.0, 0
+906, [Raise Wages, Kill Jobs?], 4ib4tz, 1462674823.0, 0
+907, [The Vulture funds and sovereign defaults], 4i9lsz, 1462648017.0, 0
+908, [The Wall Street Journal.: Economists React to the April Jobs Report: 'A Generally Disappointing Print'], 4i7fji, 1462602171.0, 0
+909, [LA's Extended Expo Line Will Soon Offer a Test of the Fundamental Law of Traffic Congestion], 4h6prx, 1462087224.0, 0
+910, [Some economics of the marriage bars (and mandatory retirement ages)], 4gwhif, 1461911272.0, 0
+911, [Propaganda and the Economic Theory of Distributism], 4gonq8, 1461795378.0, 0
+912, [The Cumulative Cost of Regulations | Mercatus], 4glpj7, 1461743093.0, 0
+913, [Is Replicability in Economics better than in Psychology?], 4gcsu9, 1461610806.0, 0
+914, [A Mall Divided by different state minimum wage laws], 4gasek, 1461571681.0, 0
+915, [Day Dreaming of a Living Wage Grand Compromise], 4ga0vg, 1461560824.0, 0
+916, [Do workers need capitalists? New lessons from Yugoslavia's socialist experiment], 4fmlx0, 1461174495.0, 0
+917, [ECB: Working paper no. 1893: On the design of data sets for forecasting with dynamic factor models (PDF)], 4fmid7, 1461172312.0, 0
+918, [Voter profiles | expressive and instrumental], 4fb887, 1461004405.0, 0
+919, [IMF countries vow to boost slow growth], 4f66nx, 1460919681.0, 0
+920, [Poverty and Cash Transfers], 4f5nlz, 1460905454.0, 0
+921, [What's your opinion of James Dale Davidson?], 4f3wo4, 1460872500.0, 0
+922, [Morgan: Tax burden falling on NZ's working class], 4f3rtu, 1460870394.0, 0
+923, [Edward Nelson Milton Friedman and Economic Debate in the United States (downloadable draft chapters)], 4f1jko, 1460835460.0, 0
+924, [IZA: Do We Have to Be Afraid of the Future World of Work? (PDF)], 4er6px, 1460670316.0, 0
+925, [IMF Defends Negative Rates as 'Net Positive' for Economies], 4emh5r, 1460595236.0, 0
+926, [Marshall was wrong: Nothing is in the air], 4e95fc, 1460376007.0, 0
+927, [Deposit insurance for New Zealand?], 4e841n, 1460358792.0, 0
+928, [bizarre optimism], 4e7pzp, 1460352961.0, 0
+929, [UK trade deficit narrows in February], 4dvk5f, 1460133905.0, 0
+930, [Are Minimum wage laws racist?], 4dt93u, 1460093203.0, 0
+931, [Simmering for Decades, Anger About Trade Boils Over in 16 Election], 4clu1c, 1459388149.0, 0
+932, [The paradox of meritocracy], 4c1u5l, 1459039172.0, 0
+933, [Distributism vs. Free Markets - A Gentleman's Debate], 4bmj0s, 1458769775.0, 0
+934, [The Rise of Data Capital], 4bm9b8, 1458765152.0, 0
+935, [The Economists Concubine by Robert Skidelsky - Project Syndicate], 4bhjsm, 1458684843.0, 0
+936, [How Some Would Level the Playing Field: Free Harvard Degrees], 4b84yf, 1458519686.0, 0
+937, [Would you eat in a restaurant with a robot waiter? This droid works 8-hour shifts and doesn't expect a tip], 4auvbq, 1458273897.0, 0
+938, [Sir Bernard Ingham has warned Britain not to throw away another 12 billion down the European Union's corrupt 'mafia drain'], 4apwf7, 1458192233.0, 0
+939, [Measuring Job Loss and the Minimum Wage in SeaTac], 4ai8f5, 1458074117.0, 0
+940, [The ECB exhausts all its stimulus tools], 4a5sv4, 1457850359.0, 0
+941, [Calculated Risk: Demographics: Renting vs. Owning], 49l1ox, 1457506147.0, 0
+942, [Productivity slowdown or measurement problem?], 496au6, 1457275722.0, 0
+943, [We need to start judging textbooks and other instructional materials using student achievement instead], 4968b3, 1457274314.0, 0
+944, [The Next Amazon (Or Apple, Or GE) Is Probably Failing Right Now], 48tnei, 1457063276.0, 0
+945, [The U.S. Could Use a New Economic Strategy], 48q3c7, 1457003929.0, 0
+946, [The Cause And Effect Of Negative Rates], 482tsy, 1456700734.0, 0
+947, [The evidence suggests I was completely wrong about abolishing tuition fees], 47mdtj, 1456474532.0, 0
+948, [Harvard Business Review : General Motors did $20.4 billion worth of stock buybacks from 1986 through 2002. Now they are doing it again. It's really bad for America.], 47m8b9, 1456472426.0, 0
+949, [Hollande Bravely Takes On the 35-Hour Week], 47gcnb, 1456391330.0, 0
+950, [Consumer prices in USA remain stable in January], 46mx1t, 1455946139.0, 0
+951, [Admitting what we dont know: An interview with Charles Manski on forecast uncertainty], 46khn6, 1455915243.0, 0
+952, [Power Laws: Raise Those Eyebrows], 46ius5, 1455884181.0, 0
+953, [Coppola Comment: Negative rates and bank profitability], 46a0sa, 1455761222.0, 0
+954, [Can negative interest rates fix what's broken?], 468jmu, 1455744486.0, 0
+955, [Fed could still hike rates in first half of year, Harker says], 463b3x, 1455670133.0, 0
+956, [If we have a U.S. recession this year, it will be a risk-based recession], 4637o9, 1455669014.0, 0
+957, [My bad: Third time's the charm], 4627lr, 1455654281.0, 0
+958, [Healthy subsidies can backfire], 4602gr, 1455615511.0, 0
+959, [When is Fighting Corruption Worth It? by Bjrn Lomborg], 45xr22, 1455588145.0, 0
+960, [Population Loss Economics], 45xqss, 1455588062.0, 0
+961, [Gilts yields hit all-time low as recession fears grip the markets], 45gmiy, 1455337176.0, 0
+962, [Negative Interest Rate Policies May Be Part of the Problem], 45fylj, 1455329024.0, 0
+963, [The Effect of Trade Protection on Productivity in Uruguay], 45fxf7, 1455328613.0, 0
+964, [Finding more common political ground on poverty], 456xz4, 1455191964.0, 0
+965, [German, French central bankers warn of overreaction to China: Bundesbank Governor Jens Weidmann warned against painting everything black and said he did not expect a sharp deterioration in the Chinese economy], 44yfa7, 1455074964.0, 0
+966, [Structural Humbug Revisited: If a skills gap is causing the unemployment problem, where are the occupations with rapidly rising wages? People said the same thing during the Great Depression, only to see it disproved when we finally got a big fiscal stimulus called World War II.], 44xwe7, 1455069232.0, 0
+967, [Growth, like the future, is not evenly distributed], 44ry80, 1454981330.0, 0
+968, [I Win My Long-Term Unemployment Bet with Tyler Cowen], 44rhdc, 1454975524.0, 0
+969, [China's Intervention: Too much, and the economy may stall. Too little, and the currency may crash.], 44otn9, 1454926179.0, 0
+970, [Making agglomeration metabolised for innovation], 44jndq, 1454842808.0, 0
+971, [Slower Job Growth Doesnt Mean Were Headed For A Recession], 44bohv, 1454720245.0, 0
+972, [Citi says 'Brexit' would lop 4 pct pts off UK GDP growth, hit pound 15-20 pct], 44bln6, 1454719193.0, 0
+973, [Moneyness: Does the Fed lack the technical means to dive into negative rate waters?], 441l7t, 1454558848.0, 0
+974, [From ZIRP to NIRP: the last throw of the dice], 440yf1, 1454550717.0, 0
+975, [Economists Prove That Markets Are Unnecessary...[But Not Really]], 43xwz9, 1454498106.0, 0
+976, [What do the green & red colors signify in terms of volume at the bottom of this graph? (Crude Oil $/barrel at Nasdaq.com)], 43joow, 1454286750.0, 0
+977, [What Matters for Student Achievement: Updating Coleman on the influence of families and schools], 43iu9c, 1454270742.0, 0
+978, [Quickenloans Super Bowl ad echoes what started The Great Recession], 43c347, 1454147522.0, 0
+979, [Paying the bank interest to hold your deposits? What gives?], 43auhr, 1454130183.0, 0
+980, [Apple CEO and CFO See Broad Global Economic Weakening], 42yqyw, 1453946948.0, 0
+981, [Postscript: Gary Becker (1930-2014) - The New Yorker], 42u9cv, 1453877690.0, 0
+982, [*The Age of Em*, by Robin Hanson], 42ql2o, 1453824581.0, 0
+983, [On Mariel  George Borjas], 42p6lw, 1453802400.0, 0
+984, [Feminist economics and policymaking], 42p08d, 1453800057.0, 0
+985, [The ruble hit a historic low on Wednesday as the dollar climbed past the 82 ruble mark for the first time, exceeding the levels seen during the shock plunge of the Russian currency in December 2014], 41wyei, 1453360465.0, 0
+986, [The 2010 FOMC Laugh Track: Fed Officials Try to Joke About an Uncertain Upturn], 41ldc2, 1453184317.0, 0
+987, [FTC Workshop to Explore Impact of New Technology on Auto Distribution], 41l1b3, 1453180285.0, 0
+988, [Equity markets fall], 412kt1, 1452882873.0, 0
+989, [Whats the Matter with Luxembourg and other tax havens? - New Rambler Review], 40vq6f, 1452769977.0, 0
+990, [Environmental and Urban Economics: Two Comments About Richard Thaler's 2016 AEA Presidential Address], 40u91e, 1452749367.0, 0
+991, [Oil Production Vital Statistics December 2015], 40mya0, 1452642936.0, 0
+992, [Oil Majors Mum on Paris Climate Pact], 40jvq4, 1452587995.0, 0
+993, [Economists and Inequality], 401x6w, 1452301279.0, 0
+994, [The Legacy of the Great Depression on Economic Thought], 400taa, 1452283192.0, 0
+995, [Naija Economics : Some Common Game Theory Concepts You Should Know], 3zsono, 1452153852.0, 0
+996, [Interview with Professor Easterly on Institutions and Development | Institute of Economic Affairs], 3zp4il, 1452101875.0, 0
+997, [What makes money special, the lawyer's edition (with a guest appearance by bitcoin)], 3znbe2, 1452071429.0, 0
+998, [Ben Bernanke: What did you do in the currency war, Daddy?], 3zmcwp, 1452058925.0, 0
+999, [Chinese stock market], 3zjnfa, 1452019176.0, 0
+1000, [Robert Samuelson: The 'Hollowing' of the Middle Class?], 3zieaw, 1451995143.0, 0

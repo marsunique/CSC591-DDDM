@@ -1,0 +1,999 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Police snipers shoot 11-year-old at Dakota Pipeline protests], 5a0hjl, 1477777367.0, 44
+2, [Why isn't Bernie supporting the down ballot candidates like he said he would?], 56b9bi, 1475874444.0, 3
+3, [No matter who vote for as President, please remember to vote for downballot Democrats so we can keep what progress we have made.], 59atka, 1477428475.0, 1
+4, [Correct the Record = Domestic Terrorism], 568f60, 1475825438.0, 7
+5, [Will /r/Political_Revolution endorse a POTUS nominee?], 59vi2a, 1477702354.0, 2
+6, [Comedian Sarah Silverman sends Fundraising plea for Russ Fiengold], 58pgbc, 1477110781.0, 1
+7, [#MrsClintonWeDontWantWW3 #MrsClintonWeWantPeace], 58f1zd, 1476967114.0, 2
+8, [8 Reasons why Californians should vote no on PROP 64], 590t50, 1477286143.0, 0
+9, [Julian Assange Is A Planetary Hero], 57llzh, 1476558566.0, 21
+10, [Paul Ryan would like to remind us: A democratic senate majority would put Bernie Sanders at the head of the Senate Budget Committee], 57ldis, 1476552856.0, 5770
+11, [How Dictatorships Are Born], 57m7d9, 1476569466.0, 4
+12, [Sanders on WikiLeaks reveals: Look forward, not backward], 57n3xc, 1476581562.0, 24
+13, [Ben & Jerry's Ice Cream Co Formally Comes Out In Support of Black Lives Matter: "Choosing to be silent in the face of such injustice is not an option."], 5667aq, 1475799626.0, 973
+14, [Bernie Sanders is the most-liked politician in the United States. What does that mean for the future of left politics here?], 583njj, 1476824635.0, 4928
+15, [Who is "greenascanbe" and why are simple reasonable posts I make getting deleted by it/him/her?], 58v41m, 1477197782.0, 3
+16, [WL - "Julian Assange's internet link has been intentionally severed by a state party. We have activated the appropriate contingency plans."], 57vuws, 1476712295.0, 1743
+17, [Vote to have Hillary and Trump asked about Basic Income on Oct 9. debate], 55n4fb, 1475521134.0, 3417
+18, [2nd Presidential Debate Mega Thread], 56opqh, 1476081510.0, 16
+19, [Call on Bernie to attend NY Supreme Court trial for open primaries], 55tmsi, 1475618780.0, 4963
+20, [States Keep Weaseling Around Court Orders Blocking GOP Voting Restrictions], 567k5h, 1475814703.0, 3
+21, [Democrats Already Saying Bernie Will Not Chair Senate Budget Committee #ItsATrap], 585t1o, 1476847818.0, 36
+22, [Barbara Boxer Backs California Attorney General to Fill U.S. Senate Seat], 56bq6r, 1475880627.0, 2
+23, [Sanders promises to push his platform in Congress after Nov. 8 vote], 5a2nld, 1477804389.0, 4192
+24, [With Islamophobia on Rise, Right-Wing Militias Threaten Communities in Kansas, Georgia], 57md9z, 1476571877.0, 9
+25, [Sanders among five senators asking Obama to order Dakota pipeline review], 57aixw, 1476397756.0, 5093
+26, [Genetically engineered crops are safe, review of studies finds: "...[H]erbicide-resistant (glyphosate-resistant) crops contributed to greater crop yield by reducing weed pressure. When such crops first were adopted, total kilograms of herbicide applied per hectare of crop per year declined..."], 55kar4, 1475471656.0, 5
+27, [Its Paul Ryan Versus Bernie Sanders, and Sanders Is Winning], 59djlk, 1477458145.0, 3674
+28, [Wikileaks - T Gabbard threatened, Ex-DNC Chair Debbie & current DNC Chair Donna Brazile working for Clinton since Jan'16], 56xoen, 1476216810.0, 3242
+29, [President Obama endorses Teachout], 59ua65, 1477688574.0, 1762
+30, [According to WikiLeaks, a "state party" has cut Assange's internet connection], 57xgfd, 1476741653.0, 7
+31, [Call or Donate or use Social Media FOR TEACHOUT! her opponent who takes money from GE, fracking, hedgefund faso wants to privatize social security!!!!http://www.zephyrteachoutforcongress.com/news], 58cw2d, 1476940793.0, 3
+32, [Sanders absolves Clinton on hacked emails, but other voices on the left are angry], 578zc7, 1476370041.0, 3
+33, [Actress Shailene Woodley Reveals She Was Strip-Searched After Her Arrest Protesting Dakota Pipeline], 58xwtw, 1477244718.0, 3083
+34, [We have money to fight climate change. It's just that we're spending it on defense | "Were spending 28 times as much on military security than climate security."], 56h19z, 1475963648.0, 2245
+35, [Suspicious of Our Revolution], 59d3z0, 1477453565.0, 5
+36, [CNN Tells Viewers It's Illegal For Them To Read Wikileaks Document Dumps. CNN Is Wrong], 58c9ws, 1476934363.0, 11
+37, [25/10/2016 - our democracy has been hacked], 59aa7v, 1477419463.0, 1
+38, [Standing Up against NoDAPL will for the chand for wind, solar, hydro, biomass and new fuels! Save The Earth No DAPL https://www.reddit.com/r/NoDAPL/comments/52ac8g/dakota_access_pipeline_what_you_can_do/], 58cg7r, 1476936159.0, 1
+39, [Presidential Race Mega Thread October 27, 2016], 59nu0k, 1477602141.0, 11
+40, ['Walking while trans' can be a death sentence in the U.S.], 58gqzd, 1476997932.0, 12
+41, [Some people here need to get their facts straight - Guiding Principles of Black Lives Matter], 569hef, 1475840324.0, 13
+42, [Bernies Beef with Big Soda: Advertising from the American Beverage Association that implies that I oppose ballot items in San Francisco and Oakland that would place a tax on drinks with sugar are false. ... I have asked the American Beverage Association to stop using my name], 58nik4, 1477089195.0, 3685
+43, [The REAL vote rigging: Republicans make it harder for millions to vote in 2016 elections.], 58b86b, 1476923602.0, 22
+44, [Video for socialist campaign: Vote Gloria La Riva 2016!], 565b66, 1475788512.0, 19
+45, [Can We Just Have Posts on Down Ballot Candidates Ballots and Measures except for No DAPL and no TPP& BLM?], 58q7ip, 1477119569.0, 3
+46, [Ohio Secretary of State doing a Twitter town hall #AskSOSHusted], 58aus7, 1476919564.0, 4
+47, [Grass Root Media Project and a Few Questions], 55v0q0, 1475635071.0, 5
+48, [Tattoo the ppm of carbon in the air in your birth year], 55k5ta, 1475469909.0, 5
+49, [I have had ENOUGH. The time for change is NOW (X-POST)], 5786zu, 1476356748.0, 8
+50, [Friends: I've been gone for awhile, but I'm back now. And I want you to help the state of New York put an end to Governor Cuomo's awful Nuclear Bailout. Can you share this with your NY friends?], 566500, 1475798915.0, 27
+51, [The Bullying of Pramila Jayapal], 59vzvo, 1477707337.0, 19
+52, [Elizabeth Warrens Power On The Rise], 59hpkn, 1477519824.0, 12
+53, [Katie McGinty on Twitter | "Katie and I believe we have got to end this disgrace in America where women are making 79 on the dollar for men." - Bernie Sanders], 56mf6i, 1476052582.0, 11
+54, [Presidential Race Mega Thread October 05, 2016], 55zcf1, 1475701348.0, 10
+55, [Congressional GMO Voters Guide: Who Sold Out the Right to Know], 560esp, 1475714485.0, 15
+56, ['Hate Crime': Video Shows Truck Plowing Into Indigenous Rights Rally], 574xx6, 1476318144.0, 28
+57, [Working class white men have lower incomes than they did in 1996  x-post /r/news], 56639d, 1475798388.0, 10
+58, [Presidential Race Mega Thread October 24, 2016], 594dhq, 1477342958.0, 10
+59, [Presidential Race Mega Thread October 04, 2016], 55tcxg, 1475614948.0, 12
+60, [The End of Liberalism: Crowdfunding for Fascists], 5893z4, 1476891605.0, 6
+61, [Why this white pastor is not saying all lives matter], 56bwko, 1475882756.0, 5
+62, [Green Groups Warn Deal to Lower Aviation Pollution is 'Weak Shell Game'], 567vn8, 1475818329.0, 4
+63, [Black Lives Matter tactics prompt questions about true aims of social justice movement - Washington Times], 565rqz, 1475794601.0, 0
+64, [Innocent woman forcibly stripped by male Ohio police officers and left nude in a jail cell for SIX HOURS.  x-post /r/TwoXChromosomes], 565bxb, 1475788821.0, 6
+65, [Happy Halloween! Guess what is SCARY? Not getting on the phone, using social media or donating Down Ballot Candidates or Measures! I am asking you to make 8 calls, or 8 tweets or donate 8 dollars. WE HAVE EIGHT DAYS LEFT!], 5aawns, 1477925377.0, 3
+66, [Bitter Senate debate reflects tightening race between Rubio, Murphy], 59m5v3, 1477571201.0, 4
+67, [Here is what pual ruan sent to his followers on his email], 58mju8, 1477075147.0, 2
+68, [Wikileaks Mega Thread 4.0 - Podesta E-mails], 59vmpt, 1477703699.0, 23
+69, [Presidential Race Mega Thread October 06, 2016], 565986, 1475787747.0, 14
+70, [Oregon Police Reform Activist Launches Write-In Candidacy for Sheriff], 59que8, 1477634764.0, 6
+71, [Broward county - which judges are liberal? Also, can someone explain amendment 1 to me about the solar panel? No or yes ?], 59lsuk, 1477566032.0, 7
+72, [Phonebank Pizza Party?], 58m1aw, 1477063878.0, 6
+73, [Curt Schilling Planning Senate Run Against Elizabeth Warren], 584ii7, 1476834674.0, 5
+74, [KING: Young football team has season canceled for taking a knee], 57ylzm, 1476754228.0, 6
+75, [The Next Phase in Bernies Revolution Has Already Begun], 58c0tj, 1476931772.0, 10
+76, [10 races Democrats must win to take the House], 57t84j, 1476676260.0, 18
+77, [Bernie Sanders and Elizabeth Warren Lead the Charge: Arrest Wells Fargo Executives Over Fraud Cases!], 568hoj, 1475826373.0, 3897
+78, [Donna Brazile Fired From CNN [5:31-7:32 Only] [Ignore the leak angle here, this is about public demonization, it harms the movement.]], 5afa8k, 1477979730.0, 11
+79, [Yahoo let the NSA read your email before you even opened it. Yahoo was just revealed to be the very first US internet company to build a program, at the request of US Intelligence Services, to search every single incoming message of every single user in real time.  x-post /r/technology], 568eou, 1475825252.0, 11
+80, [Coalition forms to fight NY nuclear bailout], 565mvj, 1475792894.0, 11
+81, [We Still Have to Fight the TPP], 56mf5f, 1476052568.0, 2785
+82, [xpost, [AMA Request] Bernie Sanders], 58d74d, 1476944255.0, 3
+83, [CFP on Twitter | TODAY's phonebanking OPPORTUNITY! https://go.ourrevolution.com/page/content/phonebank/  @saraniccoli, @ColoradoCareYES, Melvin Willis & Ben Choi, #Yeson61, #yesOn59], 58cjll, 1476937139.0, 3
+84, [Will A World In Turmoil Actually Lead To World Peace?], 57d3py, 1476426601.0, 3
+85, [The Government plans on selling public lands for Oil and Gas in Ohio. Help us #KeepWayneWild], 58c8i4, 1476933966.0, 6
+86, [Should we have only one political party], 57hjal, 1476494620.0, 6
+87, [Court Rules CFPB's Structure Is Unconstitutional], 56z3ne, 1476234597.0, 8
+88, [If Trump's sexual assault brags have doomed him (polls will show in coming days/weeks), political attention for things other than the presidential election becomes possible. So, what can we do to prepare for that? Where can we draw political attention to most support a political revolution?], 56umdy, 1476165018.0, 7
+89, [Josh Fox wants you to watch Gasland. Watch it on The Ohio Revolution.], 55knma, 1475476362.0, 5
+90, [Presidential Race Mega Thread October 13, 2016], 57a4hx, 1476392533.0, 16
+91, [Small-Donor Contributions Can't Compete With Those Allowed by Citizens United], 584alg, 1476832265.0, 11
+92, [Race for Senate Control on a 'Razor's Edge'], 5847zg, 1476831461.0, 14
+93, [Bill Clinton Attacks Obamacare], 55xlp5, 1475667257.0, 17
+94, [How the Washington Post killed Bernie Sanders candidacy], 57b4p3, 1476404589.0, 54
+95, [Could the campaigns of 2016 result in the greatest American left wing victory since the 1960s?], 581wnh, 1476792674.0, 9
+96, [Bernie Sanders For Senate Budget Committee Chairman!], 598yfb, 1477394695.0, 2854
+97, [People For Bernie on Twitter | It's going down on Alcatraz. This #IndigenousPeoplesDay, we honor the struggle of Native People and join their cause against #DAPL. #NoDAPL], 56s9lc, 1476139151.0, 1322
+98, [List of Senators Committed To or Likely To Vote FOR The American Opportunity Climate Fee Act and to Fight Climate Change.], 58ykju, 1477258556.0, 4
+99, [Important discussion on the best steps going forward to raise support and awareness for downballot progressive candidates. Let's hear what the rest of the community's thoughts are on this subject of improving our effectiveness as a subreddit.], 58cs05, 1476939582.0, 3
+100, [IN 10 Seconds I called My friend in L.A. To vote yes on prop 61. I called the White house for NoDAPL!], 58cjet, 1476937086.0, 3
+101, [Voting Machines Can Be Compromised], 58c5zi, 1476933276.0, 4
+102, [The Man Who Built Clinton World], 55l6an, 1475483625.0, 3
+103, [Bernie Sanders: "Open borders? That's a Koch brothers proposal"], 57m4lp, 1476568224.0, 68
+104, [Cop fired after admitting he targeted black drivers in Facebook post: "...[M]essages also included several jokes about domestic violence toward women."], 567cbi, 1475812359.0, 13
+105, [Breaking: "Riot" Charges Against Amy Goodman Dismissed in Press Freedom Victory], 57z3y2, 1476759410.0, 2548
+106, [In Hindsight, Backers of Bernie Sanders Lament What Might Have Been], 58erus, 1476963087.0, 18
+107, [Vote For Corporate Dem Patrick Murphy! He less Crappy than rubio and actually says he is against fracking!], 58ru3r, 1477144441.0, 8
+108, [More 'Delay and Deceit' as Exxon Tries to Block Climate Change Investigation], 584nxg, 1476836223.0, 10
+109, [October has just been a remarkable month for climate policy], 57y57h, 1476749449.0, 7
+110, [4 Reasons the Paris Agreement Wont Solve Climate Change], 565knf, 1475792119.0, 10
+111, [Daylin for Congress], 563dp5, 1475751423.0, 9
+112, [WikiLeaks Top 10], 55siho, 1475597869.0, 8
+113, [Bernie Sanders Wades Into Oregon Politics, Endorses Measure 97 . News], 58go36, 1476996915.0, 1849
+114, [Green Party candidate Myles Hoenig - Capitalism is the Root Cause of Our Problems - Let's get this guy some cash], 56i7m5, 1475979337.0, 34
+115, [Gallup: Nationwide Support for marijuana legalization surges to 60%], 58cldw, 1476937658.0, 22
+116, [US Officially Enters War with Yemen Amid Charges of Saudi War Crimes], 57be0i, 1476407462.0, 19
+117, [If Nature Is Sacred, Capitalism Is Wicked], 55our9, 1475545114.0, 16
+118, [Bernie Sanders on Twitter | I know this is a radical idea, but we have to inject morality into our political process.], 57rrgo, 1476658767.0, 2508
+119, [Presidential Race Mega Thread October 16, 2016], 57rb9o, 1476651727.0, 24
+120, [Find your local ballot measures here! Sixty-three state supreme courts and intermediate appellate courts across 34 states are holding elections in 2016, at last count in October 2016. Out of 267 total seats to be elected in 2016, NO LESS THAN 236 will be elected on November 8!!!], 57mb5w, 1476571030.0, 11
+121, [Came across this somewhat-old new story.], 57clwt, 1476420859.0, 10
+122, [What progressive idea have you seen catch on among people you know?], 566lxc, 1475804258.0, 10
+123, [Bernie Sanders on Twitter: 'Burning the oil transported through the Dakota Access Pipeline would produce carbon emissions equivalent to 21 million cars.'], 59yi1u, 1477737710.0, 1734
+124, [In Key Swing State of Ohio, Thousands of Voters' Rights Restored With Weeks to Go], 58nycr, 1477094139.0, 6
+125, [Bernie Sanders, the Most Popular Politician in America], 58c5k8, 1476933154.0, 7
+126, [Fix forecast for Governors races], 57j3m4, 1476512518.0, 4
+127, [Racial Stereotyping is the "Worst Thing" for Our Criminal Justice System], 57gs1c, 1476486085.0, 5
+128, [Yahoo disables email forwarding for users fleeing server], 574ptu, 1476315657.0, 5
+129, [Bernie Sanders: Obama Administration Should Kill The AT&T-Time Warner Deal: Higher Prices & Fewer Choices], 591e2v, 1477293376.0, 4048
+130, [Karl Marx, Yesterday and Today: The nineteenth-century philosophers ideas may help us to understand the economic and political inequality of our time.], 56busb, 1475882152.0, 24
+131, [Presidential Race Mega Thread October 10, 2016], 56ru97, 1476133363.0, 16
+132, [Meet The Muslim Woman Running For State Legislature In Minnesota], 58kfzk, 1477039024.0, 26
+133, [Changing Political and Economic Viewpoints of Generation Y & Z (Millennials)], 56om9h, 1476080253.0, 9
+134, [You Say Vote], 569jcq, 1475841164.0, 9
+135, [The P in PBS Should Stand for Plutocratic or Pentagon (from @Truthdig)], 59rqyk, 1477645789.0, 65
+136, [The Associated Press on Twitter | BREAKING: The federal government says millions of Social Security recipients will get a 0.3 percent increase in benefits next year.], 583pov, 1476825353.0, 17
+137, [NPR Says that Protection for Doctors, Pharma, Might Lead to War], 56gymq, 1475962365.0, 18
+138, [Join us tomorrow at 5 EST for an AMA with @wakely2016. A progressive in TX running against a VERY red Republican. wakely2016.com], 58bs9j, 1476929322.0, 12
+139, [Stop Politics as Usual! (Cizek for AZ House Campaign Video)], 59p4q5, 1477616660.0, 7
+140, [GOP's early vote worries mount], 59fn08, 1477484228.0, 6
+141, [How many progressive nominees for Congress are there to actually vote for on November 8th?], 58bqjr, 1476928863.0, 6
+142, [Hey guys so today's the last day to register in NV to vote, and I don't know what party to register to.], 586aos, 1476852843.0, 7
+143, [Can we just agree that until at least november we establish that there is a scale of how we should be looking into candidates], 57yr6q, 1476755704.0, 6
+144, [Police officer cleared in fatal shooting of man pointing gun], 56yixe, 1476228170.0, 5
+145, [Robert Rubin, the Man Who Gave Us Bubble Driven Growth, Shares His Wisdom in the WaPo], 56651o, 1475798930.0, 6
+146, [/r/politics is holding a Town Hall today on Healthcare Ballot Measures (CA 52 & 61, CO 69, NV 4, and WA 14). Representatives from the "support" and "oppose" side for each were invited to respond to questions :)], 574bk9, 1476311160.0, 19
+147, [Presidential Race Mega Thread October 07, 2016], 56b8kb, 1475874155.0, 18
+148, [Bernie Sanders is a BEAST - Bold Leadership], 56xpq5, 1476217408.0, 29
+149, [CNN severs ties with Donna Brazile], 5aex45, 1477976083.0, 1000
+150, [Why is this sub so inactive?], 5aag2g, 1477917142.0, 20
+151, [A solution which could legitimize Third Parties and end the Spoiler Effect], 591qmp, 1477297920.0, 21
+152, [Pentagon Video Warns of Unavoidable Dystopian Future for Worlds Biggest Cities], 57b4n6, 1476404570.0, 20
+153, [Person for Congress  /r/PoliticalRevolutionSC], 563b86, 1475750422.0, 12
+154, [Presidential Race Mega Thread October 03, 2016], 55nj88, 1475528569.0, 15
+155, [In Place of Capitalism: The Case For Socialism], 56rg20, 1476126370.0, 103
+156, [I just got an email from Nancy Pelosi endorsing Morgan Carroll. This is a terrible idea.], 5aevg8, 1477975646.0, 7
+157, [NJ Vote question: (Gas tax related).], 59lmdh, 1477563601.0, 7
+158, [Why local elections are more important than national elections], 58z10k, 1477265220.0, 9
+159, [Meet the senators: Ron Johnson works to raise his profile among voters while Russ Feingold tries to reintroduce himself], 58nmgl, 1477090469.0, 9
+160, [What does everyone here think about the proposed amendments and candidates on the AL ballot?], 584awo, 1476832354.0, 5
+161, [Stop Saying The System Is Broken, Its This Way On Purpose | Commentary by Shaun King], 57a83a, 1476393865.0, 96
+162, [Presidential Race Mega Thread October 29, 2016], 5a0c9h, 1477774958.0, 14
+163, [Candidate with progressive agenda running for the Florida Senate. An alternative Marco Rubio and Patrick Murphy.], 581l70, 1476788138.0, 14
+164, [One election-system vendor uses developers in Serbia], 56rwsz, 1476134361.0, 14
+165, [Experts Find Evidence of Electronic "Vote-Flipping" in Tim Canova Loss to Wasserman-Schultz, Call for Recount], 59jkgu, 1477539269.0, 28
+166, [Wages Are so Stagnant Even the Federal Reserve Has Begun to Notice], 55up6g, 1475631485.0, 38
+167, [Presidential Race Mega Thread October 11, 2016], 56xv9b, 1476219749.0, 23
+168, [TIL in 2002, Republican Consultant & Pollster, Frank Luntz wrote a memo to the Bush Administration stating "The scientific debate is closing ... but not yet closed" and they should reframe from using the term "global warming", instead use "climate change" as "climate change" sounds less severe], 55jsfn, 1475465239.0, 705
+169, [CNN didn't say it's illegal to sing about Wikileaks], 5a4g0s, 1477829392.0, 34
+170, [ColoradoCare - Do the Math], 57nxhh, 1476592012.0, 13
+171, [Your Democracy Has Been Stolen; It's Time For Revolution], 56ml8z, 1476054986.0, 43
+172, [Nevada elections chief refuses to accommodate Native Americans who have to drive 200 miles to vote], 5a2lwt, 1477803828.0, 89
+173, ['Get the Insurance Companies the Hell Out' of Healthcare System], 59ioow, 1477530170.0, 2596
+174, [Obama endorsed Zephyr, Bernie endorsed Zephyr! What's not to love? Donate $10 to show that YOU support her as well!], 59wv1i, 1477716484.0, 53
+175, [Happy Halloween! Know What's SCARY? Not getting on the phone, using social media or donating Down Ballot Candidates or Measures! I am asking you to make 8 calls, or 8 tweets or donate 8 dollars. WE HAVE EIGHT DAYS LEFT!], 5agfz9, 1477992717.0, 9
+176, [Crowdsourcing help requested-- Find candidate info for all MO statewide candidates], 59p9sj, 1477618132.0, 9
+177, [Daily Ballot Awareness and Activism Post], 59nsjl, 1477601583.0, 10
+178, [Kamala Harris supports Scott Wiener against Bernie endorsed Jane Kim. Vote LORETTA SANCHEZ for Senate], 59mb80, 1477573613.0, 8
+179, [Obama Endorses All the Way Down Ballot], 58yf16, 1477255979.0, 8
+180, [Our Revolution Washington's endorsements: Yes on I-732, I-735, I-1433, I-1464 and ST3/Prop 1  /r/PoliticalRevolutionWA], 58dc91, 1476945911.0, 8
+181, [Strike continues at Libbey Glass factory in Toledo, Ohio], 584knr, 1476835309.0, 6
+182, [Wisconsin: Voter ID law may introduce obstacles for transgender voters], 5ad9ek, 1477960297.0, 17
+183, [Democrat ex-Army captain becomes an unlikely challenger in Missouri Senate race thanks to video ad in which he assembles an AR-15 blindfolded in just 32 seconds], 58ytqi, 1477262476.0, 15
+184, [Presidential Race Mega Thread October 22, 2016], 58t114, 1477170152.0, 16
+185, [Presidential Race Mega Thread October 18, 2016], 583n7m, 1476824530.0, 15
+186, [Obama is fed up with all the lies on the internet [and proposes Orwellian measure of "truthiness" to amend problem"]], 57ip1b, 1476507566.0, 18
+187, [Anonymous - Message to the Citizens of the World VI], 5703de, 1476245440.0, 15
+188, [Bernie Sanders: "If this election has taught us anything, it's that the American people are sick and tired of the economic, political and media status quo."], 5a6e3f, 1477868568.0, 2425
+189, [This election is a massive opportunity.], 5ae4oa, 1477968504.0, 20
+190, [In PA Katie McGinty vs Toomy for senate Race She is Winning by a Nose! Close Race! Dead Heat! 42 Katie McGinty 41.5 Toomy], 58fz54, 1476985073.0, 16
+191, [Scientists Accidentally Discover Efficient Process to Turn CO2 Into Ethanol], 5857yo, 1476841883.0, 19
+192, [Head of nation's largest police chief group issues formal apology for 'historical mistreatment' of racial minorities], 581yqg, 1476793551.0, 17
+193, [Warren Calls For Obama To Fire SEC Chairwoman | "Sen. Elizabeth Warren hit out at the U.S. Securities and Exchange Commission (SEC) Chair Mary Jo White for her failure to develop new rules that would require corporations to disclose their political contributions."], 57gaj0, 1476479813.0, 1965
+194, [Progressives, how do you feel about statements like these?], 58iy4r, 1477021736.0, 9
+195, [Syria conflict: US calls for Russia and Syria war crimes probe - BBC News], 56h583, 1475965356.0, 10
+196, [Did Paul Ryan just hand Democrats the Senate?], 58mthm, 1477080004.0, 80
+197, [Richard Burr tries to attack Deborah Ross, bites his own ass], 5aapx9, 1477921804.0, 2
+198, [Senate Map Remains a Tossup in Final Week | RealClearPolitics], 5aahrq, 1477917909.0, 2
+199, [Rodolfo Rivera Munoz, Native American San Antonio Lawyer-Green Party of Texas for Texas Supreme Court], 58faoi, 1476971071.0, 2
+200, [From Black Lives Matter to the Fight for $15: Why Americans Are in Revolt], 58tdbz, 1477175615.0, 499
+201, [Anonymous Message to North Dakota Governor Jack Dalrymple], 5a5458, 1477843156.0, 16
+202, [Shaun King: Colin Kaepernick is Enormously Courageous and Has Sparked a Movement Among Athletes], 58off2, 1477099372.0, 19
+203, [Some plan to vote NO on legal weed in Nov. due to regulation, taxation, implementation, etc. It's about more than cheap weed and small business, folks! It's about freedom! Have fun telling a friend who gets jailed next year that you voted no because of $300 ounces and corporate takeovers. Vote yes!], 58nv87, 1477093149.0, 18
+204, [Bernie Sanders Is Running a Shadow Campaign], 58u04d, 1477184213.0, 822
+205, [Our Revolution supporters helped almost 50 candidates via almost 100k contributions], 568qf3, 1475829575.0, 40
+206, [After Corbyns victory: socialism the only way forward], 567gpf, 1475813683.0, 39
+207, [Liberalism is still alive  its neoliberalism thats the problem | David Boyle | Opinion], 55sn1v, 1475601111.0, 39
+208, [TYT's Jimmy Dore: Democrats Are Restarting The Cold War To Hide From WikiLeaks], 59c9xm, 1477444822.0, 119
+209, [Americans dont know crime has plummeted. In fact, they think its gone up.], 56yglh, 1476227408.0, 62
+210, [Fight For Deborah Ross! North Carolina! Flip The Senate! So Many Exciting Reasons! Top Ten Reasons!], 5aggkl, 1477992920.0, 17
+211, [Presidential Race Mega Thread October 30, 2016], 5a5wp3, 1477861335.0, 11
+212, [Daily Ballot Awareness and Activism Post], 59hefu, 1477516006.0, 10
+213, [This Board Game Is Training Political Revolutionaries], 58b9va, 1476924093.0, 11
+214, [Inclusion of Territories], 585mas, 1476845946.0, 9
+215, [California and New York Lead the Way on Regulating Online Education], 584v81, 1476838308.0, 11
+216, ["America Divided": New TV Series Explores Inequality from Water to Housing to Mass Incarceration], 57c7rh, 1476416526.0, 10
+217, [Bad Trade Deals are Incompatible with Climate Action], 57buzq, 1476412575.0, 9
+218, [CA- Prop 61 Update- SUN 10-9-2016, Yes on 61 images for posting, 12 background links], 56q2i3, 1476099398.0, 9
+219, [Super PACs spend millions to target Feingold], 586da0, 1476853592.0, 19
+220, [Roaming Charges: a Wikileak is a Terrible Thing to Waste], 57p347, 1476607651.0, 20
+221, [Arpaio's opponent Paul Penzone is UP by 10 points! (after the Arizona Republic endorsed him for Sheriff)], 57ario, 1476400531.0, 19
+222, [Bernie Sanders Campaign Staffers Write New Rule Book For Political Organizing], 571zi5, 1476269273.0, 18
+223, [Russ Feingold on Twitter | Former GOP State Sen. Barbara Lorman is proud to endorse Russ: "Russ has a record of standing up to both parties to get things done for WI."], 57rvaw, 1476660171.0, 31
+224, [Students in California cast 13,084 votes for socialism], 587jkk, 1476867314.0, 18
+225, [Howard Dean: How to Move Beyond the Two-Party System], 56hjld, 1475970921.0, 21
+226, [Nina Turner: Out of Touch Politicians Drowning Middle Class], 563mwz, 1475755406.0, 20
+227, [This election sucks.], 58xe6u, 1477232030.0, 43
+228, [Memo Shows What Major Donors Like Goldman Sachs Want From Democratic Party], 56z2br, 1476234208.0, 43
+229, [Sign up for The Political Revolution's official email list, and receive information about volunteer possibilities, donation drives, and important downballot issues. It's time to #FlipTheSenate, and we need your help.], 59j7bk, 1477535435.0, 33
+230, [Frank Zona Cares About Our Drinking Water in Ohio! Get to Know Him. District 69 Needs Him.], 55siad, 1475597737.0, 28
+231, [Senate Dems to DOJ: Don't Let Wells Fargo Executives Off the Hook], 5632tq, 1475747066.0, 1568
+232, [FBI throws curveball into race for Senate], 5a8jmj, 1477893204.0, 12
+233, [How do you feel about open borders?], 56gx8q, 1475961726.0, 12
+234, [Third Presidential Debate Mega Thread], 58dvvc, 1476952547.0, 21
+235, [Can we please show Congressman Ted Lieu (D-CA) some love for trying to stem civilian carnage in Yemen?], 58c74o, 1476933577.0, 21
+236, [Bernie Sanders on Twitter "Election Day should be a national holiday so that everyone has the opportunity to vote."], 5aa39a, 1477911942.0, 3826
+237, [Electric Floors Could Generate Renewable Energy From Walking], 5ah12e, 1478000024.0, 4
+238, [John Legend tells Arizonans to vote for Paul Penzone], 58lgeh, 1477053185.0, 1
+239, [NEBRASKA: Last Day to Register to Vote by Mail is Friday, Oct 21, 2016 by 6 PM  /r/PoliticalRevolutionNE], 57tj6h, 1476679844.0, 3
+240, [Feds believe Russians hacked Florida election-systems vendor], 57bnbw, 1476410247.0, 3
+241, [Bernie Sanders at CU Boulder: 'Stand tall and vote yes on Amendment 69'], 584jrv, 1476835062.0, 22
+242, [Even the guards are joining the #PrisonStrike in this Alabama prison], 57ay9h, 1476402676.0, 21
+243, [Presidential Race Mega Thread October 12, 2016], 573xhy, 1476306141.0, 23
+244, [All of my work for Bernie Sanders has been in vain. And its okay.], 55xqev, 1475669185.0, 22
+245, [Is America Destined For Revolution or Fascism? | Robert Scheer Interview  /r/jimmydore], 5a2dx1, 1477801051.0, 11
+246, [The Coming Insurrection - The Invisible Committee], 59y52x, 1477732295.0, 11
+247, [Elizabeth Warren: End Corporate Tax "Holidays"], 599s28, 1477408712.0, 11
+248, [FL- Federal Judge says FL Sec Of State actions amounted to an undeclared war on the right to vote in FL /// USA in Nov  Will It Be Rigged? Will It Be Hacked? Fact-Based Discussion of Our Vulnerable U.S. Elections  5 new links], 589eov, 1476898318.0, 14
+249, [[Link to article in comments] Federal reserve released data that consumer prices are rising, but guess what isn't...?? The minimum wage!! How are we going to afford increased rent and gasoline if our wages don't increase as well!?], 584bqp, 1476832598.0, 13
+250, [Jim Barksdale hires high-profile Bernie Sanders veteran in Senate campaign revamp], 57bbp6, 1476406783.0, 11
+251, [Progressive Coders updates: Operations, Ways to Volunteer, and ColoradoCare  The Progressive Coder], 56hdl9, 1475968671.0, 14
+252, [Journalist Amy Goodman Shouldn't Be Arrested for Covering Dakota Pipeline Story], 57bsul, 1476411933.0, 71
+253, [Sen. Elizabeth Warren goes on tirade after Wells Fargo CEO John Stumpf retires], 57a7xg, 1476393803.0, 72
+254, [Friends: Bernie Sanders himself has a request for all of us. TODAY, at 1:00 PM ET, @BernieSanders will kick off a push to get a hashtag trending on Twitter. AND HE NEEDS OUR HELP. I assure you, this will be worth it.], 5959zu, 1477353570.0, 115
+255, [With only a few short weeks until the General Election, will you phonebank for down-ballot progressives and ballot initiatives?#FlipTheSenate #FlipTheHouse], 58a3ev, 1476910393.0, 44
+256, [Clintonites, the Liberal Elite and the Democratic Party are Ideologically and Politically Compromised by the Ruling Class. No Honeymoon Period After November 8th.], 594hcb, 1477344318.0, 268
+257, [I am so tired of hearing Bernie Sanders cannot be (X) because he is not a Democrat. Bernie Sanders is real democrat who runs as an Independent to vote slightly differently than the Corporate Cronies], 5agr5y, 1477996498.0, 318
+258, [The DNC platform, and our role as progressives to fight for it.], 56p78d, 1476088077.0, 62
+259, [Deadline for mail or online new voter registration, address change and other updates is Monday, Oct 10, 2016  /r/PoliticalRevolutionDC], 55id5w, 1475446341.0, 24
+260, [A time for leadership - The Boston Globe - By Bernie Sanders], 59qj9r, 1477631320.0, 12
+261, [Total cost of 2016 election could reach $6.6 billion, CRP predicts], 59onw9, 1477611739.0, 12
+262, [How to Make Free Trade an Easier Sell], 592x3a, 1477315285.0, 14
+263, [Presidential Race Mega Thread October 20, 2016], 58gp98, 1476997329.0, 14
+264, [Winning Rural Ohio  /r/PoliticalRevolutionOH], 56iwsr, 1475988284.0, 12
+265, [Cop Smashes Handcuffed Black Man's Head Into Windshield (video)], 56azx3, 1475870519.0, 13
+266, [Minnesota nurses reject sellout contract, continue strike], 55vrft, 1475643381.0, 12
+267, [Dakota Access pipeline protesters occupy Hillary Clinton campaign HQ], 5a4ra0, 1477835075.0, 49
+268, [Reminder: Ranked Choice Voting (RCV) is on the Maine ballot this year. It has majority support in polls -- but make sure you get the word out to any Maine residents you know! And consider supporting FairVote.org!], 573kf1, 1476300294.0, 1692
+269, [Bernie "short" email.], 58eb96, 1476957585.0, 24
+270, [WHY IT MATTERS: LGBT | Same-sex marriage is now the law of the land, but there are other battlegrounds related to civil rights and nondiscrimination protections for lesbians, gays, bisexuals and transgender people.], 56y0sf, 1476221913.0, 26
+271, [Top Climate Scientist: Tax Fossil Fuels to Save Younger Generations' Future], 55uosd, 1475631357.0, 25
+272, [Zephyr Teachout on Twitter: "My new TV ad, out this morning! The flood of negative, misleading ads is part of everything that's wrong with politics"], 55p5uf, 1475548615.0, 25
+273, [Thank you Bernie Sanders.], 5aeokk, 1477973792.0, 334
+274, [Donna Braziles Deception Is a Symbol For the Big Media Lie], 58vpao, 1477205425.0, 287
+275, [Presidential Race Mega Thread October 26, 2016], 59hdlt, 1477515734.0, 14
+276, [Special Report: Democratic House Officials Recruited Wealthy Conservatives], 587zdf, 1476872882.0, 12
+277, [The Lucrative Road From Congress to Corporate Boards], 5855dy, 1476841165.0, 14
+278, [REPORT: US Corporations Hiding TRILLIONS In Tax Havens], 568mwu, 1475828312.0, 14
+279, [Luke Quillen for the South Carolina House of Representatives, District 34  /r/PoliticalRevolutionSC], 55zb5a, 1475700864.0, 14
+280, [Wikileaks Mega Thread 3.0 - Podesta E-mails], 590d9n, 1477281025.0, 68
+281, [Bernie Looks Ahead], 5858lb, 1476842076.0, 26
+282, [Have a question for @JohnFasoNy or @ZephyrTeachout for the debate Thurs at 8pm? Use #NY19. RSVP, tune in or stream: http://bit.ly/2dK7aa6], 579tx8, 1476388231.0, 24
+283, [National Coming Out Day 2016 Quotes: 11 Sayings From LGBT Rights Advocates About Being Yourself], 56xxp4, 1476220716.0, 26
+284, [Polling Points to Support for Pot Legalization Efforts in Five States], 567vph, 1475818344.0, 28
+285, [Tom Hayden, the Complicated Radical], 5ad484, 1477958904.0, 3
+286, [Want Transit? Get It on the Ballot!], 5aav57, 1477924554.0, 4
+287, [/r/politics Town Hall: State Ballot Measures about Gun Laws (CA, ME, NV, WA)  /r/politics], 59nfml, 1477596121.0, 2
+288, [[Negative Ad] NY-19: Zany Professor], 59huyt, 1477521533.0, 2
+289, [Jesse James Blues-Project Vote], 59cbko, 1477445278.0, 5
+290, [Divided America: Yearning for unity, enduring divisiveness], 59b1sw, 1477431474.0, 5
+291, [IDAHO! First day to begin Early Voting at the Early Voting polling place for the General Election (November 8) for those counties who elect to conduct Early Voting Monday, Oct 24, 2016  /r/PoliticalRevolutionID], 58z4jr, 1477266488.0, 4
+292, [DELAWARE! Deadline for Uniformed Services Members and Overseas Citizens to Register to Vote before the General Election. Monday, Oct 24, 2016  /r/PoliticalRevolutionDE], 58z1dk, 1477265358.0, 5
+293, [Volcker and Peterson: Ignoring the Lack of Demand Problem], 58tji9, 1477178250.0, 6
+294, [Obama mocks Marco in Miami], 58m91w, 1477068773.0, 6
+295, [Going Local in the Fight Against Inequality], 574aq0, 1476310886.0, 4
+296, [What We Talk About When We Dont Want to Talk About Nuclear War], 55wb07, 1475649956.0, 3
+297, [Democrats look poised to retake Senate majority #FlipTheSenate], 59ylrh, 1477739202.0, 40
+298, [How to Support Standing Rock and Confront What It Means to Live on Stolen Land], 59ctaw, 1477450358.0, 27
+299, [Impacted Communities Take Fight Against Dakota Access to Corporate Heads], 57a5m9, 1476392949.0, 28
+300, [Community Forum and Open Discussion], 55zp9u, 1475706177.0, 27
+301, [Presidential Race Mega Thread October 23, 2016], 58yg6u, 1477256537.0, 15
+302, [WestCoastRevolution on Twitter | #AlwaysAFanOf getting big money out of elections? See you Oct. 20th at Washington Hall, Nina Turner as Keynote! RSVP:http://wamend.org], 57a1kq, 1476391371.0, 15
+303, [Facebook, Twitter, and Instagram surveillance tool was used to arrest Baltimore protestors], 56zogc, 1476240909.0, 15
+304, [Harvard Dining Services Picket in Historic Strike | News | The Harvard Crimson], 56czro, 1475895283.0, 14
+305, [Planet Reaches Hottest In 115,000 Years], 567lo2, 1475815157.0, 17
+306, [Zephyr Teachout on Twitter | For new followers and people making up their mind, a video we made a while back on independent biz! Watch and share!], 57a5jz, 1476392924.0, 71
+307, [Fracking Industry's New Plan? Prosecute Those Who Push Drilling Bans], 55u7uz, 1475625959.0, 27
+308, [Register to Vote before the General Election is Saturday, Oct 15, 2016  /r/PoliticalRevolutionDE], 55iyuy, 1475454907.0, 58
+309, [Democratic Sen. Chuck Schumer Says Top Priority for Next Year Is Giant Corporate Tax Cut], 58c90n, 1476934108.0, 32
+310, [Syria War Propaganda Drumming Up Hard, Corporate Media is LYING Again], 56ug9r, 1476163074.0, 31
+311, [The Democrats are likely to win a majority of House votes, but not a majority of House seats. Again.], 58yh39, 1477256949.0, 16
+312, [Can Affordable Housing Activists Save New York?], 58bh4y, 1476926178.0, 17
+313, [Our Revolution on Twitter: We stand with Nevadans asking #NVLeg to vote down SB1, which would be a raw deal for NV taxpayers & a handout to a billionaire. #StadiumScam], 57d3ph, 1476426597.0, 28
+314, [The Death Penalty, Nearing Its End | "For the first time in nearly half a century, less than half of Americans said they support the death penalty..."], 59cdbn, 1477445780.0, 4
+315, [Important endorsement today from the @ActiveRetirees (Alliance for Retired Americans)! Their endorsement letter: http://pramilaforcongress.com/ara], 58k14c, 1477033831.0, 5
+316, [Introducing the Universal Income Project], 57vf7w, 1476705044.0, 5
+317, [What American activism looks like in 2016 [photographer covering many recent events/actions]], 5755gf, 1476320412.0, 4
+318, [Posting New Secret Trade Docs, Wikileaks Further Exposes Corporate Plot], 57oo4n, 1476601823.0, 44
+319, [Fact check: Marijuana tax claim a puff of smoke in Prop 205 ad], 55j708, 1475457795.0, 78
+320, [Hiding US Role in Yemen Slaughter So Bombing Can Be Sold as Self-Defense], 587qqh, 1476869814.0, 16
+321, [Non-cable Internet providers offer faster speeds to the wealthy], 57nc4x, 1476584458.0, 17
+322, [Celebrate Love and Support LGBTQ people across the globe : #NationalComingOutDay], 56ytah, 1476231373.0, 17
+323, [Cybersecurity: Ensuring the Integrity of the Ballot Box - United States House Committee on Oversight and Government Reform], 55z5ek, 1475698426.0, 18
+324, [Ohio: The fight for our water], 55p52m, 1475548370.0, 18
+325, [Jane O'Meara Sanders on Twitter: Call your Senators & candidates. Where do they stand on #NoDAPL. Tell them to support @SenSanders' review. Call WH.], 57aueq, 1476401442.0, 43
+326, [The Quiet Desperation of Millennials], 56c4kf, 1475885304.0, 31
+327, [Our Revolution on Twitter | Oscar Lopez Rivera has served 34 years in prison for his commitment to Puerto Rico's independence. President Obama, it's time to let him out.], 56mf33, 1476052539.0, 133
+328, [Forget the FBI Cache; Podesta Emails Show How America Is Run], 5agu79, 1477997552.0, 69
+329, [Capitalism Is Doomed  Without Alternatives, So Are We], 58ppbz, 1477113516.0, 35
+330, [Presidential Race Mega Thread October 25, 2016], 59avuf, 1477429343.0, 20
+331, [Oil Disasters Redefined as 'Gas Hikes' While Pipeline Industry Receives Billions in Subsidies], 588clk, 1476878000.0, 19
+332, [We, as well as People for Bernie and Save Main Street are hosting a fundraiser for Zephyr! Sign up for the thunderclap.], 583xbb, 1476828018.0, 16
+333, [How to get justice after the Wells Fargo scandal], 55uw2a, 1475633644.0, 18
+334, [Late register for most elections at the county election office or the designated location beginning 29 days before election day, and through 8 p.m. on election day. Regular voter registration closes at 5 p.m. thirty days before election day.  /r/PoliticalRevolutionMT], 55iot0, 1475451113.0, 18
+335, [Bernie Sanders will be holding a Rally this Friday, Oct. 14th at UCLA California to support Prop. 61!! "Prop.61 will be a real blow against the greedy pharmaceutical industry that will reverberate all over America."], 57auqe, 1476401556.0, 62
+336, [Wikileaks Mega Thread - Podesta E-mails], 575c9f, 1476322384.0, 369
+337, [The DEA spent $73,000 to eradicate marijuana plants in Utah. It didnt find any.], 56hjd6, 1475970832.0, 29
+338, [Pretty disgusting hit piece against NJ-7 Berniecrat Peter Jacob, by opponent and long-time Republican incumbent, Leonard Lance.], 55pqz6, 1475555219.0, 33
+339, [Quinnipiac poll: Senate race tightens, too close to call between Rubio, Murphy], 589s09, 1476905477.0, 50
+340, [Sign the petition!! Tell President Obama: Stop the Dakota Access oil pipeline. #NoDAPL], 59nuk4, 1477602322.0, 1117
+341, [Not going to be around on election day? Make sure you know your absentee ballot information to ensure your vote is counted!! Follow this link for absentee ballot information for **ALL 50 STATES!!**], 55zdc7, 1475701701.0, 37
+342, [David Zuckerman Ahead by 17 points in Vermont, Sue Minter Behind by 1 point], 58axwj, 1476920525.0, 19
+343, [Presidential Race Mega Thread October 15, 2016], 57lyfy, 1476565366.0, 21
+344, [Opinion: Latinos, we are indigenous, the #NoDAPL fight is ours as well], 5770i2, 1476340956.0, 19
+345, [Let's donate to @TulsiGabbard as a thank you for her bravery and convictions.], 56tuah, 1476156329.0, 298
+346, [Fight For Deborah Ross! North Carolina! Flip The Senate! So Many Exciting Reasons! Top Ten Reasons!], 5aaofl, 1477921008.0, 5
+347, [The FCC just passed sweeping new rules to protect your online privacy], 59pyuc, 1477625343.0, 7
+348, [The Vietnam War and Our Latest war on Yemen Have One Thing in Common: Nonexistent Attacks], 59b0fb, 1477431004.0, 7
+349, [Daily Ballot Awareness and Activism Post], 58oxss, 1477105006.0, 6
+350, [Russ Feingold Will Preserve The Mortgage Interest Deduction in Wisconsin! This will help Families keep their homes!], 57qesf, 1476630686.0, 6
+351, [Question about finding down-ballot candidates], 5705ku, 1476246120.0, 7
+352, [Bresha Meadows "Hero or Muderer"], 56p0ed, 1476085518.0, 5
+353, [ Amy Goodman Is Facing Prison for Reporting on the Dakota Access Pipeline. That Should Scare Us All.], 57po60, 1476616620.0, 2363
+354, [Snowden: 'Journalists Are a Threatened Class' in Era of Mass Surveillance], 59uq40, 1477694076.0, 51
+355, [Drug cops raid an 81-year-old woman's garden to take out single plant], 56gzul, 1475962951.0, 86
+356, [(Oregon) Don't Shoot Portland's Teressa Raiford announces a write-in campaign for Multnomah Co. Sheriff (there is currently only one candidate on the ballot running uncontested: the unelected incumbent, Mike Reese)], 59lwx3, 1477567578.0, 20
+357, [[Maine] Maine is voting on the change from FPTP to STV. Do not know what STV means? Worry not, here is a video breaking down the system!], 585f5g, 1476843912.0, 20
+358, [Death Sentences Require Unanimous Jury, Florida Supreme Court Rules  /r/PoliticalRevolutionFL], 57m7v8, 1476569668.0, 21
+359, [Jim Burke, democratic nominee for Texas house district 114, is doing an AMA in /r/politics!], 55ok9t, 1475541841.0, 20
+360, ["Senate Update: The Last Week Has Been Very Kind To Democrats' Hopes For A Majority" and also a Bernie Chairmanship of Budget or HELP], 58mygf, 1477082044.0, 37
+361, [Wells Fargo: John Stumph may get $134 Million Exit Package], 57cdmb, 1476418326.0, 35
+362, [Has anyone else in the community become seriously concerned about this sub?], 55xzfk, 1475673524.0, 35
+363, [Bernie Sanders Told Supporters To Run For Office  And This Wichitan Is], 5951ub, 1477351112.0, 1127
+364, [Wall Street Braces for New Democratic Muscle in the Senate - A tougher regulatory environment pushed by Elizabeth Warren concerns big banks], 59o1on, 1477604862.0, 111
+365, [The Debates Are Over, and No One Asked About Climate Change], 58gusf, 1476999308.0, 644
+366, [I have been to all 165 towns in the 19th CD, and everywhere I go, I hear the same thing: let's get Congress working again, for the PEOPLE.], 579tm5, 1476388068.0, 247
+367, [Zephyr Teachout on Twitter | Thank you @SenWarren for your great endorsement! I would love to work with you in Congress! #NY19.], 584k2g, 1476835145.0, 72
+368, [Armed With Riot Gear, Militarized Police Begin Forcibly Clearing DAPL Protest Camp], 59r04h, 1477636616.0, 21
+369, [How Deep Will 2016's Blue Wave Be? Progressives Push Many Candidates and Issues Up and Down Political Ladder], 59ixub, 1477532746.0, 20
+370, [Early Voters! In many states and counties you can check the status of your ballot.], 59cryf, 1477449966.0, 20
+371, [Message from Russ Feingold | Let's take back the Senate], 5867wg, 1476852036.0, 21
+372, [Tulsa Gabbard has a question for the debate], 581x1h, 1476792831.0, 21
+373, [Talking Point For Teachout !She will Lower Property taxes! Which have gone up 43% while her oppenant faso has been in office], 57l0ig, 1476543813.0, 23
+374, [[Essay] | Swat Team, by Thomas Frank: The medias extermination of Bernie Sanders, and real reform | Harper's Magazine], 57ihi9, 1476505142.0, 20
+375, [Reps. Barbara Lee and Linda Snchez are squaring off in the race to become vice chairman of the Democratic Caucus], 5663bt, 1475798409.0, 22
+376, [Paul Penzone releases campaign ad attacking Sheriff Joe Arpaio], 55r2yw, 1475572568.0, 20
+377, [Big pharma is spending big to keep CA voters from passing a first-in-nation law meant to cut prescription drugs' cost], 58a34s, 1476910282.0, 2289
+378, [How can those of us overseas help with the Political Revolution?], 5af162, 1477977168.0, 7
+379, [The Progressive Tax Reform You've Never Heard Of], 59vtfl, 1477705558.0, 8
+380, [Trying to come up from Chicago to canvass for Feingold - Anyone have office locations &amp; phone numbers?  /r/PoliticalRevolutionWI], 59jcjn, 1477536975.0, 5
+381, [Businesses brace for Obama overtime rule], 58vo9s, 1477205048.0, 7
+382, [/r/politics Town Hall: State Ballot Measures about Marijuana (AR, AZ, CA, FL, MA, ME, MT, NV, ND)  /r/politics], 58gjee, 1476995103.0, 7
+383, [Now Go To your Left for phone bank for endorsed candidates CALL FOR PROP 61 Lower medications! This will make bernie very powerful and help us all! Look at what else is available to call on!], 58ckk6, 1476937425.0, 5
+384, [Tennessees Free College Program Is Popular, But Will It Succeed?], 58bm2u, 1476927526.0, 7
+385, [Hundreds attend Rock Against the TPP concert in Boston to protest the Trans-Pacific Partnership deal], 583pga, 1476825278.0, 6
+386, [Is the "people's PAC" alluded to in this email Our Revolution?], 57z0gq, 1476758404.0, 9
+387, [Eleven Theses for the Bernie Sanders Generation], 57kgrq, 1476532910.0, 8
+388, [House 2016: Where the races stand], 57j3jg, 1476512485.0, 7
+389, [Let's FOCUS! Forget POTUS! Flip the Senate and Rock the House! Call for Teachout, Donate or use Social Media! Focus on all the great down ballot candidates! Russ Feingold All of them The Time Is NOW!], 5a3uu1, 1477820304.0, 58
+390, [Why are very few people phone banking for ColoradoCare?], 59y5av, 1477732389.0, 41
+391, [The first voter registration deadlines are Sat Oct 8. Register today! Find out the deadline for your state], 56e76t, 1475910079.0, 37
+392, [A Universal Basic Income Would Insure Against Job Loss], 55xvra, 1475671664.0, 40
+393, [Paul Ryan Uses Bernie Sanders As the ULTIMATE Scare Tactic], 58l3on, 1477047910.0, 22
+394, [Presidential Race Mega Thread October 17, 2016], 57x6vz, 1476738156.0, 20
+395, [Full Interview: Sen. Bernie Sanders On HBOs "Real time with Bill Maher" | October 14, 2016], 57qlbx, 1476635234.0, 20
+396, [How can I help Maine's Question 5 (Ranked Choice Voting)?], 56y1e8, 1476222148.0, 24
+397, [Federal judge extends Florida voter registration deadline], 573yjl, 1476306550.0, 41
+398, [Tim Canova's "Progress For All" Pac is pushing for open primaries, non partisan elections, election integrity, and more for Florida via 2018 ballot measures], 59snmr, 1477657980.0, 147
+399, [Hey Real Journalists, Are There Any Of You Left In There?], 57gco9, 1476480673.0, 103
+400, [Senior House Republicans fighting for their lives.], 59h799, 1477513272.0, 25
+401, [The Progressive Case for Replacing the Welfare State with Basic Income], 55xw63, 1475671864.0, 23
+402, [Wikileaks Mega Thread 2.0 - Podesta E-mails], 57zp1w, 1476765568.0, 146
+403, [Russ Feingold on Twitter: Join Russ and @BernieSanders for an exciting event in Madison TOMORROW!], 55vlu3, 1475641589.0, 37
+404, [Hi r/Political_Revolution! I am Tom Wakely. A progressive Texan looking to unseat Lamar Smith (R) in TX's 21st Congressional District. AMA!], 58jd5j, 1477026189.0, 145
+405, [Paul Ryan: Dem Party 'run by Bernie Sanders and Elizabeth Warren'], 597sun, 1477380114.0, 41
+406, [The Real Reason We're In Syria Is Enraging But Not Surprising], 59prf0, 1477623213.0, 22
+407, [I just read an article explaining how gerrymandering is going to keep a lot of old republicans in their senate and house seats this election, despite getting less votes. How do we raise awareness of just how bad this is? How do we make this an issue?], 58yj51, 1477257910.0, 26
+408, [Daily Ballot Awareness and Activism Post], 58t5r4, 1477172255.0, 25
+409, [Governor of IL donates at least $9 million to candidates. Regardless of party, seems wrong for a public servant, right?], 58qkvr, 1477124378.0, 24
+410, [Internal Watchdog Blasts EPA's Egregious Delay on Flint Emergency Order], 58mz2u, 1477082311.0, 23
+411, [On Strip Searches and Press Freedom in North Dakota], 58lz9g, 1477062685.0, 25
+412, [32+ New Honest Election Resource Links  CSOonlines new site of technical election hacking stories, Open Source Election Technology resources links, PA updates], 5632ss, 1475747056.0, 25
+413, [45 Years After Attica Uprising, Prisoners Are Rebelling Again], 55ore9, 1475544097.0, 25
+414, [Who'll save Social Security, Medicare? Russ Feingold, Ron Johnson each say it's them], 5a8u1e, 1477896451.0, 9
+415, [Pledge to #VoteClimate], 59ukmj, 1477692305.0, 10
+416, [Battleground states still fighting over voting laws, potential Election Day confusion], 59lj8e, 1477562459.0, 9
+417, ['Jimmy John' supports Arpaio, the sheriff who was charged with contempt for enforcing racist policies!], 59g00g, 1477490187.0, 9
+418, [Top Democrats steamed that party letting Rubio skate], 59fh6c, 1477481855.0, 7
+419, [How do I figure out which non-presidential candidate to vote for?], 59cktj, 1477447924.0, 8
+420, [The Pentagons Terminator Conundrum: Robots That Could Kill on Their Own - The United States has put artificial intelligence at the center of its defense strategy, with weapons that can identify targets and make decisions.], 59at5n, 1477428330.0, 8
+421, [CSS Changes and State Flag Flair], 594cf7, 1477342567.0, 7
+422, [ILLINOIS! First Day for Early Voting at Permanent Polling Places other than the Office of the Election Authority. These permanent polling places are to be open on holidays, Saturdays and Sundays. Monday, Oct 24, 2016  /r/PoliticalRevolutionIL], 58z6qy, 1477267259.0, 7
+423, [Sustainability is Destroying the Earth], 58usdn, 1477193706.0, 6
+424, [Where do I find out who I'd want to vote for in MN?], 58mjbz, 1477074847.0, 10
+425, [Five thousand faculty strike at Pennsylvania state campuses], 58j99y, 1477025012.0, 6
+426, [David Graeber on the Value of Work], 584vql, 1476838451.0, 7
+427, [WEST VIRGINIA: Deadline to register to vote for the General Election is Tuesday, Oct 18, 2016  /r/PoliticalRevolutionWV], 57ruvk, 1476660008.0, 7
+428, [A simple proposal for funding universal healthcare.], 57kcma, 1476530940.0, 7
+429, [Senate 2016: Where the races stand], 57j3kn, 1476512501.0, 7
+430, [Racial Inequality  Mirror for America], 57bsna, 1476411864.0, 8
+431, [Watch Faso-Teachout debate Thursday evening], 57bjdx, 1476409041.0, 8
+432, [Will The Nations Capital Become a National Leader on Paid Leave?], 57bc7l, 1476406933.0, 8
+433, [Jordan & AFL-CIO President: "Washington Is Our Enemy"], 56zq4p, 1476241427.0, 7
+434, [A New Report Reveals The Real Story About Payday Lenders], 56we9h, 1476189072.0, 6
+435, [6 Million Adults Who Won't Influence This Presidential Race], 569sse, 1475845472.0, 8
+436, [Message from Bernie | I hear you want me to have a gavel], 58bk7d, 1476927018.0, 528
+437, [Deadline to register to vote for November 8 Election is Monday, Oct 10, 2016  /r/PoliticalRevolutionAR], 55ic6c, 1475445888.0, 40
+438, ["In 2017 Social Security Benefits are going up $4.00* dollars a month. Not. Good. Enough."], 58avxx, 1476919921.0, 66
+439, [NY-19: Obama Endorses Teachout (Updated)], 5979jh, 1477373993.0, 27
+440, [All that anger and frustration you have about this year's election? Write a note to your self to read early next year, reminding yourself to STAY ENGAGED. Keep the pressure on in 2017 and 2018, get anything we can done, and make sure 2018 and 2020 elections are different.], 57yea0, 1476752075.0, 27
+441, ['Either We Destroy War or It Will Destroy Us': Happy Birthday, Philip Berrigan], 561nav, 1475728474.0, 25
+442, [Report Shows US Corporate Tax Dodging Still Rampant, Still Legal], 55vduq, 1475639092.0, 25
+443, [Last Day to Register to Vote in General Election (in person) is Tuesday, Oct 11, 2016  /r/PoliticalRevolutionTN], 55il37, 1475449649.0, 25
+444, [Voter Registration Deadline, 12:00 p.m. Circuit Clerks's Offices MUST remain open from 8:00 a.m. until 12:00 p.m. Mail-In Registration Applications must be postmarked no later than Saturday, October 8, 2016  /r/PoliticalRevolutionMS], 55i98k, 1475444492.0, 23
+445, [Community Town Hall and Meta Discussion - Pivoting to Post-Election Strategy], 5a0fem, 1477776376.0, 50
+446, [Last day to register for November general election is Tuesday, Oct 11, 2016  /r/PoliticalRevolutionMI], 55ihk2, 1475448265.0, 45
+447, [@BernieSanders: "I heard what @SpeakerRyan said: If the GOP loses the Senate, I'll be the Budget chairman. Sounds like a good idea."], 58by5u, 1476930992.0, 188
+448, [Senate Race in Illinois Leaning Democratic], 5922id, 1477302428.0, 25
+449, [Voter Registration Deadline - General Election Voter registration application must be postmarked by deadline date, Monday, Oct 10, 2016  /r/PoliticalRevolutionHI], 55icvg, 1475446200.0, 28
+450, [A gay, American Indian, Democratic woman from Montana was nominated to run for House of Representatives], 590zzn, 1477288466.0, 46
+451, [There Can Be No Progressive Agenda Until There's Democracy In America], 58nedg, 1477087793.0, 47
+452, [Our Revolution now has a calling schedule up for candidates like Zephyr Teachout (NY), Gary Kroeger (IO), Pramila Jayapal (WA), and even for propositions like ColoradoCare!! Change can only take place from the bottom-up; help us shape the future of America by making ten calls today!!], 55zfzn, 1475702745.0, 690
+453, [Americans Are Dying Faster. Millennials, Too], 59uwlj, 1477696045.0, 8
+454, [Obama administration confirms double-digit premium hikes], 597s22, 1477379844.0, 7
+455, [This Democrat wants to turn a red stronghold purple  by being more liberal], 5974n0, 1477372510.0, 10
+456, [Dumb & Dumber Claims About Last Week's Internet Attack (SOPA?!? Really?)], 5966w7, 1477362751.0, 10
+457, [Putting Family Policy on the Governing Agenda], 595dbs, 1477354495.0, 9
+458, [Daily Ballot Awareness and Activism Post], 594py0, 1477347325.0, 8
+459, [Standing Rock Sioux Tribe makes space on reservation land for DAPL protest camps to move], 58myvq, 1477082221.0, 11
+460, [Diversity, balance essential for Florida's constitutional panel], 580odf, 1476776623.0, 8
+461, [Avoiding collapse: Grand challenges for science and society to solve by 2050 - MAHB], 56fuar, 1475936939.0, 10
+462, [Lawsuit Against the EPA Could Thwart U.S. Compliance with the Paris Agreement], 55lrsb, 1475492578.0, 9
+463, [Paul Ryan warns of doomsday scenario: Bernie Sanders as Budget Committee chair], 57iw65, 1476509952.0, 49
+464, [Zephyr Teachout on Twitter | What are you doing this weekend? What beats door knocking in #ny19? Join us! http://www.zephyrteachout.com], 5746wa, 1476309602.0, 48
+465, [Support for Legal Marijuana Use Up to 60% in U.S.], 58b42d, 1476922383.0, 70
+466, [After Election, Tension Between Liberal and Centrist Democrats in Congress May Surface Quickly - Washington Wire], 59ivlr, 1477532119.0, 27
+467, [Bernie Sanders on Twitter: "Too many young people with a burning desire to get a higher education are unable to do that for one reason: their family lacks the money."], 58dabv, 1476945270.0, 47
+468, [The US just bombed Yemen, and no one's talking about it], 582ntc, 1476806471.0, 49
+469, [Watch live: Republican Sen. Mike Lee debates with Democratic challenger Misty Snow in U.S. Senate race], 577gpb, 1476346824.0, 69
+470, [Bernie Sanders on Twitter: "If you want to understand why we pay such high drug prices listen to this: Since 1998 the drug industry has spent $3 billion on lobbying."], 57l95w, 1476549836.0, 92
+471, [Ralph Nader Interviews Noam Chomsky. Very relevant to the goals of this subreddit], 581y27, 1476793269.0, 50
+472, [Help end the War on Drugs - Yes on 4 to regulate and tax marijuana  /r/PoliticalRevolutionMA], 56dkzr, 1475902161.0, 51
+473, [Obama endorses Zephyr Teachout in NY-19 race], 5966rz, 1477362719.0, 851
+474, [Russ Feingold for Senate Wisconsin! He will raise the minimum wage!], 57qf7p, 1476630963.0, 28
+475, [Obama Worries Future Presidents Will Wage Perpetual, Covert Drone War], 568r1j, 1475829821.0, 27
+476, [Corporations Avoid Taxes By Offshoring $2.5 Trillion  More Than The GDP Of France], 5646fw, 1475765655.0, 28
+477, [Chicago Teachers Prepare for Battle: Chicago teachers have voted overwhelmingly to strike in the face of concession demands and austerity.], 55uxso, 1475634169.0, 29
+478, [Last Day to Register to Vote in November 8 General Election is Tuesday, Oct 11, 2016  /r/PoliticalRevolutionTX], 55ilfg, 1475449785.0, 26
+479, [Presidential Race Mega Thread October 02, 2016], 55i4nt, 1475442132.0, 30
+480, [Bernie Sanders on Twitter | The Democratic platform is a very progressive document but no president will be able to implement it unless millions of people stand up.], 57tr6k, 1476682520.0, 69
+481, [Do Not Resist: The Police Militarization Documentary Everyone Should See], 5788c7, 1476357284.0, 73
+482, [Bernie Sanders: Heres what Ill do the day after the election], 59v0ot, 1477697293.0, 123
+483, [Misty K Snow on Twitter | We are supposed to have a government of, by, and for the people; not a government of, by, and for the millionaires. #UTPol #Flipthesenate], 59aqoa, 1477427381.0, 121
+484, [Rebranding Bernie: The Sanders revolution will evolve into a sticky political movement (Jim Hightower)], 5785ec, 1476356116.0, 94
+485, [This is your LAST REMINDER, folks. There is WAY MORE than Trump & Clinton on the ballot. 9 states are voting on weed. A few are voting on raising the min. wage. CO is voting on single payer healthcare. Many registration deadlines begin NEXT WEEK. Get registered NOW. Then register 5 friends as well.], 56ht3r, 1475974277.0, 180
+486, [A single Bernie Sanders tweet cost this pharma company $387 million], 586bze, 1476853224.0, 74
+487, [Six Gulf Protectors Arrested Challenging Gulf Oil Drilling], 5aaugc, 1477924169.0, 11
+488, [California's State Propositions - A quick nonpartisan guide to help decide], 59wpbv, 1477714766.0, 10
+489, [Ranked-Choice Voting Explained with Pokmon (Maine Referendum Question #5 2016)], 594li4, 1477345831.0, 8
+490, [IOWA! Last Day to Register to Vote for November 8th General Election Saturday, Oct 29, 2016  /r/PoliticalRevolutionIA], 591gs4, 1477294376.0, 11
+491, [United in fossil-fuel fight, NW tribes inspire N.D. pipeline foes  /r/PoliticalRevolutionWA], 5875q3, 1476862491.0, 10
+492, [Earth to Regulators: If You're Going to (Hopefully) Ding John Stumpf, Don't Miss Henry Kravis, Leon Black, et al.], 57igca, 1476504759.0, 11
+493, [UnKoch My Campus!], 56wez3, 1476189394.0, 8
+494, [Prop 205, Prop 206: Two Progressive Propositions  /r/PoliticalRevolutionAZ], 56ox9g, 1476084333.0, 9
+495, [U.S. Government Just Declared WAR On Native Americans, State Gives Cops the Green Light To Shoot DAPL Protesters On Sight - Counter Current News], 55yke6, 1475686386.0, 8
+496, [State Senate race locked in furious dead heat between Kim, Wiener  /r/PoliticalRevolutionCA], 55kmbp, 1475475890.0, 9
+497, [Last Day to Register to Vote for November 8 General Election is Wednesday, Oct 12, 2016  /r/PoliticalRevolutionMO], 55io3l, 1475450850.0, 10
+498, [The Geniuses Who Brought You the Iraq War Are at It Again], 5ab2fq, 1477928820.0, 30
+499, [Bernie Sanders "I want to thank [supporters." Jun 27, 2015, 2:40; "We are talking about the real issues that impact the American people."]], 59vezs, 1477701467.0, 30
+500, [Why Is the Foreign Policy Establishment Spoiling for More War? Look at Their Donors.], 59f40u, 1477476871.0, 28
+501, [Four More Journalists Face Charges For Covering #NoDAPL], 58bvz2, 1476930356.0, 31
+502, [Indigenous People Run Their Own Cellular Network], 55lq9p, 1475491976.0, 29
+503, [If the 2008 Podesta emails are any indication, the next four years of public policy are being hashed out right now, behind closed doors. And if liberals want to have an impact on that process, waiting until after the election will be too late.], 57gjql, 1476483217.0, 96
+504, ['This Is My Act of Love': Climate Activists Shut Down All US-Canada Tar Sands Pipelines], 56zijl, 1476239080.0, 78
+505, [For 100 years Planned Parenthood has provided health care to millions of women. We aren't going to defund @PPFA, we're going to expand it.], 57uhq6, 1476691970.0, 52
+506, [The ACLU delivers!], 59lr0q, 1477565342.0, 30
+507, [AT&T Preps "Media Colossus" with Time Warner at Customers' Expense], 58utx3, 1477194241.0, 30
+508, [Focus on Teachout! Close races! Don't waste time on incumbents that will safely win.], 56xcwb, 1476210327.0, 31
+509, [Shailene Woodley Releases Official Statement on Her Arrest "It took me, a white non-native woman being arrested ... to bring this cause to many peoples attention.], 58lal4, 1477050734.0, 52
+510, [As Climate Warms, US Approves 117 Million Ton Coal Mine Expansion], 56dfp3, 1475900393.0, 186
+511, [Givers of Courage: Thousands of wild American Bison appear from nowhere at Standing Rock], 59wtvq, 1477716136.0, 34
+512, [Sanders: Benefit Increase Too Small for Americans Relying on Social Security], 584h7e, 1476834292.0, 33
+513, [Why The Kurds Should Fascinate Western Liberals], 56cjpb, 1475890096.0, 29
+514, [The decline of the middle class is causing even more economic damage than we realized], 55n07b, 1475518430.0, 33
+515, [NYC Votes Releases Official November 8 General Election Guide  /r/PoliticalRevolutionNY], 59bfq6, 1477435976.0, 10
+516, [Join Climate Hawks THIS THURSDAY and help raise as much money as possible for 35 progressive climate candidates running for U.S. House! Pledge your support here and share the link!], 596ztz, 1477371083.0, 11
+517, [Extended video review of #NoDAPL resistance since April 1 (starts about 2:40)], 57yekw, 1476752161.0, 12
+518, [Action Alert To Stop Bakken Pipeline in Iowa Saturday - Meet at the Lohrville public library by 10am for civil disobedience training. Get there by noon if you just want to show support. Donate if you can't support in person.], 57l3dw, 1476545777.0, 9
+519, [Zephyr Teachout on Twitter | Last night's debate!], 57ijv8, 1476505886.0, 13
+520, [Never forget to follow the money, folks. A man named Mel Sembler is bankrolling the campaign against medical marijuana in FL. Sembler founded an adolescent drug rehab center that has been sued twice, once for false imprisonment and once for assault. These are the people fighting legalization.], 57b50d, 1476404684.0, 12
+521, [Burr, Ross discuss trade, terror, Social Security], 56q6ce, 1476100859.0, 11
+522, [Dimitri Cherny, Candidate for Congress, District 1 South Carolina  /r/PoliticalRevolutionSC], 55kwlu, 1475479864.0, 9
+523, [ICYMI May 2015 - Bernie Sanders really matters: He doesn't have to win to build a progressive movement], 57xx1i, 1476746990.0, 136
+524, [Five Years After the Brooklyn Bridge Arrests, the Occupy Wall Street Worth Remembering], 55jolt, 1475463887.0, 81
+525, [New study says many college students don't know where their next meal is coming from], 58rn8x, 1477140822.0, 30
+526, [SF: Bernie Sanders Yes on Prop 61 Rally], 57dwtk, 1476437107.0, 33
+527, [Join the fight for Prop 61 - Our Revolution], 571a4f, 1476259713.0, 31
+528, [Keith Mundy is running for Congress in Ohio: He is not the rich guy], 56yj1p, 1476228204.0, 30
+529, [In Boon for Big Pharma, TTIP Would Lock In High Drug Prices: Report], 55ttmk, 1475621190.0, 32
+530, [23 New Election links - 2016 Election hacking confirmed - NSA, DHS, and Letter from Reid, Pelosi, Ryan and McConnell; CICJ Book and Support links, CA, AZ and FL updates], 55rx9n, 1475585377.0, 33
+531, [The Billionaire Class is Terrified that Russ Feingold will Return to the Senate], 59w6kz, 1477709249.0, 135
+532, [Last day a person may register and be eligible to vote in the General Election/November Special Election /Runoff Election is Tuesday, Oct 11, 2016  /r/PoliticalRevolutionGA], 55ifk5, 1475447410.0, 56
+533, [Bernie Sanders on Twitter: "The health care system isn't designed to keep us healthy, it's designed to make huuuge profits."], 580v7o, 1476779027.0, 108
+534, [Sanders, Dem Senators Press Obama to Halt ND Pipeline], 57aied, 1476397563.0, 135
+535, [Political Revolution on Twitter | Today is #NationalComingOutDay. We must continue the fight for LGBTQ rights and acceptance.], 56ygwe, 1476227504.0, 32
+536, [Meet Thomas Dixon, Candidate for US Senate South Carolina  /r/PoliticalRevolutionSC], 55kwjj, 1475479836.0, 31
+537, [Bernie Sanders taps his donor network to raise nearly $2 million in two days for House, Senate contenders], 58k6zs, 1477035862.0, 683
+538, [My opponent Faso, along w/ his big donor Robert Mercer, is still Trump-putting party over principle & decency. #ny19], 56rmio, 1476129921.0, 142
+539, [Shailene Woodley: I Was Arrested Fighting Dakota Pipeline], 58j586, 1477023817.0, 112
+540, [Halloween Morale Maintenance; Give yourself a break.], 5a87dj, 1477889398.0, 14
+541, [Ammon Bundy and Pals Acquitted in Malheur Occupation Trial], 59s8xk, 1477652101.0, 10
+542, [Now that early voting has started, here is a reminder of what Pat McCrory has done (for) to North Carolina  /r/NorthCarolina], 58qdk0, 1477121695.0, 10
+543, [Call For Renewed Actions In Solidarity With The Prison Strike, October 15-22 - IT'S GOING DOWN], 57ayco, 1476402704.0, 11
+544, [Winning Rural Ohio], 56hdy1, 1475968810.0, 12
+545, [Early Voting begins for General Election on Wednesday, Oct 12, 2016  /r/PoliticalRevolutionAZ], 55imkg, 1475450250.0, 12
+546, [Last Day to Register to Vote by Mailing, In-Person &amp; Online is Tuesday, Oct 11, 2016  /r/PoliticalRevolutionUT], 55im2o, 1475450040.0, 14
+547, [Last Day to Register to Vote is Tuesday, Oct 11, 2016  /r/PoliticalRevolutionLA], 55ih7u, 1475448119.0, 32
+548, [The state of Washington has the option of passing the nation's first carbon tax (I-732) a policy that will reduce emissions and help the poor], 5a6tou, 1477873932.0, 84
+549, [Bernie Sanders on Twitter | Seniors and disabled veterans need more help than a few extra dollars in their monthly checks. We must expand Social Security.], 583q21, 1476825490.0, 180
+550, [Upcoming documentary series streaming for free about Bernie and our political revolution.. and the mainstream media that tried to silence it. (Correct the Record has already tried to stop this film from coming out)], 57lidy, 1476556176.0, 35
+551, [Nina Turner on Twitter | "Thanks for a great interview. More importantly, thanks for telling the stories of #DisappearingMiddleClass!"], 5607nj, 1475712250.0, 180
+552, [Make Sure You're Informed!! Our Revolution has a list of important Ballot Initiatives for All 50 States; Read up on your state *NOW* so when you get to the booth, you know what to vote for!! Ballot Items are how change is enacted or stopped; take charge of YOUR VOTE today!!], 56gtwq, 1475960130.0, 147
+553, [The fight for Universal Healthcare in Colorado needs your help! Calling for people to do phonebanking this weekend. Info inside.], 565yav, 1475796739.0, 149
+554, [Sanders Announces Bill to Close Tax Loopholes Used by Trump], 55wig5, 1475652644.0, 279
+555, [Actress Shailene Woodley arrested at pipeline protest [with 27 other protectors blocking construction]], 56u44w, 1476159309.0, 90
+556, [Bernie Sanders: "We Raised $2.4 Million to Take Back Congress. #ThanksPaul" <--- Join the Social Media Tweetstorm RIGHT NOW!], 595mep, 1477357026.0, 533
+557, [Tulsi Gabbard petition | Demand Congress act now to criminally investigate and break up Wells Fargo], 576zkm, 1476340639.0, 884
+558, [Bernie Sanders on Twitter | We won't survive if we continue to destroy nature. Until the tribes are consulted, all Dakota Access pipeline construction should be halted.], 57ajtj, 1476398050.0, 119
+559, [WI: Russ Feingold continues to lead after release of two new polls from Public Policy Polling and Monmouth University], 58f5sv, 1476968824.0, 35
+560, [Progressive leaders should get behind Ranged Voting], 57y16v, 1476748275.0, 36
+561, [Democracy Now! on Twitter | .@drjumpingeagle: "They don't want people to be aware of what's happening, so that we won't be afraid of what's going into our bodies" #DAPL], 583l2i, 1476823785.0, 13
+562, [RoseAnn DeMoro on Twitter | Join @SenSanders & me in Boulder as we rally for #SinglePayer, @ColoradoCareYES. Rally begins at 5pm MST/4pm PST.], 57yne6, 1476754615.0, 13
+563, [We need to call on lawmakers & the DNC to keep from corrupting the election process in 2020], 57ihvj, 1476505248.0, 13
+564, [Senate Dem PAC Pulling Out of Florida], 56dg2n, 1475900528.0, 15
+565, [Another Shockingly Low Turnout Election  /r/PoliticalRevolutionNY], 55ziax, 1475703645.0, 12
+566, [Patricia Faye-Brazel for State House AMA 10/5 @ 4-6pm EST  /r/PoliticalRevolutionAK], 55z4ky, 1475698056.0, 14
+567, ["Utopian Potential of the Internet": Astra Taylor on How to Take Back Power & Culture in Digital Age], 55rvfk, 1475584450.0, 13
+568, [.@ZephyrTeachout is endorsed by @POTUS @JohnFasoNy is endorsed by Wall Street Which side are YOU on? #NY19], 596ta3, 1477369153.0, 37
+569, [Arundhati Roy: "If there is something to be done, then one thing is for sure: those who created the problem will not be the ones who come up with a solution."], 57it0t, 1476508890.0, 34
+570, [Now, Every Storm Is a Climate Change Storm], 56h2k6, 1475964217.0, 35
+571, [How & Why Other Countries Have Ended the 2-Party System], 58f5mv, 1476968742.0, 190
+572, [Help Climate Hawks Take The House - 35 Climate Champs Who Could Flip Congress #MoneyStorm], 59og1x, 1477609434.0, 67
+573, [A Win For Zephyr Teachout Is a Win For The Environment! We All Need Her Now! Call or Donate Please!], 55sj38, 1475598320.0, 64
+574, ["Exciting news from a little Birdie": Bernie Sanders endorses Oregon's Measure 97], 58ck83, 1476937326.0, 97
+575, [If you live in Colorado, please consider registering to vote and voting 'Yes' on Amendment 69 (the Creation And Funding of Universal Healthcare 'ColoradoCare')], 56y6gx, 1476224003.0, 96
+576, [A Republican Super PAC has been following Zephyr Teachout around with cameras wherever she goes. Here's what they found.], 5a1orl, 1477792787.0, 162
+577, [Climate Activist Unrepentant in Face of #ShutItDown Charges], 58tb2i, 1477174591.0, 38
+578, [Five More States On Track To Legalize Recreational Marijuana], 56s5b0, 1476137642.0, 37
+579, [Larry Cohen on the TPP and Our Revolution], 56d1vj, 1475895972.0, 40
+580, [Mook Repeatedly Tries To Shift From Qs On Morocco $12M Pay To Play Emails], 58zco8, 1477269266.0, 14
+581, [Presidential Race Mega Thread October 21, 2016], 58n2ss, 1477083743.0, 15
+582, [Sanders to speak at NCC about new book on presidential run], 57ql5v, 1476635112.0, 13
+583, [Why the United States Needs a New Progressive Movement], 57jh0s, 1476517512.0, 14
+584, [Progressive Candidate, Patricia Faye-Brazel signs were vandalized!], 57516j, 1476319111.0, 12
+585, [U.S. Military Operations Are Biggest Motivation for Homegrown Terrorists, FBI Study Finds], 570kwi, 1476250911.0, 16
+586, [Against Activism], 55ruzn, 1475584244.0, 15
+587, [Dr Helen Caldicott Talks Fukushima, Abolishing the Nuclear Threat and G...], 55qm3j, 1475565930.0, 14
+588, [Jessica Arp on Twitter: .@PRyan says if Senate is flipped that @BernieSanders will become chairman of the budget committee. #news3], 57i1vs, 1476500207.0, 66
+589, [When It Comes To Spending, The ColoradoCare Fight Has Been Lopsided], 58ar38, 1476918431.0, 40
+590, [[Maine] Maine will be voting on the change from FPTP to the more proportional STV voting system. Spread the word!], 585dm0, 1476843472.0, 40
+591, [Gov. Kasich cuts Wells Fargo, accused of fraud, out of new Ohio business], 57lvpq, 1476564045.0, 40
+592, [NC Deborah Ross is Running for US Senate!  /r/PoliticalRevolutionNC], 55z4qr, 1475698123.0, 40
+593, [The Young Turks interviews founders of The Climate Mobilization about building mass political movement for WWII-scale national effort against the climate emergency, for net zero emissions and 100% clean energy], 59rrc6, 1477645929.0, 273
+594, [Sanders Champions Colorado Single Payer Effort as Model for Nation], 584ntk, 1476836195.0, 40
+595, [Hello! This is Patricia Faye-Brazel, AMA!], 561gk7, 1475726326.0, 37
+596, [Our Revolution on Twitter | Voting shouldn't be about "the lesser of two evils." Let's make Maine the 1st state to adopt ranked-choice voting.], 59vmw5, 1477703748.0, 99
+597, [Bernie Sanders on Twitter | Its time for Congress to stand up to the pharmaceutical industry. We need senators like @DeborahRossNC who will fight for working families.], 58azag, 1476920940.0, 164
+598, [Presidential Race Mega Thread October 19, 2016], 58a4vb, 1476910937.0, 16
+599, [The latest campaign ad for Arizona's Prop 205 - Save Our Vets], 57gsd7, 1476486190.0, 14
+600, [Robert Rubin, Genius of Capital Markets, Missed Both the Stock Bubble and the Housing Bubble], 56gyf5, 1475962275.0, 15
+601, [High Times Cannabis Cup wants you to roll to the poll this weekend in San Bernardino | California's Proposition 64], 56a44j, 1475851624.0, 14
+602, [How the education gap is tearing politics apart | David Runciman | Politics], 560fnn, 1475714763.0, 16
+603, [Encampment on Dakota Access Pipeline Site Is Allowed to Remain (from @Truthdig)], 55r3eq, 1475572728.0, 14
+604, [In an Upstate Congressional Race, a Classic Boxers Match Thats Virtually Tied], 55ov68, 1475545248.0, 14
+605, [Direct link to the auto-updating tracker of the Sanders $1M Drive on behalf of Jayapal, Teachout, and others. Can the goal be reached before the FEC reporting deadline tomorrow?], 587w4g, 1476871700.0, 43
+606, [Bernie Sanders to headline Pramila Jayapal rally Saturday in Seattle], 57c8e9, 1476416712.0, 42
+607, [Robert Reich on FB: It's not just the presidential race we need to be thinking about. Democrats have a solid chance of taking back the Senate -- which is critically important.], 59hb4b, 1477514797.0, 140
+608, [I can't win without you.], 57kuap, 1476539978.0, 71
+609, ["You know, I think that change happens typically not because somebody on high decides its going to happen, but rather because at a grassroots level enough people come together that they force the system to change." - President Obama], 57g9o6, 1476479497.0, 44
+610, [WikiLeaks Exposes a Corporate Media as Out-Of-Touch As Politicians], 58267g, 1476796912.0, 72
+611, [BE A CHAMPION OF CHANGE: We can Flip The Senate, and we can get some seriously game-chaning ballot initiatives passed (ColoradoCare) if we keep pushing from now until Nov. 8th!! Use grassrootspb.com to phonebank for progressive candidates and ballot initiatives!!], 5a0sy4, 1477782037.0, 40
+612, [California Proposition Voter Guide], 58ia24, 1477014758.0, 45
+613, [Arizona Marijuana Initiative releases new campaign ad in response to recent "No on Prop 205" ad], 56dxe5, 1475906436.0, 70
+614, [Human Rights Campaign withdraws Kirk endorsement], 5a3o7p, 1477817637.0, 16
+615, [Congress is seeking answers to a reenlistment bonus scandal], 59h0i7, 1477510325.0, 16
+616, [On Friday, videogame voice actors went on Strike demanding better pay and working conditions. Companies affected include Electronic Arts, Activision, Take-Two Interactive, Warner Brothers and Disney. Show your support and help your fellow workers earn what they deserve!], 58y2k4, 1477248581.0, 17
+617, [Nostalgia :-( and hope :-)], 58txk4, 1477183345.0, 16
+618, [How Can We Help NoDAPL? Winter is coming ! Help Now! Here is a List of What We Can Do to Help! Hint: one of them is easy and takes 30 seconds!], 582gf3, 1476802128.0, 18
+619, [Amy Goodman to turn herself in to Morton CountyMandan Combined Law Enforcement], 57atsa, 1476401247.0, 16
+620, [Progressive Candidate David Sparks (Ohio) Talks About His Stance On Marijuana], 562mei, 1475740753.0, 17
+621, [On Strip Searches and Press Freedom in North Dakota], 58tb5x, 1477174640.0, 75
+622, [Iceland, Where Bad Bankers Go to Jail, Finds Nine Guilty in Historic Case], 56oe03, 1476077262.0, 77
+623, [Yes on Question 5: Ranked Choice Voting  /r/PoliticalRevolutionME], 56dl2w, 1475902188.0, 75
+624, [Bernie Sanders to campaign for Jane Kim in SF], 57j7az, 1476513830.0, 109
+625, [After Two Wars, Standing Rock is the First Time I Served the American People], 5abfy9, 1477937330.0, 44
+626, [Kshama Sawant Proposes Tax Increase on Investment Firms to Help Fund Social Services], 59irix, 1477530966.0, 46
+627, [Dont Be Fooled: The TPP Is Not About National Security], 55utgv, 1475632845.0, 46
+628, [Last day to register to vote for the general election. [Monday, October 10, 2016, is a legal holiday (Columbus Day).] is therefore Tuesday, Oct 11, 2016  /r/PoliticalRevolutionKY], 55iguw, 1475447964.0, 46
+629, ['I Was Doing My Job': Climate Reporter Facing 45 Years Speaks Out], 587qp6, 1476869797.0, 182
+630, [@BernieSanders: Nice majority you got there @SpeakerRyan. Be a shame if someone flipped it. #ThanksPaul], 5960m3, 1477360972.0, 608
+631, [Zephyr Teachout: Saugerties, NY, October 29, 2016], 5acity, 1477952921.0, 18
+632, [Underbanked Report Shows Need For Postal Banking], 5ab2cr, 1477928772.0, 17
+633, [If You Care About Helping Deia's charges dropped for Protesting DAPL. There is a Petition! Please Sign!], 581ety, 1476785868.0, 16
+634, [Latest call from Red Warrior Camp: "We now must ask all Land Defenders, Water Protectors, and Strong Hearts to hear our War Cry and join us here in Standing Rock immediately." [video & words]], 57mgj0, 1476573135.0, 19
+635, [Meet Denise Juneau, who hopes to be the first Native American woman in Congress  /r/PoliticalRevolutionMT], 57j7y0, 1476514061.0, 17
+636, [Closing Special Interest Loopholes], 56x8ds, 1476207450.0, 17
+637, [Ruling Allows Construction to Resume on Small Part of DAPL], 56s6ot, 1476138156.0, 17
+638, [Nine states shorten deadline for voter registration], 56jdtg, 1475994599.0, 18
+639, [National Prison Strike Enters Third Week], 55lrvc, 1475492611.0, 50
+640, ["Russ Feingold holds a 12-point lead over Republican Ron Johnson."], 587jjo, 1476867306.0, 82
+641, [ColoradoCare (Amendment 69) gets a new TV ad: 'Do The Math'], 57ns8c, 1476590179.0, 47
+642, [Political Revolution on Twitter | We cannot allow corruption like this to continue. Corporations must be required to disclose their political contributions. #GetMoneyOut], 57gb7u, 1476480080.0, 84
+643, [Virginia Newspaper Endorses Carolina Governor Because HB 2 Is Sending Them Jobs  /r/PoliticalRevolutionNC], 5a65ae, 1477865190.0, 18
+644, [Progressive Candidate's Inspirational Fight Against Poverty [Sabrina Shrader, a Democratic candidate for the West Virginia house of delegates]], 5a221c, 1477797071.0, 18
+645, [Daily Ballot Awareness and Activism Post], 58yknh, 1477258603.0, 20
+646, [Zephyrs Teachout's says that it is great to use social media using quotes from her site!], 58pe3h, 1477110077.0, 16
+647, [Report from Standing Rock: 100+ Militarized Police Deployed Against Native American Water Protectors], 584wm5, 1476838699.0, 18
+648, [CSPAN on Twitter | Ohio Senate Debate between @robportman & @Ted_Strickland  10pm ET on C-SPAN], 57y9hu, 1476750709.0, 18
+649, [Pramila Jayapal on Twitter | @BernieSanders is coming to Seattle to headline a Got Out The Vote rally for @PramilaJayapal! Ticket Info (in tweet)], 57c2dm, 1476414851.0, 20
+650, [Climate Change Has Doubled Western U.S. Forest Fires, Says Study - The Earth Institute], 573tb4, 1476304470.0, 20
+651, [One year later: The long-term effects of the Flint water crisis], 56s6db, 1476138048.0, 17
+652, [GEORGIA! Last day a person may register and be eligible to vote in the General Election/November Special Election /Runoff Election is Tuesday, Oct 11, 2016  /r/PoliticalRevolutionGA], 56mqwh, 1476057105.0, 16
+653, [ARKANSAS! Deadline to register to vote for November 8 Election is Monday, Oct 10, 2016  /r/PoliticalRevolutionAR], 56mbwl, 1476051190.0, 16
+654, [Americans Are Divided On Climate Change], 55xie1, 1475665918.0, 18
+655, [2016 Regional Educational Attendance Area (REAA) October 4th, 2016  /r/PoliticalRevolutionAK], 55i85o, 1475443970.0, 17
+656, [Ready to rumble? Proponents of Prop. 61 drug pricing measure challenge pharmaceutical companies to a debate], 55keti, 1475473123.0, 120
+657, [Human Rights Groups to Obama: Time to Follow Through on Drone Promises | "...President Barack Obama [must] follow through on the promise he made via executive order in July to transparently probe and address civilian deaths from drone strikes."], 56bw5c, 1475882614.0, 52
+658, [U.S. Court of Appeals Rules against Standing Rock Tribe in Dakota Access Pipeline Case], 56s71q, 1476138278.0, 250
+659, [The Revolution Televised (2016) upcoming documentary on our revolution and corporate media that tried to hide it. Narrated by Viggo Mortsensen, Also has Bernie Sanders, Jill Stein, Cornell West, Black Lives Matter, ect], 57lkg6, 1476557600.0, 49
+660, [Jerry Brown vetoes ranked choice voting in California.], 57dw0o, 1476436803.0, 83
+661, [Beyond Clinton & Sanders: The Task of the Democratic Party], 5a8gmb, 1477892270.0, 19
+662, [Detroit Kids Driven To Crime By Corrupt Government - [11:06]], 5a7v4l, 1477885583.0, 17
+663, [Behind the retreat of the Koch brothers' operation], 59o0d9, 1477604403.0, 19
+664, [Phone, Donate or Use Social Media For Zephyr Teachout! She will Lower Property Taxes in NY19. Protect The Water Supply as well as Social Security! She is The Job Creator. NY 19 - Decent Rural Folks that Need Teachout Now!], 581vza, 1476792401.0, 18
+665, [Progressive Coders Network has an onboarding vid call open to anyone interested in tech and the progressive movement! Come join us at 8:30pm!!!], 580j4u, 1476774854.0, 20
+666, [Michigan Attorney General Spends $2.3m On Flint Water Probe], 57gj8e, 1476483035.0, 20
+667, [Presidential Race Mega Thread October 14, 2016], 57g86x, 1476478934.0, 17
+668, [Fifteen Years of Lessons Not Learned], 56juca, 1476001254.0, 17
+669, [Calling All Wells Fargo Whistleblowers! (naked capitalism is following up with their extensive 2013 whistleblower series on Bank of America mortgage fraud.)], 56bfyi, 1475877044.0, 18
+670, [Guess Where Most Of Our Money Goes], 56a3hn, 1475851238.0, 17
+671, [Disappearing Middle Class: Mayor John Fetterman], 55vhaa, 1475640160.0, 18
+672, [First and Foremost, the Wells Fargo Scandal is about Workers], 55uhip, 1475629141.0, 21
+673, [Thoughts on some elements of my platform...], 55r4ux, 1475573279.0, 19
+674, [Bernie Sanders on Twitter | Paul Ryan said if Republicans lose the Senate, a guy named Bernie Sanders becomes Budget Committee Chair. Sounds like a plan! #ThanksPaul], 595nr9, 1477357386.0, 437
+675, [TYT Politics Passes 100,000 Subscribers!!! [Thank you to Jordan Chariton for his integral reporting this past year.]], 5a3peg, 1477818097.0, 20
+676, [Help NY 19 Decide For the Best... Teachout! She is up 1 point and 15 % undecided! Ten Top Reasons to Fight For Teachout Again!], 59m7yv, 1477572113.0, 20
+677, [Why Overturning Citizens United Isn't Enough], 58p2e5, 1477106410.0, 22
+678, [Hard-Line Prosecutors Face Rejection From Voters in Elections Across the U.S.], 58iqvq, 1477019576.0, 19
+679, [Do you want to help transform America? Volunteer with The Political Revolution today!], 58h0qw, 1477001302.0, 21
+680, [How Pharmaceutical Companies Are Keeping Americans From Doing Something The Government Says They Can Do], 58bk4n, 1476926994.0, 20
+681, [Political Revolution on Twitter | Join us at http://political_revolution.reddit.com tomorrow at 2 PM ET for an AMA about Oregon's Measure 97!], 57yf9q, 1476752367.0, 20
+682, [Obama, Holder to lead post-Trump redistricting campaign], 57xtet, 1476745863.0, 22
+683, [Brave Environmental Lawyer Explains Standing Rock Legal Issues], 57tsvp, 1476683117.0, 19
+684, [As Battle for Senate Tightens, Progressives Hone In on Down-Ballot Races], 56ocfb, 1476076717.0, 20
+685, [Presidential Race Mega Thread October 08, 2016], 56gusk, 1475960563.0, 21
+686, [Terry Gipson is a Progressive who is running for State Senate in NY, and he could sure use your help!], 56face, 1475926527.0, 20
+687, [Last Day to Register to Vote in the General Election is Friday, Oct 14, 2016  /r/PoliticalRevolutionID], 55iruw, 1475452303.0, 19
+688, [Bernie Sanders on Twitter | If we beat the drug industry in California, we are going to put them on the defensive and lower the cost of medication across this country.], 57niu2, 1476586828.0, 129
+689, [Just wanted to remind folks about the ongoing #PrisonStrike to change the 13th amendment], 567tpe, 1475817714.0, 53
+690, [Vote to have Clinton & Trump asked about WWII-scale climate mobilization on October 9th debate], 55wstl, 1475656474.0, 53
+691, [Vote YES on prop 206 ARIZONA Ballot to Raise Minimum Wage to Twelve dollars! People cannot live on 8.06 an hour.], 57qg7q, 1476631646.0, 92
+692, [Voter Registration Deadline (registration forms postmarked by this date and received within 3 days are accepted for regular registration) is Tuesday, Oct 11, 2016  /r/PoliticalRevolutionMT], 55ii7f, 1475448532.0, 91
+693, [Bernie Sanders on Twitter | When the Founding Fathers wrote the Constitution, Im pretty sure they werent thinking Lets make sure billionaires can buy elections.], 56mqs1, 1476057062.0, 367
+694, [Mark Ruffalo on Twitter | Okay everyone. Now let's GOTV on our down ticket folks who will make the biggest difference. Smash! Go @ZephyrTeachout], 56mv60, 1476058594.0, 180
+695, [Zephyr Teachout Is Battling Big Money and Cynicism in One of This Years Tightest Congressional Races], 59atsx, 1477428560.0, 56
+696, [TPP Partner Jails Human Rights Blogger], 5ab2ap, 1477928732.0, 20
+697, [Presidential Race Mega Thread October 28, 2016], 59ua1t, 1477688535.0, 22
+698, [Corporate Authoritarianism and the New American Anti-Democracy], 5900i5, 1477277044.0, 21
+699, [Natives Celebrating Amy Goodman Met By Police State], 58f4qh, 1476968351.0, 20
+700, [Political Revolution and Sister Subreddits], 5721ye, 1476270214.0, 21
+701, [13th Amendment: how to make money off of throwing citizens in jail.], 56k7zw, 1476007146.0, 19
+702, [Zephyr Teachout is doing an AMA in /r/politics!], 56soh7, 1476143979.0, 181
+703, [5 activists successfully shut down oil pipelines across U.S.], 574qg9, 1476315859.0, 58
+704, [Zephyr Teachout on Twitter | Our campaign volunteers have knocked on 20,182 doors. We've got 50,000 more to reach in the next 3 1/2 weeks! Join: http://www.zephyrteachoutforcongress.com], 57g8tu, 1476479175.0, 187
+705, [Rep. Tulsi Gabbard, Lawmakers Call for Answers on Yahoo Email Surveillance], 57mo8c, 1476576078.0, 54
+706, [Zephyr Teachout on Twitter | Good morning! Four weeks from today is the election. What you do to volunteer could decide it--it's that close.], 56xvqt, 1476219936.0, 55
+707, [A million Ohio voters didnt get absentee ballot mailing], 5a6kcm, 1477870760.0, 229
+708, [North Carolina slashed their early voting hours and now this is what the lines look like  /r/PoliticalRevolutionNC], 58stgs, 1477166492.0, 96
+709, [Presidential Race Mega Thread October 31, 2016], 5ac35p, 1477947764.0, 25
+710, [Watch Police Attack Unarmed Standing Rock #NoDAPL Water Protectors! - [8:58]], 59xpjx, 1477726469.0, 22
+711, [(Oregon) state treasurer candidate Chris Henry calls for establishment of public Oregon state bank], 59lxa2, 1477567705.0, 22
+712, [Morgan Carroll posts big fundraising haul with help from Bernie Sanders], 59liwc, 1477562347.0, 23
+713, [Billions of Gallons of Animal Waste From Factory Farms Poses Health Risks in Wake of Hurricane Matthew], 57ukpq, 1476693089.0, 22
+714, [The House May Be in Play | RealClearPolitics], 56klnt, 1476013289.0, 22
+715, [The Dakota Access Pipeline: Another Epic Clash Between Americas Military-Corporate Powers and the Great Sioux Nation], 55up5e, 1475631475.0, 23
+716, [Last Day to Register to Vote in Person or by Mail for the General Election. (Mailed Registration must be postmarked by Oct. 14th and received by OCT. 19th) is Friday, Oct 14, 2016  /r/PoliticalRevolutionNY], 55iscp, 1475452488.0, 21
+717, [Sheriff Joe Arpaio Is Trailing Badly In His Re-Election Bid], 58k6yd, 1477035851.0, 100
+718, [Illinois suspends business with Wells Fargo], 55olqc, 1475542322.0, 58
+719, [Bernie Sanders Is Trying to Be a Kingmaker in Key Congressional Races], 59le6x, 1477560639.0, 99
+720, [Wall Street Watching as U.S. High Court Tackles Insider Trading], 55ta1a, 1475613686.0, 99
+721, [From Standing Rock: 'They Have Us Surrounded!' (w/Guest: Kandi Mossett)], 59q22o, 1477626257.0, 59
+722, [Zephyr Teachout - "Stood Up For"], 58bmy2, 1476927790.0, 24
+723, [I'm a teacher running for governing board in Arizona. We need more educators in elected office who understand the connection between the classroom and the board room.], 56oa08, 1476075892.0, 24
+724, [Recordings show Wisconsin DMV workers giving wrong info on voter ID cards], 56jeb0, 1475994782.0, 24
+725, [BREAKING: Lee County threatens to have Mississippi Stand encampment removed Thursday (October 6)  /r/NoDAPL], 55xjhr, 1475666347.0, 24
+726, [KING: Here is how we will boycott injustice and police brutality], 55jpq2, 1475464298.0, 102
+727, [Our Revolution on Twitter | Bernie's rally in Seattle w/ @PramilaJayapal is beginning now! Follow along at #BernieandPramila], 57p61n, 1476608857.0, 60
+728, [Our Revolution has Given It's Ballot Initiative Page a Massive Overhaul, Now Includes Vote Recommendations for Major Initiatives in Every State], 55p1wz, 1475547360.0, 61
+729, [Lets Give Our Revolution Candidate, Nanette Barragan, a National Podium], 55rnfx, 1475580832.0, 62
+730, [NH poll: Dem challenger pulls ahead of Ayotte], 58kegk, 1477038466.0, 151
+731, [Climate Change Will Spark Global Economic Crisis - [5:25]], 5a6kbv, 1477870753.0, 23
+732, [In Standing Rock, The Cops Are Out of Control | Civil Liberties Defense Center], 58k3ge, 1477034621.0, 23
+733, [As Flint Suffers, Big Pharma Slammed for Lead Poison Drug Price Hike of 2,700%], 57hdjp, 1476492863.0, 26
+734, [Sanders-loving Vermont lawmaker snags GOP nomination], 56awd3, 1475868771.0, 25
+735, [When Media Oversimplifies, Dig Deeper], 560f09, 1475714555.0, 24
+736, [Video shows cop shattering windshield with handcuffed man's face], 55xj7s, 1475666239.0, 24
+737, [Tulsi Gabbard for Congress | SIGN THIS PETITION! Call on President Obama to end the counterproductive regime change war in Syria.], 57rcmg, 1476652347.0, 152
+738, [Bernie Sanders endorses his brother in race to replace David Cameron], 56zcos, 1476237307.0, 418
+739, ["The Police Killings No One Is Talking About": Native Americans Most Likely to be Killed by Cops], 58lbnm, 1477051199.0, 110
+740, [Native Woman Falsely Arrested And Tossed Naked in Jail], 57xro8, 1476745350.0, 62
+741, [Progressive-Berniecrats-Primary Winners  160 Candidates running in 2016 State &amp; Federal Races that YOU can support on 1 ActBlue page  They need your support today !!!], 56hbiy, 1475967890.0, 63
+742, [Thunderclap: The Revolution supports Zephyr | Please join our Thunderclap for Zephyr happening THIS FRIDAY!!! Zephyr's race in NY-19 is an extremely important and CLOSE race! She needs all the help she can get!!], 59hfy4, 1477516524.0, 106
+743, [Congresswoman GOES OFF On The TPP In A Powerful Message], 59m4pu, 1477570705.0, 23
+744, [Presidential Race Mega Thread October 09, 2016], 56m2vm, 1476046925.0, 26
+745, [Last day to REGISTER to vote before the November 8 General Election is Tuesday, Oct 11, 2016  /r/PoliticalRevolutionPA], 55ikki, 1475449465.0, 24
+746, [Fairbanks Mayoral Election - Current Mayor: John Eberhart - Population(31,535) October 4th, 2016  /r/PoliticalRevolutionAK], 55i8j7, 1475444145.0, 23
+747, [Last day to register to vote is Tuesday, Oct 11, 2016  /r/PoliticalRevolutionIL], 55ig3h, 1475447647.0, 64
+748, [Sen. Bernie Sanders to stump for Amendment 69 (ColoradoCare) in Boulder, Colorado on Monday (10/17)!], 57k0r7, 1476525618.0, 158
+749, [ACTION NEEDED - Prosecutors in Christie trial will be one of his appointees, SIGN THIS PETITION urging the Judge to appoint an impartial Special Prosecutor.], 59orut, 1477612931.0, 68
+750, [Big Pharma is paying $87 million to fight California Prop 61! Vote Yes on Prop 61 to regulate how much California pays for vital drugs!], 58243l, 1476795929.0, 24
+751, [OREGON: Last day register to vote is Tuesday, Oct 18, 2016  /r/PoliticalRevolutionOR], 57rqs6, 1476658463.0, 25
+752, [Watch This US Official Struggle to Justify Double Standard for Saudi Bombings], 57a5gr, 1476392888.0, 25
+753, [RSN Interview: Larry Cohen on the TPP and Our Revolution], 56dkcc, 1475901935.0, 26
+754, [How Comcast Muscled Its Way Out of Negative Political Ads | As if you needed another reason to hate Comcast], 58abd0, 1476913253.0, 111
+755, [Bernie Sanders: Reject the AT&T-Time Warner Merger], 59jn69, 1477540069.0, 270
+756, [Teachout Protects the Drinking Water of NY district !9, faso took money fron general electrtic and then let them off the hook for polluting The Hudson River Valley], 58cax1, 1476934656.0, 26
+757, [Chase Iron Eyes on Twitter: "My opponent doesn't actually believe there's a discrimination problem in ND, nor does he believe the climate is changing? Vote Iron Eyes"], 58890z, 1476876546.0, 27
+758, [Harvard Square Strike Action - Eleven Arrested in Dining Services Labor Union Protest], 57orfm, 1476603048.0, 28
+759, [Filmmaker Faces 45 Years in Prison for Reporting on Dakota Access Protests], 57o36m, 1476594104.0, 25
+760, [Massachusetts Teachers Unions Battle the Dark Money Behind a Pro-Charter Ballot Measure], 56w7df, 1476186054.0, 26
+761, [The Catholic Church Uses Tax-Exempt Funds To Stop Marijuana Legalization], 5acetb, 1477951678.0, 124
+762, [National Nurses United Supports Colorado Single Payer Amendment 69], 56xyp0, 1476221105.0, 117
+763, [Pharma Threatens Vets in CA Prop 61 No Ads | "In other words, No Prop 61 is saying that the measure will hurt veterans because the pharmaceutical industry  in all its greed  will react by raising prices on veterans and refusing to honor some of the VAs discounts."], 55znue, 1475705687.0, 227
+764, [Jordan GOES OFF On Media's FALSE Standing Rock Coverage - [46:40]], 5a1aey, 1477788051.0, 73
+765, [Zephyr Teachouts Quest to Become the Lefts Newest Crusading Congresswoman], 594ei3, 1477343319.0, 70
+766, [Special Investigation: Native Americans Are Being Killed by Police at a Higher Rate Than Any Other Group], 584osx, 1476836492.0, 28
+767, [Tech privacy ally Feingold leads in Wisconsin Senate race], 59tziv, 1477684409.0, 73
+768, [Justice Department to Track Use of Force by Police Across U.S.], 57ga1m, 1476479642.0, 120
+769, [Just donated $30 to Paul Clements, endorsed by Bernie. Let's swing this county by county.], 58x8fw, 1477229024.0, 74
+770, [Voting from a Native American reservation is much harder than it should be - Vox], 59wdug, 1477711348.0, 30
+771, [Showdown at hand between law enforcement, pipeline protesters], 59ngdn, 1477596475.0, 30
+772, [Two weeks to go. Stop throwing socks at the television. Put them back on and sign up to volunteer! http://www.zephyrteachout.com], 59c8wq, 1477444520.0, 29
+773, [General Election November 8th, 2016: Voter Registration Deadline Sunday, Oct 9, 2016  /r/PoliticalRevolutionRI], 55ibb0, 1475445485.0, 28
+774, [Please share this 2 minute "Mini Movie" of an Upstate NY Republican family, Whose Land WAS Taken By Pipeline company is NOW VOTING FOR Zephyr Teachout], 56q8nv, 1476101744.0, 127
+775, [Breaking: ND Prosecutor Seeks "Riot" Charges Against Amy Goodman For Reporting On Pipeline Protest], 57ogmt, 1476599046.0, 74
+776, [Indigenous Peoples Day Sweeps Nation as Battles Intensify for Native American Rights], 56w72g, 1476185928.0, 76
+777, [How the debates went from an innovative way to inform voters to a tool to suppress political competition.], 58gplk, 1476997454.0, 28
+778, [Secretive funds allow Michigan lawmakers to accept corporate cash], 574038, 1476307101.0, 29
+779, [Hightower: It's "Our Revolution," and it's on the move], 56dkb5, 1475901923.0, 32
+780, [Hes back...Bernie Sanders to rally in L.A., S.F. for drug measure], 571vj1, 1476267714.0, 186
+781, [We're the Yes on 97 team working for corporate accountability in Oregon  and big corporations like Comcast are trying to stop us. Ask us anything!], 5859et, 1476842300.0, 76
+782, [Bernie Sanders on Twitter | Our job is to have the highest voter turnout in the world, not one of the lowest.], 57x8y2, 1476738887.0, 126
+783, [Poll Finds Young Americans More Open to Socialist Ideas], 59xiz2, 1477724184.0, 129
+784, [Sheldon Adelson, who doesn't even live in MA, has donated $1 million to oppose legalization there. TODAY is the LAST day for MA residents to register to vote. It can be done online and it takes mere seconds. Get registered, fight back and vote yes! 2016 WILL be the political year of weed if we win.], 58b00y, 1476921152.0, 185
+785, [Bernie Sanders is coming to the Cap Center on Nov. 21 - The Concord Insider], 59chh1, 1477446993.0, 33
+786, [Today is very important for the noDAPL movement, please call the White House], 595dq9, 1477354603.0, 28
+787, [Whitehouse.gov petition to crack down on the black box voting machines.], 58yypc, 1477264370.0, 31
+788, [How to Fix America's Corrupt Political System], 57ydng, 1476751892.0, 29
+789, [Last day to register to vote is Friday, Oct 14, 2016  /r/PoliticalRevolutionOK], 55iwks, 1475454047.0, 28
+790, [Most people think the rich should pay more taxes], 55nkpk, 1475529176.0, 82
+791, [It's Time to Stop America's Wars and Take Back Democracy], 58mxl2, 1477081690.0, 77
+792, [As Progressives, We Must Make Sure Brady Walkinshaw is defeated in Washington CD7], 59ziif, 1477756499.0, 31
+793, [In Day of Action, Activists Demand Obama Cancel Oil Leases in Gulf], 59o7x4, 1477606904.0, 31
+794, [Bernie Sanders Calls On Citizens to Reject ATT Merger.], 59jjvk, 1477539092.0, 28
+795, ["Jockeying heats up for DNC chairmanship", Let's get behind Keith Ellison], 58p30h, 1477106581.0, 30
+796, [Shailene Woodley Opens Up About Recent Arrest in Powerful Essay: 'I'm Not Scared, Im Not Afraid'], 58l87s, 1477049741.0, 32
+797, [Actress Shailene Woodley Reveals She Was Strip-Searched After Her Arrest Protesting Dakota Pipeline], 58jt8k, 1477031261.0, 33
+798, [Ohio Revolution on Twitter | #WayneNationalForest is going to be auctioned off - likely will be fracked. #nofracking #climatechange #waterislife], 58akkf, 1476916389.0, 32
+799, [Climate Direct Action: Activists Halt Flow of All Canada-to-U.S. Tar Sands Oil by Shutting Off Valves of Five Pipelines], 577161, 1476341191.0, 32
+800, [Bernie Sanders: A yes vote on Proposition 61 will send a strong message to Big Pharma and Washington], 58ngdl, 1477088462.0, 81
+801, [Teachout claims lead five-point lead over Faso in new poll], 571zyg, 1476269450.0, 137
+802, [WANT TO HELP? Join us at the Text for Our Revolution team], 5a13e5, 1477785708.0, 35
+803, [Vote-By-Mail Mailing Period begins Monday, Oct 10, 2016  /r/PoliticalRevolutionCA], 55icj5, 1475446043.0, 30
+804, [Bernie Progressive Running Against Corporate Smear Machine In Ohio], 56w87d, 1476186416.0, 144
+805, [Our Revolution endorsed candidate Peter Jacob is debating his opponent Congressman Leonard Lance in NJ-D7!], 59ns28, 1477601403.0, 31
+806, [CFPB Rule Could Protect Low-Income Households from Predatory Short-Term Lending], 56wfcg, 1476189563.0, 34
+807, [Home of Our Revolution endorsed NJ-7 candidate, and Asian-Indian American, Peter Jacob, Vandalized with swastikas for second time in a week.], 56vwl6, 1476181806.0, 35
+808, [Big Business Declares TPP the Winner in Vice Presidential Debate], 560m1w, 1475716795.0, 33
+809, [Marijuana's Moment | As many as five states could approve its recreational use this November, potentially signaling a point of no return for legalized pot.], 56xusn, 1476219583.0, 84
+810, [Local Berniecrat Will Donate 50K Of Her Salary If Elected [Michelle Gale, running for county auditor in DuPage County, Illinois]], 5a1xz7, 1477795759.0, 32
+811, [White House urges ban on non-compete agreements for many workers], 59jpq4, 1477540822.0, 34
+812, [I am a 25 year old Eureka, CA City Council candidate Austin Allison. AMA!!], 57nhj1, 1476586364.0, 34
+813, [Today ColoradoCare, Pramila Jayapal (WA), Zephyr Teachout (NY), Paul Clements (MI), and Gary Kroeger (IA) are all on the dialer! Take some time to make ten calls today to make sure they win their elections come November 8th, and to make sure ColoradoCare is passed!!], 57mcgf, 1476571555.0, 35
+814, [Our Revolution Statement on Board Member Shailene Woodley's Arrest], 57gvka, 1476487219.0, 32
+815, [Last day to register to vote or to update your existing registration, without having to appear in-person at the Election Department offices, or without having to or register on the Secretary of State's Internet site October 8th, 2016  /r/politicalrevolutionNV], 55i9s9, 1475444755.0, 36
+816, [Deadline for write-in candidates to file a Declaration of Intent for the general election. October 4th, 2016  /r/PoliticalRevolutionMT], 55i8v6, 1475444309.0, 35
+817, [The Economy Has Been Rigged To Make The Rich Richer! (W/Alex Lawon &amp; Guest: Dean Baker)], 58l17o, 1477046952.0, 38
+818, [Some awesome shareable graphics made by one of our designers!! Use these on Facebook and Twitter to get the word out! Bernie supporters are still carrying on by supporting down-ballot progressives and ballot items; THE STRUGGLE CONTINUES!], 56ysxs, 1476231259.0, 37
+819, [Bernie Sanders to campaign in Boulder for Amendment 69, the statewide universal healthcare proposal], 57pess, 1476612482.0, 215
+820, [Feingold lead down to 2 points! Don't get complacent!], 576i37, 1476334923.0, 91
+821, [I'm Zephyr Teachout, Bernie-endorsed candidate for Congress in one of the tightest races in the country. AMA!  /r/politics], 56sv69, 1476145991.0, 155
+822, [David Harris-Gershon on Twitter: "What the hell 2016? Police wrote numbers on skin of Native American protesters, put them in dog kennels."], 5a4jka, 1477831090.0, 35
+823, [Shame on feds for treating Eric Garner case like hot potato], 59cuqb, 1477450817.0, 39
+824, [Everybody's voice is worthy of being heard.], 58krto, 1477043438.0, 37
+825, [Wells Fargo loses Better Business Bureau accreditation], 58d46g, 1476943337.0, 38
+826, [Comcast, Wells Fargo and Big Oil Lead the Effort to Defeat Measure 97], 581n4q, 1476788871.0, 37
+827, [Government Secretly Warned Banker Friends Of Housing Crash], 55m6v5, 1475499551.0, 35
+828, [Money pours in for North Dakota pipeline protest], 5ad359, 1477958631.0, 165
+829, [Frustrated with your options in the election this year? NOW is the time to nominate candidates to run for Congress in 2018 as part of Brand New Congress], 57yjis, 1476753532.0, 97
+830, [Globalizing the Dakota Access Pipeline: The current struggle for indigenous peoples of North America against such eco-terrorist projects is becoming an opportunity for the world to witness the globalized ugly face of settler colonialism.], 5a22xm, 1477797359.0, 39
+831, [Bernie Says: Stand Up To Big Pharma! (w/Alex Lawson & Guest: Garry South)], 58pmxj, 1477112766.0, 37
+832, [This Bernie Sanders tweet caused a drug company's stock to fall by $400 million in a day], 57kmq2, 1476535883.0, 38
+833, [Democracy Now reporter to return to state to face charges], 571gz3, 1476262220.0, 37
+834, [Political Revolution on Twitter | Join us at 4pm EST and ask Patricia Faye-Brazel about her role in the Revolution and working with @BernieSanders!], 560rqo, 1475718559.0, 38
+835, [Amid Escalating Repression, Dakota Access Pipeline Owners Risk Legal Liability], 5a9dke, 1477902843.0, 37
+836, [Voter Registration Deadline for the General Election is Tuesday, Oct 11, 2016  /r/PoliticalRevolutionFL], 55if8t, 1475447272.0, 39
+837, [Native Americans protest outside CNN demanding they stop ignoring Standing Rock], 5aamxh, 1477920277.0, 467
+838, [Generation Screwed: How Millennials Are Being Exploited by Our Political System], 5ab4pp, 1477930265.0, 37
+839, [Meet the Journalist Facing 45 Years in Jail for Filming Pipeline Protest in North Dakota], 59674x, 1477362817.0, 41
+840, [Deeply Moving Message from Bernie Sanders - Oldie But Goodie], 591jlm, 1477295426.0, 37
+841, [32 Arrested After 200 Iowa #NoDAPL Protesters Dismantle Security Fence in Bid to Disrupt Pipeline Drilling], 55o4wl, 1475536745.0, 42
+842, [Marijuana legalization is leading in every state where its on the ballot this November], 560d01, 1475713928.0, 165
+843, [Bernie Sanders on Twitter | While drug companies make huge profits, people are dying because they can't afford their medication. Prop 61 is an important step forward.], 574wps, 1476317774.0, 44
+844, [Once lauded as a peacemaker, Obama's tenure fraught with war], 569weq, 1475847292.0, 42
+845, [In 2013 we attended a special pipeline meeting where Zephyr Teachout's opponent, John Faso was lobbying on behalf of oil & gas, we MADE THIS AD- 90 seconds], 55l7wr, 1475484299.0, 40
+846, [Our Revolution on Twitter | Voting shouldn't about choosing a "lesser of two evils." Ranked choice voting, like Maine's #Yeson5, gives power back to the voters.], 575mg8, 1476325350.0, 173
+847, [Bernie Sanders Is the Most Popular Politician in America], 59fao1, 1477479320.0, 105
+848, [How Democrats Killed Their Populist Soul | In the 1970s, a new wave of post-Watergate liberals stopped fighting monopoly power. The result is an increasingly dangerous political system.], 595dbg, 1477354493.0, 246
+849, [The truth about Zephyr Teachout and property taxes], 57ku6f, 1476539911.0, 41
+850, [Poll: Feingold's lead Over Incumbent Johnson Shrinks in Wisconsin], 56l3le, 1476022828.0, 40
+851, [Solidarity From the South: Indigenous Leaders From Ecuador Come to Standing Rock], 55ltxo, 1475493520.0, 44
+852, [Voter registration deadline for General Election is Monday, Oct 10, 2016  /r/PoliticalRevolutionAZ], 55ibov, 1475445665.0, 41
+853, [Sanders Calls on President to Intervene in Dakota Access Pipeline Dispute], 59wq1f, 1477714978.0, 411
+854, [Robert Redford Backs Resistance to Dakota Access Pipeline], 598q9x, 1477391701.0, 46
+855, [Zephyr Teachout on Twitter | Coaches and teachers can change your life. Our new video. Watch and share! Every voice deserves to be heard. #ny19], 58tuss, 1477182407.0, 46
+856, [Vindication for Press Freedom as Charges Dropped Against Journalist Amy Goodman], 583m8p, 1476824218.0, 43
+857, [Down ballot progressives in Texas], 577p7l, 1476349963.0, 47
+858, [Incredibly disturbing video of Floris White Bull talking about herself &amp; other Water protectors "caged in dog kennels" after 10/27 arrests. (5:43) More info in comments  /r/IndianCountry], 5a2pcl, 1477804994.0, 43
+859, [Tulsi Gabbard on Twitter | RT to share an important question that needs to be asked during the October 9 presidential debate #debates], 56mhxu, 1476053715.0, 44
+860, [At the end of this week there is a final fundraising event for Zephyr. We would love it if you would help promote it. Only 77 more signatures required. Please help.], 5969zz, 1477363628.0, 44
+861, [Bernie Sanders on Twitter: "Let's not kid ourselves. We have today a campaign finance system that amounts to legalized bribery."], 57okaw, 1476600411.0, 45
+862, [Wells Fargo ignored employee petition protesting ethics: suit], 55jzra, 1475467796.0, 349
+863, [Video: Police Viciously Attacked Peaceful Protesters at the Dakota Access Pipeline], 59jrf5, 1477541307.0, 45
+864, [Volunteer With Zephyr], 56zp07, 1476241086.0, 43
+865, [Against the Trans-Pacific Partnership | The TPPs language is complex, but its result would be simple: more corporate power, and less democratic control.], 58nn32, 1477090667.0, 47
+866, [Flints new public health crisis: people are getting sick because theyre afraid to wash their hands], 55xmdr, 1475667534.0, 43
+867, [Survey: Americans want paid family leave, and they support social programs for families], 58v0ao, 1477196441.0, 360
+868, [Democracy Now! on Twitter | '.@dallasgoldtooth on police response to #NoDAPL: "We had elders, women and children put at risk because of the actions of law enforcement"'], 5ackkm, 1477953444.0, 47
+869, [North Carolina's Chance for a Fresh Senate Voice], 59hmqi, 1477518903.0, 49
+870, [Police arrest 117 in crackdown on North Dakota pipeline protesters], 59sp1j, 1477658619.0, 198
+871, [10 Ways You Can Help the Standing Rock Sioux Fight the Dakota Access Pipeline - PowWows.com], 5advre, 1477966161.0, 52
+872, [Rally to stop TPP draws supporters], 56q7fo, 1476101263.0, 52
+873, [Authorities Shut Down Roads &amp; Airspace Near Pipeline (read: No-Fly Zone)], 5a1awh, 1477788202.0, 126
+874, [Amy Goodman's Absurd Charges Dismissed], 582zgb, 1476813678.0, 53
+875, [Why Do We Fight For Zephyr Teachout? Because She will Fight For District 19 NY! We Will All Benefit! Ten Reasons:], 58lcnk, 1477051603.0, 127
+876, [Big Pharma Breaks The Bank To Kill Measure Aiming To Lower Drug Prices], 59pkmq, 1477621253.0, 399
+877, [[CO] Amendment 69 rally ft. Bernie was a success! YES on 69! NO on 71!], 581935, 1476783872.0, 51
+878, [The Wells Fargo fraud came to light because of union organizers], 569lrb, 1475842179.0, 53
+879, [Voter Registration Deadline is Tuesday, Oct 11, 2016  /r/PoliticalRevolutionIN], 55ige6, 1475447763.0, 52
+880, [Guards Join with Inmates in the Nationwide Prison Strike!], 56k87x, 1476007243.0, 130
+881, [Our Revolution on Twitter: Our Revolution stands with our board member Shailene Woodley following her arrest today at Standing Rock. #NoDAPL #IndigenousPeoplesDay], 56tn7t, 1476154296.0, 136
+882, [Bernie Sanders tweet sends shares of Ariad Pharmaceuticals down 11%], 57ibpr, 1476503283.0, 416
+883, [Bernie Looks Ahead], 57wyj8, 1476734821.0, 56
+884, [Sanders to promote ColoradoCare in Boulder], 57j2tu, 1476512219.0, 58
+885, [Josh Fox: Award-Winning Filmmaker Arrested Documenting Pipeline Protest], 57admx, 1476395938.0, 61
+886, [Tulsi Gabbard on Twitter: "Im proud to endorse @ZephyrTeachout. She will stand up when it counts."], 58xxrh, 1477245350.0, 142
+887, [Wath the FULL DEBATE: CALIFORNIA Votes: Proposition 61 Debate | "Proposition 61: Would prohibit California state agencies from paying more for prescription drugs than the United States Department of Veterans Affairs pays."], 59dfec, 1477456906.0, 59
+888, [Our Revolution on Twitter | Right-to-work laws drive down wagesthats why the Koch brothers heap millions in campaign donations to pass them.], 577att, 1476344635.0, 62
+889, [How Oregon Became the Easiest Place to Vote in the US], 56wdjm, 1476188742.0, 59
+890, [Dakota Access Pipeline employee disguised as a protester shoots off assault rifle], 59vgfp, 1477701866.0, 64
+891, [Maine Poised to Pass Ranked Choice VotingCould Give HUGE Boost to Green...], 57f0dx, 1476454602.0, 61
+892, [Riot police move in on N Dakota pipeline protesters - BBC News], 59pxmq, 1477624997.0, 65
+893, [Leaked Audio Shows How Florida Utilities Sought to Deceive Public Into Believing Amendment 1 is Pro-Solar: "'...[W]e can use a little bit of political jiu-jitsu and take what theyre kind of pinning us on and use it to our benefit...'"], 58p8jt, 1477108309.0, 67
+894, [Update: Dakota Access Pipeline Standoff Escalates], 59qq0r, 1477633391.0, 163
+895, [Standing Rock: Police Arrest 120+ Water Protectors as Dakota Access Speeds up Pipeline Construction], 5957vq, 1477352951.0, 71
+896, [Bernie Sanders wants to know why this cancer drug costs nearly $200,000 a year], 58jv1f, 1477031865.0, 288
+897, [Help STOP the disastrous TPP by making special calls!! This Tuesday/Thursday Only!! You will be calling representatives to convince them NOT to vote for the TPP!! Details inside], 594stc, 1477348292.0, 72
+898, [Teachout holds promise for new era in politics], 59pwby, 1477624621.0, 76
+899, [AT&T Cheerleading Squad for Merger: Nearly 100 Lobbyists], 59oxj4, 1477614573.0, 74
+900, [Sue Minter on Twitter "ICYMI: Sue received the endorsement of @BernieSanders today!"], 57h0pm, 1476488892.0, 72
+901, [Yesterday we beat our call goal of 1,500 calls!! If you want to contribute to the call goal today, go to grassrootspb.com and make ten calls for the Revolution!], 57ra1l, 1476651135.0, 78
+902, [Jane Sanders - Contact your representatives and the media to ask where they stand on #NoDAPL!], 57gn9p, 1476484411.0, 187
+903, [Amy Goodman Broadcasts from North Dakota Across from Court Where She Faces Riot Charge Today], 57y04v, 1476747932.0, 186
+904, [Michael Whitney on Twitter "In less than 48 hours, supporters of @BernieSanders raised $1,774,021 for 13 House and Senate candidates with 334,769 contributions" !!!], 58h0mr, 1477001260.0, 441
+905, [Bernie Sanders on Twitter: "Universal health care is a reality in dozens of countries around the world. It really is not a radical idea for the U.S. to do the same."], 57vmfe, 1476708181.0, 321
+906, [Sanders presses drug company to explain price hike for leukemia drug], 58iaxm, 1477014999.0, 86
+907, [Fight For 15 on Twitter | If you have been inspired, as we have, by the First Nations #NoDAPL resistance at #StandingRock stand with them now; bear witness.], 59rk5m, 1477643313.0, 90
+908, [Wall Street Firms Make Money From Teachers' Pensions  And Fund Charter Schools Fight], 59o1u0, 1477604912.0, 86
+909, [Teachout up 44-41 in new poll, 15% of voters still undecided], 59jf3c, 1477537697.0, 221
+910, [Bernie Sanders on Twitter: "Apparently for many in the top 1%, owning and controlling our economy is not enough. They also want to own and control the government."], 57qkgr, 1476634619.0, 230
+911, [@SenSanders: "In 1965, ratio of CEO pay to average worker pay was 20:1. In 2014, it was 303:1. Thats just incomprehensible to me."], 57sr3z, 1476670811.0, 236
+912, [Sheriff's office says they are "taking steps to remove" water protectors at Standing Rock now! Text will be updated repeatedly, so refresh often. Please comment with new information.  /r/NoDAPL], 59plpn, 1477621575.0, 113
+913, [FAA Says North Dakota Cops Commited Felony by Shooting Down DAPL Protester Drones - Counter Current News], 5a8pji, 1477895030.0, 119
+914, [North Dakota Is Starting To Look Like A War Zone And Yet Theres No Mention From The Federal Government Nor Hillary/Trump], 59b8fg, 1477433683.0, 285
+915, [Senate Bill to Establish Ranked Voting for Public Offices in Indiana (SB277)], 5700lv, 1476244618.0, 121
+916, [@BernieSanders | No laws prevent drug companies from doubling or tripling prices. So they just do it. We are going to change that.], 59ehyo, 1477469124.0, 126
+917, [Bernie Sanders Trying to Kill AT&T's Purchase of Time Warner - [4:00]], 5a8bks, 1477890673.0, 137
+918, [Teachout is Tied in Sept 28th Poll!!!! Call please! Or Donate $ 19 for an Ad!], 56ku2j, 1476017447.0, 322
+919, [New poll: Russ Feingold pulling away from challenger in WI Senate race, now up by 6 points.], 55rjrv, 1475579223.0, 142
+920, [Bernie Sanders to Boulder residents: 'Stand tall and vote yes on Amendment 69' (ColoradoCare)], 581ocs, 1476789349.0, 150
+921, [Sanders tweet causes drug company to lose $400M in a day], 57j7sv, 1476514009.0, 153
+922, [Bernie Sanders to stump for California drug pricing law], 57gf4x, 1476481581.0, 176
+923, [Super PACs are pouring MILLIONS of dollars to stop Zephyr Teachout in NY-19... Recent polls are showing that the race is neck and neck!!! Faso and his wealthy donors are scared; and they should be, but that doesn't mean that we should let up now!!! KEEP FIGHTING!], 5acpt5, 1477954967.0, 260
+924, [Lightsaber-wielding Bernie Sanders takes on Darth Vader Koch brother], 5ai1gh, 1478018860.0, 3
+925, [At what point are we going to start holding people's feet to the fire?], 5ai0dh, 1478018129.0, 23
+926, [This Race could determine which party controls the House], 5ahz5w, 1478017330.0, 21
+927, [Progressive Bob Fitrakis is running for County Prosecutor in Franklin County (Columbus) Ohio as a Green. Dr. Fitrakis is the fellow who has appeared on Lee Camp and other sites taking about election fraud.], 5ahz21, 1478017254.0, 21
+928, [Bernie Sanders is biggest feature of the Yes on Prop 61 Website!], 5ahuot, 1478014517.0, 72
+929, [Meet Kyle Thompson, the Knightsbridge Risk Management employee that was disguised as a water protector], 5ahthu, 1478013791.0, 12
+930, [Arn Menconi, Green Party Candidate for U.S. Senate], 5ahn9r, 1478010164.0, 20
+931, [Happy Halloween, Paul Ryan! From Bernie Sanders], 5ahitk, 1478007768.0, 22
+932, [2.6 terabyte leak of Panamanian shell company data reveals "how a global industry led by major banks, legal firms, and asset management companies secretly manages the estates of politicians, Fifa officials, fraudsters and drug smugglers, celebrities and professional athletes."], 5ahid5, 1478007528.0, 96
+933, [Statement from Kshama Sawant: End the Political Repression Against Standing Rock Protesters], 5ahho1, 1478007157.0, 18
+934, [Here's Why Everyone On Facebook Is Checking In At Standing Rock], 5ahgxw, 1478006811.0, 6
+935, [When The US Healthcare System Kills], 5agydh, 1477999044.0, 13
+936, [BACK UP THE CANVASSERS FOR TEACHOUT! Flip the Senate and Rock the House! Call for Teachout, Donate or Use Social Media! headquarters said it is great to use social media using quotes from Zephyrs' website Talking points for Teachout! Back Up the Canvassers Knocking on Doors!], 5agown, 1477995734.0, 21
+937, [McDonald's Settlement Could Open Door for Worker Wins Nationwide], 5afx8x, 1477986574.0, 21
+938, [Were Hiring! [NYC Progressive Caucus Needs Full-Time Coordinator]], 5aeile, 1477972194.0, 22
+939, [Injustice Boycott :: Starting on December 5th, 2016], 5adu9d, 1477965783.0, 21
+940, [Unicorn Riot on Twitter: "This elder in ceremonial garb held a prayer for everyone gathered on Highway 1806 and was arrested shortly after. #NoDAPL" [video]], 5adgix, 1477962130.0, 51
+941, [Bargaining On A Revolution?], 5acz03, 1477957485.0, 15
+942, [Progressive Alternatives and National Projects], 5acxrw, 1477957157.0, 13
+943, [Quebec hydro project powers New Hampshire campaign], 5aca4k, 1477950176.0, 14
+944, [Land rights and soda giants], 5ab590, 1477930604.0, 8
+945, [SPLC complaint: Families falsely imprisoned after ICE raids], 5ab4s2, 1477930304.0, 16
+946, [Guest: Racial Voter Purges Are 'Lynching By Laptop!' (w/Guest: Greg Palast)], 5ab3j0, 1477929532.0, 15
+947, [Whose Fault Is It? Obamacare Rates Are Going Up...], 5ab3gp, 1477929488.0, 12
+948, [Transitioning to Clean Energy Would Create More Jobs than Fossil Fuels], 5ab34y, 1477929277.0, 12
+949, [When A Tax Bonanza Is Actually A Huge Corporate Tax Break], 5ab2j2, 1477928867.0, 16
+950, [The TPP and Free Trade: Time to Retake the English Language], 5ab1j1, 1477928262.0, 10
+951, ["We're Homeless and We Vote": Homeless People Want a Voice in This Election], 5ab0h7, 1477927610.0, 26
+952, [The TPP Fight: Lessons From El Salvador], 5ab0bu, 1477927533.0, 10
+953, [Wall Street 'Influence'? Teachers Unions Request Probe Of Donations To Charter School Measure], 5aayvs, 1477926675.0, 7
+954, [Fewer Polluters Criminally Prosecuted as EPA Cowers From GOP Attacks], 5aayf9, 1477926398.0, 8
+955, [This Maine Initiative Could Shake Up the Two-Party System], 5aawy8, 1477925547.0, 10
+956, [What It Means Now That 40,000 Maryland Parolees Got the Right to Vote], 5aawsz, 1477925466.0, 14
+957, [Voices From the Movement for Native Lives], 5aawmq, 1477925362.0, 6
+958, [Beyond the Fight for 15: The Worker-led Fast Food Union Campaign Building Power on the Shop Floor], 5aawjz, 1477925318.0, 12
+959, [New U.N. Report Shows Just How Awful Globalization and Informal Employment Are for Workers], 5aawhc, 1477925280.0, 9
+960, [The Building Storm Against the TPP], 5aatmi, 1477923729.0, 3
+961, [Pipeline route plan first called for crossing north of Bismarck, but was deemed "too dangerous" for the water], 5aaanm, 1477914919.0, 29
+962, [Question about voting from someone who doesn't know much about the process.], 5a9wow, 1477909571.0, 10
+963, [Lessons from Roosevelt: The Past of the Democratic Party], 5a978j, 1477900809.0, 20
+964, [Society of Indian Psychologists' Response to Pipeline Protest], 5a95i5, 1477900231.0, 19
+965, [This American Life episode sounds suspicious; could use thoughtful critique], 5a8so6, 1477896011.0, 8
+966, [Dakota Access Pipeline: Police fire on media drones, mass arrests, treaty rights declared], 5a8rzn, 1477895788.0, 37
+967, [How the electricity utilities use a little bit of political jiu-jitsu to steal the sun  /r/politics], 5a8juj, 1477893281.0, 16
+968, [The American Dream Is Killing Us], 5a8cni, 1477891007.0, 19
+969, [Bernie Sanders Speaks To Halloween crowd in Lebanon, NH Oct. 31st 2015 [Relevant bc Halloween and "Tell the fossil fuel contributors to go to hell." is the cue up]], 5a7lxs, 1477882757.0, 55
+970, [The Case for an Article V. Convention], 5a4zx4, 1477840283.0, 20
+971, [Truthdigger of the Week: Standing Rock Sioux Chairman David Archambault II (from @Truthdig)], 5a4gmy, 1477829691.0, 22
+972, [Bernie Sanders on Twitter: "Pharmaceutical industry executives are a bunch of crooks, and they're proud of it."], 5a3bho, 1477812830.0, 65
+973, [Seattle: Highest Minimum Wage, Lowest Unemployment Rate - The Big Picture], 5a36cy, 1477810891.0, 54
+974, [Archdiocese to spend $850,000 against marijuana legalization - The Boston Globe], 5a2jdf, 1477802952.0, 42
+975, [Houston deputy mayor uproots campaign sign along Parks Highway | Patricia Faye-Brazel], 5a0quv, 1477781246.0, 7
+976, [Jayapal has backing of progressives, youth, unions in Washingtons 7th District House race], 5a0qqo, 1477781198.0, 31
+977, [Police Ramp Up Violence Against Protesters At Standing Rock], 59yqs6, 1477741423.0, 16
+978, [Can we make (or is there already) a "What Would Bernie Vote?" page?], 59y13c, 1477730709.0, 17
+979, [Chief Arvol Looking Horse to Obama: Keep Your Word], 59xzd9, 1477730074.0, 38
+980, [Californias Jane Kim Calls for Statewide Emergency on Homelessness], 59xc51, 1477721846.0, 36
+981, [Big Pharma Paid LGBT Groups and Others That Opposed California Drug-Price Ballot Measure], 59wvzj, 1477716763.0, 23
+982, [Will the DOJ or FCC Stop the AT&T Merger from Creating World's Largest Media Conglomerate? - [9:52]], 59wveg, 1477716588.0, 14
+983, [The countrys largest LGBT rights group is standing by Mark Kirk.], 59wued, 1477716280.0, 11
+984, [@ZephyrTeachout | Public education is the infrastructure of democracy.], 59wp8m, 1477714735.0, 26
+985, [Susan Sarandon urges Arizona voters to vote Yes on Prop 205], 59vn7v, 1477703840.0, 28
+986, [Patriots Acquitted in Malheur As DAPL Water Protectors Get Maced], 59vjxx, 1477702908.0, 27
+987, [AT&T, Time Warner and the Death of Privacy], 59t005, 1477663923.0, 44
+988, [Bloomberg Does the Halloween Special Social Security Scare Story], 59rxtb, 1477648252.0, 14
+989, [FB Video from Protester who was at DAPL Protest - Concluded Now], 59rkvk, 1477643564.0, 31
+990, [Latest live streams from the Standing Rock water protectors], 59rf8a, 1477641682.0, 43
+991, [TONIGHT: debate w/ Dr. Margaret Flowers, Green for US Senate in Maryland, on Real News Network], 59r514, 1477638257.0, 73
+992, [A Lawsuit Challenges Utahs Ban on Students and Teachers Saying Nice Things About Gay People], 59o298, 1477605053.0, 38
+993, [Video Voters Guide Candidate David Delk], 59mh66, 1477576532.0, 2
+994, [This Small Town Shows Why The Trans-Pacific Partnership Could Be A Disaster For American Workers], 59m9x4, 1477573021.0, 42
+995, [The American People Are Paying Attention to Indian Country  Why Doesnt Congress?], 59l61t, 1477557671.0, 65
+996, [Mark Ruffalo in Standing Rock; Leo DiCaprio, Jesse Jackson Head to Standing Rock], 59l47r, 1477557011.0, 100
+997, [Green Party candidate Margaret Flowers storms Van Hollen-Szeliga Senate debate stage], 59kywl, 1477555147.0, 43
+998, [Ask the Iowa Utilities Board to halt DAPL construction for many construction permit violations.], 59kp67, 1477551748.0, 22

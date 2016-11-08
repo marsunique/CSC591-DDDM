@@ -1,0 +1,1000 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [WikiLeaks: Email Shows Bernie Sanders Was Paid Off to Support Hillary], 57nz3u, 1476592612.0, 17
+2, [Mike Rowe to Bernie Sanders: Stop Telling Everyone College is The Only Thing], 5acdap, 1477951225.0, 2813
+3, [Hillary Clinton on Assange "Can't we just drone this guy" -- report], 55npke, 1475531179.0, 2729
+4, [Ron Paul on MSNBC says Gary Johnson isn't a true libertarian, will likely vote for Jill Stein instead.], 55p9w9, 1475549907.0, 1
+5, [Trump's no libertarian, but he represents what is likely to be a once-in-a-lifetime opportunity to bring real change to a government that is bloated and self-serving], 58athi, 1476919177.0, 0
+6, [Hillary Clinton is done as well. Vote your conciseness], 579ntt, 1476385114.0, 0
+7, [This #Draftourdaughters meme is great], 59uiyw, 1477691771.0, 1
+8, [Rand Paul Gives Bernie Sanders An Education On Factual Policies], 59aqy2, 1477427493.0, 5
+9, [Don't Grab The Pussy...], 56kbdk, 1476008596.0, 775
+10, [Libertarian VP Candidate Gives Up, Will Focus on Preventing Trump Presidency], 55zy4k, 1475709219.0, 0
+11, [Hillary Clinton In 2013: I Would Like To See People Like Donald Trump Run For Office; Theyre Honest And Cant Be Bought], 59scr0, 1477653557.0, 11
+12, [Top 5 Ways Gary Johnson is More Libertarian Than Ron Paul], 577k5d, 1476348099.0, 0
+13, [If Donald Trump is elected president he will audit the Federal Reserve], 59hj0x, 1477517609.0, 0
+14, [Hillary Clinton speaking in support of video game censorship (2006).], 55sxdo, 1475607346.0, 3474
+15, [Blind Hillary voters], 595574, 1477352132.0, 0
+16, [Why I'm voting Trump...], 58fwdj, 1476983319.0, 1
+17, [Is it time to forcibly remove r/anarcho_capitalism from the side bar?], 56dg9i, 1475900589.0, 0
+18, [Trump Tweets Ron Paul], 58yyhc, 1477264283.0, 0
+19, [Donald Trump speech transcript. Wow.], 57h6u0, 1476490804.0, 0
+20, [Yuge! Dilbert creator Scott Adams changes his endorsement from Trump to Gary Johnson. #FeelTheJohnson], 56g2qd, 1475942516.0, 1
+21, [Libertarian VP Candidate Gives Up, Will Focus on Preventing Trump Presidency], 55zd6f, 1475701633.0, 0
+22, [Trump Sexual Assault Accuser Sent Glowing Email To His Assistant In April], 57odrx, 1476598003.0, 8
+23, [#letgarydebate], 56ouo7, 1476083355.0, 3552
+24, [Why I Was Wrong About Libertarians], 59q7p6, 1477627911.0, 14
+25, [Abortion and private property...], 57r9od, 1476650952.0, 2
+26, [Ron Paul Won't Vote for Gary Johnson, and He's Right], 55ie0i, 1475446725.0, 0
+27, [An incompetent criminal is most likely going to win...because she has a vagina], 58euvr, 1476964244.0, 4
+28, [Bill Clinton's furious face during the second debate], 56vt43, 1476180465.0, 6
+29, [Damage to the Libertarian idea, party and this election.], 55ibh2, 1475445561.0, 2
+30, [Donald Trump vs The Establishment (credit goes to /u/trumpeffect for the video)], 58w6oq, 1477212172.0, 2
+31, [Gary Johnson: I'd be a continuation of Obama on ISIS], 58i4aw, 1477013109.0, 1
+32, [TRUMP: THE CLINTONS ARE CRIMINALS  REMEMBER THAT - Never in history have we seen such a cover-up as this], 57e2nc, 1476439427.0, 1
+33, [Several Women Reveal New Stories of Trump Inappropriately Touching], 57abfk, 1476395133.0, 0
+34, [Experts said Arctic sea ice would melt entirely by September 2016 - they were wrong], 56eq44, 1475917674.0, 0
+35, [What are your critiques against libertarianism? Lets break the circlejerk for once], 59pkor, 1477621268.0, 2
+36, [Why is this sub basically r/thedonald?], 57yryk, 1476755934.0, 0
+37, [Thought experiment; This election should be: Rand Paul, Bernie Sanders, and Austin Peterson in the running], 56rgvw, 1476126831.0, 2
+38, [Never forget when Sanders put this on Twitter. Looks like the revolutionary doesn't even understand the concept of collateral.], 56st9o, 1476145430.0, 7
+39, [New poll: Gary Johnson surges to 14% in Utah, both major nominees have 70% disapproval ratings. We can win this!], 5743p9, 1476308438.0, 1467
+40, [She-riah law: Hillary kept Michael Savage on hate list], 57wd3q, 1476722979.0, 4
+41, [Hillary Clintons Hometown Paper Endorses Gary Johnson], 58tnjl, 1477179885.0, 2456
+42, [If Hillary Said She "Grabbed Men by the D*ck," Her Supporters Would Make Excuses For Her], 56ys6p, 1476231033.0, 13
+43, [Evan McMullin: If Gary Johnson Were a Real Libertarian, I Probably Wouldnt Be Doing This], 57ihyq, 1476505278.0, 0
+44, [Courtesy Reminder: /r/libertarian is not /r/garyjohnson], 57fhsu, 1476465571.0, 1
+45, [Libertarian Icon Ron Paul Says He Won't Be Voting For Gary Johnson. Prefers Jill Stein], 55przz, 1475555546.0, 1
+46, [Trump is clearly no libertarian, but does this move the needle for anyone here?], 594ga9, 1477343945.0, 3
+47, [Michael Moore - Why Trump Will Win], 5a4duv, 1477828399.0, 0
+48, [Ahhh! European millenials are breaking the conditioning! Rahhhr!], 58mepb, 1477072241.0, 0
+49, [Libertarian VP nominee Bill Weld doesnt seem to know what concealed carry permit reciprocity is | Video], 58cjz4, 1476937256.0, 1
+50, [Political party bus dumping literal poo on street], 587e2f, 1476865342.0, 1
+51, [Darrell Castle: Constitutionalists Should Forget the Corrupt GOP], 5763h3, 1476330407.0, 0
+52, [PSA: Inflation is not taxation.], 56yw81, 1476232296.0, 0
+53, [Is he doing it on purpose?], 563mp6, 1475755319.0, 0
+54, [Molyneux's libertarian anti-tax Trump rant is getting a lot of upvotes on r/The_Donald], 55k1er, 1475468390.0, 0
+55, [Friedman has a point about the drug war], 589ccs, 1476896918.0, 51
+56, [Rockin my new #Libertarian attire on campus ], 5ae630, 1477968894.0, 1
+57, [No Can Do Allison], 59u1e8, 1477685212.0, 3167
+58, [Is anybody else here a little burned out on Gary Johnson looking like a total dumbass?], 565q24, 1475794006.0, 37
+59, [We Need More, Not Less, Sexuality in Video Games], 5a3psv, 1477818251.0, 3
+60, [Well This is Interesting, Glenn Beck: Electing Hillary Clinton Is a Moral, Ethical Choice], 56xv4w, 1476219710.0, 0
+61, [Stefan Molyneux- Why I Was Wrong About Libertarians], 59qrri, 1477633937.0, 16
+62, [I did not have sexual relations with that woman...], 56y53e, 1476223515.0, 14
+63, [Libertarian Eel [OC]], 55x4xi, 1475660973.0, 1
+64, [Killary's Theme Song], 58ch8b, 1476936457.0, 0
+65, [Isn't closing the borders necessary in a welfare state. Conversely, wouldn't we have to end all government entitlements if we want open borders?], 57jyi1, 1476524645.0, 2
+66, [How is McMullin beating Johnson in Utah? I thought you had to be a former governor or the American people wouldn't take you seriously.], 57480g, 1476309956.0, 1
+67, [Larken Rose - Amazing Anarchy Speech | A Message to The Voting Cattle], 56goe5, 1475957321.0, 1
+68, [The Only Libertarian Religion], 55o5a5, 1475536863.0, 0
+69, [Don't like Gary Johnson? Vote for him anyways. If he gets just 5% of the popular vote the Libertarian party will have automatic balloting in all 50 states and government funding for future elections!], 59pqz8, 1477623084.0, 1939
+70, [Trump's no libertarian, but today's 5-point plan to curtail lobbyists looks pretty good], 581isx, 1476787277.0, 13
+71, [The Clinton Campaign Should Stop Denying That The Wikileaks Emails Aren't Validated; They Are And They're Real], 59c34u, 1477442879.0, 2978
+72, [The Fact That The Libertarian Party Ever Nominated This Motherfucker Is Such A Fucking Joke...], 5agzwf, 1477999614.0, 1
+73, [Religious Liberty at Risk: California Judge Bans Jewish Ritual], 5905k0, 1477278616.0, 0
+74, [Clinton's Corruption Level], 580mgs, 1476775951.0, 0
+75, ["No one's forcing you at gunpoint to pay taxes!"], 57ehg3, 1476445415.0, 1
+76, [GOP hair care], 56i1c7, 1475977217.0, 2
+77, [Report: Aleppo Having a Gary Johnson Moment], 55u79f, 1475625764.0, 0
+78, [What Is Left-Libertarianism], 561lq4, 1475727961.0, 7
+79, [Proof that she is full of shit], 56upbo, 1476165995.0, 30
+80, [Trump Pledges To Drain The Swamp And Impose Congressional Term Limits], 5888fp, 1476876302.0, 1
+81, [New Theory Suggests Clinton Had Justice Scalia Murdered!], 57drmx, 1476435199.0, 0
+82, [Ron Paul: Is bothered by the "hypocrisy" of the Johnson/Weld ticket; slams "entitled" BLM for creating racial strife | RedState], 563fu3, 1475752315.0, 4
+83, [Trump is Done, Make Your Vote Count.], 5770mk, 1476340996.0, 88
+84, [in preparation for her highness becoming queen], 597x3c, 1477381523.0, 0
+85, [In Secret Goldman Sachs Speech, Hillary Clinton Admitted No-Fly Zone Would Kill a Lot of Syrians], 57l4qo, 1476546734.0, 0
+86, [Senator Rand Paul Campaign Advert - Standing Up For LIFE], 57h0q0, 1476488896.0, 0
+87, [Militarized Police Arrest Shailene Woodley Protesting DaKota Pipeline], 57fs60, 1476471706.0, 0
+88, [Donald Trump's Pretty Lucky He's Not Held To The Same Standard As Gary Johnson], 56bz4h, 1475883582.0, 852
+89, [Trump's election will be the biggest "Fck You" in human history - Michael Moore], 59psdj, 1477623497.0, 0
+90, [Hillary Clinton: Candidates Should Not Comment On Fed Action| Couple weeks old but proves (if you needed any) shes owned by the deep state.], 59kdc1, 1477547890.0, 0
+91, [CRT Leak Memo: Reddit Disruption & Dominance], 587wja, 1476871838.0, 2
+92, [What are your opinions on Gary Johnson's lack of environmental policy?], 57p5yl, 1476608834.0, 1
+93, [Trump's deep well of support is evidence that political correctness has failed to successfully reduce bigotry], 56w3dp, 1476184430.0, 0
+94, [What Exactly Is Racism? - LewRockwell LewRockwell.com], 56rybq, 1476135017.0, 0
+95, [Gary Johnson will not lose this election. Rather, it's just going to take four-to-eight years to count the votes.], 56h82p, 1475966546.0, 0
+96, [Question for Libertarians who plan on voting for Gary Johnson/Bill Weld.], 5661xd, 1475797939.0, 1
+97, [5 Reasons Why Mike Pence is a Big Government Butthead - Liberty Viral], 55x5pc, 1475661262.0, 1
+98, [Libertarian V.P. Bill Weld's Favorite Foreign Leader and the 9/11 Attacks], 55nqh6, 1475531547.0, 1
+99, [Molyneux breaks down the likelihood of Hillary Clinton going to war with Russia (very likely, and with really concerning consequences)], 58c0uk, 1476931780.0, 4
+100, [Rand Paul - Hillary's Policies Will Put Coal Miners Out Of Business], 579lgm, 1476383785.0, 1
+101, [Discuss this image], 59bmo1, 1477438042.0, 0
+102, [Hillary's #1 aide Huma Abedin: Undeniable ties to terrorist group & 9/11 funders.], 59bbjr, 1477434667.0, 0
+103, [As a principled libertarian I don't actually want federal funding for the LP], 58uat4, 1477187823.0, 0
+104, [OT: I get despising Trump. I really do (& join in). But in a week where it became clear Hillary worked w/ the DNC to coordinate public violence AND doubles down on her "Abort babies up until they emerge" stand how is the leading political headline "Trump won't necessarily accept election results?"], 58hed8, 1477005504.0, 1
+105, [A "don't rock the boat" theory of political change: Vote for Johnson, but root for Hillary], 57ogsy, 1476599110.0, 0
+106, [Evan McMullin and Gary Johnson should form an immediate cartel], 57ch33, 1476419398.0, 2
+107, [Poland: Activists and supporters of Polands libertarian Freedom party marched on Saturday under the slogan Wake up Europe, warning that its the last chance to save the continent from Islamic invasion.], 56xm6j, 1476215781.0, 2
+108, [Police Accountability: Last Week Tonight with John Oliver (HBO)], 55oy1g, 1475546156.0, 2
+109, [Richard Nixon Could Only Wish He Got Hillarys FBI Treatment], 59hph9, 1477519797.0, 2636
+110, [Bill Weld Desperately Defending Hillary Clinton Over Emails.....Seriously, Who Is This Guys?!], 5abqqp, 1477942863.0, 100
+111, [Libertarian Freedom], 58vsdp, 1477206590.0, 0
+112, [Don't mind me, just stirring the pot a little], 59jxz0, 1477543260.0, 0
+113, [Libertarian VP Candidate Admits Defeat, Tells Voters To Pick Clinton Over Trump], 59i786, 1477525178.0, 0
+114, [Look, I voted Libertarian in 2012 and intend to do so again....but is this stuff about Gary Johnson not being able to name a single world leader true?], 565ieb, 1475791301.0, 7
+115, [Trump Will Torch the Supreme Court], 57ai24, 1476397442.0, 11
+116, [Cato abandons the Second Amendment], 565b0y, 1475788451.0, 11
+117, [Darrell Castle is the most libertarian candidate running hands down], 59zhpz, 1477755965.0, 0
+118, [Why I will not be voting for Gary (or anyone for that matter)], 56p279, 1476086202.0, 0
+119, [TRUMP PUNKED THE PRESS: Told Reporters They Were Going to Pre-Debate Presser, Walked in on Clinton Rape Victims.], 56q211, 1476099222.0, 14
+120, [A homeless woman is attacked by mob for defending Trump's Hollywood star...], 59yge9, 1477737002.0, 8
+121, [Trump's "Hand Picked" Univ Staff Includes Drug Trafficker, Child Molester], 59ul39, 1477692454.0, 6
+122, [Gary Johnson had fun climbing Mt. Everest], 5900vo, 1477277166.0, 2
+123, [Libertarianism Needs Nationalism], 56kvap, 1476018117.0, 0
+124, [Sign on my doctor's front entrance.], 57g0l1, 1476475864.0, 3145
+125, [YouTube bans 'Clinton's black son'], 59mm5q, 1477579151.0, 0
+126, [Could Trump Pull Off a Surprise Last-Minute Victory? Two Reputable Pollsters Say Yes.], 58vm0l, 1477204193.0, 5
+127, [Once more, dear friends: Johnson helps Clinton - Bleeding Heart Libertarians], 55klsh, 1475475692.0, 0
+128, ["Social Justice" is an assault on justice.  /r/Objectivism], 59o8mp, 1477607147.0, 0
+129, [How the National Enquirer Saved the GOP and then Unwittingly Killed it], 59hwgk, 1477521989.0, 0
+130, [Is It Anti-Libertarian for the Libertarian Party to Accept Public Funding?], 596w0m, 1477369973.0, 0
+131, [Tobacco Taxes Work, But Only If Theyre High], 594xo0, 1477349878.0, 0
+132, [The Truce - Final John McAfee / Judd Weiss Libertarian Presidential Campaign Video (now completed)], 58pveo, 1477115490.0, 0
+133, [[Request] Podesta Wikileak Email Summaries of Clinton], 583w65, 1476827626.0, 0
+134, [NEW interview with Constitution Party nominee Darrell Castle], 580slf, 1476778150.0, 0
+135, [Conspiracy: 'No Vote' Libertarian philosophy is government astroturfing to keep libertarians away from power.], 57bpa2, 1476410828.0, 0
+136, [Recalling Frenzied Calls For War With Spain, post the False Flag 1898 explosion aboard USS Maine, with Japan following the 1941 FF Pearl Harbor sinkings, and after the FF 1964 Gulf of Tonkin affair that precipitated the Vietnam War - The Ziopress says Yemen fired rockets at USS Mason Oct. 10, 2016], 577bvu, 1476345027.0, 0
+137, [Hillary Vs Trump: Debate Two Review!], 56vax6, 1476173645.0, 0
+138, [Remember: NY Times Reporter Says Theres NO WAY To Tell Whether Election Is Legit. 9min vid], 56amr9, 1475863336.0, 0
+139, ["Libertarian" VP Candidate Will Focus His Energy On Trashing Trump -- massive huge mistake going negative, focus on the positive], 566k2v, 1475803680.0, 0
+140, [Trump the destroyer could herald an unintended revolution], 55ova4, 1475545282.0, 0
+141, [Canadian conservative senator wants to ban marketing to children], 55nlt9, 1475529646.0, 0
+142, [Johnson at 24% in NM], 55ifnb, 1475447451.0, 1796
+143, [Why do most lgbt members vote democrat ?], 5aa4qf, 1477912493.0, 0
+144, [Jesus Christ Was a Progressive Because He Advocated Income Redistribution to Help the Poor], 58zis2, 1477271252.0, 3
+145, ["Never in the 9 years while working in a large hospital, often in the ER, did I hear the words, 'Quick! Get me forceps and suction! This woman needs an emergency abortion STAT!' Why did I never hear these words? Because emergency abortions don't exist."], 58hjc4, 1477006992.0, 0
+146, [Perfect], 56qfd9, 1476104601.0, 3
+147, [Donald Trump On Howard Stern: It's Okay To Call Ivanka A "Piece Of Ass"], 56k3qn, 1476005287.0, 0
+148, [Hillary's racist comments], 56cz5z, 1475895076.0, 2
+149, [Dilbert Creator Scott Adams "Shadowbanned" From Twitter After Trump Support], 55uq5u, 1475631799.0, 3
+150, [Donald Trump's campaign appears to be slipping into death spiral], 55oj30, 1475541445.0, 1
+151, [Trump and Hillary are both terrible, but the election is rigged in favor of Hillary], 58gm67, 1476996215.0, 74
+152, [Got my absentee ballot and this unsolicited discouragement in the mail today. #FeelTheJohnson], 5agxi4, 1477998741.0, 2
+153, [Where Hillary Clinton is the Spoiler Candidate], 5agpgj, 1477995921.0, 2
+154, ["When the Nazis came for the communists, I remained silent; I was not a communist." Martin Niemller], 5ae1ts, 1477967764.0, 2
+155, [Why do a lot of libertarians oppose trade agreements like NAFTA and TPP?], 5a89y6, 1477890175.0, 0
+156, [No such thing as "radical libertarian" or "kind of libertarian". There is just "libertarian"], 59wten, 1477715995.0, 0
+157, [Who Killed More People? Jeffrey Dahmer or Mike Pence?], 59vsdq, 1477705273.0, 1
+158, [Trump will win the election and is more popular than Obama in 2008, AI system finds], 59v2s0, 1477697926.0, 0
+159, [A Vote For Hillary is a Vote for Freedomin 2020], 58nszk, 1477092488.0, 2
+160, [Anyone here think public education is to blame for this election?], 58nqi5, 1477091703.0, 2
+161, [The Racist History Of The Democratic Party], 58bt7r, 1476929587.0, 2
+162, [Matt Ridley: Global Warming versus Global Greening | The Global Warming Policy Forum (GWPF)], 586tqc, 1476858618.0, 0
+163, [A third of U.S. women afraid of being sexually assaulted, but few say they're victims], 583mh6, 1476824306.0, 0
+164, [Gay marriage becomes a tool for eroding rights], 581pjs, 1476789810.0, 0
+165, [Trumped! David Stockmans new book analyzes the Trump phenomenon (and an analysis of how some of Trump's policies align with Libertarians)], 57vkpn, 1476707397.0, 1
+166, [Usury is Anti-Liberty Slavery, Morally Wrong], 57q316, 1476623668.0, 0
+167, [Fox News], 57o1mq, 1476593546.0, 1
+168, [This election really Stings], 57kivj, 1476533937.0, 1
+169, [California's primary voting system is turning the elections into a one-party voting option.], 57hg1z, 1476493611.0, 1
+170, [Conservative In Exile | Glenn Beck is a man without a party], 56ykmp, 1476228689.0, 0
+171, [Why Gary Johnson Can Still Make Libertarian History | RealClearPolitics], 56vy90, 1476182436.0, 3
+172, [Not Democrat, Not Republican, Live Free Decal 5 Pack], 561i5j, 1475726814.0, 2
+173, [Libertarian VP Nominee Bill Weld Says He Will Focus His Efforts on Blocking Donald Trump], 561dyc, 1475725528.0, 0
+174, [The Real Hillary Clinton], 55qwba, 1475569875.0, 0
+175, [Why Clinton must woo Weld], 55ipf6, 1475451352.0, 0
+176, [Wikileaking on H. Clinton], 587gwx, 1476866373.0, 26
+177, [I got unsolicited mail telling me not to vote third party. It's an important issue so I mailed them back this donation.], 5a6c77, 1477867850.0, 1914
+178, [60 Policies from One Year of Donald Trump - [A] list of nearly 60 policies, if you can dignify them with such a title, that Trump has proposed during his campaign. The list drives home how truly frightening a Trump presidency would be for the country and the world.], 57n7ei, 1476582780.0, 4
+179, [Project Veritas Confirms Hillary Clinton Was PERSONALLY Involved w/ Election Rigging], 5964il, 1477362052.0, 66
+180, [Ron Paul: "The Secret Society loves Hillary. For her to say that we shouldn't comment on the Fed -- 'it is off limits, don't talk about it' -- it's astounding. Donald Trump wants to audit the Fed."], 58pn40, 1477112822.0, 1046
+181, [Libertarian Party of NH Votes to Censure LP Vice Presidential Candidate Bill Weld], 58sy5f, 1477168840.0, 9
+182, [Socialism 101], 5a82pl, 1477887922.0, 17
+183, [The "Weed Party" Stigma, and why it's a problem], 5ac9x6, 1477950106.0, 9
+184, [In my opinion, Taxation is the same as the rent on a house.], 5a06o1, 1477772090.0, 0
+185, [CALLING ALL PATRIOTS! You MUST Place Hillary Under Citizen's Arrest In Florida TOMORROW! #DrainTheSwamp], 597x3a, 1477381522.0, 0
+186, [Hillary Clinton's own people say she 'hates everyday Americans.' - WikiLeaks - The Podesta Emails], 56yj7c, 1476228247.0, 93
+187, [Libertarians attacking Johnson & Weld for not being pure enough are like passengers on a hijacked airliner demanding to be let out RIGHT NOW and bitching at Johnson/Weld for wanting to try to land the plane first.], 590dow, 1477281151.0, 57
+188, [Third-Party Voting is the Height of White Privilege], 56al99, 1475862351.0, 10
+189, [I Hate Trump overall, but I got to give credit to him, he is destroying Hillary the crooked witch Clinton on foreign policy, he is "raping" her on foreign policy issues.], 56poct, 1476094444.0, 0
+190, [Gary Johnson's Disappointing Campaign], 5ackha, 1477953419.0, 4
+191, [So Bill Weld isn't actually interested in winning, he just wants Trump to lose], 59ltzp, 1477566446.0, 0
+192, [Feel The Johnson], 58hqk1, 1477009118.0, 5
+193, [Gary Johnson can't name the leader of North Korea.], 56b7n6, 1475873808.0, 0
+194, [This feels awfully appropriate today], 57xif4, 1476742298.0, 3224
+195, ['Walking Dead' snuff episode should be a wake-up call], 5a6z0a, 1477875658.0, 3
+196, [Libertarians that are undecided or plan to vote for Gary Johnson, what would it take from Trump to get your vote?], 58n3ha, 1477083999.0, 0
+197, [Socialism Kills More Babies than War], 58aiah, 1476915654.0, 4
+198, [Clinton Campaign Staffers Knew She Was Wrong About DOMA Claim - Clinton made baseless claim Bill Clinton signed DOMA to head off a non-existent effort for a constitutional amendment in 1996], 56ujx4, 1476164240.0, 3
+199, [WikiLeaks Trolls Trump World], 560dks, 1475714111.0, 3
+200, [We can do better.], 56yyrg, 1476233116.0, 1044
+201, [The possibilities...], 59ny77, 1477603626.0, 10
+202, [Lewis Black: Democrats Are Psychotic, Republicans Are Idiotic], 584waj, 1476838606.0, 15
+203, [Serious discussion: For all of you who said Austin Petersen had no chance because experience was more important than positions and speaking ability, how do you explain Evan McMullin?], 58a12s, 1476909491.0, 3
+204, [How Republicans went from the party of Lincoln to the party of Trump, in 13 maps], 57qyn3, 1476644569.0, 5
+205, ['Hamilton' ticket scalping isn't scamming], 5618hv, 1475723812.0, 5
+206, [Courtesy Reminder: /r/libertarian is not /r/the_donald], 57aqer, 1476400174.0, 948
+207, [The burden of proof puts these cases way past "conspiracy"], 56x21e, 1476203035.0, 16
+208, [How do we peacefully stop Rockafeller, Rothschild, Warburg etc.], 5a522l, 1477841719.0, 0
+209, [Gary Johnson has the PERFECT response when confronted about his tax policy.], 59wjct, 1477712972.0, 0
+210, [Tom Woods Show, Science, the Environment, Climate, and the Market.], 59s5fl, 1477650770.0, 1
+211, [Hillary Clinton: Feminism's False Prophet], 59owvn, 1477614372.0, 3
+212, [This is how you kill a perfectly good subreddit.], 59ftnj, 1477487093.0, 0
+213, [in preparation for her highness becoming queen], 598itp, 1477389002.0, 0
+214, [Based Molyneux: "America is not yet a banana republic, but it is one election away from losing it all"], 58pr2d, 1477114078.0, 0
+215, [An email leaked by WikiLeaks Tuesday appears to suggest that Hillary Clinton wants the Affordable Care Act to fail  presumably as a pretense for implementing single-payer, government-controlled health care.], 584hsm, 1476834466.0, 3
+216, [UnReddit/r/Space: The Schiaparelli Lander Will Find Out if There is Life on Mars - Make me Puke, the Spirit, Opportunity & Curiosity Rovers returned massive evidence of life and past civilizations on Mars, see a Martian fox, skulls, living & dead Martians, stone & steel weapons, whales & crocodiles!], 57snx4, 1476669760.0, 0
+217, [Taking Trump voters concerns seriously means listening to what theyre actually saying], 57r52o, 1476648587.0, 0
+218, [Improper Recycling Could Land You in Jail], 57a8lo, 1476394062.0, 2
+219, [Spending is the real tax], 56vyv1, 1476182688.0, 4
+220, [Trump campaign signals mud-slinging endgame as Clinton points to GOP unraveling], 56s6z5, 1476138251.0, 0
+221, [The Red Pill: Cassie Jaye's Fall Down the Rabbit Hole], 56me4q, 1476052142.0, 0
+222, [Non libertarian asking a question. Why git rid of FDA?], 56ijrd, 1475983585.0, 1
+223, [Here's How Backpage CEO Carl Ferrer Supposedly Profited From Child Sex Trafficking], 56c0q4, 1475884090.0, 1
+224, [Sexual assault in the ballot box], 56h67v, 1475965764.0, 660
+225, [Can Gary Johnson Win the White House? Yes! Here's How...], 5aec75, 1477970499.0, 15
+226, [Letter from my child's daycare regarding cost increases caused by local minimum wage ordinance], 59o739, 1477606616.0, 785
+227, [Gary Johnson loses his cool when pressed on his disputed tax policy], 59owei, 1477614239.0, 31
+228, [Muh fiat notes tho], 55lbrb, 1475485889.0, 48
+229, [Funny (but disagreeable) bit on Third Parties on John Oliver], 57w3dx, 1476716912.0, 32
+230, [Wikileaks Nails It!], 58l1o1, 1477047125.0, 1758
+231, [Gary Johnson victory in NM 'plausible,' could force Electoral College deadlock], 5acsgk, 1477955683.0, 43
+232, [Important demographic facts that affect you directly as a libertarian], 5a9hjh, 1477904227.0, 4
+233, [Do we need a Pinochet-like figure to spearhead an overthrow of the government?], 57pfuj, 1476612934.0, 0
+234, [Trump Supporter Pulls A Gun On Black Lives Matter Protesters In Portland [VIDEO]], 57mkr3, 1476574769.0, 3
+235, [My sociology professor handed this out. How many of these would consider to be actual privileges and not just pure "you can afford it yourself and they can't, so you're privileged" fallacious garbage?], 57hd9k, 1476492783.0, 5
+236, [Question for the Johnson-Weld people: is Weld supporting Murkowski (R) over Miller (L) justified because Miller didn't support the Johnson-Weld ticket or unjustified because it hinders getting over the 5% major party threshold?], 5a9wnd, 1477909561.0, 0
+237, [AlJazeera.com Beats the Sunni Shia Drum - Those who go Sunni this and Shia that are in contempt of the edict in the Koran to eschew sectarianism - As well the Koran tells believers to "cast truth at falsehood," Jews not mad Arabs perped 911, the MLK's were with shooters at the murder of John Kennedy], 5a4wbz, 1477838024.0, 0
+238, [I post about God, Liberty, the Constitution, and Austrian economics. I live in the Heart of Dixie. I don't fit into any of the popular molds so I'm bound to offend you somehow. If you don't mind I need some like on my page so I can start spreading my viewpoints around to more people. Thanks!], 59viwg, 1477702600.0, 0
+239, [WikiLeaks reveals: Clinton ally donating to Bill, Foundation], 59mdzl, 1477574917.0, 1
+240, [Green Partys Baraka: Obama has been moral disaster], 59j910, 1477535935.0, 0
+241, [Pat Buchanan Says Was America Better When Races Knew Their Place - The Libertarian Republic], 59cwhr, 1477451339.0, 0
+242, [These videos of people flexing their rights in absurd ways does way more harm then good.], 599jom, 1477404156.0, 2
+243, [US Vote 2016 - Racist Bigot v Imperialist Hawk (x-post /r/WorkersVanguard)], 5963vc, 1477361856.0, 0
+244, [A humble proposal from a not so humble Libertarian...  /r/GreenParty], 58xzuk, 1477246695.0, 2
+245, [What do you think about wealth inequality? Should it be an issue?], 58vbzn, 1477200575.0, 0
+246, [John Oliver - Third Parties. (I'm still voting for Gary but what are your thoughts after watching this segment from John Oliver?)], 58m38d, 1477065084.0, 0
+247, [2016 Johnson Campaign Post-mortem: What are some things you would have hoped to seen done differently?], 58lpy9, 1477057698.0, 0
+248, [Soros Backs Republican Governor?], 58hl20, 1477007508.0, 2
+249, [Want to look good and spread liberty then check out the newly opened Freedom Swag Store. First time shoppers get 10% of their purchase.], 58butc, 1476930040.0, 1
+250, [The Real Reason Libertarians Don't Matter], 586mgu, 1476856333.0, 0
+251, [The World Health Organization is Wrong on Soda Taxes], 57pfh3, 1476612777.0, 2
+252, [Armed Trump Supporters 'Protest' Outside Virginia Democrat's Campaign Office [VIDEO]], 57mjfb, 1476574252.0, 0
+253, [Muh railroads], 57fp20, 1476469980.0, 1
+254, [Becoming a Left-Libertarian: A 10-Step How-To Guide [satire]], 57fcw5, 1476462317.0, 1
+255, [Five reasons why I'm boycotting the vote], 573hxu, 1476298933.0, 0
+256, [What Id Like to See Gary Johnson Say to Bernie Sanders Supporters], 56dead, 1475899914.0, 0
+257, [This subreddit focus on HRC...], 56aiog, 1475860745.0, 1
+258, [[Weird] NY Times Interview from Wed, Gary Refuses (?) to name North Korea's Leader], 566bq5, 1475801044.0, 0
+259, [What would a Libertarian do about unwanted/unplanned childbirth in a population?], 561flq, 1475726044.0, 3
+260, [A Progressive, A Libertarian, and a Conservative walk into a bar... and they all agree that all drugs should be legalized, except for the conservative. [Part of a 2012 Debate between Anna Kasparian, Austin Petersen, and J.P. Freire]], 561baj, 1475724685.0, 1
+261, [Federal Agency Pushed Law Enforcement to Scan License Plates of Gun Show Attendees], 55pdia, 1475551028.0, 3
+262, [Confrontational Jill Stein Interview with UpFront Al-Jazeera TV 30th Sept 2016], 55p95y, 1475549664.0, 0
+263, [Why Libertarians Voted For Bernie Sanders], 55opvh, 1475543604.0, 0
+264, [The folks over at /r/The_Donald are very concerned that electronic voting systems nation wide are compromised by a "fractional voting" scheme and have begun taking action.], 592zqk, 1477316626.0, 12
+265, [To ID, or not to ID...], 58l2zu, 1477047637.0, 103
+266, [Footage Of Lesbians and Gays From The 1950s -- It's amazing how much attitudes have changed], 5945v3, 1477339906.0, 58
+267, [The ACLU Counts the Ways Trump Would Violate Civil Liberties], 5adwhi, 1477966365.0, 12
+268, [Poll: Who won the final presidential debate?], 58fdb3, 1476972335.0, 8
+269, [GLENN BECK: 'Donald Trump is the right's Anthony Weiner'], 56ijjy, 1475983512.0, 6
+270, [Thanks Obama (premiums on a sharp increase)], 597pxp, 1477379128.0, 1494
+271, [The Donald finds direct evidence of the Hillary campaign funding violence at Trump events. Campaign expense show Payment to Zulema Rodriguez from Clinton campaign 11 days before violence at Chicago rally she bragged about on video.], 581rzh, 1476790793.0, 79
+272, [Trump wants to torture children and Hillary wanted to arbitrarily drone someone who never committed a violent crime BUT GARY DOESN'T KNOW WHAT ALEPPO IS GEEZ WHAT A FUCKIN JOKE!], 55ol03, 1475542079.0, 44
+273, [Only Difference Between SJWs, Alt-Righters Is Which Identities They Hate], 591z2w, 1477301089.0, 31
+274, [When you try to bring a different idea on r/Hillaryclinton], 59i1nj, 1477523539.0, 349
+275, [Under Intense Pressure to Silence Wikileaks, Secretary of State Hillary Clinton Proposed Drone Strike on Julian Assange], 55nef3, 1475526359.0, 140
+276, [The $100 Million U.S. Government Fish Farm Nobody Wants], 5aeyq3, 1477976517.0, 3
+277, [Here I Am], 5a0i10, 1477777578.0, 0
+278, [10 Facts About Donald Trump | Donald Trump jr ,Donald Trump Father and more...], 59vj3m, 1477702664.0, 0
+279, [California Prop 64 to Legalize marijuana explained in objective detail], 59pocw, 1477622322.0, 0
+280, [Make America Boom Again: How we can bring back supersonic flight], 59owlo, 1477614294.0, 0
+281, [Please come join Bit Bastion on slack!], 59ogtc, 1477609649.0, 0
+282, [mass transit], 59miv7, 1477577389.0, 0
+283, [Kyle Responds To Jill Stein's Answer On The Drug War], 59ajwe, 1477424473.0, 0
+284, [Heres Why Socially Conservative Trump-Backer Joe Miller Decided to Run As a Libertarian], 58p7zw, 1477108139.0, 0
+285, [Don't let these MPs block Brexit!], 5862wj, 1476850606.0, 0
+286, [Interview with Joe Peacott (of BAD Press) on Individualist Anarchism], 57yjhs, 1476753522.0, 0
+287, [your second choice?], 57prrw, 1476618258.0, 0
+288, [The Strange Sympathy of the Far Left for Putin], 57mtbq, 1476577859.0, 0
+289, [Libertarianism.org Podcast Episode 156: Explaining the Rise of Donald Trump (with Ben Domenech)], 57gwzt, 1476487701.0, 0
+290, [Three Infuriating Podesta Emails on Wikileaks], 57ffec, 1476464031.0, 0
+291, [[Reason] "Bob Dylan Is the Shakespeare for Our Time" -Penn Jillette], 57atif, 1476401161.0, 0
+292, [For the Good of the Nation: The Ultimate Gary Move.], 57afi6, 1476396561.0, 0
+293, [Part 2: What's At Stake With the Proposed CDC Rulemaking [proposed "forced vaccinations"] That Has An Open Comment Period Until October 14, 2016?], 56ymyx, 1476229441.0, 0
+294, [Two left wing idiots!], 56ilh1, 1475984150.0, 0
+295, [Public University Foists Heavy Security Fee On College Republicans To Host Milo], 56d5zn, 1475897242.0, 0
+296, [Whenever people say they need the government to make laws to stop discrimination], 56cq77, 1475892143.0, 0
+297, [Is this real?], 560dne, 1475714136.0, 0
+298, [Why only Nixon could go to China and Clinton finish the Reagan Revolution], 55wt2w, 1475656574.0, 0
+299, [What the Heck!!! Louisiana isnt letting immigrants get married], 579kaz, 1476383114.0, 16
+300, [Prohibit politicians from voting ... as they're supposedly our public servants, not equals or masters.], 5ae3is, 1477968193.0, 0
+301, [Obama wins right to indefinitely detain Americans under NDAA  RT], 5a3qtc, 1477818679.0, 2
+302, [Man, are they scared...], 5a2p8r, 1477804952.0, 4
+303, [WSJ : Not a single registered lobbyist has raised money for the Republican presidential nominee, according to Trumps FEC filings.], 59xpvy, 1477726580.0, 4
+304, [Eight is enough justices - I wish I had thought of this], 59uekt, 1477690189.0, 3
+305, [Libertarian Party Is A 44-Year-Old Virgin Trekkie ... and here's how we can pop its cherry!], 59keay, 1477548194.0, 0
+306, [Michael Moore Explains Why TRUMP Will Win - YouTube], 59hqq3, 1477520186.0, 0
+307, [Trump Victory is in Your Power], 5842vd, 1476829821.0, 0
+308, [Trump supporters, what do you believe in?], 57twr3, 1476684453.0, 0
+309, [Goldwater Girl], 56uyhm, 1476169127.0, 3
+310, [The latest Trump embarrassment should be no surprise], 56mm3l, 1476055326.0, 3
+311, [Open Letter to Governor Mike Pence], 56ktk2, 1476017183.0, 3
+312, [Brexit will be good for the UK in the long run.], 569jn8, 1475841283.0, 5
+313, [The Public Shaming of Englands First Umbrella User], 55njg3, 1475528651.0, 3
+314, [Libertarian lurker who just watched Trump's Gettysburg speech. Donald Trump is a closer. He has my vote. [x-post r/the_donald]], 58uqd4, 1477193008.0, 0
+315, [Rockin my new #Libertarian attire on campus  #GaryJohnson2016 #GaryJohnson #JohnsonWeld2016 #JohnsonWeld #LibertarianParty #LP #LPF], 5aefd2, 1477971324.0, 5
+316, [#FightForHer In Wars Foreign and Domestic #DraftOurDaughters #DieForHer], 59ylqu, 1477739192.0, 6
+317, [Gary Johnson Responds to Evan McMullins Hes-Not-a-Real-Libertarian Critique: Ive Been the Nominee of the Libertarian Party Two Cycles!], 59pdgi, 1477619172.0, 6
+318, [Donald Trump on Libertarianism: "I like it"], 591uae, 1477299266.0, 0
+319, [But who will build the roads?! Facebook and Google are building an 8,000 mile fiber optic cable from LA to Hong Kong], 57ggq3, 1476482153.0, 4
+320, [Jailing Hillary!? Trumps Outrageous Case for Dictatorship], 56tbt0, 1476150932.0, 6
+321, [Man Who Got Life for Dealing Meth to Pay His Child's Medical Bills Had Sentence Commuted by ObamaOnly to Be Controlled by a Rigid Christian Halfway House], 566lyk, 1475804266.0, 5
+322, [This is why we can't have nice things], 58v8z1, 1477199510.0, 15
+323, [The Federalist: No, Hillary Clinton, The Supreme Court's Heller Decision Wasn't About Toddlers], 58hcsa, 1477005036.0, 910
+324, [Mitt Romney Libertarians.......], 59ndgq, 1477595045.0, 13
+325, [The two major parties are right.], 57bg1b, 1476408039.0, 13
+326, [Trump explains why the First Amendment has too much protection for free speech], 595kua, 1477356561.0, 62
+327, [Anyone else sick of people portraying these partisan, statist morons as intellectuals?], 57xwwo, 1476746946.0, 455
+328, [Yeah, Gary Didn't Know Where Aleppo Was, But Jill Stein Supported Bombing It.], 56n4dc, 1476061818.0, 37
+329, [Gary Johnson Mourns Harambe: I'm sure it was a difficult decision for everyone involved. I mean Why did they have to kill the gorilla? But then, really, whos to say?], 59vvcn, 1477706097.0, 10
+330, [One of my biggest pet peeves when it comes to Hillary Clinton - "I take responsibility for that mistake"], 55obbt, 1475538964.0, 9
+331, [HIDDEN CAM: NYC Democratic Election Commissioner, "They Bus People Around to Vote, There is a Lot of Fraud"], 56xbvp, 1476209652.0, 1287
+332, [Then vs. now.], 57hgyd, 1476493889.0, 155
+333, [Trump Gave a Solid Performance in the Third Debate], 58id0p, 1477015589.0, 0
+334, [Putin: West responsible for Middle East instability and terrorism in Europe], 57blr9, 1476409768.0, 6
+335, ["Weld insisted he still supports Johnson, but... is now interested primarily in blocking Trump... and then potentially working with longtime Republican leaders... to create a new path for the party after the election."], 55x8kt, 1475662276.0, 6
+336, [Libertarians for Trump Sold Their Soul for Nothing], 56o1ec, 1476072944.0, 58
+337, [Enough with the "real" Libertarian elitism], 5784s4, 1476355881.0, 38
+338, [Gary Johnson: "Why Did They Have to Kill Harambe?" [VIDEO]], 5aai6n, 1477918096.0, 12
+339, [I'm thinking of voting for Trump. Someone please talk me out of it!], 5agilk, 1477993604.0, 1
+340, [Famous Anti Libertarian], 5acpn7, 1477954920.0, 0
+341, [Donald Trump prolongs war on First Amendment: "Our press is allowed to say whatever they want"], 5971iu, 1477371600.0, 4
+342, [The first time I heard Doctor Paul when I was 14. His answer to the last question stuck with me as so nuanced that when I started paying attention to politics 6 years later the memory caused me to google his name.], 5958c6, 1477353089.0, 2
+343, [Fact-checking the Economics Behind Third Clinton-Trump Debate.], 58zg6e, 1477270439.0, 2
+344, [Hillarys New Constitution: Clinton explains how shell gut the First and Second Amendments.], 58nipi, 1477089241.0, 0
+345, [Wow....just....wow], 58lvtr, 1477060799.0, 0
+346, [WeAreLibertarians: Extremely strong criticism of Trump for his implications about voter fraud.], 58h0mi, 1477001257.0, 3
+347, [[OC] Mods suppress the truth. (Reddit Meta)], 588fcn, 1476879092.0, 4
+348, [Blitzed From r/WorldNews, The Assassination of Former Prime Minister of Lebanon Rafic Hariri, Beirut, February 14, 2005 - Australian Jew & Mossad spy Ari Ben Menashi aka Joe Vialls aka Alfred Lambremont Webre, is thought to have planted the nuke that killed Mr Hariri and twenty one others that day!], 58563t, 1476841379.0, 0
+349, [Russia has weaponized the American press], 5820ys, 1476794519.0, 0
+350, [Video: JFK Assassination Bullsh*t - Two conspiracies exist side by side, the primary conspirators include Abraham Bolden, GHW & GW Bush, Jim Lehrer, Tosh Plumlee and Alex Jones' CIA op sire, the secondary conspirators are the newshounds, political commentators and CIA plants who spurn the evidence], 57pih6, 1476614086.0, 0
+351, [This is what happens when you try to steal a bunch of money from job creators. Silly New Jersey], 57owb2, 1476604968.0, 3
+352, [Donald Trump, Hawk], 57n6sk, 1476582559.0, 4
+353, [In WW3 News: The CIA is prepping a possible cyber strike against Russia], 57k8rp, 1476529186.0, 0
+354, [False Flags: PH, USS Maine, Maddox & Mason - The US is bombing Yemen using the same pretext that "the other side fired first," they used to nuke Hiroshima & Nagasaki, to institute the Vietnam War, and in 1898 to wage war upon Spain and the Philippines, and to annex Cuba, Hawaii, Guam and Puerto Rico], 57jqxg, 1476521440.0, 0
+355, [Why do so many people here act as if Trump and Hillary are two sides of the same coin?], 57dmzw, 1476433421.0, 0
+356, [[[No lie]] No live money changers something evil went down Matt 21:12. My turn ~~~ MELANIE C Lopez ~~~], 575qxu, 1476326704.0, 0
+357, [I have a question that I really need help with!!!!!!], 571f0s, 1476261501.0, 0
+358, [RIGGED 2016 trailer], 56z7zt, 1476235879.0, 0
+359, [Coming out as neoliberals], 56wz87, 1476200928.0, 2
+360, [BIG GOVERNMENT: Hillary claims she sponsored or co-sponsored 1 piece of legislation every 2.8 days.], 56w3qu, 1476184575.0, 4
+361, [Does Trumps Rise Mean Liberalisms End?], 56tqec, 1476155184.0, 2
+362, [Spineless establishment Republicans care more about their jobs than the future of America], 56k315, 1476004986.0, 3
+363, [The entire philosophy of the United States and US Constitution summed up in 93 seconds.], 56aubm, 1475867693.0, 2
+364, [Gary Johnson: I can't start wars with places if I can't find them on a map], 561gc6, 1475726261.0, 0
+365, [Rigging the Election  Video III: Creamer Confirms Hillary Clinton Involvement], 596rk3, 1477368643.0, 4
+366, [Can we all agree to make an effort to get a quality candidate as the libertarian nomination next cycle?], 58kc6q, 1477037671.0, 0
+367, [Why this radical libertarian is voting Trump], 586jhf, 1476855384.0, 0
+368, [Looks like a mass murderer and sociopathic liar who's willing to exploit hundreds of millions of people for their own personal gain is set to be the next president of the USA.], 56k73k, 1476006774.0, 4
+369, [Libertarians for Gun Control?], 562uv7, 1475743946.0, 0
+370, [I'm disappointed, and I disavow Donald J. Trump.], 56n4ly, 1476061899.0, 122
+371, [Richmond Times-Dispatch Editorial: The case for Gary Johnson gets stronger], 55izpx, 1475455223.0, 25
+372, [More Americans WORK for the GOVERNMENT than in MANUFACTURING. Sad...], 59bqmd, 1477439249.0, 55
+373, [Wikileaks: "Julian Assange's internet link has been intentionally severed by a state party. We have activated the appropriate contingency plans."], 57w7ju, 1476719464.0, 900
+374, [Police Stingrays unfairly impact low-income, black neighborhoods -- report], 58fy2h, 1476984389.0, 12
+375, [Ooof. Jill Stein put Gary on blast through her Twitter feed.], 5788ne, 1476357420.0, 11
+376, [Fueled by Hillary Clinton, White House Debated Nominating Wikileaks Founder for Obama-Controlled Drone Kill List], 565pb4, 1475793763.0, 13
+377, [Bill Weld says he will use Libertarian vice presidential platform to focus fire on Donald Trump - The Boston Globe], 55woqw, 1475654948.0, 15
+378, [A new rallying cry for liberty], 56fnc3, 1475932940.0, 1235
+379, [me irl], 569ux7, 1475846522.0, 93
+380, [Muh Roads!!!], 58865v, 1476875467.0, 264
+381, [Connecting dots with Project Veritas], 59syzj, 1477663423.0, 8
+382, [U.K. GDP Grows 0.5% After Brexit Vote, Beating Estimates], 59nnm3, 1477599621.0, 6
+383, [Are Gary Johnson and Bill Weld shilling for Clinton? This is ridiculous..], 57v0gp, 1476699077.0, 0
+384, [New slogan], 56pd4h, 1476090381.0, 8
+385, [Empirical Damage from Trumps Remarks: In summary, Trump has lost, Clinton will win big, and the Libertarian Party will become a federally recognized major party.], 56otay, 1476082874.0, 7
+386, [FiveThirtyEight: What Went Wrong For Gary Johnson], 594x4z, 1477349712.0, 20
+387, [Leaked Emails Show That Trump Was a Tool Used by the Hillary Campaign From Day One], 56ken6, 1476010038.0, 23
+388, [From r/funny], 56gdls, 1475950285.0, 39
+389, [If Gary Johnson does not reach 5%, do you think the LP will nominate a more or less principled libertarian in 2020?], 59g9vk, 1477495458.0, 11
+390, [On Christopher Columbus, the Far Left Is Correct | Bryan Caplan], 56x3hb, 1476204088.0, 15
+391, [My sisters friends are turning her into a liberal.], 578106, 1476354399.0, 13
+392, [SNL Roasts Trumps Audio Leak: Grab em by the Pussy!], 56me9x, 1476052201.0, 26
+393, [Would you share this one?], 59y8y0, 1477733894.0, 84
+394, [A whole lot of triggering among progressives going on at The Free Thought Project right now], 569b0k, 1475837687.0, 40
+395, [Spain Hasn't Had A Government In 300 Days And Economy Is Booming], 583ons, 1476824996.0, 1442
+396, [4 Things Conservatives Get Right About Guns], 5agxjm, 1477998756.0, 5
+397, [Gary Johnson says "Im an Idiot, the Dumbest Guy Youve Ever Met In Your Life"], 59qf9h, 1477630120.0, 0
+398, [UnReddit/r/TheDonald, False Moslems Riot in Rome - Jews infiltrated German politics then perped the H'caust in the name of the German ppl, like they infiltrated US politics perped 911 then established the bogus War on Terror, like they infiltrated Turkish politics & perpetrated the Armenian Genocide], 592qa0, 1477312090.0, 0
+399, [Sex, Lies and Audiotape: Beginning with JFK, Top Democrats Have Abused Women for Decades], 57mpp9, 1476576585.0, 8
+400, [How Libertarians Cripple Themselves By Radicalism], 56wcwu, 1476188470.0, 6
+401, [Immigration reform requires us to realize that illegal immigration is a black market and the only way to fix a black market is with a free legal market.], 55yvqs, 1475693504.0, 6
+402, [Clinton on Assange: "Can't We Just Drone This Guy?"], 55p5aj, 1475548444.0, 5
+403, [Hillary's October Surprise Happening?], 55irmq, 1475452210.0, 7
+404, [Go Hillary! Go Trump! Go Gary Johnson!], 57gwfl, 1476487516.0, 50
+405, [Bill Clinton at the Debate.........], 56pv4q, 1476096827.0, 193
+406, [Police couldnt help his grandmother after a hurricane. He called Papa Johns instead.], 57belb, 1476407622.0, 17
+407, [[discussion] why is the libertarian party so right leaning?], 58eqbq, 1476962551.0, 8
+408, [Why are open borders a part of the Libertarian platform.], 57u94w, 1476688862.0, 6
+409, [Innocent woman forcibly stripped by male Ohio police officers and left nude in a jail cell for SIX HOURS.], 55yz87, 1475695430.0, 1374
+410, [Clinton campaign mocks Catholics, Southerners, needy Latinos in emails], 57z7me, 1476760491.0, 13
+411, [Indian PM Narendra Modi Buys Into the Brisbane Indian Bus Driver Burning Affair - The incident has all of the hallmarks of a False Flag, whereas Indian staff at the local Brisbane supermarket firstly spat into a purchase at the deli counter, then threatened me with a knife after I made a complaint], 5a90vj, 1477898654.0, 0
+412, [Presidential Election Survey - Sociology Project], 5a0bfo, 1477774561.0, 3
+413, [The Senate Should Refuse to Confirm All of Hillary Clinton's Judicial Nominees], 59wmyx, 1477714056.0, 1
+414, [Who drinks (drank) Yuengling?], 59r4f9, 1477638065.0, 4
+415, [The Harsh Reality of Obamacare's Premium Hikes], 59q2us, 1477626486.0, 4
+416, [Cheryl Mills Tells Podesta "We Need To Clean This Up - Obama Has Emails From Her" | Zero Hedge], 59jhpm, 1477538467.0, 1
+417, [What Pisses Me Off About Hillary Clinton's Support], 59dhw0, 1477457644.0, 0
+418, [After reading insurance premiums are going up on average by 25%], 599mve, 1477405793.0, 1
+419, [Top University Stole Millions From Taxpayers By Faking Global Warming Research], 596ndk, 1477367459.0, 3
+420, [Hillary Clinton Wants War - THE WORST OF THE PRESIDENTIAL ELECTIONS], 591vas, 1477299645.0, 4
+421, [Why Austerity Works and Stimulus Doesnt], 58jq1o, 1477030238.0, 0
+422, [Insightful and knowledgable breakdown of the debates. I'm anti-trump but Hillary is the spawn of satan, and may convert from Johnson to Trump], 57qndp, 1476636739.0, 0
+423, [Libertarian Peter Thiel to Donate $1.25 Million in Support of Donald Trump. I wonder what would happen if Trump wins and Thiel was given considerable influence in the new administration ... or even a seat on the supreme court?], 57phpb, 1476613748.0, 0
+424, [Some of the GOP elected officials who called on Trump to drop out have already changed their mind and said they'll vote for him. What spineless cowards], 57e1ba, 1476438904.0, 3
+425, [Donald Trump Prepares for the Next Debate], 57c5er, 1476415788.0, 1
+426, [Voting ClinTrump?], 57592i, 1476321449.0, 0
+427, [Backlash over Trump's leaked tape is an attack on masculinity], 56zou5, 1476241029.0, 0
+428, [Podesta Middle east playbook emailed to Hillary Clinton in September 2014: These developments are important to the U.S. for reasons that often differ from country to country: energy and moral commitment to Iraq, energy issues in Libya, and strategic commitments in Jordan.], 56wldr, 1476192664.0, 5
+429, [Kennedy Puts Bill Weld Through the Wringer], 5696js, 1475835881.0, 2
+430, [Libertarians: are you worried that libertarians are going to break for Trump at the last minute?], 5612jz, 1475721977.0, 0
+431, [This Movement Isn't About the Presidency], 55pp6k, 1475554628.0, 2
+432, [Donald Trump: Anti-Capitalist | One of the great dangers of the 2016 election is that many Americans will mistake Donald Trump for an advocate of capitalism. Although he is a wealthy businessman, Trump is anti-capitalist in ideology.], 57n9c9, 1476583456.0, 40
+433, [VERY SCARY: one of the world's leading economists is working on TOTALLY eliminating CASH!], 59efin, 1477468297.0, 17
+434, [Rand Paul: Polls showing Clinton ahead are 'designed to suppress turnout'], 59ju6d, 1477542124.0, 42
+435, [Why Are Influential Celebrities Remaining Silent This Election?], 5a6y2b, 1477875360.0, 1
+436, [Seeking Like-Minded Teammates for Online Console Games], 5a3wjl, 1477820991.0, 0
+437, [A political dilettante's call to populate and conquer rural opposition for urban majority vision], 59or3k, 1477612709.0, 0
+438, [Why don't we create our own nation with libertarian ideals at its core? Imagine a state that started off with a crypto currency system instead of the faulty fiat system. Bit Bastion is trying to accomplish this very thing, please join us on October 30th to make this a reality.], 59jeob, 1477537569.0, 1
+439, [At what point does a libertarian legislate trade incentives with foreign countries using a freedom index multiplier of some sort, and is there a moral imperative to do so?], 59h7bq, 1477513301.0, 1
+440, [Libertarians, and Trump], 59a762, 1477417836.0, 0
+441, [x-post from r/GaryJohnson, I made a Gary Johnson Sticker Pack for iOS messenger], 599s25, 1477408711.0, 1
+442, [I made a word cloud from all of Trump's insults], 599g6k, 1477402348.0, 1
+443, [Libertarians, do you eat animals?], 596ztx, 1477371083.0, 0
+444, [2016: Trump or Hillary? (feat. Takeshi Kitano)], 596w52, 1477370008.0, 1
+445, [1st Amendment Confusion...], 592ihq, 1477308766.0, 1
+446, [Don't Let the USA follow Europe's trail], 58x6ih, 1477228069.0, 0
+447, [Putin sounds like a Libertarian would when talking about the US problems.], 58r5en, 1477132644.0, 0
+448, [Donald Trump is America: What the US was doing to the world at large is what Americans now fear Trump might do to the US.], 58og30, 1477099572.0, 1
+449, [Examples of Junk Science: Taxing Treats], 58mhou, 1477073931.0, 1
+450, [Bernie Sanders is a vulture standing over Sam Walton], 58k9bm, 1477036680.0, 1
+451, [The Real Reason Libertarians Dont Matter in Politics?], 587v52, 1476871368.0, 1
+452, [Please take this quick, one-question poll about the 2016 Presidential election - responses are anonymous], 584ev8, 1476833598.0, 0
+453, [Only sure fire chance for calm after the election is for a third party candidate to win], 581nrc, 1476789112.0, 1
+454, [A Libertarian Proposal on US Policy with Syria and Russia that saves lives with less intervention], 57mwtb, 1476579109.0, 1
+455, [Any libertarians here who are pro US military interventions around the world?], 57iesy, 1476504272.0, 0
+456, [WIKILEAKS: THE PODESTA FILES - PART VII. [yes it's /r/the_donald and i don't like them, but... OMG these leaks]], 57gykh, 1476488202.0, 0
+457, [Taste the Sad America, taste the sad.], 57gdsq, 1476481085.0, 1
+458, [Good to see Reddit siding with enterprise], 57dnpo, 1476433704.0, 1
+459, [We're buying some land and starting an independent state using blockchain technology.], 57balj, 1476406443.0, 1
+460, [Libertarian VP Candidate Bill Weld Still Thinks Donald Trump Can Win], 57ajj2, 1476397952.0, 1
+461, [DEBUNK: "I support restricting freedom of movement, restricting property rights and restricting freedom of association until the welfare state is dismantled. / I'm against immigration until welfare programs end."], 57aj8k, 1476397852.0, 1
+462, [Rand Paul Campaign Advert - Strong National Defence], 579kwx, 1476383462.0, 1
+463, [Extinction Level Event - Governments Will Outlaw Internal Combustion Engines], 5772se, 1476341783.0, 1
+464, [RIGGED 2016 trailer], 56zpo1, 1476241292.0, 1
+465, [Between the Red Evil and the Blue Evil who would be worse for the country?], 56vutc, 1476181108.0, 1
+466, [The Conservative Civil War Over Trump (Conservatism vs Nationalism)], 56p5ix, 1476087438.0, 0
+467, [Alex Jones and the Fish People], 56l3vd, 1476023009.0, 1
+468, [If Trump Wins, Any Chance GOPers Defect to LP], 56gglp, 1475952305.0, 1
+469, [George Soross Son Dumps $100,000 Into California Ammo Control Efforts], 56d601, 1475897243.0, 1
+470, [LIVE: Austin Petersen interviews Evan McMullin], 5680b5, 1475819867.0, 1
+471, [The CDC is Pushing to Have the Right to Detain the Sick and Those Who are Un-Vaccinated Here is How to File a Complaint], 566t0x, 1475806423.0, 1
+472, [Bill Weld's Libertarian Mission to Stop Donald Trump], 562yfn, 1475745360.0, 1
+473, [Bill Weld], 55zym0, 1475709371.0, 0
+474, [Hey, Regulators. Hands Off Child Care!], 55zp7x, 1475706158.0, 1
+475, [Forget too big to fail, new concern is that many banks are too weak to survive.], 55zp2w, 1475706101.0, 1
+476, [Is our society too complex to remove the level of government power we currently experience?], 55uaxr, 1475626978.0, 1
+477, [Marxist Cognitive Dissonance: A System Based on the Destructive Forces of Critical Theory.], 55ralq, 1475575592.0, 1
+478, [When Bill and Hillary Crossed the Picket Line as Yale Law School Students], 55qm6b, 1475565957.0, 0
+479, [How Hostile Poll-Watchers Could Hand Pennsylvania to Trump], 55p4zo, 1475548347.0, 1
+480, [Penn Jillette Could Absolutely Win a Presidential Election], 59i8cd, 1477525508.0, 4
+481, [All The Reasons For A Liberal Progressive to Vote For Gary Johnson, in memes], 58o0f4, 1477094742.0, 5
+482, [Rand Paul Denounces U.S. Election Rigging Claims], 58nd8y, 1477087422.0, 8
+483, [I'm sorry if it's not in the heart of this sub, but I need some help.], 588foj, 1476879232.0, 6
+484, [Canadian Students Demand Censure of Bigoted Professor Who Refuses to Use Correct Gender Pronouns], 57tvam, 1476683967.0, 7
+485, [I want to write in Bill Weld because he's the candidate I'm really passionate about. Am I alone?], 573e9n, 1476296740.0, 0
+486, [Spontaneous Cooperation Is Why Your Life Rocks], 56toz2, 1476154787.0, 8
+487, [Why isn't Gary Johnson a libertarian?], 56cjwl, 1475890155.0, 7
+488, [Clinton Will Be Installed As More Effective Evil; We are Having Wrong Conversations], 55v89y, 1475637406.0, 4
+489, [NCS: Hillary Clinton Found Dead of Apparent Suicide], 589kdc, 1476901511.0, 0
+490, [Governor of Maine: maybe we need a Donald Trump to show some authoritarian power], 56yyx3, 1476233163.0, 7
+491, [The most accurate political compass ever], 56ulji, 1476164761.0, 0
+492, [LIVE Stream: WikiLeaks/Assange October Surprise Press Conference on Hillary Clinton (10/4/16)], 55sm7l, 1475600575.0, 8
+493, [CNN Anchor Cuts Off Jill Stein After She Questions Hillarys Competency For The Presidency], 5763h7, 1476330408.0, 77
+494, [Rigging the Election - Video II: Mass Voter Fraud], 585ifg, 1476844835.0, 343
+495, [The polls are owned by media companies, which are owned by either Republican or Democrat operatives. They are biased. If you vote for Gary Johnson, he will become president and we can end the 2 parties. He only needs 35% of the votes in a 4 person race.], 56h8wf, 1475966888.0, 52
+496, [Mike Pence urged by Libertarians to resign from GOP ticket, endorse Gary Johnson], 56tpz1, 1476155076.0, 218
+497, [Donald Trump is A Pussy - Gary Johnson], 56p021, 1476085398.0, 25
+498, [Are Libertarians A Joke? A Rebuttal to Milo Yiannapoulos], 59h7t6, 1477513484.0, 11
+499, [More Confirmation of Clinton Corruption], 589yqg, 1476908498.0, 14
+500, [Johnson losing in Utah. Fourth place. Pick a real libertarian next time], 57tz56, 1476685308.0, 0
+501, [With this whole controversy I really wish that more of us had supported Rand Paul], 56mavk, 1476050753.0, 1109
+502, [Democrat Endorses Rand Paul In Kentucky Senate Race], 58a4pn, 1476910882.0, 1352
+503, [Trumps protectionist policies wreked, 101 years before he was born.], 5a49gk, 1477826459.0, 8
+504, [Donald Trump's Alt-Right Supporters: Internet Abuse Must End], 58pdld, 1477109921.0, 11
+505, [Alex Jones Triggered by Wikileaks' Lack Of "October Surprise"], 55wg18, 1475651758.0, 10
+506, [BBC sacked me for being a white man: Radio 4 comic was told you have to go. We need more women and minorities], 55jjs1, 1475462227.0, 8
+507, [Stein Makes Bank on Investments in Same Businesses She Rails Against], 59o4v2, 1477605903.0, 29
+508, [Libertarians voting for Trump], 57dzb2, 1476438085.0, 22
+509, [The vacuum of justice], 58xezn, 1477232463.0, 2212
+510, [What is Aleppo?], 57ey30, 1476453347.0, 153
+511, [Poll Finds Young Americans More Open to Socialist Ideas], 59vdvb, 1477701136.0, 5
+512, [Each day earlier that Deficit Day falls costs us another $300 million per year. Forever, until the debt is paid.], 59p55y, 1477616778.0, 5
+513, [So apparently now it's cool for liberals to be as hawkish on Russia as the Gipper was...], 59lm09, 1477563472.0, 6
+514, [WOW COLIN POWELL (A REPUBLICAN!!!) IS VOTING FOR CLINTON!], 59e4ua, 1477464776.0, 0
+515, [What if we all just vote for Rand Paul anyway? (Joking, asking advice)], 59brsw, 1477439608.0, 5
+516, [Quick word about Bill Weld.], 59a1b3, 1477414345.0, 0
+517, [Smaller Engines... Big Problems - Forcing people to buy electric cars will have the effect of forcing people to not buy cars, period.], 58asgg, 1476918859.0, 5
+518, [If you think it's more important to dismantle the so-called "military-industrial complex" than to obliterate the welfare state...], 585636, 1476841374.0, 0
+519, [Yes, All White People Raised in America are Racist.], 57ztbp, 1476766856.0, 5
+520, [Rigging the Election - Video I: Clinton Campaign and DNC Incite Violence at Trump Rallies], 57yec9, 1476752094.0, 3
+521, [At what point does an individual earn human rights?], 57u00a, 1476685618.0, 3
+522, [Opinions on trans* bathroom laws?], 57q0x6, 1476622644.0, 4
+523, [Justice Department decides to pass on prosecuting EPA officials over Gold King spill], 57mraq, 1476577135.0, 4
+524, [Reminder: there's nothing wrong with voting for Trump on the grounds that his foreign policy is much better than Hillarys], 57id7b, 1476503773.0, 0
+525, [Was just thinking Trump pwns the GOP], 56xx5h, 1476220494.0, 4
+526, [VOAT: Foul Mouthed Tirade From Paul Joseph Watson, who blames Jeb Bush's family for "ripping apart" Iraqi lives - Notwithstanding the sins of the Bush Crime Family, Watson was sponsored by Alex Jones on the basis of his being a committed 911 Truther, a role he abandoned to become a shill for the NWO], 56k929, 1476007581.0, 0
+527, [Is the sales tax theft?], 56fgsy, 1475929593.0, 0
+528, [Libertarianism, taken to its Logical End, must permit Public Nudity, Public Intercourse, and Public Masturbation], 561y3f, 1475731978.0, 0
+529, [Anyone want to debate a statist?], 55syey, 1475607904.0, 5
+530, [Are Libertarians asking for government welfare?], 55ozjm, 1475546612.0, 0
+531, [[Topic] Do you think the rise of the libertarian party can be linked to the secularization of America?], 5a453p, 1477824538.0, 7
+532, [It's too bad Gary Johnson is such a dipshit. Ron Paul could have done so much more if the timing worked out.], 58r8dq, 1477133969.0, 0
+533, [Libertarian Leaning Judges.], 56c75k, 1475886125.0, 9
+534, [Is there a song more libertarian than All I Want by The Offspring?], 55zed1, 1475702124.0, 6
+535, [Hey r/libertarian, as a progressive dude who uses this sub for alternate opinions, I'd like to commend ya'll for getting Trump off your side-bar. He doesn't represent you guys in any way, shape or form.], 57u7ha, 1476688275.0, 38
+536, [Look who I met in Atlanta today!], 5632jl, 1475746961.0, 596
+537, [Why Gun Control Won't Fix Inner City Violence - Another Colion Noir Video], 594ykk, 1477350153.0, 764
+538, [Also, biodegradable hemp plastics.], 55k8bj, 1475470773.0, 39
+539, [My reaction as a normal American], 58vn64, 1477204628.0, 51
+540, [Americans have a right to know that Hillary Clinton employs an illegal network of domestic political terrorists that use violence to influence public opinion. Democracy and freedom are not compatible], 583g6c, 1476821918.0, 281
+541, [There'd be a higher incentive to build privatized roads for individual profit than there would be in a society where all labor is subsidized equally.], 585b4z, 1476842785.0, 71
+542, [Wikileaks cables say Soros-linked Voting Machine NOW USED in 16 US states rigged the 2004 Venezuelan election!], 58nd00, 1477087346.0, 160
+543, [Trump Graded "F" on economics], 58pgr8, 1477110909.0, 10
+544, [Reasons Clinton is better than Trump (from a libertarian perspective)], 56z6cv, 1476235400.0, 0
+545, [Donald Trump's Tape: Yep, He's Talking About Sexual Assault], 56ftvw, 1475936676.0, 13
+546, [We Need to Abolish the FDA. Here's Why.], 55pz1p, 1475557811.0, 11
+547, [The RNC Has Reportedly Closed the Door On Donald Trump, and Withdrawn Funding], 56keqe, 1476010082.0, 24
+548, [Milo Yiannopoulos Admits He is Not Really a Libertarian], 58n37q, 1477083903.0, 72
+549, [Washington Times Poll - who won the presidential debate?], 56t8cf, 1476149908.0, 989
+550, [Dilbert Creator Scott Adams now supports Gary Johnson], 56jukx, 1476001357.0, 349
+551, [Prohibit government workers from voting ... as a way to shrink government.], 5a7fll, 1477880788.0, 28
+552, [Clinton's False Assurances About Her Respect for the Second Amendment], 58i8ua, 1477014391.0, 31
+553, [Hey Google, your bias is showing again.], 55j510, 1475457082.0, 98
+554, [Don't Throw away Your Vote], 58l794, 1477049363.0, 442
+555, [Chickens who sacrifice liberty for security deserve neither: a musical puppet parable], 59obwx, 1477608163.0, 9
+556, [But without the government, who will run over protestors who are upset with government?], 58jlkk, 1477028818.0, 7
+557, [Watch Leftist Students Say Science Is Racist and Should Be Abolished], 57qmj1, 1476636084.0, 19
+558, [Gary Johnson the Classical Liberal], 597zil, 1477382327.0, 11
+559, [Leaked memo shows Clinton was provided questions ahead of interview], 566yqb, 1475808213.0, 14
+560, [Gary Johnson doesn't rape.], 56f8gi, 1475925671.0, 241
+561, [Sen. John McCain (R) withdraws support for Donald Trump], 56j1rl, 1475990078.0, 326
+562, [FiveThirtyEight has rand at risk of losing his senate seat?], 5aa1a2, 1477911213.0, 4
+563, [Kratom Whitehouse.gov petition], 5a895v, 1477889944.0, 6
+564, [Donald Trump and Ronald Paul - What Must Be Done], 5a849w, 1477888406.0, 0
+565, [Cynic on the email investigation], 5a1f14, 1477789584.0, 7
+566, [[Question] Anarchists and libertarians of Reddit, do you want an ideological revolution before libertarianism?], 59tuit, 1477681877.0, 5
+567, [Gary Johnson flames out], 59fyky, 1477489453.0, 6
+568, [Anyone noticed Republicans changed who they want war against within one election cycle?], 58dlo1, 1476949004.0, 4
+569, [Instead of raising the price of water, government hands out money ($1.5/sqft) to home owners to remove lawn.], 57tg4u, 1476678843.0, 4
+570, [Power to Psychopaths, David Icke Video, Oct. 14, 2016 - At 6.00 minutes Icke says, "she [Hillary Clinton] would have known Saudi Arabia is funding ISIS" - What a lot of bullsh*t, it is well known ISIS which stands for Israel Secret Intelligence Service, is funded by George Soros and armed by the US], 57p8ir, 1476609900.0, 0
+571, [A T-SHIRT THAT TRULY REPRESENTS AMERICA], 56ms4y, 1476057551.0, 0
+572, [Compulsory Education is Jail for Innocent Kids], 56le21, 1476030151.0, 5
+573, [LISTEN: 2005 Audio Of Trump Talking About Women Is Awfully Vulgar], 56j28b, 1475990253.0, 5
+574, [Polish women go on nationwide strike against proposed abortion ban], 55rt47, 1475583384.0, 5
+575, [Do Barack Obama and Hillary Clinton support neo-Nazis in Ukraine?], 55mj47, 1475506745.0, 4
+576, [Does the Road to the White House Run Through Gary Johnson's New Mexico? - Hit & Run : Reason.com], 55kbq2, 1475472005.0, 6
+577, [What is bleeding heart libertarianism?], 55j9h8, 1475458687.0, 6
+578, [Should I vote for marco rubio or paul stanton?], 5ag3f0, 1477988538.0, 0
+579, [Libertarian/ANCAP Children's Books?], 5aec9c, 1477970514.0, 3
+580, [Third anarchist jailed for refusing to testify before secret grand jury  RT - FOIA reveals jury was put together two months before alleged 'crime'], 5a3qt5, 1477818678.0, 4
+581, [Hillary Clinton FBI Investigation Reopened! | True News], 5a138x, 1477785665.0, 0
+582, [Nomi Prins: The Left/Progressive Case Against the Fed], 59y9aa, 1477734027.0, 1
+583, [On the Libertarian Party Accepting Federal Election Funds from The Libertarian Party Platform], 59wt04, 1477715865.0, 0
+584, [My Halloween email led to a campus firestorm  and a troubling lesson about self-censorship], 59wmtm, 1477714016.0, 0
+585, [The comment section on this post is entirely pro 3rd party. Occupy democrats is crumbling from the inside], 59si0u, 1477655648.0, 4
+586, [Blitzed From r/WorldNews - Reply to Assertion the Ukraine Crisis was Engendered by Russia, with links that show George Soros financed it all and has been proxy Emperor of that place since 2014 - Soros was with the Nazis in Budapest in 1944, a period he describes as "the happiest time of his life"], 59m5i8, 1477571051.0, 0
+587, [Students at UC Berkley block bridge in name of safe space.], 59l2x5, 1477556537.0, 1
+588, [American Respect for Police Hits a 48-Year High], 59572q, 1477352694.0, 2
+589, [In retrospect, how did Austin Petersen lose the Libertarian nomination to Gary Johnson?], 591yqy, 1477300954.0, 4
+590, [What happens to the Libertarian party in 2020 if the Republicans nominate a more Libertarian candidate?], 58l62x, 1477048880.0, 2
+591, [Trump Unchained], 58ixhn, 1477021547.0, 2
+592, [After it's all over, can the nation unite?], 58gquw, 1476997891.0, 4
+593, [Is hacking the election easy? Cybersecurity Expert view on hacking the presidential election during interview on Fox News], 58gp3w, 1476997276.0, 3
+594, [So You Want to Vote Third Party], 58d7im, 1476944378.0, 2
+595, [Best summary of the Presidential Race], 5881xw, 1476873855.0, 3
+596, [Donald Trump: The Frankenstein's Monster of the US Elite | Owen Jones Talks...], 57n8su, 1476583267.0, 0
+597, [Bill Kauffman - America First], 57md6h, 1476571842.0, 0
+598, [Why do I keep hearing that libertarianism leads to fascism?], 57kry9, 1476538659.0, 0
+599, [College Students Sign Petition to Imprison All Registered Gun Owners!], 57i7v7, 1476502058.0, 3
+600, [Chicago police used Geofeedia, the TweetDeck for cops under fire from ACLU], 57gmun, 1476484270.0, 0
+601, [Rand Paul Campaign Advert - Louisville Barnburner], 579lv5, 1476384032.0, 2
+602, [I have had ENOUGH the time for change is NOW (X-POST)], 5788i0, 1476357350.0, 0
+603, [Rigged 2016 - Download by clicking on file->Save page As], 5722fq, 1476270385.0, 2
+604, [October surprise? Americans support a US engaged with world, survey finds.], 56v236, 1476170348.0, 0
+605, [USDA Wrongly Targets Wyoming's Food Freedom Act - Reason.com], 56k15j, 1476004168.0, 2
+606, [The Good Right is Bad and Wrong], 56gero, 1475951066.0, 0
+607, [Hurricane Matthew and Why We Should Embrace Price Gouging - Rad Markets], 56c8qq, 1475886622.0, 0
+608, [Challenge for the Candidates], 56c3zj, 1475885139.0, 2
+609, [Stossel and Ron Paul discuss Hillary and Trump], 569mec, 1475842451.0, 4
+610, [Kaine: Gary Johnson has Profound Misunderstanding of Global Affairs"], 5695md, 1475835525.0, 1
+611, [How Howard Stern Owned Donald Trump], 567u8u, 1475817890.0, 4
+612, ["Libertarian" Party VP admits he is not a libertarian.], 567le9, 1475815073.0, 0
+613, [Ron Paul Liberty Report - Free Speech Victory: The 'Ron Paul' Sign Can Stay!], 566c0m, 1475801140.0, 2
+614, [Actor Jamie Foxx visits Venezuela President Maduro], 563fqe, 1475752267.0, 3
+615, [Bill Weld: Media Is Publishing Made-up Stories About Me], 561j08, 1475727070.0, 0
+616, [Austin Petersen Spot on with His Analysis of Ron Paul], 560ulz, 1475719441.0, 2
+617, [Requesting a pinned definition of libertarianism as the top post], 56025q, 1475710526.0, 0
+618, [Aborting the Trump Revolution], 55yf6i, 1475682742.0, 0
+619, [Challenges Of Being A Third Party Candidate], 55tjbi, 1475617447.0, 1
+620, [The Quad : The case for liberty], 55nk6d, 1475528953.0, 2
+621, [Sukanya Samriddhi Yojana], 55mp34, 1475510774.0, 2
+622, [Reframing - the progressives secret weapon], 55lkkn, 1475489514.0, 3
+623, [Shock As Texas Jury Sides With Cannabis Grower Who Killed SWAT Officer], 5a04nx, 1477771009.0, 5276
+624, [Huffington Post: Muhammad was a Feminist (also posted on /r/conservative)], 5a0csq, 1477775192.0, 16
+625, [Anti-Johnson Libertarians' Ever-Moving Goalposts for the 2016 Campaign], 57cmxr, 1476421181.0, 39
+626, [Can someone justify to me why I should vote for Gary Johnson], 58w2vo, 1477210627.0, 9
+627, [Austin "The Retard" Peterson Endorses Nuclear Holocaust Because "Drumpf Is a Fascist" Therefore Death is Preferable To His Presidency], 57kyo5, 1476542609.0, 0
+628, [Could Blue Lives Matter bill be widened to include resisting arrest?], 56sgus, 1476141550.0, 10
+629, [A window into the $15 wage hypocrite's world], 57m9wi, 1476570530.0, 12
+630, [In Defense of Gary Johnson But Bill Weld is a different matter], 55m0n9, 1475496479.0, 13
+631, [The Republican Party Should Formally Endorse Johnson & Weld], 56mazw, 1476050796.0, 310
+632, ["Rigging the Election - Video I: Clinton Campaign and DNC Incite Violence at Trump Rallies"], 57yab5, 1476750944.0, 198
+633, [Trumps War on Amazon.com Explained --- On February 2016, Donald Trump began a public relations war against one of Americas most successful companies. He directly threatened Amazon.com and its founder Jeff Bezos with political reprisal should he become president.], 57na0e, 1476583696.0, 19
+634, [Look, I Wish I Were Better At This Also], 595i4s, 1477355800.0, 36
+635, [Rigging the Election - Video IV: $20K Wire Transfer From Belize Returned], 59jd38, 1477537136.0, 23
+636, [Neither Trump nor His Message Is Built to Win a National Election], 57a7d9, 1476393576.0, 24
+637, [libertarians for open borders...why?], 579xdn, 1476389645.0, 23
+638, [I wish the conservatives would support the first amendment like the liberals do and the liberals would support for the second amendment like the conservatives do.], 55rw5l, 1475584819.0, 13
+639, [This is not photoshopped], 58c4ue, 1476932954.0, 1834
+640, [Gary Johnson, Trump Can't Win Rally Behind Me to Defeat Hillary], 578dtj, 1476359633.0, 166
+641, [Statement By Gov. Bill Weld Regarding The Final Weeks Of This Election], 59ht6x, 1477520992.0, 56
+642, [If Trump promised federal recognition & money for the Libertarian party in exchange for your Gary Johnson vote, would you make the deal? Why/Why not?], 5a01ei, 1477769018.0, 0
+643, [Little known horror of western imperialism.], 59v66s, 1477698959.0, 7
+644, [Top comment sums it up], 58v0qn, 1477196603.0, 5
+645, [I'm a Libertarian and a Johnson supporter. This was in my Twitter feed, i do nit follow her and have been shadow banned for tweeting against her and about Gary. This makes me sick, they are treating it like a WWE smackdown....], 577lg4, 1476348590.0, 5
+646, [The Strategic Libertarian Case For Supporting Hillary Clinton], 571ws3, 1476268212.0, 0
+647, [The Supreme Court Is Not A Valid Reason To Support Hillary], 591xar, 1477300393.0, 44
+648, [There is not one single Anti Hillary Post within the first ten pages of r/politics], 589ezn, 1476898495.0, 11
+649, [Libertarian Vice President Bill Weld, Endorses Hillary Clinton], 55tgxg, 1475616514.0, 0
+650, [Fox News' Dana Perino On Donald Trump: "I'm Done!"], 57m6lp, 1476569116.0, 24
+651, [Gary Johnsons Aleppo Moments Dont Undo a Smart, Libertarian Foreign-Policy Platform], 56aa7z, 1475855228.0, 62
+652, [Why does /r/Politics need this many moderators? And why are most of them accounts created two weeks ago?], 5acaxe, 1477950464.0, 119
+653, [IMPORTANT: All CTR shills have been identified and posted publicly. The FEC requires these names to be provided publicly.  Xpost /r/The_Donald], 5681tm, 1475820381.0, 45
+654, [Julian Assange: Bravest Nerd in the World], 59aa94, 1477419484.0, 15
+655, [Where Are the Trump Supporting Libertarians Now?], 56ssvn, 1476145311.0, 16
+656, [Reporter who said "F**k it" and promoted legalization is facing 54 years in prison for running the Alaska Cannabis Club], 57qv52, 1476642198.0, 3723
+657, [Where have all the Libertarians gone?], 584q3m, 1476836863.0, 36
+658, [Gary Johnson is the ONLY candidate talking about issues & offering solutions to help the poor & vulnerable], 56ogjp, 1476078154.0, 83
+659, [Why Gary Johnson Is the Only Presidential Candidate Worthy of Consideration], 59fph7, 1477485283.0, 43
+660, [I had the privilege to meet the father of my personal and political ideology a few days ago.], 56k7s6, 1476007059.0, 135
+661, [Reminder: A vote for Gary Johnson is a backdoor vote for Clinton], 59fzw2, 1477490124.0, 0
+662, [Donald Trump rips into possible AT&T-Time Warner deal], 58ulp4, 1477191480.0, 10
+663, [John Stossel: What Both Trump And Clinton Won't Say], 578dde, 1476359432.0, 12
+664, [Judge Andrew Napolitano: If Trump wins, Obama will pardon her. If Hillary wins, she will pardon herself. - So Hillary Can't Go to prison after the elections.], 575mf8, 1476325341.0, 9
+665, [CSM, Why Did the Schiaparelli Mars Lander Crash - Maybe it was a mix of sabotage and bad karma accumulated by the ESA for denying evidence of intelligent life on Mars, and on planet Venus since 1961], 59yeno, 1477736278.0, 0
+666, [Am I a immoral Hypocrite?], 59rjfk, 1477643073.0, 2
+667, [Perspective on ATT's purchase of Time Warner], 59reen, 1477641419.0, 2
+668, [Editor of Austria's Largest Paper Charged with 'Hate Speech' over Migrant Article], 59eah6, 1477466645.0, 3
+669, [Wikileaks: Clinton Ally Emails Suggest Justice Roberts Intimidated Over Obamacare], 59c8k4, 1477444420.0, 5
+670, [[Humor] "Donald Trump is a Dinosaur!"], 599squ, 1477409107.0, 4
+671, [Petition: Don't censor "The Red Pill" in Australia], 597qn2, 1477379374.0, 4
+672, [Trump: Journalists Have Too Many First Amendment Protections], 59759c, 1477372676.0, 4
+673, [Show us your social media account, US may ask visa waiver travelers], 58pk80, 1477111904.0, 3
+674, [The End State: 5 Triggering Events That Would Place the U.S. Under Martial Law], 58og37, 1477099574.0, 5
+675, [NSA Can Access More Phone Data Than Ever], 58l6ul, 1477049181.0, 3
+676, [jim crow law affect poor white people too], 58kiar, 1477039893.0, 5
+677, [Political Action Committee dedicated to overturning Citizens United], 58hhuo, 1477006552.0, 2
+678, [Media Blackout on Claims Against Democratic Operatives], 587y0s, 1476872390.0, 2
+679, [Voter fraud question], 586adh, 1476852748.0, 4
+680, [High school to require all students take breathalyzer test before dances], 57z7m2, 1476760487.0, 4
+681, [The Elite "Have No Idea" - Society Is Near The Breaking Point], 57w2c4, 1476716357.0, 5
+682, [Risks of a free market society?], 57vw78, 1476712976.0, 3
+683, [Seeds of Sanity - Arming society with knowledge since 1776! www.facebook.com/seedsofsanity], 57ppav, 1476617127.0, 1
+684, [As The Election Draws Close And Things Look Bleak, Let's Not Forget Milton Friedman's (praise be) Message To The Libertarian Party], 57h3on, 1476489826.0, 3
+685, [NYPD to Innocent Business Owners: Give Up Your Rights or Get Shut Down], 57bs0i, 1476411687.0, 3
+686, [URGENT: MSM Syria Lies NEED TO BE EXPOSED...Before It's Too Late], 575nw3, 1476325799.0, 4
+687, [Help Spread Liberty to /r/MHOC! - Join the UK Independence Party], 575ev7, 1476323159.0, 3
+688, [Picket Lines Mean Don't Cross! Seven Arrested at Militant Transit Workers Union Picket Line Opposing Privatization in Boston (x-post /r/Leftwinger)], 5747o4, 1476309839.0, 3
+689, [The CPS publishes social media hate crime prosecution guidance - Now you are a criminal for any "bad" speech online.], 5737n9, 1476292547.0, 2
+690, [Dozens of suspicious court cases, with missing defendants, aim at getting web pages taken down or deindexed], 56z3lv, 1476234584.0, 2
+691, [Philippines tough guy president Rodrigo Duterte outlaws smoking on the island], 56yizs, 1476228190.0, 5
+692, [Mesothelioma Survival Rates], 56ra7x, 1476122706.0, 0
+693, [Hands down the best takedown of Hillary Clinton I have ever read.], 56d6rk, 1475897499.0, 2
+694, [Sean Haugh, Libertarian for US Senate 2016 - Then They Fight You], 566f56, 1475802123.0, 2
+695, [so long as youre a high-ranking Democratic official, you can make all the money that you want on Wall Street but if youre not one of them then you have to play by the rules if the company collapses.], 5641t0, 1475762877.0, 2
+696, [Vote third party cause you want to vote for peace], 563ng6, 1475755646.0, 4
+697, [DOJ announces government contractor arrested in August for stealing NSA secrets], 560xpx, 1475720424.0, 3
+698, [Angry Activist Removes Fliers for Christina Hoff Sommers Lecture], 55vlic, 1475641481.0, 3
+699, [Russia prepares to protect millions of citizens from nuclear war with the West - the US media is silent while the federal government toys with war threats towards russia], 55vf6j, 1475639524.0, 5
+700, [Only true liberalism can thwart the demagogues | Nick Cohen | Opinion | The Guardian], 55mhrh, 1475505866.0, 3
+701, [Utah Senator Mike Lee Goes In On Donald Trump: Step Aside, Step Down], 56hyt1, 1475976314.0, 61
+702, [The election is a tossup, but bet on gold: Ron Paul], 56ojws, 1476079388.0, 15
+703, [Private prisons don't have to be the inhumane enterprise it is now if we think about it critically.], 58nmdu, 1477090447.0, 33
+704, [Rally with Gov. Bill Weld in San Diego], 5af10p, 1477977132.0, 9
+705, [Feel the Johnson], 59x7h2, 1477720307.0, 0
+706, [I'm Torn.], 59v63i, 1477698932.0, 7
+707, [How libertarian is this reddit?], 58oyw5, 1477105335.0, 7
+708, [Gajo Weighs In On The Debate (Cucked As Always)], 58jadg, 1477025352.0, 0
+709, [The Americans With Disabilities Act Strikes Again], 57oa7p, 1476596699.0, 6
+710, [Johnson voters and McMullin voters HAVE to work together to #Deny270. McMullin wins Utah, Johnson wins New Mexico. More below.], 57a27b, 1476391604.0, 7
+711, [Where the hell is Gary Johnson on the latest Wikileaks? Or is he taking CNN's advice and not reading them?], 584k3g, 1476835154.0, 27
+712, [Poor Bill, had no idea what he got himself into. (X-post libertarianmeme)], 56ykyu, 1476228788.0, 30
+713, [If only there was an alternative], 58vsec, 1477206600.0, 151
+714, [If requiring an ID (voter ID) to practice an absolute right (voting) is racist...], 56jk4y, 1475997061.0, 33
+715, [McMullin has been added to ElectionBettingOdds.com with a non-zero chance of winning after last night's debate], 58h5y7, 1477002943.0, 22
+716, [Clinton Campaign appears to feed NBC's Andrea Mitchell questions via cell-phone], 58ndmp, 1477087540.0, 50
+717, [headline doesn't match the content], 55zadq, 1475700530.0, 17
+718, [Who do you consider to be the worst US President. Are Trump or Hillary worse?], 59sqgy, 1477659273.0, 10
+719, [Johnson isn't the candidate for the Libertarians. Not worth losing to HRC], 571e8q, 1476261209.0, 0
+720, [Gary Johnson On Immigration], 571d50, 1476260824.0, 13
+721, [Rand Paul discovered NSF spent $700K to check whether Neil Armstrong said one small step "for man" or "for a man."], 567c3b, 1475812294.0, 58
+722, [Paul Krugman and Keynesian Economics], 55ikzo, 1475449612.0, 181
+723, ["I'm with her"], 56qcdc, 1476103301.0, 184
+724, [Top 10 Hillary Clinton scandals exposed by WikiLeaks], 578wxk, 1476368683.0, 595
+725, [Yes Gary Johnson isn't a real libertarian. But his opposition is much further from one.], 57tve0, 1476683998.0, 103
+726, [The 'F Word' Is No Longer Deemed Offensive In Australia], 59n2r2, 1477589069.0, 22
+727, [BREAKING! Wikileaks e-mail shows Donald Trump as a "Pied Piper Candidate" elevated by the DNC and MSM to hurt GOP!], 56hqti, 1475973467.0, 353
+728, [The 2 Genius Choices.], 563fd1, 1475752091.0, 340
+729, [This Education System Produces Slaves For The Regime], 5acl3q, 1477953618.0, 7
+730, [This criticizes the Fair Tax. Honestly after hearing about the fair tax I've been skeptical of if/how it would work. I know this sub is typically open to questions from opposing views; how do you guys respond to this article and it's criticisms of the fair tax? I'll be interested to hear!], 58ex8n, 1476965176.0, 10
+731, [Obligatory "Don't Vote for Gary Johnson Because Ralph Nader Stole 2000 Election" Warning...], 5880qj, 1476873390.0, 8
+732, ["Do Not Vote for the President Until You See this Film"], 571pir, 1476265424.0, 8
+733, [Lady Gaga mentioned this poll in a recent interview saying we should show support for Gary! [Support]], 591uu3, 1477299463.0, 38
+734, [How a Libertarian plans to challenge Colorados ballot-selfie law], 58ono1, 1477101917.0, 23
+735, [Leaked Memo Shows Hillary Clinton Received Interview Questions in Advance!], 56e9ux, 1475911075.0, 25
+736, [Jesse Ventura's Marijuana Manifesto - In this groundbreaking book bestselling author Jesse Ventura lays out his philosophy on marijuana, and why he has always been in favor of full legalization :)], 595cl9, 1477354290.0, 13
+737, [#NeverTrumpers need to get over themselves and vote for Hillary Clinton], 57oc0e, 1476597366.0, 0
+738, [Good one], 564wu1, 1475782221.0, 0
+739, [Totally worth it. No vote wasted here.], 59qezz, 1477630038.0, 52
+740, [I am getting sick to death of this media bias stuff. What is this shit?], 5656vu, 1475786786.0, 72
+741, [Gary Johnson Leads Trump and Clinton in Ohio Mock Voting], 57cxhp, 1476424544.0, 34
+742, [UNAFFORDABLE CARE ACT], 5ahbpx, 1478004370.0, 0
+743, [Thoughts of on Obamacare], 5agmqa, 1477994996.0, 6
+744, [The importance of free speech in America: A contention against censorship], 5ae0li, 1477967437.0, 1
+745, [Social media rules with ballots], 5a6jxk, 1477870608.0, 3
+746, [A Vietnam Vet was handing out a cards with this website on them. Tell me what you think], 5a3uiz, 1477820186.0, 3
+747, [The Clinton/Big Government Keynesian Paul Krugman Has Thrown A Hissy-Fit On Twitter Over FBI Letter.....], 5a0rrf, 1477781576.0, 3
+748, [Want to make money without paying taxes on it? Try Bitcoin.], 59e8cr, 1477465950.0, 0
+749, [Best campaign ad of 2016 (parody)], 59e6nf, 1477465371.0, 0
+750, [Presidential debate tonight at 7 PM MDT -all presidential candidates with access to more than 15% of the electoral vote were invited], 59dllk, 1477458727.0, 5
+751, [Do you know a lot of people who won't let their kids play in the rain?], 597oyk, 1477378808.0, 0
+752, [Pardon the American Taliban], 5970zy, 1477371431.0, 0
+753, [Is it anti-libertarian to vote for making the welfare state less unequal, if it means expanding government spending?], 591xfa, 1477300445.0, 4
+754, [Captured, Tortured, and Left to Rot at Gitmo], 58wn65, 1477219218.0, 4
+755, [Sugar as an argument for drug regulation], 58szxm, 1477169684.0, 0
+756, [Libertarian Peter Thiel (and future Supreme Court justice nominee?) plans to deliver a speech Oct. 31 in Washington D.C. on the election & why he supports Donald Trump], 58r4e6, 1477132239.0, 0
+757, [White House Hiring: Only Women, Blacks and Hispanics Can Apply No Male Crackers Unless You Are Missing a Leg!], 58ogvf, 1477099820.0, 0
+758, [Are Privatized Prisons The Problem? - Learn Liberty], 58kav3, 1477037224.0, 0
+759, [Dutch get tough on cigarette packaging: no glitter, no holograms], 58g0yq, 1476986177.0, 4
+760, [Max Spiers @ Telegraph.uk - I am not sure he was "suicided," some attempt to disguise murder as suicide, others attempt to disguise suicide as murder - Re Victor Thorn who made a similar statement that he could be found dead a short time before he was, whose brother accepts the suicide as genuine], 57wfy0, 1476724727.0, 6
+761, [Trump and Hillary vs. the Living Dead], 57hweh, 1476498485.0, 0
+762, [Monetary History pdf], 57h8xn, 1476491433.0, 0
+763, [Trump and Hillary vs. the Living Dead], 57gww3, 1476487667.0, 0
+764, [Shower Thought: The winner of this election will be the second-most unpopular presidential candidate of all time, a loser for the title of most unpopular presidential candidate of all time.], 57ew8v, 1476452364.0, 4
+765, [Libertarian recap of 2nd Trump/Hillary Debate], 57as5q, 1476400744.0, 0
+766, [How Would Trump Deport 11 Million People? Think About It.], 578a3f, 1476358021.0, 4
+767, [Five Books to Change Liberals' Minds], 56ywhn, 1476232383.0, 4
+768, [Gary Johnson and Moral Equivalence: The moral bankruptcy of the New York Times (and Bill Weld)], 569onx, 1475843516.0, 4
+769, [Bitcoin Will End The Nation State], 568mj6, 1475828180.0, 0
+770, [Running in my Canadian city], 566219, 1475797981.0, 3
+771, [How Uber and Lyft Reduce Taxi Cab Racism], 564wts, 1475782215.0, 5
+772, [Illusions of Self-Denial and Suffering], 561822, 1475723692.0, 0
+773, [THUNK - 102. On Rand-Bashing], 5611lv, 1475721664.0, 0
+774, [Obama orders diversity measures for national security agencies], 560h4w, 1475715244.0, 0
+775, [Trump's Damage to the Libertarian Message], 56085d, 1475712397.0, 0
+776, [University distributes seven-page speech guide], 55uq5q, 1475631799.0, 4
+777, [Obamacare is Failingand Hillary Clinton Doesnt Want to Talk About It], 55rr1b, 1475582455.0, 4
+778, [Trump And Clinton Have Little To Say About Slow Economic Growth], 55qszk, 1475568579.0, 0
+779, [Should animals have the right to not be abused?], 55qcy2, 1475562612.0, 4
+780, [Trump, Clinton, & Anonymous Rocking the Vote (Groucho - Storm the Gates)], 55pq8s, 1475554965.0, 0
+781, [Markets Are Breaking Down Indias Caste System, Turning Untouchables into Millionaires], 55oxh9, 1475545980.0, 3
+782, [Assange delays Wikileaks Hillary Clinton document leak due to security concerns], 55o9v3, 1475538454.0, 4
+783, [Turkey detains brother of cleric Gulen, issues arrest warrants for 115], 55n47q, 1475521004.0, 4
+784, [Why Millennials Like Ron Paul, not Donald Trump], 56nc2i, 1476064442.0, 54
+785, [Thoughts on the Third Wave experiment?], 56r0zt, 1476116522.0, 14
+786, [Male Liberal staffer 'pretended to be a woman' to win student executive position], 592dg7, 1477306754.0, 40
+787, [Hillary Clinton blows chance to win over millennials with slow evolution on pot], 56s2fi, 1476136629.0, 40
+788, [Ron Paul slams Black Lives Matter as a racially divisive group that doesn't understand economics], 568hdt, 1475826264.0, 39
+789, [Who I'm Voting for President re: Casey Neistat -- h3h3productions discusses the current political climate], 57uj3u, 1476692479.0, 20
+790, [WikiLeaks - CTR shills are "nerd virgins" and "never see sunlight or have a drink or get laid"], 56w4q8, 1476184970.0, 22
+791, [RNC Moves To Stop Promoting Trump After Scandal], 56j2au, 1475990277.0, 20
+792, [Putin: Russia Is Not Going to Attack Anyone], 59svix, 1477661688.0, 9
+793, [Dr. Marc Siegel: Why This Doctor Hates Obamacare], 59oegt, 1477608955.0, 8
+794, [Trump crowd calls for jailing People magazine writer], 57ijle, 1476505804.0, 7
+795, [Is Paying for Mandatory Health Insurance a Tax?], 569s8p, 1475845218.0, 9
+796, [Tennessee Student Accused of Sexual Harassment Because He Wrote Instructor's Name Wrong], 5673c5, 1475809607.0, 9
+797, [The New York Times writes an article about Johnson's "Aleppo Moment" then has to make two edits when they can't get right what Aleppo is. (Read the corrections at the bottom of the article)], 5a7si2, 1477884776.0, 108
+798, [We Need To Demand A Switch To Hand-Counted Paper Ballots, Greens, Libertarians and Republicans Alike], 5a05w9, 1477771661.0, 29
+799, [Libertarian Global Agenda.], 57sboy, 1476665785.0, 133
+800, [Australia Admits Gun Buyback Failure], 58ovyq, 1477104445.0, 23
+801, [Overstock CEO Patrick Byrne on Gary Johnson, Trump vs. Clinton, and Bringing the Blockchain to the Stock Market], 566fk2, 1475802257.0, 23
+802, [Why libertarianism is so dangerous], 584rl3, 1476837299.0, 15
+803, [Kentucky Bill Would Encourage use of Gold and Silver as Currency], 57c76g, 1476416339.0, 15
+804, [Elections Commissioner Admits to Widespread Voter Fraud on Hidden Camera], 575nj1, 1476325691.0, 16
+805, [Yet Another PR Mess Caused by Trump], 56khtp, 1476011525.0, 14
+806, [The great thing about being a libertarian is I get to believe everything negative thing trump says about Hillary and vice versa.], 58zg5q, 1477270432.0, 55
+807, [(not sure if repost) When a Democrat brings up Aleppo on social media, reply with this image.], 566ykj, 1475808162.0, 54
+808, [Raising the Minimum Wage Won't Alleviate Poverty. Lowering it Might. | Preston Cooper], 57mfy9, 1476572913.0, 170
+809, [Why Its Impossible to Indict a Cop], 57srma, 1476670966.0, 11
+810, [How to Rape the 4th Amendment, Police Serving Their Corporate Masters], 56eb6p, 1475911590.0, 12
+811, [Gun Control Hits The Ballot In November], 56brfx, 1475881063.0, 8
+812, [Gary Johnson on The Fifth Column Podcast], 565qlp, 1475794199.0, 11
+813, [Battleground state voters, what are you doing?], 55omsp, 1475542646.0, 10
+814, [Why Do We Force Employers to Cover the Full Cost of Birth Control but Not Food?], 55o4rw, 1475536708.0, 9
+815, [The Craziest End To The 2016 Campaign Runs Through New Mexico], 55j7b7, 1475457903.0, 8
+816, [Ken Bone is fiscally conservative & socially liberal - HE NEEDS TO ENDORSE GARY!], 570w3d, 1476254708.0, 135
+817, [Google Reveals Secret FBI Subpoena, Reports Increase in FISA Requests], 57l6gn, 1476547885.0, 15
+818, [If Trump leaks are OK and Clinton leaks aren't, there's a problem], 57atgr, 1476401145.0, 15
+819, [Trump versus Mormons], 56hy3x, 1475976057.0, 16
+820, [Clinton: If I asked for a drone stike against WikiLeaks founder, it was a joke], 563klz, 1475754402.0, 14
+821, [Poll Shows Gary Johnson Beating Trump In A Head To Head Matchup], 56zh11, 1476238591.0, 144
+822, [Touting Isolationism, Trump Employs a String of Neoconservative Advisors], 5a4xie, 1477838770.0, 5
+823, [Bundy's acquitted by jury in Oregon], 59xdm1, 1477722339.0, 6
+824, [Gary Johnson loses his cool when pressed on his disputed tax policy | US Elections 2016], 59sml7, 1477657506.0, 0
+825, [Danthropology: BLM Students "Offended" by "People Descended From Africa" Line - A carved bust, buildings and human remains photographed on Mars by the NASA Rovers turns Charles Darwin's Descent of Man on its head, as well it refutes Adam and Eve and the notion men evolved from Ethiopian ape brutes], 59lzci, 1477568544.0, 0
+826, [AT&T-Time Warner merger to expand corporate, state control of media], 5979n3, 1477374021.0, 4
+827, [Gary Johnson's Libertarian rivals reject him for president], 58bame, 1476924316.0, 0
+828, [Columbia threatens to punish students who take notes during sexual-misconduct proceedings], 589aft, 1476895754.0, 6
+829, [Libertarians Are The New Republicans], 588hqz, 1476880112.0, 4
+830, [Huge press freedom rally in Budapest after top daily closed], 57wd3t, 1476722980.0, 5
+831, [It's like a 70's Kung-Fu Movie in There!], 57sz4e, 1476673329.0, 5
+832, [Politics Is Poison to the Human Spirit | Jeffrey A. Tucker], 57i3cr, 1476500666.0, 6
+833, [Top 10 Founding Father Quotes Which Describe The 2016 Election], 57ggzx, 1476482258.0, 6
+834, [LePage says U.S. needs Trump to wield 'authoritarian power'], 575p6c, 1476326188.0, 4
+835, [Karl Marx: Hostage Negotiator], 56u67i, 1476159938.0, 4
+836, [[Murray Monday] Interpersonal Relations: Voluntary Exchange  /r/GoldandBlack], 56rum4, 1476133502.0, 3
+837, [Jim Bouchard Libertarian Candidate For Maine's 1st District Rally Speech Oct 2016], 566gas, 1475802486.0, 6
+838, [Ron Paul On FOX Business - The Method Of Income Tax Is Unconstitutional], 55vo8l, 1475642339.0, 5
+839, [No, Not Gary Johnson - The Atlantic], 55qcb1, 1475562384.0, 0
+840, [Federal Asset Forfeiture Program Helps Police Steal], 55q3v3, 1475559411.0, 7
+841, [Theresa May Brexit hero], 55mfs3, 1475504653.0, 5
+842, [Non-libertarian here wanting to ask about the future of the movement in national elections.], 55l54u, 1475483176.0, 7
+843, [Im voting for Gary Johnson because its the only way to make my vote matter], 57kbu4, 1476530569.0, 308
+844, [Whats with the "alt-right" take-over of /r/Anarcho_Capitalism/?], 57dgv7, 1476431193.0, 23
+845, [Trump's multiple flip-flops], 56d132, 1475895723.0, 23
+846, [WATCH: Fox Business's Kennedy and Bill Weld Go At It Over His Record], 5655xa, 1475786406.0, 24
+847, [Senator Rand Paul - Caring For Kentucky], 57m3bp, 1476567658.0, 32
+848, [Sam Harris: You saw Gary Johnson get destroyed by the press for not knowing what Aleppo was? Trump commits gaffes like that all the time, and people just move on. And his Gaffes are much worse.], 5639gh, 1475749688.0, 28
+849, [Google "pathological lying" before it gets taken down lmfao], 5aa3qh, 1477912118.0, 239
+850, [Wait... how is that bad?], 58uknk, 1477191119.0, 86
+851, [New Johnson Ad: Clowns to the Left, Jokers to the Right], 59pt4g, 1477623710.0, 18
+852, [Join Gov. Weld at Black Hills State University], 587c1m, 1476864695.0, 17
+853, [Spain Is without a National Government  And Spaniards Are Digging It], 55qvwb, 1475569716.0, 16
+854, [The Government Is Useless], 57ijuj, 1476505882.0, 450
+855, [Final Presidential Debate Still Missing Libertarian Gary Johnson], 58avz8, 1476919932.0, 50
+856, [Spain Hasnt Had a Federal Government for the Last 9 Months  and People Love It], 569zlo, 1475849042.0, 46
+857, [Poll: Gary Johnson Won Debate by Over 50 Percent], 56v2ra, 1476170582.0, 153
+858, [Pro-Trump Libertarians Thread (MAGA) (the_donald)], 57iun4, 1476509437.0, 0
+859, [Donald Trump Supporting Libya Intervention In 2011], 56qi28, 1476105819.0, 11
+860, [Delete Your Yahoo Account], 55zdrb, 1475701883.0, 9
+861, [Yesterday, a federal court judge agreed to hear oral arguments in a lawsuit challenging the nonprofit status of the Commission on Presidential Debates], 5669sg, 1475800445.0, 1889
+862, [Why Johnson is the Best Candidate, as Explained by Richard Feynman - Names Don't Constitute Knowledge], 56ekxp, 1475915558.0, 39
+863, [Wasting your vote? Amateurs. I'm wasting three.], 59kzyd, 1477555520.0, 52
+864, [Bundy brothers, 5 other Malheur wildlife refuge occupiers not guilty.], 59re6l, 1477641337.0, 34
+865, [My Gary Johnson yard sign was stolen last night], 55kixw, 1475474649.0, 34
+866, [There is constant political hypocrisy over the tax code. Politician give special tax favor to real estate to win elections then judge Trump for using those benefits.], 566c6n, 1475801192.0, 37
+867, [Clinton Announces She Wants to Enlist Millenials In a "National Service Reserve," and That Should Worry You], 55oian, 1475541195.0, 41
+868, [CAUGHT ON TAPE: UN bans skeptical journalists from climate summit for holding views not particularly helpful], 58sebt, 1477157184.0, 23
+869, [Berkeley students barricade bridge, force whites to cross creek], 59l6l6, 1477557861.0, 18
+870, ["I Don't Accept the Idea of Microaggression"], 56um0w, 1476164913.0, 19
+871, [Austin Petersen to Evan McMullin: Would you drop out and support Gary Johnson?], 56b3u9, 1475872241.0, 61
+872, [What the fuck YouGov], 57c0vf, 1476414383.0, 277
+873, [Winner just because...], 56pwr8, 1476097375.0, 100
+874, [Rally with Gov Gary Johnson- Chicago], 5ae18z, 1477967603.0, 12
+875, [Americans are Embracing Bad Government Because They Dont Know History], 5acgwg, 1477952322.0, 12
+876, [Adam Kokeshs Tour Manager, Ex-Girlfriend Speak Out - Being Libertarian], 59wpv5, 1477714922.0, 14
+877, [Election Officials, consider your voting machines, networks and tabulators infected until youve forensically proven otherwise. James Scott, Senior Fellow, ICIT], 59i7vd, 1477525384.0, 14
+878, [Your Federal Government, Working Against You for the Greater Good], 56xtoz, 1476219108.0, 10
+879, [President Obama ends Olympic victory tax], 56ue28, 1476162364.0, 12
+880, [81 year old woman's home raided with National Guard helicopter to confiscate one lone cannabis plant.], 568f6q, 1475825446.0, 11
+881, [IRS subjects tea party groups to new round of scrutiny, publicizes tax return data], 560n2w, 1475717123.0, 13
+882, [Johnson gets owned, Ron Paul voting for Jill Stein], 55pfvy, 1475551770.0, 0
+883, [Liberals fear Libertarian Gary Johnson], 56h3ic, 1475964601.0, 115
+884, [BREAKING: DOJ FINALLY Secures Warrant To Inspect Humas Emails], 5aac6v, 1477915514.0, 4
+885, [Venezuelan president threatens to jail opponents], 59yqjb, 1477741308.0, 8
+886, [Experts Confident Marijuana Legalization Will Pass in California on Election Day | East Bay Express], 59h4px, 1477512210.0, 7
+887, [Assuming everyone reading this is going to vote for Gary and that Gary doesn't win the election this year, would you prefer Trump or Hillary?], 58xewn, 1477232420.0, 0
+888, [Thomas Sowell - The effects of the welfare state], 58rap8, 1477134993.0, 6
+889, [The Red Pill: There has never been a better film about the hypocrisy of modern day feminism], 583m9i, 1476824226.0, 0
+890, [WorldNews Deletion: British UFO Theorist Max Spiers "Sacrificed by Satanists" - I do not believe he was, some attempt to disguise murder as suicide, others attempt to disguise suicide as murder, re the suicide of Victor Thorn author of hit piece Made in Israel, 911 & The Jewish Plot Against America], 583159, 1476814598.0, 0
+891, [For those of you interested in gun policy, or those of you who often get into debates about gun control, this might help.], 57sqir, 1476670613.0, 6
+892, [Taibbi on Amy Goodman Arrest for Covering Dakota Pipeline Story], 57iqd5, 1476508002.0, 7
+893, [A libertarian approach to private prisons.], 57bc0i, 1476406869.0, 6
+894, [[Yaron Broook] Radical Capitalist Episode 67: Alt-Right and the Decline of Civilization], 574007, 1476307071.0, 6
+895, [With Ryan no longer campaigning for Trump, has the Libertarian Party reached out to him to endorse Johnson/Weld], 56wrxg, 1476196377.0, 5
+896, [What do libertarians think of barry goldwater?], 56nuhr, 1476070609.0, 5
+897, [UnReddit/r/Socialism: There Were No Japanese Planes at Pearl Harbor Dec. 7, 1941 - The entire event was a replay of the False Flag 1898 USS Maine explosion in Cuba that brought the US and Spain to war, whereby the US obtained dominion over the Philippines and which led to the US annexation of Hawaii], 568twk, 1475830894.0, 0
+898, [Comply harder, people. It's not that difficult.], 5636bc, 1475748430.0, 6
+899, [In parts of UK, obese patients banned from getting surgery to save costs.], 55tsnp, 1475620873.0, 8
+900, [Help me please, I overdosed on Super Male Vitality.], 55pu6m, 1475556254.0, 0
+901, [Iraq War Propaganda: Pentagon Paid PR Firm $540 Million to Make Fake Terrorist Videos], 55p4sk, 1475548286.0, 5
+902, [A principled option for U.S. president: Endorsing Gary Johnson, Libertarian], 5adk0d, 1477963073.0, 46
+903, [Hillary Clinton will ban selling guns at a gun show by executive order.], 56oc7z, 1476076640.0, 21
+904, [Gary Johnson won the mock election at my Alabama High School], 59lr5w, 1477565397.0, 79
+905, [Economist Steve Horwitz, whose article "There is No Such Thing as Trickle-Down Economics" recently made the front page of Reddit, is doing an AMA tomorrow at 3:00pm!], 576h5m, 1476334637.0, 60
+906, [College Republicans in NM denounce Trump - "New Mexico College Republicans said theyre dumping Trump and instead will support Gary Johnson, the former governor of New Mexico and the Libertarian candidate for president."], 56zjib, 1476239371.0, 169
+907, [I met Gary Johnson yesterday!], 56gp9j, 1475957753.0, 207
+908, [Ken Bone is a Libertarian.], 57g0ig, 1476475834.0, 100
+909, [Johnson-Weld Campaign- The Democratic Media Machine is At It Again With False Stories], 59l7b4, 1477558139.0, 25
+910, [The Citizens United Scare. Who Really Benefits? So Far, Democrats Mainly.], 57tiht, 1476679609.0, 28
+911, [NEW POLL: Gary Johnson Beats Donald Trump in Head-to-Head Matchup], 57149u, 1476257560.0, 125
+912, [Utah Republicans out front in opposing Trump, praising Gary Johnson], 56igfu, 1475982449.0, 32
+913, [Ron Paul: No one should pay federal income tax - including Trump], 55v6av, 1475636810.0, 147
+914, [Black History Museum Omits Clarence Thomas, But Guess Who They Decided To Include...], 55zvf6, 1475708330.0, 62
+915, [No, You Dont Get Moral High Ground over Third Party Voters: "voting for Clinton to save the country from Trump would still not make people ethically superior. If voting for Hillary Clinton is the lesser of two evils, it is still evil, and you dont get to escape culpability for that."], 55xwn1, 1475672093.0, 284
+916, [Red State: We Should Have Nominated Rand Paul], 5710vk, 1476256379.0, 1121
+917, [Gary Johnson plants his flag in South Dakota], 59nxhy, 1477603387.0, 22
+918, [New Jersey Goes Off The Deep End, Wants To License Building Swimming Pools: "you can raise the rates youre charging because yourea licensed pool builder or service professional.], 58drnv, 1476951123.0, 20
+919, [Utahs Top Mormons in All-Out Revolt Against Donald Trump.], 56ylhe, 1476228950.0, 22
+920, [Liberal Julie Roginsky on free college: 'Hillary's not being honest with voters, neither was Bernie Sanders'. It's Unrealistic. I'm probably going to get into a lot of trouble for saying it'. - FNC Outnumbered.], 55ozrz, 1475546677.0, 21
+921, [Op-ed by Bill Weld: An Invitation, and an Alternative, for Republicans Appalled with Donald Trump], 56pq9d, 1476095136.0, 34
+922, [How would a Libertarian government handle an issue like the Dakota Access Pipeline], 5aduv6, 1477965924.0, 15
+923, [California petitions to become first state to offer ObamaCare to illegal immigrants], 560i37, 1475715550.0, 12
+924, [Gun-Show Customers License Plates Come Under Scrutiny - WSJ], 55nkhk, 1475529082.0, 14
+925, [Obama Plunges America into War with Yemen], 58hbx2, 1477004784.0, 25
+926, [Guccifer 2.0 Leak Docs Show Top Dems Funneled TARP Funds To PACs], 55zpli, 1475706293.0, 28
+927, [Cash, not borrowing: Libertarians shake up Crystal City Hall - StarTribune.com], 5ah7wf, 1478002696.0, 2
+928, [Seeing red over false Greenie science scaremongering], 5aflio, 1477983034.0, 2
+929, [Dissecting U.S. Elections - the People vs. the Pols], 5ad88y, 1477959981.0, 1
+930, [Do we like Peter Thiel?], 5actsm, 1477956054.0, 1
+931, [MC officer deployed to pipeline protest], 5a2drs, 1477800993.0, 1
+932, [Clinton 2013: Businessmen Candidates Should Run; They Can't Be Bought], 59vfzq, 1477701734.0, 1
+933, [What do you think of I-1464 in WA? (State-Provided Campaign Finance Funding)], 59v12c, 1477697406.0, 1
+934, [Borrowed strength], 59om1v, 1477611199.0, 1
+935, [Donations to Foundation Vexed Hillary Clintons Aides, Emails Show], 59meey, 1477575122.0, 1
+936, [Nigel Farage getting in trouble at the EU Parliament again], 59lj6v, 1477562446.0, 1
+937, [Greens Against a Carbon Tax in Washington State], 59k57c, 1477545401.0, 1
+938, [Take a break from the rhetoric and check out ASIs video of the top 10 wackiest political swag of 2016. Trump socks? Chia Hillary? Talking/laughing pens? Crazy, but true.], 59bd1c, 1477435138.0, 1
+939, [Dump Duterte for Starters], 599a06, 1477399425.0, 1
+940, [Why Government Cannot Be Reformed], 594euo, 1477343430.0, 1
+941, [Iraq alcohol: Parliament imposes ban in a surprise move], 58xmaz, 1477237203.0, 1
+942, [The Final Presidential Debate Covered Much We'd Already Heard & One Thing We Hadn't], 58kc2a, 1477037632.0, 1
+943, [A better choice that won't change direction.], 58bcti, 1476924946.0, 1
+944, [What is the scope for co-operation with the libertarian left?], 586k6v, 1476855596.0, 1
+945, [My voter dilemma - is a vote for Johnson a waste?], 586a63, 1476852686.0, 1
+946, [An open letter to the electoral college.], 584ief, 1476834645.0, 1
+947, [Pop Quiz on Fourth Amendment and the criminalization of the normal], 5848w1, 1476831744.0, 1
+948, [Libertarian Government vs Socialistic Government], 581yll, 1476793498.0, 1
+949, [Band-Aid on a bullet wound: What Americas new war looks like in Afghanistans most violent province], 57x7xl, 1476738527.0, 1
+950, [Know the new RBI Governor - Urjit Patel | Letzbank], 57w2c5, 1476716357.0, 1
+951, [Is Emotional Harm a Form of Assault?], 57nqix, 1476589543.0, 1
+952, [French police accused of stealing phones and shoes of refugees to stop them leaving Calais Jungle], 57ml5c, 1476574912.0, 1
+953, [Anyone have a Libertarians breakdown of Clinton vs Trump on most issues?], 57k6jk, 1476528155.0, 0
+954, [The Wealthy Are Not All the Same: A Recent Study Finds Key Differences], 57jj4z, 1476518353.0, 1
+955, [Teen Charged With Stealing 65-Cent Milk Carton To Go To Trial], 57irur, 1476508501.0, 1
+956, [The Video Defense About Her Emails Hillary Clinton Never Gave], 57i2ox, 1476500464.0, 1
+957, [How the Price of Beer Cans Led to a Politicized Proposal from the Fed], 57cclk, 1476418016.0, 1
+958, [I've realized that the first decision most voters make is whether they like a candidate as a person], 57bniq, 1476410305.0, 1
+959, [How can the LP take this opportunity to grow?], 57b8c3, 1476405742.0, 1
+960, [When I was growing up, the Democrats were the party of peace, equality, and good government. Today they are the party of war, division, and corruption. What the hell happened to the Democrat party???], 57ao9k, 1476399524.0, 1
+961, [DHS denies Kentucky's request for one-year extension to comply with REAL ID], 579kb4, 1476383114.0, 1
+962, [The Turnkey Tyranny Game Plan - Do you see anything missing?], 571apv, 1476259940.0, 0
+963, [Bahrain detains man for "defamatory" sectarian Tweet], 56ny1l, 1476071864.0, 1
+964, [What do you guys think about Bill Maher's change of opinion on Gary Johnson? He seemed supportive before, but definitely not anymore.], 56l9x7, 1476027077.0, 1
+965, [How to make surveillance appealing 101.], 56c1it, 1475884365.0, 1
+966, [Fifth annual AEI and CRN conference on housing risk, sponsored by FICO | LIVE STREAM], 569u9t, 1475846201.0, 1
+967, [Judge Napolitano on Trumps use of U.S. tax code], 569k1t, 1475841457.0, 1
+968, [The lies of Donald D. Dump - EXPOSED! a cartoon satire], 568f53, 1475825427.0, 1
+969, [VP Debate Questions Were Pure GOP Propaganda], 567d7g, 1475812636.0, 1
+970, [Party vs Principle], 563dr4, 1475751447.0, 1
+971, [[Reason] Tim Kaine-Mike Pence Vice-President Debate: The Big Takeaway], 5630ss, 1475746275.0, 1
+972, [5 Most Libertarian Positions of Bill Weld], 561d8d, 1475725291.0, 1
+973, [China's Secret Plan to Control the Internet | China Uncensored], 561aih, 1475724452.0, 1
+974, [Clinton Foundation: Those Hacked Files Arent Ours], 560bev, 1475713449.0, 1
+975, [Fiscal Policy Report Card on America's Governors], 5607xw, 1475712336.0, 1
+976, [Seen on Facebook - "Handy Positions Table"], 55yej8, 1475682318.0, 1
+977, [Defending the Hoppriori Argument], 55xlsi, 1475667295.0, 1
+978, [The link between a UK activist, cyber 'warheads', and the US Secret Service], 55x15i, 1475659598.0, 1
+979, [Could Third Parties Determine This Election? - Room for Debate], 55pyg6, 1475557621.0, 1
+980, [Ron Paul: US Elections Are Rigged, Voting Simply Used to Pacify the Public], 58zyxp, 1477276543.0, 442
+981, [Guccifier 2.0: Hack Reveals DB Full of Appropriated TARP Funds to Clinton Foundation], 55vk2k, 1475641016.0, 145
+982, [Obama Enters the Media Wars  Why His Recent Attack on Free Speech is So Dangerous and Radical], 57rcic, 1476652296.0, 37
+983, [Ron Paul on who to vote for: "If you vote libertarian, look at it like youre voting for the non-aggression principle  what libertarian really means, and the more votes we get in that category the better it is.], 55xbxw, 1475663489.0, 41
+984, [[Thomas Simmons] A gay man defends his right to keep and bear firearms], 591rjc, 1477298253.0, 372
+985, [Former Ron Paul staffer: Trump's damage to the GOP will extend well beyond the 2016 election], 57uf0y, 1476690983.0, 31
+986, [Leaked email shows Democrats knew that raising the minimum wage would cost jobs], 579s4q, 1476387361.0, 39
+987, [[Thomas Simmons] Growing the Economy and Increasing Wages Through Profit Sharing], 591twm, 1477299122.0, 9
+988, [The Comey, Clinton, Bush connection], 58n984, 1477086009.0, 9
+989, [The two party system does not accurately reflect the wishes of voters.], 58l32s, 1477047665.0, 7
+990, [Should lakes and rivers be privatized?], 57xx9q, 1476747064.0, 7
+991, [Limited booze, no strip clubs: The party's on hold in Thailand after king's death.], 57sfed, 1476666999.0, 6
+992, [Rigged 2016], 57pola, 1476616804.0, 7
+993, [Gary Johnson on Minimum Wage], 577u9l, 1476351856.0, 7
+994, [Shocking: Almost Nobody for Hillary at Wisconsin Rally], 5758xh, 1476321406.0, 9
+995, [How Gary Johnson Can Win the 2016 Election by using the current electoral college system rules], 56kycy, 1476019771.0, 6
+996, [The Original Purpose of the US Constitution], 560auo, 1475713279.0, 7
+997, [What views make people (inaccurately) think libertarians are racist?], 58t9zl, 1477174149.0, 125
+998, [How/Why did you guys reject conservatism ?], 5a4baf, 1477827245.0, 12
+999, [Fuck Bill Weld.], 59rrbp, 1477645923.0, 0
