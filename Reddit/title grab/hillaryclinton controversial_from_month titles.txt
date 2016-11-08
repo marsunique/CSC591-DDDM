@@ -1,0 +1,1001 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Hello -- and a quick thank you!], 58oieq, 1477100299.0, 2141
+2, [George Takei on Twitter: Trump could not affirm that he would accept the election result. This. Is. Unamerican.], 58ej81, 1476960118.0, 501
+3, [Bernie is doing SEVEN rallies in TWO days to stop Trump: Thank you Senator for your amazing dedication.], 5657hy, 1475787055.0, 751
+4, [Clinton's lead now up to double digits, new NBC/WSJ poll shows], 56sp6i, 1476144197.0, 933
+5, [Will McAvoy: "If Hillary Clinton is a criminal, as you allege, she is Danny Ocean meets Keyser Soze. The greatest criminal mastermind of all-time. Hundreds of millions of dollars spent on countless investigations over thirty years, and not a single piece of hard evidence against her."], 57ou15, 1476604055.0, 390
+6, [Our visitors from /r/The_D****d throw a fit whenever I post this pic. HRC and FLOTUS speaking to a packed stadium in NC today. Let's show them what real enthusiasm looks like.], 59qdq9, 1477629669.0, 1503
+7, [J.K. Rowling on Twitter: "The men rushing to tell us all that they talk about women exactly the way @realDonaldTrump did in his tape seem to think they're helping."], 56m8hc, 1476049687.0, 1529
+8, [LeBron James: Why I'm endorsing Hillary Clinton], 55l1hg, 1475481755.0, 534
+9, [NBC News/WSJ Poll: Clinton now holds 11-point national lead over Trump], 57rbex, 1476651782.0, 361
+10, [Trump recorded having extremely lewd conversation about women in 2005], 56dcr5, 1475899420.0, 1319
+11, [We've Got to Keep Our Daughters Safe from Pervert Men Wearing Wigs], 57ijnd, 1476505819.0, 933
+12, [Bill Maher on Twitter: '"Final thought: Hillary won the debate, but Alec Baldwin did a great job intensifying Trump's insanity. That was Alec Baldwin, right?"], 58ej80, 1476960118.0, 545
+13, [Two women have come forward to the NYT regarding sexual assault committed by Donald Trump], 57718p, 1476341218.0, 774
+14, [The feeling when you know that you got outplayed by a woman but will still make an excuse tomorrow about how it wasn't fair.], 58fks0, 1476976223.0, 5
+15, [Front page cover of TIME magazine - Total Meltdown.], 579mk2, 1476384407.0, 760
+16, [RT if youre proud of Hillary tonight.], 58elfk, 1476960846.0, 453
+17, [(2013) 100% of perverts go back to their ways. Sadly, there is no cure], 56hqs7, 1475973455.0, 961
+18, [The FBI director did not say email investigation was being reopened. Republican Jason Chaffetz is the one who said that -- and he's wrong.], 59vxo5, 1477706730.0, 964
+19, [Best billboard of the 2016 campaign is up in Dearborn, Michigan: "Donald Trump: He can't read this, but he's afraid of it."], 581bms, 1476784763.0, 805
+20, [Marco Rubio Says Republicans are making a mistake by jumping on allegedly hacked emails released by Wikileaks to criticize Hillary Clinton. "Today it is the Democrats. Tomorrow it could be us."], 589tul, 1476906356.0, 781
+21, [Meghan McCain on Twitter: Trump is going nuclear on the GOP instead of Hillary because he knows he's going to lose & is going to need someone to blame when it happens], 571ilv, 1476262821.0, 680
+22, ["Hillary can't draw crowds like Trump."], 56vb30, 1476173705.0, 539
+23, [From a Bernie supporter who proudly voted for Hillary], 597r23, 1477379510.0, 493
+24, [Seth MacFarlane on Twitter: "In the year two-thousand sixteen, we have a VP candidate who denies evolution. Just in case you thought Trump was hogging all the stupid."], 56k7r8, 1476007050.0, 3024
+25, [Bernie Sanders just posted this on Facebook.], 58l34h, 1477047682.0, 1731
+26, [Scotland's First Minister - "Hate hearing @HillaryClinton described as 'lesser of two evils' when she's actually a smart, strong, experienced, resilient woman."], 58sr6z, 1477165158.0, 624
+27, [Donald Trump's companies destroyed or hid documents in defiance of court orders], 5abnnn, 1477941408.0, 1909
+28, [STATEMENT FROM JOHN McCAIN WITHDRAWING SUPPORT OF DONALD TRUMP], 56izkk, 1475989306.0, 1178
+29, [Clinton up 6 in POLITICO/Morning Consult national poll], 55n5kg, 1475521775.0, 223
+30, [Stephen Colbert on Twitter: "Trump said his campaign could be his "single greatest waste of time, energy & money." Congrats, Donald! Today you are a Trump U graduate."], 57e3mc, 1476439794.0, 827
+31, [#BREAKING NY AG sends Cease and Desist to Trump Foundation for operating without proper certification.], 55onsp, 1475542953.0, 893
+32, [Happy 69th Birthday to the amazing Hillary Rodham Clinton.], 59fndi, 1477484385.0, 492
+33, [Senator Tim Kaine on Twitter: We're up in the pollsthat's great. But when the wind's at your back, it's time to run faster. Be a part of this.], 57giba, 1476482732.0, 578
+34, [New Ohio poll puts Hillary Clinton ahead of Donald Trump by 9 points after news of Trump's vulgar talk], 573g9q, 1476297943.0, 420
+35, [HILLARY CLINTON:  _  TAKE MY HIGH ENERGY  _ ], 58ee5n, 1476958506.0, 0
+36, [Hillary Clinton Destroyed Trump in the Debates Just by Being a Grown-Up], 58fcdn, 1476971920.0, 17
+37, ['The Atlantic' Editors Endorse Hillary Clinton for President], 561bzb, 1475724901.0, 582
+38, [Hugh Laurie on not understanding hatred for Hillary "It's as if I missed the first reel of the film where she burned down the orphanage"], 58giv5, 1476994874.0, 604
+39, [Hillary Clinton on Twitter: "The attack on the Orange County HQ @NCGOP office is horrific and unacceptable. Very grateful that everyone is safe."], 57tnjx, 1476681267.0, 647
+40, [Bernie Sanders on Twitter: "Middle class families pay their taxes. But billionaires like Mr. Trump don't have to thanks to their friends in Congress."], 55i8gp, 1475444114.0, 1373
+41, [Giuliani's daughter is for Clinton], 5686nq, 1475822390.0, 419
+42, [Clinton Vaults to a Double-Digit Lead (POLL) 50% to 38%], 58yg0e, 1477256467.0, 1382
+43, [Bill Clinton on Twitter: "41 years ago I married my best friend and the finest changemaker Ive ever known. And yes, Im still in awe of her!"], 56xweu, 1476220205.0, 411
+44, [Hillary Clintons Masterful Manipulation Of Donald Trump], 58h53f, 1477002696.0, 5
+45, [First time voter, in the swing state of FL!! So excited to cast my ballot for the first female president], 58d5d5, 1476943697.0, 15
+46, [Bill Kristol on Twitter: "I'm old enough to remember when Republicans didn't think private emails should be hacked, especially at behest of a hostile foreign power."], 57x3l0, 1476736870.0, 489
+47, [I'm sorry to have to tell you this Donald, but...], 56whmz, 1476190722.0, 5
+48, [Trump says Hillary Clinton was "let off the hook" for her email scandal while Gen. David Petraeus had his life "destroyed for doing far, far less." PolitiFact rates this as FALSE.], 58ebmy, 1476957703.0, 52
+49, [Libertarian VP Candidate Gives Up, Will Focus on Preventing Trump Presidency], 55ywm4, 1475694019.0, 629
+50, [45th President. Upvote this to make it the first image result on Google for 45th President. And don't forget to vote by November 8th!], 58rfz5, 1477137409.0, 952
+51, [Washington Post endorses Hillary Clinton for President], 579ive, 1476382239.0, 376
+52, [Donald Trump Called Deaf Apprentice Marlee Matlin Retarded], 57dk3s, 1476432374.0, 440
+53, [Bernie Fighting For All of Us], 58pn1r, 1477112803.0, 0
+54, [Hillary is ahead in the polls...by a lot], 58f27f, 1476967209.0, 16
+55, [Hillary Clinton on Twitter: Thankful for @TammyforIL'sand her family'sservice to this country. It's really not that hard to grasp, @MarkKirk.], 59uc08, 1477689229.0, 401
+56, [Democrats raise $13k to help reopen burned NC GOP office], 57v4l4, 1476700691.0, 868
+57, [DO NOT FAIL TO VOTE BECAUSE IT LOOKS LIKE TRUMP IS SUNK], 56m8y1, 1476049900.0, 1032
+58, [Paul Krugman on Twitter "Let's be clear: a candidate for president promised to put his opponent in jail if he wins. Everything else is secondary."], 56rjfq, 1476128305.0, 663
+59, [16 Days], 59272j, 1477304213.0, 435
+60, [Fox News Poll: Clinton Leads Trump By 7 Points], 57cyy0, 1476425015.0, 383
+61, [This is today's New Yorker's cartoon.], 58j7ne, 1477024525.0, 631
+62, [By releasing an email with my words -- and pretending they came from Clinton advisor - Putin has shown his hand.], 56v8ek, 1476172704.0, 656
+63, [Mitt Romney on Twitter: Hitting on married women? Condoning assault? Such vile degradations demean our wives and daughters and corrupt America's face to the world.], 56ehxi, 1475914325.0, 1155
+64, ["Stop, stop he's already dead"], 58edg8, 1476958283.0, 10
+65, [New The Atlantic Poll: +11 Lead for Clinton], 56xjnc, 1476214408.0, 372
+66, [KATY PERRY on Twitter: YOU GOT THIS @HillaryClinton #DEBATES], 58e0ji, 1476954155.0, 9
+67, [Well you can't knock the Trump Hotel in Chicago for customer service. Glad they delivered on my personal request for a photo of Hillary!], 56bqfj, 1475880715.0, 716
+68, [Mark Cuban on Twitter: "So Donald Trump lost more than $50mm of daddy's money by the age of 33. Born on 3rd base, stranded on 1st."], 563dvg, 1475751498.0, 730
+69, [Bill Maher: Never realized Hillary was the emperor of the world for the last 30 years, solely responsible for every bad thing that ever happened. Hmm.], 58eh0f, 1476959414.0, 693
+70, [Under a relentless assault on her character, Hillary maintains her dignity], 587mi8, 1476868330.0, 12
+71, [PEOPLE Reveals 6 Witnesses Who Corroborate Natasha Stoynoff's Story of Being Attacked by Donald Trump], 5854sd, 1476841000.0, 685
+72, [Donald Trump isn't the most dangerous man on the ticket: Mike Pence is], 593zjm, 1477337058.0, 985
+73, [Longtime Trump supporter switches to Hillary after realizing Trump is 23 cans short of a case], 58obha, 1477098197.0, 12
+74, [Why Should I vote for Hillary? (Not Offensive)], 56dqlx, 1475904044.0, 0
+75, [If you are a Hillary supporter in Utah, VOTE FOR HILLARY, mcmullin winning in that state DOES NOT HELP.], 58cwfb, 1476940899.0, 513
+76, [Obama to Trump: 'Stop whining'], 584swi, 1476837652.0, 50
+77, [Per WaPo, "Donald Trump now says 'a global power structure' is out to stop him." We are, but most people just call us women.], 57r9zc, 1476651101.0, 439
+78, [Colin Powell: Im Voting for Hillary Clinton], 59cvhz, 1477451050.0, 943
+79, [Bernie Sanders: If my supporters 'take a hard look' at what Gary Johnson stands for, they won't vote for him], 55ngzm, 1475527570.0, 618
+80, [Matthew Yglesias on Twitter: The only way the email story could get any worse for Clinton would be if some kind of actual wrongdoing were unearthed at some point.], 5a09d3, 1477773540.0, 847
+81, [David Fahrenthold (WAPO) on Twitter: That's right: in 2009, @realDonaldTrump used $5K from his foundation to pay the winner of "Trump pays your bills" contest on TV show Extra.], 55t4rn, 1475611216.0, 762
+82, [Voter Fraud Is Very Rare In American Elections], 580tuj, 1476778552.0, 18
+83, [Shameful Silence on Donald Trump's Lies About Vote-Rigging], 583czq, 1476820667.0, 15
+84, [Clinton Leads by 7 Points in North Carolina Poll], 59amzb, 1477425839.0, 437
+85, [Clinton OVERTAKES Trump in RCP Average of Arizona Polls!], 58d6up, 1476944171.0, 27
+86, [Joe Biden PASSIONATELY Calls Out Donald Trump on His PTSD Comments, Shares Story of Son Beau.], 55qb1f, 1475561925.0, 727
+87, [That face when you're only 15 points ahead of the other guy...], 58f6jd, 1476969136.0, 22
+88, [Serious Question: How would the movie "13th" affect Black community support for Clinton?], 56ei1w, 1475914372.0, 1
+89, [President Obama: Outstanding 3 for 3 debate sweep for @HillaryClinton! Nobody has ever been more prepared to be @POTUS.], 58gug3, 1476999191.0, 560
+90, [Paul Ryan Sitting Among Undecided Voters At Town Hall Debate], 56prrc, 1476095659.0, 757
+91, [Literally just a picture of Tim Kaine with the American flag.], 562zz7, 1475745955.0, 31
+92, [NEW Monmouth Univ NATIONAL Poll of LV's: Clinton leads by 12 points!], 57yfnh, 1476752471.0, 348
+93, [Bernie Sanders on Twitter: "I have 7 beautiful grandchildren and 4 kids. I do not want Donald Trump to be their president"], 58sxn2, 1477168586.0, 732
+94, [The Salt Lake Tribune editorial board endorses Hillary Clinton for president (front page cover)], 573v7n, 1476305239.0, 413
+95, [FBI's Comey opposed naming Russians, citing election timing], 5aeekx, 1477971116.0, 1130
+96, [Nate Silver on Twitter: Huge surge last night in Google searches for how to donate to Clinton's campaign. (Much bigger than for Trump.)], 58hhci, 1477006394.0, 765
+97, [Breaking: In letter, US Senator accuses @FBI of withholding "explosive" info connecting @realDonaldTrump campaign to Kremlin], 5a8u53, 1477896479.0, 539
+98, [Three for Three], 58ez4l, 1476965937.0, 21
+99, [Hillary Clinton is winning the Breitbart Poll!!!!!!!], 58ex87, 1476965172.0, 18
+100, [Trump said he hopes 2nd amendment people stop Hillary. I hope 19th amendment people stop Trump.], 59nee9, 1477595512.0, 1027
+101, [Michael Moore Unveils Surprise Trump Film], 587dw7, 1476865296.0, 5
+102, [I get why she does rallies but I think they don't convince people to vote.], 59rstk, 1477646468.0, 0
+103, [Trump is Wrong. Wrong. A Surprise Attack on Mosul Is Impossible.], 58fjrn, 1476975691.0, 27
+104, [Sanders Announces Bill to Close Tax Loopholes Used by Trump], 55vplh, 1475642773.0, 1077
+105, [Jill Stein has 0% support among college educated white women. They're all supporting Hillary], 59bqns, 1477439262.0, 556
+106, [Hillary Clintons campaign is making its long-rumored move into Arizona, projecting confidence as it hopes to steal a red state with a win that the Clinton campaign says would effectively end Donald Trump's chances of becoming president.], 57xyx6, 1476747560.0, 390
+107, [A Veteran Spy Has Given the FBI Information Alleging a Russian Operation to Cultivate Donald Trump], 5afyui, 1477987118.0, 652
+108, [The Tampa Bay Times, Florida's most widely circulated newspaper, endorses Hillary Clinton for President.], 5661t8, 1475797905.0, 577
+109, [Poll: Clinton beating Trump by 5 in Arizona], 589uda, 1476906621.0, 314
+110, [This is Real - Lawsuit Alleging Donald Trump raped 13 year old girl refiled in court w/ new witness], 55s90c, 1475591823.0, 15
+111, [Hillary Clinton on Twitter: ".@FLOTUS, I'm in awe. Thanks for putting into words what's in so many of our hearts. -H"], 57bwxk, 1476413190.0, 473
+112, [Mike Pence Accused of Voter Suppression in Indiana], 57mb85, 1476571052.0, 627
+113, [Time for FBI director Comey to resign], 59xtns, 1477727942.0, 508
+114, [PublicPolicyPolling on Twitter: "Trump won the nomination because he was the only candidate who told the racists in the GOP it was ok to be racist. Bottom line."], 573mpc, 1476301521.0, 706
+115, [Sad Ted Cruz Phone-Banking For Donald Trump Is The Meme Of The Campaign], 56ayvq, 1475869989.0, 510
+116, [Congratulations Hillary Clinton, Our First Woman President], 56k2fs, 1476004727.0, 49
+117, [Elizabeth Warren on Twitter: "Give me a break, @realDonaldTrump. Youre not losing because its rigged. Youre losing because we see through your creepy bullying."], 58afzb, 1476914882.0, 449
+118, [AP: BREAKING: US official: Newly discovered emails related to Clinton investigation did not come from her private server.], 59w84q, 1477709702.0, 1208
+119, [Kurt Eichenwald on Twitter: The crazier trump sounds w/ his conspiracy theories, the more i wonder what he's really hiding by refusing to release a real medical report.], 58hms1, 1477008022.0, 13
+120, [Donald J. Trump on Twitter: The very foul mouthed Sen. John McCain begged for my support during his primary (I gave, he won), then dropped me over locker room remarks!], 56z3ms, 1476234592.0, 807
+121, [Garry Kasparov:"Saying that fair elections are rigged is as much a crime against democracy as saying that rigged elections are fair."], 57nb5l, 1476584115.0, 565
+122, [Ana Navarro on Twitter: Not being funny. Just woke-up. Can't keep track of # of accusers against Donald Cosby. Oops! I mean Donald Ailes. Oops! I mean Donald Trump.], 57r7hc, 1476649851.0, 405
+123, [If the election is really rigged, 33 states are rigged by Republicans], 58a6g2, 1476911482.0, 22
+124, [Trump sex tape lie is his most blatant lie yet], 56pw2l, 1476097154.0, 29
+125, [Okay, she got undecided voter Ken Bone! "It would be unconscionable for me" to see marriage equality rights "taken away by a Supreme Court justice appointed by Donald Trump"], 5701td, 1476244990.0, 630
+126, [Clinton to nation: let's bury Trump under landslide], 57g44l, 1476477317.0, 529
+127, [Forget This Hillary Is Unlikable Stuff. Hillary Is Downright Inspiring.], 578dbj, 1476359409.0, 43
+128, [Cher on Twitter: "SOME1"PLEASE"TELL ME,HOW CAN A 70 YR OLD MAN SAY"IT WAS 10Yrs AGO" R WE SUPPOSED 2CUT THIS ANIMAL SLACK,CAUSE HE WAS ONLY 60PUL-EASE"], 56h7iu, 1475966317.0, 559
+129, [Reminder: Hillary Clinton is extraordinarily popular  if you dont count white people], 57lp4h, 1476560533.0, 305
+130, [Don't let Trump's nice guy act during this hurricane fool you.], 569fng, 1475839568.0, 9
+131, [If Hillary Clinton wins, the smart thing for the GOP to do is say she won fair and square, ensuring that the blame for the party's defeat goes to Donald Trump himself. If Republicans agree with the "rigged election" thesis, they will prove they truly are the party of Trump.], 584oj3, 1476836402.0, 30
+132, [Just saw Hillary in person. Madam President is made of steel.], 591eix, 1477293534.0, 361
+133, [Thank you r/hillaryclinton for being a readable subreddit.], 584fcn, 1476833735.0, 488
+134, [ppl like "what's with Hilary's pantsuit, she looks like a interplanetary leader from the future." FUCKING DUH DRESS FOR THE JOB YOU WANT.], 58iz16, 1477022001.0, 569
+135, [Independent Conservative Presidential Candidate Evan McMullin on Twitter: .@realDonaldTrump, Yes youve never heard of me because while you were harassing women at beauty pageants, I was fighting terrorists abroad.], 5a44xd, 1477824464.0, 757
+136, [WashPo: In 1993 we interviewed Hillary Clinton about religion and politics. Heres what she said.], 583x87, 1476827991.0, 10
+137, [Sending Tim Kaine good vibes tonight for the VP debate, as he fights for our country.], 55toy8, 1475619570.0, 623
+138, [As Donald Trump derides sexual-assault accusers, gruesome details of rape allegation surface], 588t70, 1476885675.0, 26
+139, ["Hillary Clinton thinks your daughter could be president someday and Donald Trump would like to grab her by the pussy. Your move, America." Mike Birbiglia], 56sn5u, 1476143570.0, 691
+140, [Hillary Clinton Nukes Donald Trump's Remaining Chances], 58gcko, 1476992139.0, 24
+141, [Remember y'all: they go low, we go high.], 57yvp3, 1476757001.0, 539
+142, [Draft-Dodger Donald Trump Implies PTSD Sufferers Are Weak: During a Q&A with veterans, the aspiring commander in chief dishonored service members with the disorder by implying they are weaker than their peers without it.], 55s8jg, 1475591529.0, 10
+143, [How low can Trump go in the polls? New surveys suggest the GOP nominee is perilously close to a historic rebuke.], 583arv, 1476819641.0, 248
+144, [Rick Wilson (GOP Strategist) on Twitter: "I get hate mail! "There are only a few of you #nevertrump cucks." Me: "And yet, you suffer so.""], 58lza8, 1477062696.0, 12
+145, [Bernie Sanders on Twitter: Donald Trump is the least qualified person to become president in the history of our country. Go vote! #debatenight http://iwillvote.com], 58efa0, 1476958870.0, 30
+146, [Trump Organization uses really, really insecure e-mail servers. Sad!], 587o77, 1476868910.0, 20
+147, [Am sure they never knew back then they'll become President.], 57tp9w, 1476681854.0, 26
+148, [Senate Update: The Last Week Has Been Very Kind To Democrats' Hopes For A Majority], 58mybw, 1477081993.0, 12
+149, [Here's a pretty good debunking of the latest installment of "But emails!" part 3,472], 580sl5, 1476778149.0, 21
+150, [Got my ballot in the mail today!], 58e6id, 1476956102.0, 8
+151, [Wil Wheaton on Twitter: "The Republican nominee for president today told his supporters to commit voter fraud. But something something email, so \_()_/"], 5aag1m, 1477917132.0, 538
+152, [I love this picture ], 55r6cf, 1475573881.0, 39
+153, [Christopher Hayes on Twitter: "Wallace is wrong Clinton not offering a plan on "securing the southern border." The bill she supports had HUGE border security components."], 58e477, 1476955406.0, 9
+154, [Eh, it's probably for the best that for once Trump went above expectations in the long run.], 56qkzv, 1476107252.0, 3
+155, [Hillary Clinton edges ahead of Donald Trump after first debate - CBS News poll], 55qh81, 1475564158.0, 24
+156, [When you protest a Trump rally but no one realizes your shirt says "Latinas AGAINST trump" so they take pics w/ you like you're supporters], 58v6qd, 1477198735.0, 1004
+157, [The debate summed up in one photo.], 58f9gs, 1476970483.0, 44
+158, [The women who have accused Donald Trump], 585chl, 1476843175.0, 11
+159, [Chris Hayes on Twitter: Before this history gets re-written in real time. The "turning point" in the race was the 1st debate, not the Access Hollywood tape.], 587qky, 1476869762.0, 513
+160, [This is what we're fighting against folks. Leave it up to the republicans to put anti-LGBT legislation in a "must pass" defense bill.], 59h916, 1477513964.0, 963
+161, [Hillary Clinton on Twitter "That feeling when you win three straight debates. "], 58ezli, 1476966134.0, 22
+162, [Trump is a good guy], 581jgf, 1476787501.0, 11
+163, [PSA: "Bigly" is not a word], 58e50v, 1476955669.0, 18
+164, [Philly Inquirer on Twitter "EDITORIAL | @HillaryClinton is easily the best candidate for president"], 58obk2, 1477098221.0, 19
+165, [GOP have already declared Mike Pence the winner of tonight's debate. Oops. ], 55wcp6, 1475650570.0, 361
+166, [Donald Trump: I Didn't Apologize To My Wife After Sex Allegations (The Huffington Post)], 58ezof, 1476966166.0, 24
+167, [Tim Kaine delivers full speech in Spanish], 587efs, 1476865470.0, 12
+168, [What have liberals done good for this country? What about conservatives?], 581hba, 1476786768.0, 7
+169, [This BAD HOMBRE is Voting Hillary!], 58egjz, 1476959263.0, 28
+170, [Donald Trump Is a Worse Crook Than Bernie Madoff ~ Madoff only scammed his rich clients. Trump could scam us all.], 55qtnz, 1475568827.0, 17
+171, [Hillary +10 nationally (Fairleigh Dickinson)], 55z7f0, 1475699297.0, 342
+172, [A new worry for Clinton: Trump's struggles may depress Democratic voter turnout], 56v47d, 1476171104.0, 4
+173, [What if every woman got their own Anderson Cooper when they talked? "Please don't interrupt her, she did not interrupt you."], 56xu5a, 1476219294.0, 417
+174, [Why wont she say this?], 58d3ug, 1476943235.0, 0
+175, [Much-Improved Clinton Zinger Game Leaves Trump Sputtering Incoherently About Puppets], 58ezqq, 1476966190.0, 17
+176, [I Was A Trump Taj Mahal Cocktail Waitress  Here's Why He Shouldn't Be President], 57fchl, 1476462036.0, 17
+177, [Trump looms behind Clinton at the debate], 56pxm1, 1476097659.0, 24
+178, [Chelsea Handler on Twitter: She got Bin Laden; you didn't even get an Emmy.], 58eib7, 1476959808.0, 618
+179, [ Paul Ryan: If Republicans Lose the Senate, Bernie Sanders Wins], 583iwl, 1476822967.0, 778
+180, [Donald Trump Hits Nasty Hillary Clinton, Democracy: The GOP nominee was sedated and sane for 30 whole minutes at 2016s final presidential debate, and then he went back to his normal conspiracy theory-believing self.], 58f5lg, 1476968728.0, 9
+181, [Let's say, hypothetically, Bernie had won the nomination. What would the margin between him and Trump look like right now?], 58dmhf, 1476949312.0, 4
+182, [Michael Moores Secret Donald Trump Movie], 584mmz, 1476835860.0, 24
+183, [Mic on Twitter "Hillary Clinton won the second #debate, mostly because Donald Trump totally imploded"], 56pxw6, 1476097753.0, 22
+184, [The difference between Trump and a hand dryer is the hand dryer will actually do something for you. -KC King], 55rmu2, 1475580557.0, 12
+185, [So, Pence, you NEVER said Putin was a better leader than Obama? Oh, girl...], 55xahz, 1475662945.0, 412
+186, [Obama denounces Trump's predatory comments, calling him 'insecure'], 56o6pt, 1476074752.0, 496
+187, [Convince me to vote for Hillary without anything referring to a different party/candidate], 5866e2, 1476851597.0, 8
+188, ["I'm not bossy. I have leadership skills."], 55llu8, 1475490056.0, 476
+189, [Women, like me, are suffering in silence amid sexual harassment], 588qup, 1476884466.0, 13
+190, [Obama tries to get inside Trumps head ~ The president is using his status and stature to emasculate the beleaguered Republican nominee.], 588cl4, 1476877994.0, 16
+191, [Omaha (NE) World-Herald breaks 80 year tradition, endorses Hillary Clinton for President.], 57pgma, 1476613266.0, 396
+192, [Vox: Donald J. Trump's meltdown wasnt an accident. The Clinton campaign coolly analyzed his weaknesses and then sprung trap after trap to take advantage of them.], 58idzh, 1477015858.0, 33
+193, [IT'S HAPPENING: 538's Polls-Plus Forecast Now Predicting Clinton More Likely to Win in a Landslide than Trump to Win AT ALL.], 5814dz, 1476782242.0, 47
+194, [Alex Burns (Political correspondent for @NYTPolitics @NYTMetro) on Twitter: "In almost ANY OTHER situation, a politician calling opponent a "nasty woman" would be most explosive moment of the debate/week/entire race"], 58flfd, 1476976577.0, 18
+195, [Friends of the Earth Action, a former Bernie Sanders environmental Super PAC: "Vote for Clinton, not Stein"], 589zqa, 1476908921.0, 324
+196, [Donald Trump Must Withdraw. Here's Why.], 58irsa, 1477019856.0, 8
+197, [It's fitting that Clinton's final opponent before becoming the first female President is an old-school, misogynist blowhard. It's also fitting that the politician to finally humiliate Trump is a strong, competent woman.], 58fgwd, 1476974154.0, 31
+198, [Draft-Dodger Donald Trump Suggests U.S. Soldiers, Veterans Commit Suicide Because They Cant Handle Post-Traumatic Stress], 55pbg1, 1475550378.0, 28
+199, [(((Harry Enten))) (538) On Twitter: "This was a field of 17... More GOP primary voters chose Trump than any other candidate. It's on them."], 56glo3, 1475955703.0, 595
+200, [11 Days], 59u3rk, 1477686142.0, 291
+201, [doing my part to make history here in California!], 581om4, 1476789450.0, 51
+202, [Congratulations! /r/HillaryClinton now has 30,000 subscribers! #StrongerTogether], 56mk42, 1476054542.0, 492
+203, [Its time we admit that the Hillary Clinton liar label is sexist garbage], 598oic, 1477391105.0, 42
+204, [Hillary is beating Trump in the Breitbart debate poll], 58f69k, 1476969016.0, 13
+205, [CNN: Condi Rice responds to report Trump called her a "bitch" in 2006: "Can't wait until November 9!"], 587d8g, 1476865075.0, 73
+206, [Tim Kaine makes history: Delivers speech entirely in Spanish during Spanish-language church service], 57s39f, 1476662989.0, 585
+207, [30 years of experience | Hillary Clinton], 58f4zv, 1476968472.0, 26
+208, [Former Apprentice Contestant Summer Zervos Says Donald Trump Sexually Harassed Her After The Show], 57i448, 1476500901.0, 448
+209, ["Grab em by the pussy: how Trump talked about women in private is horrifying], 56dqj9, 1475904020.0, 34
+210, [This meme has been debunked, buuuuut....], 59m5mf, 1477571097.0, 17
+211, [Donald Trump lost another debate by making it all about himself], 58eylg, 1476965714.0, 10
+212, [A President Trump could destroy the world economy], 563rec, 1475757460.0, 13
+213, [Senator Tim Kaine on Twitter "No question who won [last night]. Donald focused on Hillary. Hillary focused on the American people. "], 56rsml, 1476132662.0, 502
+214, [Hillary Clintons 3 debate performances left the Trump campaign in ruins], 58gy4t, 1477000491.0, 17
+215, [Trump on the Commission for Presidential Debates: "I have no respect for that group by the way, I'm done."], 575hzx, 1476324076.0, 426
+216, [Stop Saying A Trump Win Would Cause A Recession], 580udz, 1476778747.0, 4
+217, [CBS Breaking News: More questionable footage of Trump's comments on women -- In an Entertainment Tonight Christmas feature in 1992, Trump looked at a group of 10-year-old girls and said he would be dating one of them in ten years. At the time, Trump would have been 46 years old.], 577dew, 1476345630.0, 567
+218, [Hillary Clinton Bar Talk - SNL], 587e69, 1476865380.0, 51
+219, [Texas poll: Clinton within 4 points of Trump, 4743%.], 57ed46, 1476443581.0, 381
+220, [The Clinton campaign wants help from any lawyers or law students to assist voters navigating new voting restrictions on Election Day. Text LAWYERS to 47246.], 587qvs, 1476869865.0, 20
+221, [Donald Trump has been making disturbing comments about young girls for years], 584l9u, 1476835484.0, 14
+222, [((Harry Enten))) (538) On Twitter: "Trump Right Now..."], 572t9v, 1476283250.0, 10
+223, [I just need to declare it....], 56e07x, 1475907463.0, 535
+224, [Nick Offerman: Hillary Clinton is the 'sane,' 'moral' choice], 561vh2, 1475731112.0, 458
+225, [BuzzFeed CEO Says Ivanka Trump Ain't No Stranger To Locker Room Talk], 58dvjf, 1476952435.0, 7
+226, [Joy Behar: It's interesting to me that a man who dodged the draft 6 times, who did not pay taxes for 18 years, and got free media attention for a year, is saying that the system is rigged against him. It sounds to me that the system is rigged FOR him.], 585bnr, 1476842939.0, 680
+227, [Just a picture of Donald Trump and his daughter Ivanka.], 58h708, 1477003283.0, 3
+228, [RNC halts Victory project work for Trump], 56ia6a, 1475980248.0, 556
+229, [POLITICO on Twitter: .@POTUS: Id invite Mr. Trump to stop whining and go try to make his case to get votes.], 584sim, 1476837555.0, 38
+230, [Women tell Trump his obscene comments are 'not OK' in powerful new video], 586jqt, 1476855467.0, 34
+231, [Clinton's Choice to Wear White at Debate Conveys Struggle of Suffragists, Says Expert], 58ip8v, 1477019090.0, 13
+232, [Trump Supporter Questions Clinton's Qualifications Because She May Get Her Period], 586jqe, 1476855464.0, 29
+233, [Hillary Clinton on Twitter: "Education is at stake. The environment is at stake. LGBT equality are at stake. Equal pay is at stake. IWillVote.com"], 5a6bom, 1477867682.0, 420
+234, [Breaking News from Brian Thompson on Twitter: "URGENT BREAKING: NJ judge issues Probable Cause criminal summons vs. @GovChristie for official misconduct in office #Bridgegate @NBCNewYork"], 57ags9, 1476397015.0, 673
+235, [Casey Michel (investigative journalist) on Twitter: "Trump defended Putin ceaselessly, and refused to recognize a democratic vote. He'll be a fine ex-Soviet autocrat in the next life. #debate"], 58fc4j, 1476971803.0, 14
+236, [Monmouth OH poll: Clinton 44, Trump 42], 560icl, 1475715633.0, 419
+237, [Clinton Holds 11-Point Lead in Colorado  Monmouth Poll], 563h5a, 1475752874.0, 37
+238, [Hillary Clinton on Twitter: "Its amazing that Im up here after Donald. I didnt think hed be OK with a peaceful transition of power." Hillary at the #AlSmithDinner], 58kwge, 1477045159.0, 424
+239, [Richard Hine: "Trump: Don't judge me on the man I was 10 years ago. But please judge Hillary on the man her husband was 20 years ago #TrumpTape"], 56foch, 1475933473.0, 837
+240, [Richard N. Haass (President, Council on Foreign Relations) on Twitter: "Defining feature of american democracy is legitimacy of vote & peaceful transfer of power. World will note that this is no longer a given"], 58fe0l, 1476972675.0, 30
+241, [Paul Ryan might still fully rescind his endorsement before Nov. 8, sources told POLITICO.], 56xsgt, 1476218593.0, 521
+242, [Showing Confidence, Hillary Clinton Pushes Into Republican Strongholds], 583hdv, 1476822393.0, 23
+243, [The Noose], 584fhi, 1476833772.0, 25
+244, [It's November 8... When do they call it?], 563d44, 1475751179.0, 11
+245, [45], 59215h, 1477301899.0, 338
+246, [New Rasmussen National Poll, Clinton 45, Trump 38. 7 point gain.], 56rqax, 1476131634.0, 411
+247, [WMUR poll: Clinton widens lead to 15 percentage points over Trump in Granite State], 58cvtv, 1476940717.0, 333
+248, [Merced (CA) Sun-Star: Hillary Clinton should be our next president], 584jad, 1476834910.0, 15
+249, [Hillary Clinton supporters explain their vote: 'She's the best person for the job'], 561xt0, 1475731880.0, 15
+250, [Donald Trump's Lead Is Not Bigger In Texas], 587rtx, 1476870189.0, 24
+251, [Former PEOPLE Writer Natasha Stoynoff Speaks After Trump Controversy: 'We Cannot Be Silent Anymore'], 584pj7, 1476836702.0, 24
+252, [Study: Bots accounted for a third of all pro-Trump Twitter activity during the debate], 5826f1, 1476797013.0, 411
+253, [Why should I vote for Hillary Clinton.], 59ihg1, 1477528101.0, 0
+254, [Hillary Clinton's pantsuits for the presidential debates have been red, white, and blue.], 58grrq, 1476998211.0, 23
+255, [People magazine plans story that backs reporter's assault claims], 584j8e, 1476834893.0, 21
+256, [lvdjgarcia on Twitter: Dear Dems: That anger & outrage youre feeling right now? Hold on to it, use it to fuel efforts to elect Hillary, a Dem House & a Dem Senate], 5a2gvy, 1477802073.0, 453
+257, [So Donald Trump lost more than $50mm of daddy's money by the age of 33. Born on 3rd base, stranded on 1st.], 5636ma, 1475748554.0, 67
+258, [Never thought I'd vote for Hillary.], 5aceiy, 1477951596.0, 255
+259, [Til that Hillary's website sells champaign flutes. Unfortunately, they're sold out right now.], 58ezts, 1476966219.0, 9
+260, [2 Women Accuse Donald Trump of Groping Them: 'It Was an Assault'], 5779rz, 1476344261.0, 31
+261, [Salute to the motherfuckin president], 58etfu, 1476963704.0, 86
+262, [It's The Ten Vote Commandments], 584omz, 1476836436.0, 14
+263, [White Stripes Disgusted That Seven Nation Army Has Any Association With Trump.], 55xdwi, 1475664227.0, 24
+264, [Dammit, he's crawling back again. SUPPORT SUPPORT SUPPORT!], 5a8zzq, 1477898361.0, 15
+265, [Trump for Prison], 57iwd2, 1476510020.0, 12
+266, [Proudest moment of my adult life: voting for Hillary Clinton], 59q71q, 1477627704.0, 59
+267, [Glenn Beck Says Michelle Obama Delivered 'The Most Effective Political Speech' Since Reagan], 57m9lv, 1476570409.0, 414
+268, [Ziwe on Twitter: "and THIS is the "Jim Halpert look" America has been waiting for"], 58fd7q, 1476972293.0, 18
+269, [What I worry about post-defeat is a scenario like this. is so incredibly irresponsible. (Yes i stole that for Cher, and i recommend we all stop calling him by name.)], 5817jb, 1476783334.0, 7
+270, [Yulia Tymoshenko, Ukraine's Clinton], 56tdju, 1476151493.0, 6
+271, [Hillary Clinton Responds, With Fervor, to Girls Question on Body Image: A 15-year-old girl: "I see with my own eyes the damage Donald Trump does when he talks about women"], 55ute5, 1475632823.0, 312
+272, [Revealing no understanding of Mormonism whatsoever, Trump said McMullin has been campaigning "coffee shop to coffee shop" in Utah.], 5a5ram, 1477858631.0, 815
+273, [My Halloween costume this year is going to be eeuge.], 581i9k, 1476787093.0, 297
+274, [I did a sniffle count while watching the debate], 56pvqh, 1476097043.0, 50
+275, [Shushannah Walshe(ABC News) on Twitter: Bernie Sanders on Hillary Clinton fundraiser audio released yday: "What she was saying is absolutely correct." @ThisWeekABC #ThisWeek], 55i7nm, 1475443725.0, 291
+276, [Bruce Springsteen on Trump: Hes such a flagrant, toxic narcissist that he wants to take down the entire democratic system with him if he goes.], 585lu9, 1476845809.0, 87
+277, [GOP will block Supreme Court nominees for Clinton, too: "I promise you that we will be united against any Supreme Court nominee that Hillary Clinton, if she were president, would put up," McCain said.], 57yn6x, 1476754553.0, 729
+278, [Michael Cohen on Twitter: "If Clinton wanted to troll Trump she'd have her campaign place full size pictures of his father around the debate hall"], 587fw8, 1476866010.0, 59
+279, [Trump insults women for entertainment], 5688v5, 1475823171.0, 12
+280, [The Miami Herald recommends Hillary Clinton for president of the United States], 57g09y, 1476475740.0, 412
+281, [Jonah Peretti (BuzzFeed) on Twitter: Surprised Ivanka would be shocked by lewd language. I met her once & she casually said: "I've never seen a mulatto cock, but I'd like to!"], 58d614, 1476943917.0, 16
+282, [Clinton expands push to red states with weeks left in the election], 583d5x, 1476820754.0, 17
+283, [Can Trump create millions of jobs? Don't bet on it. A study of the three casinos Donald Trump owned in Atlantic City shows they performed far worse than their rivals, losing more jobs and revenue.], 55rwhg, 1475584979.0, 16
+284, [Of course Bernie Sanders should pressure Clinton from the left. Heres why.], 59m7ub, 1477572058.0, 12
+285, [Throwback: Three years ago, Trump tried to boycott Glenfiddich whiskey. Slainte!], 57t9q1, 1476676760.0, 14
+286, [She completely owned this night.], 58ffv6, 1476973594.0, 15
+287, [Hillary Clinton on Twitter: This is horrific. We cannot allow this man to become president.], 56e2iu, 1475908308.0, 25
+288, [Phil Mattingly on Twitter: Text from a battleground staffer, who was with colleagues when the Post story hit. "Gasps. Collective gasps. There's no way to spin this."], 56durd, 1475905486.0, 39
+289, [Clinton has double-digit lead in new national poll; Hillary Clinton holds a 10-point national lead over Donald Trump with less than three weeks remaining in the race for the White House, according to a Colby College-Boston Globe poll released Wednesday.], 589puc, 1476904417.0, 232
+290, [CBS Evening News on Twitter: "BREAKING: CBS confirms Trump national political director Jim Murphy has left the campaign."], 58kttf, 1477044167.0, 482
+291, [Enough is enough: the 2016 election is now a referendum on male entitlement; Donald Trumps inflated masculinity and unabashed claim over womens bodies speaks to female voters lived experiences and, hopefully, mens need for change.], 57g3i4, 1476477076.0, 38
+292, [NEW Monmouth Univ NEVADA poll of LV's: Clinton leads by 7points.], 584x4q, 1476838841.0, 62
+293, [Apologies to all], 56rhjg, 1476127231.0, 33
+294, [Nate Silver on Twitter: People really need to check on house effects when comparing polls. For instance, CNN polls have had a 2-3 point Trump lean so far this year.], 57y6an, 1476749759.0, 43
+295, [Sanders: My emails would be just as bad about Clinton], 595elh, 1477354826.0, 645
+296, [#ImWithHer], 56pc36, 1476089975.0, 23
+297, [Katy Perry will ROAR for Hillary Clinton, with a performance to get out the vote in Philly on 11/5, the Saturday before Election Day], 58aacv, 1476912900.0, 32
+298, [Unable to control himself, Trump confirms everyones worst fears], 58ho4v, 1477008403.0, 19
+299, [Third party voting summed up], 55qbfd, 1475562064.0, 19
+300, [No more': Evangelical women are done with Donald Trump and his misogyny], 57i595, 1476501251.0, 36
+301, [Hillary Clinton on Twitter: #DebateNight], 58e0z2, 1476954288.0, 10
+302, [Clinton-Trump probably won't be the next Dewey defeats Truman.], 584lw7, 1476835650.0, 8
+303, [Can Clinton win Utah? Poll shows her tied with Trump and independent], 577hh6, 1476347095.0, 30
+304, [CNN/ORC Poll: who won the debate? Clinton 57% to Trump 34%], 56q37r, 1476099678.0, 478
+305, [Down Goes r/The_Donald!!!! Look how afraid they are to post on their own sub], 55w1cl, 1475646627.0, 18
+306, [Poll: 8-in-10 Trump backers say paying taxes is 'civic duty'], 55sgg5, 1475596496.0, 15
+307, [The hidden meaning behind Clinton's white debate outfit], 58f31q, 1476967576.0, 10
+308, [Amid 'rigged' election charges, Russia wants to monitor U.S. vote], 58okpp, 1477101002.0, 16
+309, [If only men voted. Ashamed to say I'm one of them], 57ehgw, 1476445424.0, 14
+310, [Evening Roundtable - 10/17], 580hdt, 1476774298.0, 52
+311, [I converted two Republicans earlier this week], 57lyns, 1476565472.0, 284
+312, [The polls are split between Hillary Clinton winning and  Hillary Clinton winning in a landslide], 585aoo, 1476842664.0, 26
+313, [Why's Trump in trouble? He's underperforming Mitt Romney], 57xac1, 1476739399.0, 19
+314, [Hillary Clinton should be our next president], 57r0mp, 1476645857.0, 46
+315, [James O'Keefe to attend debate as Trump's guest], 58dkiy, 1476948630.0, 4
+316, [Time to throw out the civility], 58cld6, 1476937653.0, 5
+317, [Clinton Probably Finished Off Trump Last Night], 58hjv9, 1477007157.0, 57
+318, [Guess who else uses private email?], 5a8y0h, 1477897739.0, 383
+319, [Sally Kohn on Twitter "Wow, seriously, @HillaryClinton's #AlSmithDinner speech is one of best I've ever seen her give. She's relaxed, affable and authentic."], 58kz4w, 1477046154.0, 30
+320, [World Leaders Watched Debate. Here's What They Say..], 58gija, 1476994739.0, 17
+321, [Donald Trump: Tax Code Genius-The Daily Show with Trevor Noah - Video Clip | Comedy Central], 55rziz, 1475586459.0, 14
+322, [Assange October Surprise... my book is 40% off!!!], 55sowh, 1475602277.0, 439
+323, [It's official for me, now VOTE AZ!!], 57q5gt, 1476624959.0, 60
+324, [Hillary Clinton wins third presidential debate, according to CNN / ORC poll (52% to 39%)], 58esqn, 1476963427.0, 88
+325, [The 2016 Race Is Over | Hillary Clinton and Donald Trump confirmed everything we already knew about them: She is presidential. He is not.], 58f090, 1476966381.0, 42
+326, [Emerson Polling: McMullin +4 in Utah (lol)], 58c4cy, 1476932809.0, 48
+327, [ARIZONA is now a pure toss-up according to Polls-Plus, we're only behind by .1%!], 59kvna, 1477553957.0, 446
+328, [Per Harry Enten: Clinton up 15 in new AP/GFK poll], 59jyi9, 1477543414.0, 434
+329, [Inappropriate and offensive: Ivanka Trump speaks out on father's lewd 2005 comments], 587e6n, 1476865383.0, 29
+330, [The line to vote in Hope Mills NC], 58io7q, 1477018794.0, 30
+331, [Trump on sex assault allegations: 'I am a victim'], 57lv6o, 1476563793.0, 331
+332, [Found this on my apartment door. My apartment complex has "no soliciting" policy, yet I'm not surprised this was on everyone's doors agains their will. Oh, and I ripped it... Oops. (Arlington, VA)], 569y5h, 1475848275.0, 11
+333, [Trump Is Wrong, Little Haiti Goes for Hillary 19 to 1], 58i1p2, 1477012365.0, 469
+334, [Jeb Bush on Twitter: As the grandfather of two precious girls, I find that no apology can excuse away Donald Trump's reprehensible comments degrading women.], 56e8j8, 1475910573.0, 653
+335, [Garry Kasparov on Twitter: Trump's "President Day 1" checklist: 1 Jail opponent. 2 Media crackdown. 3 Support Assad. Coincidentally, that was also Putin's checklist.], 56qccj, 1476103295.0, 784
+336, [Hillary Clinton 4 years ago.], 5a04q0, 1477771039.0, 465
+337, ["Clinton path to 300+ rock solid. Structure of race not affected by Comey's reckless irresponsibility. Vote and volunteer, don't fret or wet" - David Plouffe], 5a7bsq, 1477879641.0, 494
+338, [Clinton up 43-39 in Florida in new poll], 59n7qh, 1477591905.0, 323
+339, [The End of the Final Debate], 58h57l, 1477002733.0, 83
+340, [As Bernie Sanders heads to IA to campaign today, he writes an oped in the Quad-City Times: "On November 8, the choice is clear. Hillary Clinton for president."], 55n2ok, 1475520036.0, 263
+341, [Michael Moore's 'October Surprise': New Anti-Trump, Pro-Hillary Film], 58c6xn, 1476933529.0, 41
+342, [Thats it, I can no longer support Hillary Clinton.], 57vtd0, 1476711512.0, 78
+343, [Gave money to Bernie, Giving Money to Hillary, and just Voted for her too!], 56y1xz, 1476222354.0, 342
+344, [The New Yorker: The Illuminating but Unsurprising Content of Clintons Paid Speeches -- She's a Cautious Centrist with Advisers who Think About Policy], 57809a, 1476354090.0, 42
+345, [After tonight's debate (didn't support Hillary prior to this)], 58f92g, 1476970303.0, 100
+346, [New Poll Shows Clinton Leads Trump by 4 Points in Alaska], 5a3s0c, 1477819172.0, 417
+347, [Ive come to admire Hillary Clinton. What on earth happened? -- She's not perfect, but she has the qualities we need in a president.], 55keud, 1475473130.0, 85
+348, [Fox News National Poll: Hillary up 6], 586o4h, 1476856848.0, 188
+349, [For anyone who wants to make their own "I'm With Nasty Woman" t-shirt...], 58f0py, 1476966597.0, 45
+350, [Trump Is OK With Calling Ivanka a Piece of Ass and Other Horrible Things He Told Howard Stern], 56jsvk, 1476000641.0, 358
+351, [GOP tries to declare the winner of the debate 2 hours before it begins.], 55webf, 1475651151.0, 137
+352, [The importance of donating], 58j9cw, 1477025040.0, 17
+353, [Don Lemon's discussion of implicit bias just now was amazing.], 563dwj, 1475751510.0, 15
+354, [Donald Trump vs. American Democracy: Hes desperate for a reason to explain why hes losing.], 58n2k1, 1477083653.0, 34
+355, [I'm boycotting PayPal-Peter Thiel to Donate $1.25 Million in Support of Donald Trump], 57tix0, 1476679753.0, 33
+356, [Osama Bin Laden's death announcement interrupts "The Celebrity Apprentice" (May 1, 2011)], 58fdo3, 1476972508.0, 94
+357, [Hillary Calls Trump Tape Horrific], 56domr, 1475903361.0, 25
+358, [Clintons Greatest Debate Accomplishment Was Ignoring Trump as He Lurked Behind Her], 56pyku, 1476097988.0, 35
+359, [Limited by Johnson and Stein, Clinton still tops Trump in new Florida poll], 5686as, 1475822272.0, 15
+360, [Hillary Clinton Speech at Little Rock AME Zion Church in Charlotte (10/2/2016)], 55lfu3, 1475487571.0, 12
+361, [What you may not know about the polls and why they shouldn't be taken at face value], 56s8zh, 1476138944.0, 4
+362, [Louis C.K on Hillary: "I dont think she needs any advice from anybody. Shes unbelievable. [She] reminds me of my momshe works hard, and then she goes, All right, go ahead and talk, Im doing this. So I like her."], 56h0ha, 1475963252.0, 488
+363, [Bernie Sanders to Campaign for Hillary Clinton on the University of Arizona Campus on Tuesday], 580lyb, 1476775774.0, 34
+364, [Sopan Deb (@cbsnews) on Twitter: "This might get buried but Trump accused the Iraqi military of going into Mosul to make Hillary Clinton look good. Quite a thing to say."], 58f9o6, 1476970582.0, 70
+365, [If you are praying for an #OctoberSurprise or a terror attack, you might be rooting for the wrong candidate. You may also be a bad person.], 55twd5, 1475622143.0, 416
+366, [Does anyone have a video clip with Hilliary Clinton attacking Donald Trump and getting a huge applause afterwards?], 5ad6ld, 1477959537.0, 12
+367, [Updated Sabato Forecast Gives Clinton 352 Electoral Votes. Iowa, Utah, and Maine 2nd Tossups], 58f6s1, 1476969254.0, 12
+368, [Kaine calls for broad rethink to combating poverty], 5867d0, 1476851881.0, 11
+369, [Will Democrats Try to Tie the GOP to Trump? Could It Work?], 584vzl, 1476838523.0, 14
+370, [Represent. With pride!], 581hr0, 1476786924.0, 13
+371, [Kickback Allegations at Trump Tower], 564jv0, 1475774273.0, 12
+372, [neontaster on Twitter: "Getting booed offstage at a charity dinner 19 days before an election is a common tactic in 8-dimensional chess, cucks."], 58lvsk, 1477060779.0, 18
+373, [Donald Trumps astonishing, damaging refusal to accept the fundamental premise of American elections], 58h1fo, 1477001496.0, 20
+374, [The Trump Supporter Starter Pack], 55isah, 1475452462.0, 59
+375, [The Lead CNN on Twitter: ""You can't polish this turd" @VanJones68 on #Trump possibly not accepting election results "], 58ezjl, 1476966111.0, 27
+376, [Longtime Donald Trump surrogate Newt Gingrich on Thursday smacked down the Republican nominee, saying little Trump is frankly pathetic.], 57a8j2, 1476394037.0, 430
+377, [Report: Mike Pence considering quitting the Donald Trump ticket], 56kxbc, 1476019183.0, 31
+378, [Donald Trump to Howard Stern: It's okay to call my daughter a 'piece of ass'], 56k8da, 1476007309.0, 7
+379, [Donald Trump's collapse has Democrats eyeing once safe Republican seats], 57i81h, 1476502105.0, 28
+380, [Donald Trump wins the Nobel Peace Prize. Optimistic fiction.], 581lsz, 1476788362.0, 9
+381, [Woman says Trump groped her at Mar-A-Lago], 577anm, 1476344576.0, 59
+382, [Foreign Policy breaks with tradition to endorse Hillary Clinton], 56pwj3, 1476097297.0, 40
+383, [How Donald Trump Turned the Tax Code Into a Giant Tax Shelter], 55kntc, 1475476439.0, 15
+384, [Paul Krugman (NY Times) on Twitter: If we don't hear more from Comey, we just have to conclude that he was trying to swing election. And *that* should be the story.], 59vyny, 1477707007.0, 545
+385, [Former Miss USA contestant: Trump barged into room when we were naked | He walked in, he stood and he stared. He was doing it because he knew that he could."], 577ccf, 1476345187.0, 52
+386, [Kellyanne Conway tried to dub Clinton "Magic 46" because she supposedly can't break 46% in the polls. Clearly she got Hillary confused with someone else.], 577g9y, 1476346680.0, 47
+387, [Chris Wallace And The Banality Of Conservative Dishonesty], 58irld, 1477019795.0, 20
+388, ["We are black, we are proud, and heres why we are working to elect Hillary." Hillary for America staffers on why they're with her], 57in4d, 1476506935.0, 22
+389, [Body language expert says Trumps lurking a pre-assault indicator: I was really getting nervous], 56s7sp, 1476138536.0, 21
+390, [And They Were Offended to Be Called Deplorables...], 57se4w, 1476666582.0, 521
+391, [Seth MacFarlane: "South Park's Family Guy episode was funny. So was SNL. If I can take it, a Presidential candidate can. Sack up."], 57syjm, 1476673153.0, 601
+392, [Gideon Resnick (Reporter @thedailybeast) on Twitter: "Katrina Pierson when pressed on Trump's ban: "So what? They're Muslim.""], 569pr9, 1475844012.0, 24
+393, [Clinton Says Her White Grandchildren Are Spared the Fearful Experiences Many Black Children Face: "Every child deserves the same sense of security. Every child deserves the same hope."], 55ngd5, 1475527281.0, 271
+394, [My two cents on the Donald Trump situation], 57p2pl, 1476607486.0, 16
+395, [Donald Trump Finds Worst Possible Character Witness To Dispute Assault Allegations], 57jxj5, 1476524214.0, 15
+396, [Millennial Spotting at FL Hillary Rally], 55pzjo, 1475558005.0, 14
+397, [Des Moines Register's endorsement: Clinton a vote for American values], 57p1ee, 1476606948.0, 272
+398, ['who i'm voting for president' - endorsement from one of YouTube's biggest stars.], 570bfi, 1476247930.0, 44
+399, [Thought this was appropriate tonight - this is the letter written to Bill Clinton from George H. W. Bush on Inauguration Day 1993], 58ex29, 1476965102.0, 19
+400, [If Trump Drops Out, The Result Will Be A Horrible Legal Quagmire], 56evzk, 1475920189.0, 19
+401, [President Donald Trumps Team of Terribles Would Bring Bridgegate to Oval Office: Secretaries Christie, Flynn, Gingrich, Giuliani, and Junior could all live up to the high bar their candidate has set for being dangerous and reckless.], 569k85, 1475841540.0, 18
+402, [NEW Monmouth Univ WISCONSIN poll of LV's: Clinton leads by 7points], 58bdwz, 1476925262.0, 90
+403, [Trump lead in Idaho down to 10%, survey predates the leaked tapes.], 587qsn, 1476869835.0, 27
+404, [Hillary Clinton Picks Up Support From Women, Swing Voters to Build Lead], 57xume, 1476746228.0, 28
+405, ['I'm just a Bill' could teach Donald quite a lot... (x-post /r/politicalhumor)], 56q2rf, 1476099505.0, 32
+406, ["Rump"], 55wfz2, 1475651734.0, 32
+407, [Can't wait to wear this to the polls!], 56cls4, 1475890754.0, 33
+408, [Donald Trump Made It Clear Sunday Night He Has No Intention Of Being President], 56pxfc, 1476097595.0, 58
+409, [Kurt Eichenwald on twitter: Word from inside @FBI. FURIOUS at Comey, think he's mishandled public revelations from get go. "Outrageous incompetence" one agent told me.], 59z3lj, 1477747642.0, 511
+410, [Hillary's record vs. Trump's record], 57vf8x, 1476705054.0, 24
+411, [Effectiveness Of Elizabeth Warren As Hillary Clinton Surrogate], 59mg0r, 1477575934.0, 12
+412, [Hillary Clinton on Twitter: "Tim Kaine is right: We should stop praising Putin. #VPDebate" (Video)], 55x9ow, 1475662672.0, 11
+413, [Trump's defense on taxes should be a yuge red flag for his supporters, for multiple reasons.], 55uh31, 1475629005.0, 19
+414, [Never trust a conservative. Every single outraged Republican will vote Trump in the safety of a voting booth.], 56kbu9, 1476008809.0, 111
+415, [Ivanka Trump says being a mother is a womans most important job.], 55pb1x, 1475550257.0, 22
+416, [Gavin Newsom on Twitter: "Thank you, @HillaryClinton. Sensible gun reforms do not mean your 2nd amendment right is being taken away. It means saving lives."], 58e2q6, 1476954887.0, 12
+417, [I present to you, the Trumpet.], 58f79a, 1476969461.0, 34
+418, [Ana Navarro rips Trump, surrogates, and apologists a new one and it's beautiful.], 55scxz, 1475594232.0, 31
+419, [daveweigel (WaPo) on Twitter: "Strange of Trump to invite the Benghazi mom to the debate so she could watch him make Hillary Clinton president."], 58fna9, 1476977632.0, 47
+420, [Late Night Roundtable - 10/04], 55rz6f, 1475586285.0, 33
+421, [BREAKING: Hillary Clinton is Going on the Air in TEXAS!], 57ypcz, 1476755171.0, 57
+422, [Bernie Sanders: Heres what Ill do the day after the election (The Boston Globe)], 59ufom, 1477690580.0, 17
+423, [Election 2016: Polls continue to show tough map for Donald Trump], 58n2au, 1477083571.0, 17
+424, [Vogue Endorses Hillary Clinton for President of the United States], 584qn0, 1476837020.0, 69
+425, [Women will be the reason], 56gz9u, 1475962670.0, 310
+426, [Bloomberg/Selzer National Poll. Clinton 47, Trump 38, Johnson 8], 589gbf, 1476899260.0, 235
+427, [Hillary Made One Big Mistake in the Debate: Promising Not to Raise the National Debt], 58iey2, 1477016121.0, 9
+428, [The etymology of "trump" is fascinating, relevant and funny. Read it in the comment section.], 572ts8, 1476283537.0, 9
+429, [Why should I vote for Hillary? I am undecided voter in SC.], 56ra77, 1476122695.0, 7
+430, [Cecile Richards on Twitter "I am so proud to stand with @HillaryClinton. She could not have been more poised or presidential. #SheWon #Debate #ImWithHer "], 56pvok, 1476097017.0, 48
+431, [New QPac National Poll: Clinton 47, Trump 40], 58bwr9, 1476930578.0, 211
+432, [Stephen King on Twitter "My newest horror story: Once upon a time there was a man named Donald Trump, and he ran for president. Some people wanted him to win."], 58okds, 1477100898.0, 79
+433, [Politico: 6 things Trump definitely said that Pence claimed he didnt], 55y5xo, 1475677055.0, 26
+434, [Women, independents flee Trump, propelling Clinton in polls], 577fk8, 1476346418.0, 40
+435, [538: Clinton Probably Finished Off Trump Last Night], 58hl5i, 1477007538.0, 31
+436, [Trump Facebook Group Calls for "Execution" of Jews and Blacks], 57plkh, 1476615457.0, 30
+437, [BREAKING: Court forces Ohio to allow most illegally purged voters to cast ballots], 58dvz6, 1476952583.0, 37
+438, [Wow. It is finally sinking in that in 8 days we could (will) have our first female president.], 5adzjt, 1477967186.0, 38
+439, [Bernie Sanders Explains Why A Vote For Clinton Helps 'Our Revolution'], 58ztyx, 1477274940.0, 36
+440, [(((Harry Enten))) on Twitter: "Live look at the Trump campaign..."], 56dump, 1475905444.0, 33
+441, [Oprah: You dont have to like her'], 58nm11, 1477090327.0, 18
+442, [Michael Reagan (Son of President Ronald Reagan) Retracts His Donald Trump Endorsement & He's Not The Only Republican To Say "Enough Is Enough"], 5645bk, 1475764958.0, 19
+443, [Hillary's Gay 'Nephew': Aunt Hillary Helped Me Come Out], 587rh2, 1476870065.0, 56
+444, [It has really been sinking in lately, and it is ELECTRIFYING: the next POTUS will be a WOMAN.], 58f1ni, 1476966952.0, 90
+445, [9 Days], 5a5mr4, 1477856095.0, 375
+446, [Paul Krugman on Twitter: "I think I'm seeing a shift in media narrative, from hyping the supposedly close election to Trump disaster porn. This could be a big deal."], 573rq6, 1476303775.0, 572
+447, [IBD poll gives Trump a Lead... Does anyone knows about this? Please make phone calls, go out and Vote!], 59360q, 1477319966.0, 14
+448, [Feels good man.], 55qid5, 1475564571.0, 64
+449, [Hillary for North Carolina on Twitter: Polls are officially open. #NCVotesEarly], 58gtwn, 1476998992.0, 389
+450, [Trump lead falls from 12 down to 3 in Kentucky], 58a8hz, 1476912232.0, 201
+451, [Opinions are like assholes], 55ucod, 1475627550.0, 6
+452, [New Clinton tool lets supporters auto-donate every time Trump tweets], 5877d1, 1476863057.0, 114
+453, [Sean Hannity Freaks Out After Megyn Kelly Mocks Him As Trump's Safe Space], 563lck, 1475754693.0, 48
+454, [Bill Weld on Comey letter: "If you don't know, keep your mouth shut. I think it's disgraceful."], 5ac5v7, 1477948695.0, 397
+455, [Just wanted to high-five myself by saying my wife and I both mailed our CA Hillary votes in this morning. Match me!], 57holu, 1476496146.0, 79
+456, [Trump supporters are asked about 2016 election rigging and... just remember these people are actually voting.], 568a18, 1475823602.0, 25
+457, [WATCH: New Hillary Clinton ad demolishes every Mike Pence lie from vice presidential debate], 562ckk, 1475737065.0, 31
+458, [Gazette opinion: Why Montanans should pick Clinton], 57r0v5, 1476646005.0, 33
+459, [Trump's Terrible Week Continues: A Closer Look], 55ymv2, 1475687963.0, 16
+460, [Undocumented immigrants pay more taxes than Trump], 55q1vj, 1475558766.0, 17
+461, [Trump's performance tonight was great. Just what I needed to fully support Hillary as our next President.], 58f1g7, 1476966882.0, 43
+462, [Blunt opens up lead on Kander in new poll - The Missouri Times], 5ae974, 1477969699.0, 14
+463, [Donald Trump's Abortion Fanfic: The GOP candidate vowed to overturn Roe v. Wade and drummed up ghastly images of babies ripped from wombspeddling in the worst kind of anti-abortion myths.], 58f793, 1476969459.0, 11
+464, [Donald Trump Accuser Says She's Fleeing Country Because She's Scared for Her Life], 5808vt, 1476771578.0, 14
+465, [Last time I was on this subreddit I was still feeling the emotions of the primary, now I have come to Enthusiastically support Hillary.], 581lxa, 1476788402.0, 223
+466, [Conservative Ben Howe on Twitter: Theres been more dirt dug up on Ken Bone during the last few days than was dug up on Trump during the entire primary season. #priorities], 57jog4, 1476520430.0, 342
+467, [Attacked by Donald Trump - A *PEOPLE* Writer's Story], 5783k3, 1476355390.0, 415
+468, [PGN Exclusive: Hillary Clinton addresses LGBT equality in op-ed], 566t54, 1475806461.0, 39
+469, [Yes, theres a rigged election: The one that ensures a Republican House majority], 58smf3, 1477162340.0, 439
+470, [HRC on Twitter: "Spoiler alert: He was actually wrong. "], 58bobs, 1476928181.0, 67
+471, [Angelo Carusone on Twitter "From tonight's Trump rally:"], 5818lj, 1476783704.0, 51
+472, [Hillary Clinton on Twitter: There are a lot of bullies in this world. The last thing we need is one in the White House.], 57ww5l, 1476733740.0, 320
+473, [Just to get down to a 50% shot at victory, Hillary's chances would now have to drop even more sharply than in any other 19 days in the general campaign], 58i74z, 1477013903.0, 23
+474, [Nearly half of the top post titles on /r/The_Donald are in all caps], 55k61k, 1475469985.0, 25
+475, [Reid: FBI director 'may have broken the law'], 5aakay, 1477919033.0, 34
+476, [Blazing through the BS], 5a42j3, 1477823484.0, 35
+477, ["Yeah, I heard. Yep. I know. I'm an idiot. Totally got this one wrong. Career killer for sure. Terrible instincts. Uh huh. Love you too, honey."], 57a057, 1476390766.0, 38
+478, [Hillary Clinton on 'Ellen': Don't think this election is over], 57fwkq, 1476474020.0, 343
+479, [Place your bets! How many Russians will downvote this?], 58fcla, 1476972011.0, 205
+480, [North Carolina Tomorrow (October 20th) is the start of Early Voting! Find Early Voting sites near you today using this link. Most will not be open tomorrow-be prepared!], 58bgne, 1476926048.0, 29
+481, [I've never been so excited to get mail. Happy to be making history.], 58vznz, 1477209409.0, 23
+482, [The Washington Post: The GOP declares debate victory for Mike Pence, 90 minutes before it starts], 55wkv0, 1475653541.0, 23
+483, [Yep.], 55qt44, 1475568622.0, 239
+484, [Election Update: Clinton's Lead Is Becoming Safer], 56848i, 1475821467.0, 28
+485, [Hillary Clinton on Twitter: Try our new tool! See how much you'd pay in federal income taxes if you paid the same as "billionaire" Donald Trump.], 55lvva, 1475494350.0, 27
+486, [Clinton up 9 in Virginia], 58aojo, 1476917658.0, 63
+487, [Trump confessed to sexual assault. LOCK HIM UP!], 571si8, 1476266569.0, 17
+488, [What A Trump Presidency Would Wreak On Europe And The Middle East By Carl Bildt Former Prime Minister Of Sweden], 55s9cx, 1475592051.0, 17
+489, [A Proposal to Bernie or Bust], 55o178, 1475535468.0, 15
+490, [I'm done with Trump.], 56pxkz, 1476097648.0, 354
+491, [Trump, Brexit, and the Future of Nationalist Populism in the US and Europe], 57eu59, 1476451245.0, 9
+492, [The Daily Show - Back in Black - Getting Out the Millennial Vote], 5686j7, 1475822354.0, 9
+493, [Genuine question : why do all trump supporters think everyone else is conspiring on everything against Trump], 5685u2, 1475822108.0, 12
+494, [Marla Maples swore if Donald Trump ran for President, she'd take him down. Now it appears she has.], 55rukn, 1475584058.0, 42
+495, [PRRI National Poll: Clinton leads Trump 51 - 36 (+15!)], 589w2o, 1476907362.0, 178
+496, [New PPP Wisconsin Poll: Clinton +12, Feingold +6.], 58clve, 1476937799.0, 186
+497, [ABC News on Twitter: 56% of Clintons backers in new @ABC tracking poll say theyre voting to support her, not oppose Trump, a new high], 593y7p, 1477336408.0, 379
+498, [Sam Stein on Twitter: And.... anti-Trump, pro-Clinton group files a DoJ complaint against Comey for election interference], 59wnae, 1477714156.0, 511
+499, [What I think of every time one of these guys get in front of a news camera], 55qk6j, 1475565236.0, 20
+500, [The real 4d Chessmaster], 58etuu, 1476963862.0, 39
+501, [Another Woman Shares the Horror Stories of Working for Donald Trump], 55oufq, 1475545014.0, 33
+502, [2016 Vice-Presidential Debate - Tuesday, October 4, 2016], 55wlk0, 1475653793.0, 128
+503, [New Yorker cartoon by Bent Schwartz: "Finish Him".], 58cxdk, 1476941170.0, 540
+504, [This political ad from the 60's sounds so terribly familiar, you'll gasp], 58c31g, 1476932426.0, 21
+505, [Newsweek: Vice president Joe Biden worries public sexism will grow if Hillary Clinton becomes president], 583blb, 1476820012.0, 20
+506, [Sally Kohn (CNN) on Twitter: Impossibly hard for Tim Kaine to debate someone who keeps running away from everything his running mate has said. #VPDebate], 55x97l, 1475662503.0, 21
+507, [Trump supporters--men with dogs--showed up at early voting polling place in Cincinnati to intimidate black voters. Yelling matches ensued.], 5abh7j, 1477938013.0, 139
+508, [The Case For A New National Holiday: Election Day], 58be9i, 1476925364.0, 56
+509, [I make a comic strip and we recently endorsed Secretary Clinton. We made this for other HRC supporters to share to help counter some of the negative portrayals of her out there.], 5732j1, 1476288984.0, 22
+510, [Hillary Clinton Photographs: Stories Behind Greatest Portraits], 588jia, 1476880916.0, 29
+511, [The Choice 2016: Clinton and Trump. Worth the 2 hour watch.], 55ws2k, 1475656183.0, 8
+512, [RNC Proclaims Mike Pence The Winner More Than An Hour Before The Debate], 55wrzf, 1475656146.0, 8
+513, [David Leavitt on Twitter: "Removing a baby "1 or 2 or 3 or 4 days before birth" is called a C-Section, not an abortion. #ImWithHer #debate"], 58f7yv, 1476969787.0, 109
+514, [Politico/Morning Consult (Post-Comey) Poll - Clinton +3 "Comey's letter has not moved the polls"], 5abrwy, 1477943425.0, 252
+515, [There's a new silent majority, and it's voting for Hillary Clinton], 58a6fn, 1476911477.0, 371
+516, [Trump's downvote brigade tried to hide this: PolitiFact rules Trump lied about the FBI investigation.], 58f5n0, 1476968746.0, 793
+517, [Hillary Clinton on Twitter: @TimKaine's spent his whole life fighting for working families, so I have no doubt he'll do the same tonight. Go get 'em, Tim. -H], 55wg0x, 1475651753.0, 114
+518, [CBS/NYT National Poll: Clinton leads by 9 in the four-way, 11 in the head-to-head], 580boh, 1476772484.0, 196
+519, [Bros4Hillary on Instagram: Hey #Georgia! We need you, yes YOU, to make sure you #register to #vote! Did you know #Georgians could have a huge impact on November's presidential #election?], 55kwrv, 1475479935.0, 66
+520, [GOTV Roundtable - 10/19  Wisconsin and Massachusetts: Today is the last day to register to vote], 589p74, 1476904075.0, 82
+521, [Michael Weiss (Daily Beast) on Twitter: Trump just admitted that he pays no personal income tax.], 56pm0k, 1476093615.0, 32
+522, [Wrote Hillary to see if she'd wish my wife a happy 30th birthday, and holy smokes she came through!], 5681qq, 1475820354.0, 426
+523, [(((Yair Rosenberg))) (Senior writer, @tabletmag) on Twitter: "Obama's Kenyan half-brother wants to abolish Israel and backs Hamas, which advocates Jewish genocide. Trump is bringing him to the debate."], 58di0g, 1476947799.0, 42
+524, [A Hillary Clinton secret: lots of voters really like her], 5aad6d, 1477915907.0, 58
+525, [Trump just told everyone to go vote on November 28], 571pip, 1476265424.0, 395
+526, [Elizabeth Warren on Twitter: ".@HillaryClinton doesnt whimper, whine, or run to twitter at 3am. She keeps fighting for those who need her. Thats why #ImWithHer. #debate"], 56pvzk, 1476097127.0, 394
+527, [Troll Trump: Donate to Hillarys campaign every time Donald tweets!], 586rl1, 1476857924.0, 14
+528, [Can You Guess Whether Donald Trump Or An Actual Dictator Said These Things?], 572gec, 1476276442.0, 18
+529, [Nevada Poll shows Joe Heck and Catherine Cortez Masto are in close race for U.S. Sen. Harry Reids seat], 55rt2c, 1475583360.0, 16
+530, [Rihanna endorses Hillary Clinton in the coolest, most Rihanna-y way possible], 58jelt, 1477026609.0, 28
+531, [The New Yorker's take on Hillary's debate prep (with ninjas)], 58d5ji, 1476943759.0, 30
+532, [McCain walks back pledge to block Clinton Supreme Court nominee], 584pki, 1476836711.0, 35
+533, [Mike Pence just revealed the core weakness of Trumps candidacy], 560l3q, 1475716501.0, 32
+534, [Jamelle Bouie on Twitter "There's no doubt that Pence is a great performer. But for 90 minutes, he lied about everything his running mate said."], 55xf9w, 1475664742.0, 247
+535, [BREAKING- Public Policy Polling NEW Florida Poll: Clinton-46% Trump-42% Johnson-5% Stein-1%], 57ipmb, 1476507754.0, 64
+536, [We need to start a campaign urging all media outlets, beginning the moment the election is called for Clinton, to cut Trump's microphone if he starts in about election fraud, calling the election illegitimate, refusing to concede, or advocating violence.], 58823s, 1476873921.0, 27
+537, [Trump's Clueless Debate Answers Spawn Hilarious #TrumpBookReport Tweets], 58fk2u, 1476975860.0, 19
+538, ["Hamilton" Parody by Lin-Manuel Miranda and Renee Elise Goldsberry at Hillary Clinton Broadway Fundraiser], 583hl6, 1476822469.0, 18
+539, [Hillary Clinton on Twitter ""President Hillary Clinton on her worst day would be so superior to a President Donald Trump on any day.""], 56hfew, 1475969345.0, 49
+540, [Hillary Remains Dominant], 59s2h4, 1477649717.0, 25
+541, [Marlow Stern (Daily Beast) on Twitter: .@Lin_Manuel and @reneeelisegolds dropping a Hillary Clinton rap #broadwayforhillary], 581nhx, 1476789009.0, 25
+542, [Kyle Griffin (Producer on MSNBC's @TheLastWord) on Twitter: ".@POTUS on fire, hits GOP: "Now suddenly you're OK with your nominee having a bromance with Putin.""], 58m4fv, 1477065826.0, 25
+543, [Trump support during presidential debates bolstered by social media bots, research claims], 58gzrn, 1477001026.0, 24
+544, [Bernie Sanders on Twitter: Anybody who is suppressing the vote because they know that those people will vote against them is a political coward.], 59o4o8, 1477605841.0, 474
+545, [My Husband and I Just Completed Our Mail In Ballots in Nevada], 581h3c, 1476786692.0, 40
+546, [Matt Wilstein on Twitter: One of those Supreme Court justices @realDonaldTrump floated, @SenMikeLee, just unendorsed him], 56prey, 1476095544.0, 526
+547, [2016 Presidential Town Hall Debate - Tuesday, October 9, 2016], 56p76b, 1476088051.0, 225
+548, [Paul Ryan Attacked Bernie Sanders. It Backfired Spectacularly.], 58pmxw, 1477112770.0, 46
+549, [Trumps lead over Clinton in a Texas poll is now within margin...], 580fwc, 1476773846.0, 46
+550, [Senator Tim Kaine on Twitter: If you dont know the difference between dictatorship and leadership, then youve have to go back to a fifth grade civics class. Tim], 55x7ep, 1475661850.0, 34
+551, [Question: Why don't Hillary Clinton or Barack Obama take a leadership stance against the Dakota Access Pipeline?], 57pbk3, 1476611131.0, 11
+552, [How will Hillary respond to Trump bringing up rape allegations by Paula Broderick?], 56kb2c, 1476008453.0, 10
+553, [Steve Weinstein on Twitter: "Clinton afterward went to greet the questioners. The American people. Trump goes to his own clan. Tells you a lot."], 56pu2j, 1476096469.0, 359
+554, [Trumps taxes are telling us something: "Trumps taxes are merely a reflection of everything else we know about the man  that he is driven by self-interest, to the exclusion of all else."], 56758h, 1475810195.0, 35
+555, [Yes She Can...], 5a8r7c, 1477895539.0, 248
+556, [Kurt Eichenwald on Twitter: Every current/former Dept. of Justice official I speak 2, GOP or Dem, says Comey must resign/be fired 4 election interference. All outraged.], 5a8v95, 1477896856.0, 388
+557, [OPINION: The Clinton Campaign Needs to Bring Up Trump University and the molestation case, and it needs to do it now.], 5a6tzz, 1477874037.0, 51
+558, [Hillary Clinton on Twitter: "Glad to hear @mike_pence, his staff, Secret Service, and the crew are all safe. -H"], 59rxtd, 1477648253.0, 435
+559, [Maine, Oregon and Pennsylvania considered states that Clinton (will) likely win.], 55qrc0, 1475567940.0, 27
+560, [Hombresforhillary], 58eylw, 1476965721.0, 71
+561, [Guy Benson on Twitter: "Biggest problem for Trump amid new allegations: He said on tape this is what he does to women."], 577bxl, 1476345045.0, 67
+562, ["We are Democrats. Lets make some more history"], 58aimx, 1476915771.0, 180
+563, ["My son was not weak"], 55rlue, 1475580110.0, 75
+564, [With 1 month to go: Every Battleground is BLUE on 538. Our hard work is paying off], 5692t4, 1475834412.0, 333
+565, [Hillary Clinton and Donald Trump's Debate Tactics: A Flowchart Comparison], 58evau, 1476964417.0, 23
+566, [Bernie Sanders on Twitter: How can Trump, with a straight face, object to outsourcing while his own company exploits workers around the world to make his products?], 55rkuy, 1475579678.0, 25
+567, [Michelle Obama's HEARTBREAKING Speech: 'This Is Not Something That We Can Ignore.'], 57kkcj, 1476534667.0, 51
+568, [Donald Trumps Meltdown Is Nearly Complete | His debate performance was disastrous because he succeeded at the only thing he came to accomplish: to pander to his demoralized supporters.], 56pzrg, 1476098415.0, 38
+569, [Clinton Says Trump Represents 'Rigged System': "Clinton said there needs to be a law that requires the nominee of the two major parties to release their tax returns."], 55p524, 1475548366.0, 22
+570, [Still with Hillary. She's not the lesser of two evils, she's a GREAT choice.], 56q51l, 1476100358.0, 44
+571, [Trump and Dictators of the world are of the same cloth.], 56td37, 1476151350.0, 17
+572, [Donald Trump is Never Gonna Be President Now], 56i66a, 1475978876.0, 19
+573, [12 Times Donald Trump Has Body-Shamed Stars], 567kzh, 1475814951.0, 17
+574, [Teens React to Trump's Access Hollywood Tape], 591efe, 1477293492.0, 19
+575, [Its Not Okay to Hate Hillary Clinton], 580rti, 1476777870.0, 20
+576, [Dear friends save America from darkness.], 55q1dc, 1475558599.0, 19
+577, [Mark Cuban on Twitter: Cant wait to give a big hug to my bestie @realDonaldTrump at the debate tomorrow night. I know you miss me!], 585ef4, 1476843702.0, 406
+578, [Interesting result from the Fox News Poll. Voters now believe that Clinton is better on every issue. Not included in this pic is "Honest and Trustworthy," Clinton now has a lead there as well.], 57dy3g, 1476437611.0, 77
+579, [Matt Hodges on Twitter: "This election isn't close."], 58179u, 1476783242.0, 33
+580, [Kasich: Rigged election claims are like saying we never landed on the moon], 58b9hr, 1476923985.0, 106
+581, [Georgia Has Flipped To Hillary Clinton In New Stunning Electoral Map Projection], 580geb, 1476774007.0, 100
+582, [A reminder that we're not out of the woods yet... the CNN Focus Group actually said TRUMP won the debate, 10-5!], 58f7t2, 1476969712.0, 9
+583, [Gabrielle Giffords on Twitter "@HillaryClinton showed tonight that she is the only candidate in this race who is prepared to be Commander-in-Chief. #debate"], 56pva7, 1476096887.0, 79
+584, [Chelsea Handler on Twitter: The only person with more respect for women than Donald Trump is Bill Cosby. #debate], 58ebjd, 1476957670.0, 45
+585, [Bon Jovi will be holding a GOTV concert for Hillary in Pittsburgh, PA on October 27th], 588igr, 1476880429.0, 37
+586, [David Duke Letter Urges Louisianans To Support Trump-Duke Ticket], 57usr8, 1476696134.0, 34
+587, [How Donald Trump supporters attack journalists], 56bxmd, 1475883096.0, 35
+588, [Georgia Senator Johnny Isakson (R): Republicans unlikely to stonewall a President Clinton], 55p52p, 1475548371.0, 37
+589, [Brian Stelter (CNN) on Twitter: The Omaha World-Herald last endorsed a Democrat for president 84 years ago. This weekend: endorsing Hillary Clinton], 57pqip, 1476617673.0, 61
+590, [WSJ Poll: Clinton Leads By 3 In Bellweather Nevada], 55rdnp, 1475576765.0, 92
+591, [Kyle Griffin (MSNBC): Statement From Khizr Khan], 56q1nx, 1476099088.0, 25
+592, [Well this is encouraging], 563iyz, 1475753681.0, 27
+593, [Bernie Sanders on Twitter: "The job of the next president is to bring us together, not divide us up. Sadly, Trump has made bigotry the cornerstone of his campaign."], 55rzrt, 1475586584.0, 29
+594, ["She's a flawed candidate."], 580hgl, 1476774324.0, 89
+595, [Erick Erickson: To sum up: Republicans who, four years ago, blasted middle class voters for paying no taxes, are praising Trump for not paying taxes.], 55if6q, 1475447244.0, 537
+596, [Elizabeth Warren on Twitter: "It's not rigged, @realDonaldTrump. You're losing fair & square. Put on your big-boy pants because this is what accountability looks like."], 58akzy, 1476916525.0, 233
+597, ["We have 17 intelligence agencies, civilian and military, who have all concluded that these espionage attacks, these cyberattacks, come from the highest levels of the Kremlin, and they are designed to influence our election."  Hillary Clinton on October 19th, 2016 in the third presidential debate], 58ftyc, 1476981844.0, 48
+598, [Hillary Clinton on Twitter: Newspapers that have endorsed @realDonaldTrump: 1. ... 2. ... 3. (Uh, the National Enquirer?)], 55lnq9, 1475490863.0, 45
+599, [Hey Arizona! We're counting on YOU!], 59086w, 1477279441.0, 429
+600, [Bill Maher on Twitter: "CBS News leads with yet another email story, not Trump's subverting democracy itself. Like my dog, media has no clue about the size of things."], 583fho, 1476821644.0, 340
+601, [New TU National Poll: Small sample size, but interesting result.], 58ol8p, 1477101156.0, 40
+602, [Democrats dream the unthinkable: Speaker Pelosi], 57wrpl, 1476731550.0, 51
+603, [Clinton campaign sending money to Missouri], 5876t3, 1476862872.0, 35
+604, [Hillary leads by 2 in Nevada and 1 in North Carolina, Trails by four in Ohio.], 57y64e, 1476749706.0, 34
+605, [RNC Declares Pence the Winner of the Debate -- Before It Starts], 55wkd1, 1475653365.0, 21
+606, ["Reid says he's talked w/ top NatSec officials who say that Comey possesses explosive information about Trumps ties to Russia" -Sam Stein], 5a8iyw, 1477892999.0, 377
+607, [Fat Check Him], 56pv66, 1476096842.0, 93
+608, [Meet the janitors who gave up their weekend to campaign for Hillary Clinton in Nevada], 589zgb, 1476908806.0, 162
+609, [There is no evidence that FBI Director James Comey financially benefited from Bill and Hillary Clinton's charitable foundation.], 55qlk6, 1475565731.0, 56
+610, [Humphrey Bogart did a better Donald Trump than Alec Baldwin], 57ri7d, 1476654912.0, 12
+611, [A Running List Of The Women Who've Accused Donald Trump Of Sexual Assault], 57ji35, 1476517943.0, 13
+612, [WATCH: Michelle Obama taps microphone to mock Trump], 55wplq, 1475655266.0, 12
+613, [Stephen Reacts LIVE To The Third Presidential Debate], 58flzu, 1476976905.0, 22
+614, [THESE are the guys who are going to "clean up" D.C. and bring "ethics reform"??], 581p43, 1476789644.0, 22
+615, [Kaine vs. Pence: When Midwestern Nice meets Midwestern Lies], 564uxo, 1475781174.0, 21
+616, [My first political post and subreddit ban all in one!], 55rvm2, 1475584543.0, 22
+617, [Bernie Sanders on Twitter: "We are not going to allow Donald Trump and other demagogues to divide us up. We will stand together."], 57uqh1, 1476695271.0, 69
+618, [MAKE AMERICA GROPE AGAIN!], 56e2pn, 1475908376.0, 70
+619, [Clinton: Trump confuses leadership and dictatorship], 55rf3s, 1475577342.0, 69
+620, [Top Latino group picks Clinton for first-ever endorsement], 587obq, 1476868951.0, 30
+621, [Bill Clinton (Future First Gentleman) on Twitter: Campaigning across Ohio for @HillaryClinton & stopped at Starting Lineup in Youngstown. No time for a cut but took the chair for a spin!], 560s03, 1475718649.0, 32
+622, [CNN / ORC poll: Trump should release his tax returns], 55s4p1, 1475589329.0, 16
+623, [During the Iraq War, families of the fallen were left behind, so Hillary Clinton pushed for change.], 581iet, 1476787144.0, 17
+624, [Twitter responds brilliantly after Trump and Clinton ask Muslims to report threats], 57248i, 1476271102.0, 17
+625, [The Morning Joe set says the Trump tax bombshell is no big deal. Theyre very, very wrong.], 55tz6u, 1475623087.0, 17
+626, [Clinton rips into Trump over taxes], 55rxrf, 1475585624.0, 16
+627, [Glenn Beck: Michelle Obamas Trump Takedown Was Most Effective Political Speech Since Reagan], 588q9e, 1476884154.0, 39
+628, [Le Tigre show their support for Hillary Clinton with "I'm with Her," their first new song and music video in over a decade.], 58ak2e, 1476916227.0, 112
+629, [Dems are building video files, archiving tweets on Republicans who've praised Trump to hit them in 2017, 2018, 2020], 55nncm, 1475530278.0, 684
+630, [Miami-Dade, Florida's largest county: Clinton 58%, Trump 28%], 58bjft, 1476926789.0, 234
+631, [Hillary Clinton on Twitter: "This election will have record turnout, because voters see through Trumps shameful attempts to undermine it just weeks before it happens."], 57o566, 1476594823.0, 164
+632, [New Accuser Comes Forward With Story Of Being Grabbed By Trump At US Open], 58iagx, 1477014868.0, 61
+633, [Ana Navarro on Twitter: "Should Donald Trump drop out of the race? Yes. He should drop out of the human race. He is an animal. Apologies to animals."], 56p6qg, 1476087879.0, 605
+634, [Kurt Eichenwald (Newsweek) on Twitter: 1. FBI not reopening the investigation. 2. Comey legally had 2 inform Congress, because he testified they had finished reviewing evidence,], 59vx66, 1477706601.0, 412
+635, [George W. Bush officials endorse Hillary Clinton in open letter], 577giu, 1476346762.0, 71
+636, [Stephen Colbert on Twitter: "Trump says Clinton's tax plan would double everyone's taxes. Which in Trump's case would still be zero."], 58f941, 1476970327.0, 29
+637, [Jamison Foser on Twitter: The big arrow indicates the day pundits insisted Donald Trump won the 2nd debate and stopped the bleeding. Keep that in mind tonight.], 58dawu, 1476945456.0, 31
+638, [Carved some Hillary pumpkins!], 56niog, 1476066628.0, 396
+639, [Bernie Sanders To Campaign For Hillary Clinton In Colorado], 57pvwy, 1476620148.0, 47
+640, [No, Hillary Clinton did not lose $6 billion at the State Department], 58eiia, 1476959874.0, 85
+641, [How many seats do we need to pick up in order to take back the Senate?], 5805fi, 1476770512.0, 7
+642, ["What's the over-under on a possible electoral college victory for Clinton? Steve Schmidt: She's 'trending over 400'"], 589ygf, 1476908379.0, 128
+643, [Nate Cohn on Twitter: Trump has a 5 pt lead among voters who have returned NC absentee ballots, according to our estimates. Romney won the NC absentee vote by 33], 58i9hy, 1477014583.0, 169
+644, [13 Days], 59h4fq, 1477512101.0, 380
+645, [Comey may be under investigation for Clinton letter], 5ae2ow, 1477967989.0, 73
+646, [Trump likes to talk about how attractive he finds his wives and daughter but I personally think the future POTUS had some old school charm.], 55wsa4, 1475656262.0, 41
+647, [The Morons Case For Hillary Clintonbecause some of you really are that stupid.], 55rdcc, 1475576633.0, 39
+648, [Live look at the Trump campaign...], 56p308, 1476086522.0, 34
+649, [Indiana town in uproar after parade float depicts Trump executing Hillary Clinton in electric chair], 55rs6o, 1475582957.0, 45
+650, [This Muslim Clinic, Treating Mostly Latinos, Is What 'Makes America Great' Already], 584khj, 1476835259.0, 22
+651, [McKay Coppins (BuzzFeed) on Twitter: Kaine is not wrong that Pence has consistently avoided defending Trump tonight.], 55x87c, 1475662145.0, 20
+652, [I just wanted to say], 580w7x, 1476779386.0, 48
+653, [Russian Hacker, Wanted by F.B.I., Is Arrested in Prague, Czechs Say], 58abwh, 1476913458.0, 53
+654, [James Comey meme], 5a1sbs, 1477793939.0, 34
+655, [Donald Trump will say anything to get elected], 586jna, 1476855438.0, 36
+656, [Kelly Ayotte (R-NH) a few days ago: Trump 'absolutely' a role model for kids], 56dsgw, 1475904682.0, 62
+657, [Sniffles on Twitter (2012): "China is cooking up conspiracy theories that the Olympics are rigged. They don't understand why they can't cheat."], 587ai7, 1476864160.0, 347
+658, [If Donald Trump is elected president and Republicans hold onto Congress, House Speaker Paul Ryan is bluntly promising to ram a partisan agenda through Capitol Hill next year, with Obamacare repeal and trillion-dollar tax cuts likely at the top of the list.], 564ynb, 1475783137.0, 384
+659, [Clinton sticks with Obamas strict lobbying rules  for now], 59h2be, 1477511165.0, 10
+660, [When a Man Competes with a Woman], 58dn6s, 1476949562.0, 10
+661, [7 Best Moments From Hillary Clintons Broadway Fundraiser], 5842n2, 1476829753.0, 11
+662, [Clinton leads Trump in key swing states], 57znje, 1476765134.0, 8
+663, [Large, Typically Apolitical YouTuber Casey Neistat Takes a Stand, Endorses Hillary; Encourages Fellow YouTubers to do the Same], 570w18, 1476254691.0, 39
+664, [CNN talking heads now all having to spin how they said Pence did better only to have their undecided voters group say, nope uh-uh Kaine won], 55xich, 1475665903.0, 38
+665, [Texting Swing State Voters to Encourage Them to Vote! Via MoveOn.], 584ixb, 1476834799.0, 16
+666, [A short summary of the Vice Presidential Debate.], 55xpl7, 1475668875.0, 16
+667, [Trumps angry white men], 55s2d6, 1475587988.0, 16
+668, [Ralph Nader Supporters Warn Third-Party Voters: Don't Make The Same Mistake!], 56878n, 1475822593.0, 43
+669, [I still support Hillary, but the structure of our election system is ridiculous.], 59cz7b, 1477452175.0, 11
+670, [Trumps Dangerous Election-Concession Dog-Whistle], 58hh0b, 1477006298.0, 13
+671, [Trump, the Next Big Short: For years, business has wanted someone with corporate experience in the White House. Suddenly, that prospect doesnt seem so appealing.], 56s9lm, 1476139155.0, 14
+672, [Just how big is Trump? We asked 5 experts to  you guessed it  weigh in: A police chief, a tailor and a carnival veteran help assess the candidate's dimensions], 569t55, 1475845645.0, 15
+673, [Republicans deserve their sad fate: This is what the GOP gets for devaluing the calling of public service], 56wdl0, 1476188766.0, 34
+674, [FBI director James Comey should resign - The Boston Globe], 5aeocz, 1477973728.0, 65
+675, [Post-Debate Roundtable], 56q61e, 1476100754.0, 146
+676, [Freedom Caucus Chair: Comey Letter "Probably Not Right Thing To Do" Close To Election], 5ae0zs, 1477967540.0, 25
+677, [Benjamin Nichols on Twitter: "Here is the infamous photo of two Conservative legends meeting for the first time. Ronald Reagan and Donald Trump. #MakeAmericaGreatAgain"], 56w9tr, 1476187142.0, 26
+678, [Harry Reid Unleashes on Billion-Dollar Loser Trump Over Income Taxes: a Racist, Incompetent Failure], 55m1ib, 1475496872.0, 27
+679, [A portrait of people who support Trump: people deluded by conspiracies, angry at their poverty.], 55l6g3, 1475483689.0, 30
+680, [Hillary Clinton now more likely to win Texas than lose the election], 580knb, 1476775354.0, 79
+681, [Trump Gave 10 Times The Legal Limit To Florida Attorney General Via Front Companies], 55rbhh, 1475575931.0, 404
+682, [Can I just say how good it feels to now be voting purely out of civic pride and duty and not out of fear?], 56iuur, 1475987553.0, 37
+683, [Unofficial endorsement from Rihanna?], 58dcbz, 1476945938.0, 71
+684, [Hillary Clinton even won the online Breitbart poll.], 58eoix, 1476961921.0, 559
+685, [How did Clinton take control of the 2016 election? With the most dominating 3-debate performance we have on record], 58htdq, 1477009996.0, 42
+686, [Donald Trump's Pants on Fire claim of 'large scale voter fraud'], 583cpt, 1476820546.0, 247
+687, [Trump fans heckle 7-year-old girl with disabilities for trying to leave Colorado rally early--oh jeez. :(], 561e81, 1475725602.0, 84
+688, [So which candidate has the flag on their plane?], 58aaz3, 1476913123.0, 189
+689, [Breaking: Former teen mayor of Partridge, Minnesota seen campaigning for Hillary Clinton.], 57h471, 1476489972.0, 487
+690, [Al Gore to campaign for Clinton, hoping to galvanize young voters on climate change], 55z8ho, 1475699737.0, 372
+691, [The Daily Beast: John Oliver Exposes and Eviscerates Wacky Third-Party Candidates Gary Johnson and Jill Stein], 57wi5i, 1476726156.0, 23
+692, [Video Shows Donald Trump Joking About Dating A Young Girl When She Gets Older], 579skl, 1476387574.0, 24
+693, [Voted early for Hillary Clinton and Russ Feingold in Wisconsin. Just a reminder to everyone in WI that we have early voting.], 55uveu, 1475633443.0, 310
+694, [Tom Hanks on why he is voting for Hillary Clinton.], 579utx, 1476388620.0, 338
+695, [Mike Pence says Clinton-Kaine is an "insult-driven" campaign as Trump tweets insults], 55xdq7, 1475664163.0, 334
+696, [Republican Gov. Whitman: Why Clinton is the only choice for president | Opinion], 56gzeg, 1475962736.0, 349
+697, [Due Warning], 57fps0, 1476470412.0, 73
+698, [I know this may be a surprise to not a single person here, but I am absolutely disgusted by some of the things being discussed over on the "other" subreddit.], 58ahg7, 1476915378.0, 33
+699, [Whoopi Goldberg surprised campaign let Melania Trump talk to same media thats rigging the election], 584pak, 1476836635.0, 81
+700, [Deplorables: Trump supporters Chanting Lock her up behind CNN Live Set at Debate Ground.], 58c1yd, 1476932118.0, 20
+701, [The hideous, diabolical truth about Hillary Clinton (Satire)], 57p4xm, 1476608422.0, 19
+702, [Donald Trumps great TV karma: The very thing that created Trump is destroying him], 5724i7, 1476271219.0, 19
+703, [Hillary Clinton on Twitter ""A woman who expresses her emotions oftentimes is questioned...it's part of the subtleand not so subtlebiases that we have. @POTUS"], 56dgxr, 1475900803.0, 22
+704, [Guess who just turned a mild blue again in the 538 polls-only forecast!], 55w1gn, 1475646668.0, 20
+705, [NEW Poll of the Missouri senate race has democrat Kander 7 points ahead! (B rated pollster)], 580cmd, 1476772787.0, 195
+706, [Hillary Clinton: The case for not sitting out this election, in two maps], 583om9, 1476824984.0, 248
+707, ["A Trump presidency would be a threat to animals everywhere": The Humane Society endorsed Hillary Clinton], 56dvac, 1475905679.0, 39
+708, [Report: Trump Is Mad at Pence for Being Better Than Him at Debating], 55xycd, 1475672956.0, 38
+709, [Senator Bernie Sanders campaigns for Hillary Clinton at U-M Museum of Art], 5679gh, 1475811491.0, 25
+710, [MRW Trump says his accusers aren't hot enough to be worthy of his sexual aggression.], 57kgcu, 1476532712.0, 60
+711, [Post-Debate Roundtable], 55xp6e, 1475668704.0, 59
+712, [Just early voted for Hillary in Georgia!], 57wsfn, 1476731922.0, 110
+713, [Poll: Clinton up 4 points over Trump in Arizona], 58ad3w, 1476913917.0, 46
+714, [Hillary leads Trump in North Carolina by 1 point. Voter turnout is key!], 55p5kr, 1475548527.0, 148
+715, [BBC Breaking News: Russia Today bank accounts frozen in UK], 57wq5j, 1476730804.0, 308
+716, ["When Trump frames Hillary as a 3rd term of Obama but Obama's approval rating is over 50%"], 58f0t5, 1476966631.0, 77
+717, [All the hecklers at Bill, Hillary, and President Obama's rallies explained. They're being paid by Infowars.com.], 575dz9, 1476322900.0, 70
+718, [Trump Campaign Spent Half a Million Dollars on Lawyers  Last Month], 58njx6, 1477089651.0, 18
+719, [Trump Is Scared], 585p4v, 1476846731.0, 17
+720, [Trump campaign signals mud-slinging endgame as Clinton points to GOP unraveling], 56rxym, 1476134856.0, 18
+721, [Hillary Clintons top strategy for responding to Donald Trumps attacks: Dont bother responding], 56rjcw, 1476128270.0, 18
+722, [Sad Ted Cruz Phone-Banks For Nominee He Supports, Whomever That Might Be, No Way To Know], 56bxwo, 1475883187.0, 18
+723, [Bernie Sanders on Twitter: Day after day Donald Trump insults women and veterans and Mexicans. We need a president that brings us together not divides us up.], 55xk7y, 1475666646.0, 17
+724, [[Bill Clinton at Saginaw] Regular People Endorse Hillary Clinton], 55sbte, 1475593542.0, 18
+725, [Hillary doesn't only rock paint suits. Here's a gorgeous picture of the mother of the bride in Oscar de la Renta.], 58zqef, 1477273810.0, 522
+726, [Beautiful quilt and letter to Hillary (she now has both) --> The American Fabric: A Quilting Groups Response to #ImWithHer], 58dngt, 1476949656.0, 29
+727, [Robert Reich: Why all progressives should vote Hillary], 57ntg2, 1476590601.0, 31
+728, [Almost every Star Trek actor / actress just signed a letter and posted it to Trek Against Trump], 55qe7m, 1475563069.0, 80
+729, [Hillary Clinton Campaigns in Akron, Ohio], 55q1of, 1475558703.0, 165
+730, [Some people on the alt-right criticize the 45th President for not wearing an American flag during the debates. I'd argue she wore it proudly during all three!], 58kzc8, 1477046229.0, 36
+731, [Jesse Tyler Ferguson on Twitter "My takeaway of the #VPDebate: Pence is asking Americans to get behind a candidate who's words he himself can not defend."], 55xfjg, 1475664831.0, 352
+732, [McKay Coppins on Twitter: "The Republican presidential nominee just said on a debate stage that he might not accept the results of the election in less than 3 weeks."], 58edw1, 1476958416.0, 24
+733, [Meet Evan McMullin, the Ex-CIA Operative Taking Trump Votes in Utah], 5797qv, 1476375164.0, 24
+734, [Major Disaster: Did Mike Pence Just Blow The Debate When He Got Off His Horse To Go Feed Oats To Tim Kaines Horse?], 560kyg, 1475716452.0, 26
+735, [Here's the 7th Witness Saying Trump likes to molest women], 5886kt, 1476875630.0, 98
+736, [Pumpkin I carved for the Presidential Debate my company asked me to do.], 58dv61, 1476952311.0, 8
+737, [Uhm. Is this the real Rep. Steven Smith's twitter account?], 56hfic, 1475969382.0, 10
+738, [Question: If Hillary wins, does Bill get the @FLOTUS Twitter account?], 563ynd, 1475761138.0, 12
+739, [Clinton Foundation: Those Hacked Files Arent Ours], 5608wa, 1475712645.0, 14
+740, [Donald Trumps contempt for American democracy], 55w1g4, 1475646664.0, 13
+741, [Hillary for America statement on tonight's troubling Trump revelations], 577nzp, 1476349513.0, 50
+742, [Hillary Clinton & 9-year-old Zianna Oliphant of Charlotte, who last week made an emotional statement on police killings to the Charlotte City Council.], 55padf, 1475550059.0, 46
+743, [Tyra Banks: 'Enough of the damn emails'], 5a3fp1, 1477814439.0, 68
+744, [Bernie Sanders Campaigns for Hillary Clinton in Arizona], 586ki7, 1476855695.0, 189
+745, [I'm willing to listen. Why are Republicans against Democrats? I'm sick of each side calling the other stupid.], 57235s, 1476270679.0, 13
+746, [Hi all, any current coupon codes for the Hillary online shop?], 55rjcr, 1475579053.0, 9
+747, [SurveyMonkey/NBC poll: Clinton maintains solid national lead (+6 in 4-way)], 5831x0, 1476815039.0, 115
+748, [The Onion: Anderson Cooper Begins Debate By Giving Trump Opportunity To Explain What The Fuck Is Wrong With Him], 56rtxm, 1476133231.0, 683
+749, [Energized donors push Team Clinton near $1 billion mark], 58lqan, 1477057855.0, 29
+750, [Clinton Energizes Vegas Latinos  With Vicente Fernandez And Los Tigres Del Norte], 58f2ge, 1476967321.0, 27
+751, [Jennifer Lopez will get loud for Clinton in Miami], 57jkbm, 1476518838.0, 25
+752, [Upstaged much?], 56od7c, 1476076987.0, 27
+753, [I Just Donated $15 in Response to Comey's Transparent Attempt to Swing the Election. MATCH ME.], 59w191, 1477707728.0, 286
+754, [Donald Trump Is Wrong on Mosul Attack, Military Experts Say - NYTimes.com], 58k8yd, 1477036550.0, 56
+755, [Late Night Roundtable - 10/09], 56kvpd, 1476018323.0, 59
+756, [Slayin' it..], 5a64tc, 1477865009.0, 192
+757, [8 Days], 5ac8xr, 1477949782.0, 210
+758, [Clinton beating Trump in Breitbart's post-debate poll], 58f3hs, 1476967770.0, 23
+759, [Father, Husbandand Proud, Pro-Hillary Feminist], 5826e4, 1476797003.0, 21
+760, [Kyle Griffin (Producer on MSNBC's @TheLastWord) on Twitter: "Trump campaign adviser Mike Flynn is retweeting an account that says Clinton's a murderer:"], 55xifj, 1475665936.0, 21
+761, [PSA Beware Rampant Voter Fraud], 58izl1, 1477022168.0, 3
+762, [(((Harry Enten))) on Twitter: Tim Kaine whipping out the "Mexican thing" @realDonaldTrump style], 55xjav, 1475666277.0, 31
+763, [2016 Presidential Debate - Wednesday, October 19, 2016], 58dszl, 1476951579.0, 170
+764, [Donald Trump Encourages His Supporters To Vote Twice], 5abmn3, 1477940920.0, 39
+765, [Musician John Legend to campaign for Clinton in Cincinnati and Dayton, Ohio], 5699gt, 1475837060.0, 45
+766, [Came home to my sign like this and instantly donated $15 to Hillary's campaign in that person's honor. Now you match me! I'm fired up!], 5a9eam, 1477903069.0, 332
+767, [I'd give my husband #Trump's message about #PTSD but he died by suicide 3yrs ago & I have to drive 5hrs to his grave], 55v75y, 1475637054.0, 276
+768, [Trevor Noah: "The trump tapes shouldn't offend you on behalf of females. It should offend you as a human being."], 56ykd1, 1476228600.0, 464
+769, [Biden: Trump 'completely uninformed' on veterans and PTSD], 55rbgg, 1475575922.0, 249
+770, [New USA TODAY/RTV Poll Finds Clintons Support Among Millennials Grows], 57zp7v, 1476765621.0, 80
+771, [It's over folks!], 58em44, 1476961076.0, 58
+772, [Federal judge accuses Detzner of trying to disenfranchise voters], 57pnac, 1476616202.0, 27
+773, [Trump asked Muslims to be more Islamophobic during the presidential debate], 56v1nh, 1476170202.0, 27
+774, [U.S. government officially accuses Russia of hacking campaign to influence elections], 56d8ae, 1475897979.0, 28
+775, [A More Familiar Monster: It's tempting to view Mike Pence as the moderate side-kick to Donald Trump. He's not.], 55xil1, 1475665998.0, 25
+776, [Karen Macek | Hillary Clinton ad | "The most difficult thing is not that my daughter has disabilities and it's not the hospital stays; it's the way other people look at her. Seeing Mr. Trump talk about people with disabilities and specifically about that reporter was just galling."], 55wajm, 1475649789.0, 23
+777, [Hillary Clinton's Lead up to 12% in today's NOLA/Lucid tracking poll - 47% to 35%], 58i5ys, 1477013586.0, 94
+778, [Hillary Clinton on Twitter "In one week, Trump has: Lost a debate Attacked a woman at 5 am on Twitter Had his net worth downgraded and more:"], 55o3ki, 1475536304.0, 232
+779, [Should she shake his hand at the debate tomorrow?], 56i0k8, 1475976931.0, 17
+780, [First draft Bernie or bust post], 55pf7g, 1475551559.0, 17
+781, [Hillary Clinton Loved SNL Debate, Thought Alec Baldwins Trump Was Perfect], 563axx, 1475750299.0, 67
+782, [Was a Trump Server Communicating With Russia? Computer Scientists Find Disturbing Patterns to Moscow], 5afcru, 1477980462.0, 590
+783, [Despite emails, Republicans still think Trump will lose. Heres why.], 5adx1g, 1477966507.0, 30
+784, [JetBlue just blatantly ripping up the Clinton HQ talking points...], 5840k1, 1476829071.0, 29
+785, [5 Reasons Why Donald Trump Is Wrong About A 'Rigged' Election : NPR], 583985, 1476818914.0, 33
+786, [Lee Daniels Talks New Campaign Ad for Clinton], 56307v, 1475746056.0, 30
+787, [The swing state polls are starting to look good for Clinton], 55p5ir, 1475548508.0, 30
+788, [Today was "take your daughter to vote" day], 5a8j6e, 1477893064.0, 247
+789, [Hillary Clinton Was a Model of Grace and Poise Throughout a Disgusting Ordeal], 56qlx9, 1476107748.0, 48
+790, [Hillary Clinton on Twitter: Honest work deserves honest pay. Everyone should have the right to join a strong union that will always have your back.], 55oxj6, 1475545996.0, 44
+791, [Angus Johnston: "I'd like to hear just one Republican say he's disavowing Trump to set an example for his son."], 56k134, 1476004142.0, 475
+792, [Debate Fact Check: Trump Wrong in Saying Clinton People Committed Criminal Act at Rally], 58fmm2, 1476977223.0, 34
+793, [what would happen if Trump lunged at Sec. Clinton tonight?], 58aqzh, 1476918397.0, 33
+794, [Clinton: I take no satisfaction in Trump implosion], 57nskd, 1476590301.0, 36
+795, [Poll: Clinton retakes 11-point lead over Trump in Michigan], 564q8n, 1475778368.0, 291
+796, [STUMPED: Trump's Own Supporters Admit That They Won't Win Virginia], 55uqq5, 1475631973.0, 40
+797, [Washington Post Editorial Board: Mike Pence struggles to defend the indefensible], 55xwdu, 1475671970.0, 35
+798, [A Profile of a Trump supporter - Finally. Someone who thinks like me.], 55i0vp, 1475440102.0, 38
+799, [Stephen Colbert on Twitter: "TrumpTV show idea. "Rigged" - Donald Trump fails at things and blames everybody but himself."], 580z3v, 1476780401.0, 252
+800, [Reuters Politics on Twitter: "JUST IN: 50 of 54 economists said Clinton's platform likely to generate best U.S. economic outcome in long-term - Reuters poll"], 583vcm, 1476827345.0, 325
+801, [President Obama on Twitter: Just like Michelle says, when they go low, we go high. @HillaryClinton went high and showed why she'll be a POTUS for all Americans.], 56srva, 1476144993.0, 525
+802, [9 Percent? WTH?? How Does Trump get above Zero?], 57t34t, 1476674612.0, 17
+803, [Where do you find the most unbiased news?], 57ox0e, 1476605240.0, 14
+804, [I was just banned from r/thedonald for having an opinion, messaged the mods to ask what rule I broke and was muted by them for 72 hours..], 56fl4d, 1475931756.0, 14
+805, [A note on Director Comey's letter, from Hillary for America Chair John Podesta], 5a3h30, 1477814990.0, 22
+806, [Trump's Conspiracy Theories], 584cre, 1476832936.0, 24
+807, [GOP strategists: Clinton has grip on electoral votes needed], 57x1vi, 1476736220.0, 22
+808, [Putin Ally Tells Americans: Vote Trump or Face Nuclear War], 578hjj, 1476361230.0, 23
+809, [In times like this with Trump still running we need to remember these words by Bernie], 56xftj, 1476212244.0, 23
+810, [Hillary on Trump on walls and Miss Universe: "I loved that he went down to Mexico and he choked"], 55koiz, 1475476705.0, 104
+811, [Trump in 2013: We must 'leave borders behind' because future of US 'depends on a cohesive global economy'], 58avak, 1476919715.0, 75
+812, [Since moving to Arizona 2 years ago I never thought my vote would matter, thank you Mr.Trump for fixing that. #TurnArizonaBlue], 57ji2m, 1476517937.0, 111
+813, [Alex Burns (NYT) on Jerry Falwell Jr. cutting anti-Trump story from student newspaper: "This politically correct censorship on college campuses has gone too far"], 586s0o, 1476858075.0, 85
+814, [Will Jordan (YouGov) on Twitter: Paul Ryan favorability rating among REPUBLICANS Last week: +23 This week: -5], 58bl3c, 1476927262.0, 300
+815, [Martin O'Malley on Twitter "@HillaryClinton is a fighter. And she just proved, once again, that she's the only candidate who has what it takes to be POTUS. #Debate"], 56pvu3, 1476097082.0, 234
+816, [Be kind to Trump supporters - they need our help], 57oirl, 1476599855.0, 95
+817, [We scored the town hall debate and Hillary Clinton won], 56pzvp, 1476098455.0, 76
+818, [Breaking News: Trumps debate plan to seat Bill Clintons accusers in family box was thwarted], 56qmfm, 1476108002.0, 50
+819, [What Mike Pence thinks vs. What Donald Trump says], 55zhwz, 1475703501.0, 362
+820, [Former Beauty Queen: Contestants Were Forced To Greet Trump Even When Not Fully Dressed], 577yuw, 1476353548.0, 27
+821, [Josh Jordan (Forbes) on Twitter: YouGov Georgia poll: Clinton 47 Trump 44 Wow.], 57x8v4, 1476738862.0, 299
+822, [Hillary destroys Rudy Giuliani. Look at his face while the audience laughs], 58l2un, 1477047587.0, 82
+823, [Clinton leads with men for the first time in new national poll], 58b57l, 1476922721.0, 275
+824, [GOP congressman on Clinton: 'A lady needs to be told when she's being nasty'], 58n7c1, 1477085345.0, 413
+825, [Garry Kasparov (Chairman of the Human Rights Foundation , 13th World Chess Champion) on Twitter: "Trump refusing to accept election results & his loyalty to Putin are the same plan to weaken US. He's Putin's stooge. He confessed on stage."], 58f0mu, 1476966556.0, 123
+826, [Ryan Godfrey on Twitter: "Mr. @realDonaldTrump please tell me, an inspector of elections for one of the 1,687 Philly city divisions, specifically how it'll be stolen."], 56w7n5, 1476186180.0, 42
+827, [Cast of 'Empire' endorses Clinton], 5674g0, 1475809963.0, 43
+828, [Applying for a job at Trump Airlines be like...], 581jt1, 1476787618.0, 37
+829, [So on Donald Trump's own website, he praises Canada's healthcare system...], 56qmfj, 1476108001.0, 40
+830, [Republican Senator Jeff Flake on Twitter: America deserves far better than @realDonaldTrump], 56e0k0, 1475907581.0, 36
+831, [Fact Check Four Pinocchios: Trumps bizarre claim that the Clinton email controversy is bigger than Watergate], 5ae47r, 1477968380.0, 31
+832, [Hello r/HillaryClinton! I have been lurking for months and thought you guys might like to see my post on my Facebook as to why I am supporting Secretary Clinton! Taking flack from Trump and former Berners but it was worth it!], 59sria, 1477659741.0, 30
+833, [Is Team Clinton systematically gutting Trump before our eyes?], 57e55n, 1476440385.0, 28
+834, [A poll of 1000 Canadians finds 84% support Hillary Clinton to 16% for Trump. In Quebec, it's 94% to 6%.], 56d8v8, 1475898158.0, 29
+835, [What Does Trumps Candidacy Say About Our Capacity for Good and Evil? | Eric Kandel], 5adk98, 1477963139.0, 12
+836, [Indisputable, conclusive proof that Donald Trump is a Russian plant!], 59eid7, 1477469257.0, 12
+837, [How much damage could a President Trump do? We can only begin to imagine.], 569qqb, 1475844479.0, 12
+838, [Some of us have been working to get Hillary Clinton elected President for 10 years!], 58fqec, 1476979521.0, 34
+839, [Stephen Helps President Obama Polish His Rsum], 584e65, 1476833385.0, 36
+840, [Donald Trump thinks SNL is rigging the election and should be canceled], 57rfsn, 1476653847.0, 419
+841, [Hillary Clinton on Twitter: "We have to win this election."], 577pvp, 1476350209.0, 63
+842, [Mormon Democrats of America Endorses Hillary Clinton for President], 55qgh8, 1475563886.0, 137
+843, [Sen. Jeff Flake (R-AZ) on Twitter: "States, backed by tens of thousands of GOP and DEM volunteers, ensure integrity of electoral process. Elections are not rigged."], 57usq9, 1476696122.0, 398
+844, [Ben White (Politico) on Twitter: CNN focus of group of undecideds awards the #VPDebate to Tim Kaine], 55xewo, 1475664600.0, 153
+845, [Me on the morning of November 8], 581sxq, 1476791175.0, 117
+846, [Put her in jail!], 57i753, 1476501844.0, 52
+847, [Clintons lead in Virginia edges up after debate, 42-35, gaining support among Independents and Millennials], 55n4gw, 1475521157.0, 250
+848, [How Hackers Broke Into John Podesta and Colin Powells Gmail Accounts], 58hvqu, 1477010693.0, 20
+849, [International Humanitarian Law, Rule 20: Advance Warning prior to Attack], 58eetl, 1476958720.0, 21
+850, [USA TODAY on Twitter: Clinton: "I will defend Planned Parenthood. I will defend Roe v. Wade."], 58e3d2, 1476955116.0, 17
+851, [One Pennsylvania County Sees The Future, And Not Everyone Likes It [An Article About Why Trump Will Lose Pennsylvania]], 581io3, 1476787230.0, 17
+852, [Ashby Law on why US elections are not rigged (with tweets)  DemFromCT], 57wv2i, 1476733202.0, 18
+853, [Yet another poll shows that Trumps economic populism is not all that popular: The Chicago Council on Global Affairs' latest report demonstrates the hard limits of economic populism in America.], 565ppg, 1475793891.0, 19
+854, [Trump threatens to sue over attack ad], 563xer, 1475760455.0, 17
+855, [Could a President Clinton Be Tough on Wall St.? Her Staffs Emails Hint Yes], 58367r, 1476817450.0, 60
+856, [HRC Campaign Official statement in response to Trump's Presser Stunt], 56p4im, 1476087091.0, 176
+857, [Hillary releases new ad: "Where does Trump get his talking points from? Often this alt-right conspiracy theorist, Alex Jones."], 57uun1, 1476696840.0, 152
+858, [Three new polls show the tide turning in Catherine Cortez Masto's favor in the Nevada Senate race], 581owo, 1476789562.0, 54
+859, [Hillary Suffering Fools, but Not Gladly], 56pxan, 1476097554.0, 52
+860, [Bill Clinton: Im a white southerner  I know what Make America Great Again means], 59gb3i, 1477496086.0, 607
+861, [The Ever-Growing List of Hillary Clinton Endorsements], 59ep9j, 1477471622.0, 276
+862, [Doing my duty for Ohio], 5aeaz0, 1477970174.0, 41
+863, [National poll: Independents help Clinton build lead], 56cq8a, 1475892150.0, 44
+864, [Senator Tim Kaine on Twitter "Hillary and I have a plan to generate enough renewable energy to power every home in America by 2020. Read it here"], 581lwt, 1476788397.0, 248
+865, [Clinton proposes $500 million federal program to combat bullying], 59q5rl, 1477627347.0, 26
+866, [The Khans' Response To Donald Trump's Debate Comment About Their Son Shows What It Really Means To Be An American], 56qw2o, 1476113392.0, 22
+867, [Donald Trump Made It Clear -- Again -- That He's Unfit For The Presidency], 56q06u, 1476098564.0, 23
+868, [Wear white on Nov 8], 58ipsz, 1477019256.0, 37
+869, [Todd Zwillich on Twitter "Hillary is currently up by 20 pts in *Breitbart's* post debate online poll."], 58f1pa, 1476966977.0, 35
+870, [The New York Times Editorial Board: Social Security at Stake on November 8th  Hillary Clinton has a rational plan for fixing Social Security. Donald Trumps approach would inevitably lead to insolvency.], 58a4pu, 1476910884.0, 33
+871, [Trump Kicks Out 'Sleazebag' Reporter For Asking About Sexual Assault Allegations], 57dz92, 1476438062.0, 35
+872, [Evangelical Leaders Urge Vote Against Donald Trump: The 'Integrity Of Our Faith Hangs In The Balance'], 56c0ep, 1475883983.0, 33
+873, [Luis A. Miranda, Jr. on Twitter "Most imp lesson VP debate given by @timkaine "let women make decisions over their own body." @GovPenceIN wants 2 force his pro-life belief"], 55xhkt, 1475665596.0, 37
+874, ["Who cares!": Trump supporting Congressman loses cool when told the public wants to see Trumps taxes.], 55rjth, 1475579241.0, 35
+875, [Glen McGregor on Twitter: "CNN says Pence is considering quitting. Holy F***"], 56k4nj, 1476005676.0, 332
+876, [Confessions of a Trump Fact-Checker -- One Month, 253 Trump Untruths], 58ahop, 1476915459.0, 27
+877, [Clinton takes command of swing-state map], 55qh5b, 1475564127.0, 27
+878, [Donald Trumps unpatriotic campaign], 57xbhp, 1476739846.0, 32
+879, [Bernie Sanders taps his donor network to raise nearly $2 million in two days for House, Senate contenders], 58nhjr, 1477088855.0, 66
+880, [Trump has Freudian slip, accidentally tells Florida crowd to vote on 28 November: Cyber Monday.], 571ztv, 1476269404.0, 56
+881, [Miami-Dade's Republican mayor: I am voting for Clinton], 56mpvr, 1476056740.0, 470
+882, [Hillary Clinton: Why America Is Exceptional], 57cdxd, 1476418423.0, 260
+883, [Can Trump pull off a Brexit-style upset? - BBC News - this, right now, is probably my biggest fear], 5a8139, 1477887420.0, 16
+884, [Jorge Ramos Wants You To Know What Makes Trump So Dangerous], 58oe1z, 1477098967.0, 16
+885, [Full Speech: Hillary Clinton Rally in Columbus, Ohio (10/10/2016) Hillary Columbus Ohio Speech (Dude Yells 'We Lover You!' 1:30)], 56wdue, 1476188885.0, 15
+886, [Flashback: On Tuesday, Reince Priebus said Trump was a role model], 56eh7u, 1475914024.0, 18
+887, [Donald Trump Says Five Wrongly Accused Minorities Are Guilty, Despite DNA Evidence], 56e9af, 1475910851.0, 18
+888, [Jaylon | Hillary Clinton], 57n9g6, 1476583499.0, 156
+889, [Clinton Campaign might need to address this new wikileak], 57p059, 1476606458.0, 414
+890, [Federal Law says it is a FELONY to do everything Trump and his supporters are threating to do.], 57px2y, 1476620741.0, 47
+891, [Pence ducked reporters when Trump video was published], 56dv2f, 1475905603.0, 43
+892, [GOP Declares Mike Pence Debate Winner... Before Debate Begins], 55wlqi, 1475653862.0, 45
+893, [Trumps organization did business with Iranian bank later linked to terrorism], 55mzrl, 1475518123.0, 272
+894, [Nate Silver on Twitter: Clinton's lead is big enough that her win probability is maxing out a bit. Our model gets conservative at the tails of the distribution.], 580oq4, 1476776738.0, 155
+895, [Bernie Sanders on Twitter: "Not paying taxes makes Trump just another greedy billionaire who avoids paying his fair share of taxes while children in America go hungry."], 5aggev, 1477992866.0, 73
+896, [Why Roger Ailes is no longer a Trump advisor: "Ailes learned that Trump couldnt focus ...and that advising him was a waste of time," per @NYMag.], 58c4hp, 1476932847.0, 88
+897, [Rick Wilson (GOP Strategist) On Twitter: "Now I Want To Meet The Trump From Earth 2 That Pence Was Describing."], 55xf0a, 1475664639.0, 167
+898, [Expat living in China here. Felt patriotic today - whipped myself up a few bacon cheeseburgers, grabbed a cold bud, and voted against a total moron. Ballot in the mail, +1 vote to Hillary], 58g0u8, 1476986097.0, 438
+899, [As of this morning, Florida Democratic Party has submitted 469k voter registration forms; Republican Party of Florida has submitted 59k], 55pd3y, 1475550899.0, 441
+900, [This is a death threat by Trump supporters against Politico reporter @Hadas_Gold. This is not trolling. This person should be in jail.], 581n6j, 1476788892.0, 154
+901, [Today both CBS's Major Garrett & CNN's Jim Acosta pointed out there's more evidence that Trump committed sexual assault than there is of voter fraud], 586edx, 1476853896.0, 320
+902, [Got my boss Hillary Clinton earrings on - gearing up for debate night!], 56ola8, 1476079896.0, 72
+903, [Donald Trumps Final Insult to American Democracy: In the final presidential debate, Donald Trump disgraced himself and our democracy by refusing to say if hed accept the election results. Hes a demagogue with a dictatorial streak.], 58h783, 1477003350.0, 19
+904, [Florida Senate Debate | Video], 582j2h, 1476803573.0, 20
+905, [Donald Trump wants to be your hero: New ad says the GOP chicken hawk is the only one who can protect you], 5728y2, 1476273094.0, 21
+906, [What Trump's Taxes Reveal About His Business Record: A Closer Look (Seth Meyers)], 55rwgp, 1475584970.0, 21
+907, [Clinton campaign and Democratic allies are recruiting and training hundreds of lawyers to protect right to vote after Trump's 'rigged' rhetoric sparks fears of Voter Intimidation], 580uig, 1476778791.0, 34
+908, [Bill Maher Imitating Donald Trump: "How Dare You Claim I Did the Things I Claim to Do!"], 57km4w, 1476535587.0, 38
+909, [First time donor. It feels great.], 57jvlt, 1476523403.0, 33
+910, [Hillary Clinton on Twitter: The facts are clear: Trump refuses to admit he is wrong on the Central Park jogger case and continues to peddle yet another racist lie.], 56e5kt, 1475909467.0, 37
+911, [Harry Reid: FBI Director Comeys Partisan Actions May Violate Federal Law - Washington Wire], 5a8ebf, 1477891535.0, 67
+912, [WIN/Gallup Global Poll on the American Election: 44 nations favor Clinton, whereas only 1 nation favors Trump. No prizes for guessing which nation that was.], 57jrwt, 1476521865.0, 64
+913, [Why is everyone I've met who dislikes Hillary unable to adequately explain why?], 58cx0z, 1476941067.0, 36
+914, [Sen McCain: GOP Will Block All HRC SCOTUS Nominations], 583hyd, 1476822609.0, 30
+915, [Idaho Statesmen Editorial Board Endorsement: Hillary Clintons experience makes her the right choice for president], 57dr98, 1476435043.0, 245
+916, [Some People Are Now 100 Percent Sure Clinton Will Win], 585ffa, 1476843990.0, 24
+917, [Report: Trump Called Mic Guy A Monkey], 571p29, 1476265255.0, 28
+918, [Millennials: Someone You Love May Be Alive Because of Hillary Clinton], 56e07v, 1475907463.0, 22
+919, [Hillary Clinton, Seizing on Taxes, Says Donald Trump Games the System], 55qgx1, 1475564041.0, 28
+920, [Home stretch. Anyone care to match me?], 5a3l76, 1477816482.0, 24
+921, [Listen To Donald Trump Talk About His Sex Life In Vulgar and Sexist Terms [WaPo]], 56dq4g, 1475903883.0, 27
+922, [Jennifer Palmieri on Twitter "@realDonaldTrump lost his second debate tonight. Both @mike_pence and @timkaine were running against Trump."], 55xq4x, 1475669078.0, 27
+923, [Make the FBI great again.], 5a9lnj, 1477905663.0, 113
+924, [CBS poll: Clinton's lead over Trump widens with three weeks to go (Clinton 47 vs Trump 38)], 580dd2, 1476773033.0, 195
+925, [LeBron: 'Me and my family believe in' Clinton], 55pg4k, 1475551855.0, 196
+926, [Giuliani's daughter says she's voting for Clinton], 5694qx, 1475835191.0, 52
+927, ["Mom, why are you crying?" "I got to vote for a woman for President."], 5ags70, 1477996854.0, 521
+928, [Whats next for Meg Whitman, a Republican in Clintons corner?], 58n1ed, 1477083208.0, 13
+929, [Hillary Clinton, Mocking and Taunting, Turns the Tormentor: "In the third and final presidential debate, Mrs. Clinton outmaneuvered Mr. Trump with a surprising new approach: his."], 58f6au, 1476969030.0, 14
+930, [Pay for play? Trump Foundation funds reportedly used to cozy up to right-wing groups], 55vno5, 1475642156.0, 186
+931, [Enthusiasm for Trump Fades, Partisanship Keeps It Close: Clinton 47 (+4) vs Trump 43], 57pup1, 1476619584.0, 77
+932, [Trump threatens to sue over Clinton campaign ads showing Trump speaking], 562hhr, 1475738876.0, 402
+933, [Trump insults Hillary's body, says when he checked her out when she walked past him during the debate, "believe me, I wasn't impressed."], 57izoj, 1476511162.0, 456
+934, [Donald Trump's mail-servers are running Windows 2003, which cannot be secured.], 58av2w, 1476919659.0, 55
+935, [Ellen DeGeneres on Twitter "What the world needs now is love. And @FLOTUS Michelle Obama"], 57cp8z, 1476421874.0, 62
+936, [127 Daily Newspapers have now endorsed Hillary. One has endorsed Trump], 57pny1, 1476616515.0, 115
+937, [Clinton up 1 in AZ], 57hr45, 1476496909.0, 174
+938, [Bernie Sanders Campaigns for Hillary Clinton in Flagstaff], 589xyo, 1476908158.0, 43
+939, [Dan Merica on Twitter: "Robby Mook, on a conference call, announces the campaign is dumping $2m in AZ to win the state and $1m in MO and IN to help Dem races."], 57xwn0, 1476746865.0, 43
+940, [FALSE: Hillary Clinton Cut Her Tax Bill by 'Donating' $1 Million to Herself via the Clinton Foundation], 55w414, 1475647524.0, 40
+941, [Arizona is BLUE in the 538 Nowcast, and Iowa is BLUE in the 538 Polls-only AND Nowcast!], 565mhj, 1475792752.0, 395
+942, [Clinton promises 'end to end' criminal justice reform in pitch to black voters], 55kg99, 1475473669.0, 112
+943, [The panic is beginning: GOP strategist Steve Schmidt predicts Election Day disaster for Republicans], 58ccoe, 1476935155.0, 54
+944, [There really isn't any proof Trump is anywhere close to Clinton, except in the state of Alaska and Bill Mitchell's mind.], 57zgf6, 1476763090.0, 170
+945, [daveweigel (WaPo) on Twitter: "I've been seeing dudes selling/wearing "TRUMP THAT BITCH" shirts at Trump rallies since April. Go ahead and pretend the problem is one man."], 56nbg9, 1476064229.0, 551
+946, [Statement from Hillary Clinton on Hurricane Matthew], 56bv1s, 1475882230.0, 145
+947, [Trump Speech], 55psum, 1475555814.0, 249
+948, [Poll: Trump falls into tie with Clinton among Utah voters], 572o9q, 1476280497.0, 377
+949, [NEW Monmouth Univ COLORADO Poll of LV's: Clinton has 11 point lead.], 55onga, 1475542850.0, 308
+950, [me_irl], 58do0o, 1476949856.0, 83
+951, [GOTV Roundtable - 10/17  Virginia: Today is the last day to register to vote], 57ygsi, 1476752776.0, 79
+952, [New York Daily News Front Page, October 21, 2016.], 58lplb, 1477057515.0, 37
+953, [Carville declares Trump campaign dead in fundraising email], 583hb3, 1476822363.0, 40
+954, [Trump insists the Central Park 5 are guilty  despite their exoneration and $41 million settlement], 56cd4m, 1475888031.0, 33
+955, [Democrats hold registration advantage in Colordao], 55q7h1, 1475560694.0, 54
+956, [Hello to r/HillaryClinton!], 55objf, 1475539033.0, 55
+957, [Bernie Sanders on Twitter: "On the basic economic issues  trade, minimum wage, climate change, pay equity  Gary Johnson's positions are disastrous."], 57ub94, 1476689625.0, 376
+958, [This Republican is happy to have a part in turning Georgia blue!], 59v15a, 1477697433.0, 311
+959, [Republicans for Hillary are buying up electronic billboards on the strip for the debate...], 586crr, 1476853448.0, 378
+960, [Anyone else gain even more respect for Hillary after reading the Wall Street speeches?], 56es77, 1475918559.0, 451
+961, [Poll: AZ voters favor Penzone over Arpaio, nix border wall & deportation], 58hyk8, 1477011501.0, 43
+962, [Princeton Election Consortium now has Hillary at a 99% chance to win the election (with 273 EV in "safe for Clinton" territory)], 58euxj, 1476964263.0, 47
+963, [George Takei on Twitter "Trump: "A vote for her is a vote for four more years of Barack Obama." Best. Reason. To. Vote. Ever."], 58euw2, 1476964247.0, 134
+964, [George Washington Battleground Poll: Clinton leads Trump by 8 nationally], 57vetj, 1476704869.0, 63
+965, [Theres only one candidate seriously running for president at this point. She won the debate hands down. Its hard to imagine Trump won over even a single voter tonight.], 56psx6, 1476096077.0, 59
+966, [Hillary Clinton on Twitter: With just 10 days to go, Republicans are pulling out all the stops to try to bring Hillary down. RT this to help get out the facts.], 5a3qpj, 1477818636.0, 32
+967, [Sopan Deb on Twitter: Trump in 1992, says to a clearly young girl: "I am going to be dating her in ten years. Can you believe it?"], 5777yw, 1476343614.0, 64
+968, [Broadway for Hillary], 580rfq, 1476777734.0, 126
+969, [PolitiFact on Twitter: Pence's claim that only 10 percent of Clinton Foundation money goes to aid is WRONG.], 55xuqo, 1475671166.0, 78
+970, [Late Night Roundtable - 10/14], 57escf, 1476450368.0, 50
+971, [Dave Weigel (WaPo) on Twitter: "Imagine being so dumb and conspiracy minded that you're counting on a rambling, past-his-prime Julian Assange to swing the election."], 55so6l, 1475601819.0, 54
+972, [Plane carrying Pence skids off runway], 59ripn, 1477642826.0, 10
+973, [Trump Now Claims 'Illegal Immigrants' Are Behind Voter Fraud], 58dxty, 1476953243.0, 11
+974, [Let's play a game: CAPTION THIS!!!!!!], 56prbm, 1476095511.0, 9
+975, [Given that politics are far from the most important thing about the coming Matthew storm, how could it possibly affect the race in FL? (Demographics, response, etc.)], 562rot, 1475742746.0, 10
+976, [Comey gives in to shameful partisanship], 5ab79h, 1477931943.0, 25
+977, [Monica Alba (NBC News) on Twitter: Hillary and Bill Clinton just arrived at this debate watch party in North Las Vegas. Campaign says 5000 people there.], 58evy5, 1476964671.0, 30
+978, [All this time we thought he was The Apprentice and it turns out he was The Biggest Loser], 55l7fx, 1475484097.0, 29
+979, [Post-debate, Clinton takes the lead (CNN)], 55pn8d, 1475554021.0, 279
+980, [Enid News (Oklahoma) EDITORIAL: Hillary Clinton is our choice for commander in chief], 56kgii, 1476010919.0, 46
+981, [Brent Spiner on Twitter: "Remember when Gerald Ford got so pissy about Chevy playing him as a clumsy oaf on SNL? Oh, right, he didn't."], 57xlrd, 1476743410.0, 423
+982, [Chris Cillizza (WAPO) on Twitter: Clinton is absolutely clubbing Trump right now. CLUBBING.], 58eb9u, 1476957594.0, 20
+983, [The Irish have just a few thoughts on Trump: "Gobshite!" "Head like a bag of squids!" "he should be illegal" Hilarious!!], 581ccv, 1476785001.0, 22
+984, [Violent Rhetoric and Lewd T-Shirts at Ohio Trump Rally], 57k526, 1476527492.0, 20
+985, [Kenneth P. Vogel on Twitter: "Looking for precedent for Trump's promise to put Hillary in jail if he wins? Ukraine's Yanukovych (a past @PaulManafort client) did it to Tymoshenko."], 56q7dr, 1476101239.0, 20
+986, [HRC already got youreapuppet.com, I got noYOUREapuppet.com], 58ewa9, 1476964820.0, 27
+987, [Vice President Joe Biden on Twitter: One thing's clear: @TimKaine and Hillary have hardworking Americans' backs. The VP's office is in good hands. Joe #VPDebate], 55wulz, 1475657143.0, 22
+988, [Senator Tim Kaine on Twitter: "The Clinton Foundation has an A+ rating from Charity Watch. Yesterday the Trump Foundation was ordered to stop fundraising in NY. #VPDebate"], 55xai8, 1475662946.0, 329
+989, [I doubt that Hillary was actually extremely careless with classified material, as Comey accused her of being.], 5a8ohj, 1477894709.0, 52
+990, [Pew National Poll: Hillary up 7], 57hbn7, 1476492281.0, 136
+991, [Mark Cuban on Twitter: "Every single @realDonaldTrump hotel and golf course is toast. Done. Over. Bernie Madoff now has a better brand."], 56fh57, 1475929749.0, 473
+992, [Senator Barbara Boxer (D - Calif.) on Twitter: "Message to Hillary: We will stand with you against this last-minute intrusion in the presidential race."], 5a5gyq, 1477852289.0, 344
+993, [Sanders sets fundraising goal of $2 million by tonight for downballot Democratic candidates!], 58buqu, 1476930019.0, 189
+994, [George Takei on Twitter: When the media gave him millions in free air time, Trump loved them. Now when they do their job and ask questions, it's a global conspiracy.], 58176b, 1476783213.0, 343
+995, [Donald J. Trump On Twitter: "CLINTONS CLOSE TIES TO PUTIN DESERVE SCRUTINY: #VPDebate" -- Evan McMullin (Independent Presidential Candidate) On Twitter: "Are You Sure You Want To Go There, @RealDonaldTrump? #VPDebate"], 55xh33, 1475665419.0, 135
+996, [Scared of new Ohio poll? Then make calls to Ohio right now!], 57zeh2, 1476762506.0, 70
+997, [Hillary Clinton fundraiser 'Stronger Together' featuring Julia Roberts, Lin Manuel Miranda, Hugh Jackman streams tonight], 57ydt7, 1476751943.0, 66
+998, [Remember: Complacency is the enemy! Don't let the polls convince you this will be an easy win.], 574w7h, 1476317624.0, 64
+999, [Alaska's 2 GOP Senators Call For Trump To Drop Out], 56kwyv, 1476018998.0, 47
+1000, [Screw the email non-story. Just early voted for Clinton/Kaine!], 59x1cv, 1477718384.0, 194

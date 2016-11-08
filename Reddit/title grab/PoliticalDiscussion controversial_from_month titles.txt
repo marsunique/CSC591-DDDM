@@ -1,0 +1,377 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Has Bernie Sanders shown us what is to come in the political landscape?], 5ab50r, 1477930450.0, 7
+2, [If Trump ran as a Democrat and was running against Cruz, who would you vote for?], 57t5a4, 1476675324.0, 0
+3, [If the Green Party simply never existed and the presidential race was Democratic vs. Republican vs. Libertarian, would the Libertarian Party reach the 5% vote cutoff needed for federal funding?], 5a3lsb, 1477816708.0, 1
+4, [[Theory] Collective responsibility: Is it ever appropriate or acceptable to hold a nationality, race, ethnicity, or religious group accountable for political actions?], 55kxo5, 1475480271.0, 0
+5, [Since many Republican states have embraced voter ID laws should Democrats do so as well?], 595j0w, 1477356037.0, 0
+6, [Why aren't either candidates addressing the issue of the 'Fourth Industrial Revolution' aka an impending unemployment crisis caused by intelligent automation?], 566c15, 1475801143.0, 8
+7, [What are your predictions for 2020 if (1) Trump wins or (2) Clinton wins?], 55rkss, 1475579648.0, 2
+8, [WikiLeaks tweets that founder Julian Assange's "internet link has been intentionally severed by a state party." If true, what are the reasons for and implications of this unprecedented breach of the Ecuadorian embassy's diplomatic immunity?], 57wgkx, 1476725148.0, 36
+9, [What impact will a Trump presidency have on the rest of the world?], 57fraw, 1476471260.0, 3
+10, [How do we change the voting process from "First past the post" to "ranked voting"? Can this be done on the individual state levels and outside of the elected leaders?], 59i3ng, 1477524137.0, 0
+11, [If you were the Clinton campaign how would you prepare for a potential for a Wikileaks surprise.], 596kip, 1477366629.0, 13
+12, [Were Brexit and the FARC vote propelled by the same forces? Does it mean anything for Trump?], 55og7k, 1475540513.0, 0
+13, [Would Sanders have Beaten Trump?], 5955tj, 1477352323.0, 12
+14, [Why do you think the candidates (Clinton & Trump) talked haven't about the current controversy involving the Chess World Championship being held in Iran?], 55ok22, 1475541774.0, 19
+15, [What are some interesting possible outcomes if nobody gets a majority in the electoral college?], 590uex, 1477286559.0, 0
+16, [What happens if no candidate reaches 270 electoral votes, and the votes for both the president in the House of Representatives and the vice president in the Senate are ties?], 58xvcj, 1477243660.0, 0
+17, [Should we just leave Afghanistan for the Taliban?], 58jzuj, 1477033425.0, 0
+18, [Who becomes president in the event of a 269-269 Electoral College tie?], 57imzy, 1476506898.0, 11
+19, [How prevalent is election rigging and voter fraud in the United States?], 59yhx6, 1477737660.0, 0
+20, [What is the potential fallout for Trump's leaked audio recording from 2005?], 56ezvq, 1475921897.0, 1456
+21, [When will we see a centrist presidential candidate succeed in the United States again?], 59jnk3, 1477540183.0, 20
+22, [Allegations have arisen that Trump has forcibly touched two women. Will these allegations seriously impact voter behavior in November? If so, how are these allegations different from those Bill Clinton faced in the '90s? Do voters hold Presidential candidates to different standards than in the past?], 577cd2, 1476345191.0, 776
+23, [Is it desirable, or even possible, to create a modern state modelled off Athenian Democracy?], 57s056, 1476661945.0, 9
+24, [Why don't the parties hold their conventions a few weeks before the general instead of a few months?], 58te3f, 1477175979.0, 0
+25, [If he had been eligible, would Arnold Schwarzenegger have run for President?], 56goll, 1475957416.0, 6
+26, [What happens if Trump wins? Will it be like a U.S. Brexit?], 58rpr2, 1477142042.0, 7
+27, [Would you like to have seen Ross Perot get elected in 1992?], 57zzrv, 1476768793.0, 9
+28, [The city of San Jose may soon require gun owners to keep their firearms in a locked safe when not at home. Does this proposed law violate the constitution, and could it be considered the equivalent of a poll tax?], 58znn0, 1477272895.0, 0
+29, [How would politics change if an individual's voting record was part of the public record?], 5a3gt8, 1477814883.0, 39
+30, [Leaked Clinton email shows Saudi Arabia and Qatar are "providing clandestine financial and logistic support to ISIL and other radical Sunni groups in the region". Will this leak change anything about the relationship between the US and Saudi Arabia?], 56zi7f, 1476238971.0, 11
+31, [Given Hillary Clinton's personal unpopularity compared to President Obama, do you think he will take on a greater role in public leadership than recent former presidents if she wins?], 563ksz, 1475754480.0, 12
+32, [How many votes does the Green Party need to have an impact?], 59wdeo, 1477711241.0, 9
+33, [What would the repercussions be if a 'Massive DDOS attack' happened on Election Day?], 5933wc, 1477318800.0, 0
+34, [With a change in demographic support in both parties, which state will be the next state to closely match the national margin?], 56eelf, 1475912934.0, 2
+35, [Without falling completely into the Benghazi attack rabbit hole, can we discuss one discrepancy about whether there was a "stand down" order issued? The security forces there claim there was a stand down order, but the official report says there was no such order. Who are we to believe?], 5a70lz, 1477876162.0, 76
+36, [Evidence of Shy Tory Factor in the polling?], 58szj6, 1477169504.0, 4
+37, [Why don't national polls include McMullin?], 58c8sn, 1476934043.0, 2
+38, [Will the Democratic party have future troubles in nominating non-minority presidential candidates?], 59411p, 1477337748.0, 0
+39, [Will Rick Perry run again?], 58k3la, 1477034668.0, 0
+40, [If George HW Bush had won reelection, how would his second term would have gone?], 56zht9, 1476238847.0, 0
+41, [Why is "motivation" to vote a big factor?], 56ij70, 1475983394.0, 0
+42, [In 2014, gun control advocates scored a victory against the NRA in Washington state via ballot initiative. Will they be able to replicate that success across the country?], 59r022, 1477636595.0, 23
+43, [To what extent should religion play a part in American politics?], 56fjdh, 1475930874.0, 2
+44, [If Clinton wins, how effective with the Democrats be at holding the fire to Republicans that supported Trump?], 56y2ku, 1476222590.0, 2
+45, [Will the Trump campaign harp upon Clinton's "four minutes" nuclear code comment and will it gain traction?], 58ggt6, 1476994046.0, 0
+46, [What country is the US most likely to go to war with next?], 56hsfn, 1475974031.0, 18
+47, [Have recent election results challenged public faith in democracy and are there any alternative sources of legitimacy that could be considered?], 56yctp, 1476226217.0, 5
+48, [Are the voter fraud concerns of the right completely without basis? (Caveats inside)], 5959y2, 1477353556.0, 11
+49, [Does the recently leaked Clinton/Podesta email that appears to confirm Saudi support of ISIS prove this theory more than any evidence we've had before?], 57r4w9, 1476648486.0, 18
+50, [Will Whoever Wins Likely be a One Term President?], 590lty, 1477283784.0, 39
+51, [3rd Party Political Debates?], 58g85u, 1476989959.0, 11
+52, [Problem with reading the constitution as the founders intended], 59prv0, 1477623338.0, 38
+53, [Will demographics matter 20 years from now?], 58imkf, 1477018322.0, 0
+54, [The presidential candidates didn't shake hands at the second debate, reflecting the hostile polarization of the electorate. How can the country be united again after the election?], 56rgxb, 1476126852.0, 42
+55, [How much further to the left does a center of the aisle European politician (Sweden, Denmark, etc.) lean compared to a centrist politician in the US?], 55m623, 1475499117.0, 17
+56, [Was Hillary Clinton's remark that it takes 4 minutes from a Presidential order to the launch of a nuclear weapon in violation of any code or classification system, or is it public knowledge?], 58i3zy, 1477013024.0, 0
+57, [The Indiana Senate Race is now tied. Who do you think will win and why?], 5adp0h, 1477964391.0, 40
+58, [In the United States, we elect representatives based on geographic location, but are there other or better ways to represent the people, e.g. by allotting seats for experts in certain fields or to minority groups?], 55s12c, 1475587283.0, 10
+59, [Why were North Carolina and Virginia so consistently Republican from 1984-2008?], 55q5gy, 1475559977.0, 9
+60, [Paul Ryan has told house republicans he won't defend trump and will focus the next 29 days on keeping the house majority. Is this the official signal of the party abandoning him?], 56sixf, 1476142228.0, 2088
+61, [American Nukes in Taiwan to deal with Chinese South China Sea threat], 56sa4e, 1476139340.0, 0
+62, [Third party votes: what are the pros and cons?], 594e3c, 1477343172.0, 10
+63, [Why have Palm Beach and Volusia Counties trended red in Florida?], 5agxzm, 1477998905.0, 7
+64, [FBI Director James Comey has informed Congress that new emails apparently "pertinent" to the investigation of Hillary's personal email server have been found. What is the best way for the FBI and other agencies to handle the release of information during a contentious election?], 59x8el, 1477720615.0, 1441
+65, [Should Hillary Clinton concede Utah to McMullin?], 58d2c9, 1476942741.0, 0
+66, [What is the appropriate way for a U.S. political party to appeal to the base while still governing the country as a whole?], 57moj1, 1476576176.0, 4
+67, [Will the 2016 election provide data that can prove or disprove vote fraud?], 58ha6g, 1477004299.0, 0
+68, [Is it possible for Clinton to win in the polls, but she loses in the race because everyone stays home?], 58yktf, 1477258679.0, 64
+69, [How is political corruption identified and prosecuted in the United States?], 588lz4, 1476882096.0, 13
+70, [The swing states have always been inconsistent. Why do you think they are? How would you make them more consistent?], 593bg1, 1477323129.0, 0
+71, [How legitimate do you think the president Egyptian government is? And some other matters], 56l5kj, 1476024105.0, 2
+72, [Has political/society polarization lead to greater acceptance of corruption/lying/scandals of one's own "side"?], 589yak, 1476908312.0, 11
+73, [How would Jesse Jackson (D) have faired against George H.W. Bush (R) in 1988?], 57yb5u, 1476751193.0, 11
+74, [Might the Clinton campaign save any October surprises for 2020?], 58odj0, 1477098795.0, 0
+75, [Has either presidential candidate(or any candidate in any race, for that matter) talked about how they would combat that rapidly declining bee population?], 5a74pw, 1477877469.0, 435
+76, [Should Hillary supporters in Utah vote for McMullin?], 595ah7, 1477353702.0, 183
+77, [What would happen if Trump actually did drop out?], 56l9av, 1476026606.0, 11
+78, [How would this race be going if the Supreme Court weren't in play?], 58nd2b, 1477087367.0, 11
+79, [Post Debate Discussion Thread], 56puq5, 1476096696.0, 658
+80, [What political philosophy would a "Republican Bill Clinton" be more likely to have?], 56i7p7, 1475979366.0, 14
+81, [Why does one negative public comment make people call for an end of a political career?], 56iqah, 1475985893.0, 0
+82, [Is Nader taking Florida justified in being the sole demise of Gore?], 55prpj, 1475555459.0, 98
+83, [If Clinton wins, and there is concrete evidence that the Kremlin engaged in hacking and propaganda to support Trump, what would be an appropriate response?], 56xs0s, 1476218421.0, 377
+84, [Will Gary Johnson hit 5%, and what are the implications if he doesn't?], 57yzgb, 1476758107.0, 36
+85, [Live Thread: Second Presidential Debate], 56pbk8, 1476089767.0, 425
+86, [Why do some people do that thing where they never mention their opponent's name?], 57weq9, 1476723945.0, 28
+87, [Could Paul Ryan lose his seat?], 56ymvy, 1476229414.0, 6
+88, [What map is the best case scenerio for each candidate?], 58fgn8, 1476974018.0, 0
+89, [Why does the Senate seem more likely to have independents?], 57qp09, 1476637904.0, 1
+90, [Could there be Tactical Voting in the United States, specifically Utah.], 590rp4, 1477285681.0, 0
+91, [How will the US Elections affect the Iranian Presidential Election in 2017?], 56fas7, 1475926724.0, 5
+92, [How would the George W. Bush presidency be rated if the Great Recession hadn't happened?], 57r8a0, 1476650245.0, 27
+93, [The Clinton campaign is shifting money and resources away from the presidential campaign to House and Senate races. Is this a risky strategy? What effect will it have?], 58ycur, 1477254755.0, 967
+94, [What should the consequences of the recent Donna Brazile allegations be?], 5adxwd, 1477966736.0, 373
+95, [There is a major divide in the Republican Party on whether or not to support Trump. Regardless of who wins, how likely is a permanent split in GOP?], 56u8n2, 1476160693.0, 15
+96, [Third Party Candidates: Who are they taking votes from?], 561k4c, 1475727439.0, 27
+97, [Wikileaks just released a April 2015 document of DNC staffers discussing strategies to destabilize the Republican field - such as secretly assisting "Pied Piper" extremist candidates during the primaries. To what extent may this tactic have been used during the current election?], 57j46t, 1476512724.0, 638
+98, [Should we bring back pork barrel spending? And is that feasible politically?], 56zk2p, 1476239550.0, 4
+99, [Would Marco Rubio have beaten Clinton?], 5920ec, 1477301594.0, 233
+100, [As the Republican Party schism unfolds, what do you think of the possibility that well see GOP members of Congress switch parties?], 58gyqd, 1477000686.0, 251
+101, [How would the supreme court function if some aspect of the 2016 presidential election are disputed as in Bush v. Gore?], 56fe9a, 1475928344.0, 3
+102, [Could the rise of Trump be a reaction to Rural Decay?], 57gdg5, 1476480950.0, 1005
+103, [What advantages would a President Hillary Clinton gain if the Senate turns majority Democratic?], 56fvrb, 1475937843.0, 21
+104, [Who will get the most write-in votes this election?], 591viq, 1477299723.0, 14
+105, [Why do people freak out about the national debt?], 59p730, 1477617326.0, 78
+106, [Other than president what else will the U.S. be voting on in this election?], 55nocw, 1475530677.0, 82
+107, [In the debate, Hillary said that she believes police should use force only when necessary. How could she implement it and how effective would it be at saving lives?], 55tfib, 1475615949.0, 155
+108, [How should Hillary respond to questions about Bill Clinton's affairs?], 55opat, 1475543426.0, 293
+109, [If mandatory voting was instituted in the US for presidential elections is there any evidence that it would substantially benefit one party?], 59g3ap, 1477491882.0, 15
+110, [How would Mike Pence have fared against Hillary Clinton in a hypothetical general election match-up?], 55zfhi, 1475702555.0, 86
+111, [Why do the Democrats have a presence in every state while the Republicans don't], 56cd18, 1475888003.0, 84
+112, [In light of Trump's leaked audio recording: Is it even possible now that the GOP will get rid of Trump and make Pence the standard-bearer, or are they stuck with him to election day? Would ousting him this late improve their chances?], 56fuu3, 1475937266.0, 72
+113, [[Debate Megathread] Postgame thread for the final Presidential debate of 2016.], 58eicp, 1476959826.0, 553
+114, [Will Mitt Romney run again? How would he do?], 58k1tc, 1477034064.0, 0
+115, [A new study finds apathy, not third parties, responsible for Clinton's "millennial problem". What can the campaign do to ensure turnout?], 56dlru, 1475902428.0, 104
+116, [Theresa May has attacked the influence of the Libertarian Right and has moved the Tories to the left economically and to the right socially. Is this the model centre-right parties in the West should follow?], 562g97, 1475738412.0, 72
+117, [Was Trump under represented in primary polling? If so does that apply to the general election?], 58fmph, 1476977294.0, 0
+118, [If elected, could Trump feasibly get Roe v. Wade overturned during his term(s)?], 58eoxo, 1476962070.0, 46
+119, [Tim Kaine delivered a speech entirely in Spanish in Miami this weekend. How is the speech (and Kaine in general) playing among Latino and Spanish-speaking voters?], 57yr8t, 1476755722.0, 174
+120, [Does Evan McMullin have a future in politics?], 56wb95, 1476187741.0, 11
+121, [What are some of the major policies and moments in President George W. Bush's legacy?], 57owv2, 1476605182.0, 39
+122, [Would a Trump victory constitute a political realignment?], 55sbn2, 1475593444.0, 120
+123, [How different would the 2004 election gone had Howard Dean won the Democratic nomination?], 58lns7, 1477056630.0, 6
+124, [How would an attempt at redistricting the House logistically occur after the election?], 58f1pl, 1476966981.0, 0
+125, [Command and control solutions vs market solutions: which do you prefer and how do you align politically], 58er5s, 1476962845.0, 0
+126, [I've heard people call Jill Stein "crazy" and portray her as a fringe candidate. Is this simply an image problem, or is she really on the political fringe?], 58pqjd, 1477113900.0, 266
+127, [Worst Presidential Candidates in history], 592wjz, 1477315016.0, 85
+128, [Hillary Clinton is reportedly eyeing Joe Biden to be Secretary of State in her administration. What do you think the odds of this happening are, and is Biden a good pick?], 59sah5, 1477652674.0, 445
+129, [Why do candidates always talk about "manufacturing" and "factory" jobs? Seems like a very esoteric career choice], 589wmz, 1476907589.0, 446
+130, [Why didn't the #nevertrump movement embrace Gary Johnson?], 57s0r8, 1476662169.0, 456
+131, [What are the political differences between Millenials and Generation Z?], 591x8l, 1477300364.0, 51
+132, [Would it be legal for a sitting US Secretary of State to be on a presidential ticket?], 55thf2, 1475616720.0, 53
+133, [How Different Would the USA be, if Presidents Could Server More than Two Terms?], 595tk9, 1477359007.0, 44
+134, [How does Kentucky, a heavily red state, elect only two republican governors over the past 44 years?], 57zjzh, 1476764101.0, 20
+135, [Should Trump lose, could/would he run again in 2020?], 58yxkk, 1477263937.0, 79
+136, [What is it about Alaska that makes it a possible swing state this year when it wasn't a swing state in recent presidential elections?], 5aadgb, 1477916034.0, 114
+137, [In this election season, have you been touched by a campaign? Did it impact your vote?], 59qrbi, 1477633799.0, 19
+138, [If elected, would Clinton be able to fill the vacancy on the Supreme Court, considering the Senate's reluctance to nominate a replacement?], 56pzkb, 1476098343.0, 18
+139, [Body autonomy and constitutional rights], 563k86, 1475754227.0, 16
+140, [[Debate Megathread] LIVE Discussion Thread for the Final Presidential Debate of 2016], 58dz6q, 1476953709.0, 333
+141, [Is there any chance that Donald Trump will call on his supporters to boycott the general election in an attempt to delegitimize it?], 58j0o8, 1477022478.0, 23
+142, [Is Gary Johnson helping or hurting the pro marijuana movement?], 58kyr8, 1477046010.0, 37
+143, [Would third parties(Libertarian, Green, Constitution, Socialist, etc.) be more viable if they started at the local and state level?], 56uqnd, 1476166441.0, 44
+144, [What should be the progressive agenda if the Democrats manage to take all 3 chambers?], 56yjdh, 1476228296.0, 12
+145, [Has Any Presidential Candidate Ever "Lost" All 3 Debates and Still Won The Presidency?], 565qw6, 1475794302.0, 407
+146, [If Trump were to win and the House of Representatives retained a Republican majority, what would the president/congress relationship look like?], 56yw67, 1476232280.0, 7
+147, [Is there a future for Evan McMullin in the Republican party?], 5753ix, 1476319814.0, 33
+148, [What would happen if Social Security were to go insolvent?], 58zxyi, 1477276226.0, 20
+149, [Would there be any discernible advantage to having one of the presidential debates be a 'doubles' debate, i.e. both candidates argue against one another along with their VP picks? Which party might benefit the most depending whether it's 2016, 2012, 2008, etc.?], 565zm3, 1475797166.0, 56
+150, [How will third-party candidates fair in the general election given the events of the last few weeks?], 57d8w8, 1476428393.0, 40
+151, [If you had to reinvent the Republican platform so that it would have broader appeal while not completely sacrificing conservative principles, what would it look like? How would you pitch it to existing Republicans constituencies who may be wary of change?], 562yv8, 1475745525.0, 376
+152, [In your opinion what should the next administration's jobs/stimulus program look like?], 57xipy, 1476742405.0, 27
+153, [The Democratic Party is making early arrangements on the redistricting front. Will these efforts be gainful and what tactics should they employee to see the most success?], 57xlnk, 1476743374.0, 385
+154, [Has Trump fundamentally changed any of the "unwritten rules of politics"? Or was he just an anomaly and things will go back to normal in 2020?], 58ztjf, 1477274811.0, 96
+155, [Wikileaks has released a list of possible VP nominees Hillary Clinton was considering before picking Tim Kaine. How many people on this list were serious contenders? Are any better choices than Senator Kaine?], 58c1cb, 1476931933.0, 126
+156, [Would America benefit from longer terms for the House of Representatives?], 5aclfr, 1477953726.0, 153
+157, [Should Mike Pence consider abandoning Trump?], 56kxwj, 1476019522.0, 214
+158, [What is Evan Mcmullin's political future?], 5a4m6i, 1477832421.0, 92
+159, [What happened between 1996 and now that made MO, AR, TN, KY, WV, go from BLUE to being about as hard Red as it gets?], 55vsik, 1475643716.0, 70
+160, [So what do you see Bill Clinton's role in the White House with a Hilary Clinton victory?], 56y2o1, 1476222614.0, 76
+161, [What are the potential implications for Hurricane Matthew on the presidential election?], 5694uz, 1475835241.0, 163
+162, [The Obama Administration announced that healthcare premiums will be increasing by 25% on average next year. Moreover, consumers will have fewer provider choices than before as insurers continue to back out. Where do we go from here and what implications will this have on midterm and 2020 races?], 597m8d, 1477377946.0, 1605
+163, [Is the vitriol and hate of the 'other side' the new normal?], 56buzp, 1475882212.0, 151
+164, [Can you think of anything Trump can do/say that would get his base to not vote for him?], 56dtvp, 1475905178.0, 268
+165, [What Will Be the Next Amendment to the United States Constitution?], 563rnb, 1475757586.0, 73
+166, [VP Debate Thread], 55wkv1, 1475653541.0, 400
+167, [As far as presidential politics go, what states are changing color (going from red to purple, blue to purple, blue to red, etc)], 55iflj, 1475447426.0, 70
+168, [If the Clinton ticket wins, whom do you think Virginia Governor McAullife will replace Sen. Kaine with?], 59gjou, 1477501202.0, 30
+169, [Theoretically, what would happen if a 3rd party (i.e. Libertarian or Green) focused 100% of its efforts/resources in just one state? What impact would that have on party power and name recognition?], 56y4rc, 1476223408.0, 64
+170, [Are there any close House races to watch? Are there any seats that could potentially flip parties?], 56j74w, 1475992076.0, 57
+171, [But why isn't representation in most State Legislatures set up comparably to representation in Congress?], 56yhiq, 1476227711.0, 0
+172, [Will conservative voters giving up on Trump shift their support to 3rd Party Johnson?], 56m8lb, 1476049735.0, 113
+173, [Why are political opinions so volatile?], 58voe9, 1477205088.0, 81
+174, [Was the middle class just an anomaly of the 20th century, and, barring some sort of intervention, are we now simply retracting back to a society of upper and lower classes?], 56oeu9, 1476077551.0, 217
+175, [Is Clinton really as hawkish as portrayed, particularly over Syria?], 59h0rx, 1477510453.0, 170
+176, [How does a Senator like Mitch McConnell from a relatively small state like Kentucky rise to the very powerful position of Senate majority leader?], 570t2e, 1476253651.0, 14
+177, [How will the allegations that Assange is actively trying to influence the US election affect US-Ecuadorian relations?], 57xilf, 1476742355.0, 164
+178, [How does Ted Cruz spend the next four years under a Trump presidency? Under a Clinton one?], 59bpo3, 1477438958.0, 114
+179, [How fair game is a candidate's personal life?], 57inm3, 1476507095.0, 25
+180, [What is the future for UKIP in light of Diane James' recent resignation?], 55w86q, 1475648925.0, 18
+181, [How did Ralph Nader win such a high percentage of the vote in 2000?], 57onai, 1476601508.0, 75
+182, [Will Donald Trump attempt a hostile takeover of the Republican Party?], 56yjq9, 1476228403.0, 314
+183, [A recently released poll in Utah shows Trump, Clinton, and write-in Evan McMullin in a statistical tie. What effects would there be if Utah ended up going blue, or even 3rd-party?], 574ecx, 1476312095.0, 248
+184, [Should the Republican party change their presidential primary rules for 2020?], 58sblz, 1477155356.0, 305
+185, [With the RNC abandoning Trump, is the House now in play?], 56jn71, 1475998276.0, 228
+186, [Will Rogers wrote: "This country has gotten where it is in spite of politics, not by the aid of it. That we have carried as much political bunk as we have and still survived shows we are a super nation." Does (hyper)partisanship have any value, or is it purely an obstacle to progress?], 58y6ug, 1477251270.0, 70
+187, [How involved would Tim Kaine or Mike Pence be as VP?], 56vr3l, 1476179709.0, 28
+188, [Do you think the youth vote will change much by 2020?], 55ix9c, 1475454291.0, 20
+189, [To what extent is your voting behavior informed by self interest?], 59in7x, 1477529734.0, 47
+190, [Australia and Belgium have some of the highest voter turnouts in the world. What part does compulsory voting play in creating a politically engaged electorate?], 5a5hsm, 1477852870.0, 75
+191, [Were the Voting Rights Act and the Civil Rights Act responsible for the Democratic Party only winning one presidential election through six election cycles (1968-1988)?], 59qac6, 1477628676.0, 108
+192, [How would politics be different if electoral votes were apportioned by county, rather than by state?], 575qwq, 1476326695.0, 22
+193, [Are we on the doorstep of a cold war with Russia?], 57uevr, 1476690926.0, 163
+194, [If Hillary wins the election, do you believe there is going to be a controversy over the legitimacy of her 'mandate'?], 56zsea, 1476242125.0, 47
+195, [If the Citizen's United decision were overturned, should documentaries like Netflix's "13th" be allowed to be shown close to the election?], 58ryob, 1477146992.0, 122
+196, [Do you think a southern Democrat could win their home state in this political environment?], 560w14, 1475719889.0, 76
+197, [Governor Paul LePage: "we need a Donald Trump to show some authoritarian power in our country and bring back the rule of law". Will calls for authoritarianism become more pronounced in the future? How will this effect presidential campaigns (and politics in general) going forward?], 570gj9, 1476249505.0, 763
+198, [Why do you think the Palestine-Israel conflict hasn't been addressed at all in the general election?], 57gu2u, 1476486721.0, 22
+199, [What will be the implications of the Pirate Party forming a coalition government if they are successful in today's Icelandic parliamentary election?], 5a12mx, 1477785468.0, 225
+200, [Do you think its a good idea for US states to have bicemral legislatures?], 58vvvx, 1477207946.0, 45
+201, [Can the Republican party become more attractive to minorities without adopting any "progressive" policies?], 55op10, 1475543339.0, 196
+202, [Former Red Sox pitcher Curt Schilling has declared that he has made up his mind and will be running against Elizabeth Warren for her senate seat in 2018. What are his chances and would the Massachusetts GOP welcome a Schilling run?], 584f96, 1476833707.0, 651
+203, [Will early voting change how the campaigning game is played? Could we end up in a situation where the victor is "known" before election day?], 55uqyn, 1475632052.0, 37
+204, [What will happen to the Republican Party if Trump earns more Electoral Votes than Romney did, which looks likely? Will they take it as a sign that a Trump party is more viable than a Moderate Romney party?], 59vxh6, 1477706679.0, 168
+205, [Who has more "closet voters"?], 57ixnz, 1476510461.0, 47
+206, [How much is the election over issues and policy versus a power struggle between groups/demographics?], 589dzt, 1476897915.0, 24
+207, [Regardless of the current rhetoric would you name one positive thing that you respect in the candidates you are not voting for?], 56yumr, 1476231795.0, 22
+208, [Is it legal for a campaign to call and say you requested an absentee ballot and have to turn it in but haven't requested one?], 57zm9l, 1476764764.0, 12
+209, [What would SC with 8 members be like in long term?], 57z7qk, 1476760521.0, 9
+210, [A Trumpian Party Split?], 57v4g3, 1476700632.0, 127
+211, [Do any of the recent "Podesta leaks" contain anything truly damning?], 58adfj, 1476914033.0, 287
+212, [A new poll has McMullin (I) in a statistical tie with Trump and Clinton in Utah. If he were to win the state, would his impact be felt longer-term than the other third-party candidates?], 57y994, 1476750635.0, 270
+213, [How will the GOP change its stance on Russia, if at all, in the next few years?], 59qinx, 1477631129.0, 71
+214, [How has this election been compared to your expectations?], 57on9s, 1476601500.0, 41
+215, [In the debate on Sunday, Hillary Clinton said she would "arm Kurdish forces".What would arming Syrian Kurdish forces change in the Syrian conflict?], 56yyg5, 1476233010.0, 19
+216, [The reigning king of Thailand has died. What implications does this hold for Thailand's domestic affairs?], 57acng, 1476395584.0, 616
+217, [After Romney lost in 2012 the GOP did an autopsy of the election and determined they needed to attract more women, minority and LGBT voters. If Trump loses, what will be the post-mortem after the election?], 59t2xz, 1477665520.0, 212
+218, [What are the chances that the National Popular Vote Interstate Compact takes effect by the 2020 election? What would be the impacts if it did?], 55uut7, 1475633257.0, 78
+219, [At what level of public life/public service is privacy not a right?], 57hfbv, 1476493398.0, 11
+220, [Some GOP members are willing to block any SCOTUS nominee from Clinton if she's elected. What are the repercussions for possibly maintaining vacancies for another 4+ years?], 57z4id, 1476759583.0, 806
+221, [Will this election help define which states belong in the "Red Wall" category?], 595hjt, 1477355651.0, 100
+222, [Bernie Sanders has been pushing the idea that he will be the Chairman of the Senate Budget Committee if the Senate flips to the Dems. What powers would he inherit and would this give more likelihood to the implementation of some of his campaign goals?], 57vidd, 1476706380.0, 492
+223, [Are you aware of anyone who ever changed their vote based on the Vice Presidential Debate?], 55nb64, 1475524860.0, 367
+224, [Evan McMullin and his advisors are planning to start a new center-right party after the election. Is that viable?], 59jdu4, 1477537336.0, 591
+225, [If the Dems do capture the House, and with it likely the Senate as well, what would be the repercussions for both parties?], 56tcr0, 1476151244.0, 52
+226, [If the Dems do capture both chambers of Congress, what legislation would likely get passed between 2017 and the midterms?], 56mpge, 1476056580.0, 229
+227, [How will Donald Trump's news campaign against the Republican establishment affect his standing with more moderate voters?], 56z0dy, 1476233628.0, 14
+228, [What is most likely to happen with the Supreme Court vacancy if the Democrats take the presidency and senate?], 591w6g, 1477299968.0, 28
+229, [British PM Theresa May seems to indicate the country will go with "Hard Brexit". What are the implications ?], 55jxto, 1475467131.0, 484
+230, [President Obama has announced that he will be giving 150 Down-Ballot endorsements before the general election. How will this affect ongoing congressional races?], 5930iu, 1477317046.0, 63
+231, [If Rick Perry successfully primaries Ted Cruz in 2018, what would the implications be for the GOP, and what would the future hold for Perry and Cruz?], 58sn7o, 1477162868.0, 174
+232, [Are there any differences between the Communist Party of Tajikistan and the People's Democratic Party of Tajikistan?], 59hsug, 1477520882.0, 102
+233, [There are two independent candidates in the senate who caucus with the Democrats. If the senate race results in a close shave, for example 49 republicans, 49 Democrats, and 2 Independents, does this count as a democratic majority?], 57o9s9, 1476596533.0, 38
+234, [What is Democrat's Path to Winning the House?], 58i3k3, 1477012900.0, 56
+235, [What are the pros and cons of creating a National Holiday for national voting days?], 57h4ju, 1476490092.0, 52
+236, [Was 2016 Paul Ryan's best year to run for President?], 59bs1g, 1477439682.0, 373
+237, [If the Democrats win this White House and the House this election would it be smart for them to push for proportional representation?], 58h6k8, 1477003127.0, 157
+238, [Donald Trump has said he may not accept the outcome of the election. By what institutions or means could Trump contest the election? Which of these means might he choose?], 58es6r, 1476963222.0, 384
+239, [Clinton elaborated on her support for a no-fly zone in Syria, where the Russian air force is currently operating. Is there possibility of armed conflict with Russia in the next few years?], 575f5w, 1476323244.0, 130
+240, [So Trump released his plan for his first 100 days in office. Are these viable plans, and would these entice prospective voters?], 590ea0, 1477281341.0, 27
+241, [Will Republicans who do not support Trump turn out to vote? What impact will the top of the ticket have down ballot this year?], 565wvq, 1475796257.0, 87
+242, [Who would be the Speaker of the House if the Democrats were to regain control?], 57bg0v, 1476408036.0, 209
+243, [Would you support a constitutional amendment that allows naturalized citizens to run for president?], 59j8v5, 1477535885.0, 169
+244, [The USIC has officially blamed Russia for hacking US institutions to manipulate domestic politics. What will be the international fallout?], 56dcwz, 1475899468.0, 494
+245, [If Trump is a "proof of concept" for a particular style of politics but personally doomed to failure, who is it that can take Trumpism and win?], 59maca, 1477573225.0, 193
+246, [What would be the effects of no party winning a majority in the next Spanish Election?], 58dfze, 1476947124.0, 14
+247, [Which Senate/House election are you most invested in? Who do you support in it?], 56muv5, 1476058495.0, 53
+248, [After the 2016 Election, will the United States be more divided or united as a country?], 57hb4f, 1476492114.0, 32
+249, [In the past 100 years, which president has been the most centrist or "moderate" in your opinion? How good of a job did they do as president?], 59cy64, 1477451872.0, 97
+250, [How do you think Ted Cruz, Jeb Bush, John Kasich, and Marco Rubio would have each fared against Hillary Clinton in the general election?], 575ya8, 1476328845.0, 95
+251, [Apparently the new president makes 4000 political appointments when they get into office, who are all these people?], 58os1e, 1477103222.0, 121
+252, [RealClearPolitics has moved Texas to "tossup" status. Does this sudden change surprise you? Is it a change specific to this election or is it now truly a swing state?], 598nhw, 1477390719.0, 181
+253, [How much effect will third debate have on both sides?], 57q9yu, 1476627547.0, 56
+254, [What grade would you give the Democrats for how they have run the general election?], 58h3c5, 1477002129.0, 49
+255, [What would be the federal economic (revenue / jobs) impact of legalization of marijuana?], 59q8ei, 1477628121.0, 117
+256, [Why is rural Wisconsin more blue than suburban Wisconsin?], 59ef2w, 1477468148.0, 230
+257, [Why is West Virginia staunchly conservative while the majority of its bordering states are much more moderate/liberal?], 56yu1s, 1476231614.0, 17
+258, [Why Does This Latest Revelation About Trump Seem To Be Gaining Traction With Republicans In A Way None Of His Other Issues Did?], 56l19u, 1476021486.0, 626
+259, [Are there any prominent people from this year's campaigns (candidates, supporters, other) that Hillary could appoint to her cabinet or elsewhere, as Obama did with Hillary in '08?], 58m4g7, 1477065832.0, 46
+260, [What happened in the Ohio senate race?], 56cln5, 1475890709.0, 54
+261, [What kind of Republican will win the 2020 GOP nomination?], 58jubp, 1477031627.0, 158
+262, [What in your opinion is necessary experience/qualifications (if any) a candidate should have in order to run for President?], 5709z0, 1476247500.0, 2
+263, [With the most recent Utah polls showing a very tight race between McMullin and Trump, will McMullin pull out the victory? Why or why not?], 58km5b, 1477041299.0, 131
+264, [What are the economic impacts of stringent intellectual property laws? What would be the impact of loosening them? How relevant are they to international trade - especially in the face of the rampant theft of IP by state actors?], 55jr1f, 1475464741.0, 28
+265, [Why did Bill Clinton undershoot his polls in 1996?], 58zejq, 1477269904.0, 35
+266, [Ted Cruz recently said "There is certainly long historical precedent for a Supreme Court with fewer justices." What precedents might he be talking about?], 59ngms, 1477596593.0, 418
+267, [Should Voting rights be viewed as an inalienable right, even for ex-felons and current inmates?], 58cpuq, 1476938936.0, 212
+268, [How can Mike Pence and Tim Kaine theoretically "win" tonight's debate for their sides?], 55u3y0, 1475624675.0, 238
+269, [If Clinton should win the election, what do you think should happen to Merrick Garland's supreme court nomination?], 5923vk, 1477302961.0, 117
+270, [What would a 2016 "autopsy report" look like for the losing party this election?], 57arwe, 1476400659.0, 161
+271, [The US has formally suspended bilateral talks with Russia about the war in Syria. How will the war develop in the coming weeks?], 55q4v5, 1475559761.0, 61
+272, [Why do people use the presidential polls to predict down-ticket races? Isn't it perfectly possible for people to vote for a president from one party and a senator/rep from the other (especially in this particular election)?], 597fgv, 1477375791.0, 30
+273, [How many political ads are you seeing on TV? What's the ratio between Trump/Clinton?], 56ikh5, 1475983827.0, 30
+274, [You are going to be one of the citizens asking questions at the town hall debate tonight. What question do you ask and what response do you hope to get?], 56o8nr, 1476075431.0, 8
+275, [What would happen if voting machines were successfully hacked in an American election (but the government detected vote manipulation)?], 57yyjp, 1476757839.0, 18
+276, [Is it possible that Sen. Rob Portman's increased strength as a candidate is actually helping upticket (Donald Trump) in Ohio as opposed to the other way around?], 588tqc, 1476885930.0, 74
+277, [Hillary often faces the charge that she is a "hawk." How do Hillary's foreign policy views substantially differ from the GOP's position?], 59tqgo, 1477679750.0, 62
+278, [[Debate Megathread] Pre-Game Discussion Thread for the Final Presidential Debate of 2016], 58c7aq, 1476933624.0, 125
+279, [After this election what are the fates of the factions of the Republican Party], 590en5, 1477281472.0, 37
+280, [Does the Supreme Court have Constitutional ground to make a ruling on gerrymandering?], 59ks9l, 1477552776.0, 91
+281, [What questions from the audience could most hurt or help each candidate in the town hall debate?], 5671uf, 1475809157.0, 143
+282, [Would Chief of Staffs make good presidential candidates?], 57mrml, 1476577254.0, 41
+283, [If you could build your own political party, what would be the top 5-10 policy positions?], 57ghs6, 1476482543.0, 105
+284, [Possible future Presidential Candidates?], 5932vp, 1477318203.0, 22
+285, [Why do some states elect senators from different political parties?], 55rjb8, 1475579039.0, 21
+286, [Investor-State Dispute Settlement (ISDS) is one of the greatest points of contention regarding the Trans-Pacific Partnership. Critics claim the mechanism favors corporate interests over national sovereignty. Is this the case? If so, how could the system be improved to be better balanced?], 55p61r, 1475548675.0, 83
+287, [Is there any practical difference between a 51/49 majority in the senate, and a 50/50 + VP majority?], 55uiws, 1475629553.0, 153
+288, [[Final 2016 Polling Megathread] October 30 to November 8], 5aajix, 1477918695.0, 209
+289, [What will happen to the GOP if Trump does not concede and/or declares the election to be a sham?], 58jfa5, 1477026813.0, 185
+290, [What is the most powerful position in the world right now?], 57i0kk, 1476499790.0, 55
+291, [What if term limits were just a limit on successive terms?], 58yvn5, 1477263195.0, 24
+292, [What will Hillary and Donald's biggest regrets be if they lose?], 58el78, 1476960769.0, 23
+293, [What does Ecuador gain politically by giving asylum to Assange?], 58amrf, 1476917105.0, 74
+294, [In light of this week's leaked Trump recordings, what is next for Ted Cruz? Will he recant his last-minute endorsement or not?], 56o8lh, 1476075408.0, 59
+295, [What powers does the president have that few people know about?], 57o5zs, 1476595121.0, 301
+296, [How will the email hacks change future campaigns in terms of how campaign staff communicate?], 584k21, 1476835141.0, 124
+297, [We hear warning about complacency a lot in Presidential Elections but is there any evidence of bandwagoning?], 58son5, 1477163674.0, 12
+298, [How would a Clinton/Obama 2008/2012 ticket have fared?], 5717wn, 1476258889.0, 34
+299, [Why is Alaska becoming more competitive in presidential elections?], 5953gg, 1477351584.0, 241
+300, [Does Donald Trumps shift from current US foreign policy on Serbia have geopolitical repercussions?], 57aq6o, 1476400104.0, 102
+301, [What explains the urban/rural divide among voters in this election and past ones?], 58c1ce, 1476931935.0, 49
+302, [What does a win scenario in Syria look like for the US? What are the paths to get there?], 57kjnp, 1476534321.0, 37
+303, [What is the most brutal negative political ad that you've ever seen? What in your opinion makes a negative ad effective?], 58zcw1, 1477269342.0, 135
+304, [If Republicans hold on to a slim House majority, how does Paul Ryan avoid the same 'motion to vacate the chair' threat that ousted Boehner?], 56zqy3, 1476241684.0, 63
+305, [If the Supreme Court becomes solidly liberal under President Clinton, what are the biggest "landmark decisions" it will make in the next 8 years?], 58qb5x, 1477120843.0, 148
+306, [Obama advocates for a curating function to combat misinformation. How might that work?], 57lfbn, 1476554137.0, 302
+307, [According to Nate Silver, in 2012 male voters preferred Romney while female voters preferred Obama, and in 2016 men prefer Trump while women prefer Clinton. Is such a gender split a new phenomenon, and what are the implications when the genders disagree on the direction for the country?], 57gj2d, 1476482977.0, 250
+308, [No Fly Zone in Syria and it's potential impact], 57gjxm, 1476483287.0, 26
+309, [Will the regulation of gene editing debate be as contentious as the abortion debate?], 586qmz, 1476857611.0, 118
+310, [What is it about Iowa that makes it a swing state?], 57t187, 1476673985.0, 121
+311, [Would/could a non-partisan House speaker work in the US as it does in Westminster parliamentary systems?], 590ta4, 1477286184.0, 14
+312, [Obama's Final 100 Days], 57f3dk, 1476456303.0, 206
+313, [What would be the most interesting debate you could have - who would it be between and what would be the format?], 56cj91, 1475889955.0, 36
+314, [A majority of GOP voters want the party to stick by Trump; what does this mean, and does this mean the most recent tapes didn't have that much of an effect?], 56mx04, 1476059246.0, 223
+315, [Twelve states are holding gubernatorial elections this year. Which ones should be the most interesting to watch?], 5afdj5, 1477980670.0, 102
+316, [[Polling Megathread] Week of October 23, 2016], 594oya, 1477347012.0, 194
+317, [Have any of the three Presidential (and one Vice Presidential) debates changed your vote? Has a debate ever changed your vote in the past?], 58hc3i, 1477004837.0, 50
+318, [What would happen if the Senate refused to seat any of Clinton's nominees for the Supreme Court?], 58vyt1, 1477209088.0, 142
+319, [What is one senate race where you actually think the opposing party's candidate is a better choice?], 570ldg, 1476251061.0, 13
+320, [Why did Gore run with Lieberman as VP candidate?], 5ahpbn, 1478011330.0, 32
+321, [If the Republicans only hold on to the house by less than 10 seats, will Ryan be strong enough to keep the speakership?], 58kki8, 1477040696.0, 83
+322, [What is the most important thing to consider, for you, when selecting a candidate?], 56tpxd, 1476155063.0, 40
+323, [A growing number of elected Republican officials have withdrawn endorsement of Trump. Do Trump's remaining supporters view them as too liberal, unreasonable, or unfaithful?], 56sc92, 1476140075.0, 150
+324, [Is there any empirical evidence suggesting that "complacency" has an effect on election results?], 57pwiy, 1476620445.0, 27
+325, [Why was Michael Steele replaced as RNC Chair after the GOP's massive electoral successes in 2010?], 56zo5j, 1476240812.0, 108
+326, [The effect of recent leaks and FOIA requests on political and government communications?], 57yvz1, 1476757092.0, 28
+327, [Which politicians were most successful after a failed Presidential campaign?], 55qalx, 1475561779.0, 106
+328, [Who do you think would've been a great president had they not lost the election?], 58kzus, 1477046433.0, 54
+329, [How will Chris Wallace do as a debate moderator this Wednesday?], 57zevi, 1476762627.0, 106
+330, [[Debate pre-game] Second Presidential debate pre-game thread.], 56ob29, 1476076248.0, 194
+331, [With the relative success of Donald Trump's campaign to go from someone nobody took seriously to a Presdential candidate, do you think we will see an increase of "viral campaigning" in the future?], 58tcm3, 1477175296.0, 30
+332, [Are there any historical examples (at any state or national level) of the impact of one candidate having a robust ground/GOTV campaign, and the other candidate not?], 59sjy8, 1477656415.0, 17
+333, [Why did the Democratic Party stop spending money to defeat Marco Rubio's senate campaign?], 58pq1b, 1477113732.0, 145
+334, [Duterte has announced a "separation" of the Philippines from the United States and is beginning trade deal negotiations with China. What are the implications of this?], 58iasm, 1477014959.0, 494
+335, [VP Debate Post Thread], 55xe0x, 1475664273.0, 283
+336, [How will the new FLSA law --requiring lower-paid employees to be paid hourly instead of salaried -- impact employees?], 57z4l5, 1476759610.0, 4
+337, [What will be the Republican demographic/ideological coalition post 2016?], 58th5g, 1477177311.0, 15
+338, [What impact will leaked/hacked emails, texts, phone calls, conversations, etc... have in future US elections?], 59xeil, 1477722642.0, 66
+339, [In retrospect do you think the Arab Spring was a success or failure?], 588hfb, 1476879976.0, 157
+340, [Colombians vote against FARC Peace Deal], 55l0v7, 1475481506.0, 300
+341, [Regarding the potential for Trump supporters to "punish" the GOP by refusing to vote downballot, how organized are they really to execute such a move?], 56z895, 1476235960.0, 80
+342, [If you were the Libertarian Party, what would you have done differently this election to be more competitive?], 58cv24, 1476940482.0, 35
+343, [What happened between 1988 and 1992 that turned California from a Republican-leaning swing state to solid Democrat territory?], 585q5w, 1476847003.0, 224
+344, [Former senators Russ Feingold (D-WI) and Evan Bayh (D-IN) have been out of the senate since 2011 but are making runs this year. If Feingold, Bayh, or both are elected, would they have leadership positions in the senate like tenured members or would they be relegated to first term status?], 58jjw3, 1477028268.0, 236
+345, [What happened in October/November of the 1980 election that turned a small lead for Carter in the polls into a landslide loss?], 56822q, 1475820467.0, 71
+346, [How does campaign finance/advertising reform work outside the US, in the age of the internet?], 58ubsd, 1477188139.0, 21
+347, [How serious is the scandal surrounding South Korean President Park geun-hye?], 59twi2, 1477682890.0, 469
+348, [What are some notable political ads from this cycle that don't pertain to the presidential race?], 58tgzd, 1477177240.0, 96
+349, [If all states took the Medicaid expansion how would that change Obamacare Today?], 59i22p, 1477523665.0, 164
+350, [[Polling Megathread] Week of October 2, 2016], 55nor1, 1475530835.0, 232
+351, [Which Senators or Congressmen are likely to lose their seat on Nov 8, and who is likely to replace them? What effect will this have?], 582qwt, 1476808448.0, 58
+352, [What are the pros and cons of imposing term limits for Congress?], 58a819, 1476912066.0, 124
+353, [In a recent interview, Singapore's Prime Minsister lays out the foreign policy issues associated with not passing TPP. Is this something that should have been discussed more in terms of obtaining support for it, or communicated better to the public? Or would it not matter?], 59rvd9, 1477647397.0, 87
+354, [What state and local ballot measures should the rest of the country pay attention to?], 57ofz4, 1476598814.0, 84
+355, [What will Biden do after being VP?], 56z2wu, 1476234358.0, 41
+356, [Is the lack of a shared political reality a new thing, and can we overcome it?], 56sb51, 1476139694.0, 309
+357, [What are some of the most unexpected procedural oddities in political history?], 57pilr, 1476614147.0, 297
+358, [Where would candidates campaign if we eliminated the electoral college?], 596hcd, 1477365721.0, 118
+359, [What one change would have saved or significantly helped a losing Presidential campaign?], 5950oo, 1477350768.0, 25
+360, [Hypothetical question: What if a third party put one of the major-party nominees at the top of their own ticket, but with a different VP?], 57w5lk, 1476718237.0, 26
+361, [Freedom Caucus members of the House GOP have hinted at ousting Paul Ryan as Speaker in 2017. What are the odds of this actually happening and what would the ramifications be of a Freedom Caucus Speaker in a likely Clinton presidency?], 58nodl, 1477091052.0, 322
+362, [How can the American election system be changed for the better?], 59ssv9, 1477660372.0, 58
+363, [Will McCain's comments on opposing Clinton's SC nominees, and subsequent backing off those comments, force the GOP to allow a vote on a Clinton nominee in the first weeks or months of a Clinton presidency?], 58c8px, 1476934026.0, 82
+364, [What Surprised You the Most this Election Cycle?], 59lzrz, 1477568710.0, 113
+365, [[Polling Megathread] Week of October 17, 2016], 57vpn1, 1476709709.0, 181
+366, [This election, Maine is voting on an initiative that would allow voters to rank their choices of candidates. Would there be any wider reaching impact if this passes?], 57gq5a, 1476485422.0, 275
+367, [The topics for the third and final presidential debate have been announced. Are these topics appropriate for the final debate and how do you feel they will be answered by the candidates?], 576kcl, 1476335619.0, 213
+368, [What are the criteria for a news organization to "call" a state on election night?], 5953mm, 1477351634.0, 82
+369, [Why did the Reform Party die off?], 580fnw, 1476773776.0, 58
+370, [After 2016, is it likely we could see a return of the Blue Dog Democrat?], 58tnc1, 1477179803.0, 22
+371, [[Polling Megathread] Week of October 9, 2016], 56tqqq, 1476155278.0, 198
+372, [Does the appearance of a lopsided race benefit either candidate?], 58apua, 1476918061.0, 40
+373, [Why and how has the TPP been in the US legislative system for so long? How will it's passage/rejection intersect with the Presidential election?], 59ypcp, 1477740754.0, 43
+374, [Why did Russia revert from PR to 50/50 mixed SMD and PR in the 2016 election?], 58zchu, 1477269207.0, 24
+375, [What is the worst mid term/congressional election either party has ever experienced?], 58txu1, 1477183441.0, 11
+376, [Once ISIS is driven out of Mosul, who will fill the vacuum?], 58c4db, 1476932813.0, 17

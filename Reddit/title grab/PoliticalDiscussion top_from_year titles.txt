@@ -1,0 +1,1001 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Ted Cruz is dropping out of presidential race], 4hrwn5, 1462350707.0, 4484
+2, [Why do the largest third parties in the USA, in the Greens and Libertarians, focus so hard on the Presidency instead of ground-level lower level offices to build themselves?], 4wg27n, 1470522373.0, 3058
+3, [VFW (Veterans of Foreign Wars) has officially condemned the Trump campaign over the Khan comments], 4vnyrq, 1470104759.0, 2857
+4, [Elizabeth Warren has been quietly removed from the Keynote Speaker slot at the DNC], 4t77xf, 1468742763.0, 2821
+5, [Cruz just denied Trump an endorsement. Could it lead to more high-profile Republicans jumping ship?], 4tv2k0, 1469101065.0, 2383
+6, [Marco Rubio drops out of the 2016 Presidential Election], 4alb97, 1458116608.0, 2354
+7, [Trump refuses to support Paul Ryan and John McCain in their respective Republican primaries], 4vup36, 1470199170.0, 2129
+8, [Paul Ryan has told house republicans he won't defend trump and will focus the next 29 days on keeping the house majority. Is this the official signal of the party abandoning him?], 56sixf, 1476142228.0, 2084
+9, [Brexit: Britain votes Leave. Post-Election Thread.], 4pkto0, 1466768738.0, 2086
+10, [John Kaisch dropping out of race], 4hv4ko, 1462406322.0, 2013
+11, [Donald Trump says he may not defend 'some' NATO countries if they are attacked, specifically Baltic countries.], 4twnn6, 1469131893.0, 1899
+12, [Art of the Deal co-author has come out denouncing Trump.], 4tgahp, 1468891271.0, 1804
+13, [Ted Cruz is campaigning in Mississippi today with Bryan Fischer, an extremist religious leader who thinks all homosexuals should be arrested and that we should adopt Russia's ban on homosexuality. Why is he getting a pass from the media on his endorsements?], 49drcm, 1457401313.0, 1759
+14, [The U.S. has the strongest military in the world, by a long shot (by far the biggest navy, biggest air force, most warheads) so why do people at the RNC keep saying we need to rebuild our decimated military?], 4u2v3a, 1469224556.0, 1750
+15, [Ted Cruz has been accused of having extramarital affairs with 5 women. What effect does this have on the Republican primary?], 4bwlp9, 1458943872.0, 1630
+16, [The Obama Administration announced that healthcare premiums will be increasing by 25% on average next year. Moreover, consumers will have fewer provider choices than before as insurers continue to back out. Where do we go from here and what implications will this have on midterm and 2020 races?], 597m8d, 1477377946.0, 1609
+17, [Donald Trump has instructed his team to look into paying the legal fees of the 78 year old man who sucker-punched a black protestor at one of his rallies. How can Trump say he doesn't want or condone violence after this?], 4a8fsf, 1457907124.0, 1604
+18, [Paul Ryan: "Claiming a person can't do their job because of their race is sort of like the textbook definition of a racist comment." Does this help or hurt trump at all?], 4mzbq3, 1465338937.0, 1582
+19, [Minnesota just became the first State to dump Caucuses; will move to Presidential Primary system for 2020 election], 4kvpkx, 1464148625.0, 1564
+20, [Clinton has selected Tim Kaine of Virginia to be her running mate. How does this compare to Pence?], 4u5szq, 1469261619.0, 1511
+21, [Gary Johnson just launched a site that matches you with an opposing voter of your state so you can both vote third party without indirectly supporting your least wanted party. Is this just a gimmick or a good strategy to help him as third party candidate?], 508ozr, 1472550994.0, 1491
+22, [Bernie Sanders endorses Hillary Clinton today in New Hampshire. What impact can we expect from this?], 4shlot, 1468366575.0, 1457
+23, [Can Gary Johnson's presidential run survive his "What is Aleppo" comment on Morning Joe?], 51qyj6, 1473365226.0, 1460
+24, [What is the potential fallout for Trump's leaked audio recording from 2005?], 56ezvq, 1475921897.0, 1448
+25, [FBI Director James Comey has informed Congress that new emails apparently "pertinent" to the investigation of Hillary's personal email server have been found. What is the best way for the FBI and other agencies to handle the release of information during a contentious election?], 59x8el, 1477720615.0, 1438
+26, [Why would Hillary hire DWS after all that's happened with the DNC email scandal?], 4ugfmw, 1469443621.0, 1431
+27, [Trump has received a lot of attention for his recent campaign comments regarding the second amendment. What will be the implications for his campaign?], 4wz5lq, 1470813559.0, 1399
+28, [Former CIA Director Micheal Morell Endorses Hillary Clinton.], 4w9qd3, 1470421148.0, 1399
+29, [Gary Johnson stated Romney is considering endorsing him], 4v3ra8, 1469779141.0, 1321
+30, [Trump threatens to pull the US out of the World Trade Organization.], 4uedbx, 1469414178.0, 1310
+31, [The 4th Circuit has struck down North Carolina's Voter ID law.], 4v7qnv, 1469841984.0, 1299
+32, [If the black community started arming themselves and forming militias, would we begin to see stricter gun regulations passing more quickly?], 4rv0u5, 1468018220.0, 1305
+33, [Obama just endorsed Hillary Clinton. What now?], 4nc0gg, 1465523698.0, 1297
+34, [The AP just reported that Clinton has clinched the Democratic nomination.], 4mw9st, 1465288265.0, 1200
+35, [Romney has just said that he might end up voting for Gary Johnson. Could we see a sizeable amount of GOPers supporting Johnson post-convention?], 4niv5j, 1465627323.0, 1174
+36, [Trump on Fox and Friends, regarding Muslim ban: "It was a suggestion. Look, anything I say right now, I'm not the president. Everything is a suggestion, no matter what you say, it's a suggestion."], 4j7bw7, 1463188313.0, 1174
+37, [FiveThirtyEight lays out the growing problems with our political process. What can we do to address these concerns if you think they are legitimate concerns?], 4w5cef, 1470356587.0, 1159
+38, [Supreme Court Justice Scalia has died. What effect will this have on the SCOTUS?], 45mxle, 1455429606.0, 1133
+39, [U.S. Senate rejects 4 gun control measures], 4p1na0, 1466494232.0, 1120
+40, [Marco Rubio says that "Gods Rules Always Win When Theres a Conflict With U.S. Law"... why do Christians want to impose "biblical law" and how is this any different than a Muslim saying they want to institute "Islamic Law"?], 3uh6yy, 1448669184.0, 1121
+41, [House Speaker Paul Ryan has said he cannot currently support presumptive Republican nominee Donald Trump's presidential campaign.], 4i1qts, 1462508113.0, 1099
+42, [Should the health of 2 of the oldest presidential candidates be under more scrutiny.], 529cpo, 1473640838.0, 1094
+43, [Media is reporting GOP distancing themselves from Donald Trump even more after Trump's remarks after the Orlando attack], 4o7mod, 1466030467.0, 1094
+44, [Donald Trump says he likes water boarding a lot.], 4qg8hf, 1467244225.0, 1088
+45, [The AP is reporting that many of the same anti-Trump individuals that tried to keep Trump from being nominated now want to call a special meeting to remove Trump as the nominee.], 4wszj2, 1470725259.0, 1068
+46, [Not a single newspaper has endorsed Donald Trump for President so far. Do newspaper endorsements still matter in 2016?], 551udm, 1475179779.0, 1052
+47, [Ted Cruz is now mathematically eliminated from reaching 1,237 pledged delegates before the convention], 4fm6l2, 1461165254.0, 1051
+48, [[Megathread] Shooting in Orlando, Florida.], 4nqgn1, 1465770767.0, 1048
+49, [The Justice Department Says it Plans on Ending Use of Private Prisons. Will we see substantial pushback to this proposal? What will be the consequences of this decision?], 4yd3n0, 1471565319.0, 1047
+50, [Jeb Bush is actively floating the idea of backing Gary Johnson. What would his support mean for Donald Trump, and the future of the GOP?], 4t1vua, 1468652414.0, 1015
+51, [CNN is holding a Libertarian town hall tomorrow night. Can the Johnson/Weld ticket gain enough media attention to be included in polls and can they poll high enough to get into the presidential debates?], 4p6g0h, 1466565986.0, 1009
+52, [Harriet Tubman will replace Andrew Jackson on the $20 bill.], 4fo8om, 1461199328.0, 1009
+53, [Could the rise of Trump be a reaction to Rural Decay?], 57gdg5, 1476480950.0, 1003
+54, [The Clinton campaign is shifting money and resources away from the presidential campaign to House and Senate races. Is this a risky strategy? What effect will it have?], 58ycur, 1477254755.0, 970
+55, [Hillary Clinton just delivered a foreign policy speech attacking Donald Trump.], 4m9c79, 1464929563.0, 937
+56, [[Debate Megathread] Post-Debate Discussion Thread for the First Presidential Debate of 2016], 54oidu, 1474973162.0, 932
+57, [Donald Trump revokes the press credentials of the Washington Post. How will this affect media coverage of him?], 4nxqdf, 1465879505.0, 918
+58, [Bernie Sanders says he will return to the Senate as an independent.], 4upn0g, 1469580930.0, 906
+59, [Trump: "The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive."], 48b259, 1456792717.0, 905
+60, [The Supreme Court just Overturned Texas' Abortion Restrictions. What are the implications?], 4q3khh, 1467066203.0, 900
+61, [Robert Kagan, speechwriter for the Reagan administration, wrote a column in the WaPo that argues the Trump movement is how fascism starts.], 4k8br3, 1463781091.0, 867
+62, [John Boehner:Ted Cruz is lucifer in the flesh. Do you think Republican elites want Ted to be the nominee,lose, then get rid of his wing of the party?], 4gu5u1, 1461881712.0, 825
+63, [Bloomberg, Cuban and now Buffett have all officially endorsed Clinton, is lining up billionaires to speak on her behalf beneficial for Clinton?], 4vsp5a, 1470176967.0, 809
+64, [Some GOP members are willing to block any SCOTUS nominee from Clinton if she's elected. What are the repercussions for possibly maintaining vacancies for another 4+ years?], 57z4id, 1476759583.0, 806
+65, [Jane Sanders: "Bernie will not be running as an independent."], 4goose, 1461795765.0, 799
+66, [Manafort has resigned from the Trump campaign. What motivated this choice, and is this indicative of a fundamental shift in strategy with the introduction of Bannon?], 4yjgqu, 1471648432.0, 795
+67, [Gingrich calls for testing the loyalty of Americans of "Muslim background" to the United States], 4sxg8b, 1468585665.0, 787
+68, [Reince Priebus, Chairman of the RNC, officially denounces David Duke's senate run.], 4u9bj1, 1469326147.0, 780
+69, [Rep. Adam Kinzinger (R-IL) Says He Will Not Support Trump in November. Is This a Trend That Could Continue to Grow?], 4w18m1, 1470291623.0, 782
+70, [Allegations have arisen that Trump has forcibly touched two women. Will these allegations seriously impact voter behavior in November? If so, how are these allegations different from those Bill Clinton faced in the '90s? Do voters hold Presidential candidates to different standards than in the past?], 577cd2, 1476345191.0, 772
+71, [Sanders and Clinton camps have agreed on a compromise that will cut the number of superdelegates by 2/3.], 4uar52, 1469346709.0, 773
+72, [California is going to vote on the general ballot to legalize recreational marijuana in November. If the largest US state does this, how far will the impacts reach?], 4qm9f6, 1467329310.0, 766
+73, [Governor Paul LePage: "we need a Donald Trump to show some authoritarian power in our country and bring back the rule of law". Will calls for authoritarianism become more pronounced in the future? How will this effect presidential campaigns (and politics in general) going forward?], 570gj9, 1476249505.0, 763
+74, [Newt Gingrich calls for a new House Un-American Activities Committee.], 4o4nnf, 1465979711.0, 757
+75, [Obama to name Judge Merrick Garland for Supreme Court. per WSJ.], 4anxcq, 1458165654.0, 757
+76, [Chris Christie endorses Donald Trump for President.], 47q885, 1456537875.0, 746
+77, [What do you think of Hillary Clinton's proposed National Service Reserve?], 558aaz, 1475276264.0, 747
+78, [Politifact finds allegations of fraud and misconduct at Nevada Democratic convention unfounded], 4k0ctm, 1463653871.0, 743
+79, [Iowa Democratic platform to include legalization of all drugs], 4r1wmk, 1467579302.0, 728
+80, [Romney: I wont vote for Trump or Clinton], 4i6d38, 1462587426.0, 722
+81, [MSNBC is Showing Footage of Trump Stating Women Who Have Abortions Should be Personally Legally Punished. What Potential Impacts Might this Have on the Primary and General?], 4cmb9l, 1459394228.0, 715
+82, [I Think the Sanders Campaign Deserves Some Credit for the Campaign They Have Run Up to This Point.], 49ox8o, 1457570952.0, 714
+83, [The NY Times has gathered a panel of legal scholars from across the political spectrum who warn that Trump threatens US rule of law. Is this fear justified?], 4md0mw, 1464991633.0, 706
+84, [Senator Mark Kirk rescinded his support of Donald Trump today, becoming the first major Republican official to do so], 4n1te9, 1465368205.0, 702
+85, [Hillary Clinton just called half of Trump's supporters "deplorable" and then went on to distinguish between the other half. Was this a good move?], 521oa1, 1473512841.0, 702
+86, [Oregon Senator Jeff Merkley (D) has endorsed Bernie Sanders for President, and is the first sitting US Senator to do so.], 4elax7, 1460579037.0, 693
+87, [Gary Johnson wins the Libertarian nomination, with ~55% of the vote.], 4ll744, 1464569964.0, 699
+88, [FBI Press Conference MegaThread], 4rd5d5, 1467760502.0, 684
+89, [Why is there such a focus on manufacturing jobs when most Americans have jobs in the service industry?], 54vzz6, 1475093434.0, 684
+90, [Khizr Kahn, the father of fallen soldier Humayun Kahn, just called on Mitch McConnell and Paul Ryan to fully repudiate Trump. Will his speech last night see any meaningful change from the Republican leadership?], 4va9gt, 1469876084.0, 676
+91, [Trumps plan to cut the debt is to make creditors accept less than face value. Does this plan not matter to the electorate or would it even come up in future debates?], 4i4wim, 1462567309.0, 676
+92, [Media is reporting an organized movement by GOP delegates to stop Trump at the convention], 4okojq, 1466217395.0, 667
+93, [Is illegal immigration in the United States really that much of a problem?], 50ohtt, 1472780765.0, 667
+94, [Trump Campaign Manager Paul Manafort reportedly "mailing it in," no longer challenging Trump. Is the tone/strategy of the campaign going to change?], 4vw7ri, 1470218996.0, 668
+95, [Post Debate Discussion Thread], 56puq5, 1476096696.0, 661
+96, [Trump camp reveals he practiced very seriously for the debate. Does that change your evaluation of the first debate and predictions for the second debate?], 54x4wp, 1475108216.0, 658
+97, [Bernie Sanders says, "It doesn't appear that I'm going to be the nominee, so I'm not going to be determining the scope of the convention"], 4pi192, 1466732875.0, 658
+98, [Former Red Sox pitcher Curt Schilling has declared that he has made up his mind and will be running against Elizabeth Warren for her senate seat in 2018. What are his chances and would the Massachusetts GOP welcome a Schilling run?], 584f96, 1476833707.0, 653
+99, [House unanimously passes bill allowing 9/11 victims families to sue Saudi Arabi. President Obama has threatened to veto it. How will this play out?], 51y5bj, 1473465791.0, 655
+100, [MSNBC just confirmed that Obama spoke to the Sanders campaign and is looking to endorse clinton as early as this week.], 4mv7cc, 1465275071.0, 651
+101, [Obama warns Democrats against 'Tea Party mentality' and that If you dont get everything you want, its not always because the person you elected sold you out" - How will this affect the Democratic race?], 4ducr3, 1460109346.0, 652
+102, [Today, the State Department released its report on Hillary Clinton's email audit. Thoughts?], 4l10s3, 1464228647.0, 643
+103, [Gary Johnson and his running mate William Weld were both 2-term Republican governors in blue states. Trump, the major party nominee, has no political experience. Does this give the 2016 Libertarian ticket a lot more credibility than 3rd parties usually receive?], 4otuuu, 1466380784.0, 646
+104, [Many Republicans skipping Republican convention], 4tak92, 1468804904.0, 640
+105, [Jerry Brown Endorses Hillary Clinton ahead of California primary], 4lv8o9, 1464730702.0, 633
+106, [Wikileaks just released a April 2015 document of DNC staffers discussing strategies to destabilize the Republican field - such as secretly assisting "Pied Piper" extremist candidates during the primaries. To what extent may this tactic have been used during the current election?], 57j46t, 1476512724.0, 639
+107, [Why Does This Latest Revelation About Trump Seem To Be Gaining Traction With Republicans In A Way None Of His Other Issues Did?], 56l19u, 1476021486.0, 625
+108, [Jeb Bush drops out of the GOP race.], 46t44d, 1456047737.0, 630
+109, [Does this election prove that most people in the US will vote for the major party candidates regardless of who is nominated?], 53bryu, 1474226663.0, 624
+110, [Hillary Clinton plans to reschedule marijuana if she is elected according to a statement issued by the campaign. How does this affect her overall appeal?], 4xfmz4, 1471062261.0, 621
+111, [The reigning king of Thailand has died. What implications does this hold for Thailand's domestic affairs?], 57acng, 1476395584.0, 619
+112, [Bernie Sanders vows to continue to his campaign.], 4n3lf9, 1465394304.0, 618
+113, [The RNC platform committee just declared coal "clean", added to the previously-existing list "abundant, affordable, reliable, and domestic". What ramifications could this have for GOP energy policy?], 4ssse6, 1468524726.0, 613
+114, [It's over. What did you think of Trump's nomination speech?], 4u0wzm, 1469187624.0, 609
+115, [Sanders says campaign was denied fairness in Nevada], 4jsqub, 1463543104.0, 600
+116, [Washington D.C. has put together a commission to write a constitution and petition for statehood, do you want them entering the Union?], 4qs0fv, 1467412193.0, 592
+117, [Evan McMullin and his advisors are planning to start a new center-right party after the election. Is that viable?], 59jdu4, 1477537336.0, 591
+118, [The Federal Election Commission has released a 639-page list of illegal campaign contributions made to Senator Bernie Sanders' campaign - does this undercut his message about reforming campaign finance?], 4ivmkc, 1463011480.0, 590
+119, [Let's talk about Trump's online presence for a second. Who makes up this base and why does it seem so much larger than Hillary's?], 54re7l, 1475022421.0, 587
+120, [Trump does not plan to release tax returns, says "Nothing is there"], 4iuu9d, 1463001289.0, 585
+121, [Hillary Clinton's campaign gave billionare and frequent Trump critic, Mark Cuban, a front-row ticket to the debate on Monday. Trump in response, is saying he'll invite Geniffer Flowers to the debate. Should there be restrictions on who the candidates are allowed to invite?], 54c7z2, 1474782073.0, 583
+122, [Michael Bloomberg endorses Clinton. Will this help her support among dismayed business Republicans?], 4udxd4, 1469408290.0, 579
+123, [It's been reported that the Clinton campaign has reached out to Condoleezza Rice, Henry Kissinger, and other experienced Republicans for possible endorsements. Is this a sound strategy, how effective could it be, and who should they be trying to court?], 4x2pyq, 1470872265.0, 585
+124, [Trump Rally postponed for "Safety" reasons after massive protests], 4a1mjv, 1457772089.0, 583
+125, [If Trump wins, but Democrats secure at least 50 seats in the Senate, there would be a 17 day window where Obama is still President and Democrats hold a senate majority. In this scenario, should Democrats act to confirm Garland, or wait and let Trump nominate a new Justice?], 53ihsa, 1474332471.0, 579
+126, [Republican Senator Ben Sasse warns he may leave the Republican Party over Donald Trump], 48hqd5, 1456884341.0, 576
+127, ["If the world could vote" - International surveys show a near-universal preference for Democrats in American presidential elections. Does that say anything about the left-right placement of the US vs. other countries and should American voters consider the rest of the world's opinions?], 4vjwdh, 1470040230.0, 575
+128, [Will Trump's comments on Khizr Kahn and John Allen affect him with veterans/the military?], 4vf6ra, 1469959791.0, 572
+129, [New WaPo article suggests Clinton's legislative agenda will go nowhere no matter how well the Dems do this November. Is this the new normal in U.S. politics?], 4x9fwd, 1470968151.0, 573
+130, [John Kasich rebukes Trump, shoots down VP position], 4nc5pj, 1465525476.0, 571
+131, [Donald Trump has just stated that he would likely not support the Republican nominee in the general election], 4ciowp, 1459331356.0, 570
+132, [A judge has ordered the release of internal papers relating to Trump University.], 4licml, 1464511244.0, 560
+133, [Corey Lewandowski is no longer Trump's Campaign Manager. Who will replace him, and what will they try to change?], 4oyve8, 1466460231.0, 557
+134, [[Debate Megathread] Postgame thread for the final Presidential debate of 2016.], 58eicp, 1476959826.0, 554
+135, [Debate Moderators Announced], 50t62q, 1472851123.0, 547
+136, [Maine Gov. Paul LePage vetoes bill making opioid overdose medication more accessible to addicts. Naloxone does not truly save lives; it merely extends them until the next overdose, the governor wrote in his rejection of the bill.], 4g56lc, 1461472842.0, 553
+137, [McConnell says if Trump wins the nomination they will "drop him like a hot rock," running negative ads to separate Trump from the Congressmen up for re-election. Would Trump stand a chance in the general if the Republican establishment essentially campaigns against him?], 47vi3y, 1456614910.0, 548
+138, [[Debate Megathread] LIVE Discussion Thread for the First Presidential Debate of 2016], 54nuut, 1474964458.0, 548
+139, [Trump attacked at Ohio rally. Podium flooded by secret service agents.], 4a4w9l, 1457836413.0, 545
+140, [Eric Trump and Sen. Bob Corker Suggest Ivanka Trump as VP for Donald Trump], 4rqak6, 1467946871.0, 544
+141, [The Washington Post has ruled out endorsing Donald Trump in November and branded him 'a threat to American democracy'], 4u4w75, 1469249131.0, 539
+142, [Near the end of the primaries, George W. Bush remarked that he was worried that he'd be "the last Republican president." How realistic is this fear?], 4y62sf, 1471475054.0, 535
+143, [Papal official denies report Sanders invited himself to Vatican], 4dy10j, 1460173033.0, 533
+144, [Ben Carson to endorse Trump], 49w73s, 1457682665.0, 532
+145, [Clinton Campaign Spent $26 Million on Battleground State Advertisements in the month of June. Trump campaign spent $0. - NBCNews], 4qbthc, 1467177060.0, 526
+146, [Bernie Sanders just used his DNC speech to attribute most of his progressive agenda to Hillary Clinton. Can we expect her to hold to this in the coming months?], 4umo6x, 1469533467.0, 528
+147, [Warren to endorse Hillary Clinton. Will this have any affect on Sanders' supporters?], 4n7y75, 1465456138.0, 524
+148, [The Arizona Republic endorses Hillary Clinton. Can Clinton turn Arizona Blue?], 54ulk1, 1475063951.0, 528
+149, [It's two months before election day and Hillary Clinton has been diagnosed with pneumonia. How should each campaign operate coming down the home stretch in light of this news?], 52b2pz, 1473661519.0, 523
+150, [Racism is at the heart of the Trump movement, which is driven by racial resentment by white men angry that they no longer dominate American society the way they used to, says NY Times columnist.], 4ie0t2, 1462730179.0, 523
+151, [Sanders gives an interview to Univision leading up to the California Primary.], 4lagv2, 1464380377.0, 519
+152, [One of Bernie's 40 Superdelegates Has Flipped to Hillary. Are Recent Events Hurting His Chances with Superdelegates?], 4jwzdf, 1463611328.0, 522
+153, [Cruz just relased an statement in which he "clears the path" for Kasich in Oregon and New Mexico while saying he will devote most of his time and resources to Indiana.], 4gb9cf, 1461578982.0, 512
+154, [Gary Johnson supports the "fair tax" system, which relies heavily on consumption (increasing sales tax to upwards of 30%) How can this be justified when poor people spend a larger portion of income than wealthy people? "paycheck to paycheck" vs reinvestment (not taxed until liquidation).], 4c65it, 1459125172.0, 513
+155, [Obama lifts Vietnam Trade Embargo], 4knin5, 1464032153.0, 515
+156, [Jeb Bush endorses Ted Cruz for President.], 4blwir, 1458756612.0, 511
+157, [In 2010, Marco Rubio ran for Senate under the label as a Tea Party candidate. Six years later, he became a presidential candidate favored by the GOP establishment. How did Rubio go from "outsider" to "insider" so quickly?], 50dzij, 1472626778.0, 511
+158, [NYTimes Exclusive today: "Crossing the Line: How Donald Trump Behaved With Women in Private], 4jc416, 1463273056.0, 505
+159, [Cruz Picks Fiorina as VP. What does she bring and what does this mean?], 4gqf2b, 1461817491.0, 503
+160, [Will revelations about Trump U do anything to damage the Republican nominee?], 4m19io, 1464817027.0, 501
+161, [The Sanders Campaign is alleging Hillary and the DNC committed campaign fraud. Do their allegations have merit?], 4fe50k, 1461043340.0, 505
+162, [Trump Calls For Election Observers], 4xhpuq, 1471093427.0, 500
+163, [Mitt Romney had a private meeting with Bill Kristol Thursday night to discuss an independent run], 4i8oh7, 1462623977.0, 495
+164, [Jeb! is not going to support or vote for Trump.], 4iar8c, 1462669330.0, 498
+165, [Duterte has announced a "separation" of the Philippines from the United States and is beginning trade deal negotiations with China. What are the implications of this?], 58iasm, 1477014959.0, 494
+166, [Speaker Ryan said he would step down as Chairman of the convention if Donald Trump asked him too.], 4ikbkg, 1462839749.0, 493
+167, [Trump threatens to unseat Paul Ryan as chair of the Republican convention. Discuss.], 4if5q3, 1462753291.0, 491
+168, [Christie withdraws his Republican nominee from consideration and proposes a Democrat to NJ Supreme Court after Sweeney 6 year Senate stonewall], 4efzqv, 1460495132.0, 487
+169, [The USIC has officially blamed Russia for hacking US institutions to manipulate domestic politics. What will be the international fallout?], 56dcwz, 1475899468.0, 490
+170, [Bernie Sanders has been pushing the idea that he will be the Chairman of the Senate Budget Committee if the Senate flips to the Dems. What powers would he inherit and would this give more likelihood to the implementation of some of his campaign goals?], 57vidd, 1476706380.0, 495
+171, [Maine Senator Susan Collins says she will not vote for Trump], 4wtq1v, 1470736664.0, 484
+172, [British PM Theresa May seems to indicate the country will go with "Hard Brexit". What are the implications ?], 55jxto, 1475467131.0, 488
+173, [Why is Bernie focusing on college, when we have a failing k-12 system, especially in urban communities?], 44205d, 1454564004.0, 486
+174, [Let's talk about Bernie's Daily News interview.], 4dkcf0, 1459947478.0, 486
+175, [One day after endorsing Trump, Paul Ryan disagrees with Trump for Trump's "Mexican" remarks about judge], 4mj2g0, 1465087170.0, 480
+176, [Trump reverses minimum wage stance again], 4ixch5, 1463032099.0, 474
+177, [Mitt Romney to Skip the Republican National Convention], 4i11ui, 1462499253.0, 481
+178, [With ~100% reporting, Hillary Clinton wins South Carolina by ~47.5%; she was projected to win by 20-30%. What does this mean for the race?], 47zr0u, 1456655808.0, 476
+179, [Sen. Lindsey Graham just stated that Trump's comments RE: Judge Curiel are the "most un-American thing from a politician since Joe McCarthy" -- Thoughts?], 4mwupi, 1465295711.0, 472
+180, [What's up with the hate for free trade?], 4uok9k, 1469567862.0, 471
+181, [Democrat's gun control filibuster reaches 13th hour], 4obole, 1466081536.0, 467
+182, [Romney: Republicans are nuts not to raise minimum wage], 40y6uk, 1452816253.0, 463
+183, [Wikileaks has begun releasing emails from the "Guccifer 2.0" hack. Do these have the potential to influence the Democratic Convention next week? The general election campaign?], 4u4sml, 1469247892.0, 468
+184, [Nigel Farage steps down as leader of the UK Independence Party: Why?], 4r7et4, 1467670899.0, 471
+185, [How serious is the scandal surrounding South Korean President Park geun-hye?], 59twi2, 1477682890.0, 469
+186, [Is the perceived closeness of the US presidential race genuine - or is the 'horse race narrative' encouraged by the media?], 54f0j9, 1474837698.0, 463
+187, [Trump outlines his plan to "defeat radical Islamic terrorism" and end "the era of nation building". How well will his policies be received?], 4xvrpj, 1471323280.0, 459
+188, [Is it likely that Rep. Steve Kings remarks about the lack of contributions of non-white/non-western cultures will significantly harm his re-election campaign?], 4tls4a, 1468971859.0, 461
+189, [What do you make of Krugman's comments on Sanders?], 4dvxnw, 1460143180.0, 456
+190, [Bernie Sanders calls for the closure of New York nuclear energy plant], 4dh4pm, 1459901610.0, 452
+191, [Why didn't the #nevertrump movement embrace Gary Johnson?], 57s0r8, 1476662169.0, 457
+192, [Why is Clinton seemingly over-performing in swing states and red states but under-performing in blue states?], 4zzeas, 1472420224.0, 454
+193, [In Clinton's speech in Reno, she cast Trump's embrace by racists as an aberration within the GOP. Is this accurate, or have the Republicans brought it upon themselves?], 4zohvj, 1472245631.0, 459
+194, [Aetna has announced it is leaving the ACA exchange in most states. With the exodus of other major insurance companies from the program this year, including UHC and Humana, what is the future of the ACA?], 4xzolg, 1471385459.0, 457
+195, [You may disagree with Trump and Sanders, but it seems undeniable that they are tapping into deep anxiety and frustration that "establishment" candidates have been unable to tap into. What are these anxieties? Are they legitimate? Where do they go if both these candidates lose?], 4h0spk, 1461983382.0, 455
+196, [Oklahoma Governor Mary Fallin vetoes bill criminalizing abortion in the state.], 4kaeif, 1463807091.0, 451
+197, ["I don't believe in voting for the lesser of two evils" - what is the reasoning for this?], 4uuj76, 1469653978.0, 445
+198, [Jerry Moran, a Republican Senator from Kansas has called for the Senate to "take up Merrick Garlands nomination to the Supreme Court"], 4btror, 1458885260.0, 452
+199, [Hillary Clinton is reportedly eyeing Joe Biden to be Secretary of State in her administration. What do you think the odds of this happening are, and is Biden a good pick?], 59sah5, 1477652674.0, 450
+200, [Washington Post reports the Mike Pence used campaign funds for personal reasons (including paying his mortgage) in 1990. Does this matter or is it old news?], 4t3rlw, 1468687174.0, 451
+201, [MSNBC just announced Donald Trump and Bernie Sanders will be live on air at 1PM EST.], 40skom, 1452729020.0, 447
+202, [David Cameron announces resignation], 4plntc, 1466782106.0, 450
+203, [Jeremy Corbyn loses vote of no confidence.], 4qa3zv, 1467157876.0, 448
+204, [Why do candidates always talk about "manufacturing" and "factory" jobs? Seems like a very esoteric career choice], 589wmz, 1476907589.0, 441
+205, [Do you think HRC's poll numbers will take a big hit with next weeks polls?], 52gcy5, 1473739463.0, 445
+206, [Are Trump's attempts to reach out to the African American community worth it? Are they helping him or making things worse?], 4zuef9, 1472336397.0, 439
+207, [Richard Hanna (R-NY) has become the first congressional Republican to endorse Hillary Clinton. Will he stand alone, or will he be the first of many?], 4vtkl3, 1470186825.0, 442
+208, [Latest Fox News Ohio poll: Kasich 34%, Trump 29%, Cruz 19%], 49qxii, 1457596779.0, 436
+209, [Libertarian vice presidential candidate William Weld just defended Hillary Clinton on MSNBC], 4lxnjz, 1464759008.0, 431
+210, [Bernie Sanders has formally requested a recount of the Kentucky primary results.], 4kv0qa, 1464140658.0, 436
+211, [Reddit was obsessed with TPP when it was being negotiated. Now the text is public, we're well into the 60 day review period - why am I see virtually no posts about it?], 3wgdrg, 1449911023.0, 428
+212, [Hillary's VP shortlist was just leaked. What do you think about the possible choices?], 4oftf8, 1466141777.0, 432
+213, [Has either presidential candidate(or any candidate in any race, for that matter) talked about how they would combat that rapidly declining bee population?], 5a74pw, 1477877469.0, 437
+214, [Donald Trump is having an off-the-record meeting with around two dozen influential Republicans today. What do you think they'll discuss?], 4bc2ls, 1458592544.0, 426
+215, [Kasich campaign misses deadline, gets left off Oregon voting pamphlet], 4glcwp, 1461738282.0, 429
+216, [New Gingrich, long thought to be a potential VP pick for Trump, criticizes him for his racial remarks towards the judge in Trump U case.], 4mmo1l, 1465147157.0, 432
+217, [Live Thread: Second Presidential Debate], 56pbk8, 1476089767.0, 421
+218, [Trump campaign releases official statement saying Donald Trump now believes Obama was born in the US. What's the strategy behind the timing of this move, and does it matter that Trump hasn't said it himself yet?], 5306xp, 1474027428.0, 424
+219, [In her time in the Senate, did Hillary Clinton stick with her campaign promises?], 53uhpt, 1474509693.0, 424
+220, [Trump: Transgender people can use any bathroom they want. What does this say about him? How will this affect his remaining primaries and the General Election?], 4ftt0z, 1461285387.0, 419
+221, [Fox News has cancelled Monday's debate after both Trump and Kasich said they will nor participate.], 4aoq1m, 1458176475.0, 418
+222, [Ted Cruz recently said "There is certainly long historical precedent for a Supreme Court with fewer justices." What precedents might he be talking about?], 59ngms, 1477596593.0, 413
+223, [Why does it seem most Donald Trump supporters claim "he wouldn't really do what he says"?], 4au2s7, 1458263344.0, 415
+224, [CNN/ORC Nevada Poll: Clinton 48%, Sanders 47% among likely caucus-goers.], 4683z6, 1455739724.0, 412
+225, [Has Any Presidential Candidate Ever "Lost" All 3 Debates and Still Won The Presidency?], 565qw6, 1475794302.0, 410
+226, [Kasich, Bush and Rubio say that Trump is a fascist. Who agrees?], 3uccnz, 1448571342.0, 411
+227, [The Democratic Party has released a draft of their platform for the convention in July.], 4pt1rd, 1466898830.0, 406
+228, [Austria is holding its presidential election today! For the first time since WWII the main centrist parties were knocked out in the first round. Austria could elect the European Union's first far-right head of state or put the former Green Party leader in the highest office in the land. Discuss!], 4ki54i, 1463944053.0, 406
+229, [CNN: In South Carolina, 74% of primary voters said they consider Clinton honest and trustworthy -- better than Sanders' 63%. thoughts?], 48266v, 1456696619.0, 408
+230, [Trump has stated that the general election will be rigged. Is this a serious claim or is he setting the narrative in case he loses?], 4vovy0, 1470115490.0, 405
+231, [WI exit poll: 39% of Republicans would abandon GOP if Trump is the nominee; 35% would abandon GOP if its Cruz.], 4dk86k, 1459945246.0, 405
+232, [Romney's speech is against Trump, so now what?], 48sqvc, 1457051858.0, 406
+233, [VP Debate Thread], 55wkv1, 1475653541.0, 400
+234, [What's the most absurd political lie you've seen people believe?], 510rcs, 1472965007.0, 401
+235, [NVDems submit complaint to DNC], 4jp86d, 1463488697.0, 398
+236, [What effect will Kasich's war on Trump and the RNC on Ohio this year and his presidential ambitions in 2020?], 53fllv, 1474282074.0, 396
+237, [If Trump doesn't win PA or VA how does he win?], 4zcu95, 1472077751.0, 390
+238, [Kasich response to Rubio's offer...], 4a0exv, 1457754828.0, 398
+239, [Biden 'confident' Clinton will be nominee and next POTUS], 4ir6nu, 1462940109.0, 395
+240, [Mitt Romney is scheduled to make a "major announcement" on the 2016 race tomorrow, what might he announce?], 48nel7, 1456971441.0, 394
+241, [Donald Trump recently apologized for causing any "personal pain" through his rhetoric. He also condemned bigotry and promised to always tell the truth. Is this the Trump pivot the GOP has been hoping for and will it give Trump a chance at winning come November?], 4yixlq, 1471642364.0, 393
+242, [Donald Trump has said he may not accept the outcome of the election. By what institutions or means could Trump contest the election? Which of these means might he choose?], 58es6r, 1476963222.0, 386
+243, [L.A. to vote on $1 billion bond measure to end homelessness], 4qzmzl, 1467531706.0, 386
+244, [Two new Fox News Polls; NY: Trump 54 Kasich 22 Cruz 15; PA: Trump 48 Kasich 22 Cruz 20; NY: Clinton 53 Sanders 37; PA: Clinton 49 Sanders 38.], 4e5rhr, 1460323291.0, 387
+245, [Gallup now has Trump's favorability with women at 23/70], 4cyeob, 1459576863.0, 384
+246, [Ben Carson has stated that Trump's VP Shortlist is Cruz, Kasich, Rubio, Christie, and Palin.], 4jhru9, 1463372230.0, 380
+247, [Lindsey Graham comes out against Donald Trump during CNN interview and states he will never vote for him.], 4i6cn6, 1462587264.0, 387
+248, [Do you think the president elected in 2028 has a wikipedia article on them yet?], 3zxsqp, 1452233076.0, 389
+249, [Clinton to announce VP this Friday in Tampa. Who do you think she will pick?], 4tn549, 1468986854.0, 388
+250, ["Parties are private organizations and can do what they want." In an age when the route to the Presidency effectively necessarily entails nomination in one of two major parties in the United States, should parties have such control over primary elections?], 4fi3nb, 1461108331.0, 386
+251, [Sanders releases 2014 tax return on website], 4ezhvi, 1460792958.0, 382
+252, [The Democratic Party is making early arrangements on the redistricting front. Will these efforts be gainful and what tactics should they employee to see the most success?], 57xlnk, 1476743374.0, 382
+253, [Why do many GOP pundits insist that the voters deserve a say in who the Supreme Court Justice replacement for Scalia will be in 2016? Isn't the whole point of the Court to be separated from being accountable to the people?], 463ny4, 1455674242.0, 381
+254, [Why can't congress/senate pass JUST a Zika bill?], 51ij5f, 1473237912.0, 384
+255, [If Trump is elected president, will the Ethics in Government Act of 1978 compel him to release his tax returns and provide a comprehensive list of all his foreign conflicts of interest?], 54m21d, 1474942977.0, 381
+256, [Austria holds its presidential election today! None of the six candidates is expected to win an absolute majority outright & for the first time since World War II the winner will most likely not come from one of the current two governing parties. Thoughts? Questions? Discuss!], 4g85sh, 1461533784.0, 384
+257, [San Francisco considering lowering voting age to 16], 4jrszh, 1463531905.0, 379
+258, [After much-anticipated meeting, Trump and Ryan say they are totally committed to working together], 4j16ne, 1463095322.0, 377
+259, [Newt Gingrich speculates the Debate Comission is rigged to help Hillary], 4vhwd9, 1470013054.0, 377
+260, [What do people make of the fact that Trump was an enthusiastic backer of Hillary Clinton just a few years ago?], 4nhsr9, 1465613174.0, 380
+261, [If Clinton wins, and there is concrete evidence that the Kremlin engaged in hacking and propaganda to support Trump, what would be an appropriate response?], 56xs0s, 1476218421.0, 369
+262, [Libertarian candidate Gary Johnson wrote an editorial about why he's running for President, focusing entirely on Trump and not mentioning Clinton once. What is the best angle for the Libertarians to take?], 4tu4dg, 1469087303.0, 372
+263, [What will be the fallout of Trump declining to debate Sanders], 4lcm3u, 1464409096.0, 374
+264, [If you had to reinvent the Republican platform so that it would have broader appeal while not completely sacrificing conservative principles, what would it look like? How would you pitch it to existing Republicans constituencies who may be wary of change?], 562yv8, 1475745525.0, 379
+265, [Virginia Gov. Terry McAullife restoring voter rights for felons, what effect will this have on the race?], 4fyzds, 1461368190.0, 374
+266, [Hillary's interview with the New York Daily News has been released. What are your thoughts?], 4ec37z, 1460428812.0, 376
+267, [Was 2016 Paul Ryan's best year to run for President?], 59bs1g, 1477439682.0, 370
+268, [Bernie Sanders supporters, please help me understand why raising the minimum wage to $15/hr is a good idea.], 4593mb, 1455231016.0, 371
+269, [The Kentucky recanvass --a review of voting machines and absentee ballots in all 120 counties-- confirms Hillary Clinton is the winner by 1911 votes, a mere 13 less than her May 17 victory. Does this recount quiet allegations of widespread election fraud some use to discredit Clinton's primary wins?], 4l7fq6, 1464324627.0, 369
+270, [Gary Johnson and Jill Stein have officially been ruled out of the first presidential debate. How much does this impact their respective campaigns going forward?], 533r9g, 1474084234.0, 367
+271, [Are you aware of anyone who ever changed their vote based on the Vice Presidential Debate?], 55nb64, 1475524860.0, 369
+272, [The heads/representatives of the democrat party in numerous Southern States have addressed an open letter to Bernie Sanders expressing their distaste], 4fqsrg, 1461232376.0, 363
+273, [Cruz calls for "Security Patrols" of Muslim neighborhoods in the US. How does this impact his overall appeal?], 4bje98, 1458709469.0, 367
+274, [What is Bernie's plan to pass legislation if he gets elected? He has only donated $1000 for down ticket races. Does his "revolution" involve congressional races?], 492p17, 1457218764.0, 361
+275, [DOS IG's office: "We are now reviewing the email practices of the current and last four Secretaries of State, not just Secretary Clinton"], 49zc9q, 1457740345.0, 358
+276, [The DEA Has Decided To Keep Marijuana Under Schedule 1. Realistically, What Could a President Do Within His or Her Own Power To Change This? Is an act of Congress The Only Option?], 4x6a18, 1470918516.0, 361
+277, [Meredith McIver, individual who admitted fault in the speech scandal was not a campaign employee.], 4tx628, 1469139282.0, 358
+278, [Hillary asked Bernie to provide an example of money influencing her. He didn't. What examples could he provide if any?], 4ewt91, 1460757293.0, 359
+279, [What will the political landscape look like if it's October and Trump is down double digits?], 4y8l02, 1471501478.0, 353
+280, [Will the Trump/Pea Nieto meeting improve Trump's image as possible future world leader?], 50jdp0, 1472704722.0, 356
+281, [Similar to the #nevertrump movement, a group of female Republican activists have formed "Republican Women for Hillary," dedicated to keeping Trump out of the White House.], 4r2pdd, 1467592647.0, 360
+282, [FBI to Interview Hillary Clinton in Coming Days About Email Scandal, Source Says. Are we nearing the end of the investigation?], 4qurw2, 1467446019.0, 354
+283, [Pope Actually Does Meet Bernie], 4f167n, 1460826151.0, 362
+284, [McConnell says it's time for Trump to stop attacking various minority groups], 4n0m82, 1465354068.0, 356
+285, [Bernie Sanders rejects possible debates with Hillary Clinton in New York. How will this reflect on both campaigns?], 4d2dmc, 1459646553.0, 351
+286, [Sanders most likely to win Michigan. What does this mean for his campaign?], 49me6y, 1457526342.0, 351
+287, [Is Clinton sitting on the sidelines too much and letting Trump dominate the discussion? Should she start to increase her media profile this week?], 4yutzu, 1471814693.0, 350
+288, [Prediction markets give Trump a 28%-35% chance of winning the general election. Are we underestimating Trump's chances?], 4hgjxv, 1462218330.0, 350
+289, [The New York Daily News Has Endorsed Hillary], 4eitpx, 1460532451.0, 347
+290, [The Trump Campaign is encouraging surrogates to bring up Bill Clinton's sexual history. What are the possible benefits of this?], 552blj, 1475186795.0, 353
+291, [Despite Their "Deal" Kasich is still telling his Indiana supporters to vote for him.], 4gdyde, 1461628695.0, 347
+292, [CNN/ORC Poll: Clinton 54. Trump 41. (Clinton +13).], 4hu6ih, 1462392754.0, 351
+293, [If you'd taken Nate Silver's demographic projections on Feb 25, added +3% for Hillary, you'd have correctly predicted the winner of 87% of the remaining 47 states.], 4na2vz, 1465494062.0, 345
+294, [House Minority Leader Nancy Pelosi Endorses Clinton for President], 4mym00, 1465328362.0, 348
+295, [How should Hillary Clinton respond to Donald Trump's demand for medical records?], 504k8k, 1472499255.0, 343
+296, [It seems to me that Republicans' position on replacing Scalia would be stronger if they were just honest about it.], 46ldoi, 1455927669.0, 348
+297, [Clinton and Sanders camps discussing a joint appearance on Tuesday], 4rlqri, 1467880850.0, 343
+298, [New NBC/WSJ/Marist Indiana poll: Trump 49 Cruz 34 Kasich 13. Will Cruz suspend his campaign if he loses or will he continue?], 4h8y9u, 1462136948.0, 340
+299, [Rubio quitting politics?], 4ay0uo, 1458332793.0, 342
+300, [Was there a moment from this year's DNC/RNC that changed your position or vote?], 4v7l6y, 1469840242.0, 344
+301, [Trump: If Hillary Clinton were a man, I dont think she would get 5 percent of the vote], 4gopns, 1461796093.0, 342
+302, [21% of Bernie Sanders supporters did not vote for the Wisc. Democratic Supreme Court candidate. What does this say about his ability to influence down-ballot elections?], 4dnmmj, 1460003310.0, 341
+303, [Donald Trump threatens to sue Cruz and run as an independent. Is the GOP race about to explode into the exoatmosphere?], 460sgi, 1455625835.0, 343
+304, [I just got back from a Hillary Clinton rally it was the most bizarre thing I have ever experienced in my life.], 43xwn9, 1454497973.0, 342
+305, [This will probably get buried by the caucuses, but another US Cabinet secretary - Defense Sec. Ash Carter - has been accused of using private email on the job. Is there a serious cultural flaw in our government with how sensitive email is handled?], 4c3fqx, 1459064213.0, 346
+306, [Who are the "best" Governors in the US right now? Why?], 4afggg, 1458022918.0, 338
+307, [in 1996, Clinton won West Virginia handily. In 2000, Gore lost it by 6, and Dems have gotten less each year since. What happened?], 4z0piz, 1471904008.0, 340
+308, [Lindsey Graham is apparently privately urging GOP donors to support Trump. As someone who has called Trump a "race-baiting, xenophobic, religious bigot" does this show that the GOP's desire to prevent a Clinton victory is greater than their disdain for Trump?], 4kkic6, 1463980080.0, 340
+309, [Concerning Senator Sanders' new claim that Secretary Clinton isn't qualified to be President.], 4dozeq, 1460022926.0, 340
+310, [If Trump goes through the entire election cycle without releasing his Tax Returns, does that establish a troubling precedent?], 52ykh7, 1474004268.0, 334
+311, [[Debate Megathread] LIVE Discussion Thread for the Final Presidential Debate of 2016], 58dz6q, 1476953709.0, 339
+312, [RCP Average GE: Trump is now beating Hilary], 4kjvox, 1463971780.0, 335
+313, [Obama presents congress with plan to close Guantanamo by years end.], 4777pl, 1456271918.0, 332
+314, [Ted Cruz Denies Affair Allegations Reported By The National Enquirer], 4byaeo, 1458967232.0, 337
+315, [Donald Trump has received his first congressional endorsements, them being Rep. Chris Collins (R-NY) and Rep. Duncan Hunter (R-CA). How does this affect the race?], 47dd2e, 1456359541.0, 332
+316, [A U.S. District judge has struck down Mississippi's sweeping religious freedom laws (HB 1523).], 4qqjae, 1467387077.0, 331
+317, [Obama Says The Democratic Nominee Will Be Clear Next Week], 4m5b63, 1464868139.0, 330
+318, [Clinton Officially Wins Missouri - Sanders Won't Seek Recount], 4avkau, 1458283712.0, 326
+319, [SUSA/ABC7 Calif. Poll Preview: Trump 57/Cruz 20/Kasich 14, Clinton 57/Sanders 38], 4hjh4r, 1462248014.0, 328
+320, [Donald Trump has raised $51 million in June.], 4rkf37, 1467863744.0, 325
+321, [Rand Paul to make a "big endorsement" tomorrow. Could he endorse a third party candidate?], 4cr63s, 1459475460.0, 324
+322, [Sanders says he will vote for Clinton and outlines what would need to happen before he endorses her, which he explicitly says he has not done yet.], 4pnqf9, 1466814116.0, 330
+323, [Let's discuss the murder of Jo Cox], 4of38l, 1466133261.0, 330
+324, [Does the right have their own version of "political correctness?"], 4nntot, 1465716743.0, 322
+325, [Massachusetts Poll: Donald Trump 50%, Marco Rubio 16%, John Kasich 13%, Ted Cruz 10%, and Ben Carson 2%], 46zim4, 1456149597.0, 325
+326, [The Iraq War Inquiry (Chilcot Report) has been released.], 4rikc4, 1467841977.0, 325
+327, [Republicans on the Senate Judiciary Committee have come to a consensus decision to not have hearings or a vote on a Supreme Court nominee in 2016], 478fbk, 1456285996.0, 328
+328, [Does Trump's speech on immigration in Phoenix change anything in the race?], 50l2qt, 1472726803.0, 330
+329, [5th Circuit Court of Appeals rules Machine guns are not protected by the Second Amendment], 4qt7z4, 1467426209.0, 320
+330, [How come Cheney had so much power as VP? Why did other VPs have more/less?], 50xqdt, 1472914310.0, 320
+331, [Elizabeth Warren calls out Krugman over "revisionist history" regarding too big to fail banks], 4ese59, 1460685398.0, 328
+332, [Florida Attorney General Pam Bondi may have nixed plans to investigate Trump University after personally soliciting and receiving a political contribution from Donald Trump. What political repercussions may we expect from this?], 4n0w4a, 1465357296.0, 327
+333, [What should the consequences of the recent Donna Brazile allegations be?], 5adxwd, 1477966736.0, 369
+334, [Freedom Caucus members of the House GOP have hinted at ousting Paul Ryan as Speaker in 2017. What are the odds of this actually happening and what would the ramifications be of a Freedom Caucus Speaker in a likely Clinton presidency?], 58nodl, 1477091052.0, 318
+335, [Nate Silver article suggests that Sanders supporters may be hurting Clinton in national polling. Thoughts?], 4k3fv1, 1463705724.0, 319
+336, [Clinton and Sanders supporters: What impressed you about the other side's candidate in tonight's debate?], 4euxj8, 1460720046.0, 321
+337, [There continues to be a push by #NeverTrump Republicans to stage an insurrection at the GOP convention by unbinding the delegates to keep Trump from winning the nomination. Can they actually pull it off?], 4s8nfg, 1468231865.0, 323
+338, [As Deep Red State Oklahoma eyes expanding its Medicaid program to bring in billions of federal dollars from the Obamacare Medicaid Expansion, will the remaining 18 states follow suit?], 4jl8b0, 1463435285.0, 318
+339, [RNC's strategy for attacking Clinton's potential VP picks has been leaked. Do you think it'll be effective?], 4q1b6e, 1467026745.0, 318
+340, [Terror attacks in Brussels: I hate to politicize this, but that's this sub's purpose. How will this affect our race? Trump in particular. Europe?], 4bgm2k, 1458664669.0, 323
+341, [Senator Sasse of Nebraska says that he will support a third party candidate if Donald Trump is the Republican nominee], 488955, 1456747581.0, 319
+342, [Is political conspiracy theorism becoming more mainstream in the US?], 4x9tc4, 1470972496.0, 317
+343, [Trump VP shortlist reduced to four names: Christie, Gingrich, Sessions and Fallon. Which choice would be the best for his ticket?], 4opcuk, 1466298917.0, 319
+344, [The Brexit vote is on Thursday and the polls are close.], 4pcvts, 1466656558.0, 313
+345, [March 3, 2016. The day the Republican Party collapsed?], 48sy96, 1457054547.0, 316
+346, [Will Donald Trump attempt a hostile takeover of the Republican Party?], 56yjq9, 1476228403.0, 313
+347, [Bernie says Convention could be "messy" and "Democracy is not always nice and quiet and gentle". What does this mean for the Democrats and Clinton?], 4krw3d, 1464089246.0, 318
+348, [Is it possible Millennials are overestimating their influence on the election?], 4kpgqn, 1464057624.0, 317
+349, [What do you think of the Pentagon's internal memo laying out a strategy to attack Speaker Paul Ryan's defense spending plan? Is it a case of the Pentagon putting politics first, or a legitimate effort to stop a bad plan?], 51n7wd, 1473307229.0, 311
+350, [Latest WI poll with huge likely voter sample: Trump 31%, Kasich 29%, Cruz 27%], 4ccmp6, 1459234089.0, 307
+351, [Out of curiosity, I projected out 538's delegate targets to show what Sanders needs in each state to overcome his deficit. Is there any argument to make that he can hit any of these targets?], 4ark89, 1458219111.0, 306
+352, [Is the lack of a shared political reality a new thing, and can we overcome it?], 56sb51, 1476139694.0, 302
+353, [What are the possible political repercussions of the Sanders/Trump debate spectacle?], 4l60q9, 1464307284.0, 306
+354, [Chris Christie Campaign's finance co-chair Meg Whitman has called his endorsement of Trump, "an astonishing display of political opportunism."], 482w0n, 1456701228.0, 308
+355, [Congress releases '28 pages' on alleged Saudi 9/11 ties], 4t0iny, 1468635544.0, 306
+356, [Trump campaign manager Corey Lewandowski charged with battery for grabbing reporter in Florida, how much does it hurt Trump's campaign?], 4cfwvq, 1459293996.0, 308
+357, [Kasich Signs Bill Defunding Planned Parenthood], 46xddc, 1456118743.0, 307
+358, [Should the Republican party change their presidential primary rules for 2020?], 58sblz, 1477155356.0, 302
+359, [538's 2016 Election Model: Competitive States], 4qhqba, 1467260900.0, 300
+360, [New NY Times/CBS Nows General Election Poll: Clinton 47, Trump 41], 4k5cf2, 1463728817.0, 302
+361, [Bush 41 and Bush 43 will sit out the 2016 election.], 4hxnd0, 1462438897.0, 303
+362, [What are the consequences of the Republican Party denying the nomination from the candidate who received the most primary votes?], 48xeyi, 1457128894.0, 305
+363, [Obama advocates for a curating function to combat misinformation. How might that work?], 57lfbn, 1476554137.0, 302
+364, [Colombians vote against FARC Peace Deal], 55l0v7, 1475481506.0, 305
+365, [Would you legalize prostitution?], 49ivf2, 1457478476.0, 301
+366, [What powers does the president have that few people know about?], 57o5zs, 1476595121.0, 296
+367, [CNN is reporting that the Rubio campaign is telling top donors that they are preparing for a brokered convention. Thoughts?], 47lzk1, 1456469164.0, 300
+368, [Is Trump's proposal to enact a nationwide stop and frisk policy something he could enact as President?], 53vqzj, 1474524703.0, 305
+369, [Is Trump Preparing to Walk Back His Campaign's Stance on Immigration?], 4yx31n, 1471842048.0, 302
+370, [As Obama's term begins to wind down his legacy and performance is pretty much solidified at this point. So for a change how about we talk about the performance of governors?], 4wkp5y, 1470602494.0, 301
+371, [Clinton just released a detailed outline of her Healthcare policies. Will it have bipartisan appeal, especially with Moderates and Sanders voters?], 4s0xjh, 1468109551.0, 298
+372, [5 Years Ago, Hillary Clinton's Favorable was 66%, What Happened?], 4i0c3c, 1462490106.0, 301
+373, [Clinton maintains big lead over Sanders in CNN national poll. Trump gains.], 48ab5l, 1456783108.0, 296
+374, [Democrat's Filibuster ends after 14+ hours, Senate will vote on Closing Terror Gap & Universal Background Checks. What does this lead to?], 4obzas, 1466087195.0, 301
+375, [Hearing that Hillary's campaign chairperson is obsessed with UFO's makes me want to ask: What are your favorite tidbits/quirks of modern politicians?], 4e2vsq, 1460262577.0, 303
+376, [What is something you admire about your least favorite candidate?], 4c9uh8, 1459195223.0, 299
+377, [Arnold Schwarzenegger campaigning for John Kasich.], 493wz6, 1457236721.0, 301
+378, [[Debate Megathread] Pre-Game Discussion Thread for the First Presidential Debate of 2016], 54kt78, 1474928580.0, 298
+379, [Would basically any other candidate have been better for the #NeverTrump movement than Cruz?], 4hn4g1, 1462309220.0, 296
+380, [Hawaii Congresswoman Tulsi Gabbard just announced her resignation as DNC Vice Chairwoman and endorsed Bernie Sanders for President.], 482xy2, 1456701496.0, 302
+381, [You are allowed to create an ad for one of the candidates this election. What is your ad?], 519ler, 1473113789.0, 301
+382, [What If Trump Drops Out?], 4vyjqo, 1470260672.0, 299
+383, [At the convention, there was quite a bit of discussion about the Obama's difficult decision to carry out the raid that caught Osama bin Laden. What would have been the consequences if we carried out the raid and bin Laden was not in that house?], 4v0ti0, 1469743001.0, 294
+384, [Jim Gilmore officially drops out. Does this turn the race on its head?], 45h2vd, 1455342680.0, 301
+385, [Anybody else find it ironic that Mitt Romney was considered too wealthy to connect with voters but Trump is connecting with conservative voters despite being 20x wealthier than he is?], 3x9rgf, 1450419837.0, 299
+386, [What are some of the most unexpected procedural oddities in political history?], 57pilr, 1476614147.0, 296
+387, [[Convention Post-Thread] 2016 Democratic National Convention 7/27/2016], 4uyq31, 1469706182.0, 298
+388, [Brexit: Britain votes today!], 4pf6jb, 1466689082.0, 298
+389, [Nate Silver: 50% chance of Trump winning the nomination], 4765vn, 1456255086.0, 297
+390, [Is Trump on to something? His campaign barely exists and yet the race is nearly a dead heat.], 4stbof, 1468532796.0, 295
+391, [How should Hillary respond to questions about Bill Clinton's affairs?], 55opat, 1475543426.0, 293
+392, [Maine governor Paul LePage said this morning that he is considering resigning. Can an elected official ever consider resignation, not resign, and be effective in his or her office?], 50buda, 1472601556.0, 296
+393, [How realistic are the GOP's chances of winning the White House in November? What do you think their best path is?], 4b7vla, 1458515459.0, 297
+394, [What defines your political ideology and beliefs and how did you end up believing what you do?], 4yyrjm, 1471866770.0, 294
+395, [The NYTM reports that Trump had offered to put Kasich in charge of both domestic and foreign policy if he agreed to VP. Has such a delegation of presidential authority ever been attempted before?], 4tu3k1, 1469086990.0, 294
+396, [Mark Kirk has broken ranks with Senate Republicans and said he would be open to meeting an Obama SCOTUS nominee. What are the implications of this?], 47h73h, 1456403028.0, 291
+397, [White House official says that Obama thinks Clinton is qualified to be President], 4dsgx1, 1460083175.0, 293
+398, [Ted Cruz rumored to announce Trump endorsement soon], 5463wv, 1474683133.0, 293
+399, [A majority of Americans have supported Euthanasia since 1972. Today, 69% of Americans support such change. Yet only a handful states allow it. Why could this be the case?], 4pxdme, 1466969355.0, 290
+400, [The CEOs of Verizon and GE have issued statements refuting claims from Sanders that their companies are "destroying the moral fabric of America], 4emjgo, 1460596058.0, 288
+401, [Do any of the recent "Podesta leaks" contain anything truly damning?], 58adfj, 1476914033.0, 290
+402, [Isn't Bernie the EXACT type of candidate the Republicans would want to face?], 44mhp2, 1454894396.0, 288
+403, [Trump: "Sanders was right, Hillary is unqualified to become president." By using Sanders attacks against her, could that hurt the Democrats in the general?], 4fswyw, 1461273596.0, 291
+404, [VP Debate Post Thread], 55xe0x, 1475664273.0, 288
+405, [Iran's actions on the international stage can no longer be ignored.], 41ad7a, 1453008374.0, 285
+406, [What can Hillary Clinton do to win over millennials?], 53pp5s, 1474435122.0, 287
+407, [Roger Ailes withdraws endorsement of Marco Rubio], 48r8ll, 1457024571.0, 285
+408, [Donald Trumps presidential campaign is spurring a record number of citizenship applications and increases in voter registration among Latinos upset by the candidates rhetoric and fearful of his plans to crack down on immigration.], 4ixor3, 1463036487.0, 282
+409, ["Nobody can recall a Christmas Day when the temperature was 65 degrees. Why is it that we're not effectively addressing climate change?" -Sen. Bernie Sanders via Twitter. Why isn't the senator getting grilled on this at the moment?], 3yoakd, 1451438450.0, 286
+410, [Why was Ross Perot so successful as a 3rd party candidate and why hasn't anyone else been able to match what he achieved?], 51dbhc, 1473161797.0, 282
+411, [Is the political landscape of the 21st century going to be less about Left vs Right politics and more about Globalist vs Nationalist politics?], 4xeex1, 1471048473.0, 280
+412, [Russian spies steals DNC opposition research on Trump. What do Russians need this for?], 4o21no, 1465948265.0, 277
+413, ["Marco Rubio NOT under consideration for VP" says Trump], 4jj9r4, 1463395349.0, 285
+414, [U.S. Directs Public Schools to Allow Transgender Access to Restrooms], 4j5kwn, 1463161309.0, 281
+415, [With Trump invoking Bill Clinton's infidelities as testament of Hillary Clinton's character, are Trump's own infidelities now up for discussion?], 4iespg, 1462747581.0, 282
+416, [Rubio is 3rd in 8/10 states. How can his campaign possibly spin this into a win?], 48kdno, 1456919598.0, 285
+417, [Why don't the parties require candidates to release detailed health forms and their tax returns in advance of the first caucuses?], 50n3f7, 1472764367.0, 281
+418, [Paul Ryan on twitter: "I'll be voting for @realDonaldTrump this fall. I'm confident he will help turn the House GOP's agenda into laws." -- What does this mean?], 4m8ubn, 1464923741.0, 280
+419, [New poll shows Clinton beating Sanders in Silicon Valley 43-30], 4ken51, 1463882029.0, 279
+420, [Why isn't Al Gore more active in the Democratic Party?], 4tqyon, 1469047637.0, 280
+421, [Trump has been soliciting contributions from foreign politicians. What is he trying to accomplish with this?], 4qm35u, 1467327318.0, 281
+422, [George H.W. Bush is reportedly voting for Clinton. How does this affect the race?], 53lkum, 1474372031.0, 278
+423, [[MEGATHREAD] 2016 Republican National Convention 7/18/16], 4tf0dp, 1468874579.0, 276
+424, [New Quinnipiac poll of New York: Clinton 54 - Sanders 42. Trump 56 - Cruz 20 - Kasich 19.], 4cpm4o, 1459452804.0, 278
+425, [What can possibly be done to revive Appalachia?], 4b2ngj, 1458412663.0, 277
+426, [This election, Maine is voting on an initiative that would allow voters to rank their choices of candidates. Would there be any wider reaching impact if this passes?], 57gq5a, 1476485422.0, 276
+427, [Hypothetically, what would each of the factions of the Democratic and Republican parties look like if they were parties of their own?], 53z8io, 1474583718.0, 275
+428, [It seems like everything a president does besides signing or vetoing legislation gets called "executive overreach." What power does a president actually have, besides signing or vetoing legislation, that isn't commonly considered "executive overreach"?], 4ypm10, 1471736431.0, 276
+429, [Why is socially liberal, fiscally conserative not possible?], 44wwrk, 1455057263.0, 278
+430, [What can we do to fix k-12 education? My home town is considering closing all it's high schools, why focus on college when kids can't even go to high school?], 4k2ufn, 1463698685.0, 274
+431, [Bernie Sanders wins Clark County Convention, and therefor Nevada? How does this happen?], 4d3xz0, 1459669644.0, 275
+432, [Does the Bernie campaign have a problem with vetting what their surrogates say?], 4epdct, 1460633746.0, 270
+433, [Has the Shift of Virginia to a "lean Democrat" state essentially ended the ability for the GOP to win the Presidency?], 4b916f, 1458532962.0, 275
+434, ["During my first year, I will fight to abolish the IRS," says Ted Cruz's website. And then what happens, President Cruz?], 44cmaq, 1454731932.0, 271
+435, [Should Clinton or Trump do a 30-minute ad buy like Obama did in 2008?], 538936, 1474163042.0, 271
+436, [No former Republican presidents or presidential nominees plan to attend the Republican convention in July, save for Bob Dole who will not commit to voting for the GOP nominee.], 4i17qz, 1462501288.0, 271
+437, [New PA poll (mostly post-3/15): Trump 33%, Kasich 30%, Cruz 20%], 4bslow, 1458869641.0, 271
+438, [Why Tuesday March 15th is the most important day of the Democratic Primary], 49usvq, 1457664216.0, 269
+439, [If Clinton wins, but the Republicans maintain Senate control, will they let her appoint a justice to the Supreme Court, or is it possible they hold out for four years?], 4v19ma, 1469748454.0, 271
+440, [Cruz making "big announcement" at 4:00 pm], 4gokkk, 1461794196.0, 269
+441, [New PPP Super Tuesday/early March polling released. Clinton leads in every state but Vermont and Massachusetts.], 469rig, 1455758317.0, 272
+442, [Who do you think had the worst timing with their presidential runs?], 52t1qf, 1473919774.0, 268
+443, [French President Francois Hollande has strongly criticized Donald Trump, saying some of the things Trump does make him sick], 4vxsib, 1470247989.0, 268
+444, [Politico: More Sanders staffers exit campaign], 4jth1z, 1463552334.0, 265
+445, [Mitt Romney to join John Kasich on the campaign trail Monday.], 4abb5t, 1457951994.0, 270
+446, [My theory is that if Hillary's Emails were to become a real issue, Obama and top tier Democrats would already know and would be scrambling to find a replacement.], 48o0st, 1456977641.0, 263
+447, [A new poll has McMullin (I) in a statistical tie with Trump and Clinton in Utah. If he were to win the state, would his impact be felt longer-term than the other third-party candidates?], 57y994, 1476750635.0, 270
+448, [Do any of you feel it's unethical for non-Americans to phone bank?], 4g7pdd, 1461523038.0, 266
+449, [Uzbekistan's President, Islam Karimov, is currently in hospital, with rumours of his death circulating on social media. What implications will the possible death of Karimov have on Central Asia, and Russian relations with the region?], 50fr1e, 1472652643.0, 264
+450, [The Washington Post is reporting that Elizabeth Warren will endorse Hillary Clinton after the final round of primaries. Is her endorsement enough to begin to heal the Sanders/Clinton divide?], 4m49b6, 1464852941.0, 266
+451, [Palin endorses Trump], 41qt2x, 1453267274.0, 267
+452, [Can you think of anything Trump can do/say that would get his base to not vote for him?], 56dtvp, 1475905178.0, 264
+453, [Evan Bayh is reportedly entering the Indiana Senate race. Does this change the likelihood of a Republican win there?], 4sb4b5, 1468275430.0, 264
+454, [Obama, Sanders and Clinton today condemned the violence by protesters. How you interpret the style of their answer and how you think they will handle if it keep happening?], 4mgohu, 1465041352.0, 264
+455, [Sanders only 3 points back in NBC Iowa poll], 40briw, 1452469823.0, 264
+456, [I've heard people call Jill Stein "crazy" and portray her as a fringe candidate. Is this simply an image problem, or is she really on the political fringe?], 58pqjd, 1477113900.0, 262
+457, [California has 17 upcoming ballot initiatives. Which ones do you support or oppose, and why?], 4zsuc7, 1472303531.0, 265
+458, [Gov. Larry Hogan (R-MD) says he doesn't plan on voting for Donald Trump. Will we see more GOP governors/senators come out against Trump and who might they be?], 4o9cv3, 1466050030.0, 261
+459, [I've posted the Nate Silver Chart ("White Liberals = Great Wall Of Bernie") as much as anyone. But with new data from IA & NH, is it time to rethink? I crunch the numbers inside.], 45z1b1, 1455602797.0, 267
+460, [Missouri is the 11th State to Pass a "Constitutional Carry" Firearm Law. Will More States Follow This Trend?], 52w95x, 1473976570.0, 261
+461, [Hillary Clinton is largely performing as well or better than Barack Obama did in 2012, except among white men without a degree where she does far worse. How does that shape the race? Should Clinton target those voters? Could Trump win mainly due to his support among that group], 4upmns, 1469580816.0, 258
+462, [Donald Trump would make an "exception" for London's Muslim mayor Sadiq Khan visiting America], 4inyam, 1462890282.0, 260
+463, [The petition for a 2nd vote on the Brexit referendum], 4pqoe3, 1466852201.0, 264
+464, [Gov. John Kasich believes Donald Trump "probably can't win" Ohio. Thoughts?], 4u6skk, 1469277861.0, 259
+465, [Marco Rubio: What do people see in him and how did he end up as the establishment candidate?], 4712nw, 1456180634.0, 263
+466, [The senate has voted overwhelmingly to deny Obama's veto of the 9/11 bill. What happens next?], 54x8da, 1475109364.0, 263
+467, [What do you think about John McCain's comment that Obama is 'directly responsible' for Orlando massacre?], 4of86s, 1466134862.0, 256
+468, [Are there any Clinton supporters here that would Not support Sanders if he somehow won the primary?], 4f8cy8, 1460954361.0, 255
+469, [President Obamas assessment of the rise of Donald Trump], 4a94s4, 1457919163.0, 255
+470, [Van Der Bellen (Greens) BARELY beats Hofer (FPO) in race for Austrian President], 4ko2di, 1464040849.0, 256
+471, [Obama Cites Lack of 'Day After' Plan in Libya as 'Biggest Mistake' of his presidency], 4eau1m, 1460412497.0, 258
+472, [Sen. Sanders was ranked the least bipartisan Senator in the entire Senate by the Lugar Center's Bipartisan Index (even less bipartisan than Texas Sen. Ted Cruz)], 49e9pd, 1457407450.0, 253
+473, [How do you predict the first debate will go?], 542q91, 1474628061.0, 258
+474, [Do the Sanders Supporters who are attacking John Lewis understand how bad of a plan that is?], 45b8el, 1455255468.0, 254
+475, [Clinton is going to offer debt forgiveness to young entrepreneurs in a new technology agenda at a campaign stop in Denver.], 4qajql, 1467162753.0, 253
+476, [Senator Merkley has said it is time to unify behind Hillary Clinton, putting pressure on Sanders to concede. Will this pressure from Sanders highest profile endorsement have any effect on his decision to continue his campaign?], 4n6ukw, 1465442814.0, 256
+477, [Obama's approval rating hits a 3 year high], 49w5bc, 1457681717.0, 260
+478, [Final Iowa Des Moines/Bloomberg Poll by Ann Selzer: Trump 28% Cruz 23% Rubio 15%, Clinton 45% Sanders 42%], 43gn2t, 1454226817.0, 257
+479, [Clinton's speech on the alt-right: what is the historical precedent? What is the larger strategy? How will it play out?], 4zow1c, 1472250828.0, 254
+480, [The geopolitics of delegate seating: The 2016 RNC just released their seating arrangement.], 4t5xl6, 1468724425.0, 256
+481, [Senator Jeff Sessions to endorse Trump], 4865di, 1456725998.0, 252
+482, [Elizabeth Warren: "Trump is a loser" - in light of her statement today, what impact might Warren have on the general election, especially when appealing to disaffected Bernie voters?], 4bepds, 1458628927.0, 253
+483, [Trump calls for total ban on Muslims entering the U.S.], 3vukhu, 1449555938.0, 254
+484, [According to the USC/LA Times Poll, Clinton has a +9 lead among women, and Trump has a +9 lead among men. Would it be easier for Clinton to win over men, or for Trump to win over women?], 51wzj0, 1473450647.0, 253
+485, [Will Mike Pence bring LGBT issues to the forefront of the 2016 campaign?], 4svi7n, 1468557812.0, 254
+486, [Why have Bernie supporters rallied behind Clinton so quickly?], 4pyblu, 1466985117.0, 250
+487, [As the Republican Party schism unfolds, what do you think of the possibility that well see GOP members of Congress switch parties?], 58gyqd, 1477000686.0, 250
+488, [According to Nate Silver, in 2012 male voters preferred Romney while female voters preferred Obama, and in 2016 men prefer Trump while women prefer Clinton. Is such a gender split a new phenomenon, and what are the implications when the genders disagree on the direction for the country?], 57gj2d, 1476482977.0, 255
+489, [Trump just said in a speech that he would impose a 35% tariff on goods produced in factories that have moved to Mexico from the US. How would this work?], 4xf5bs, 1471056660.0, 251
+490, [Senator Susan Collins (R-ME) says if former Governor Bill Weld was on top of the LP ticket she would endorse], 4wxlnn, 1470795037.0, 253
+491, [Reince Priebus on Twitter: "[Donald Trump] will be presumtive (sic) @GOP nominee,"], 4hs3np, 1462352742.0, 250
+492, [A new study going around shows that, according to Politifact's fact checking, Hillary Clinton is the most honest of the remaining Presidential candidates, including Bernie. Is this plausible?], 4bd8st, 1458610007.0, 245
+493, [Who are the smartest and most informative poltical authors to read?], 4aigib, 1458077854.0, 247
+494, [Is the lack of fundraising by the Trump Campaign an indication that the GOP expects he won't be the nominee?], 4p527o, 1466550479.0, 248
+495, [Johnson receives first Congressional endorsement. Is this the beginning of a wave?], 4wh9s5, 1470539472.0, 250
+496, [The official Republican Convention schedule has been announced.], 4tbq71, 1468820623.0, 250
+497, [A recently released poll in Utah shows Trump, Clinton, and write-in Evan McMullin in a statistical tie. What effects would there be if Utah ended up going blue, or even 3rd-party?], 574ecx, 1476312095.0, 244
+498, [Do candidates often adopt the views of voters, or do voters adopt the views of the candidates?], 53n7ih, 1474404935.0, 245
+499, [John Kasich gets standing ovation at town hall for saying "I won't take the low road to the highest office"], 4a60y4, 1457854048.0, 248
+500, [New Quinnipiac Florida poll. Trump leads Rubio 44 to 28. Cruz 12, Kasich 7, Carson 4.], 47jaiq, 1456441803.0, 245
+501, [The complete 2016 GOP Platform is out], 4tj0xp, 1468926443.0, 245
+502, [Democratic lawmakers have begun a sit-in on the US House floor. Will this change or create discussion regarding gun laws?], 4pbg0t, 1466640550.0, 249
+503, [Paul Ryan, Priebus, and Sasse to have meeting with Mitt Romney.], 4nctw4, 1465533851.0, 247
+504, [FiveThirtyEight predicts in 10 years the Democratic party would make major shift to become much more liberal. How would that affect this country?], 4fz80n, 1461371327.0, 247
+505, [Bush campaign rumored to be broke. May stop paying staffers on Saturday. Is this the end for Jeb?], 46fxel, 1455845980.0, 247
+506, [Short of becoming a politician, what is the best way to influence change?], 4s5w2b, 1468193262.0, 248
+507, [In modern American history, what are the greatest policy failures?], 4xt3la, 1471288867.0, 242
+508, [Newt Gingrich "actively lobbying" to be Trump's VP], 4s2alr, 1468127598.0, 244
+509, [Why isn't Hillary using the Supreme Court vacancy to her advantage in ads?], 54b4eu, 1474767204.0, 246
+510, [Is Mark Cuban setting himself up to be the Democratic version of Trump?], 51a6qn, 1473121601.0, 242
+511, [Hillary proclaims herself Nominee], 4k5btr, 1463728588.0, 245
+512, [Super Thursday is finally here! Who will win the U.S. Virgin Islands caucuses?], 49tjn7, 1457647541.0, 244
+513, [Megathread: Commander-in-Chief Forum], 51o58f, 1473318053.0, 238
+514, [Why is Alaska becoming more competitive in presidential elections?], 5953gg, 1477351584.0, 241
+515, [How can Mike Pence and Tim Kaine theoretically "win" tonight's debate for their sides?], 55u3y0, 1475624675.0, 240
+516, [Donald Trump's campaign is vetting Chris Christie as a potential running mate, according to multiple reports], 4qmtni, 1467335698.0, 238
+517, [North Carolina sues Justice Department over HB2], 4ijyyv, 1462835407.0, 238
+518, [Sanders: Don't blame my supporters for violence at Trump rally], 4a57oj, 1457841204.0, 242
+519, [67% of Americans find Hillary Clinton untrustworthy, would that be a problem in a general election?], 46p1v7, 1455979707.0, 240
+520, [What's a worst case scenario "October Surprise" for Clinton? How do you prepare for it?], 4wrovf, 1470709998.0, 236
+521, [In West Virginia, 44% of Sanders voters said they would vote Trump in the general], 4iwdul, 1463020556.0, 241
+522, [Do you consider "good" to be the enemy of "perfect"? That's from a Bill Clinton quote about how progressives felt about Ralph Nader ("perfect") versus Al Gore ("good").], 4c2cq3, 1459047132.0, 238
+523, [Are we due for a transition to the 7th party system?], 48hb5o, 1456879332.0, 241
+524, [Former senators Russ Feingold (D-WI) and Evan Bayh (D-IN) have been out of the senate since 2011 but are making runs this year. If Feingold, Bayh, or both are elected, would they have leadership positions in the senate like tenured members or would they be relegated to first term status?], 58jjw3, 1477028268.0, 238
+525, [Should President Obama pardon Edward Snowden?], 53i5jk, 1474328392.0, 240
+526, [Is support for Trump going to be affected by his foreign policy plan with Russia?], 4uvexc, 1469664763.0, 239
+527, [If victorious, Trump (70) will be the oldest president to take the oath of office. Sanders (75) or Biden (74) also would have broken Reagan's (69 years, 11 months) record. Hillary (69 years, 3 months) would be close behind. Is it merely coincidence that so many major players in 2016 are this old?], 4jxglh, 1463617006.0, 235
+528, [[Polling Megathread] Week of October 2, 2016], 55nor1, 1475530835.0, 234
+529, [Donald Trump has threatened to leave NAFTA if elected. What would be political and economic consequences of this?], 4qcg90, 1467185083.0, 232
+530, [Donald Trump Tells Evangelical Leaders He Will End Decades-Old Ban on Church Politicking. Is this politically viable?], 4pdtlf, 1466668650.0, 234
+531, [Gary Johnson receives 11% support with only 24% of voters recognizing his name. He needs 15% to be included in the Fall debates. What are his chances of being included?], 4k8uix, 1463788088.0, 237
+532, [Cruz: "I'm not running to be pastor in chief." Has his religious zealotry been overblown this election cycle?], 4ddo3n, 1459840144.0, 234
+533, [The Sanders Campaign Claims the Second Half of the Race is Favorable for Him - Realistic? Or Overly Optimistic?], 4b518r, 1458454391.0, 234
+534, [PPP Florida poll: Trump beats Rubio by double digits even head-to-head], 47os32, 1456518130.0, 237
+535, [Glenn Beck: "If they put Donald Trump in, try to put him in office, if that's what the people want, you are going to see an end to the Republican Party. It will just be over, there'll just be nothing left."], 3yueun, 1451546707.0, 232
+536, [What happened to the "complete excavation" of Donald Trump we were supposed to get from the HRC campaign?], 4snxwl, 1468454992.0, 234
+537, [International Tribunal rules in favor of the Phillipines in its dispute with China over territorial claims in the South China Sea.], 4sg532, 1468344389.0, 232
+538, [Sanders interview on TYT and the intent of his campaign], 4ld7p3, 1464417581.0, 234
+539, [Would Marco Rubio have beaten Clinton?], 5920ec, 1477301594.0, 234
+540, [Has a campaign ad ever changed your vote?], 4za1nb, 1472031398.0, 232
+541, [Johnson/Weld is now the official Libertarian ticket for the 2016 presidential election.], 4lmgg3, 1464587801.0, 231
+542, [Rowanne Brewer, one of the women profiled in the New York Times piece about Trump and his mistreatetment of women, has come out against the piece and is defending Trump], 4jl9ok, 1463435853.0, 233
+543, [Bernie Sanders to cut hundreds of staff, focus on California], 4gqf5d, 1461817521.0, 230
+544, [Today's developments in Myanmar/Burma: What happened, background, and why you should care], 4bjxxk, 1458717032.0, 229
+545, [If the Dems do capture both chambers of Congress, what legislation would likely get passed between 2017 and the midterms?], 56mpge, 1476056580.0, 229
+546, [With the RNC abandoning Trump, is the House now in play?], 56jn71, 1475998276.0, 232
+547, [Can the Democrats ever regain the House?], 4wnk0v, 1470644630.0, 231
+548, [Bill Clinton and BLM Protesters], 4dtbvs, 1460094255.0, 228
+549, [Bernie Sanders still has a major problem with Black voters in a WI exit poll], 4dlw1k, 1459980595.0, 232
+550, [China announces sanctions on North Korea], 4dh6te, 1459902364.0, 230
+551, [RNC Member: "Political parties choose their nominee, not the general public"], 4ar1w4, 1458209912.0, 229
+552, [Why is rural Wisconsin more blue than suburban Wisconsin?], 59ef2w, 1477468148.0, 234
+553, [If Johnson and Stein don't make the debates, what will their supporters do?], 5147er, 1473028316.0, 226
+554, [Justice Ginsburg has now called Donald Trump a "faker" with "no consistency" and she criticized his refusal to release his tax returns. Has the Court become too political?], 4sjb50, 1468385545.0, 232
+555, [How are you going to decide who to vote for in the presidential election?], 50hfp3, 1472682375.0, 227
+556, [Poll shows that 67% of Americans find Hillary to be untrustworthy. How can Hillary improve her image before November?], 4ayd2x, 1458337584.0, 228
+557, [Exit Polls State Only 8% of New York Republicans Think "Who Will Win In November" Is An Important Factor In The Primaries], 4fkf2y, 1461137086.0, 227
+558, [What will be the implications of the Pirate Party forming a coalition government if they are successful in today's Icelandic parliamentary election?], 5a12mx, 1477785468.0, 224
+559, [Ben Shapiro and Milo Yiannopoulos have agreed to a debate on whether Trump and the alt-right are good for America. Are people interested in watching this?], 4kbhz9, 1463822908.0, 224
+560, [MoveOn and BLM are formally confirming that they helped organize Trump protests .How will this change political rallies in near future], 4a2f97, 1457784970.0, 223
+561, [Almost zero information on local candidates. This is why some people don't vote.], 3rcx3i, 1446591491.0, 227
+562, [What happened between 1988 and 1992 that turned California from a Republican-leaning swing state to solid Democrat territory?], 585q5w, 1476847003.0, 228
+563, [The Sam Nunberg lawsuit - is Trump running a "secret shadow operation"?], 4sup9j, 1468548626.0, 227
+564, [Can the Trump campaign start to fundraise effectively enough to run a national campaign?], 4p2fpm, 1466505711.0, 225
+565, [Philippines election discussion thread - Duterte wins], 4im79h, 1462862755.0, 226
+566, [Huntsman calls on GOP to rally around Trump], 4h798l, 1462096257.0, 227
+567, [Barney Frank says that caucuses are "the least democratic political operation in America". Thoughts?], 4cqggj, 1459466266.0, 227
+568, [A majority of GOP voters want the party to stick by Trump; what does this mean, and does this mean the most recent tapes didn't have that much of an effect?], 56mx04, 1476059246.0, 223
+569, [Sanders supporters are planning a massive 4-day protests to disrupt the Democratic convention.], 4kawiq, 1463813794.0, 225
+570, [Rand Paul suspends his campaign. What impact will this have?], 43zvr4, 1454536509.0, 220
+571, [GOP congressmen propose healthcare bill], 4ktng5, 1464123690.0, 218
+572, [Hillary's Top Campaign Doner is... a Law Firm Fighting For Medical Marijuana in Florida?], 45u638, 1455529376.0, 218
+573, [Today, the campaign of Democratic presidential candidate and Sen. Bernie Sanders accused the national Democratic Party of working to "actively undermine" its campaign. Thoughts?], 3xdlz0, 1450494375.0, 223
+574, [I put Clinton, Trump, and Holt's debate transcripts through a "readability" (reading grade level) calculator. Do they meet your expectations?], 54zt3z, 1475140940.0, 221
+575, [What are your thoughts on Hillary Clinton's proposals/policies for addressing mental health care?], 5064ic, 1472519980.0, 222
+576, [With all that's happening, has anyone noticed that Obama's approval ratings have actually taken an upturn lately?], 48uimj, 1457074800.0, 220
+577, [Bernie Sanders (I-VT) and Tim Kaine (D-VA) were the only Senators to abstain from overriding Obama's veto on 9/11 bill. Why?], 54yvcd, 1475128253.0, 219
+578, [Will the events in Florida cause a surge in support for Trump?], 4nscar, 1465795323.0, 222
+579, [Democratic Primary Predictions Updated: A comparison of multiple FiveThirtyEight, Predict Wise, Tyler Pedigo predictions, and a comparison of two different polling aggregation techniques.], 4cvxdk, 1459550148.0, 218
+580, [Trump's victory speech showed that he's already shifting gears for the general.], 48kamj, 1456918387.0, 218
+581, [Will Rep. Steve King's racist statement be the 2016 equivalent of the "women's bodies can shut down rape pregnancies" gaffe in 2012?], 4tj98z, 1468929767.0, 215
+582, [New GOP polls. OH- Kasich and Trump tied at 38%. FL- Trump 46%, Rubio 22%], 4ad3yt, 1457991492.0, 216
+583, [Post-prediction post-mortem on the Nevada Caucus - How the candidates compared to their expectations], 46xqff, 1456123390.0, 218
+584, [Should Mike Pence consider abandoning Trump?], 56kxwj, 1476019522.0, 217
+585, [Switzerland voted away the guaranteed income], 4mqm5b, 1465206643.0, 214
+586, [What is the future of the Chinese Communist Party?], 4zg7dk, 1472119661.0, 216
+587, [New announcement of independent conservative presidential bid by Evan McMullin - will he go the way of David French or will he have some staying power?], 4wq8ct, 1470692953.0, 215
+588, [[Convention Megathread] 2016 Democratic National Convention 7/25/2016], 4uira1, 1469484335.0, 215
+589, [Rubio's Communication Director on CNN today: Rubio supporters in Ohio should vote for Kasich], 49zlh1, 1457743850.0, 211
+590, [DNC rolls back Obama ban on contributions from federal lobbyists], 45g5vi, 1455331417.0, 217
+591, [The topics for the third and final presidential debate have been announced. Are these topics appropriate for the final debate and how do you feel they will be answered by the candidates?], 576kcl, 1476335619.0, 210
+592, [Was the middle class just an anomaly of the 20th century, and, barring some sort of intervention, are we now simply retracting back to a society of upper and lower classes?], 56oeu9, 1476077551.0, 215
+593, [What is the realistically the best possible scenario for the Republican Party this year?], 4oivef, 1466193489.0, 211
+594, [What is the explanation for Ted Cruz's near-majority win of Maine, which is said to be one of the least religious states in the United States?], 497863, 1457297938.0, 216
+595, [After Romney lost in 2012 the GOP did an autopsy of the election and determined they needed to attract more women, minority and LGBT voters. If Trump loses, what will be the post-mortem after the election?], 59t2xz, 1477665520.0, 214
+596, [What would a debate without moderators be like?], 52ehp3, 1473718098.0, 213
+597, [Trump Institute (separate from Trump University) - NYTimes alleges plagiarism, fraud], 4qgh1i, 1467246900.0, 212
+598, [For those who think society has become "too P.C." what exactly do you find too Politically Correct?], 3yjwfr, 1451356895.0, 215
+599, [Should Voting rights be viewed as an inalienable right, even for ex-felons and current inmates?], 58cpuq, 1476938936.0, 213
+600, [You get to Ask Donald Trump a Question at one of the Debates. What do you ask?], 4w5c7x, 1470356527.0, 212
+601, [If Trump and Clinton become the nominees, will that change Senate Republicans stance on the Supreme Court Nomination while Obama is in office?], 498icx, 1457318005.0, 210
+602, [A string of polls from New Hampshire put Ohio Gov. John Kasich in 2nd place in the GOP race. Two other super PAC surveys also place Kasich in second. Any thoughts on this recent surge?], 44rj1w, 1454976128.0, 208
+603, [Who would be the Speaker of the House if the Democrats were to regain control?], 57bg0v, 1476408036.0, 210
+604, [MN DFL petitions state supreme court to remove Trump from Minnesota's ballot], 51xvki, 1473462577.0, 210
+605, [If you were able to ask Hilliary Clinton one question at the debates, what would you ask?], 4w6408, 1470365331.0, 207
+606, [A number of Cuban Republicans from Florida are refusing to endorse Trump. Will this be a problem in November?], 4mf5ul, 1465018096.0, 209
+607, [Jon Huntsman says 'something stinks' with Romney's (quasi) endorsement of Cruz in UT], 4b1iev, 1458384861.0, 211
+608, [Should the Kurdish people have an independent country, such as Israel?], 4zmwh2, 1472215856.0, 208
+609, [Trump is walking back his Muslim ban. Is this a pivot? Will it work?], 4q6t5l, 1467105093.0, 209
+610, [Clinton won the Nebraska primary despite losing the earlier caucus.], 4iubzr, 1462992425.0, 208
+611, [The Quinnipiac swing state poll has been released. What does this mean for the GE?], 4ip6q7, 1462915578.0, 214
+612, [Mitt Romney will back Senator Ted Cruz in the upcoming Utah caucus], 4azy7g, 1458359818.0, 209
+613, [Do people legitimately believe Trump will "destroy" Hillary in a general election?], 47d5hh, 1456356940.0, 208
+614, [Why doesn't Sanders call himself a Social Democrat?], 43k6px, 1454293601.0, 212
+615, [Bernie Sanders' campaign walked back $83 billion in prescription drug savings when a reporter asked them about it], 436h5k, 1454059026.0, 210
+616, [I've seen mentioned many times that the Obama administration is responsible for the biggest crackdown on whistle-blowers. I don't understand exactly how much power the president has in this process, how directly is he related to this outcome?], 4qxh5b, 1467499526.0, 207
+617, [Will London lose its supremacy as a world city because of Brexit?], 4ppnod, 1466836863.0, 209
+618, [New CA polls shows Trump up by 34% and Clinton up by 19%. Is this primary race completely over on both sides?], 4hjlbb, 1462249426.0, 204
+619, [NBC/WSJ/Marist: Kasich leads Trump 39% to 33% in Ohio], 4a8eej, 1457906328.0, 211
+620, [Let's imagine that Trump wins the election. From there, what do you think happens to the Democrats?], 52e7mw, 1473714142.0, 207
+621, [Where have you disagreed with your favorite political pundit?], 4ziwud, 1472165995.0, 209
+622, [Trump: Rivals who don't back me shouldn't be allowed to run for office. Should politicians that do not honor the GOP pledge be forbidden to run for office by the Executive? By the Party?], 4qhz98, 1467263719.0, 205
+623, [Trump: GOP will become 'worker's party' under me], 4l6388, 1464308078.0, 210
+624, [It looks as if the Republicans are really committed to running a third party candidate in Trump is the nominee.], 4b620r, 1458471242.0, 205
+625, [On Monday, oil dropped to $37 a barrel (down from $110 a barrel in January of 2014). Analysts are saying that it may reach the $20 range when Iranian oil comes on the market in January. What ever happened to all of the "peak oil" talk heard around the political world a few years ago?], 3w35b0, 1449705376.0, 209
+626, [Barack Obama is considered a very skilled orator. With 7/8ths of his presidency behind us, what do you think will go down as his most impactful speech?], 4avklk, 1458283839.0, 205
+627, [Trump supporters, when did America stop being great?], 49lgjw, 1457512113.0, 209
+628, [Trump's Healthcare Reform plan just released. Thoughts?], 48p3tx, 1456991379.0, 204
+629, [Does Trump's stop-and-frisk gun policy concern 2nd amendment proponents?], 54b29a, 1474766368.0, 204
+630, [Both the GOP platform and the DEM platform call for the reinstatement of Glass Steagall.], 4uml4o, 1469532217.0, 207
+631, [What happened to the Republican 2012 Election Post Mortem Plan?], 4smldt, 1468436745.0, 202
+632, [Justice Department declares NC transgender law violates Civil Rights Act], 4hwo6v, 1462425251.0, 201
+633, [Paul Ryan has said he will NOT accept a nomination. "(he) believes our nominee should be someone who ran this year."], 4ao2pu, 1458167737.0, 201
+634, [What do you make of the fact that voter turnout is way up for the GOP so far, and down for the Democrats (compared to 2008)?], 453fs3, 1455149566.0, 206
+635, [Sanders held a press conference today where he laid out his demands to the DNC. Is he likely to get what he wants?], 4o3d8f, 1465963504.0, 204
+636, [Bernie Sanders didn't lose South Carolina because of slacktivist young people staying home.], 480acg, 1456664560.0, 208
+637, [The Des Moines Register editorial board is calling for the Iowa Democratic Party to carefully and thoroughly review and scrutinize the caucus results. Should the party do so?], 445rse, 1454629189.0, 205
+638, [Do you want Bernie Sanders as your Commander and Chief?], 3swy87, 1447637505.0, 205
+639, [Obama's Final 100 Days], 57f3dk, 1476456303.0, 204
+640, [Should the ban on Congressional earmarks and pork barrel spending be reversed?], 517eq6, 1473072743.0, 202
+641, [Harry Enten wrote yesterday about how young voters are rejecting both Trump and Clinton at levels they didn't reject previous nominees. Why is this? Will it change?], 4ypzxk, 1471741372.0, 203
+642, [A nuclear launch expert at Politico examines what it would be like with Donald Trump in control of nukes], 4nm4ig, 1465692147.0, 205
+643, [Sen. Cotton (R-AR): U.S. has 'under-incarceration problem'], 4k667j, 1463740806.0, 201
+644, [What do you make of Bernie's "You don't know what it's like to be poor" quote?], 49azmj, 1457354458.0, 207
+645, [NYT Editorial Board endorses Hillary Clinton], 43erjf, 1454200797.0, 201
+646, [During the primaries, John Kasich (R-OH) called for a federal agency to promote "Judeo-Christian Western values". How would such an agency look, could it pass Congress if Kasich were elected, and what would be its foreign-policy impacts?], 4y92w0, 1471507493.0, 200
+647, [Non-Americans, how are the US Presidential Elections being reported on / discussed in your country? What are opinions around the world?], 4vki5p, 1470049491.0, 202
+648, [[Convention Post-Thread] 2016 Democratic National Convention 7/25/2016], 4umj1m, 1469531358.0, 202
+649, [Nebraska state senator Laura Ebke has left the GOP and joined the Libertarian Party. Could we start seeing more politicians defect to the LP given the current political atmosphere?], 4m8cox, 1464917959.0, 204
+650, [A new poll has Hillary Clinton leading Donald Trump by 13 points... in Georgia. Discuss.], 4emj9u, 1460595996.0, 202
+651, [NY Governor Andrew Cuomo has just issued an executive order prohibiting state funded travel to North Carolina due to NC's new transgender law. What are your thoughts on this? Do you agree? Would you like your governor to do the same?], 4cfl08, 1459289489.0, 204
+652, [With Trump's unfavorables growing even more such that 7 in 10 Americans disapprove of him. Can the Republicans safely take the nomination from him without backlash?], 4o8yib, 1466045621.0, 203
+653, [Kasich "not inclined" to run with Trump, nor will he endorse him.], 4jp92t, 1463489126.0, 203
+654, [Pfizer Joins 25 Other Pharmaceutical Companys, Says Its Blocking Use Of Drugs For Lethal Injections], 4jdmmw, 1463296773.0, 202
+655, [Anti-Trump block highway in AZ near Trump Rally. Are they engaged citizens or one of the reasons "We Don't Win Anymore?"], 4b402r, 1458438278.0, 200
+656, [Trump says he "probably won't" attend the Fox News debate], 42ukjb, 1453881669.0, 198
+657, [[Polling Megathread] Week of October 9, 2016], 56tqqq, 1476155278.0, 199
+658, [The U.N has declared antibiotics resistance "the greatest and most urgent global risk" - more so than climate change apparently. What can governments do to tackle this issue?], 54d8gh, 1474797787.0, 197
+659, [If the allegations are true that Russia was responsible for the DNC emails hacks (or even if the DNC/Hillary campaign strongly believe it), how would this affect Russian-American relations if Hillary becomes President?], 4uoujw, 1469571643.0, 201
+660, [James Carville believes Trump may end up not being nominated. Is there any merit to this belief?], 4n65ih, 1465435020.0, 198
+661, [Final Marquette Univ. WI Poll: Cruz 40, Trump 30, Kasich 21 // Sanders 49, Clinton 44], 4clmk3, 1459385458.0, 202
+662, [Putin calls Trump an 'outstanding, talented man'], 3x7we5, 1450392393.0, 201
+663, [Can the Republican party become more attractive to minorities without adopting any "progressive" policies?], 55op10, 1475543339.0, 195
+664, [How can the Democratic party get more people to vote in important midterm elections?], 556s5w, 1475248228.0, 199
+665, [[Convention Megathread] 2016 Democratic National Convention 7/28/2016], 4v0r35, 1469742139.0, 195
+666, [Fivethirtyeight brought up an interesting theory about Cruz's press conference today: an independent Cruz/Fiorina run.], 4grf91, 1461831147.0, 195
+667, [Could an EU centralised military force be implemented and what purpose would it serve?], 52r615, 1473897395.0, 194
+668, [Assuming Clinton wins, could she possibly appoint three new Supreme Court justices by the 2018 midterms?], 4yycsu, 1471860235.0, 194
+669, [Sanders is now demanding that Clinton adopt some of his positions that they disagree on for his endorsement. What effect will this have on the Democratic race, especially in the general?], 4byer6, 1458969016.0, 200
+670, [At a rally yesterday Trump said, "You know, we have a divided country, folks. We have a terrible president who happens to be African-American." He's retweeted white supremacists multiple times. Why isn't this pattern of behavior hurting him? Is it possible that it's actually helping him?], 49adye, 1457345434.0, 197
+671, [[Final 2016 Polling Megathread] October 30 to November 8], 5aajix, 1477918695.0, 208
+672, [[Debate pre-game] Second Presidential debate pre-game thread.], 56ob29, 1476076248.0, 193
+673, [Will the Republicans continue to block the Supreme Court nominations should Hillary win?], 54qrc1, 1475014517.0, 193
+674, [Why do American libertarians so often lean toward the Republican Party?], 4ghxnm, 1461688856.0, 197
+675, [Free college tuition in Scotland has been criticized as a "windfall to the affluent at the expense of the working class." How can we avoid this from happening in America if we adopt similar policies?], 4drrhb, 1460074479.0, 196
+676, [Should Rubio drop out?], 496bp5, 1457276213.0, 196
+677, [If Trump is a "proof of concept" for a particular style of politics but personally doomed to failure, who is it that can take Trumpism and win?], 59maca, 1477573225.0, 194
+678, [New Georgia Poll: Clinton +52, Trump +9], 47427p, 1456217515.0, 194
+679, [Britain Will Have Its First Female Prime Minister Since Thatcher. How Will These Candidates Affect the Future of the UK?], 4rpboy, 1467936124.0, 193
+680, [Over 19% of Oklahoma voters in the Democrat Primary identified as conservative. They went 54-22 for Sanders. Was Sanders' Oklahoma win a pro-Sanders surge, or anti-Clinton voting from GOP supporters?], 48xwoz, 1457136046.0, 195
+681, [Bloomberg officially confirmed today that he's considering a run for President], 44tvtb, 1455005863.0, 193
+682, [DNC CEO and 2 other high level staffers resign], 4vz43z, 1470267570.0, 194
+683, [George W. Bush has recently expressed his fear that he may be "the last Republican President". If Trump loses in November, will this fear be justified?], 4tz9rh, 1469164478.0, 194
+684, [Clinton says she won't respond to Trump's personal attacks. Will it work?], 4g3kom, 1461448854.0, 194
+685, [Why are the same folks who said it is wrong to blame Muslims for the Paris attacks are eager to blame pro-lifers for the Colorado shooting nutjob?], 3uwanj, 1448943052.0, 193
+686, [Why are Senate races not following the trendline of the presidential race?], 55dtsu, 1475366887.0, 192
+687, [Do you personally know any undecided voters? Did the debate change their mind at all? In what way?], 54se4f, 1475033995.0, 191
+688, [What would it take for Republican leaders to rescind endorsements for Trump? Would it affect his poll numbers?], 4vnfiv, 1470098701.0, 192
+689, [Has ethnonationalism replaced communism as the main ideological opponent of the liberal, capitalist, democratic world order?], 4pkt22, 1466768525.0, 193
+690, [After meeting with President Obama, Bernie Sanders is not dropping out.], 4nbupr, 1465521719.0, 190
+691, [Does Sanders still have a realistic chance at nomination?], 48m8e7, 1456956029.0, 192
+692, [[Polling Megathread] Week of October 23, 2016], 594oya, 1477347012.0, 193
+693, [Hillary's plan to address climate change states she will be able to implement her plans "without relying on climate deniers in Congress to pass new legislation." Is that possible? If so, why hasn't the Obama administration already implemented it?], 4ydcnn, 1471567940.0, 190
+694, [[Polling Megathread] Week of July 31, 2016], 4vijpc, 1470021559.0, 191
+695, [A Romney ally is forming a group that is supposed to fund ballot access in all 50 states for an anti trump third party candidate to run.], 4o4fxp, 1465976758.0, 193
+696, [Are there any millennial supporters of Hillary Clinton? If so why do you support her?], 43ke1q, 1454296250.0, 195
+697, [Trump has changed his tax plan to be more in line with the house republicans plan. Is this new plan better or worse than his old one?], 4ww11r, 1470776054.0, 189
+698, [Trump will soon be receiving classified CIA briefings. What is the fallout if he blurts out sensitive intel?], 4i0tru, 1462496487.0, 188
+699, [Pope Francis will not be in Vatican during Bernie's visit], 4e09ow, 1460210985.0, 191
+700, [Hooooboy. The Donald just tweeted: "Based on the fraud committed by Senator Ted Cruz during the Iowa Caucus, either a new election should take place or Cruz results nullified." He blames Cruz's voter mailers and a subordinate's tweet about Carson leaving the race. Your thoughts?], 44125m, 1454552052.0, 192
+701, [Sanders Supporters], 43vua0, 1454470328.0, 194
+702, [Pro-Gun People of Reddit, what is an acceptable amount of regulation for you?], 3wy7yq, 1450222815.0, 190
+703, [[Convention Megathread] 2016 Democratic National Convention 7/27/2016], 4uunrw, 1469655769.0, 191
+704, [What were the worst 24 hours in the history of a major US political party?], 4tl5vs, 1468964379.0, 193
+705, [Donald Trump has said that the US will not default because it can print money. Is this a sound policy?], 4ik1z8, 1462836448.0, 186
+706, [The creator of LBJ's "Daisy" ad says he's itching to sign up with Hillary, do you think LBJ's 60's style ads could work against Trump?], 4llidg, 1464574335.0, 185
+707, [Of the thousands of people who heard Hillary Clinton's supposedly infamous paid speeches, why has nobody come forward and revealed their contents?], 4h7atr, 1462097032.0, 187
+708, [Bernie Sanders has outlined his list of reforms for the Democratic Party  What do you think of them?], 4gw4od, 1461906540.0, 186
+709, [Bernie Sanders says he will not be releasing his tax returns before NY because his wife files them. What do you make of this?], 4d73fm, 1459734493.0, 184
+710, [Why are Republicans/Conservatives against trading with Cuba due to the repression of its government but alright with China, Burma, Saudi Arabia, etc? Why is Cuba unique?], 4bu0so, 1458888895.0, 187
+711, [NYT reports that "Michael R. Bloomberg has instructed advisers to draw up plans for an independent campaign in this years presidential race." If he ran as an independent, how would this change the dynamics of the election?], 42bbpz, 1453593060.0, 187
+712, [What have you found to be the most disappointing thing about this election season so far?], 541fgh, 1474609743.0, 186
+713, [Did Donald Trump just seal the nomination?], 4glyey, 1461746400.0, 189
+714, [California has eliminated the statute of limitations in the case of rape.], 5509zd, 1475147761.0, 186
+715, [Donald Trump could easily win Ohio but lose the electoral college. What would the inplictions of this be, and what does that say about Ohio's status as a top-tier swing state?], 5452eo, 1474671088.0, 187
+716, [Trying US citizens at Guantanamo and its implications], 4xbdga, 1470997871.0, 185
+717, [Justice clearance Thomas is reportedly considering retirement after the election. what would be the effect of having multiple supreme Court vacancies at the same time?], 4out3l, 1466393961.0, 185
+718, [Trump oppo document leaked.], 4o9p4k, 1466053888.0, 183
+719, [Britons of Reddit, do you support the continuation of the monarchy after Queen Elizabeth passes away?], 4ft9ad, 1461278447.0, 184
+720, [Seriously thinking of becoming a Democrat], 41uva1, 1453333305.0, 185
+721, [In 2014 Florida voters rejected a constitutional amendment for medical marijuana. It got 57% but needed 60%. Now its back on the ballot again for the presidential election. Is it likely to win this time?], 4q5fi3, 1467087275.0, 187
+722, [Hillary Clinton leads the Washington primary beauty contest 54% to 46% with over 650k ballots counted. Considering Bernie Sanders won the March 26 caucus 73% to 27% with an estimated 230k votes cast, how does this affect the caucus v. primary debate as well as the remaining primary contests?], 4kxs2r, 1464176524.0, 183
+723, [McCain and Kirkpatrick tied in the latest AZ senate race poll], 4exi9b, 1460766559.0, 184
+724, [What exactly is the Sanders theory of revolution if not supporting down-ballot Dems? Asked about fundraising down-ballot, he says, "we'll see"], 4creh0, 1459478412.0, 184
+725, [RealClearPolitics has moved Texas to "tossup" status. Does this sudden change surprise you? Is it a change specific to this election or is it now truly a swing state?], 598nhw, 1477390719.0, 185
+726, [What will happen to the GOP if Trump does not concede and/or declares the election to be a sham?], 58jfa5, 1477026813.0, 181
+727, [Trump using teleprompter attacks free trade and globalization. Is the gop turning against business?], 4qbpmy, 1467175761.0, 182
+728, [Sanders just explicitly said that the Democratic Convention is going to be contested. How would this be possible?], 4mk5r4, 1465102028.0, 183
+729, [Trump just released a list of 11 possible supreme court nominees. What do we all think of them?], 4jy3mh, 1463624430.0, 182
+730, [What in the world is Jeb Bush up to all the sudden?], 49pys2, 1457583993.0, 184
+731, [If Obama was running for president would you vote for him?], 43oan2, 1454359694.0, 182
+732, [Are people really upset because someone forwarded Clinton an NYT article?], 41wtkt, 1453358669.0, 183
+733, [Should Hillary supporters in Utah vote for McMullin?], 595ah7, 1477353702.0, 186
+734, [Senate democrats are pushing bills that would increase the funding for the FBI and give them a notification if someone previously investigated is trying to buy a firearm. Do you think these measures will pass?], 4o875o, 1466037187.0, 187
+735, [Asked by a reporter about the water crisis in California, Bernie says he has not studied the issue. What do you make of this?], 4lxbu3, 1464755180.0, 185
+736, [What would you consider Hilary Clinton's major political accomplishments to be?], 4ifor5, 1462760808.0, 182
+737, [Quinnipiac: Trump leads Rubio in Florida 44% - 22%; Trump also leads Kasich in Ohio 38% - 32%], 49oe1d, 1457564109.0, 182
+738, [Clinton takes NV, what impact will this have on SC for her and Sanders?], 46sa8z, 1456035839.0, 182
+739, [Megathread: Turkish Coup], 4t1nom, 1468649476.0, 186
+740, [Clinton's first general election ad], 4nq1io, 1465763349.0, 183
+741, [NEW POLL - Carson slips to third place, Rubio moves to second place, Trump maintains 10% lead over Rubio], 3v5shy, 1449103373.0, 182
+742, [[Polling Megathread] Week of October 17, 2016], 57vpn1, 1476709709.0, 182
+743, [What's the value to both sides of a meeting between Trump and Mexico President Nieto?], 50ei3k, 1472633556.0, 179
+744, [[Convention Post-Thread] 2016 Democratic National Convention 7/28/2016], 4v4n3v, 1469791860.0, 182
+745, [What could Donald Trump accomplish purely through Executive Action as President?], 4uvvn8, 1469670197.0, 180
+746, [Trump Issues Statement on TrumpU Case], 4n12k6, 1465359289.0, 177
+747, [Jeff Weaver just promised Chris Matthews that Bernie would release more tax returns], 4m4vvq, 1464861975.0, 181
+748, [Is Donald Trump flip flopping on the issue of taxes for the rich?], 4ihy8n, 1462795366.0, 183
+749, [Why are Bernie Sanders supporters protesting George Clooney?], 4f8kby, 1460957253.0, 178
+750, [Senator Lindsey Graham backs Ted Cruz for president.], 4au9b8, 1458265767.0, 182
+751, [Main policy differences between Obama and Hillary Clinton?], 4nv8hx, 1465847084.0, 183
+752, [The Australian Prime Minister, Malcolm Turnbull, has called a double dissolution election for July 2: Australia could have their 5th PM in 5 years.], 4idnub, 1462719650.0, 181
+753, [Former first lady Laura Bush hinted that she may support Hillary Clinton for president. What's your take?], 4eg22r, 1460496147.0, 176
+754, [Why has moderation or compromise become a negative in politics?], 4aybgd, 1458336911.0, 179
+755, [With regard to North Korea's nuclear program: at what point do the United States, Japan, and South Korea say "enough"?], 52rgh3, 1473900895.0, 179
+756, [Are we in a "post-fact" era when it comes to politics and governing?], 4twyzh, 1469136678.0, 182
+757, [Why do Republicans often say that because of Obama, America is viewed negatively?], 4e85aw, 1460359348.0, 177
+758, [If Rick Perry successfully primaries Ted Cruz in 2018, what would the implications be for the GOP, and what would the future hold for Perry and Cruz?], 58sn7o, 1477162868.0, 177
+759, [Have you ever had your view changed by political discussion online?], 4f52qy, 1460892850.0, 175
+760, [Gary Johnson could be a HUGE player in this year's election.], 4k3dko, 1463704972.0, 176
+761, [Paul Ryan just announced that he will give a surprise speech at the RNC today making it clear that he will not seek the Republican nomination for President. What effect, if any, does this have on the race?], 4egs48, 1460506141.0, 176
+762, [Clinton calls Sanders a "Democrat-come-lately," questions the merits of nominating a non-Democrat for the Democratic Party. Does she have a point?], 4d6x9q, 1459732062.0, 175
+763, [Tim Kaine delivered a speech entirely in Spanish in Miami this weekend. How is the speech (and Kaine in general) playing among Latino and Spanish-speaking voters?], 57yr8t, 1476755722.0, 178
+764, [The 3 topics of conversation for the first Presidential debate have been released, what can we expect each candidate to talk about?], 53jvzk, 1474348811.0, 172
+765, [What are the implications of the recent FBI report on both the election and the releasing of the candidates Health records?], 50v4gp, 1472874566.0, 176
+766, [With the shooting of Alton Sterling in Baton Rouge, will police brutality become a larger issue on the campaign trail?], 4rhza9, 1467832090.0, 176
+767, [Why are there so many seemingly "blue" states with GOP governors?], 4pve7f, 1466932003.0, 175
+768, [Elizibeth Warren calls Trump a "insecure money grubber" a "Union Buster" and a "climate change denier", is Warren talking on the role of attack dog to help keep Clinton off the front pages for now?], 4mjewv, 1465091836.0, 174
+769, [McCain told fundraisers that Trump hurts his campaign], 4i0syd, 1462496200.0, 175
+770, [What is Henry Kissinger guilty of or thought guilty of that made Bernie react so strongly to Hil's taking advice from him?], 45f6kc, 1455319248.0, 173
+771, [Does Reddit's endless love for Bernie Sanders change how you feel about him?], 3xrl77, 1450769517.0, 172
+772, [Trump sounded like a liberal last night.], 3x3a5b, 1450310078.0, 175
+773, [NBC pointed out that Clinton is simultaneously reaching out to Republicans and holding fast to progressive policies. Will she be able to do both?], 4xb9k2, 1470996317.0, 176
+774, [Hi I have question about US Army in South Korea.], 4wl2nb, 1470609491.0, 174
+775, [I read somewhere the Brexit vote is non-binding. Could the next candidate for PM run on an "I will not initiate Article 50" and if elected, declare a mandate?], 4pu10r, 1466912408.0, 175
+776, [Puerto Rico Democratic Primary], 4mp6qc, 1465186548.0, 177
+777, [Let's take a break from presidential primary discussions and talk BHO.], 4ckfwv, 1459368057.0, 176
+778, [Washington Post is reporting that Nevada Governor Brian Sandoval is being vetted by the Obama Administration as a possible SCOTUS nominee], 47e3vg, 1456368047.0, 175
+779, [How much of Trump's attack on Bush is revenge rather than political?], 45wyzf, 1455579127.0, 174
+780, [Donald Trump, the front runner to the Republican Party, said he supports legalizing marijuana. Does this prove his GOP run is fake and he is truly a nationalist who follows no party's ideology?], 42y15q, 1453938374.0, 174
+781, [A recent poll shows that Americans view terrorism to be the most important problem facing the nation. Given that in most years, more Americans die from lightning strikes than terrorist attacks, is the threat of terrorism overstated?], 3wjjgn, 1449973735.0, 174
+782, [Are more overt white identity politics limited to the 2016 presidential campaign or does it point to a longer term trend?], 4z8npj, 1472013795.0, 175
+783, [Republicans: Would you support Paul Ryan for president], 4dbp54, 1459814359.0, 176
+784, [538 vs Princeton Election Consortium (Silver vs Wang)], 51ls00, 1473290439.0, 174
+785, [If Hillary wins, can a Republican Congress continue to refuse to hear any of her Supreme Court nominations?], 4of18g, 1466132613.0, 175
+786, [Trump's relationship with Russia], 4jgqx5, 1463357745.0, 171
+787, [The Rise of the Illiberal Left], 3tq1kb, 1448161698.0, 173
+788, [What will happen to the Republican Party if Trump earns more Electoral Votes than Romney did, which looks likely? Will they take it as a sign that a Trump party is more viable than a Moderate Romney party?], 59vxh6, 1477706679.0, 169
+789, [Is Clinton really as hawkish as portrayed, particularly over Syria?], 59h0rx, 1477510453.0, 169
+790, [[MEGATHREAD] 2016 Republican National Convention 7/19/16], 4tkv44, 1468959999.0, 171
+791, [What's Really Going On At Today's Nevada Comvention?], 4jcvlr, 1463284672.0, 171
+792, [Clinton says she wants all Americans to have broadband internet access by 2020, do you think this is a realistic proposal?], 4qc4ka, 1467180986.0, 170
+793, [Since when are we all on a first-name basis?], 4e5rm5, 1460323359.0, 170
+794, [Trump Campaign Reports $80 Million in July], 4w4x6o, 1470351662.0, 170
+795, [Paul Ryan says of Trump's Tweet: "Anti-semitic images  theyve got no place in [a] presidential campaign. Candidates should know that." With a new campaign manager for Trump, can Paul Manafort reduce such controversies?], 4rdtav, 1467768383.0, 165
+796, [Sanders supporters boo Sen. Merkley's call for unity at WA Convention - will Bernie delegates be a problem at DNC? Can he control them?], 4opznp, 1466307996.0, 165
+797, [What are your favorite presidential election ads, and why?], 4c1kkp, 1459035018.0, 168
+798, [Maine Governor Paul LePage endorses Donald Trump for president.], 47rjnd, 1456551909.0, 170
+799, [Kasich can't drop out], 46wcfm, 1456106010.0, 173
+800, [Has Jeb! Bush become a joke?], 3xlgon, 1450660913.0, 168
+801, [Is the abortion debate unique to the United States?], 4z2cjz, 1471923492.0, 168
+802, [Two very different stories of the next 78 days. Which one is more convincing to you?], 4yvt61, 1471827423.0, 171
+803, [Sources are now reporting that the Orlando shooter may have been gay. How does this change the Clinton/Trump narrative towards the attack?], 4nzhg5, 1465903287.0, 167
+804, [Gary Johnson said Obama's executive order on DACA was the right thing to do.], 4mteh4, 1465254593.0, 170
+805, [The Trump Campaign and Delegate Selection: What's going on?], 4fbooh, 1461012849.0, 167
+806, [Trump claims he could pay off the 18+trillion national debt in "8 years," as well as predicting a "massive recession" very soon. Does Trump have economic advisers/ Do you think he understands the U.S' fiscal realities?], 4d4oxn, 1459682538.0, 171
+807, [In an underwhelming yet still historic first, Carly Fiorina becomes the first female candidate to receive a delegate in the Republican party's primary process], 43y9gg, 1454503504.0, 166
+808, [Would you support a constitutional amendment that allows naturalized citizens to run for president?], 59j8v5, 1477535885.0, 167
+809, [Rep. Tim Huelskamp (R-KS) loses in primary to "establishment" Republican], 4vw8q7, 1470219386.0, 168
+810, [David Duke has officially announced his candidacy for the Louisiana US Senate seat. Does he have any shot at winning?], 4u3cs0, 1469230688.0, 165
+811, [Trump has stated that he wants to 'open up' libel laws to make suing news organizations easier. Would he have the power to do such a thing, and if so what might the consequences look like?], 4lx0px, 1464751634.0, 167
+812, [First Indiana Poll (WTHR/HPI): Trump 37%; Cruz 31%; Kasich 22% / Clinton 48%; Sanders 45%], 4fzbny, 1461372623.0, 168
+813, [Jeff Zeleny reporting on CNN: "The Clinton campaign is running out of patience. They will deploy a new strategy-- disqualify him [Sanders], dismantle him, and unify the party later." Thoughts?], 4dk2xs, 1459942445.0, 164
+814, [Why did Sarah Palin blame Obama for her son Track's PTSD? Didn't he not see combat? And does that mean by her own logic, Bush was responsible for PTSD from 2001 to 2008?], 42ry7g, 1453850729.0, 165
+815, [What are the primary arguments against TPP?], 4w83zw, 1470390993.0, 167
+816, [With hacks of the DNC and now possibly the Clinton campaign, have the odds of a devastating October surprise increased? Is there a proactive defense?], 4v9ah5, 1469861240.0, 165
+817, [Is it a problem that Hillary has not held a press conference all year?], 4uxghs, 1469688362.0, 167
+818, [[Convention Megathread] 2016 Democratic National Convention 7/26/2016], 4up1vn, 1469574105.0, 165
+819, [Who are some people who would have been exceptional presidential candidates but who never ran?], 4u8q1w, 1469317744.0, 164
+820, [Eleven states sue U.S. government over transgender bathroom policy], 4l163w, 1464230456.0, 167
+821, [Trump flip flops again on abortion. Now he says abortion is murder, but he would keep the law as it is. How does it affect him?], 4cyu3b, 1459582068.0, 166
+822, [The math suggests Bernie needs > 56% in every state on average to have a shot. Is this realistic? How does this factor into the two campaigns decisions?], 48wcb5, 1457104058.0, 165
+823, [Politically, who responded best to the flood in Louisiana?], 4ynpfk, 1471703941.0, 166
+824, [Boris Johnson has indicated that he is not going to run for Prime Minister. What does this mean for the EU referendum going forward?], 4ql3uy, 1467313943.0, 166
+825, [Massachusetts Governor Charlie Baker will not be voting for Trump or Clinton.], 4hwdsx, 1462421503.0, 162
+826, [Kasich's campaign has started vetting VP candidates], 4ga3d6, 1461561759.0, 165
+827, [New FiveThirtyEight model shows that, thus far, Clinton has overperformed in each state compared to what is necessary for her to win the nomination.], 47l9ly, 1456461421.0, 164
+828, [CBS yougov poll(the most accurate pollsters so far) has Sanders at 19 points behind Hillary.], 45s08z, 1455501422.0, 164
+829, [Are we on the doorstep of a cold war with Russia?], 57uevr, 1476690926.0, 163
+830, [Is there a measure of how informed average voters are? Did they start to truly pay attention?], 536y59, 1474142618.0, 168
+831, [Swing State Sunday Discussion #4: Let's Talk Pennsylvania], 4wmojg, 1470632173.0, 167
+832, [Sheldon Adelson endorses Trump for President and says he will give more to help him become President than he has ever given], 4jbyr7, 1463270725.0, 164
+833, [For those watching the events in Brazil, which are actually crazier than House of Cards, do you think this can end peacefully?], 4asz62, 1458250107.0, 166
+834, [Florida Gov. Rick Scott endorses Donald Trump], 4aoupq, 1458178193.0, 165
+835, [New Yorkers: were you offended by Ted Cruz's "New York values" comment?], 4133wc, 1452893807.0, 165
+836, [If all states took the Medicaid expansion how would that change Obamacare Today?], 59i22p, 1477523665.0, 164
+837, [How will the allegations that Assange is actively trying to influence the US election affect US-Ecuadorian relations?], 57xilf, 1476742355.0, 163
+838, [What are the potential implications for Hurricane Matthew on the presidential election?], 5694uz, 1475835241.0, 162
+839, [Why do we consider JFK to be one of the great US presidents?], 51aqeq, 1473128110.0, 163
+840, [Brazilian President, Dilma Rousseff, suspended in indictment trial.], 4j095o, 1463082033.0, 161
+841, [What do you think of how the Clinton camp handled her recent medical issues?], 52gddh, 1473739577.0, 164
+842, [What are the challenges to regulating the pharmaceutical industry so that it doesn't price gouge consumers (re: epipen)?], 502x5j, 1472468081.0, 159
+843, [If Clinton manages to win traditionally conservative states like Georgia and Arizona this fall, does that make it easier for democratic candidates to compete in the future? That is, does flipping a state once make it more likely to happen again?], 4wslrd, 1470720426.0, 165
+844, [Has any political speech or any book inspired or changed your views?], 4ukgzm, 1469504131.0, 161
+845, [Oregon Poll: Hillary Up 15 Points Over Bernie], 4ixa2n, 1463031245.0, 159
+846, [Updated 538 Benchmarks for Democratic Primary], 4cm422, 1459391652.0, 162
+847, [Trump has almost single handedly knocked down, Walker and Bush, many people's top two choices for the GOP race a few months ago, can we stop to realize how incredible this is?], 3rfzkl, 1446635068.0, 165
+848, [Did Hillary's opponents approach the email scandal from the wrong direction?], 4rdsfh, 1467768094.0, 160
+849, [Bernie Sanders' favorability is now underwater.], 4imtmq, 1462871557.0, 156
+850, [I have five questions about the coming brokered-convention trainwreck that nobody has started thinking about yet.], 4aq3ec, 1458195032.0, 161
+851, [Does American military spending subsidize European socialism/social democracy?], 47ceo9, 1456346732.0, 162
+852, [Where is the Rubio surge? Trump cruises to nomination with 36% support in new CNN poll], 3vepol, 1449260475.0, 161
+853, [What would a 2016 "autopsy report" look like for the losing party this election?], 57arwe, 1476400659.0, 157
+854, [What issue do you think needs to get more attention in this election?], 4hc6zo, 1462171480.0, 158
+855, [Will Kasich finish the primary 4th in a 3 man race?], 4gzhnd, 1461967054.0, 159
+856, [Let's discuss Clinton VP options], 4fly3z, 1461160421.0, 159
+857, [If the Democrats win this White House and the House this election would it be smart for them to push for proportional representation?], 58h6k8, 1477003127.0, 159
+858, [Bill Kristol announced: "Just a heads up over this holiday weekend: There will be an independent candidate--an impressive one, with a strong team and a real chance." Thoughts on who the candidate will be, or their chance?], 4lmeen, 1464586975.0, 160
+859, [The Sanders campaign has only $5.8 million in remaining funds. How much longer can he hold out?], 4ktwve, 1464127343.0, 160
+860, [Benchmark Politics releases projections for the next 3 big primaries: California (56-44), New Mexico (57-43), New Jersey (64-36) in favor of Clinton.], 4jv5u1, 1463578018.0, 157
+861, [A lot of modern American politics are discussed here. I thought I'd start a new topic, what do you all think of the political system of the Polish-Lithuanian Commonwealth (1569 - 1795)?], 54dtcv, 1474808299.0, 157
+862, [Will the United States ever admit another sovereign nation as a state?], 4zj4q0, 1472168510.0, 161
+863, [Can Donald Trump conceivably win with having only 30 paid staffers on the ground?], 4omqxc, 1466246669.0, 160
+864, [Why is there no consistent view of Hillary? Young left-wing activists think she's right-wing, and Republicans think she's the most liberal. They can't both be right.], 4tvte8, 1469114249.0, 155
+865, [I'm curious on what Ted Cruz has done that makes him so hated by many people?], 4gfgkk, 1461647386.0, 154
+866, [Why doesn't the Gary Johnson or Jill Stein or John McAffee run for senate as a third party?], 4c5ih4, 1459113583.0, 157
+867, [Is it wrong for Bernie Sanders to continue to solicit small donations under the pretense of defeating Hillary Clinton?], 4aqxgb, 1458207880.0, 158
+868, [Why does the Republican Party seem to favor tighter regulation on drugs/alcohol, when historically they should be more in favor of decreased government involvement in citizens' lives?], 46gopt, 1455854925.0, 160
+869, [Now that Rubio's pretty much imploded, what's the path out for the Establishment now?], 450p71, 1455103697.0, 158
+870, [In the debate, Hillary said that she believes police should use force only when necessary. How could she implement it and how effective would it be at saving lives?], 55tfib, 1475615949.0, 155
+871, [Sanders staffers, volunteers drafting plans for him to drop out after California, form independent progressive Anti-Trump organization to "help bridge gap between Clinton and supporters." Thoughts?], 4iz7t5, 1463059975.0, 158
+872, [Are You Genuinely Worried About Trump?], 4a5oqx, 1457848551.0, 155
+873, [MSNBC is reporting that Dem turnout for 2016 primaries are roughly 50% of what they were in 2008, while GOP primaries are seeing record turnout. How bad of a sign for the Dems is this?], 46tgzj, 1456052782.0, 159
+874, [Do you think Marco Rubio just had his Rick Perry "ooops" moment?], 44kb0a, 1454853151.0, 155
+875, [Only a small amount of US oil comes from Saudi Arabia. What is the true reason the US allies with them and ignores their human rights violations and ties to 9/11 and ISIS?], 3uldmt, 1448753504.0, 159
+876, [Why do some of the most Republican states in the country have more registered Democrats than Republicans?], 557nxn, 1475267487.0, 154
+877, [Now that the primaries are officially over, what was your singular favorite moment of the entire campaign trail.], 4o56va, 1465987399.0, 157
+878, [Politico is now reporting that Chris Christie will suspend his campaign later today. What impact will this have on the race?], 453mx6, 1455151855.0, 155
+879, [Lindsey Graham drops out of the presidential race], 3xpkll, 1450739445.0, 152
+880, [What kind of Republican will win the 2020 GOP nomination?], 58jubp, 1477031627.0, 153
+881, [In retrospect do you think the Arab Spring was a success or failure?], 588hfb, 1476879976.0, 155
+882, [Regardless of who wins, are we destined to have a presidency that is dominated with scandals?], 53nwln, 1474414182.0, 156
+883, ['Christian Post' breaks tradition to oppose Trump, who do evangelicals support at this point and will this have any real impact on trump?], 4tz3en, 1469162295.0, 156
+884, [Trump and his supporters frequently claim that radical Islam needs to be dealt with, but have there been any plausible suggestions made on how that should be done?], 4t1kue, 1468648487.0, 156
+885, [Senator Susan Collins said she will not rule out voting Hillary.], 4mxaak, 1465302098.0, 154
+886, [Unless something radical happens, 2016 marks 100 years since America has had a bearded major party candidate for President. Could 2020 be the year, or will it never happen again.], 4co5br, 1459420930.0, 158
+887, [Bloomberg announces he will NOT run as a third-party candidate-- how will this affect the race?], 49f3ke, 1457417387.0, 153
+888, [if Trump doesn't win Florida (winner take all) and Ohio (winner take all), Trump will be well under the 1237 delegates needed to clinch the nomination.], 48lobw, 1456945063.0, 154
+889, [Gary Johnson launches bid for Libertarian nomination for President], 3zroxa, 1452141483.0, 155
+890, [Obama Vetoed the Bill to allow 9/11 families to sue Saudi Arabia. What Impact will this have?], 547n1j, 1474702249.0, 156
+891, [With several big names such as Howard Dean and Mitt Romney calling for Johnson and Weld's inclusion in the debates, do they have a solid case to be made to be included?], 51okzm, 1473323775.0, 151
+892, [[Polling Megathread] Week of August 14, 2016], 4xpt2x, 1471233884.0, 153
+893, [What would happen if Trump dropped out right before Election Day?], 4vbs4h, 1469908267.0, 154
+894, [Is violence an effective tool to achieve a political goal?], 4rugls, 1468010445.0, 154
+895, [538: Caucuses have helped Sanders more than closed primaries helped Clinton - Will the primary process really be an issue at the DNC?], 4l80d9, 1464332479.0, 157
+896, [Bernie Sanders is visiting the Vatican on April 15, just four days before the NY primary. Why do you think his campaign is doing this, and will it impact the race?], 4dw5r3, 1460147474.0, 154
+897, [As gay marriage/gay people become normalized in American society could the republican party be forced to accept it to avoid losing elections?], 4zn211, 1472218526.0, 152
+898, [Untying public schooling from property taxes: How can it be done? Should it be done?], 4th3ul, 1468901133.0, 154
+899, [Corker bows out of Trump Veepstakes], 4rjnuu, 1467854984.0, 152
+900, [What debate question would you ask if moderating a Donald Trump / Hillary Clinton debate?], 4r3mhg, 1467606079.0, 152
+901, [Trump: I Believe In Raising Taxes on the Wealthy, Including Myself Let's discuss.], 4g11w9, 1461396045.0, 153
+902, [Ted Cruz claims he will abolish the IRS. Is this really plausible?], 4d1eqp, 1459630831.0, 154
+903, [Doesn't the GOP Establishment deserve a lot of blame for Trump's rise?], 4a8epn, 1457906508.0, 151
+904, [[Megathread] 2016 Presidential Primaries - 3/8/16], 49izby, 1457479948.0, 152
+905, [Justice Department grants immunity to Clinton staffer who set up her private server. Thoughts?], 48pwe4, 1457000899.0, 150
+906, [Is there any practical difference between a 51/49 majority in the senate, and a 50/50 + VP majority?], 55uiws, 1475629553.0, 151
+907, [Why did single payer health care fail in Vermont when It succeeded in Saskatchewan?], 501ljp, 1472449553.0, 154
+908, [What would he political implications for his future policy if Trump actually believes that 'Obama founded ISIS'?], 4x8scw, 1470960800.0, 150
+909, [What would a hypothetical 2016 Republican autopsy report look like following this election cycle?], 4woot3, 1470664052.0, 151
+910, [[Megathread] 2016 Republican National Convention 7/20/16], 4tr84h, 1469051618.0, 147
+911, [Will China ignore tomorrow's ruling? What happens next?], 4scg6w, 1468290432.0, 150
+912, [Swing State Sunday Discussion #1: Let's talk OHIO], 4s6klb, 1468202575.0, 155
+913, [Republicans For Hillary?], 4hu8fg, 1462393685.0, 155
+914, [What are some possible electoral college possibilities if its Trump vs Clinton?], 4ha5c0, 1462152229.0, 150
+915, [Ted Cruz's campaign is reportedly vetting Carly Fiorina for VP. What impact could her selection have on a possible c Clinton vs. Cruz GE?], 4gf4id, 1461643234.0, 148
+916, [[Results Thread] New York Democratic Primary (April 19, 2016)], 4fi9le, 1461110336.0, 150
+917, [The first Connecticut poll has been released -- Trump 50%, Kasich 26%, Cruz 17% | Clinton 49%, Sanders 43%], 4ej67h, 1460537599.0, 149
+918, [Trump supporters, I would like to get your opinions on Trump's recent interview with the Washington Post], 4c7zop, 1459154167.0, 149
+919, [A growing number of elected Republican officials have withdrawn endorsement of Trump. Do Trump's remaining supporters view them as too liberal, unreasonable, or unfaithful?], 56sc92, 1476140075.0, 149
+920, [Is the vitriol and hate of the 'other side' the new normal?], 56buzp, 1475882212.0, 147
+921, [[Polling Megathread] Week of September 25, 2016], 54i71s, 1474880938.0, 148
+922, [Paul Ryan wins primary against challenger Paul Nehlen. Does this have an effect on Paul Ryan's endorsement of Trump? Does this reflect the GOP's general attitude towards Trumpian Republicans?], 4wzvjq, 1470823443.0, 151
+923, [Speaker Ryan formally requests Director of National Intelligence James Clapper to deny Clinton classified material during her presidential run. Has this happened before? Is there any chance of her being denied this information?], 4rofhd, 1467925320.0, 152
+924, [Why isn't punishing those hiring illegal immigrants a more central part of the US immigration debate?], 4nsf64, 1465796369.0, 148
+925, [[Gamethread] CNN Republican Townhall 3/29], 4ciayn, 1459325468.0, 150
+926, [When Trump says he wants to "make America great again", what time period is he referring to? In other words, when was America "great" according to Trump and why?], 44xfql, 1455063955.0, 150
+927, [Later this year, General Motors will begin selling the Chevy Bolt, which will have 200 miles of electric range and will cost $30,000. If this car, and others like it (Tesla will release a similar car), get traction in the market, how could this affect geopolitics?], 3zvw7h, 1452208894.0, 149
+928, [If the Supreme Court becomes solidly liberal under President Clinton, what are the biggest "landmark decisions" it will make in the next 8 years?], 58qb5x, 1477120843.0, 152
+929, [Why isn't Trump spending any money on TV ads?], 4x34rt, 1470877101.0, 150
+930, [Ivanka Trump's RNC speech praised Trump's commitment to ending the gender pay gap and helping working mothers. Is there any chance we'll see policies like this from Trump?], 4u0lk5, 1469182872.0, 152
+931, [[Megathread] 2016 Republican National Convention 7/21/2016], 4twwga, 1469135623.0, 147
+932, [DC Circuit Court upholds FCC Net Neutrality regulations 2-1], 4o40zi, 1465971281.0, 150
+933, [Sen. Ben Sasse (R-NE ) publishes an open letter calling for a third party candidate. Will it happen?], 4i1lnl, 1462506226.0, 153
+934, [Can Trump realistically beat Hillary for the presidency?], 47v02b, 1456610611.0, 146
+935, [Would a public option be substantially cheaper than private insurance?], 4y55bq, 1471463917.0, 150
+936, [What do you think is going to happen with Black Lives Matter and the push for black liberation in America in general?], 4xprg8, 1471233269.0, 147
+937, [Which President do you think is terribly overrated?], 4w268y, 1470304392.0, 145
+938, [AG Loretta Lynch meets with President Bill Clinton in an "unplanned encounter". Will voters care about the potential for impropriety in the ongoing investigation over Sec. Clinton's emails?], 4qmcjx, 1467330309.0, 148
+939, [In a recent townhall, Barack Obama says the notion that Hillary Clinton and himself want to take away folks' guns is "just not true." Is this is a genuine fact? Furthermore, Obama suggests congress should allow The CDC to conduct research on gun deaths, do you agree?], 4mdz39, 1465003501.0, 146
+940, [To those predicting a close Hillary-Trump race in the general, how do you reconcile that with Trump's 70/23 unfavorable rating among women?], 4gy1zx, 1461936775.0, 150
+941, [Rutgers NJ Poll - Trump 52% Kasich 24%, Hillary 51% Sanders 42%], 4ff4a1, 1461056715.0, 149
+942, [How does the suspected election fraud in Arizona only affect Sanders?], 4bm8yz, 1458764976.0, 145
+943, [American schools avoiding the active learning technique of debate could explain the current political climate.], 45krxr, 1455404636.0, 150
+944, [What is a major issue in your mind that you feel isn't getting the attention it deserves in this election cycle?], 4zvnsj, 1472353231.0, 146
+945, [[Polling Megathread] Week of August 7, 2016], 4wq6sm, 1470692347.0, 148
+946, [How would refusing to debate hurt Trump?], 4vk07n, 1470041876.0, 145
+947, [What would be the major changes under a more liberal Supreme Court?], 4ilmae, 1462855351.0, 148
+948, [We often talked about how Bernie Sanders hasn't been "vetted" by a national spotlight. But what about Kasich? What do you think we should know about him?], 4gee2o, 1461634118.0, 146
+949, [Is shit going to hit the fan tonight at the debate?], 48t52n, 1457056863.0, 147
+950, [Rep. James Clyburn (D-SC) to endorse Hillary Clinton], 46huaf, 1455869412.0, 146
+951, [Fox News poll shows Trump leading Iowa with 34%, Cruz second with 23%], 42htkf, 1453699399.0, 146
+952, [Trump's first major TV ad, called 'Great Again', is out. Thoughts?], 3zf85k, 1451950538.0, 144
+953, [Is the increasing nationalistic fear of Muslims in America encroaching towards being comparable to fear of Communists spread during the "Red Scare"?], 3wdz2n, 1449877557.0, 145
+954, [Over the last 20 years, gun homicides have been steadily decreasing and are now half of what they were in 1993. Taking this fact into account, why do we need stricter gun laws?], 3vsvsc, 1449532490.0, 148
+955, [Why do Bernie supporters want more debates when its clear he sucks at debating?], 3vowki, 1449458230.0, 150
+956, [Should the United States support an independent Kurdish state?], 52mnta, 1473826791.0, 143
+957, [A Trump surrogate has said the border wall will be "virtual" and not a real wall.], 4k0qi5, 1463659753.0, 145
+958, [Would America benefit from longer terms for the House of Representatives?], 5aclfr, 1477953726.0, 153
+959, [What is the future of the Alt-Right in American politics?], 53cbuu, 1474237341.0, 149
+960, [AP just released that Clinton's VP list is down to three: Warren, Castro and Kaine. Who will be chosen and why?], 4p6srd, 1466570102.0, 148
+961, [What's up with Marco Rubio?], 4jp40f, 1463486725.0, 146
+962, [[Live Thread] Democratic Primary Debate April 14, 2016], 4euact, 1460710276.0, 145
+963, [The Prime Minister of Iceland has resigned], 4dhh6w, 1459906020.0, 146
+964, [I think both are pretty great, but why do so many Sanders supporters seem to hate Hillary so much? Seems like they are just doing the GOPs job for them by slandering her.], 43x977, 1454488598.0, 145
+965, [Why did the Democratic Party stop spending money to defeat Marco Rubio's senate campaign?], 58pq1b, 1477113732.0, 144
+966, [What questions from the audience could most hurt or help each candidate in the town hall debate?], 5671uf, 1475809157.0, 145
+967, [Why are there such drastic political differences between Catholics and White Evangelicals in the US?], 4xe14m, 1471043941.0, 147
+968, [Gary Johnson picks former Mass. governor William Weld as his running mate], 4jzg7c, 1463640638.0, 141
+969, [Monmouth general election poll: likely Libertarian candidate Gary Johnson at 11% against Trump and Clinton], 4bt97e, 1458878300.0, 143
+970, [I'm looking for a real, American political discussion from Trump supporters...Why Trump?], 4b5w75, 1458468437.0, 142
+971, [Ben Carson is basically dropping out, but will not suspend his campaign. What's the reasoning behind that? So that he can still raise money?], 48nsd4, 1456975898.0, 148
+972, [US declares 22 Clinton emails 'top secret'], 43b4pi, 1454133880.0, 147
+973, [Bernie Sanders full tax plan is coming out before Iowa votes], 3zalgr, 1451871404.0, 145
+974, [What was the most crushing one-liner in politics?], 4izt6k, 1463072677.0, 145
+975, ["It's not the end of the party, but you can see it from here" - What happens to conservatism in a post-Trump America?], 4hpz9e, 1462335694.0, 145
+976, [Trump wins 39 out of 54 unbound PA delegates], 4goou2, 1461795782.0, 141
+977, [CNN reporting Democratic NY debate announced on April 14th 9 PM ET. Who won this ridiculous back and forth of negotiations? Who benefits more?], 4ddtr7, 1459842389.0, 147
+978, ["Given the current delegate selection process, Id vote for Marco Rubio in Florida, John Kasich in Ohio" - Did Romney imply he wanted to force a brokered convention as an alternative to Trump?], 48t69s, 1457057299.0, 145
+979, [Sanders just lost Massachusetts. What's his path forward, and if he doesn't have a path, what's the next "must win"?], 48klab, 1456922768.0, 139
+980, [U.S. veterans/enlisted personnel, what budget cuts would you make, if any, to the military?], 46456r, 1455680050.0, 141
+981, [Lawrence Lessig ends his campaign for president], 3r98nc, 1446524836.0, 143
+982, [What would happen if the Senate refused to seat any of Clinton's nominees for the Supreme Court?], 58vyt1, 1477209088.0, 140
+983, [How would the 2008 election have gone if Hillary Clinton were the nominee instead of Barack Obama?], 4zxn38, 1472382400.0, 143
+984, [If Gary Johnson begins to poll high enough to make it to the National Debates, does that hurt Clinton more or Trump more?], 4tnx37, 1468996442.0, 139
+985, [Will Anti-Gay Past Increasingly Haunt Republican Candidates?], 49j9id, 1457483677.0, 140
+986, [[Reaction Thread] Fox News Republican Debate March 3, 2016], 48vpwr, 1457092911.0, 146
+987, [Why is Hillary Clinton deemed a corporate shill?], 4273v8, 1453519532.0, 141
+988, [Why is Indiana the only Great Lakes state to consistently vote Republican?], 4zd8v9, 1472082554.0, 140
+989, [Will Sarah Silverman's comment towards 'Bernie or Bust' people have any effect on the unity of the Democratic party?], 4uoxuq, 1469572758.0, 144
+990, [Behavioral Research General Election poll in Arizona: Clinton 42, Trump 35. Could Arizona turn purple if Trump is the Republican nominee?], 4gjha5, 1461715226.0, 139
+991, [Marco Rubio doing terrible in Mississippi and Michigan, worse than Kasich in both. Do you think he should drop out before Florida and save his future?], 49lq1i, 1457516004.0, 140
+992, [Trump supporters: what do you think went wrong last night? Was it the debate skipping? Was it his lack of a ground game? Or something else entirely?], 43u8vr, 1454449443.0, 140
+993, [Does Bernie Sanders make a valid argument concerning Hillary Clinton's speaking fees?], 41p0uj, 1453244214.0, 140
+994, [What do you think the social fallout will be after this election given a Clinton presidency?], 4xtp0s, 1471298701.0, 139
+995, [How do Hillary Clintons debate skills compare to the debates against Donald Trump?], 4un5mp, 1469541523.0, 144
+996, [[Polling Megathread] Week of July 24, 2016], 4udfra, 1469401224.0, 139
+997, [[Meta] New mods, clarified rules (with examples), r/PoliticalOpinions, and more], 4o8z6k, 1466045813.0, 137
+998, [[Results Thread] Ultimate Tuesday Democratic Primary (June 7, 2016)], 4n1zz9, 1465370600.0, 137
+999, [Kasich would consider nominating Garland], 4b55jy, 1458456305.0, 140
+1000, [Donors report Rubio to suspend campaign before Florida unless polls improve], 49qzva, 1457597724.0, 136

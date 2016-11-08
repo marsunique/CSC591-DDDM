@@ -1,0 +1,69 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [David Cross: Ayn Rand lived in public housing, and used Social Security and Medicare], 4womph, 1470662901.0, 77
+2, [President Obama is Officially America's Greatest Job Creator President], 527j8m, 1473607836.0, 57
+3, [NPR live fact check during debate], 54ocuz, 1474971140.0, 55
+4, [Meme circulated by Breitbart: "Hillary Clinton approved major arms deals to Qatar, Oman, Algeria, Saudi Arabia and other dictators after they donated millions of foreign dollars to the Clinton foundation."], 4mtmre, 1465257240.0, 54
+5, [Hillary Clinton: FACT: No major company has filed for Chapter 11 more often in the last 30 years than @realDonaldTrump's casinos.], 4pb5jc, 1466637271.0, 46
+6, [Donald Trump: "Republicans are Dumb", why did this video disappear off the internet?], 4nt6iw, 1465807257.0, 43
+7, ["Recent studies have indicated that about 80% of Republicans have authoritarian type personalities whereas only 8% of Democrats have authoritarian personalities."], 3ztdwt, 1452163265.0, 45
+8, [Post Claims Trumps Tax Plan will net him $1.9mil at $75300 gross income], 4vthdo, 1470185869.0, 40
+9, [[Bernie Sanders] wants to roll Medicare, Medicaid, the childrens health insurance program, the Affordable Care Act program and private health insurance into a national system and turn it over to the states to administer. -Hillary Clinton], 40p5g1, 1452670860.0, 40
+10, [Politifact's 2015 Lie of the Year: Donald Trump's Campaign Misstatements], 3xq5n9, 1450748376.0, 38
+11, [Obama has killed more people than Bush: "He's about double the numbers now" - Penn Jillette], 44mvj2, 1454898969.0, 35
+12, [15-25% of Muslims dedicated to destruction of Western civilization], 3suftd, 1447578227.0, 39
+13, [This Facebook post seems to claim that almost everything bad in the Clinton administration was due to decisions by Hillary. Did she actually have this much power?], 4ab0d9, 1457947033.0, 33
+14, [False Representation of George Washington Statement], 406tm4, 1452384829.0, 31
+15, [Politifact ratings of the 2016 US presidential candidates - 4/30/16], 4h7du3, 1462098505.0, 30
+16, [When adjusted for population size, black people in the US commit 25x as many violent crimes upon white people than vice versa], 3uxu0e, 1448964174.0, 32
+17, [RNC halted funding of Trump following the Access Hollywood tape release. Have they resumed funding?], 578zcn, 1476370050.0, 29
+18, [Reminder: Posters, post the claim you want checked (with link to source); Commenters, respond with FACTS (with link to source)], 4rqdvl, 1467947936.0, 30
+19, [Trump, the Clintons, and Jeffrey Epstein], 580cgi, 1476772731.0, 27
+20, [Does the working class pay more in taxes than every before?], 4b9mke, 1458541837.0, 25
+21, [Sources and Claims in Anti-Muslim refugees video], 3t6x8g, 1447815732.0, 26
+22, [Holocaust denial (a refutation, not a defense) has been nominated to be a Cover Page article on RationalWiki. Support welcome!], 4y3saf, 1471437550.0, 25
+23, [According to the American Academy of Pediatrics, "The only way to maintain the initial effect of spanking is to systematically increase the intensity with which it is delivered, which can quickly escalate into abuse".], 4p1zt7, 1466499206.0, 24
+24, [NY primary ballot wording may be misleading], 4flk5q, 1461153558.0, 22
+25, [23,144 U.S. bombs were dropped in the year 2015.], 40f99j, 1452518100.0, 24
+26, [Was the Democratic Party Nomination process rigged?], 4ugoqo, 1469447807.0, 25
+27, [Is there a substantial amount of polling that shows that Democrats don't care about foreign policy?], 4492vm, 1454673119.0, 21
+28, [Obamacare: Is this person telling the truth/is it common?], 5980tf, 1477382759.0, 21
+29, [New tool for fact-checking online news], 54rb6y, 1475021440.0, 20
+30, [Anybody else see this Baio segment? I think his history lesson sounds suspicious.], 4tnzcf, 1468997243.0, 21
+31, [Scoring politicians' truthfulness by rolling up PolitiFact metrics], 43ymq1, 1454509894.0, 22
+32, [Did Napoleon say My decision to destroy the authority of the blacks in Saint Domingue (Haiti) is not so much based on considerations of commerce and money, as on the need to block for ever the march of the blacks in the world. ? (xpost from /r/askhistorians)], 3xtmhp, 1450810869.0, 22
+33, [Obama Blocks 75 Percent of Terror Targets From Bombing], 3tpw51, 1448159401.0, 23
+34, [Is this Obamacare post being mis-represented?], 4y75ue, 1471486241.0, 19
+35, [Need sources to call bullshit on this image], 4ak8vo, 1458101945.0, 19
+36, [Hillary said in 1998: "That Women Were the Primary Victims of War." Is that accurate when you look at all recent war casualties overall?], 4jsjd4, 1463540494.0, 18
+37, [What is the rate of injury (NOT just death) due to firearms in the US, and how has it changed over time?], 3v70vi, 1449119680.0, 18
+38, [Black fathers are more present in their families lives than fathers from other races.], 3spk69, 1447478482.0, 16
+39, [What has been the fact checking so far on "FBI agents are ready to revolt over the cozy ClintonProbe ? "], 57nrx1, 1476590066.0, 18
+40, [This email circulating about Obama's pro-Islam record], 4o1r19, 1465944684.0, 18
+41, [Are the people that were lifted from poverty by "The Great Society" receiving government aid?], 3ym90h, 1451393659.0, 17
+42, [Seeking help on costs associated with failed HRC investigations.], 4rdqxt, 1467767601.0, 16
+43, [Rachel Maddow says Elisabeth Warren is part native american as if it's a settled fact, I thought it was just a family story with no real evidence?], 4lfrb6, 1464469984.0, 16
+44, [was the DNC primary rigged with voting machines?], 4j5dt6, 1463156699.0, 16
+45, [Have there been more mass shootings during president Obama's administration than several of his predecessors combined?], 3vnn0j, 1449436663.0, 14
+46, [Is this chart of "How the Electoral Map would look if only ___ voted" true?], 58kf9q, 1477038756.0, 14
+47, [How credible and truthful are the popular YouTube political, social commentators (Sargon of Akkad, Nerdwriter, Paul Joseph Watson, Cult of Dusty and etc...)], 57bzqv, 1476414056.0, 16
+48, [Worker Productivity vs Age in US], 49vcmr, 1457671041.0, 16
+49, [Is this series of figures from Seth Joseph factual?], 4umhfs, 1469530689.0, 17
+50, [A collage of "sexual predators and perverts" is making the rounds on FB with no sources or other information. I've identified a couple of those shown in the picture but am looking for help identifying the rest, purely so I know whether the picture is accurate. FB link in text.], 4jzzp6, 1463648428.0, 13
+51, [United States' Federal Income Revenue On Taxes], 3w0bev, 1449651122.0, 12
+52, [No poverty], 4jg8p6, 1463350292.0, 12
+53, [State Department policy in place during [Clinton's] tenure permitted her to use a non-government email for work.], 4sxrsn, 1468591800.0, 12
+54, [Is this New York Times article about the Republican Party legit?], 4sqio9, 1468486284.0, 10
+55, ["Several states have created laws that make it a criminal offense to tell a trans person to use the other facility."], 4fdhux, 1461035538.0, 12
+56, [Checking Jill Stein], 4t1ht1, 1468647404.0, 9
+57, [What level of public support is there in the U.S. for deposing Assad?], 40uy2h, 1452758509.0, 11
+58, [This letter from (supposedly) Bernie Sanders is headline news in my country but it seems fake.], 3v5tfq, 1449103705.0, 8
+59, [Need help finding the link to a certain satirical pollster that was writing during the primaries], 58hxr5, 1477011265.0, 8
+60, [Did Goldman Sachs CEO call for the breaking up of big banks?], 44ofta, 1454919451.0, 7
+61, [Truthiness Question: Did Hillary break/not break any laws by using a personal email server to conduct State Department business?], 4rm926, 1467887663.0, 7
+62, [How much credibility is there to this article? Supposedly Obama's cabinet was selected by a Citigroup executive], 57v6fn, 1476701438.0, 5
+63, [Are there "terror training camps" in the US?], 4rz1ze, 1468072211.0, 2
+64, [Is there a connection between Director Comey and DLA Piper, a company that audited the Clinton Foundation?], 54yhzb, 1475123909.0, 0
+65, [6 powerful point that will crush hilary and bernie supporters.], 3ronqq, 1446789767.0, 4
+66, [Fact: Voter Fraud does exist and here's exactly how it happens.], 5ai8by, 1478023058.0, 0
+67, [Is it true that over 60% of Democrats are felons who committed violent crimes?], 3uy8lh, 1448970027.0, 0
+68, [This image seems made up... Can anyone confirm??], 4iy9rh, 1463044755.0, 0

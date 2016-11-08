@@ -1,0 +1,999 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Climate Change All But Ignored Again at Presidential Debate], 56rzvo, 1476135637.0, 4842
+2, [Shailene Woodley: The Truth About My Arrest | Please stand in solidarity with the Sioux people of Standing Rock Reservation to ensure that we still have rivers to swim in, springs to drink from and lakes to float on. Will you join us?], 58n6np, 1477085118.0, 3192
+3, [Clear Evidence Emerges of Outrageous Militarized Police Collaboration With Oil Companies at Standing Rock Against Protectors - Police departments around the country are sending reinforcements to North Dakota to support mining companies.], 5a018d, 1477768924.0, 1800
+4, [Why Dakota Is the New Keystone - images of the National Guard destroying tepees and sweat lodges and arresting elders this week remind us that the battle over the Dakota Access Pipeline is part of the longest-running drama in American history  the United States Army versus Native Americans.], 5abxme, 1477945729.0, 1384
+5, [Amy Goodman Is Facing Prison for Reporting on the Dakota Access Pipeline. That Should Scare Us All.], 57to2n, 1476681443.0, 1332
+6, [Pennsylvania Pipelines Bursts, Leaks 55,000 Gallons Of Gas Into One Of USA Most Endangered Rivers- Same company owns Dakota pipeline], 598rbm, 1477392093.0, 1273
+7, [YesDonald Trump Is a Threat to the Planet | A group of scientists, including myself, have consequently decided that we must speak out about the irreparable harm that would be done by a climate change-denying, anti-science-driven Trump presidency.], 55t8de, 1475612896.0, 1185
+8, [Scientists Back Native American Protesters In Dakota Access Fight, Citing Probability of Environmental Destruction and Water Pollution], 566fl3, 1475802264.0, 1049
+9, [In a loss for ExxonMobil, NY Supreme Court orders oil giant to produce climate documents], 59nl2m, 1477598579.0, 1038
+10, [Oklahoma governor declares Oct. 13 a day of prayer for the oil industry (no, this is not a joke)], 5632wc, 1475747093.0, 1001
+11, [Shots fired, 117 arrests made as North Dakota cops remove pipeline protesters from private land], 59tdcr, 1477671763.0, 943
+12, [More than 150 countries reach 'monumental' deal to phase out powerful greenhouse gases], 57lljo, 1476558298.0, 896
+13, [The New 'Inconvenient Truth': Leonardo DiCaprio's New Documentary Wants to Challenge Climate Change Skeptics - An interview with Fisher Stevens about "Before the Flood," his new climate change doc starring Leo as Everyman.], 594agw, 1477341815.0, 843
+14, [Singer Neil Young, actor Mark Ruffalo and other celebrities on Thursday joined in calling for charges to be dropped against a documentary maker arrested while filming protesters who shut down oil pipelines from Canada to the United States, saying that she was acting as a journalist.], 57g5s2, 1476477985.0, 812
+15, [In a shock to no one, September was warmest such month on record | September's record warmth assures that 2016 will be the warmest calendar year on record, taking over the top spot from 2015.], 583i7p, 1476822716.0, 793
+16, [That's 4 straight debates without a single question on climate change. Good job, everyone.], 58ufh6, 1477189348.0, 749
+17, [Tesla CEO Elon Musk challenges Big Coal to go toe-to-toe with 0 subsidies after being called a fraud], 56xbka, 1476209473.0, 746
+18, [NASA: Megadrought Lasting Decades Is 99% Certain in American Southwest], 57rts0, 1476659591.0, 729
+19, [Heres why many young voters see climate change as THE issue in 2016], 579zml, 1476390555.0, 728
+20, [Sanders asking Obama to order a comprehensive environmental review of Dakota pipeline.], 57dp6p, 1476434244.0, 709
+21, [Costa Rica Has Been Running On 100% Renewable Electricity For More Than 2 Months And Counting], 58bxsg, 1476930884.0, 686
+22, [Amy Goodman showed us the perils of standing up to the fossil fuel industry], 588lxt, 1476882080.0, 660
+23, [Why Do We Allow BP To Continue Dumping GALLONS Into Our Oceans?], 56g2b3, 1475942230.0, 658
+24, [Judge refuses to sign off on charges against Amy Goodman], 57zfgu, 1476762805.0, 653
+25, [Donald Trump has close financial ties to Dakota Access pipeline company: Trumps financial disclosure forms show he invested in Energy Transfer Partners, operators of the controversial pipeline, and its CEO donated to his ocampaign], 59heuw, 1477516159.0, 631
+26, [The Cost of Solar Power Has Fallen 25% in Only 5 Months], 56av97, 1475868191.0, 589
+27, ['Great Pacific garbage patch' far bigger than imagined, aerial survey shows - Giant collection of fishing nets, plastic containers and other discarded items called a ticking time bomb as large items crumble into micro plastics], 55zmhp, 1475705221.0, 560
+28, [Veteran Says Standing Rock Is The First Time I Served The American People], 5a90my, 1477898567.0, 555
+29, [At least 22 million gallons of water is trapped in plastic bottles and thrown into landfills annually in US alone.], 55qwma, 1475569981.0, 535
+30, [Climate Change Will Leave Snow Leopards With Just One-Third of Their Habitat | In one climate change scenario, researchers predicted that 82 percent of snow leopard population in Nepal and 85 percent in Bhutan could be lost.], 573qy8, 1476303426.0, 477
+31, [The International Energy Agency says that the world's capacity to generate electricity from renewable sources has now overtaken coal.], 59e6pv, 1477465393.0, 472
+32, [Dakota pipeline showdown at Standing Rock: When a powerful corporate chief is resisted by defenders of Native American ceremonial grounds - Kelcy Warren, Energy Transfer Partners' well-heeled chief, meets his match in North Dakota with Lakota Sioux], 58yf7c, 1477256060.0, 446
+33, [Millions of Trees Are Dying Across the US: The reasons for the die-off vary from location to location - drought, disease, insects and wildfires - but the root cause in many of these cases is the same: climate change.], 57q2bt, 1476623319.0, 432
+34, ['Stakes Are Getting Higher': 83 People Arrested, Maced in North Dakota (commondreams.org)], 5911kv, 1477289009.0, 423
+35, [UN wildlife conference bans trade in wild populations of African grey parrot], 55idyv, 1475446708.0, 422
+36, [A new study finds that close to 9,000 square kilometers of Amazon forest was cleared from 2008 to 2012 without detection by the official government monitoring system. That's an area roughly the size of Puerto Rico.], 5777h6, 1476343432.0, 401
+37, ['This Is My Act of Love': Climate Activists Shut Down All US-Canada Tar Sands Pipelines], 56zkje, 1476239691.0, 369
+38, [We should remember that the key drivers of growth are science, education and innovation, not low taxes, lax regulations or greater exploitation of natural resources.], 56n0xz, 1476060644.0, 351
+39, [Hawaiis bees placed on endangered species list, but hope remains], 55mwic, 1475516032.0, 346
+40, [Native American environmental protetsers are an 'insurgency' that needs to be met militarily says an oil exec in 2011], 55iaum, 1475445268.0, 342
+41, [We have money to fight climate change. It's just that we're spending it on defense.], 56gryf, 1475959164.0, 302
+42, [U.S. Hunters Banned from Importing Trophies from Captive Lions - South Africas captive lions are raised to be hunted within confined spaces, a practice experts consider cruel & unrelated to conservation.], 58t0cq, 1477169885.0, 299
+43, [Jeff Bezos dismisses idea of a backup plan, says we must protect Earth], 5a7en2, 1477880506.0, 296
+44, [White armed occupiers were acquitted. Native American activists were tear gassed. - 2 very different scenes played out in Oregon & North Dakota Thursday.], 59zzhu, 1477767853.0, 293
+45, [Thousands of American Buffalo appear from nowhere at Standing Rock], 59w7x0, 1477709641.0, 277
+46, [No country on Earth is taking the 2 degree climate target seriously: if we mean what we say, then no more new fossil fuels, anywhere.], 55tooz, 1475619480.0, 259
+47, [Doubts About Promised Bounty of Genetically Modified Crops - "genetic modification in the United States and Canada has not accelerated increases in crop yields or led to an overall reduction in the use of chemical pesticides."], 5a5hfw, 1477852623.0, 249
+48, [World wildlife 'falls by 58% in 40 years'], 59m33d, 1477570067.0, 250
+49, [Bees Placed on Endangered Species List for the First Time in the US], 55opai, 1475543423.0, 243
+50, [Army Corps of Engineers Confirms Native Protesters Are Right  There Is No Written Easement for Dakota Access Pipeline - Counter Current News], 59zls3, 1477758665.0, 230
+51, [Twenty-four nations have agreed to make Antarctica's Ross Sea the largest marine protected area in the world], 59rcgm, 1477640735.0, 231
+52, [Donald Trumps Energy Adviser Doesnt Know How Electricity Works], 59yvlt, 1477743699.0, 216
+53, [Dont be fooled, the cost of clean energy continues to drop dramatically], 55xrq8, 1475669781.0, 216
+54, [Opposition To Fracking Is Growing WorldWide], 590vzy, 1477287104.0, 212
+55, [A top climate scientist isnt impressed with the worlds half-assed effort to save itself.], 55t5yt, 1475611757.0, 213
+56, [As Natives Declare Treaty Rights, Police Admit Defeat -- Cite Lack of 'Manpower' to Remove DAPL Protesters], 59cpyt, 1477449376.0, 209
+57, [Before the Flood  Full Movie], 5a6ffa, 1477869030.0, 204
+58, [North Dakota had 292 oil spills in 2 years--officials disclosed 1 to the public], 5a2o7f, 1477804593.0, 196
+59, [We must protect the Grand Canyon before time runs out - broad support among likely American voters: 82% back monument establishment and 93% feel that the Grand Canyon is a national treasure for all Americans, not just people who live nearby.], 59u59q, 1477686757.0, 194
+60, [65% of Americans want government to combat climate change], 5625qu, 1475734571.0, 197
+61, [California Republicans have more solar panels than Democrats], 55ikln, 1475449477.0, 196
+62, [Trump's Views on Science Are Shockingly Ignorant - His statements show a disregard for science that is alarming in a candidate for high office], 58smvm, 1477162651.0, 197
+63, [Lab-Grown Meat Is the Future of Food: Are You Ready to Take a Bite? - It's better for animals, it's better for people, & it may even taste better than the real thing.], 58snv4, 1477163213.0, 190
+64, ["As long as we have Citizens United, the polluters are going to be in charge of our country."], 579upi, 1476388566.0, 181
+65, [A President Trump could wreck progress on global warming], 55z6s4, 1475699029.0, 176
+66, [Norway plans on killing 47 of its remaining 68 wolves], 55p1rv, 1475547318.0, 165
+67, [Feeding cows seaweed could slash global greenhouse gas emissions, researchers say], 58apnc, 1476918008.0, 168
+68, [The Arrest of Journalists, Actors and Filmmakers Covering the Protest of the Dakota Pipeline has been viewed as Highly Controversial], 57ngyx, 1476586169.0, 164
+69, [The Netherlands Will Increase Its Forests By a Quarter. To slash the countrys carbon footprint, the Dutch are going on a tree-planting binge.], 59jri7, 1477541330.0, 158
+70, [NASA Scientists Suggest Weve Been Underestimating Sea Level Rise], 5a516q, 1477841113.0, 155
+71, [This major city's drinking water was fine. Then came the private water company. - "They will come in, rape your water company, and leave with money bags."], 59hlx4, 1477518617.0, 150
+72, [Documentary Filmmaker Faces Up to 45 Years in Prison for Covering Pipeline Protest], 57uw7f, 1476697449.0, 150
+73, [Video: Shocking evidence emerges of Japan's dirty ivory trade], 55ioh9, 1475450996.0, 142
+74, [A military view on climate change: It's eroding our national security and we should prepare for it | The worlds ice caps will not care who is elected or what is said. They will simply continue to melt, as dictated by laws of physics. But Americans will care deeply about our policy response.], 579vy6, 1476389063.0, 140
+75, [Hurricane Matthew Exposes Escalating Risk From Billions of Gallons of Animal Waste Stored at North Carolina Factory Farms], 57g7z4, 1476478860.0, 133
+76, [Total of 127 protesters arrested, camera drone shot down over the weekend at Dakota Access Pipeline site], 5973ia, 1477372197.0, 131
+77, [Exxon Mobil sued for 'climate deceit' in US: Exxon Mobil is failing to safeguard Massachusetts communities against pollution relating to climate change impacts, the suit says. It follows up on revelations that the oil giant covered up climate risks of fossil fuels.], 56kath, 1476008335.0, 129
+78, [In Case You Were Wondering, Donald Trump Has Multiple Ties to the Dakota Access Pipeline], 561enq, 1475725753.0, 126
+79, [North Dakota pipeline: police arrest protesters as standoff continues  live - Police said they plan to take necessary steps to move trespassers from private property as increasingly tense protests continue over a disputed oil pipeline], 59qp0d, 1477633091.0, 125
+80, [The Age of Vertical Farming Is Officially Upon Us], 56y62p, 1476223874.0, 124
+81, ["The pipeline security guards unleashed dogs and pepper spray on the protesters. The dogs that we filmed, one of the dogs, his mouth and nose was dripping with blood." - Amy Goodman speaks out on Dakota Access Pipeline and charges], 57xjev, 1476742641.0, 108
+82, [A Mega-Drought Is Coming to America's Southwest], 56zyyj, 1476244128.0, 114
+83, [Rush Limbaugh wrong that lack of hurricanes diminishes climate change argument], 56ekuq, 1475915528.0, 112
+84, [Public Lands Belong in Federal Hands - The Wyoming state government recently released a study weighing the pros & cons of transferring federal lands to the state. The results were unequivocal: it's a terrible idea.], 59i3wi, 1477524216.0, 111
+85, [Imagine a world without animals. Youll soon see how much we need them - Hand-pollinating crops, growing meat in labs & dealing with the stench of scavenging fungus  this is the future we face], 5abe9z, 1477936377.0, 110
+86, [Leonardo DiCaprio's climate change documentary is now available for free viewing], 5ab6qv, 1477931607.0, 105
+87, [An obscure disaster-relief law was used to clear the Dakota Access camp.], 5a61q4, 1477863717.0, 105
+88, [60 Countries Have Officially Joined Paris Climate Agreement], 55m0k7, 1475496439.0, 99
+89, [Farm 360 in Indianapolis grows veggies with 100% renewable energy and 90% less water], 59k1vf, 1477544402.0, 103
+90, [Why We Are Singing for Water at Standing Rock, in Front of Men With Guns and Surveillance Helicopters], 56iw4c, 1475988038.0, 98
+91, [Florida Is About to Vote On Who Controls Its Solar Power: The amendment would allow power companies to charge solar customers to pay back the money they saved.], 57lxx8, 1476565135.0, 96
+92, [Donald Trump Gets Called Out On Climate Change  By Kids | In a new environmental ad, children tell the climate change denier its time to stop kidding around.], 56xscz, 1476218551.0, 99
+93, [This Is How Big the Great Pacific Garbage Patch Really Is], 56ywm1, 1476232427.0, 99
+94, [Factory Farms Get Bigger, Pollution Grows, but Regulators Don't Even Know Where They Are], 58zha2, 1477270802.0, 97
+95, [Famous Frog Toughie Dies, Sending Species to Extinction], 55oi0u, 1475541101.0, 95
+96, [ND Prosecutor Seeks "Riot" Charges Against Amy Goodman For Reporting On Pipeline Protest], 57xf7q, 1476741221.0, 93
+97, [New Zealand's plan to save the kiwi], 55n9yu, 1475524244.0, 89
+98, [Dakota Access pipeline protesters set for 'last stand' on banks of Missouri river - Completion of controversial oil pipeline near as work moves quickly, but one protester says: There is no time for waiting any more], 5abmda, 1477940794.0, 94
+99, [Tribal members dig in for long fight at North Dakota pipeline site], 5a5kai, 1477854517.0, 86
+100, [Show this cartoon to anyone who doubts we need huge action on climate change], 57x20m, 1476736267.0, 86
+101, [Detroit incinerator is hotspot for health problems, environmentalists claim: The countrys biggest trash-burning facility has been issued with a notice to sue, with local residents complaining of the bad smell and pollution it produces], 58yb2u, 1477253775.0, 80
+102, [92% of the worlds population exposed to unsafe levels of air pollution], 55zl99, 1475704797.0, 81
+103, [With an eye on climate change, court gives bearded seals endangered status], 59h1xf, 1477510975.0, 84
+104, [How the Attack on Science Is Becoming a Global Contagion by Christian Schwgerl: Yale Environment 360], 55pzjf, 1475558003.0, 78
+105, [Life After Death: Organic Burial Pods Turn Human Bodies into Living Trees - "Instead of filling graveyards with caskets and stone monuments to the deceased, this system would populate parks with living memorials  trees over tombstones."], 57jrso, 1476521817.0, 80
+106, [The FDA Finally Bans Antibacterial Soaps], 58142t, 1476782134.0, 78
+107, [Voters need truth about 'clean coal'- Clean coal is a myth and more a marketing term than scientific reality.], 57g611, 1476478090.0, 76
+108, [The hidden poisoning of poor children at an L.A. housing complex. The soil is laced with lead and arsenic in yards where children play.], 59vw66, 1477706321.0, 73
+109, [People don't deny climate change because of education, they deny it because of political gain], 562cq3, 1475737114.0, 76
+110, [California sudden oak death reaches catastrophic levels], 5a3pz5, 1477818315.0, 71
+111, [Native American Leaders Decry Increasingly Harsh Treatment of Dakota Access Protesters | After police arrest more than 100, reportedly using pepper spray and shooting down a drone, Standing Rock Sioux chairman asks the Department of Justice to step in.], 59nq2l, 1477600611.0, 72
+112, [Top Environmental Group Thinks the Exxon Climate Controversy Will Persuade VotersAnd Theyre Putting Money Behind It], 5949re, 1477341534.0, 72
+113, [Antarctica's Ice Sheets Are Melting Faster  And From Beneath], 59bpal, 1477438851.0, 72
+114, [Murder of Brazil official marks new low in war on Amazon environmentalists - Luiz Alberto Arajo, a local government official in Par state, was gunned down in front of his family: It sends a message that no one is untouchable], 594721, 1477340427.0, 70
+115, [Flint Hit With Bacterial Illness as Residents Shun City Water], 57aaij, 1476394794.0, 71
+116, [Most Maryland voters want to ban fracking], 59k3p1, 1477544950.0, 69
+117, [This Tweet Shows Why Plastics Are So Dangerous to Marine Animals: Every year, 13 million tons of plastic wind up in our oceans.], 59hhcz, 1477517014.0, 65
+118, [Bees placed on endangered species list for first time in US], 55jpgd, 1475464201.0, 68
+119, [First farm to grow veg in a desert using only sun and seawater], 56bbgg, 1475875302.0, 66
+120, [Al Gore to campaign for Clinton, hoping to galvanize young voters on climate change], 55zegb, 1475702153.0, 64
+121, [Solar amendment campaign in Florida scrubs its web pages after leaked recording | described the subsequent utility-backed constitutional amendment as political jiu jitsu used to persuade voters to support restrictions on the expansion of solar by presenting the proposal as a pro-solar initiative.], 59aqc3, 1477427237.0, 69
+122, [EPA Plan For Unlimited Dumping of Fracking Wastewater In The Gulf], 57y5uy, 1476749635.0, 66
+123, [Mark Ruffalo asks Obama to crack down on fracking], 579xxu, 1476389860.0, 64
+124, [Industry study: Value of Iowa wind energy outweighs its costs | doubling the states installed wind capacity would lower the cost of power so much that the typical residential customers monthly bill would fall, possibly by as much as $10.], 5949ak, 1477341342.0, 63
+125, [Floridas solar amendment designed to mislead voters: Utility-backed amendment approved by Florida Supreme Court only sounds pro-solar], 57a3df, 1476392071.0, 64
+126, [Dominion wants to put a pipeline through farmland designated for conservation - A new motion filed Thursday is part of the growing opposition to the Atlantic Coast Pipeline.], 57ljpu, 1476557090.0, 60
+127, [Fossil Fuel Production Emits More Methane Than Previously Thought, NOAA Says | The exhaustive global study found emissions from oil, gas and coal sites are between 20 and 60 percent higher than many earlier estimates.], 573sp4, 1476304195.0, 59
+128, [India to Ratify Climate Deal on Gandhis Birthday; He Left the Least Carbon Footprint of All], 55ies6, 1475447070.0, 63
+129, [Tesla shows off solar roof and energy ambitions at Los Angeles event | Tesla and SolarCity representatives said they expect to start installing roofs as early as next summer.], 5abyf1, 1477946022.0, 64
+130, [Feral cats are a serious threat to Hawaiis endangered birds, monk seals and dolphins.], 580lk7, 1476775650.0, 60
+131, [Video: Police Viciously Attacked Peaceful Protesters at the Dakota Access Pipeline], 5a0ebf, 1477775890.0, 58
+132, [Obituary: Great Barrier Reef (25 Million BC-2016)], 57ch4a, 1476419406.0, 61
+133, [UKs most talented architects are not human | Beavers haven't been resident in the UK for 400 years. But conservationists in England's southwest are showing how bringing back the busy rodent could be a boon for the environment.], 55y8a4, 1475678459.0, 60
+134, [Washing clothes releases thousands of microplastic particles into environment, study shows], 55qp1e, 1475567030.0, 55
+135, [A third of the Great Barrier Reef is dead], 59nptv, 1477600521.0, 58
+136, [You Don't Want to Know Where This Pig Poop Is Washing Up - The floods from Hurricane Matthew are finally receding, but the battle over manure leaked from hog farms is just getting started.], 589mlz, 1476902747.0, 59
+137, [Water isnt a human right in Canada, but it should be], 55zx4n, 1475708879.0, 57
+138, [Florida voters to decide utility-backed solar energy amendment], 55ywy2, 1475694211.0, 57
+139, [Major boost in global fight against illegal ivory trade at CITES conference], 55n07j, 1475518433.0, 56
+140, [Climate change: global deal reached to limit use of hydrofluorocarbons], 57kwyo, 1476541502.0, 53
+141, [Greenland is Losing More Ice Than Scientists Thought], 57dp3j, 1476434209.0, 54
+142, [Activists just disrupted Canadas tar sands pipelines into the United States], 5761gl, 1476329791.0, 58
+143, [Massive marine park declared in Antarctic Ocean -- The sanctuary will cover more than 12 percent of the Southern Ocean, which is home to more than 10,000 species including most of the world's penguins, whales, seabirds, colossal squid and Antarctic tooth fish], 59u5bm, 1477686777.0, 51
+144, [Ethical arguments won't end factory farming. Technology might.], 572nz5, 1476280345.0, 54
+145, [Alabamas Worst Drought In Memory Is About To Get Even Worse], 5a4sqp, 1477835939.0, 53
+146, [Heres what Democrats and Republicans agree on regarding climate change | Fully 89% of Americans favor more solar panel farms, and just 9% oppose. A similarly large share supports more wind turbine farms (83% favor, 14% oppose), the report said], 55zaku, 1475700615.0, 53
+147, ['They're Being Eaten Alive!' What I Saw In A Cage-Free Egg Farm], 58u6dy, 1477186329.0, 52
+148, [Environmentalists to millennials: Donald Trump's climate policies are dangerous], 56xq6n, 1476217615.0, 51
+149, ['New era of climate change reality' as emissions hit symbolic threshold - CO2 in the atmosphere is expected to be above 400 parts per million on average over 2016 and will not dip below that mark for generations, UN says], 5948lm, 1477341079.0, 50
+150, [Activists shut down all pipelines carrying Canadian tar sands oil], 56zt3i, 1476242354.0, 53
+151, [Florida Ballot Measure Could Halt Rooftop Solar, but Do Voters Know That? Amendment 1 is written in pro-solar language, but it is backed by the state's utilities and opponents say it will crush the growth of solar in the Sunshine State.], 58myma, 1477082108.0, 51
+152, [The $20 Billion Arctic Pipeline That Will Haunt Canada Forever], 56ru29, 1476133285.0, 50
+153, [A new study finds that just a few natural gas wells account for more than half of the total volume of leaked methane gas in the United States. Fixing leaks at those top emitters could significantly reduce leaks of methane, a potent greenhouse gas.], 59psax, 1477623472.0, 49
+154, [Yes, lead poisoning could really be a cause of violent crime], 59i7r3, 1477525345.0, 50
+155, [EU drops law to limit cancer-linked chemical in food after industry complaint - Campaigners say leaked documents show undue influence by the food industry after plans to limit acrylamide - found in starchy foods such as crisps, cereals and baby foods - are weakened], 59hcfv, 1477515305.0, 47
+156, [Dozens of demonstrators arrested at North Dakota pipeline], 58vie0, 1477202882.0, 51
+157, [Sen. Ron Johnson, R-Wisconsin, on Monday said he doesnt think people should worry about finding solutions to climate changebecause historically, civilization thrives in warmer temperatures.], 59rmwv, 1477644297.0, 50
+158, [Electric car revolution may drive oil investor death spiral], 58u5rb, 1477186117.0, 44
+159, [US air force 'accidentally' contaminated Colorados water], 58chx8, 1476936667.0, 49
+160, [Bill McKibben: The Climate Movement Has to Elect Hillary Clinton  and Then Give Her Hell], 589qyo, 1476904992.0, 46
+161, [Climate change could drive 122m more people into extreme poverty by 2030], 57xkmy, 1476743039.0, 50
+162, [DAPL: Former Vice President Al Gore Supports the Standing Rock Sioux Tribe], 5a2uum, 1477806932.0, 45
+163, [Antibiotic waste is polluting India and China's rivers; big pharma must act], 59ax0r, 1477429765.0, 46
+164, [US Climate Denier Group Flies Over to Brussels to screen their "Climate Hustle" Movie -- nobody shows up], 5968gj, 1477363193.0, 50
+165, [CAUGHT ON TAPE: UN bans skeptical journalists from climate summit for holding views not particularly helpful], 58t070, 1477169800.0, 47
+166, [Silent poison making whaling a political hot potato in the Faroe Islands: Whale meat and blubber has long been a staple of the Faroese diet, but with pilot whales increasingly contaminated by toxic substances, this traditional food source is silently poisoning the local population.], 5816ic, 1476782990.0, 47
+167, [The worlds fourth-largest emitter ratifies Paris climate agreement], 55oi6w, 1475541158.0, 43
+168, [People are hunting primates, bats, and other mammals to extinction], 590cow, 1477280838.0, 47
+169, [Filmmaker Arrested At Pipeline Protest Facing 45 Years In Felony Charges], 57h4ko, 1476490097.0, 46
+170, [Most people alive today set to witness dangerous global warming in their lifetime, scientists warn], 55jl2i, 1475462686.0, 43
+171, [Police issue 99 trespass citations during pipeline protest on Parliament Hill], 5999xn, 1477399395.0, 46
+172, [The Great Pacific Garbage Patch Is Even Worse Than We Feared], 55vkil, 1475641162.0, 44
+173, [Local high school getting national attention for its recycling and composting efforts], 55ibes, 1475445533.0, 44
+174, [Greenhouse Gas Levels Breaking All Records], 594ibf, 1477344684.0, 43
+175, [Article from 1912 points how coal-consumption affects climate], 58t4k9, 1477171740.0, 47
+176, [The Great Barrier Reef: a catastrophe laid bare | Environment], 57jcs9, 1476515851.0, 44
+177, [Poor countries urge fast action on Paris deal to stop catastrophic warming], 56fhgb, 1475929896.0, 42
+178, [Want to Save the Whales? Then Stop Eating Fish], 56bmsf, 1475879426.0, 43
+179, [Climate Change Is a Terrifying Threat to Humanity and Trump Would Only Make It Worse], 564gf7, 1475771939.0, 42
+180, [Bolivian glaciers melt at alarming rate - Climate News Network], 58u3bo, 1477185283.0, 40
+181, [Coal will not recover | Coal does not have a regulation problem, as the industry claims. Instead, it has a growing market problem, as other technologies are increasingly able to produce electricity at lower cost. And that trend is unlikely to end.], 594g8e, 1477343926.0, 42
+182, [The West Is Burning, And Climate Change Is Partly To Blame | human-caused climate change was responsible for nearly doubling the area burned in the West between 1984 and 2015.], 58a1ca, 1476909590.0, 40
+183, [Less than 1 in 10 conservative Republicans trusts climate scientists], 570w0x, 1476254689.0, 41
+184, [New study reveals climate change has doubled western US forest fires], 56y51a, 1476223499.0, 40
+185, [This is where your smartphone battery begins], 56b3jl, 1475872104.0, 41
+186, [Should we stop having kids to help save the planet?], 56308n, 1475746066.0, 38
+187, [Hurricanes will worsen as planet warms and sea levels rise, scientists warn], 560a03, 1475712999.0, 41
+188, [Scientist: Breach dams to save orcas off Washington state], 59xvvu, 1477728766.0, 42
+189, [EPA, the American Trucking Association, and environmental groups are working together to green the industry.], 594ow7, 1477346997.0, 41
+190, [As walrus arrive, Alaska village tells visitors to stay away], 573ce0, 1476295588.0, 42
+191, [Tax fossil fuels or risk kids' future: US climate scientist], 55si18, 1475597539.0, 41
+192, [Fukushima Radiation Has Contaminated The Entire Pacific Ocean  And Its Going To Get Worse. Fukushima continues to leak an astounding 300 tons of radioactive waste into the Pacific Ocean every day], 55j60h, 1475457437.0, 36
+193, [Ecuadors Yasuni park: where oil vies with tourism for the rainforest - The Sani people face a choice between encouraging ecotourism to their rainforest  one of the worlds most biodiverse  and allowing in the oil companies], 58ycj4, 1477254588.0, 40
+194, [Marco Rubio Once Again Denies Climate Change as Florida's King Tides Inundate Streets], 58bbl2, 1476924596.0, 41
+195, [Edible Six-pack Rings Feed Rather than Murder Sea Critters], 56690r, 1475800185.0, 40
+196, [After Two Wars, Standing Rock is the First Time I Served the American People (full original editorial)], 5acuzo, 1477956400.0, 36
+197, [Coal will last a thousand years Trump says], 56q0pu, 1476098754.0, 36
+198, [NASA video shows rapid decay of Arctic ice], 5a94py, 1477899956.0, 37
+199, [WHO cancer agency asked experts to withhold weedkiller documents: The review, published in March 2015, concluded glyphosate is "probably carcinogenic", putting IARC at odds with regulators around the world. Critics want the documents to find out more about how IARC reached its conclusion.], 59ieiq, 1477527250.0, 37
+200, [Episcopal Church formally asserts its support of pipeline protestors], 59bxge, 1477441235.0, 36
+201, [Climate change may spark next financial crisis, former Bank of England regulator says - It is potentially a systemic risk.], 59af4i, 1477422098.0, 39
+202, [Colorado looking to euthanize bears and lions to boost deer numbers], 58x1fg, 1477225683.0, 38
+203, [Wind Is the New Corn for Struggling Farmers - Seventy percent of U.S. turbines are in low-income rural areas.], 56xrun, 1476218348.0, 37
+204, [UK residents - If we want to curb/stop fracking in the UK we need to vote with our money and change energy supplier to companies that don't frack.], 56azhw, 1475870312.0, 37
+205, [Florida scientists want to educate Trump on climate- Its fairly straight forward. We teach it to 18-year-olds all the time here at Eckerd College.], 59nohz, 1477599987.0, 36
+206, [Loss of bees a growing problem; 7 species on endangered list], 57pm7j, 1476615739.0, 35
+207, [First signs of a political climate change consensus are appearing In Florida], 56yrum, 1476230936.0, 37
+208, [Undeterred by Police Escalation, DAPL Opponents "Reclaim" New Frontline | Common Dreams | Breaking News & Views for the Progressive Community], 597ovs, 1477378787.0, 33
+209, [This Video Showing Bacteria Evolving Antibiotic Resistance Is Frightening], 56y3lz, 1476222990.0, 39
+210, [Minn. companies that took climate change pledge give to deniers. Target, Best Buy, General Mills and Cargill signed on to the Obama Administration's American Business Act on Climate Pledge yet still contribute to politicians who say climate change is a hoax or exaggerated], 57xmk8, 1476743675.0, 34
+211, [Scientists Warn Negative Emissions Are a Moral Hazard | Nobody knows if atmospheric carbon removal  known as negative emissions  will work, and it could delay critical cuts to emissions while tacitly giving people license to pollute, the paper says.], 57g3yu, 1476477254.0, 35
+212, [Madagascar hillsides stripped bare as locals seek land], 56lxn4, 1476043948.0, 36
+213, [David Attenborough calls for peepholes in zoos], 57zfsv, 1476762901.0, 33
+214, [It's Official: Injection of Fracking Wastewater Caused Kansas' Biggest Earthquake], 57unfn, 1476694113.0, 34
+215, [Repeated oil spills threaten Peru's Amazon: Seven oil spills have taken place in the Peruvian Amazon in 2016 alone], 57e54y, 1476440378.0, 29
+216, [Humans Destroyed 10% of Earths Wilderness in Just 20 Years], 57dfyg, 1476430867.0, 31
+217, [Why Dakota Is the New Keystone], 5abf00, 1477936824.0, 32
+218, [Antarctica's Ross Sea to become world's largest marine reserve: the sea will be off-limits for any kind of wildlife or mineral extraction.], 5a0btm, 1477774760.0, 32
+219, [We could all breathe easier by reducing greenhouse gas emissions - Even the most conservative economic models show that the benefits of the emissions reductions required to meet the goals of the RGGI states are five to 10 times the costs of implementation.], 59as4i, 1477427935.0, 31
+220, [Kites Could Soon Power An Entire Region of Scotland: The kite-powered system could reduce the cost of offshore wind energy by about 50 percent.], 56xlvp, 1476215616.0, 34
+221, [Californias Recycling Crisis Sends Billions of Bottles and Cans Into Landfills], 569h1n, 1475840163.0, 28
+222, [Non-profit offers free recycling, recycling education], 55n7d8, 1475522850.0, 31
+223, [Oil drilling underway beneath Ecuador's Yasun national park | The government has not allowed any independent monitoring by scientists, journalists, or civil society. The well site is militarised, and aerial flyovers and images are prohibited, Kevin Koenig], 59npw6, 1477600541.0, 35
+224, [Doing Laundry Can Be Deadly for Clams, Mollusks and Other Marine Animals], 57xocu, 1476744280.0, 32
+225, ['The stuff of nightmares': US primate research centers investigated for abuses - Animal welfare campaigners have decried incidents of monkeys dying from strangulation, water deprivation, poor handling by staff & attempted escapes], 5a00yq, 1477768761.0, 26
+226, [News Coverage of Coal's Link to Global Warming, in 1912], 594nhm, 1477346534.0, 30
+227, [Clinton makes it clear she won't be a climate leader: 'I want to work on other stuff'], 57v6gg, 1476701443.0, 30
+228, [Australian pork study finds eco-shelters slash emissions.], 57otxs, 1476604021.0, 28
+229, [Danish anglers urged to 'grab rods' after 80,000 trout accidentally dropped in sea: Authorities fear the fish, which were due for the slaughter, will disturb the natural status quo by disturbing the eggs and young of the wild sea trout], 577t38, 1476351421.0, 30
+230, [Name hurricanes after their causes; fossil fuel companies and politicians], 56wm5t, 1476193094.0, 29
+231, [An overlooked benefit of the EU - It makes wildlife conservation far more effective], 56imah, 1475984437.0, 29
+232, [Where Americans find common ground on climate issues], 55yotp, 1475689241.0, 31
+233, [Prime Minister Trudeau says Canada will implement carbon taxes nationwide by 2018, increasing to $50/tonne by 2022], 55so1u, 1475601741.0, 32
+234, [Scientists Warn the Collapse of This Glacier Could Be Globally Catastrophic], 59z9fr, 1477750779.0, 29
+235, [Corporate leaders urge GOP to reinstate renewable energy | corporations employing more than 25,000 in Ohio oppose plans by state GOP lawmakers to get rid of state standards requiring utilities to sell increasing percentages of power generated by wind, solar and other renewables.], 59h9se, 1477514256.0, 31
+236, [New 5-mile cat-proof fence protects endangered Hawaiian birds on Mauna Loa: Work is complete on what could be the largest cat-proof fence  five miles in length  in the United States.], 597q7f, 1477379232.0, 31
+237, [Breaking: Protests Escalate as Flooding at Muskrat Falls Hydroelectric Project Imminent], 58v0cs, 1477196460.0, 29
+238, [Japan abandons Monju fast reactor: the slow death of a nuclear dream], 57fs2h, 1476471660.0, 29
+239, [Oil Glut Isnt Holding Back Energy Efficiency Gains, IEA Says - The IEA estimated its 29 member countries saved enough energy between 2000 and 2015 to power all of Japan for a year, or 450 million tons of oil equivalent.], 573syv, 1476304321.0, 29
+240, [To reduce pollution in Paris, recent regulations ban cars built before 1997 from the city center during workdays], 55pmuo, 1475553906.0, 28
+241, [When a Country Melts - The shrinking of Greenlands ice sheet is triggering feedback loops that accelerate the global climate crisis. The floodgates may already be open.], 58spgi, 1477164151.0, 27
+242, [California drought continues but residents are conserving less water], 57gorj, 1476484936.0, 28
+243, [Bolt cutters expose vulnerability of North America's oil pipeline grid | All it took was a pair of bolt cutters and the elbow grease of a few climate activists to carry out an audacious act of sabotage on North America's massive oil and gas pipeline system.], 573tzc, 1476304741.0, 28
+244, [World's First Aerial Survey of Great Pacific Garbage Patch: 'It's Worse Than We Thought'], 55slgz, 1475600054.0, 28
+245, [Hundreds in Los Angeles protest climate change, North Dakota pipeline | Several Hollywood stars, including Mark Ruffalo and Susan Sarandon, were among the more than 800 people who attended the climate rally in MacArthur Park.], 594dgs, 1477342948.0, 29
+246, [First Nation considering lawsuit after diesel spill destroys clam beds], 58dftt, 1476947073.0, 27
+247, [Earth's Wilderness And Its Carbon Storage Are Disappearing], 57xwjk, 1476746834.0, 26
+248, [Documentary filmmaker arrested at Canada-U.S. pipeline protest], 57ct1n, 1476423065.0, 25
+249, [Hurricane Matthew: Florida prepares for its first big hurricane in 11 years], 55zk9s, 1475704419.0, 28
+250, [FDA Tests Confirm Oatmeal, Baby Foods Contain Residues of Monsanto Weed Killer], 55io64, 1475450880.0, 31
+251, [How do people see these summer temperatures in late October and not think this is highly unusual?], 5a3a9n, 1477812371.0, 29
+252, [Washington State's Ambitious Carbon Tax Proposal], 594l8b, 1477345730.0, 27
+253, [Pacific Bluefin Tuna Considered for Endangered Species Protection. Environmental group says the species is at risk due to overfishing.], 57pi9g, 1476613997.0, 28
+254, [Clinton private speech transcripts & why she will never come out against #NoDAPL: "radical environmentalists" need to "Get a life, you know.", "I want to defend fracking", "And of course they go support somebody else. That's fine and I don't particularly care."], 57mimi, 1476573961.0, 26
+255, [Civilization is causing 6th Mass Extinction in Oceans], 57is4g, 1476508584.0, 25
+256, [Court rules Kinder Morgan cant use eminent domain for pipeline], 57ihye, 1476505275.0, 27
+257, [Global Hydrofluorocarbon Deal Expected Later This Week - More than 170 countries involved in the Montreal Protocol on greenhouse gases hope to finalize a deal by Friday limiting the use of hydrofluorocarbons, an intense greenhouse gas commonly used in refrigerants.], 579yy4, 1476390279.0, 24
+258, [Monsanto's Toxic PCBs Lurking in 26,000 U.S. Public Schools, Report Says: ...a study by scientists at the Harvard T.H. Chan School of Public Health found that up to 14 million students could be exposed to unsafe levels of the highly toxic chemicals even though they were banned several decades ago.], 56mwc2, 1476059019.0, 29
+259, [Coal doesn't help the poor; it makes them poorer (x-post /r/Infrastructurist)], 5ae34c, 1477968091.0, 29
+260, [Carbon dioxide levels reach a new peak -- Averaged across the globe, carbon dioxide levels are expected to reach the symbolic and significant milestone of 400 parts per million for the first time], 59cv0d, 1477450899.0, 25
+261, [The WikiLeaks emails reveal why Hillary Clinton wouldnt support a carbon tax], 58n388, 1477083906.0, 23
+262, [Tyson Foods, a Meat Leader, Invests in Protein Alternatives. - Tyson Foods 1st big meat company to invest in a business that, among other things, aims to reduce consumption of chicken, beef & pork by replacing it with plant proteins.], 56vthn, 1476180608.0, 25
+263, ["Climate change" was uttered just once in tonight's debate, in the last five minutes.], 56pzev, 1476098282.0, 25
+264, [Former Vice President Al Gore Critical of Dakota Access Pipeline (WJBCradio.com)], 59f4gt, 1477477035.0, 24
+265, [Researchers document accelerated glacier melting in West Antarctica], 59cwnb, 1477451379.0, 23
+266, [Norway nuclear reactor dealing with radioactive leak  authority], 59aa8v, 1477419481.0, 26
+267, [Alliance of 600,000 British Doctors Calls for 'Imperative' Coal Phase-Out: Doing so would constitute 'double win for tackling the twin health threats of air pollution and climate change,' report states], 58egtk, 1476959358.0, 24
+268, [Coral bleaching off north WA devastating, marine scientists say], 57wrp1, 1476731543.0, 24
+269, [Climate scientists published a paper debunking Ted Cruz | Earths atmosphere is warming faster and more in line with models than Ted Cruz and his witnesses argued], 57g68i, 1476478161.0, 25
+270, [Theres no oxygen left in this campaign for a serious debate about carbon | Yet in a debate in which one presidential candidate threatens to jail the other if hes victorious, the damage were doing to the Earth just couldnt rise above the damage thats being done to political discourse.], 56xvqw, 1476219938.0, 23
+271, [World needs $90tn infrastructure overhaul to avoid climate disaster, study finds], 567tfl, 1475817622.0, 25
+272, [Duke Energy has agreed to remove millions of tons of coal ash containing toxic heavy metals from a power plant in North Carolina], 563gia, 1475752600.0, 26
+273, [Sainsburys boss says supermarkets must be made to publish food waste data], 55tt7x, 1475621053.0, 23
+274, [Before the Flood director on how humanity is a mess & why we cant ignore climate change - The Academy Award winner talks about his new documentary, produced in part by Leonardo DiCaprio], 5a02e9, 1477769621.0, 22
+275, [World's largest marine park created in Antarctic Ocean | Twenty-four countries and the European Union agreed on Friday to create the world's largest marine park in the Antarctic Ocean, covering a massive 1.55 million square km (600,000 square miles) of ocean.], 59u5vx, 1477686981.0, 21
+276, [Taiwan beekeepers battle to cash in on pure honey buzz], 58y1sn, 1477248037.0, 23
+277, [95% of BLM land in a western Colorado valley known for a diversity of small organic farms about to be opened up for gas exploration/fracking, potentially damaging the regions ecosystem and polluting the water and soil vital to the areas way of life.], 58ibnq, 1477015210.0, 25
+278, [The left vs. a carbon tax: the odd, agonizing political battle playing out in Washington state], 585xbv, 1476849034.0, 25
+279, [By 2030, Four Out of 10 People Wont Have Access to Water - Experts predict that in just 14 years, the world will face a catastrophic water deficit.], 584lrl, 1476835620.0, 25
+280, [The True Cost of Industrialized Meat Production  And What You Can Do About It], 57ukon, 1476693078.0, 24
+281, [Worst flooding is yet to come in parts of North Carolina, governor warns], 57a05m, 1476390770.0, 25
+282, [Why its so hard to get solar in the Sunshine State (Florida)], 56hqaa, 1475973272.0, 23
+283, [Mediterranean warming fast, deserts may spread in Europe: study], 5a3z4e, 1477822052.0, 23
+284, [Extreme cold winters fuelled by jet stream and climate change], 59l9gs, 1477558894.0, 22
+285, [Iceland Is Drilling a 3-Mile Hole to Tap Magma Power], 58zzc0, 1477276671.0, 21
+286, [Ecologists are fiddling while our natural heritage burns, says Harvard scientist], 58vnky, 1477204793.0, 21
+287, [Climate change could recreate horror drought -], 58u6n1, 1477186410.0, 21
+288, [World Leaders Try to Ban Another Greenhouse Gas - Eliminating refrigerants known as HFCs could prevent a leap in global warming], 56xqpi, 1476217855.0, 21
+289, [Fossil fuels subsidised by $10m a minute, says IMF Environment], 55wl2d, 1475653627.0, 23
+290, [Dot-com millionaire crusades against Florida solar amendment - Taylor also said he has nothing against power companies but he doesnt like it when companies try to fool me with misleading causes.], 5ac0rb, 1477946886.0, 22
+291, [Clinton campaign declines to support Dakota pipeline protesters], 59r6qi, 1477638825.0, 19
+292, [NASA Already Says 2016 Will Be the Hottest Year on Record], 589q0s, 1476904514.0, 21
+293, [America's Southern Forests Are Being Decimated to Supply Europe With Energy: The southern U.S. has become the world's largest exporter of wood pellets. Now millions of acres of forests and hundreds of species are at risk.], 57gpwf, 1476485334.0, 19
+294, [Great Pacific Garbage Patch is denser than previously thought - Currents in the Pacific Ocean between Hawaii and California contain much of the ocean's plastic pollution, whose density was measured by the first-ever aerial survey, led by The Ocean Cleanup.], 56h2eq, 1475964156.0, 22
+295, [For the First Time, Bees Declared Endangered in the U.S.], 55ohwp, 1475541070.0, 20
+296, [New report says ExxonMobil (XOM) could be in a "potentially irreversible decline."], 59ve62, 1477701225.0, 19
+297, [The banana as we know it is in imminent danger - A genetic clone, the Cavendish banana that stocks supermarket shelves could easily be wiped out by disease. Science offers hope of a sustainable approach], 59aw41, 1477429429.0, 21
+298, [Renewables overtake coal as world's largest source of power capacity], 59apgf, 1477426876.0, 21
+299, [Why the Feds Won't Let You Keep Fossil Fuels in the Ground - These conservationists had a clever idea to block oil drilling. The government wasn't amused.], 59acba, 1477420572.0, 20
+300, [This author tried to save public lands from drilling by buying into the system. She got shut out.], 58wmj5, 1477218947.0, 19
+301, [Clinton could have KOd Trump on the environment | it would have been an issue that highlighted how out of touch the Trump campaign is with the greatest threat of our time], 58n2hw, 1477083635.0, 20
+302, [Documentary film-makers face decades in prison for taping oil pipeline protests], 58lt5u, 1477059310.0, 20
+303, [Activists who locked themselves inside Spectra AIM pipeline in Verplanck arrested], 571wil, 1476268111.0, 18
+304, [Does the fact that the sponsor of the US presidential "debates" is "Vote 4 Energy" (a front group of the American Petroleum Institute) explain why zero (0!) questions have been asked to the candidates about global warming?], 56tsax, 1476155742.0, 20
+305, [Growth of city trees can cut air pollution, says report], 5af0n2, 1477977022.0, 21
+306, [Is It More Important to You to Reduce, Reuse or Recycle?], 59y5bs, 1477732398.0, 17
+307, [As the Salton Seas decline looms, a rush to cover up dry lakebed - California's largest lake will soon begin shrinking rapidly. A deal moving increasing amounts of water to San Diego County & the Coachella Valley will cut sharply water flowing into the sea in 2018, speeding its decline.], 59tflw, 1477673229.0, 19
+308, [Toxins from freshwater algae found in San Francisco Bay shellfish. Study shows toxins from freshwater algal blooms, a growing problem in lakes and rivers worldwide, can also contaminate coastal waters and marine shellfish], 59rxaa, 1477648072.0, 18
+309, [Keeping the clocks forward could easily cut emissions. This 2010 study said it'd save 450,000 tonnes of CO2], 59nns7, 1477599689.0, 17
+310, [World on track to lose two-thirds of wild animals by 2020, major report warns], 59lozk, 1477564577.0, 19
+311, [These Solar Panels Pull Clean Drinking Water Straight From The Air], 58d9lc, 1476945028.0, 20
+312, [Record October Warmth Broils Parts of the US - It's as hot in Manhattan as in Maui today, as record-high temperatures put autumn weather on hold in parts of the U.S.], 58a0rm, 1476909352.0, 20
+313, [Apple growers explain how rising temperatures wreak havoc on their orchards], 57ycvu, 1476751673.0, 19
+314, [BP has decided not to go ahead with its controversial plans to drill for oil in the commonwealth marine reserve in the Great Australian Bight.], 56wav1, 1476187574.0, 19
+315, [England's fee for plastic bags is working], 55u1r9, 1475623959.0, 19
+316, [The most likely predictor of having a solar panel was having a neighbour who had installed one], 55j3im, 1475456563.0, 19
+317, [Is New York Ready for Solar Power?], 55ikee, 1475449402.0, 19
+318, [Eating Insects Can Give You All The Minerals Found In Beef. Feeding a planet of 7 billion people (and counting) will be one of the great challenges of the 21st century, especially since traditional agriculture can have seriously negative effects on climate and the environment. So, why not bugs?], 5a24oh, 1477797919.0, 18
+319, [Amy Goodman on Why the North Dakota Pipeline Standoff Is Only Getting Worse], 5a0j7m, 1477778088.0, 20
+320, [With New Study in Hand, Pennsylvanians Reiterate Call for Fracking Ban], 59na4f, 1477593211.0, 16
+321, ['The atmosphere is being radicalized' by climate change | To paraphrase Donald Trump, this is radical atmospheric change and Republicans wont even mention the words], 594ae6, 1477341788.0, 17
+322, [Storms are getting Stronger. A CATEGORY 6 Hurricane coming?], 58ygf8, 1477256641.0, 18
+323, [Shailene Woodley: I Was Arrested Fighting Dakota Pipeline], 58k2ll, 1477034332.0, 19
+324, [Forests in southern states are disappearing to supply Europe with energy], 583jbi, 1476823120.0, 18
+325, [The U.S. government just made its biggest clean energy purchase ever | will power roughly one-third of the electricity needs of 14 naval installations in the state, including San Diegos naval base and the Marines Twentynine Palms and Camp Pendleton.], 57xbek, 1476739812.0, 17
+326, [New report shows that 650,000 children nationwide spend their days within a mile of an oil or gas fracking operation.], 57hjzy, 1476494816.0, 18
+327, [Hawaii fishermen, scientists cooperate on sustainability research], 57ah4m, 1476397123.0, 19
+328, [Sandy's Surge Was Extreme. It Could Become Normal | The potential for stronger storms and rising seas mean Sandy-level flooding could could occur once every 23 years as opposed to once every 400.], 56xxm7, 1476220683.0, 16
+329, [Global warming doubles size of forest fires in US West, study finds | Forests covering an area the same size as Denmark have been lost to fires caused by climate change in the US West over the past 30 years, researchers say], 56x4ep, 1476204737.0, 17
+330, ["A privately funded great white shark research group has confirmed the waters off Long Island's Montauk Point are a 'nursery,' a first in the study of great whites in the northwest Atlantic Ocean, the organization and other leading scientists say."], 564qaj, 1475778395.0, 17
+331, [Americas Most Environmentally Conscious Restaurant Happens to Serve Amazing Food | There are things about The Perennial that come off as very Portlandia, and the restaurants co-founder, Karen Leibowitz, is the first to make that claim.], 55z7h4, 1475699317.0, 16
+332, [Trudeau Says Canada to Implement Carbon Tax], 55reb1, 1475577024.0, 18
+333, [What? Army Corps Suddenly Decides Coal Trains Won't Harm Salmon-Filled Columbia River], 59o833, 1477606965.0, 16
+334, [Another named storm (SEYMOUR) formed. Its the 18th named storm of Eastern Pacific this year], 5933qc, 1477318697.0, 15
+335, [Air Force studies dating back decades show danger of foam that contaminated local water], 592458, 1477303069.0, 17
+336, [Sunoco gas pipeline ruptures in Lycoming County.], 58qs9k, 1477127226.0, 16
+337, [Whats killing the scrotum frogs? | Around 10,000 endangered frogs have been found dead at Peru's Lake Titicaca. It's the only place where the amphibians live. Now, an investigation into the die-off has begun.], 58m9t4, 1477069246.0, 16
+338, [Vegetables Will Replace Meat by 2020And Millennials Are Driving the Shift], 58a730, 1476911711.0, 17
+339, [Are Brazil's Deforesters Avoiding Detection?], 57s1td, 1476662524.0, 16
+340, [Oil Industry Has More Than 30 Accidents a Week in and Off the Coast of Louisiana], 57kfsj, 1476532441.0, 19
+341, [The Road to a Post-Meat World Starts in China], 56gycm, 1475962238.0, 17
+342, [Romania bans trophy hunting of brown bears, wolves, lynx and wild cats | Unexpected move reverses a trend that has seen increasing numbers of large carnivores shot by hunters each year since Romanias accession to the European Union], 564e2f, 1475770343.0, 17
+343, [BP platform leaks 95 tonnes of oil into North Sea | Environment], 55uh8s, 1475629053.0, 17
+344, [Melting Ice Raised Sea Levels More Than Previously Thought, Study Says | Sea level rise due to the Greenland ice melt, for instance, has been underestimated by 28 percent, the study said, while the sea level drop from the melting Alps was underestimated by 5 percent.], 59u85v, 1477687825.0, 17
+345, [Fewer Polluters Criminally Prosecuted as EPA Cowers From GOP Attacks], 59jnu5, 1477540272.0, 17
+346, [North Dakota Police Out Of Control In Crackdown On Dakota Access Pipeline Protests], 598bdm, 1477386386.0, 16
+347, [Climate Change Has Turned Bolivias Glaciers Into Time Bombs | Between 1986 and 2014, Bolivian glaciers became 43 percent smaller as temperatures in the Andes Mountains increased by 0.7C in 50 years.], 58myz0, 1477082261.0, 17
+348, [Pulses of Water Bring Life to the Famished Colorado River], 58mhzg, 1477074092.0, 18
+349, ["[Wednesday night], activists faced off with President Obama in Ohio with a clear message: keep fossil fuels in the ground!"], 57ngk3, 1476586026.0, 18
+350, [Gore and Clinton Hold a Wonkfest [Talk about Climate]], 5759jl, 1476321574.0, 14
+351, [Clinton speeches shows she supports fracking, calls anti-fracking groups "Russia-backed"], 56xg8i, 1476212477.0, 18
+352, [Here's what Donald Trump really thinks of America's scientists: And what one of them thinks of him.], 56rtv1, 1476133208.0, 15
+353, [Catholic groups announce massive divestment from fossil fuels], 560g9l, 1475714964.0, 15
+354, [Fracking Industry's New Plan? Prosecute Those Who Push Drilling Bans], 55u801, 1475626001.0, 17
+355, [Help the Environment! :)], 55qs86, 1475568279.0, 17
+356, [Intensive farming 'endangers a third of German species'], 5a5e5j, 1477850393.0, 15
+357, [Powerful Photos from the Dakota Access Pipeline Protest as Cops Prepare to Make Arrests], 59w9lk, 1477710130.0, 15
+358, [Fracking Linked to Cancer-Causing Chemicals, New YSPH Study Finds (Yale School of Public Health)], 59r5bl, 1477638352.0, 16
+359, [Musk Throws Pie at Naysayers as Tesla Posts Rare Profit - expects to get through the rest of the year without raising cash, easing one concern for investors as it expands production of electric cars and prepares to acquire money-losing SolarCity Corp.], 59nlhg, 1477598742.0, 13
+360, [Northeast United States welcomes new national wildlife refuge], 59n5lm, 1477590721.0, 15
+361, [Charges dropped against coal train blockaders in Bellingham], 59km2k, 1477550680.0, 15
+362, [Green Energy Has Finally Overtaken Coal], 59gzic, 1477509857.0, 16
+363, [Pirate fishing damages the environment and costs the economy $23.5 billion each year. Here are 7 things that governments, scientists, and ordinary citizens are doing to stop the pirates in their tracks], 58pv33, 1477115395.0, 17
+364, [Global warming could push millions into extreme poverty], 58988p, 1476894301.0, 13
+365, [Hillary Clinton dismissed climate activists in withering terms during a meeting with labor unions last year, saying the environmentalists pressing her to renounce fossil fuels should "get a life," according to allegedly hacked emails released Friday by WikiLeaks.], 57nbgc, 1476584226.0, 13
+366, [Gas Industry Challenges New Drilling Rules in Pennsylvania], 57h0zv, 1476488980.0, 17
+367, [New York City could see Sandy-like storm every 2 decades, study says], 56xpvw, 1476217476.0, 15
+368, [Upsetting Billionaires at Standing Rock], 56jnw2, 1475998552.0, 15
+369, [Deepwater Horizon oil spill impacted bluefin tuna spawning habitat in Gulf of Mexico], 55x9ya, 1475662753.0, 17
+370, [A $500,000 federal grant will go toward a Kaluaaha Ranch conservation easement project in East Molokai, protecting 969 acres to support the recovery of endangered species and minimize muddy runoff onto the nation's largest fringing coral reef.], 55wfpm, 1475651645.0, 16
+371, [Americans Are More Torn Over Climate Change Than Ever, Pew Study Reveals], 55tnen, 1475619013.0, 16
+372, [Planet at its hottest in 115,000 years thanks to climate change, experts say], 55sclk, 1475594026.0, 16
+373, [Powerful quake hits central Italy again], 5a50ic, 1477840675.0, 14
+374, [This Natural Disaster Assistance Law Is Why Other States Are Policing Dakota Access Pipeline Protests], 5a1uub, 1477794755.0, 13
+375, [China shifts from red-alert pollution to green energy], 59ue2v, 1477689988.0, 15
+376, [Strange Pumping Effect above Asia Threatens the Ozone Layer], 59tq4l, 1477679583.0, 15
+377, [Wind and solar firms see federal rule change pushing costs up], 59tgll, 1477673907.0, 14
+378, ['Silence Is Not Acceptable': Indigenous Youth Demand Clinton Take Stand on DAPL (CommonDreams.org)], 59q2bg, 1477626327.0, 14
+379, [Hawaii agriculture officials are recommending that the quarantine on ohia trees be made permanent to help prevent the spread of a deadly fungus.], 58vg30, 1477202049.0, 14
+380, [A water treatment plant near where a gasoline pipeline ruptured in Pennsylvania, spilling about 55,000 gallons into a creek, has been shut down as a precaution], 58rhos, 1477138179.0, 15
+381, [Missouri identifies new groundwater contamination at and surrounding Bridgeton Landfill], 58nu98, 1477092857.0, 14
+382, [US energy shakeup continues as solar capacity set to triple], 58natq, 1477086573.0, 14
+383, [Global warming continues; 2016 will be the hottest year ever recorded | 2016 blows away 2015 which was previously the hottest year ever and that had beaten 2014 as the hottest year ever  call this a three-peat.], 58mxmk, 1477081709.0, 14
+384, [Health Problems from Common Chemicals Cost $340 Billion Per Year: Study - Scientists are calling for stronger regulation], 58a51t, 1476910998.0, 16
+385, [A year after a leaking well near Los Angeles spewed natural gas for nearly four months and drove thousands from their homes, a White House task force is recommending dozens of safety changes for the nation's 400 underground natural gas storage wells], 584emr, 1476833524.0, 12
+386, [Exxon Now Seeks to Block New York Attorney General's Climate Probe], 583jp3, 1476823258.0, 15
+387, [Peru's environmental agency is investigating the deaths of some 10,000 frogs whose bodies have been found in a river in the south of the country.], 5820es, 1476794275.0, 15
+388, [A 600-Year-Old Oak Tree Finally Succumbs], 57vuwx, 1476712298.0, 13
+389, [Bobcats, cougars, and coyotes get a stay of execution in Nevada], 57kywa, 1476542764.0, 14
+390, [Monsanto-Bayer: The Year of Merging Dangerously], 57glsx, 1476483929.0, 15
+391, [Researchers unveil supramolecule that help reduce nuclear and agricultural waste], 57afy7, 1476396713.0, 15
+392, [Californians May Be Drinking Cancer-Causing Oil Industry Chemicals: Scientists identify carcinogenic substances in oilfields supplying wastewater to irrigate food crops], 56rx7e, 1476134533.0, 13
+393, [World moves to offset airplane emissions in landmark deal], 56coqd, 1475891670.0, 16
+394, [Warning to forest destroyers: this scientist will catch you], 5639vw, 1475749858.0, 15
+395, [When scientists tracked tree growth throughout the city of Raleigh, they found urban warming curbs both tree growth and photosynthesis. They also found pests, including scale insects and spider mites, were more abundant among trees at warmer sites.], 560qq9, 1475718235.0, 15
+396, [Solar panels surpass coal-fired electricity in previously unthinkable feat in the UK], 55w5dk, 1475647972.0, 14
+397, [Justin Trudeau gives provinces until 2018 to adopt carbon price plan - Provinces and territories that choose a cap-and-trade system must decrease emissions in line with both Canada's target and with the reductions expected in jurisdictions that choose a price-based system.], 55ta2w, 1475613708.0, 14
+398, [58% decline in vertebrate wildlife since 1970], 5a14ew, 1477786050.0, 13
+399, [Phoenix reaches record high of 100 degrees], 59r0th, 1477636847.0, 14
+400, [The Serious Dangers and Health-Risks of Using Plastic], 59pr81, 1477623154.0, 12
+401, [Protected Forests on Public Land Burn Less Severely Than Logged Areas], 59j2pq, 1477534117.0, 13
+402, [A Sustainable Food System Could Be A Trillion-Dollar Global Windfall], 58l331, 1477047667.0, 11
+403, [Standing Rock Sioux Pediatrician: Threat from Fracking Chemicals is "Environmental Genocide"], 58dt98, 1476951668.0, 13
+404, [Climate change means no airport expansion, at Heathrow or anywhere | George Monbiot | Opinion], 5893i6, 1476891321.0, 12
+405, [When Glaciers Transform Into Deadly 150-MPH Avalanches: After happening only once in the 100-year record, catastrophic glacial collapse occurred twice in Tibet this summer.], 584up1, 1476838154.0, 12
+406, [The past two weeks are a perfect illustration of what solving climate change will look like], 5823mt, 1476795723.0, 14
+407, [Strict pesticide rules fail to erase threat to Wisconsins drinking water], 57qnck, 1476636716.0, 13
+408, [UN moves to ban 'fastest growing' greenhouse gases:HFCs were introduced to limit damage to the ozone layer, but cause much greater levels of global warming than CO2], 57aqh9, 1476400199.0, 12
+409, [The Climate Change Election That Never Came: For environmental activists and journalists, it ain't easy being green.], 579o8u, 1476385340.0, 12
+410, [Plans for an electric car charging point in every new home in Europe: Car manufacturers welcome plans by the EU to boost the convenience of electric cars by increasing recharging facilities], 56xkap, 1476214768.0, 13
+411, [Cancer-Causing Chemicals Found In Water Used To Irrigate Food Crops], 56sd6d, 1476140384.0, 13
+412, ["The CEO of Germany's Bayer AG is promising it won't use its planned acquisition of Monsanto Co. to force genetically modified crops on skeptical Europeans."], 56r970, 1476122072.0, 12
+413, [Pesticide Cocktails: How The EPA Ignores Environmental Safety And Health Standards], 56ob8v, 1476076307.0, 14
+414, [Bees can teach each other new tricks], 56brxa, 1475881220.0, 15
+415, [California will tighten rules on how much farmers can use a common pesticide listed by the nation's most productive agricultural state as a chemical known to cause cancer], 568nqr, 1475828611.0, 14
+416, [Liquid assets: how the business of bottled water went mad], 564nd2, 1475776598.0, 14
+417, [Melka Group Deforestation Damage in Peru Amounts to $111M], 560q10, 1475718010.0, 14
+418, [Solar outstrips coal in past six months of UK electricity generation], 55t0n4, 1475609081.0, 13
+419, [World's wildlife being pushed to the edge by humans], 59qu4z, 1477634682.0, 13
+420, [Solar Power Capacity Tops Coal for the First Time Ever], 59dqt3, 1477460346.0, 12
+421, [Factory Farms Get Bigger, Pollution Grows, but Regulators Don't Even Know Where They Are], 594i55, 1477344617.0, 12
+422, [Iceland drills hottest hole to tap into energy of molten magma], 58tw4z, 1477182849.0, 11
+423, [An Astronaut's Final Mission: Fight Climate Change and Cancer | Climate scientist Piers Sellers, featured in Leonardo DiCaprios new documentary, Before the Flood, discusses his life and time in space.], 58n6xv, 1477085209.0, 11
+424, [Literally nothing said in this debate.], 58eh4c, 1476959449.0, 12
+425, [World's mammals being eaten into extinction, report warns - First global assessment finds 301 species are primarily at risk from human hunting for the bushmeat trade], 589nnm, 1476903300.0, 12
+426, [Billions of Gallons of Animal Waste From Factory Farms Poses Health Risks in Wake of Hurricane Matthew], 57t3nh, 1476674784.0, 12
+427, [The Many Ways Farmer's Markets and Small Family Farms Are Essential to Our Future], 57pbn2, 1476611169.0, 12
+428, [Standing Rock: A New Moment for Native-American Rights - The New Yorker], 57b5ni, 1476404889.0, 12
+429, [Clinton Rally Focuses on Climate: Al Gore tells crowd that Hillary Clinton will make the climate crisis a national priority], 575jna, 1476324542.0, 14
+430, [In 5 Years, China Could Build More EV Chargers Than the Rest of the World Combined | China was installing an average of 170 charging stations a day in the first half of this year. And Chinese officials were planning to increase the rate of installations even further.], 573s0y, 1476303905.0, 14
+431, [South Africa basks in continent's first solar-powered airport], 56n2n1, 1476061238.0, 13
+432, [Smogathon, an air-pollution-centered hackathon, is looking for startups and students who have ideas on fighting smog/improving air quality. The winner gets $25K!], 56m3v9, 1476047426.0, 14
+433, [In Maine, debating whether it's OK to make money off the melting of the Arctic], 56b7gu, 1475873734.0, 13
+434, [We Should Embrace the Clean Meat Revolution], 56b5x6, 1475873113.0, 13
+435, [Methane, methane everywhere: Much comes from fossil fuels], 56aw72, 1475868691.0, 13
+436, [Looming megadroughts in western US would make current drought look minor], 563wg9, 1475759942.0, 10
+437, [New Wind Turbines Could Power Japan for 50 Years After a Single Typhoon], 562w15, 1475744431.0, 12
+438, [In Rural Bangladesh, Solar Power Dents Poverty], 55xlz2, 1475667367.0, 12
+439, [The World War to Save Livable Ecology], 55tvpq, 1475621921.0, 12
+440, [Delhi chokes on toxic smog after Diwali festival], 5abpzs, 1477942512.0, 12
+441, [Colorado River's dead clams tell tales of carbon emission - Scientists have begun to account for the topsy-turvy carbon cycle of the Colorado River delta  once a massive green estuary of grassland, marshes & cottonwood, now desiccated dead land.], 5a0066, 1477768272.0, 12
+442, [Red, Race and Blue: Bill McKibben and other activists are calling for a World War II-style mobilization to fight climate change. But would Americans trust the government to carry it out?], 59rwxy, 1477647948.0, 9
+443, [WHO Asked Experts to Withhold Weedkiller Documents Disclosing Cancer Link], 59rc95, 1477640663.0, 12
+444, [Climate change rate to turn southern Spain to desert by 2100, report warns: Mediterranean ecosystems will change to a state unprecedented in the past 10,000 years unless temperature rises are held to within 1.5C, say scientistsEnvironment], 59q2qw, 1477626450.0, 9
+445, [Landmark case to hold coal trains accountable for pollution will go forward], 59psr3, 1477623611.0, 10
+446, [Taking Down Dams and Letting the Fish Flow], 59c7jl, 1477444126.0, 9
+447, [Hacked emails reveal plan to counter Rupert Murdoch's climate denial - Emails sent to Hillary Clintons campaign chairman John Podesta reveal $3m campaign aimed to put media mogul on the defensive and help conservative politicians support global warming action], 59awpx, 1477429652.0, 11
+448, [Scientists just showed what it truly means when a huge Antarctic glacier is unstable], 595bri, 1477354045.0, 10
+449, [Why are environmental negotiations being led by polluting industries?], 58s1p3, 1477148758.0, 9
+450, [The Radical, Grassroots-Led Pirate Party Just Might Win Icelands Elections: Climate change is in our faces, and nobody gives a fuck, Jnsdttir says. She argues that Iceland could be fossil-fuel-free in the near future, if it only set its mind to it."], 58oj1j, 1477100484.0, 9
+451, [Hurricane Matthew Brought 1,000-Year Record Rainstorms to North Carolina - The record rainfalls intensified thanks to a warming climate, experts say.], 58n07l, 1477082747.0, 11
+452, [Leaked Recording Reveals Plan to Confuse Florida Voters About Solar Amendment | Its part constitutional amendment, part psychological warfare.], 58ggnz, 1476993983.0, 9
+453, [Donald Trump Is the First Demagogue of the Anthropocene: "Climate mitigation is a worthy goal in itself. It is all the more important when understood as one more type of long-term anti-fascism."], 58avqo, 1476919858.0, 11
+454, [No longer taken seriously, we're seeing the last gasp of climate denial groups | We should be have a climate debate about the best policies to solve the problem. Groups that deny the problem by misrepresenting science only serve to distract from that much-needed debate], 589zjr, 1476908846.0, 13
+455, [Clinton Told Climate Change Activists To Get A Life], 583cxj, 1476820638.0, 12
+456, [A reliance on negative emissions technologies is locking in carbon addiction], 57v4vl, 1476700813.0, 13
+457, [Cuba's Sustainable Agro-Ecological Model Could Save the World], 57uao7, 1476689417.0, 9
+458, [North Dakota Prosecutor Charges Amy Goodman with Rioting], 57o0cb, 1476593074.0, 9
+459, [What we lose when we lose the worlds frogs], 57izdv, 1476511060.0, 9
+460, [Climate Scientist Warns That We Arent Doing Enough To Fight Climate Change], 56s0kf, 1476135915.0, 13
+461, [Could the Lone Star tick be an unintended tool for battling climate change? Its bite can induce an allergy to red meat.], 569664, 1475835733.0, 10
+462, [A Case Study In How Chevron Ravaged The Amazon With Little To No Repercussions], 55vkou, 1475641217.0, 10
+463, [EU backing tips Paris climate deal over threshold to enter into force | The Paris Agreement, backed by nearly 200 nations nearly one year ago, will help guide a radical shift of the world economy away from fossil fuels in an effort to limit heat waves, floods, droughts and rising sea levels.], 55t8ob, 1475613035.0, 10
+464, [Nepal's army says it has finished draining a dangerous glacial lake near Mount Everest to a safe level. The Imja glacial lake, at nearly 5,000m (16,400ft) high, was in danger of flooding downstream settlements because of accelerated melting of glaciers amid rising global temperatures], 5a9ohc, 1477906653.0, 9
+465, [Standing Rock Solid with the Frackers: Are the Trades Putting Labor's Head in the Gas Oven?], 5a0a56, 1477773927.0, 10
+466, [World's Largest Marine Reserve Created Off the Coast of Antarctica], 59zfia, 1477754487.0, 8
+467, [Golf Balls Littering Ocean Floor Near Pebble Beach Links], 59qkuw, 1477631810.0, 12
+468, [We've lost more than half the world's wildlife since 1970], 59p64j, 1477617049.0, 10
+469, [Jon Stewart buys Colts Neck farm for $4M for animal sanctuary, education center], 59oonp, 1477611965.0, 9
+470, [World on track to lose two-thirds of wild animals by 2020, major report warns], 59o7iz, 1477606769.0, 11
+471, [How much money can Nestle make selling Canadian drinking water to USA?], 59ippk, 1477530449.0, 8
+472, [When the Panama Canals expanded locks slid open in late June, perhaps no one was happier than executives in the U.S. shale industry], 59ieu1, 1477527340.0, 10
+473, [Dutch unveil giant vacuum to clean outside air], 59feov, 1477480878.0, 10
+474, [Whaling nations block South Atlantic sanctuary plans - Conservation groups dismayed as Japan & other pro-whaling nations vote against plans for a protected area for whales, dolphins & porpoises], 59a6dw, 1477417394.0, 9
+475, [Did These Climate Change Campaigners Miss the Point?], 58u6cu, 1477186318.0, 11
+476, [Coal plant threatens Bengal tiger ecosystem | MINING.com], 58db0y, 1476945497.0, 9
+477, [As climate change floods Florida, Marco Rubio refuses to acknowledge it - Rubio said cutting emissions wont help sea level rise.], 584lgf, 1476835536.0, 8
+478, [Grief and anger for Pedals: More evidence bipedal New Jersey bear was killed], 583h1u, 1476822271.0, 11
+479, [New Zealand plankton blooms proof of global warming's oceanic effects], 57y5tj, 1476749624.0, 10
+480, [Environmental Official Shot Dead in Brazil as Attacks on Land Defenders Rise in Latin America: Two men shot the official, Luiz Araujo, seven times as he drove up to his home], 57v3p7, 1476700343.0, 10
+481, [How thawing permafrost is destroying Arctic cities], 57ugn0, 1476691572.0, 12
+482, [Unions for green jobs: Why organized labor is getting behind offshore wind], 57pzs1, 1476622074.0, 9
+483, [Crescent Dunes: 24 Hours on the Sun], 577o3z, 1476349549.0, 8
+484, [World's Largest Solar Project Would Generate Electricity 24 Hours a Day, Power 1 Million U.S. Homes], 576hlf, 1476334781.0, 9
+485, [Death toll climbs as floods swamp North Carolina after Hurricane Matthew | Matthew, the most powerful Atlantic storm since 2007, killed at least 1,000 people in Haiti last week before barreling up the U.S. southeastern coast and causing at least 30 deaths in Florida, Georgia and the Carolinas.], 573toy, 1476304632.0, 8
+486, ["the Army will not authorize constructing the Dakota Access Pipeline on Corps land bordering or under Lake Oahe" Statement by DoJ, DoA, & DoI], 56z4tl, 1476234939.0, 12
+487, [Fracking is a form of climate-change denial], 56x8eq, 1476207466.0, 10
+488, [Hurricane Matthew kills 22 in US as flooding endangers North Carolina], 56x3v2, 1476204355.0, 11
+489, [Climate change has been making western forest fires worse for decades, study says], 56ukzl, 1476164574.0, 10
+490, [The New Climate Denialism: Time for an intervention], 56rzgb, 1476135465.0, 9
+491, [World Bank says Paris climate goals at risk from new coal schemes], 56qv3h, 1476112817.0, 8
+492, [Kenya: Govt to Tap Solar Energy in Arid Counties for Use in Schools], 56m6yg, 1476048933.0, 11
+493, [Pacific walrus arriving ashore in Alaska; scientists cite climate change], 56h004, 1475963025.0, 10
+494, [Oil, Gas and Cows Culprits in Methane Spike, Study Says], 56dxah, 1475906402.0, 8
+495, [LEDs are so efficient you rarely need to change them, but what does that mean for the business side of the industry?], 569fxc, 1475839671.0, 12
+496, [Fuel for my wood burning stove is free, but what are the costs on the environment compared to other heating sources?], 55wowu, 1475655008.0, 10
+497, [Social Theory Suggests Solar Power Is About To Explode.], 55vegv, 1475639284.0, 11
+498, [Government of Canada gives provinces until 2018 to adopt carbon price plan], 55q4fn, 1475559597.0, 11
+499, [A Diesel Spill Is Putting the World's Largest Temperate Rainforest at Risk], 5ag5z8, 1477989363.0, 9
+500, [The tiresome discussion of initial GMO expectations], 5abx6t, 1477945556.0, 9
+501, [Almost one in seven children worldwide live in areas with high levels of outdoor air pollution, mostly in South Asia, and their growing bodies are most vulnerable to damage, the U.N. children's agency UNICEF said], 5a9cmr, 1477902533.0, 7
+502, [Can 'Years of Living Dangerously' make climate change a voting issue?], 5a7g79, 1477880983.0, 7
+503, [Why America's Dirtiest Power Companies Are Investing Billions in Clean Energy], 5a0t1h, 1477782059.0, 9
+504, [How the right is attempting to subvert the Carbon Tax in Washington and blame the left], 59usc2, 1477694774.0, 8
+505, [World's Largest Marine Reserve Created Off Antarctica, in the Ross Sea], 59rl7a, 1477643672.0, 8
+506, [Is anyone in the Environmental Science field willing to participate in a brief interview regarding your occupation?], 59ddr4, 1477456423.0, 7
+507, [IEA raises five-year renewables forecast after record 2015 growth | In terms of installed capacity, renewables surpassed coal last year to become the largest power source in the world, the IEA said.], 59axam, 1477429857.0, 9
+508, [Industrial scars: The environmental cost of consumption in pictures], 599zvc, 1477413438.0, 7
+509, [Living in Chinas Expanding Deserts - People on the edges of the countrys vast seas of sand are being displaced by climate change.], 594kfa, 1477345438.0, 11
+510, [Climate change is shifting areas of skin disease concern | In the U.S., for example, the incidence of the tick-borne Lyme disease increased from an estimated 10,000 cases in 1995 to 30,000 in 2013, and the area where it occurs keeps expanding from New England north into Canada], 594dz3, 1477343134.0, 7
+511, [Environment group named in WikiLeaks email release responds to attacks - The low-profile Australian group Sunrise Project hits back at coal lobby after being criticised over funding sources shown in hacked US Democratic emails], 594cj0, 1477342612.0, 7
+512, [Exclusive: Q&amp;A with Filmmaker Deia Schlosberg on Her Arrest While Filming an Activist Shutting Down a Tar Sands Pipeline], 58jnc2, 1477029382.0, 10
+513, [The worlds largest mangrove forest is in danger if a massive coal-fired power plant is not cancelled or moved, the World Heritage Center warns in a new report], 58i97a, 1477014491.0, 9
+514, [San Francisco Bay Area Makes History With Wetland Restoration Measure], 58cdl3, 1476935403.0, 9
+515, [How To Grow Our Own Fresh Air Inside Our Homes], 589nuz, 1476903408.0, 7
+516, [New analysis of natural gas storage warns of significant consequences from leaks. The 400 natural gas storage facilities across the country are under-regulated and ill-maintained, officials find.], 588re9, 1476884731.0, 11
+517, [The Bear That Walked Like a Human May Have Been Killed by One - Fans of the New Jersey bear Pedals mourn the presumed slaying by a hunter of a resilient animal that had overcome a disability.], 584umo, 1476838130.0, 9
+518, [Factory farming practices are under scrutiny again in N.C. after disastrous hurricane floods], 58401p, 1476828913.0, 8
+519, [US Ignored Rising-Sea Warnings at Radar Site], 583hso, 1476822555.0, 9
+520, [GE Buys LM Wind Power For $1.6B], 582hbi, 1476802630.0, 10
+521, [A 600-Year-Old Oak Tree Finally Succumbs to recent temperature records is latest victim of climate change.], 57vk9t, 1476707203.0, 9
+522, [Hillary Clinton: "I want to defend fracking" - The transcript is in the attachment tab.], 57phto, 1476613800.0, 8
+523, [UK targets households in effort to reduce food waste], 57m3lt, 1476567777.0, 8
+524, [Breaking Ground on a Bold New Vision to Address Climate Change: Restoring North America's Amazon], 57lrnh, 1476561991.0, 9
+525, [Filmmaker Arrested At Pipeline Protest Facing 45 Years In Felony Charges (huffingtonpost.com)], 57ioeo, 1476507340.0, 10
+526, [A collapse in Arctic sea ice volume spells disaster for the rest of the planet], 57hj78, 1476494588.0, 8
+527, [Electric cars set to get road priority in clean air zones - BBC News], 57gqyt, 1476485715.0, 7
+528, [The biggest climate change story in the world this week is quietly playing out in Rwanda], 579qxg, 1476386746.0, 10
+529, [BP ditches plans to drill for oil in the Great Australian Bight], 56vtof, 1476180679.0, 10
+530, [How Florida Residents May Lose The Battle For Attainable Solar Energy], 56tjqa, 1476153401.0, 9
+531, [World leaders are considering ban of refrigerants to improve climate status], 56s1te, 1476136390.0, 10
+532, [Resurrection of Old Tungsten Light Bulbs, Up to 700% more efficient than LED Lights Bulbs], 56rkxs, 1476129165.0, 9
+533, [Duke Energy to Remove Coal Ash From North Carolina Plant], 56h59q, 1475965372.0, 7
+534, [California tightens rule on popular pesticide, citing health], 56g38x, 1475942848.0, 10
+535, [Fracking in Lancashire given go-ahead by government - BBC News], 56bu3v, 1475881921.0, 10
+536, [Earths Climate Exceeded Its Tipping Point and Nobody Cares], 567nt5, 1475815828.0, 8
+537, [Pew survey: Republicans are rejecting reality on climate change], 566s7i, 1475806185.0, 11
+538, [U.S. Southwest faces 99% risk of 'megadroughts' due to climate change], 561aks, 1475724473.0, 10
+539, [The worlds garbage problem is a whole lot worse than we thought], 560dvh, 1475714203.0, 7
+540, [BP Platform Leaks Oil Into North Sea With No Plans to Clean It Up], 560b08, 1475713323.0, 10
+541, [Bees Added To U.S. Endangered Species List For 1st Time], 55w53j, 1475647878.0, 10
+542, [Young Peoples Burden  Climate Science, Awareness and Solutions > The lawsuit against USA government], 55uzoc, 1475634745.0, 8
+543, [Where the veep candidates stand on climate and energy], 55tcqw, 1475614873.0, 8
+544, [What a Donald Trump EPA Will Look Like With Climate Change Skeptic Myron Ebell at the Helm | Ebells harsh rebuke of the popeespecially this pope, revered as a champion of the poorand his other writings offer a glimpse of what a Trump EPA might look likeboth in substance and in style.], 55t9k0, 1475613454.0, 10
+545, [Climate Change; The Debate We Need | During my campaign for president, I had the opportunity to visit college campuses all across the country. Without fail, the students I spoke with identified climate change as one of the mostif not, the mostpressing issues facing our nation.], 55njrv, 1475528783.0, 10
+546, [Using gravity to light up homes], 55iqnk, 1475451830.0, 9
+547, [NoDAPL Action needed ASAP.], 5adgcr, 1477962083.0, 8
+548, [Existential Crisis], 5abvsi, 1477945035.0, 7
+549, [Discussion: What businesses will grow in necessity after more people start acknowledging climate change?], 5a9evr, 1477903291.0, 10
+550, [A landmark international agreement to create the worlds largest marine park in the Southern Ocean has been brokered in Australia, following five years of compromises and failed negotiations. Over 1.5m sq km of the Ross Sea around Antarctica will be protected under the deal], 59ruoa, 1477647150.0, 10
+551, [Humans Are About To Kill Off Two-Thirds Of All Wildlife In Just 50 Years], 59oelv, 1477608998.0, 9
+552, [Presence Of Atrazine In Wisconsin Water Prompts Restriction Questions], 59oejq, 1477608983.0, 9
+553, [Half a Kilometer of Ice Gone in Just 7 Years], 59lcpw, 1477560063.0, 7
+554, [Washington state 'grossly' unprepared for major quake -report], 59i0wk, 1477523304.0, 8
+555, [Whaling nations harpoon Brazils bid for South Atlantic sanctuary], 59gj3u, 1477500860.0, 9
+556, [World has entered new climate reality - UN weather chief | Global average CO2 concentrations breached symbolic milestone of 400ppm for the first time in 2015, while temperatures soared], 59ango, 1477426034.0, 10
+557, [Acadian Peninsula's recycling program exceeds expectations], 592mjh, 1477310431.0, 8
+558, [Is Resilience to Climate Change Good for Business?], 58ytdb, 1477262327.0, 10
+559, [You're not doing the environment a favor by eating chicken instead of beef], 58tzdq, 1477183962.0, 6
+560, [Its Nonsensical That Environmentalists Are Against the Countrys Possible First Carbon Tax], 58pz4r, 1477116727.0, 6
+561, [Dozens treated after chemical accident in northeastern Kansas], 58pg6g, 1477110739.0, 9
+562, [Giving Up Beef Is The Key To Global Stability], 58nqcf, 1477091652.0, 9
+563, [Schneiderman says a 'dark money machine' is bolstering Exxon's push against his office - The First Amendment is not designed to protect three-card monte dealers, Schneiderman said. You cant commit fraud and argue, Oh, Im exercising my First Amendment rights.], 58gl54, 1476995793.0, 7
+564, [Typhoon Haima may dump more than a foot of rain on the northern Philippines | Typhoon Haima, which on Tuesday became the planet's seventh Category 5 storm of the year, is slamming northern Luzon in the Philippines with damaging winds, storm surge flooding and heavy rains.], 58gkni, 1476995602.0, 8
+565, [Going Dutch on recycling pays off], 58curp, 1476940395.0, 6
+566, [All Polar Bears Across The Arctic Face Shorter Sea Ice Season], 589k1q, 1476901332.0, 8
+567, [(Japan Post-3/11) Survey: 57% oppose rebooting nuclear reactors, 29% in favorThe Asahi Shimbun], 588cvq, 1476878118.0, 7
+568, [Researchers highlight hidden costs of hormone disrupting chemicals], 586kpw, 1476855753.0, 8
+569, [Air Force wants more training space at wildlife refuge in Nevada], 57zgfz, 1476763096.0, 9
+570, [Pesticide Ingredients Found in Dolphins, Bird & Fish Raise Serious Concerns - The widespread & persistent presence of organic pollutants should worry regulators & the public.], 57tisd, 1476679710.0, 7
+571, [Appetite for destruction: You dont have to be a vegetarian to see that our eating meat is killing the planet - Everything we eat has a carbon footprint but heavily carnivorous diets are a leading cause of greenhouse emissions], 57t3rw, 1476674822.0, 9
+572, [Worlds most remote village will become self sufficient], 57m8xh, 1476570122.0, 9
+573, [Crisis in Flint Underscores a National Problem], 57m1ya, 1476567039.0, 8
+574, [New species of plant discovered in Japan does not photosynthesize nor blooms], 57lzgj, 1476565856.0, 7
+575, [Ken Bucks radical climate change agenda statement at odds with Department of Defense | Global climate change presents extensive security risks to the military, the department says], 57g8xu, 1476479220.0, 9
+576, [EPA admits its estimate of emissions from flaring may be flawed], 57cmgk, 1476421027.0, 9
+577, [Extraterrestrial impact preceded ancient global warming event - scientists say they have found evidence along the New Jersey coast that an extraterrestrial object hit the earth at the same time a mysterious release of carbon dioxide suddenly warmed the planet, some 55.6 million years ago], 57c0hj, 1476414268.0, 9
+578, [When Gargoyles Die. How Acid Precipitation Damages Limestone And Marble Stonework], 575j6t, 1476324413.0, 8
+579, [Efficiency saves developed countries $540 billion a year, IEA reports], 56zo2y, 1476240790.0, 8
+580, [Elections that might matter more than the presidential race: state and local elections. "Do not despair, instead vote intelligently in state and local elections with the conviction that your vote matters."], 56uya7, 1476169051.0, 8
+581, [Is Sundays debate the last chance for media to bring up climate change? Just in case they do, long-debunked deniers offer Trump long-debunked talking points], 56s6xe, 1476138234.0, 8
+582, [Poland Unveils Solar Powered Bike Path That Glows at Night], 56i8ch, 1475979595.0, 7
+583, [Climate Change Is Causing Earlier Springs in National Parks], 56cvvl, 1475893995.0, 8
+584, [Theres a big mess at the new Papahanaumokuakea Monument: State and federal officials are working to clean up leaking fuel, heavy equipment and other debris spilled into the water at Kure Atoll.], 568f7b, 1475825453.0, 10
+585, [Media Should Not Forget About Climate Change In Coverage Of Hurricane Matthew], 568dw7, 1475824952.0, 10
+586, [The Horrible Truth About Our Plastic Usage], 567nav, 1475815668.0, 6
+587, [Climate treaty ratified in race against the clock], 564lwn, 1475775627.0, 6
+588, [After depositing its signature to the Paris climate deal, India's low-carbon objectives received financial support to advance solar energy, a lender said.], 55tfot, 1475616018.0, 9
+589, [England Cuts Plastic Bag Usage by 6 Billion in 6 Months], 5ag3uw, 1477988674.0, 12
+590, [Three Ways to Reduce Animal Agriculture], 5a5wiv, 1477861248.0, 6
+591, [A Handy Refresher on the Basics of Climate Change], 59wzba, 1477717749.0, 7
+592, [Marine Conservation: World's Largest Marine Reserve Of 1.6 Million Square Miles Created In Antarctic Sea], 59w4ol, 1477708697.0, 7
+593, [Mosul battle shows link between war and environmental degradation, says U.N. agency], 59v3kr, 1477698167.0, 7
+594, [Ireland Votes to Ban Fracking (commondreams.org)], 59ssrc, 1477660327.0, 5
+595, [Throwing green money after bad - Prominent pro-climate GOP donors are bankrolling Republicans with mixed and poor climate records.], 59qqc4, 1477633488.0, 6
+596, [Landfills have a huge greenhouse gas problem. Here's what we can do about it.], 59hhs2, 1477517168.0, 6
+597, [Sweden on track to meet 100-percent renewables target by 2040 - regulator | Renewables such as hydro and wind last year accounted for 57 percent of the Nordic nation's 159 terawatt-hours (TWh) of power production, with most of the rest coming from nuclear], 59h8nx, 1477513826.0, 7
+598, [Scientists measure record glacial melting in West Antarctica], 59coyc, 1477449085.0, 9
+599, [Study Finds Climate Change Will Reshape Global Economy], 59bgcl, 1477436143.0, 7
+600, [Globally Averaged CO2 Levels Reach 400 parts per million in 2015], 596qlg, 1477368369.0, 7
+601, [Snow leopards: Numbers decline due to 'retaliation'], 59616a, 1477361127.0, 8
+602, [Petrol cars allowed to exceed pollution limits by 50% under draft EU laws], 592wb8, 1477314893.0, 5
+603, [Refinery, Shipping Firm Dispute Finding Theyre Responsible for Oil Spill], 58sxvz, 1477168711.0, 8
+604, [Auto Recycling Services In Canada Has Simplified Scrap Car Removal], 58rpss, 1477142068.0, 7
+605, [Solar-powered tiny houses take the spotlight in California competition], 58jnns, 1477029493.0, 7
+606, [Wikileaks emails show Clinton defended fracking, passed on carbon tax during primary], 58dos0, 1476950139.0, 7
+607, [Beth Moon's Night Photographs of the World's Oldest Trees], 58cr3l, 1476939305.0, 8
+608, [Why the heck are there pig farms in the path of hurricanes?], 58cmf4, 1476937952.0, 6
+609, [Air Force: Toxic chemicals released into city's sewer system], 589rvw, 1476905430.0, 7
+610, [Wind could supply fifth of world electricity by 2030: group], 583ivs, 1476822956.0, 5
+611, [In wake of Wikileaks, Clintons campaign chair seeks to reassure climate activists], 5825n0, 1476796666.0, 7
+612, [Nalcor of Newfoundland Ignoring Methylmercury Poisoning of First Nation Communities], 57zb6c, 1476761539.0, 6
+613, [Can the rare, tiny Key deer survive a flesh-eating worm?], 57xmi5, 1476743658.0, 7
+614, [Floodwaters from Hurricane Matthew drown millions of farm animals in North Carolina, pollute streams and rivers], 57xbvw, 1476740002.0, 6
+615, [Court: Feds broke law in wild horse roundup], 57wz22, 1476735036.0, 7
+616, [China's expanding deserts], 57w60b, 1476718487.0, 6
+617, [Great Barrier Reef Can Still Be Saved: Australia's Coral Ecosystem Dying But Not Yet Dead], 57w1sv, 1476716045.0, 8
+618, [Majority of potential UK fracking sites are rich in important wildlife], 57vsvi, 1476711268.0, 8
+619, [Anyone familiar with the Environmental Impact Assessment process in the United States, & its role in the current North Dakota Access Pipeline debacle?], 57vgdq, 1476705562.0, 8
+620, [No, the Great Barrier Reef is not dead, but it is very, very sick], 57hj5d, 1476494567.0, 8
+621, [In a potential breakthrough, India, US agree to amend Montreal Protocol to phase down HFCs--GHGs 1000sx more potent than CO2], 57hj3j, 1476494551.0, 7
+622, [Flexitarians Are On Rise In UK, With One In Three People Identifying As Semi-Vegetarian], 57gmou, 1476484220.0, 6
+623, [Clean Power Plan and American global leadership], 57a4hm, 1476392528.0, 6
+624, [Climate Change May Benefit Native Oysters, but Theres a Catch], 574dom, 1476311865.0, 7
+625, [Palm oil: Firm seeks license to develop in Congo Basin], 56zs82, 1476242072.0, 7
+626, [Climate Change Behind Surge in Western Wildfires | The number of acres of forest burning yearly in large Western fires ballooned nine-fold from 1984 to 2015, with climate pollution and natural changes in the weather playing roughly equal roles in driving the deadly trend], 56xntp, 1476216532.0, 7
+627, [The Surveillance State Descends on the Dakota Access Pipeline Spirit Camp.], 56xjm2, 1476214395.0, 8
+628, [More than 100 scientists from 28 countries have called for global action to protect seagrass meadows], 56w5gz, 1476185275.0, 9
+629, [Hillary Clinton Touted Her Record of Spreading Fracking in Secret, Paid Speeches], 56uvc7, 1476168026.0, 7
+630, [The $20 Billion Arctic Pipeline That Will Haunt Canada Forever], 56tyab, 1476157512.0, 7
+631, [German Lawmakers Vote to Ban the Internal Combustion Engine], 56qfc1, 1476104591.0, 7
+632, [Record low number of UK butterflies a 'shock and a mystery'], 56qcs3, 1476103477.0, 7
+633, [Hillary Clinton Expresses Support For Fracking In Wikileaks Document], 56opiw, 1476081435.0, 9
+634, [Land Defenders face growing repression], 56iuo7, 1475987475.0, 6
+635, [The Behavioral Economics of Recycling], 56fmrw, 1475932642.0, 7
+636, [Why vultures matter  and what we lose if theyre gone | UNews], 56bzjt, 1475883710.0, 6
+637, [Convicted coal baron: I am an American political prisoner], 56bp4k, 1475880259.0, 6
+638, [Aviation industry agrees deal to cut CO2 emissions], 56918l, 1475833753.0, 7
+639, [New York State to Eliminate Cash Option for Paying Tolls], 5684dx, 1475821534.0, 9
+640, [The Paris Climate Pact Is Officially Go], 567z5t, 1475819505.0, 6
+641, [US Southwest faces threat of megadroughts with rising temps], 562gzc, 1475738676.0, 7
+642, [Enlisting an Army to Save a Forest], 562dy5, 1475737542.0, 5
+643, [History may judge today as a turning point for the planet in the fight against climate change, President Obama said Wednesday, as the United Nations reached a key threshold triggering the implementation of the Paris climate agreement], 561hph, 1475726679.0, 5
+644, [Scientists just discovered the largest continous coral system], 55zfsx, 1475702667.0, 6
+645, [Billions Of Coffee Cups Could Take 30 Years To Break Down], 55z5xx, 1475698660.0, 7
+646, [Federal officials say a study of deep ocean lit by sunlight off the coast of Hawaii has unearthed the most extensive deep-water reef ecosystem ever recorded.], 55wgp8, 1475652013.0, 7
+647, [How the Endangered Species Act sets species on paths to recovery], 55tcsu, 1475614894.0, 5
+648, [DOE: Plummeting clean energy costs accelerating renewable 'revolution'], 55q6i9, 1475560347.0, 7
+649, [Colorful fish tanks with destructive side effects], 55mjno, 1475507090.0, 6
+650, [India joins Paris Climate Change Agreement, submits instrument of ratification at UN headquarters - "India keeps its promise. On Gandhiji's birth anniversary, we deposit the instrument of ratification of Paris Agreement on climate change," External Affairs Ministry spokesperson Vikas Swarup tweeted.], 55jgpc, 1475461175.0, 6
+651, [Montanans trek to Dakota to fight pipeline], 55j449, 1475456749.0, 7
+652, [Lab-Grown Vegan Shrimp: Preserving Oceans and Changing How We Eat], 5aev3y, 1477975551.0, 6
+653, [Measure in Florida That Claims to Back Solar Power May Discourage It - expert praised what he called the incredibly savvy maneuver of using the language of promoting solar to gain support for the measure. He called it political jiu-jitsu.], 5ac3lf, 1477947903.0, 8
+654, [State, federal agency seek damages for Yellowstone oil spill], 5ac3in, 1477947880.0, 6
+655, [In California, a $350 million social experiment over lawns], 5abgx3, 1477937838.0, 4
+656, [Rainfall changes threaten food production - Climate News Network], 5a74l1, 1477877432.0, 6
+657, [Naked Penguin is Warmer After This Special Wetsuit was Created], 5a5gng, 1477852084.0, 6
+658, [These are Teslas stunning new solar roof tiles for homes], 5a2e3g, 1477801108.0, 6
+659, [James Hansen makes case for revenue-neutral carbon tax], 5a0z3w, 1477784191.0, 6
+660, [Poverty-fighting organizations ready to speak out on coal], 59xowc, 1477726243.0, 8
+661, [German Environmental Award goes to concrete recycling], 59wrc0, 1477715362.0, 8
+662, [Did The Pope Change Catholics' Minds On Climate Change?], 59vlfr, 1477703317.0, 5
+663, [The lefts opposition to a carbon tax shows theres something deeply wrong with the left], 59u8un, 1477688084.0, 5
+664, [Researchers have just discovered evidence that common swifts can spend 10 continuous months in the air without landing.], 59s6zv, 1477651379.0, 5
+665, [These plankton blooms mean the ocean is responding to climate change in a big way], 59p0u8, 1477615551.0, 5
+666, [Overfishing and shark-finning could increase the pace of climate change: "removal of predators is likely to lead to a increase in ocean ecosystems CO2 production  typically, a predator population will only gain 10% of the biomass of the prey it consumes."], 59ohu3, 1477609965.0, 7
+667, [Northeast United States will have new national wildlife refuge], 59nycn, 1477603681.0, 7
+668, [Study finds protected forests on public land burn less than severely logged areas], 59k7w9, 1477546214.0, 6
+669, [Survey shows devastating impact of sea star wasting disease in the Salish Sea], 59j747, 1477535381.0, 7
+670, [We fact-checked Donald Trumps latest comments on renewable energy. Turns out, theyre not all true.], 59h398, 1477511602.0, 4
+671, [IEA raises its five-year renewable growth forecast as 2015 marks record year], 59cxp4, 1477451721.0, 5
+672, [Analysis shows that El Nino affects the formation of low pressure areas over the Gulf Stream], 59bkpo, 1477437470.0, 5
+673, [Greenhouse Gas Initiative benefits economy, environment | Massachusetts-born historian and author Will Durant once wrote, "The health of nations is more important than the wealth of nations." With the Regional Greenhouse Gas Initiative, we can have both.], 59avfl, 1477429202.0, 6
+674, [CO2 levels mark 'new era' in the world's changing climate - BBC News], 59519g, 1477350945.0, 6
+675, [Recycling event brings new life to tires], 594kv8, 1477345590.0, 6
+676, [Greenland is benefitting economically from climate change], 58u63u, 1477186238.0, 6
+677, [How voyaging on a Hawaiian canoe in the Atlantic changed my understanding of sustainability: A crewmember shares her experience on the Hokulea, as it sails around the world on the Malama Honua Worldwide Voyage.], 58kvp2, 1477044861.0, 5
+678, [China's investment in metro systems is expected to hit more than 1 trillion yuan ($148.28 billion) by 2020, as government planners accelerate approvals for such projects, the state-owned Economic Information Daily reported], 58krzu, 1477043500.0, 6
+679, [U.S. Energy Shakeup Continues as Solar Capacity Triples, Natural Gas Surpasses Coal], 58jtqq, 1477031430.0, 7
+680, [Onshore windfarms more popular than thought, UK poll finds | Some 73% of the British public polled by ComRes support onshore windfarms in contrast with government decisions to block them], 58gk1q, 1476995359.0, 5
+681, [Scientists accidentally turn carbon dioxide into ethanol fuel Researchers have stumbled upon a way to turn carbon dioxide into ethanol, using spikey nanoparticles.], 58dcjq, 1476946000.0, 5
+682, [SolarCity to offer Airbnb members up to $1,000 cash back on solar systems], 58a0d4, 1476909196.0, 6
+683, [A federal judge in West Virginia ruled Monday that the U.S. Environmental Protection Agency must comply with a federal code requiring the agency to evaluate the impact of its air pollution regulations on jobs], 586g03, 1476854382.0, 7
+684, [1912 Newspaper Article Anticipates Anthropogenic Global Warming], 585vh1, 1476848494.0, 6
+685, [Global warming could push millions into extreme poverty], 5849qz, 1476832003.0, 8
+686, [Wind could supply fifth of world electricity by 2030: group], 582v01, 1476811032.0, 6
+687, [More than 50 researchers from 30 countries are to carry out the first scientific circumnavigation of Antarctica in an attempt to measure pollution and climate change, with the official launch held on Monday], 57yu2k, 1476756520.0, 8
+688, [Why are greens opposing a carbon tax?], 57ynfp, 1476754628.0, 8
+689, [It helped save the ozone layer. Now the refrigerant is being phased out as a culprit in global warming], 57ssvv, 1476671389.0, 7
+690, [A reliance on negative emissions technologies is locking in carbon addiction], 57o79l, 1476595604.0, 7
+691, [Do Vegans Fucking Love Science?" - The Relationship Between Animal Agriculture and Climate Change], 57nmvj, 1476588240.0, 6
+692, [The electric car market is growing 10 times faster than its dirty gasoline equivalent], 57hjo4, 1476494721.0, 6
+693, [Canadian Government Unveils Carbon Pollution Pricing Plan], 57fc46, 1476461762.0, 8
+694, [Electric vehicles could go first at traffic lights under UK clean air zone plans | Environment], 57f2px, 1476455898.0, 7
+695, [North Carolinas record floods could have unexpected environmental consequences], 57618s, 1476329729.0, 7
+696, [Coalition urged to regulate Indigenous hunting of endangered animals: dugongs and sea turtles are being subjected to cruelty and being hunted commercially], 56xh6b, 1476213024.0, 6
+697, [Next Renewable Energy: Burning Forests, if Senators Get Their Way], 56wxzb, 1476200089.0, 7
+698, [UN report on Resource Limits], 56wxaa, 1476199640.0, 5
+699, [Why You Should NEVER Throw Old Clothes In The Trash], 56wvvt, 1476198721.0, 7
+700, [Potential abrupt cataclysmic change and the Atlantic - October 2016 at the Arctic Circle Assembly in Reykjavik], 56vae3, 1476173453.0, 6
+701, [Standing Rock protests: this is only the beginning | US news], 56uow6, 1476165856.0, 6
+702, ['Titanic' Warning Over Luxury Arctic Cruises: "Experts are warning there could be a Titanic-style disaster and serious environmental damage unless controls are brought in for cruise ships in the Arctic Ocean."], 56ungx, 1476165379.0, 6
+703, [The U.S. Army and Departments of Interior and Justice on Monday asked the company building the Dakota Access pipeline to voluntarily halt construction within 20 miles of a contested section of the proposed route], 56u3iv, 1476159124.0, 5
+704, [Proposed Legislation Would Further Weaken Ohio Clean Energy Standards], 56tkpq, 1476153635.0, 7
+705, [Lack of bacterial absorption means common pharmaceuticals retain potential to cause damage in aquatic environments], 56rr70, 1476132037.0, 6
+706, [Can We Really Stop Climate Change By 'Capturing' Carbon?], 56mmfj, 1476055454.0, 6
+707, [Why Don't More People Recycle?], 56he71, 1475968900.0, 4
+708, [Pennsylvania adopts new fracking regulations], 56dupy, 1475905473.0, 5
+709, [Turning brewery wastewater into battery power], 56dgsj, 1475900753.0, 5
+710, ["Fears are growing for a huge flock of birds which are believed to be trapped inside the eye of Hurricane Matthew. The birds have showed up on a number of satellite images of the storm as it heads north across Florida [USA]."], 56d3jl, 1475896490.0, 5
+711, [Shell Puget Sound Refinery announced Thursday that it is no longer pursuing the rail unloading facility it has worked toward for several years, much to the surprise of government agencies reviewing the project and groups opposed to it], 5699ee, 1475837037.0, 7
+712, [Local lawmakers are stripped of authority as Oil Fracking given UK go-ahead with Lancashire council decision overturned | Environment], 568qmp, 1475829656.0, 7
+713, [Ocean Plastic Pollution Worse Than Expected], 5678zp, 1475811339.0, 6
+714, [Fracking in UK given go-ahead as Lancashire council rejection overturned], 564uae, 1475780818.0, 6
+715, [Satellite-tagged eels are leading us towards their mysterious birthplace], 564kxo, 1475775005.0, 5
+716, [The Paris Agreement is really happening  and its about more than climate change], 560gc5, 1475714986.0, 6
+717, [For Exxon, Hybrid Car Technology Was Another Road Not Taken | Exxons ambitious work on powering clean vehicles 40 years ago parallels its cutting-edge research on climate change during the same era.], 55zf22, 1475702384.0, 6
+718, [Inequalities exacerbate climate impacts on poor and vulnerable people], 55x1nt, 1475659790.0, 7
+719, [We're Creating A Protein Bubble That's Going To Destroy The Planet], 55w4n0, 1475647727.0, 7
+720, [150 sq feet of Solar Roadways panels installed in Sandpoint, ID. Still a few bugs to be worked out.], 55urmd, 1475632254.0, 4
+721, [Next Renewable Energy: Burning Forests, if Senators Get Their Way], 55ue0t, 1475627997.0, 7
+722, [Endangered no more? A record of species recovery], 55rr5r, 1475582510.0, 6
+723, [Climate hawk vs. climate hawk: State carbon tax divides national environmental leaders], 5af1xa, 1477977379.0, 6
+724, [How Antarctica's Ross Sea became world's largest marine reserve. World's largest marine reserve: The Ross Sea will become off-limits for any kind of wildlife or mineral extraction, after five years of negotiations.], 5acynr, 1477957389.0, 6
+725, [UNICEF report: 88 percent of world's children breathe toxic air], 5acyh8, 1477957341.0, 5
+726, [Are bugs as nutritious as beef, and could they save the planet?], 59zpnq, 1477761417.0, 3
+727, [Why the attack on 'foreign-funded' environment groups stinks of hypocrisy], 59zeh9, 1477753847.0, 5
+728, [Givers of Courage: Thousands of wild American Bison appear from nowhere at Standing Rock], 59wpza, 1477714960.0, 3
+729, [Interesting story of the Standing Rock protectors from inside their camp.], 59vv5h, 1477706040.0, 6
+730, [Alaska seal can be protected based on future climate threat, court says], 59vnpj, 1477703978.0, 4
+731, [World's largest marine park created in Ross Sea in Antarctica in landmark deal], 59taou, 1477670087.0, 5
+732, [The finale of the Dakota pipeline protests; brutalisation from the state against peaceful protesters. This is what the gov really protects.], 59t780, 1477667994.0, 4
+733, [Worldwide Solidarity with a Green Party POTUS], 59sdgs, 1477653840.0, 6
+734, [The world is on track to lose an estimated two-thirds of its wild animal populations by 2020.], 59s8l9, 1477651973.0, 6
+735, [New Yorks air is more harmful to kids who exercise], 59psyr, 1477623668.0, 5
+736, [Have We Already Won the Renewables Revolution? | Yes. For the most part, the game is indeed won. We are on the path to renewable energy ubiquity -- and its unlikely to be derailed even if policy support falters for these technologies.], 59nqom, 1477600873.0, 6
+737, [Warming Boosts Ocean Algae Blooms, With Potential Ripple Effects to Come | For every degree increase in water temperature, they found, the plankton bloomed four to five days earlier. From 2003 to 2012, the warmest years in their study, the bloom shifted by 20 days.], 59np8y, 1477600296.0, 5
+738, [Clinton, Trump advisers face off over energy policy], 59hdgh, 1477515681.0, 6
+739, [Aviation to consume half of UK's 1.5C carbon budget by 2050], 59gp96, 1477504486.0, 4
+740, [Hurricane Matthew: The Link between Storms, Climate Change and Global Inequality], 59fa9h, 1477479174.0, 6
+741, [Emergency order for Flint water crisis should have come sooner, EPA admits], 5930pa, 1477317146.0, 7
+742, [TIL there's a project to classify tweets, based on their views regarding climate change], 58zxfn, 1477276058.0, 5
+743, [Iraq War records reignite debate over US use of depleted uranium], 58zgcg, 1477270491.0, 6
+744, [The good and bad news on climate change], 58yyix, 1477264296.0, 3
+745, [New app launched to measure New Delhis pollution], 58t7ar, 1477172977.0, 5
+746, [Magnitude 6.6 quake jolts western Japan, no tsunami warning or major damage], 58sb4i, 1477155018.0, 3
+747, [Mining Employees (Managers) Face Homicide Charges over Brazil Dam Disaster], 58owhu, 1477104596.0, 7
+748, [Panda released into the wild in China], 58o1a5, 1477094994.0, 5
+749, [The World Economic Forum considers failure to adapt to climate change to be one of the most likely, imminent, and severe risks facing humanity. They estimate its impacts will be comparable to that of global thermonuclear war. [PDF] [X-post from r/TIL]], 58lixo, 1477054354.0, 5
+750, [Asia's megacities are running out of water- Nikkei Asian Review], 58hab4, 1477004340.0, 4
+751, [Why has climate change been ignored in the US election debates?], 58g6yf, 1476989344.0, 5
+752, [Germany approves disputed nuclear waste deal], 58g1gg, 1476986450.0, 5
+753, [Great Barrier Reef Is Dying; On The Verge of Irredeemable Collapse], 58ej5x, 1476960101.0, 3
+754, [What are some invasive species in the Amazon Rainforest?], 58anpd, 1476917390.0, 7
+755, [An air base in the US state of Colorado says it has accidentally released 150,000 gallons of toxic contaminated water into the sewer system of the nearby city of Colorado Springs], 58alih, 1476916694.0, 4
+756, [Just what we needed Dept: A smart recycling bin], 58a8ow, 1476912303.0, 3
+757, [Pennsylvania shows the way toward a clean energy future- Cities and towns like ours are on the front lines when it comes to dealing with the very real effects of pollution and climate change.], 589z9m, 1476908734.0, 4
+758, [Genetically Modified Mostquios], 588k86, 1476881244.0, 7
+759, [Steel from old tyres and ceramics from nutshells  how industry can use our rubbish], 584hje, 1476834388.0, 4
+760, [The e-waste mountains - in pictures], 584ghc, 1476834069.0, 7
+761, [Washington state could make the nations first carbon tax. And environmentalists are fighting over it (xpost r/carbontax)], 581hvt, 1476786968.0, 5
+762, [Environmentalists sparring over what could be first U.S. carbon tax], 57ym6g, 1476754278.0, 6
+763, [Case studies on Offshore Drilling?], 57xxqc, 1476747198.0, 5
+764, [Walking on Sunshine: Idaho Company Debuts Solar Sidewalks - "Our plan is to replace all the asphalt and concrete," said Brusaw, noting concrete occupies over 48,000 square miles in the U.S. "If you cover it with solar panels, we can make three times our energy needs."], 57xin6, 1476742374.0, 7
+765, [October Has Been a Great Month for Climate Action], 57vl98, 1476707640.0, 5
+766, [The destruction process of the Galaxy Note 7 needs to be thought through by Samsung.], 57v80c, 1476702078.0, 5
+767, [How climate change triggers earthquakes, tsunamis and volcanoes: Global warming may not only be causing more destructive hurricanes, it could also be shaking the ground beneath our feet], 57sj76, 1476668226.0, 5
+768, [Victims Testify in Monsanto Ecocide Case], 57qnhe, 1476636811.0, 5
+769, [Pollution sinks swim event at La Jolla Cove], 57n8ga, 1476583149.0, 4
+770, [200 nations agree to reduce the use of HFCs to fight climate change], 57mafh, 1476570746.0, 5
+771, [The world just took one of the single biggest steps ever to tackle climate change], 57m9a0, 1476570277.0, 5
+772, [British households fail to recycle a 'staggering' 16m plastic bottles a day], 57ldmy, 1476552945.0, 4
+773, [Environmental groups early Saturday said nations have reached a deal to limit the use of greenhouse gases far more powerful than carbon dioxide as part of efforts to fight climate change], 57jjf2, 1476518464.0, 6
+774, ["A home appliance that grows the ingredients for a healthy meal within a week from plant cells is no longer science fiction. VTT Technical Research Centre of Finland Ltd's first 3D-printed CellPod prototype is already producing harvests."], 57ieo2, 1476504231.0, 4
+775, [Bacteria can make underground nuclear waste repositories safer], 57id5i, 1476503757.0, 4
+776, [J.M. Fortier and the Rise of the High-Profit Micro Farm - Modern Farmer], 57h74y, 1476490892.0, 5
+777, [Hillary Takes a Stand on the Climate Crisis  Will She Go All the Way? "In the appropriate social context, Clinton is capable of launching the WWII-scale climate mobilization that we need...But an extraordinary mass movement must rise to the challenge of our time to make that mobilization possible"], 57h4zr, 1476490224.0, 7
+778, [TripAdvisor Halts Ticket Sales to Cruel Wildlife Attractions], 57ewh4, 1476452486.0, 7
+779, [Scholars team up to show forest biodiversity is green in more ways than one], 57eq6f, 1476449325.0, 4
+780, [British public support for fracking sinks to lowest ever level], 5793ik, 1476372457.0, 5
+781, [Up to 80,000 rainbow trout escape into Danish sea], 5764ir, 1476330741.0, 4
+782, [Greens up the ante against fossil fuel firms], 573s78, 1476303978.0, 3
+783, [How a short-lived company turned thousands of LA lawns into gravel dead zones], 56xwq2, 1476220338.0, 5
+784, [As The S.E.C. Investigates Exxon, Companies May Rethink How They Report Climate Risk], 56xr3h, 1476218023.0, 5
+785, [UK loses top 10 spot in global energy ranking for the first time], 56xofz, 1476216827.0, 6
+786, [Here are all of Donald Trump's energy falsehoods from the debate], 56xidz, 1476213737.0, 6
+787, [Tribal Grizzly Bear Treaty Redefines Recovery of the Great Bear], 56xi79, 1476213626.0, 5
+788, [Solar and Wind Power Are Growing  but Wont Solve Climate Change], 56xbq6, 1476209554.0, 6
+789, [Being Vegan is good for the environment], 56u3r2, 1476159195.0, 4
+790, [Startup helps people find out what they're drinking], 56t67p, 1476149271.0, 5
+791, [Could Washington pave the way for carbon taxes?], 56mw58, 1476058949.0, 7
+792, [German push to ban combustion-engine cars by 2030 wins support], 56kca1, 1476008998.0, 6
+793, [The amount of water we've used for fracking in the past 5 years are equal to the annual water use of 200 mid-sized cities], 56cnik, 1475891278.0, 6
+794, [WHO: Nine of 10 people breathe bad air | Environment | The World Health Organization has released a new report showing that nearly everywhere people live, the air is polluted beyond safe levels. Polluted air doesn't just smell bad - it's unhealthy, even life-threatening.], 56acik, 1475856707.0, 5
+795, [Government accused of ignoring its own climate change experts over fracking], 566z8l, 1475808362.0, 7
+796, [Wed have to finish one new facility every working day for the next 70 yearsWhy carbon capture is no panacea], 566tnj, 1475806608.0, 4
+797, [Trump vs. Clinton on Renewable Energy: Perhaps the best way to start is Trumps infamous 2012 tweet stating that global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive.], 566a58, 1475800553.0, 5
+798, [Why Its So Hard to Get Solar in Florida (Thatd Be the Sunshine State)], 565kn8, 1475792117.0, 4
+799, [Emissions of key greenhouse far higher than thought: study | methane leaked during the production and use of natural gas, oil and coal is 20 to 60 percent higher than previously thought, they reported in a study, published in the peer-reviewed journal Nature.], 56558b, 1475786120.0, 3
+800, [Government upholds fracking appeal in landmark ruling - BBC News], 564m8u, 1475775853.0, 5
+801, [Fossil fuel industry's methane emissions far higher than thought: Emissions of the powerful greenhouse gas from coal, oil and gas are up to 60% greater than previously estimated, meaning current climate prediction models should be revised], 563vvd, 1475759635.0, 5
+802, [Three federal appeals judges in Washington, D.C., heard arguments on Wednesday over whether to stop work on a crude oil pipeline in parts of North Dakota where the Standing Rock Sioux and other tribes say the project will desecrate sacred land], 561bxe, 1475724885.0, 4
+803, [Want to save the pangolin? Look to elephants.], 56116s, 1475721528.0, 6
+804, [Paris Climate Accord Ratified, To Start Next Month: U.N.], 5610pd, 1475721385.0, 7
+805, [We're eating more antibiotic-free chicken. But what about beef?], 55y21g, 1475674911.0, 4
+806, [The crime family at the centre of Asia's animal trafficking network], 55i3zz, 1475441763.0, 5
+807, [Indian farmers fight against climate change using trees as a weapon], 5ahryq, 1478012832.0, 18
+808, [The World Wild Life fund has been accepting 250K a year from a proven polluter in an endorsement deal for their products.], 5ahjhc, 1478008115.0, 12
+809, [Oil Production Could Have Caused Century-Old California Earthquakes], 5agr3l, 1477996473.0, 4
+810, [Wildlife We Could Lose To Extinction In The Near Future- Interactive], 5aeo5g, 1477973668.0, 5
+811, [The Retailers That Reward You for Recycling Your Unwanted Junk], 5ae0fi, 1477967394.0, 6
+812, [Should I Buy Soap With Triclosan?  Center for Biological Diversity], 5adrmk, 1477965092.0, 4
+813, [Vitamin A rice now a reality], 5ack7w, 1477953336.0, 4
+814, [Mexican wolves riding wave of worldwide extinctions], 5a3k23, 1477816069.0, 4
+815, [Killing wolves is tragic, but their return has been a success], 5a1opf, 1477792768.0, 4
+816, [Brazil greenhouse gas emission spike blamed on deforestation], 59z2f5, 1477747028.0, 5
+817, [Oregon Standoff Leaders Acquitted For Malheur Wildlife Refuge Takeover: A scuffle broke out in court after the defendants were acquitted for the armed takeover of a U.S. wildlife refuge for 6 weeks], 59ust4, 1477694916.0, 4
+818, [SocGen to stop financing coal-fired power plants from January], 59t9ca, 1477669252.0, 5
+819, [Dakota Access Pipeline: Authorities remove protesters], 59pyre, 1477625317.0, 5
+820, [Winter Weather: Warm Arctic Drives Cold in North America], 59oars, 1477607809.0, 4
+821, [How overfishing and shark-finning could increase the pace of climate change], 59nt3h, 1477601795.0, 4
+822, [The Trump And Clinton Campaigns Finally Had A Substantive Climate Debate], 59lr15, 1477565347.0, 3
+823, [A Salton Sea geothermal company thinks it's solved the lithium puzzle. Will this time be different?], 59ia1a, 1477525993.0, 5
+824, [US funding new soldiers in wildlife trafficking war: giant rats], 59g5pb, 1477493203.0, 2
+825, [Who will pay for water pollution cleanup divides urban and rural Iowa], 59fm0x, 1477483829.0, 6
+826, [Kirby Offshore Marine paid 250,000 USD to Heiltsuk Nation in relation to oil spill at Bella Bella], 59ay91, 1477430208.0, 5
+827, [EPA Reaches Settlement with Agri Star Meat & Poultry for Industrial Stormwater Violations], 59avi1, 1477429224.0, 4
+828, [More coal plants will deepen - not cut - poverty, researchers warn | Building just a third of planned new coal-fired power plants around the world would push hundreds of millions of people into poverty as it accelerates climate change past an agreed limit of 2 degrees Celsius of warming], 59asw8, 1477428234.0, 4
+829, [Prehistoric Trees Could Future-Proof Forests Against Climate Change], 59arnh, 1477427753.0, 3
+830, [What Hurricane Matthew tells us about hunger and climate change], 58o3gv, 1477095654.0, 4
+831, [Watchdog group uncovers a coal ash spill after hurricane flooding], 58o2un, 1477095459.0, 3
+832, [Lawin 'possibly damaged 100% of houses' in Tuguegarao City | The provincial government of Cagayan said it is possible that 100% of houses in Tuguegarao City were either partially or fully damaged by Super Typhoon Lawin (Haima), which hit land on Wednesday night, October 19.], 58my3w, 1477081910.0, 3
+833, [Residents Who Fled Fukushima Meltdown Fear Return to Ghost Town], 58l2yj, 1477047627.0, 5
+834, [UNESCO urges Bangladesh to relocate Rampal power plant to preserve the world's largest Mangrove Forest, the Sundarbans, which will be grave danger due to the heavy coal emissions.], 58k3pj, 1477034712.0, 6
+835, [An Inevitable Disaster, a Failed Spill Response], 58hna8, 1477008168.0, 4
+836, [Understanding and Tackling Climate Change], 58fd5t, 1476972271.0, 6
+837, [The plan to dam Asia's last free-flowing, international river], 58azju, 1476921008.0, 4
+838, [Greenpeace on PCE report into agricultural emissions], 589iqj, 1476900633.0, 3
+839, [2016 wildlife photographer of the year - winners in pictures | Environment], 589ci1, 1476897002.0, 4
+840, [South Asia's solar power initiatives to watch out for], 588rsn, 1476884947.0, 5
+841, [When East meets West in green energy], 5887cc, 1476875919.0, 5
+842, [Petroleum Disaster in the Great Bear Rainforest], 58586k, 1476841952.0, 5
+843, [What can the average person do to help the environment?], 584xt9, 1476839024.0, 4
+844, [Global energy demand will peak in 2030 says World Energy Council], 584mru, 1476835897.0, 5
+845, [10,000 endangered Titicaca water frogs found dead in Peru], 5849kc, 1476831943.0, 5
+846, [Is Standing Rock the Oil Industry's Last Stand? It's Up to Us to Make It So], 583ztr, 1476828850.0, 3
+847, [Belize to begin oil exploration near threatened World Heritage site], 583shv, 1476826323.0, 4
+848, [For Clinton and Trump, Theres Little Debating a Climate Change Divide], 583jwu, 1476823336.0, 6
+849, [Anger flares as wildfire-hit Canadian city struggles to rebuild], 582rat, 1476808722.0, 5
+850, [Scientists Accidentally Discover Efficient Process to Turn CO2 Into Ethanol], 581p6d, 1476789672.0, 4
+851, [Scientists develop a new way of making soy beans grow larger and produce more], 57xmws, 1476743784.0, 2
+852, [Half of plastic bottles used in Britain are never recycled], 57xfyz, 1476741496.0, 4
+853, [World's greatest conservation tragedy you've probably never heard of], 57wj6a, 1476726794.0, 5
+854, [World's oldest panda Jia Jia dies in Hong Kong], 57w03v, 1476715060.0, 5
+855, [Post-industrial agriculture: Frances field-to-table approach to food], 57vy54, 1476713984.0, 3
+856, [Global Material Flows and Resource Productivity | UNEP], 57v4eu, 1476700618.0, 3
+857, [Green transformation 'unstoppable' as countries agree to curb powerful greenhouse gases  UN], 57shyf, 1476667807.0, 3
+858, [Zimbabwe accused of preparing to ship dozens of young elephants to China - Conservationists say dozens of young elephants being captured by Zimbabwes govt may be bound for China, rather than nearby national park], 57r191, 1476646268.0, 3
+859, [Small-scale agriculture threatens the rainforest. An extensive study has mapped the effects of small farmers on the rain forests of Southeast Asia for the first time. The findings are discouraging, with regard to environmental impact, biodiversity and the economy, over the long term.], 57p1on, 1476607061.0, 5
+860, [Nations clinch landmark pact to fight climate change], 57mgfn, 1476573101.0, 5
+861, [Famous Bipedal Bear Feared Dead In Massive New Jersey Hunt: Pedals, a wild New Jersey bear famous for an injury that makes him walk upright, is missing  and his fans are fearing that a hunter killed him.], 57lyll, 1476565445.0, 4
+862, [Water level rising.], 57h0k2, 1476488841.0, 4
+863, [A section of the federal government's only underground nuclear waste repository would be permanently sealed under a plan aimed at addressing concerns about a recent series of ceiling collapses at the troubled facility in southern New Mexico], 57e8qc, 1476441803.0, 3
+864, [We Pay Billions For Greener Farms, So What Does That Buy Us?], 57btnc, 1476412191.0, 4
+865, [Leading Fossil Fuel Companies Fail Climate Responsibility Test], 57a1vk, 1476391480.0, 2
+866, [How Google is using big data to protect the environment], 579k57, 1476383010.0, 2
+867, [Hawaiian fishermen, scientists cooperate on sustainability research], 578nl6, 1476364047.0, 3
+868, [Toxin Alert map: the first digital geo-social network for clean water supply and combined public water alert system, developed to empower citizens and communities to protect public health and prevent future toxic drinking water epidemics], 577i3f, 1476347316.0, 2
+869, [Haiti funding hurricane relief, aid must prioritize growth: president], 572xi8, 1476285748.0, 4
+870, [Does anybody have any graphs that show the temperature of the ocean during the Paleogene Period?], 56z3vh, 1476234657.0, 3
+871, [Climate studies: New York City flood risk will triple, Western wildfires have doubled], 56xwrq, 1476220353.0, 4
+872, [From Ivory Tower to Behind Bars: Professor Joins Climate Activists in New York Fracking Pipeline Fight], 56xngv, 1476216382.0, 5
+873, [Do we know if 'pumped hydro solar' is actually a clean source of energy?], 56uwpp, 1476168515.0, 4
+874, [Guatemalas indigenous people are at risk of losing their land], 56tbvr, 1476150952.0, 5
+875, [Why is the CEO of a big Canadian bank giving speeches about climate change and pipelines?], 56rzp1, 1476135559.0, 4
+876, [Reduce and Recycle to Remain Relevant in Global Tourism], 56ru4x, 1476133316.0, 5
+877, [Brussels-based lobby firm accused of running litter prevention industry front group], 56rt8i, 1476132916.0, 2
+878, [The world's largest air purifier is turning Beijing's dirty air into diamonds], 56redn, 1476125353.0, 4
+879, [Can German auto regulators usher in the zero-emissions age?], 56qw0q, 1476113365.0, 2
+880, [Federal Appeals Court hears arguments in Dakota Access Pipeline case], 56ist5, 1475986789.0, 3
+881, [Methane leaks: How much comes from fossil fuels industry?], 56idap, 1475981324.0, 6
+882, [What has everyone been doing in order to help the environment?], 56h28p, 1475964087.0, 3
+883, [Orchid Island's Nuclear Fate - For decades Taiwan has stored its nuclear waste on Orchid Island, home of the Tao.], 56cy3l, 1475894718.0, 4
+884, [Why the market is freaking out about Tesla], 56cp2l, 1475891789.0, 4
+885, [Matt Drudge Suggests Government May Be Lying About Hurricane Matthew], 56bn1f, 1475879526.0, 4
+886, [French gypsum quarry stokes contamination fears: A French company intends to develop a giant open-pit gypsum mine just outside Paris. But environmentalists fear the project could contaminate the region with radioactivity and chemicals], 567bx0, 1475812241.0, 3
+887, [Sustainability is good business  and heres proof], 565luw, 1475792538.0, 3
+888, [Arresting Global Warming Doesnt Mean More Money, Top Panel Says - We can invest the $90 trillion in the dirty unsustainable infrastructure of the past or leap forward into the clean and efficient infrastructure of the future, Calderon said], 565b2i, 1475788472.0, 2
+889, [California Keeps On Farming, With or Without Water], 563v06, 1475759190.0, 5
+890, [Hurricane Matthew affecting sports landscape as it approaches East Coast], 562fvr, 1475738271.0, 4
+891, [Why are men less likely to adopt green behaviour? is masculinity anti-environment?], 562f3b, 1475737964.0, 3
+892, [Solar energy: "Be a producer of energy and not just a consumer of it"], 561q6o, 1475729415.0, 3
+893, [The Climate Emergency and the 2016 Election: Can we build a pathway to WWII-scale national mobilization against climate change through a Hillary Clinton presidency?], 561oo9, 1475728914.0, 6
+894, [Drain brain: Paris pool uses sewer heat to cut costs and emissions], 560a3j, 1475713031.0, 5
+895, [Drifting Pesticides Put Neighboring Farms At Risk. Iowas organic farms, vineyards, apiaries and other non-conventional farms surrounded by row crops treated with pesticides are at risk of being hit with drifting spray that can leave their farms futures uncertain.], 56032n, 1475710817.0, 3
+896, ["The United Nations' highest court ruled Wednesday that it does not have jurisdiction to take on cases brought by the tiny South Pacific nation of the Marshall Islands that sought to urge Britain, India and Pakistan to resume negotiations to eradicate the world's stockpile of nuclear weapons."], 55z7kl, 1475699359.0, 5
+897, [The Royal Society is coming under internal pressure to cancel a booking on its premises made by climate science sceptic group the Global Warming Policy Foundation, DeSmogUK can reveal.], 55z744, 1475699172.0, 3
+898, [Iranians help starving animals amid severe drought], 55z3lm, 1475697668.0, 3
+899, [Durban leads the way in climate change adaptation], 55yutw, 1475692961.0, 4
+900, [Environmental Reports Can Help to Increase Efficiency of Businesses], 55xy8b, 1475672895.0, 6
+901, [Are Solar Panels Worth It? Experts Pick Sides], 55wjy7, 1475653214.0, 4
+902, [The Blob That Cooked The Pacific], 55vi32, 1475640388.0, 3
+903, [Here are the results from the world's first ocean trash recon mission], 55us2k, 1475632402.0, 6
+904, [Canada releases plans for a nationwide carbon tax], 55u7yt, 1475625990.0, 4
+905, [Building retrofits to reduce emissions], 55t6tr, 1475612160.0, 3
+906, [Interview With Hugo Tagholm, from Surfers Against Sewage], 55puor, 1475556416.0, 4
+907, [Why military and market responses are no way to save species from extinction], 55nsv0, 1475532440.0, 4
+908, [Is buying fair trade products actually helping producers of those products and improving their livelihood? Or is the system of fair trade now corrupt?], 55m89z, 1475500285.0, 4
+909, [Christy Clark using poll results as binding vote for First Nations], 55ifdo, 1475447323.0, 4
+910, [Secret government papers show taxpayers will pick up costs of Hinkley nuclear waste storage], 5ahsm8, 1478013250.0, 12
+911, [One in seven children suffer high air pollution: UNICEF], 5ahrtl, 1478012749.0, 3
+912, [Colonial shuts gasoline, distillate lines after explosion, fire in Alabama.], 5ags7r, 1477996862.0, 4
+913, [Climate Change Is Already Forcing Americans to Move], 5afyay, 1477986922.0, 5
+914, [Simple ways students can help combat climate change], 5afr2x, 1477984667.0, 4
+915, [A Diesel Spill Is Putting the World's Largest Temperate Rainforest at Risk], 5ae59h, 1477968667.0, 4
+916, [UN News - Almost one in seven children breathing heavily toxic air], 5achr6, 1477952592.0, 3
+917, [The Socio-Economic Impacts of Climate Change & Rising Sea Level on Low Lying Reef Islands], 5abzjb, 1477946443.0, 3
+918, [The Reality of Recycling], 5abvmo, 1477944964.0, 3
+919, [A Little Background On Tropical Coral Reefs], 5a46xv, 1477825352.0, 3
+920, [WHO Cancer Agency Hits Back at Reuters for Monsanto Bias], 5a2gzz, 1477802110.0, 2
+921, [Nations Agree To Establish World's Largest Marine Reserve In Antarctica], 59vg8t, 1477701807.0, 4
+922, [Green Capitalism: The God That Failed], 59t37h, 1477665679.0, 3
+923, [Recycling Technologies named in 100 Ones to Watch list], 59sseg, 1477660140.0, 3
+924, [World's biggest marine protected area in Antarctic gets green light], 59r8v8, 1477639526.0, 3
+925, [Is there a good academic lecture in YouTube explaining climate change, its issues and consequences to researchers who aren't climate scientists?], 59qzsu, 1477636513.0, 3
+926, [Desert Enthusiasts Awarded for Excellence in Online Communication], 59qiah, 1477631023.0, 3
+927, [Environmentalism in Islam], 59pyr8, 1477625314.0, 3
+928, [How overfishing and shark-finning could increase the pace of climate change], 59nlm4, 1477598796.0, 3
+929, [Two-Thirds of Wild Animal Populations Could Be in Decline by 2020], 59nfqa, 1477596155.0, 3
+930, [Rant - Wildlife conservation and animal abuse from a non-Western viewpoint], 59kwxy, 1477554435.0, 4
+931, [As incomes rise in China, so does concern about pollution], 59insv, 1477529907.0, 3
+932, [CO2 levels hit 400 ppm milestone: A prompt to turn Paris deal into action?], 59ijkm, 1477528712.0, 4
+933, [The 100,000 year problem], 59i73t, 1477525142.0, 3
+934, [Massive dome has been discovered on top of worlds largest active magma store], 59hb6w, 1477514826.0, 3
+935, [Iridescent Leaves Take Advantage Of Quantum Mechanics To Thrive In The Shade], 59gvis, 1477507889.0, 3
+936, [Strom and heavy winds may wreck havoc. But its blessing for California], 59g17s, 1477490773.0, 3
+937, [How car makers believe they are contributing to the environment - electric cars and all #ParisMotorShow2016], 59dqgq, 1477460243.0, 2
+938, [Bid to create South Atlantic haven for whales fails, again], 59bkz5, 1477437544.0, 3
+939, [One state tests liberals' ability to rally around a carbon tax], 59bkhi, 1477437406.0, 3
+940, [Donate your data is as important as donating blood], 599ibq, 1477403462.0, 3
+941, [What To Drink While You Wait For Perennial Grains To Revolutionize Agriculture], 5997x3, 1477398551.0, 3
+942, [Living in Chinas Expanding Deserts], 5994f1, 1477397073.0, 4
+943, [Life As I Know - My Minimal Hoarding Life], 596ru2, 1477368727.0, 3
+944, [Power walking: How technology could harness energy from footsteps | The floors in crowded areas such as football stadiums or student hallways could one day be used to produce power, if a new method that converts energy from footsteps into usable electricity comes to fruition.], 5948hx, 1477341039.0, 3
+945, [Becoming a Sustainable College Student], 59280n, 1477304603.0, 3
+946, [What are we conserving when we recycle electronics?], 590jhl, 1477283028.0, 2
+947, [The Climate Movement Has to Elect Hillary Clintonand Then Give Her Hell], 58s4xe, 1477150796.0, 1
+948, [We are approaching the Trumpocene, a new epoch where climate change is a big scary conspiracy], 58o04e, 1477094656.0, 3
+949, [Study: Possible water problem at storage sites in FukushimaThe Asahi Shimbun], 58nbns, 1477086866.0, 3
+950, [Researchers partner with industry experts to develop turbine blades made from plastic foams], 58na8n, 1477086355.0, 3
+951, [World's Largest Solar Power Plant in Nevada will Bring Electricity to 1 Million Homes], 58mmw3, 1477076713.0, 3
+952, [Affordable powerwind turbines that cost as much as an iPhone.], 58lkgo, 1477055062.0, 3
+953, [BHP chair to step down after managing Brazil mine disaster], 58kxjo, 1477045551.0, 3
+954, [Air pollution more deadly in Africa than malnutrition or dirty water, study warns], 58i246, 1477012486.0, 3
+955, [Heres why its so important to buy recycled products], 58hjon, 1477007100.0, 3
+956, [Climate change took a backseat to scandal at the presidential debates], 58gy2v, 1477000473.0, 4
+957, ["Australia on Thursday [20 October 2016] admitted more needs to be done to protect the Great Barrier Reef from pollution after a government-backed report painted a bleak picture of the natural wonder."], 58g8tv, 1476990271.0, 1
+958, [Vanishing Mekong? Shifting tropical storms threaten a great river delta], 58bzqs, 1476931464.0, 3
+959, [The Montreal Protocol Is the Most Successful Climate Agreement Ever], 58bst7, 1476929470.0, 3
+960, [.Eco is giving away a limited number of free domains to environmental orgs], 58bges, 1476925980.0, 4
+961, [Anti-Pipeline Encampment to Move From Federal to Tribal Land], 58aqd2, 1476918219.0, 4
+962, [Your Halloween Candy Could Be Killing Orangutans], 587u7a, 1476871028.0, 3
+963, [What BP's Decision to Abandon the Great Australian Bight Says About the Future of Big Oil], 58504n, 1476839688.0, 4
+964, [Brown tree snake remains a significant, costly threat], 584vqm, 1476838451.0, 3
+965, [Norway faces climate lawsuit over Arctic oil exploration plans - Campaigners say decision to open up the Barents Sea violates the nations constitution and threatens the Paris climate agreement], 584p6j, 1476836601.0, 3
+966, [Exxon Chooses War in New York Probe of Climate Change Research], 584iyk, 1476834810.0, 3
+967, [Thousands of 'scrotum frogs' mysteriously dying in Peru], 583x09, 1476827915.0, 3
+968, [Ontario seeks to put a cap on water bottle industry with two-year ban], 583wsp, 1476827839.0, 3
+969, [Prototype uses solar energy to produce hydrogen and clean water from polluted water], 581gv7, 1476786609.0, 3
+970, [Viral Orangutan Photo Serves As Poignant Reminder Of Apes' Continued Plight], 581a0g, 1476784198.0, 3
+971, [Marina DeBris, eco artist], 5808bm, 1476771398.0, 3
+972, [About 300 peaceful protesters marched to the Chinese embassy in the Kenyan capital, Nairobi, to urge the Chinese government not to build a railway across the Nairobi National Park and surrounding areas], 57ydhh, 1476751843.0, 5
+973, [New method makes super yeast that can improve economics of biofuel], 57xl8m, 1476743238.0, 2
+974, [Textile Recycling Could Be Coming To A Curbside Near You], 57wwju, 1476733926.0, 3
+975, [If negative externalities were accounted for, would wasting money be just as bad as wasting natural resources?], 57wcy6, 1476722882.0, 3
+976, [First solar farm in community renewable energy project joins the grid], 57vuej, 1476712038.0, 3
+977, [Talks opened in Australia Monday to create two vast marine sanctuaries aimed at protecting the pristine wilderness of Antarctica with Russia and China key to whether they succeed], 57vkap, 1476707215.0, 3
+978, [Emotional toll behind Key deer deaths], 57sihl, 1476667990.0, 3
+979, [Beloved Bipedal Bear Named Pedals Believed Killed By Hunter. The upright walking bear had been seen walking around New Jersey after injuring his two front paws.], 57sghy, 1476667354.0, 3
+980, [Hunted to the brink, but Africas reviled vultures are vital in fight against disease], 57qmn3, 1476636168.0, 3
+981, [Reserve Twp. Homes Evacuated Due To Natural Gas Leak], 57q4ms, 1476624499.0, 3
+982, [Good news for the weekend: The world just took a huge step to fight climate change], 57psws, 1476618775.0, 3
+983, [List of the Best Environmental News Youtube Channels and Online websites?], 57o2ib, 1476593862.0, 3
+984, [Project Ethos: A New Site For Tracking Environmental Impacts of Products (Just launched!)], 57ihge, 1476505124.0, 3
+985, [Federal Court Delivers Stunning Blow to Mass. AG and #ExxonKnew Campaign], 57er89, 1476449854.0, 3
+986, [The Weird Facebook Politics of Dakota Pipeline Protests], 57b67x, 1476405071.0, 3
+987, [Amy Goodman to turn herself in to Morton CountyMandan Combined Law Enforcement.], 57aqdo, 1476400166.0, 3
+988, [Indianapolis leading the way in high-tech recycling], 57aj60, 1476397827.0, 3
+989, [Columbian white-tailed deer has been downlisted from endangered list], 57a8dx, 1476393981.0, 3
+990, [Bengaluru Says No To Bridge That Will Cost 1,800 Crores, 800 Trees], 57a6fw, 1476393233.0, 1
+991, [Study identifies bacteria linked to acid produced at mining sites], 579dhd, 1476378926.0, 3
+992, [Why our cities need more green infrastructure], 5785el, 1476356118.0, 3
+993, [China Returns to Pedal Power], 5772wm, 1476341822.0, 3
+994, [We can't dig our way out of the fossil fuels pit], 574xkx, 1476318038.0, 3
+995, [Europe must resist chemical industry attacks on health and environment], 5741xj, 1476307794.0, 3
+996, [The UAE's Clean Energy Sector: Opportunities Aplenty For Entrepreneurs], 5741qi, 1476307723.0, 3
+997, [Thousands of rainbow trout escape into Danish sea after ship crash: Up to 80,000 rainbow trout have escaped into open waters after a cargo ship crashed into a Danish fish farm. Danes have been encouraged to take up their poles and start fishing, as the trout could damage the sea habitat], 571ra3, 1476266098.0, 3
+998, [Florida state agricultural officers are inspecting all dogs and other animals coming out of the Florida Keys, looking for signs of a screwworm infection that is killing the endangered Key deer.], 56yr91, 1476230753.0, 2

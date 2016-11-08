@@ -1,0 +1,48 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [How Russian propaganda in the form of falsified emails made it into the stump speech of the Republican Presidential candidate.], 56wiuo, 1476191323.0, 55
+2, [15 years later, we're still fighting in Afghanistan, and no one seems to care.], 56ib48, 1475980580.0, 50
+3, [This is not 2000 all over...], 58jpcl, 1477030017.0, 42
+4, ["Corruption Is Not A Type Of Petty Crime But A Tool Of Power, In Both Democracies And Dictatorships"], 59cc84, 1477445464.0, 41
+5, [Hillary ducked a question I really would have liked an answer to...], 58esgs, 1476963324.0, 42
+6, [Your Surgeon Is Probably a Republican, Your Psychiatrist Probably a Democrat], 56p64i, 1476087648.0, 42
+7, [Six reasons for Trump's rise that no one talks about. (Bear with the new title, the article is more evenhanded)], 57i0hs, 1476499769.0, 42
+8, [CNN Parts Ways With Donna Brazile After Debate Questions Were Provided to Clinton], 5ae4ak, 1477968403.0, 61
+9, [Two Women Say Donald Trump Touched Them Inappropriately], 57bbr9, 1476406802.0, 40
+10, [Donald Trump says he will sue all women accusing him of sexual harassment], 5977f6, 1477373327.0, 31
+11, [Why are Democrats so shocked at Trump's allegations of election fraud? Don't most Democrats think 2000 was stolen in Florida, and many think 2004 was stolen in Ohio?], 58jsdu, 1477030992.0, 27
+12, [Ecuador acknowledges restricting Assange's internet amid Clinton leaks], 58b4u6, 1476922608.0, 29
+13, [FBI announces that it is reviewing new evidence in its investigation into her use of a private email server as Secretary of State.], 59w1is, 1477707807.0, 27
+14, [Forget Trumps temperament and Clintons stamina. Voters care less and less about candidates personalities], 55zhy5, 1475703514.0, 28
+15, [Donald Trump says he has "never met" Vladimir Putin], 58r7pt, 1477133669.0, 26
+16, [How do we deal with the growing disconnect between the US military and the US people?], 57u2rd, 1476686597.0, 26
+17, [A veteran's view on the nra and the sad state of gun violence in this country], 57os58, 1476603319.0, 26
+18, [Duterte aligns Philippines with China, says U.S. has lost], 58hln6, 1477007686.0, 23
+19, [When Debbie Wasserman Schultz resigned as DNC Chair, she was named Honorary Chair of Clinton's 50-State Program. Now that Clinton is doing more down-ballot campaigning, do we know whether DWS is actually doing work on that effort?], 59t3i8, 1477665863.0, 21
+20, [Cybersecurity experts discuss the security of Americas electronic voting systems by breaking down vulnerabilities at the state, local and manufacturer level], 59hzp1, 1477522957.0, 21
+21, [Clintons Campaign is having to answer for $12 million the Clinton Foundation received from the king of Morocco.], 595tk8, 1477359006.0, 17
+22, [ISIS is sending "suicide squads" from Syria to its Iraqi stronghold of Mosul, witnesses have told CNN, as tens of thousands of troops close in on the key city to take it from the militant group's control.], 59k3hg, 1477544887.0, 18
+23, [Health Law Tax Penalty? I'll Take It, Millions Say], 59p2nw, 1477616080.0, 15
+24, [Any good website (or image) that categorizes/explains ALL political terms like Authoritarianism, Libertarian, Fascist, Communist, and things like that? I want to learn the difference between those terms.], 5767me, 1476331664.0, 17
+25, [Why the vice-presidential debate matters], 55t5f6, 1475611512.0, 14
+26, [The Importance of Art and the American Education System], 570gb0, 1476249430.0, 11
+27, [Clinton aide in hacked email: Need to 'clean up' Obama answer on email server], 59e2z7, 1477464152.0, 7
+28, ["Im the Last Thing Standing Between You and the Apocalypse"], 5754f5, 1476320098.0, 6
+29, [How credible and truthful are the popular YouTube political, social commentators (Sargon of Akkad, Nerdwriter, Paul Joseph Watson, Cult of Dusty and etc...)], 57c23w, 1476414769.0, 4
+30, [While states have spent years thinking about and planning for other types of crisis that can mess with voting  from hurricanes to power blackouts and terrorist attacks], 59v7vx, 1477699434.0, 3
+31, [33 Things This Election Will Decide That Have Nothing to Do With Trump or Clinton], 5agqrs, 1477996363.0, 5
+32, [Washington and South Dakota could become the first states to enact campaign finance vouchers], 5agqlm, 1477996313.0, 7
+33, [Hillary Clintons Benghazi Debacle: Arming Jihadists in Libya . . . and Syria], 58db1t, 1476945507.0, 1
+34, [When Anderson Cooper opened the debate by declaring Trump Bragged about sexually assaulting women, was he correct?], 56uv5i, 1476167962.0, 2
+35, [Rigged elections! What does that even mean?], 5ai78v, 1478022396.0, 0
+36, [Column: Congressional and presidential elections shouldn't occur at the same time], 5agq5l, 1477996170.0, 1
+37, [The 650,000 Question: Feds to search thousands of emails in Hillary Clinton investigation], 5adw9d, 1477966301.0, 2
+38, [Equality of Opportunity and Why We Don't Really Have It], 59vs4k, 1477705203.0, 1
+39, [Mosul: Islamic State is 'a brutal opponent', says US general], 58k2q0, 1477034370.0, 0
+40, [Trump will accept result 'if I win' - He added that he would accept a "clear" result - but reserved the right to challenge a "questionable" result], 58ixtf, 1477021641.0, 0
+41, [Northeast Ohio Couple, Who Normally Vote Democratic, Consider Trump], 5714k9, 1476257667.0, 2
+42, [President Obama ridiculed on Snapchat by daughter Sasha - BBC News], 59imo3, 1477529578.0, 0
+43, [I will not vote for Hillary Clinton. But, as Ive explained in these columns, I could never vote for Donald Trump.], 58pnhd, 1477112952.0, 0
+44, [Comey Is Not the One Whose Unorthodox Actions Are Casting a Cloud over the Election], 5adzp6, 1477967216.0, 0
+45, [Fact-checking the Economics Behind Third Clinton-Trump Debate.], 58zrsk, 1477274263.0, 0
+46, [Impeachable? A contrarian way of viewing this election.], 56chhm, 1475889393.0, 0
+47, [Gerrymandering Isnt Evil - Why independent redistricting won't save us from political gridlock.], 55n38t, 1475520401.0, 0

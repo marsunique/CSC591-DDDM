@@ -1,0 +1,5 @@
+ITEM NUMBER, THREAD TITLE, THREAD ID
+0, DEFAULT ENTRY, NONE
+1, [Obama admits to laughing at Trump during debates], 598tg7
+2, [In early Utah turnout, a third more Democrats than expected have voted], 598ee0
+3, [2016 Presidential Race - Third Presidential Post-Debate Megathread], 58eh18

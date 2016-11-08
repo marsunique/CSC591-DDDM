@@ -1,0 +1,1001 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Californians ballot initiative would require legislators to wear logos of top 10 contributors], 3ygh45, 1451290374.0, 10145
+2, [Rep. Mia Love wants to limit congressional bills to one subject at a time], 42sc14, 1453855243.0, 10053
+3, [Nebraska Just Abolished Civil Forfeiture, Now Requires A Criminal Conviction To Take Property], 4fnqns, 1461193252.0, 9380
+4, [Justice Department says it will end use of private prisons], 4ycwv3, 1471563251.0, 9198
+5, [Obama Endorses Idea of National Voting Holiday], 4j3232, 1463118335.0, 9082
+6, [McCain: Anyone Who Says Waterboarding Works is a Liar | "We tried Japanese generals and hung them for war crimes," said McCain. "One of the crimes was waterboarding."], 44zv2i, 1455092317.0, 8407
+7, [DNC Email Leak Megathread], 4u5ztv, 1469264469.0, 8314
+8, ["Six justices" on the U.S. Supreme Court have been "confirmed in presidential election years since 1912."], 4ay9f8, 1458336119.0, 8299
+9, [Homeland Security Secretary Jeh Johnson said Thursday his department is considering classifying electronic polling stations across the country as "critical infrastructure," entitling them to the same level of cyber-protection as the nation's power grid and financial sector.], 4wadp4, 1470432499.0, 8161
+10, [Congress is going to try to expand the Patriot Act tonight and hopes no one will notice], 4scrzl, 1468294055.0, 8133
+11, [Woman leading Flint lead poisoning lawsuit found shot dead in her home], 4g6j9u, 1461494916.0, 8097
+12, [President Barack Obama began an annual tradition of science fairs, arguing that if he celebrates the nations top athletes at The White House, he should do the same for the best young scientific talent.], 4vr6gd, 1470149184.0, 7964
+13, [Russ Feingold calls for making internet a utility], 51lmo4, 1473288707.0, 7802
+14, [Tim Canova, Debbie Wasserman Schultz's Primary Opponent, is Denied Access to Voter Files], 4apubh, 1458191413.0, 7790
+15, [Americans' Trust in Mass Media Sinks to New Low], 52scw6, 1473911439.0, 7783
+16, [Confirming Big Pharma Fears, Study Suggests Medical Marijuana Laws Decrease Opioid Use. Study comes after reporting revealed fentanyl-maker pouring money into Arizona's anti-legalization effort], 537gyt, 1474152020.0, 7751
+17, [Marijuana legalization is leading in every state where its on the ballot this November], 55zek9, 1475702200.0, 7607
+18, [Bernie Sanders: Obama Administration Should Kill The AT&T-Time Warner Deal: Higher Prices & Fewer Choices], 591def, 1477293138.0, 7584
+19, [Jimmy Carter: US campaign funding is 'legal bribery'], 43z987, 1454524071.0, 7575
+20, [Richard Sherman wants billionaires, not taxpayers, to pay for stadiums], 50d83w, 1472617445.0, 7554
+21, [Congressman plans bill to overturn CISA cyberspying legislation snuck into omnibus], 3ys8f5, 1451512507.0, 7546
+22, [Sanders calls notion he should quit Democratic race 'absurd'], 4awjff, 1458298837.0, 7533
+23, [Wells Fargo admits deception in $1.2 billion U.S. mortgage accord], 4e1ar4, 1460238371.0, 7515
+24, [Shoemaker New Balance is criticizing the Obama administration over the Trans-Pacific Partnership. The company is trying to make a running shoe with 100 percent American parts and feel the trade deal will doom shoes made in the U.S.], 4g3nvu, 1461450341.0, 7502
+25, [The Supreme Court has rejected an effort by Nebraska and Oklahoma to have Colorado's pot legalization declared unconstitutional], 4bccob, 1458597509.0, 7506
+26, [Bernie Sanders Slams Decision Not To Reclassify Marijuana: "People can argue about the pluses and minuses of marijuana, but everyone knows its not a killer drug like heroin."], 4x924g, 1470963914.0, 7487
+27, [Sanders Calls for Wasserman Schultz to Resign After Email Leaks], 4ud9tk, 1469398614.0, 7488
+28, [President Obama is seriously considering an executive order that would require companies doing business with the federal government to disclose their political contributions], 41w757, 1453350453.0, 7394
+29, [The ACLU is about to launch a campaign urging Obama to pardon Edward Snowden.], 52e421, 1473712577.0, 7378
+30, [Harvard study: Policy issues nearly absent in presidential campaign coverage], 53si3z, 1474482497.0, 7368
+31, [President Jimmy Carter says America, a once-free nation, is now an oligarchy, and thats not just his opinion. It is provable, and backed up by the research of top political experts and scholars.], 492viu, 1457221734.0, 7334
+32, [Jeb Bush Suspends 2016 Presidential Campaign], 46t5hs, 1456048283.0, 7340
+33, [President Barack Obama signs into law a ban on tiny plastic particles used in personal cosmetic products that scientists say are polluting U.S. lakes, rivers and the oceans.], 3ypt1y, 1451461682.0, 7298
+34, [New Mexico Passed a Law Ending Civil Forfeiture. Albuquerque Ignored It, and Now Its Getting Sued], 50i25f, 1472689711.0, 7302
+35, [These Louisiana politicians are demanding flood aid, but voted against Sandy relief], 4z2j4b, 1471925653.0, 7283
+36, [Phoenix mayor requests federal investigation into long voter wait times], 4bpi7a, 1458810457.0, 7247
+37, [Vermont Senate approves marijuana legalization 16-13], 47j0j6, 1456438073.0, 7246
+38, [Jimmy Carter calls for return to publicly-financed elections], 4o86et, 1466036948.0, 7170
+39, [Connecticut Police Accidentally Record Themselves Conspiring to Fabricate Criminal Charges Against Protester], 53icsu, 1474330810.0, 7148
+40, [Senior Associate Justice Antonin Scalia found dead at West Texas ranch], 45munw, 1455428773.0, 7129
+41, [Poll: 66 percent think presidential election process is broken], 4bx0sw, 1458950015.0, 7095
+42, [DNC rolls back Obama ban on contributions from federal lobbyists], 45fgw8, 1455322923.0, 7085
+43, [The Supreme Court ruled unanimously Tuesday that a Maryland man may proceed with his lawsuit alleging that the states congressional redistricting plan was unconstitutionally gerrymandered.], 3vxz85, 1449619710.0, 7070
+44, [TPP: "If U.S. Congress signs this agreement despite its blatant corruption, they'll be signing a death warrant for the open Internet and putting the future of free speech in peril."], 3s0878, 1447020613.0, 7067
+45, [Woman who filed first Flint lawsuit against government is murdered just days after suspicious death of foreman at city's water treatment plant], 4g7zxw, 1461530504.0, 7062
+46, [Sheriffs Raid to Find Blogger Who Criticized Him Was Unconstitutional, Court Rules], 4zrysk, 1472289224.0, 7063
+47, [Senator Elizabeth Warren Requests Formal Investigation About Why The Obama Administration Did Not Prosecute Wall Street], 52wjxw, 1473980360.0, 7059
+48, [6 Mich. employees criminally charged in Flint water crisis], 4v70hs, 1469833539.0, 7045
+49, ["It took pressure from the White House  including a phone call with President Obama  to get her to finally see the writing on the wall. Two reliable sources say Wasserman Schultz was trying to make top aides take the fall, rather than take personal responsibility."], 4uj3aq, 1469488511.0, 7005
+50, [2,500 Native Americans Successfully Block Oil Pipeline Construction -- State of Emergency Declared], 51v3av, 1473416475.0, 6982
+51, [Medical marijuana is no longer banned at the federal level. The near 2,000-page federal spending bill that was passed the other day included a provision that lifts the medical marijuana ban. The war on medical marijuana is now nearly over.], 3xlz43, 1450669031.0, 6985
+52, [Worried About Voter Turnout? Demand an Election Day Holiday: "Voters need time to vote."], 3s9wtn, 1447194031.0, 6977
+53, [Bernie Sanders is trying to single handedly kill AT&T's $85 billion purchase of Time Warner], 59lcba, 1477559913.0, 7039
+54, [Iowa Passes Plan to Convert to 100 Percent Renewable Energy. "We are finalizing plans to begin construction of the 1,000 wind turbines, with completion expected by the end of 2019,"], 50n3ez, 1472764364.0, 6972
+55, [The Case For A New National Holiday: Election Day], 58bdiz, 1476925154.0, 6944
+56, [Milwaukee Police Forcibly Arrested Two Men Last Night for Doing Nothing Wrong. They Got a Surprise When One Was A State Rep and the Other Was from the ACLU.], 50ph7s, 1472791896.0, 6931
+57, [Hillary Clinton Gets $13 Million From Health Industry, Now Says Single-Payer Will "Never, Ever Come To Pass"], 43ifoc, 1454259388.0, 6898
+58, ["Riot" Charges Against Amy Goodman Dismissed in Press Freedom Victory], 57z438, 1476759448.0, 6886
+59, [Obama to pick Merrick Garland for Supreme Court], 4anxgp, 1458165703.0, 6876
+60, [The alcohol industry is bankrolling ads to scare you about legal pot], 58v3nv, 1477197650.0, 6857
+61, [Leaked documents reveal secretive influence of corporate cash on politics], 52qcos, 1473886977.0, 6836
+62, [Marco Rubio dropped out of the Republican presidential race on Tuesday night after losing badly to Donald Trump in his home state of Florida.], 4albfr, 1458116670.0, 6836
+63, [Sanders revs up public option fight after Aetna leaves ObamaCare: "In my view, the provision of healthcare cannot continue to be dependent upon the whims and market projections of large private insurance companies whose only goal is to make as much profit as possible.], 4y1zex, 1471411878.0, 6823
+64, [Debbie Wasserman Schultz Booed at Chaotic Florida Delegation Breakfast], 4uilgl, 1469482207.0, 6811
+65, [Dear GOP: Stop playing politics and give Merrick Garland a confirmation hearing], 4asppu, 1458246737.0, 6789
+66, [Boehner: Cruz is 'Lucifer in the flesh'], 4gtvn6, 1461877515.0, 6788
+67, [After Texas Slashed Its Family Planning Budget, Maternal Deaths Almost Doubled], 4yfs1j, 1471594903.0, 6767
+68, [The TSA is a waste of money that doesn't save lives and might actually cost them], 4jr2wb, 1463522968.0, 6749
+69, [Meet the House science committee chairman whos trying to put global warming research on ice - Smith has received more than $600,000 from the fossil fuel industry during his career in Congress, campaign finance data show.], 3xtydb, 1450819202.0, 6729
+70, [New York City primary voters outraged by broken machines, closed polling places], 4fhu1g, 1461105003.0, 6691
+71, [Colorado Democrats admit mistake that cost Bernie Sanders key delegate -- Denver Post uncovers that Democratic Party told Hillary Clinton's campaign about caucus counting mistake, but kept public and Bernie Sanders camp in the dark], 4efmd2, 1460488690.0, 6697
+72, [House panel approves Koch-backed bill to shield donors' names from the IRS], 4gyytc, 1461958540.0, 6682
+73, [It is unacceptable that Americans pay, by far, the highest prices in the world for prescription drugs. The United States is the only major country on earth that does not in one form or another regulate prescription drug prices and the results have been an unmitigated disaster."], 3x87b0, 1450397144.0, 6677
+74, [8 days ago, the DNC quietly reversed its ban on lobbyist and special interest PAC contributions. Sanders asked Hillary Clinton to join him in calling for the DNC to reinstate the ban, put in place by Obama in 2008. She has yet to respond.], 46q532, 1456004870.0, 6676
+75, [Clinton Campaign Uses Noise Machine To Block Reporters From Hearing Fundraiser Speech], 4durh2, 1460116112.0, 6657
+76, [North Carolina is being sued for gerrymandering], 4wcrct, 1470461301.0, 6647
+77, [Governor Blocks $2.85 Minimum Wage Increase After Giving Staffers $73,405 Raises], 4av9nl, 1458279381.0, 6648
+78, [Half Of Americans Think Presidential Nominating System 'Rigged'.], 4go6by, 1461787967.0, 6636
+79, [Senator McConnell is right that the American people should have a voice in the selection of the next Supreme Court justice. In fact, they did  when President Obama won the 2012 election by five million votes, Ms. [Sen. Elizabeth] Warren, a former Harvard Law School professor, said in a statement.], 45rru9, 1455499288.0, 6639
+80, [Gov. Scott Walker privately signed a measure Wednesday loosening the state's campaign finance laws and eliminating the state elections and ethics agency that investigated his campaign for teaming up with conservative groups.], 3y30xk, 1450995454.0, 6640
+81, [Judge orders Obama administration to release new Clinton emails], 4m7dq6, 1464906149.0, 6630
+82, [Rand Paul Challenges Bernie Sanders To Hour-Long Debate On Socialism vs. Capitalism], 3sl252, 1447393575.0, 6628
+83, [Hacker releases Clinton Foundation documents], 4p57go, 1466552232.0, 6627
+84, [Obama administration orders ND pipeline construction to stop], 51ze5h, 1473480416.0, 6626
+85, [Leaked DNC Documents Show Plans To Reward Big Donors With Federal Appointments], 4uieru, 1469479556.0, 6573
+86, [Debbie Wasserman Schultz Resignation Megathread], 4uewdj, 1469421160.0, 6569
+87, [Sorry, Feds: Kids Can Sue Over Climate Negligence, Judge Says - An Oregon judge ruled Friday that their lawsuit, which alleges the government violated the constitutional rights of the next generation by allowing the pollution that has caused climate change, can go forward.], 4e84o1, 1460359064.0, 6558
+88, [New York Times Editorial: Stop Treating Marijuana Like Heroin], 4xk9w0, 1471141111.0, 6566
+89, ["'When I stand across from King Hussein of Jordan, I say to him you have a friend sir who will stand with you to fight this fight,' Christie said during Tuesday's Republican primary debate. Only problem is that Hussein has been dead since 1999."], 3x3ltq, 1450314790.0, 6560
+90, [Hillary Clinton is raking in donations from Wall Street, and her attempts to downplay it are under fire.], 3xrhzp, 1450768093.0, 6548
+91, [American Legion Calls for Marijuana Rescheduling], 51gdvk, 1473212795.0, 6541
+92, [President Obama held a conference call with 34 governors yesterday to remind them that, no, they arent allowed to restrict movement of refugees once they have been granted legal status and entered the United States.], 3tka5a, 1448053800.0, 6524
+93, [Arizona poll worker testifies incorrect ballots given to Democratic voters], 4gg873, 1461658031.0, 6509
+94, [Obama Administration Set to Remove Barrier to Marijuana Research], 4x55ob, 1470901626.0, 6498
+95, [Ted Cruz contemplates the unthinkable - Listen, Bernie talks about how Washington is corrupt, both parties are in bed with the lobbyists and special interests. I think he's exactly right.], 4tfrhv, 1468885045.0, 6496
+96, [Obama: I Plan to Fulfill My Constitutional Responsibility to Nominate a Successor], 45nzaz, 1455443726.0, 6490
+97, [New Yorkers File Emergency Lawsuit To Give Voting Rights Back To 3.2 Million People], 4fcq2j, 1461026245.0, 6495
+98, [If Ohio Bans Gerrymandering Today, There Could be Hope for American Democracy], 3rcsar, 1446589396.0, 6491
+99, [Obama: If we let Americans sue Saudis for 9/11, foreigners will begin suing US non-stop], 4fmws9, 1461181212.0, 6486
+100, [Hillary Clinton faces mass dissent over 'dirty tricks' on Bernie Sanders], 4uhmrt, 1469465568.0, 6476
+101, [Sanders vows to fight until convention], 4andfi, 1458157076.0, 6473
+102, [Tulsi Gabbard launches petition to end Democratic Party superdelegate process], 4no0bl, 1465719702.0, 6460
+103, [Bernie Sanders: 'Wells Fargo's business model is fraud'], 53r3o8, 1474454454.0, 6451
+104, [Arizona Politician: Lets be clear  voter suppression happened.], 4c9zzv, 1459198275.0, 6449
+105, [No Reporters Allowed at Hillarys Wall St Speeches], 4393km, 1454108160.0, 6429
+106, ["Sorry, GOP: You waited way too long to build an anti-Trump majority. Unless a miracle happens, you're about to get knocked out by an anti-establishment wave  a wave you mistakenly encouraged in the first place."], 497otx, 1457306195.0, 6432
+107, [Illinois cuts off funding for its public universities], 4b7kbu, 1458510483.0, 6418
+108, [Hillary PAC Spends $1 Million to Correct Commenters on Reddit and Facebook: FEC loopholes mean Correct the Record can openly coordinate with Clintons campaign.], 4fv43z, 1461301367.0, 6411
+109, [Bernie Sanders: Audit the Department of Defense, contractors wasting money while soldiers are on food stamps.], 3ynswt, 1451430382.0, 6403
+110, [Sanders Introduces Bill To Lift Federal Ban On Marijuana], 3rj9ki, 1446696113.0, 6403
+111, [Sanders agrees to participate in Fox News presidential town hall without Clinton], 48uvdf, 1457080032.0, 6389
+112, [Election Officials Tossed 90,000 Affidavit Ballots From Last Month's NY Primary], 4ipwwc, 1462924974.0, 6399
+113, [Liberal group demands DNC chairwoman resign: "As DNC chair, you have repeatedly failed to act in the best interests of progressives and the Democratic Party"], 3zvyiz, 1452209805.0, 6394
+114, [Trump says he will not debate Sanders], 4lcn49, 1464409461.0, 6368
+115, [Colin Powell Confirms Leaked E-Mails Are 'Accurate,' Warns More Are Coming], 52ss1a, 1473916440.0, 6362
+116, [Megathread: State Department Email Audit re: Hillary Clinton], 4l052h, 1464218250.0, 6358
+117, [Amy Goodman Is Facing Prison for Reporting on the Dakota Access Pipeline. That Should Scare Us All.], 57xi06, 1476742158.0, 6350
+118, [Native American protesters succeed in stopping construction on Dakota Access pipeline], 4ywn0n, 1471836840.0, 6333
+119, [Barack Obama: America will take the giant leap to Mars], 56xz6s, 1476221288.0, 6331
+120, [5 Times Debbie Wasserman Schultz Violated DNC Rules and Stacked the Deck in Favor of Clinton], 3xkutl, 1450649732.0, 6324
+121, [Wasserman Schultz booed off stage in Philadelphia], 4uinzl, 1469483136.0, 6325
+122, [Rep. Debbie Wasserman Schultz just got a primary challenger. Meet Tim Canova. He gets that the economy is rigged, supports Wall St. reform, legalizing marijuana and ending the war on drugs. Debbie opposes MJ legalization while taking money from the alcohol lobby. South Florida needs a new leader!], 406kp2, 1452380794.0, 6325
+123, [Bernie Sanders Takes On Walmart: Its gotten to the point that the American taxpayers are paying an additional $6 billion in economic support for Walmarts employees who are in need of welfare and food stamps and other subsidies just to survive.], 3ul2nj, 1448747320.0, 6322
+124, [Scores of students without vaccine proof sent home on first day of school], 4xp1eo, 1471224052.0, 6322
+125, [DOJ grants immunity to ex-Clinton staffer who set up email server], 48pwro, 1457001046.0, 6314
+126, [Clinton Declines To Participate In Fox News Dem Debate], 4kqofe, 1464072280.0, 6303
+127, [Jim Webb: The DNC Is Nothing More Than An Arm For The Clinton Campaign], 3xdyb2, 1450499682.0, 6303
+128, [28 pages on alleged Saudi Arabia ties to 9/11 attacks to be released], 4su7pg, 1468543261.0, 6297
+129, [Wikileaks Releases Nearly 20,000 Hacked DNC Emails], 4u3bt8, 1469230374.0, 6284
+130, [Taco Trucks Are Actually Registering Citizens to Vote in Texas and Arizona], 566lm5, 1475804158.0, 6276
+131, [On Marijuana, Hillary Clinton Sides with Big Pharma Over Young Voters], 435n7f, 1454047709.0, 6268
+132, [Don't let U.S. become next Rome: Entrenched political elites will sacrifice anything to retain power, including their own country.], 4htz5b, 1462388713.0, 6268
+133, [Obama lifts all restrictions on Cuban rum, cigars], 57ga7d, 1476479696.0, 6264
+134, [Bernie Sanders: "I am disappointed by the president's decision to continue pushing forward on the disastrous Trans-Pacific Partnership trade agreement that will cost American jobs, harm the environment, increase the cost of prescription drugs and threaten our ability to protect public health."], 4xjhxo, 1471130659.0, 6228
+135, [Hawaii Is Now Home to an Ocean Reserve Twice the Size of Texas | Obama more than quadrupled Papahnaumokukeas size, to 582,578 square miles, an area larger than all the national parks combined.], 4zoazw, 1472242848.0, 6223
+136, [New York City Passed Paid Sick Leave, and Guess What? It Didnt Kill Any Jobs.], 51rbf5, 1473370474.0, 6220
+137, [Hundreds of New York state voters to file suit calling the closed primary 'a threat to our democratic system' after claiming their party affiliation mysteriously changed], 4f43vl, 1460875649.0, 6202
+138, [Some of the nations leading defense companies are declaring war on an obscure Pentagon official named Shay Assad who has helped cut more than $500 million from military contracts with his aggressive scrutiny of their costs.], 4efzcn, 1460494961.0, 6203
+139, [Petition to White House about Arizona 'voter suppression' hit goal in about 40 hours], 4c0zjj, 1459023844.0, 6193
+140, [At Maine convention, Democrats to vote on eliminating superdelegates.], 4i14fu, 1462500158.0, 6199
+141, [Clinton call for end of private prisons sinks jail stocks], 54rs05, 1475026863.0, 6194
+142, [Those Demanding Free Speech Limits to Fight ISIS Pose a Greater Threat to U.S. Than ISIS], 3ynfw6, 1451422378.0, 6193
+143, [Why the Panama Papers should be a US election issue: Whether US politicians are named or not, the kind of arrangements that allow the global super-rich to hide their wealth only exist with our leaders consent], 4dll3h, 1459975829.0, 6184
+144, ["Ted Cruz tells a sweet story about the sacrifice he and his wife made four years ago to finance his upstart campaign for the U.S. Senate. The story, as it turns out, is phony. That doesnt come as a total surprise, since it is in keeping with the sham persona of Mr. Cruzs candidacy for president"], 4130hh, 1452892076.0, 6187
+145, [A record-high percentage of Americans  61 percent  say they support marijuana legalization], 4by7qh, 1458966170.0, 6190
+146, [Oregons Senator Jeff Merkley announced Friday his plan to introduce legislation that would require 100 percent of American energy to come from renewable sources by 2050], 4t4iod, 1468704168.0, 6178
+147, [Texas women are inducing their own abortions. Researchers fear DIY pregnancy terminations will become more widespread if clinics continue shutting down.], 3t6s24, 1447813850.0, 6175
+148, [Bernie Sanders endorses ColoradoCare universal health care measure.If that proposal can win in Colorado, I believe that idea will spread around the country.], 4zjxex, 1472177371.0, 6179
+149, ["The next time you hear me attacked as a socialist, remember this: I dont believe government should own the means of production, but I do believe that the middle class and the working families who produce the wealth of America deserve a fair deal," [Sanders] said.], 3thdmh, 1447995576.0, 6170
+150, [Kareem Abdul-Jabbar: Ben Carson Is Terrible for Black Americans | when an elected leader ignores testimony from 97% of the worlds experts, renowned physicists and the CDC, we have to question his decision-making abilities.], 3rmk3g, 1446759127.0, 6175
+151, [Clinton, Sanders to meet for Brooklyn debate], 4ddtfy, 1459842279.0, 6164
+152, [Des Moines Register calls for audit of Sanders-Clinton result in Iowa...], 445omf, 1454628008.0, 6165
+153, [Fiorina Drops Out Of 2016 Race], 454pjn, 1455163966.0, 6159
+154, [Voters call for 're-vote' during hearing into AZ's botched primary], 4ccbko, 1459229989.0, 6152
+155, [The Arrest of Journalists and Filmmakers Covering the Dakota Pipeline Is a Threat to Democracyand the Planet], 57ms0i, 1476577388.0, 6142
+156, [De Blasio Demands Explanation, as Decline in Registered Brooklyn Democrats Doubles], 4fh35q, 1461093235.0, 6132
+157, [Legal US pot sales soar to $5.4B in 2015], 43q17u, 1454382601.0, 6136
+158, [Clooney's neighbor throwing Saturday fundraiser for Sanders: Howard Gold, whose family founded the 99 Cents Only store chain, is calling his bash the 99% Party, with tickets selling for $27 per person.], 4f36m5, 1460861688.0, 6118
+159, [Sanders: Aetna's Obamacare Threat Shows What "Corporate Control Looks Like"], 4y9jxe, 1471513446.0, 6117
+160, [Clinton names Wasserman Schultz honorary chair of campaign team], 4uf0rr, 1469422761.0, 6111
+161, [Lynch to Remove Herself From Decision Over Clinton Emails, Official Says], 4qqufn, 1467393233.0, 6112
+162, [Atlanta Mayors Column Ripping Sanders Drafted by Lobbyist, Emails Show], 4i5i53, 1462576215.0, 6111
+163, [Panama Papers: Obama, Clinton Pushed Trade Deal Amid Warnings It Would Make Money Laundering, Tax Evasion Worse], 4dc88w, 1459821210.0, 6084
+164, [Pressure grows on Hillary Clinton to release Goldman Sachs speeches], 46nmtl, 1455955862.0, 6084
+165, [Obama formally joins US into climate pact], 50y8fc, 1472926219.0, 6075
+166, [Big Money Fights to Block Marijuana Legalization: "Private prison companies, which have openly admitted that any changes to laws affecting drugs and controlled substances could reduce demand for prison beds and hurt their bottom line."], 414vxb, 1452917866.0, 6062
+167, [Clinton IT aide to plead Fifth in email case], 4m3wbw, 1464848062.0, 6072
+168, ["In 2014, for the first time in recorded history, police seized more money and property from citizens than all burglars and thieves combined"], 4dgso4, 1459897334.0, 6061
+169, [Emails From Hillary Clintons IT Director at State Department Appear to Be Missing], 4ilkkr, 1462854815.0, 6059
+170, [Washington State Tells DEA to Shove It, Will Conduct Cannabis Research in Violation of the Law], 501ugo, 1472452938.0, 6065
+171, [Most voters favor cutting defense spending. Politicians say otherwise], 49yfdn, 1457725229.0, 6058
+172, [After years of intense secrecy, the Obama administration on Monday announced that it will for the first time acknowledge the number of people it has killed in drone strikes outside of conventional war zones, including civilians.], 49ieht, 1457471245.0, 6052
+173, [Dems discuss dropping Wasserman Schultz], 4kx2ib, 1464165936.0, 6039
+174, [Wisconsin Is Systematically Failing to Provide the Photo IDs Required to Vote in November], 552tck, 1475192983.0, 6039
+175, [Bernie Sanders accepts Fox News debate invitation], 4jyq1o, 1463631659.0, 6037
+176, [2016: The Year the Americans Found out Our Elections Are Rigged], 4ej2b8, 1460535978.0, 6043
+177, [Obama pushes for automatic voter registration], 45ban8, 1455256248.0, 6035
+178, [Americans dont know crime has plummeted. In fact, they think its gone up.], 56ti7m, 1476152937.0, 6026
+179, [Rand Paul Suspends 2016 Presidential Campaign], 43zxdv, 1454537219.0, 6032
+180, [Sanders: 5-hour voting lines a 'disgrace'. "People in the United States of America should not have to wait five hours in order to vote. We do not know how many thousands of people who wanted to vote yesterday in Arizona did not vote,"], 4bnml8, 1458784716.0, 6023
+181, [Wells Fargo's CEO Is Actually Getting Punished, Thanks To Elizabeth Warren], 54zhmm, 1475136504.0, 6024
+182, [Obama Moves To Protect Planned Parenthood Funding, Permanently], 522vv0, 1473539174.0, 6027
+183, [Ben Carson admits fabricating West Point scholarship], 3rs2ac, 1446856266.0, 6011
+184, [Bernie Sanders wants raw vote count released after tight finish in Iowa caucus], 43tpfs, 1454438463.0, 6007
+185, [Co-founders of Ben & Jerry's arrested at Capitol], 4fflct, 1461063275.0, 6017
+186, [Vote your conscience: Ted Cruz fails to endorse Donald Trump], 4tunw2, 1469095081.0, 6006
+187, [President Obama should pardon Edward Snowden before leaving office], 4q44yt, 1467072769.0, 6002
+188, [Sanders votes against increased defense spending. "Virtually every defense contractor has been found guilty or has reached a settlement with the government because of fraudulent and illegal activities. This has got to change.], 3so9hn, 1447459135.0, 6000
+189, [New York Suspends Clerk Who Wiped 126,000 Voters from the Books], 4g3tyq, 1461452989.0, 5987
+190, [Clinton aides to be questioned under oath on emails, judge orders], 478ztc, 1456292930.0, 5985
+191, [it would be quite ironic if, after years of questions surrounding Obamas U.S. citizenship, Republican primary voters were to choose the Canadian-born Cruz as their nominee." - White House press secretary Josh Earnest], 3zrivv, 1452139328.0, 5986
+192, [FBI Releases Documents in Hillary Clinton E-Mail Investigation Megathread], 50utmo, 1472871012.0, 5979
+193, [Judge sides with Planned Parenthood over Mississippi abortion law], 58mjza, 1477075224.0, 5981
+194, [Bernie Backs Jay Z's Call to End the War on Drugs], 52yft1, 1474002707.0, 5971
+195, [Washingtonians Hound Superdelegate Who Supports Clinton After Constituents Favored Sanders], 4cdhvy, 1459246991.0, 5971
+196, [Since becoming president of the Federal Reserve Bank of Minneapolis this year, the 42-year-old Kashkari has gone on a media blitz, visiting nine major media outlets in two days and creating a Twitter hashtag to promote his view that the biggest U.S. banks should break up.], 4d8wyy, 1459761822.0, 5960
+197, [Clinton Campaign: No More Debates Until Sanders Starts Being Nicer], 4cbbg8, 1459217008.0, 5960
+198, [Nevada Democratic Convention: The Videos You Need to See], 4jg79h, 1463349654.0, 5952
+199, [Panama Papers Source: 'I have watched as one after another, whistleblowers and activists in the United States and Europe have had their lives destroyed ... [Edward Snowden] deserves a heros welcome and a substantial prize, not banishment'], 4i5pd2, 1462578787.0, 5955
+200, [Bernie Sanders: "I don't think any sensible person would disagree that the invasion of Iraq led to the massive level of instability we are seeing right now. I think that was one of the worst foreign policy blunders in the modern history of the United States."], 3suzxq, 1447588933.0, 5948
+201, [Hillary Clinton to be interviewed in FBI email investigation], 4i6fyl, 1462588490.0, 5940
+202, [Clinton promising to crack down on corporations that game the system. Only days later, Clintons campaign is launching a fundraising blitz that includes events with representatives of industries that have significant business interests before the federal government.], 4592v9, 1455230756.0, 5935
+203, [Tennessee kills muni-broadband expansion bill after AT&T opposition: Lawmakers caved to lobbyists, disappointed rep says.], 4asudf, 1458248431.0, 5940
+204, [First Deposition Testimony from Clinton Email Discovery Released], 4l7s8e, 1464329269.0, 5928
+205, [Trump Rally Postponed in Chicago as Large Crowds of Protesters Gather], 4a1mkt, 1457772104.0, 5923
+206, [Hillary Clinton's Lead Over Sanders Nearly Vanishes], 40gl1g, 1452544464.0, 5926
+207, [Americans Distaste For Both Trump And Clinton Is Record-Breaking], 4hzxr8, 1462484452.0, 5913
+208, [Bernie Sanders Meets With Residents of Flint Before Campaign Rally in Michigan: "I really did not know how ugly, how horrible and how terrible what is going on there is. It is beyond my comprehension that in the year 2016, in the United States of America, we are poisoning our children.], 45zslh, 1455611836.0, 5912
+209, [Wasserman Schultz immediately joins Hillary Clinton campaign after resignation], 4uitm8, 1469485223.0, 5914
+210, [There are strong indications of election fraud in the Democratic primaries. We might not like it, it might make us uncomfortable, but the numbers and the statistics suggest that something untoward is happening], 4i2c7d, 1462516422.0, 5901
+211, [Elizabeth Warren: A new bill would end taxpayer subsidies for CEO retirement plans and give the money to seniors.], 3s4iez, 1447099918.0, 5900
+212, [Sanders says he's backing DNC chair's primary opponent, wouldn't reappoint her to DNC], 4kf0q0, 1463887233.0, 5901
+213, [#ChickenTrump: Twitter Pounds Candidate for Backing Down on Sanders Debate: the Republican frontrunner officially refused to debate Bernie Sanders. He did this despite having his initial demand of $10 million tripled, thanks to CEOs from two companies.], 4ldooa, 1464425178.0, 5894
+214, [Mark Cuban offers Trump $10 million charity donation for 4 hour policy interview], 5330cj, 1474075297.0, 5892
+215, [New Documents Show Government Lied About Edward Snowdens Concerns Prior To Leak], 4moaiw, 1465175063.0, 5891
+216, [Debbie Wasserman Schultz: "If it were up to me, Id exclude independents from Democratic primaries"], 4hl058, 1462268334.0, 5893
+217, [How Citizens United is helping Hillary Clinton win the White House: "Clintons massive campaign machine is built of the very stuff  super PACs, secret cash, unlimited contributions  she says shell attack upon winning the White House."], 4dqd4h, 1460051601.0, 5885
+218, [Clinton, under fire for oil and gas donations, once hit Obama for same reason], 4czckd, 1459588926.0, 5882
+219, [Bernie Sanders Plan to Deschedule Marijuana Earns Support of Former Surgeon General], 46gb1h, 1455850509.0, 5887
+220, [Analysis: By 2025, 99.6% of Paul Ryans tax cuts would go to the richest 1% of Americans], 53471v, 1474089738.0, 5885
+221, [Former Vice President Al Gore: "I Stand by the Standing Rock Tribe in their Opposition to the Dakota Access Pipeline"], 59i4ds, 1477524360.0, 5894
+222, [Gary Johnson right that most Americans back legal marijuana], 4y6uaz, 1471482902.0, 5871
+223, [Romanian hacker Guccifer: I breached Clinton server, 'it was easy'], 4hwwhm, 1462428316.0, 5871
+224, ["58% say they'd like to see the President nominate someone to the Court rather than leave the seat vacant until a new president takes office next year"], 48saop, 1457045760.0, 5868
+225, [Texas judge officiates same-sex marriage, then quits Republican Party], 574zgt, 1476318598.0, 5877
+226, [Clinton Claims Victory but Arizona's Voting Fiasco Dubbed "National Disgrace": Shuttered polling places, endless lines, and widespread disenfranchisementparticularly for minority communities], 4bn7k1, 1458779194.0, 5872
+227, [Hillary Clinton gets booed at Democratic debate after being confronted over Wall Street transcripts], 4eurso, 1460717549.0, 5868
+228, [Much Of The World Perplexed That Climate Debate Continues In U.S.], 3w42ym, 1449717936.0, 5874
+229, [Many Voters Are Reporting Mysterious Changes to Their Registration and Party Affiliation], 4eqzxa, 1460667525.0, 5862
+230, [Bernie Sanders Opens Up 60-33 Lead Against Hillary Clinton In New Hampshire Poll], 41r0nh, 1453269886.0, 5864
+231, [Election Board Scandal: Bernie Sanders Loses Votes, Hillary Clinton Granted Votes, Voters Erased], 4gasb3, 1461571649.0, 5861
+232, [After pot legalization could Colorado spearhead universal healthcare?: Coloradans will vote next year on whether to become the first state to opt out of ObamaCare and set up a single-payer system similar to Medicare.], 3sntce, 1447451403.0, 5861
+233, [Hillary Clinton invoked 9/11 to defend her ties to Wall Street. What?], 3swe4p, 1447627387.0, 5855
+234, [DNC caves, agrees to sanction more Democratic presidential debates], 43krn7, 1454301114.0, 5842
+235, ["You could say all these guys who work at Wal-Mart are on food stamps, and if they werent being paid a low wage, they wouldnt be on food stamps. So therefore implicitly we are subsidizing the hell out of Wal-Mart."], 4573o5, 1455194367.0, 5844
+236, [DNC Leak Shows Mechanics of a Slanted Campaign: "What's patently obvious from these emails is that there was virtually no distinction between DNC and Clinton campaign officials when it came to the handling of this media problem. They were all on the same team..."], 4uoonn, 1469569556.0, 5840
+237, [Liberal pundits blame Debbie Wasserman Schultz, not Bernie Sanders, for Democrats division], 4k3tw6, 1463710216.0, 5829
+238, [It's official: Medical marijuana now legal in Pennsylvania], 4f7wbo, 1460947903.0, 5831
+239, [Hillary Clinton Laughs When Asked if She Will Release Transcripts of Her Goldman Sachs Speeches], 42b3q9, 1453589605.0, 5830
+240, [Bernie Sanders' campaign has officially served the Democratic National Committee (DNC) with its lawsuit over access to party voter files, it said Thursday in a court filing.], 4bsv80, 1458873067.0, 5837
+241, [Hillary Clinton in 2008: Since When Do Other Democrats Attack Each Other on Universal Healthcare?], 40pj4s, 1452676198.0, 5833
+242, [All conditions have been met for Hillary Clinton to release her Wall Street speeches], 4j0kp4, 1463087184.0, 5825
+243, ["Sen. Marco Rubio (R-Fla.) made the fewest floor speeches and had the worst vote attendance record of any senator running for president"], 3xyym8, 1450913041.0, 5825
+244, [Facebook admits to blocking Wikileaks links in DNC email hack], 4ujo3r, 1469495109.0, 5821
+245, [GOP eases lead paint laws after $750,000 in donations], 531h27, 1474055053.0, 5822
+246, [Hillary Clinton Faces Growing Political Backlash by Refusing to Release Wall Street Speech Transcipts, Even Her Own Party Now Turning On Her], 4evweb, 1460739912.0, 5817
+247, [Bernie Sanders Calls Wal-Mart Walton Family Wealth Unacceptable: I say to the Walton family, get off of welfare. Pay your workers a living wage], 43xal5, 1454489124.0, 5825
+248, [Snowden Slams US for Ignoring Hillary Clinton's Email Controversy], 4m3fd4, 1464842481.0, 5813
+249, [The Democratic Party endorsed a "reasoned pathway to future legalization" of marijuana and called for the drug to be downgraded in the Controlled Substances Act, in a tense and unexpected victory for supporters of Bernie Sanders.], 4s2oko, 1468132906.0, 5817
+250, [Biden hits back at Clinton's criticism of Sanders], 4fu2v9, 1461288577.0, 5815
+251, [Rep. Tulsi Gabbard of Hawaii nominates Bernie Sanders at the Democratic National Convention], 4ur7yr, 1469599198.0, 5815
+252, ["The U.S. Constitution doesnt enshrine two parties. We demand fair and open elections in a multi-party democracy. "], 4b18a4, 1458380042.0, 5801
+253, [Hillary Clinton endorsed by U.S.'s largest LGBT organization- Bernie Sanders campaign notes that Clinton once supported anti-gay marriage bill], 41ubtw, 1453325377.0, 5799
+254, [Government declares 22 Clinton emails 'top secret'], 43akpo, 1454126706.0, 5797
+255, [Obama: Clinton showed "carelessness" with emails], 4e97c5, 1460377011.0, 5798
+256, [It's Time for Washington to Get Out of Bed With the Wahhabists Saudis], 3wlu2g, 1450008307.0, 5787
+257, [California Drug Price Measure Fiercely Opposed By Pharmaceutical Industry: "Drugmakers are waging a fierce campaign against a proposed California law that would require them to justify the costs of their treatments and disclose major price hikes."], 4pxljs, 1466973745.0, 5792
+258, [New Yorks transit workers union endorses Bernie Sanders], 4elo5a, 1460584623.0, 5789
+259, [Sanders Wins in West Virginia Democratic Primary], 4is3ss, 1462951925.0, 5794
+260, [The U.S. Drug Enforcement Administration will reclassify marijuana as a "Schedule Two" drug on August 1, 2016, essentially legalizing medicinal cannabis in all 50 states with a doctor's prescription, said a DEA lawyer with knowledge of the matter.], 4ozhgn, 1466467755.0, 5776
+261, [Bernie Sanders Calls for "Automatic" Federal Investigations of Deaths in Police Custody], 41os38, 1453240918.0, 5784
+262, ["Single payer works because you save $400 billion a year in administrative costs, and you can take that money and improve care for everyone. And thats what we need."], 3rerm1, 1446616567.0, 5783
+263, [Hillary Clinton rakes in Verizon cash while Bernie Sanders supports companys striking workers], 4enno1, 1460609728.0, 5774
+264, [New York Had the Second Lowest Voter Turnout So Far This Election Season: When you are only beating Louisiana, something is very wrong.], 4fpr4k, 1461217628.0, 5774
+265, [Bernie Sanders Team Just Accused Hillary Clinton of Violating Campaign Finance Rules], 4fe8jy, 1461044608.0, 5780
+266, [Tim Canova raises $557,000 in first quarter in race against Debbie Wasserman Schultz], 4dburq, 1459816410.0, 5774
+267, [Stop watching the news. Or at least try to understand that there's a massive bureaucracy whose entire purpose is to exaggerate threats and keep us afraid, just as there's one designed to get us to empty our bank accounts at Christmastime.], 3yaznx, 1451180884.0, 5773
+268, [Pro-Clinton PAC unleashes a ridiculous $1 million plan to correct Reddit], 4g3sph, 1461452444.0, 5765
+269, [Sanders releases 1990s picture of Clinton praising him on healthcare], 40t6ot, 1452736713.0, 5764
+270, [Bernie Sanders is reduced to tears as his brother Larry votes for him at delegate roll call], 4urpg7, 1469605463.0, 5756
+271, [Elizabeth Warren: American Justice Is 'Rigged' In Favor Of The Rich], 440umx, 1454549403.0, 5764
+272, [Report: Christie Impeachment on the Table], 544yzt, 1474669900.0, 5754
+273, [Sanders Applauds Decision to End Federal Use of Private Prisons], 4z193p, 1471910881.0, 5755
+274, [Sanders Accuses Clinton of Parroting His Message to Win Votes: 'The people of the US need to know the difference between hastily adopted campaign rhetoric and the real record of the candidates'], 477c4u, 1456273474.0, 5760
+275, [Hillary Clinton ducking final debate with Bernie Sanders in California], 4k71rl, 1463756206.0, 5759
+276, [Bruce Springsteen just cancelled a concert in North Carolina because of its anti-LGBT law], 4dy90d, 1460176058.0, 5751
+277, [Hillary Clinton campaign wants debate moderator to correct any lies], 54b4ta, 1474767352.0, 5751
+278, [Bernie Sanders calls for constitutional amendment to guarantee 100% voter registration], 3ruinv, 1446894619.0, 5753
+279, [Christie On Legal Pot: "Get High Now, Because When I'm President, It's Over, Buddy"], 44wwcd, 1455057075.0, 5752
+280, [Rand Paul rips Chris Christie: 'If you're in favor of World War III, you have your candidate'], 3x2pgs, 1450299956.0, 5745
+281, [Hillary Clinton yet to hold single press conference in 2016], 4ly7eq, 1464765965.0, 5740
+282, [Donald Trump: Ban all Muslim travel to U.S.], 3vugnr, 1449554446.0, 5739
+283, [Even ExxonMobil says climate change is real. So why won't the GOP?], 3vsb5s, 1449522232.0, 5743
+284, [Republican HQ in Orange County firebombed], 57t3b1, 1476674675.0, 5739
+285, [Sanders: Too many Americans have seen their lives destroyed because they have criminal records as a result of marijuana use. Thats wrong. That has got to change.], 4ih0f2, 1462780369.0, 5737
+286, [Nevada elections chief refuses to accommodate Native Americans who have to drive 200 miles to vote], 5a080j, 1477772853.0, 5746
+287, [Washington Post Ran 16 Negative Stories on Bernie Sanders in 16 Hours], 49h8cb, 1457447459.0, 5727
+288, [Pressure growing on FBI to release Clinton findings], 4g662b, 1461488307.0, 5727
+289, [Bernie Vatican Transcript: "The wealthiest 60 people60 peopleown more than the bottom half  3 1/2 billion people [...] The challenges facing our planet are not mainly technological or even financial [...] Our challenge is mostly a moral one, to redirect our efforts and vision to the common good."], 4exr8g, 1460769639.0, 5730
+290, [Hillary Clinton Booed at Town Hall for Criticizing Bernie Sanders], 46iv7t, 1455884389.0, 5720
+291, [Money influences everybody. That includes Hillary Clinton -- Democrats were quick to criticize Republicans who flirted with banks and big oil. Why wont they admit that Hillarys links are a problem too?], 4eqmpi, 1460660772.0, 5715
+292, [Clinton Flip-Flops on Coal, Now Wants Coal to Prosper], 4hjxzw, 1462253756.0, 5717
+293, [Bernie Sanders Calls Drug Addiction a Disease Not a Crime], 3xpt17, 1450743152.0, 5707
+294, [Mr. President, we need a new DNC chair], 4k43vn, 1463713500.0, 5707
+295, [Bernie Sanders now leads Hillary Clinton by 14 points in New Hampshire], 40mzcm, 1452643367.0, 5712
+296, [Bernie Sanders Wins Missouri After All], 4e8k4r, 1460366019.0, 5715
+297, [Clinton-DNC Joint Fundraising Raises Serious Campaign Finance Concerns], 4fdlgv, 1461036734.0, 5710
+298, [Bernie Sanders Is Crushing It, Raising Millions to Flip the Senate and Promising to Oppose Clinton if Necessary], 59chu8, 1477447095.0, 5716
+299, [Trump Booed for stating there were no weapons of mass destruction found in Iraq.], 45oaff, 1455448571.0, 5701
+300, [Poll: Hillary Clinton Plummets in Crucial Pennsylvania Primary, Lead Falls from 22 to 6], 4doju4, 1460016243.0, 5693
+301, [Postal Workers Union Endorses Bernie Sanders, in Boost to Underdog], 3sitx6, 1447355336.0, 5691
+302, [Bill Clinton says he would give Bernie Sanders his superdelegate vote if the Vermont senator takes the lead], 4cr57m, 1459475153.0, 5691
+303, [Hillary Clinton Wants to Regulate Fracking, But Still Accepts a Lot of Fracking Money], 49okc9, 1457566440.0, 5692
+304, [Thousands Call on DNC to Oust 'Corporatist Tool' Wasserman Schultz], 4lkqs2, 1464563229.0, 5688
+305, [Why aren't we looking into the Saudi role in San Bernardino attack?], 3vxj98, 1449613054.0, 5676
+306, [7 Out of 10 Americans Agree That Economy is Rigged Against Them], 4qct35, 1467189847.0, 5673
+307, [Sanders extends win streak with Wyoming victory], 4e2xof, 1460263362.0, 5675
+308, [Hillary Clinton has accepted campaign contributions from two major prison lobbyists, Wall Street, and the oil and gas industry, yet promises progressive stances against all these interests.], 44sa4e, 1454985429.0, 5668
+309, [CIA head suggests hell quit if demanded to return to waterboarding], 4sp15c, 1468467478.0, 5669
+310, [Senators Blame Obama For Not Helping Them Understand Their Own Bill], 55dlxs, 1475363839.0, 5665
+311, [Clinton Rejects Debate Challenge After Huge Sanders Wins in US West], 4cfafy, 1459284894.0, 5658
+312, [Clinton campaign chief linked to Russian bank listed in Panama Papers], 4djgbx, 1459932606.0, 5661
+313, [Arizona joins four other states voting on recreational marijuana], 519iqc, 1473112760.0, 5658
+314, [If Hillary Clinton Gets a Pass on Espionage From President Obama, So Should Whistleblowers], 4mw2t6, 1465285709.0, 5653
+315, [More Republicans Lawmakers Have Been Arrested For Bathroom Misconduct Than Trans People], 4e2l38, 1460258172.0, 5654
+316, [Sanders Accepts Invitation to visit Vatican City on April 15], 4dvzl4, 1460144342.0, 5648
+317, [Sanders closes to within 7 points of Clinton in national poll], 45ep4g, 1455312326.0, 5658
+318, [Planned Parenthood has been absolved. The GOP should give up its crusade. "In their evidence-free crusade, they have put vital health services at risk and wasted millions of taxpayer dollars."], 42xdix, 1453928842.0, 5653
+319, [The U.S. has worst elections of any long-established democracy, report finds], 4bn5d3, 1458778412.0, 5651
+320, [59 percent of Americans are sick and tired of the election], 4tel8n, 1468867616.0, 5644
+321, ["Two-thirds of Americans want U.S. to join climate change pact"], 3uuh6z, 1448916552.0, 5641
+322, [Clinton and Obama are wrong about Snowden  he was ignored after sounding alarm directly to the NSA -- Internal NSA docs show the whistleblower tried to work within the system, but had no choice but to leak to journos], 4mysqo, 1465331515.0, 5639
+323, [Deeply troubled: New Yorks top lawyer investigates voting irregularities in primary], 4fsgv1, 1461265747.0, 5635
+324, [Politifact: Fact-checking Hillary Clinton's claim that her email practices were 'allowed' - False], 4lxbzg, 1464755230.0, 5636
+325, [Giuliani Claims There Were No Terror Attacks On US Soil Before Obama (Video)], 4xv6ef, 1471316241.0, 5632
+326, [Bernie Sanders' anti-superdelegate push gains steam in Senate. A growing number of senators back changes to a system critics say gives party bosses undue sway to decide the nominee], 4p4dzq, 1466541730.0, 5641
+327, [In a statement, Hillary Clinton noted the family had given $15 million to charity since 2007. The tax returns show $14.8 million of that went to the Clinton Family Foundation.], 4f0cwy, 1460807539.0, 5639
+328, [Clinton Must Release Her Wall Street Transcripts Now That the Prerequisite She Set Has Been Met], 4ia9co, 1462661635.0, 5638
+329, [Black Lives Matter protest in Wichita changed to cookout with police], 4th2l2, 1468900708.0, 5628
+330, [Atheist Group Calls For DNC CFO To Resign Over Proposed Attack On Bernie Sanders' Faith], 4ur359, 1469597517.0, 5627
+331, [We Already Had an Election to Decide Who Gets to Appoint the Next Supreme Court Justice: It was in 2012.], 462b1v, 1455656088.0, 5624
+332, [DNC sought to hide details of Clinton funding deal], 4uo3mq, 1469560381.0, 5625
+333, [Clinton Foundation Discloses $40 Million in Wall Street Donations], 48c75o, 1456806000.0, 5624
+334, [Rubio: No abortions for Zika-infected women], 4wi8he, 1470553109.0, 5620
+335, [What American history is about is that change never happens from the top down, but from the bottom up, [Bernie Sanders] said. Employers in companies did not give workers the right to form a union, workers fought for that right. They got beaten up, went to jail and even died for that right.], 4ackwr, 1457980462.0, 5615
+336, [Bernie Sanders Doubles Down on Critique of Hillary Clinton's Speaking Fees: Well, I think it is a fact. A fact. Anyone disagree with me? She has received $600,000 in one year as speaking fees from Goldman Sachs."], 41lkop, 1453186914.0, 5612
+337, [FBI criminal investigation emails: Clinton approved CIA drone assassinations with her cellphone, report says], 4nhfg9, 1465608676.0, 5617
+338, ["Hillary Clinton was supposed to have turned over all work-related emails to the State Department to be released to the public. But an agency audit found at least three emails never seen before"], 4lb4os, 1464390151.0, 5609
+339, [Sanders Did Even Better in Colorado Than Reported, But No One Told Him], 4egdkb, 1460500830.0, 5610
+340, [The chancellor for the pontifical academy, Bishop Marcelo Sanchez Sorondo, said he invited Sanders because he was the only U.S. presidential candidate who showed deep interest in the teachings of Francis.], 4f1w25, 1460842071.0, 5597
+341, [Early Voter Turnout Shatters Primary Election Records in Chicago], 4aj4hi, 1458087183.0, 5606
+342, [Clinton scheduled to meet with FBI Saturday.], 4qt0lj, 1467423862.0, 5606
+343, [Law makes clear DOJ should prosecute Clinton for mishandling 'national defense information,' classified or not.], 4dayu7, 1459803824.0, 5600
+344, [Obama's Endorsement Of Debbie Wasserman Schultz Brings In Serious Money... For Her Challenger], 4dax3d, 1459803018.0, 5594
+345, [Release of Clintons Wall Street Speeches Could End Her Candidacy for President], 4exj0t, 1460766807.0, 5601
+346, [Edward Snowden: Clinton's Call for a 'Manhattan-Like Project' Is Terrifying], 3xpdu0, 1450736095.0, 5603
+347, [Bernie Sanders taps his donor network to raise nearly $2 million in two days for House, Senate contenders], 58k5ka, 1477035356.0, 5602
+348, [Bernie Sanders rallies 27,000 in Manhattan], 4ep2vu, 1460629536.0, 5598
+349, [Elizabeth Warren Urges CDC To Look At Pot As Potential Fix To Prescription Painkiller Epidemic], 455o0o, 1455175007.0, 5596
+350, [Wisconsin's largest paper blasts Clinton on transparency], 4cmmv7, 1459398377.0, 5593
+351, [NY Election Boards Inundated With Calls From Voters "Pissed Off" About Registration Issues], 4dmn8j, 1459990663.0, 5591
+352, [Sanders calls for more debates  on his own terms: They want one each in March, April and May. All three must not be scheduled on a Friday, Saturday or holiday, and all three must include Martin OMalley as well as Sanders and Clinton.], 43157b, 1453976335.0, 5586
+353, [54,000 Brooklyn voters vanish ahead of primary day], 4fhnba, 1461102550.0, 5587
+354, [Nevada Dem convention devolves into chaos], 4jdgrs, 1463294040.0, 5583
+355, [Sanders joins protesters against ND pipeline project], 52o509, 1473845361.0, 5580
+356, [First Wisconsin super delegate sides with Bernie Sanders], 4dtegh, 1460095206.0, 5590
+357, [Top Democrat suspended for mysterious voter purge], 4i48ck, 1462551875.0, 5581
+358, [Trump: 'How can Ted Cruz be an evangelical Christian when he lies so much and is so dishonest?'], 45f1tt, 1455317547.0, 5587
+359, [Whats Hillary waiting for? 80 days after promising I will look into it, Clinton still has not released her paid speeches to Wall Street], 4gehe8, 1461635271.0, 5576
+360, [Hillary Clinton angers Iowa fans who waited hours for five-minute speech], 4248fq, 1453470881.0, 5575
+361, [Sanders: "If we dont win, we intend to win every delegate we can so that when we go to Philadelphia, we will have the votes to put together the strongest progressive agenda that any party has ever seen"], 4gx477, 1461920712.0, 5579
+362, [Clinton super PAC offered Vermont newspaper 'off the record' anti-Sanders 'tips': Report], 42g1tn, 1453674818.0, 5573
+363, [ Mondays demonstration was one of the largest acts of civil disobedience to occur inside Washingtonand it barely got any attention from the mainstream press.], 4eljk1, 1460582786.0, 5566
+364, [Bernie Sanders is right: Drug companies did help cause the opioid epidemic], 41h3bl, 1453116838.0, 5569
+365, [Bernie Sanders Refuses to Concede Nomination to Hillary Clinton], 4nt1qq, 1465805297.0, 5571
+366, [Thousands turn out for Clark County Democratic Convention -- Sanders gets more delegates than Clinton], 4d44uv, 1459672839.0, 5564
+367, [Christie should be impeached if he lied about Bridgegate], 541638, 1474606508.0, 5554
+368, [Hillary Clinton's absurd claim that she's the only candidate being attacked by Wall Street], 4d8tpc, 1459760306.0, 5553
+369, [Most Americans say that a Trump presidency is terrifying: "Almost two-thirds of Americans say the prospect of him occupying the White House scares them."], 3wa38i, 1449811443.0, 5555
+370, [Sanders Campaign Endorsed by MoveOn.org], 40miqb, 1452635851.0, 5548
+371, ["Secretary Clinton is looting funds meant for the state parties to skirt fundraising limits on her presidential campaign"], 4hkf6i, 1462260038.0, 5543
+372, [Bernie Sanders Turnout: Young Voters Say They Back Sanders But Don't Show Up To Vote For Him], 47vhv4, 1456614864.0, 5543
+373, [FBI director James Comey to answer questions from Congress on Thursday over Hillary Clinton email investigation], 4ril16, 1467842259.0, 5535
+374, [19-year-old charged, allegedly trying to assassinate Donald Trump], 4p1qq2, 1466495604.0, 5545
+375, [Bernie Sanders: Marijuana use should not be a federal crime], 4dcne0, 1459826610.0, 5537
+376, [Bernie Sanderss health-care plan is the biggest attack on the rich of this campaign "We now know it would. We also know that, by Sanders' accounting, the plan would actually put more money into the pockets of all but the very richest Americans."], 41jb0z, 1453158540.0, 5539
+377, [Donald Trump: I meant that Obama founded ISIS, literally], 4x8l5i, 1470958466.0, 5533
+378, [Later, Sanders explained, "Not having enough money was a cause of constant tension, and when you are five or six years of age and your parents are yelling at each other, it's, you know -- you think back on it now, you know -- it's traumatic and it's hard."], 4561af, 1455179623.0, 5536
+379, [Clinton's dismal approval ratings prompt Dem fears], 4ekwu5, 1460571140.0, 5524
+380, [Hillary Clintons claim that the highest per capita number of crime guns in New York come from Vermont: Three Pinocchios], 4efmfa, 1460488723.0, 5519
+381, [Leaked Emails Show DNC Officials Constructing Anti-Bernie Narrative: "Wondering if theres a good Bernie narrative for a story, which is that Bernie never ever had his act together, that his campaign was a mess.], 4u441d, 1469239624.0, 5523
+382, [Hillary Clinton Doubles Down on Email Scandal, Saying 'It Was Allowed'], 4l7v0r, 1464330299.0, 5515
+383, [Trump: I could shoot people in streets and not lose support], 42c8q7, 1453605572.0, 5522
+384, [Hillary Clinton Posted Names of Hidden Intelligence Officials On Her Email], 4mamz7, 1464947503.0, 5522
+385, [Judge Orders Faster Release of Final Hillary Clinton Emails], 45g4fu, 1455330948.0, 5517
+386, [Sanders: U.S. multinationals would owe $620 billion on overseas profits - Mostly True], 4ebas7, 1460418851.0, 5517
+387, [Bernie Sanders Warned Congress About Panama's Tax Havens In 2011], 4dgdp6, 1459891331.0, 5510
+388, [Hillary's Superdelegate Coup Just Confirms to Millennials: The System Is Rigged], 45bbe2, 1455256511.0, 5513
+389, [Bill Clinton's Labor Secretary Just Endorsed Bernie Sanders], 47sxrv, 1456569888.0, 5503
+390, ["Sanders, who was little-known when he began his unlikely bid for president in April, has become a hero on the Democratic left among progressives disillusioned by growing income inequality and money in politics."], 3typ1i, 1448328191.0, 5502
+391, [National poll: Sanders tied with Clinton, Trump up 8 points], 467xlf, 1455737072.0, 5495
+392, [Bernie Sanders is the most popular politician in America], 59f3xv, 1477476839.0, 5522
+393, [Hillary Clinton has pneumonia, doctor says], 52asml, 1473658006.0, 5495
+394, [Megathread - Ted Cruz Suspends Presidential Campaign], 4hs1qj, 1462352069.0, 5499
+395, [Julian Assange: "Hillary is incorporating Debbie into her campaign. She is going to be pushing for her re-election to the Congress. That is a very interesting signalling by Hillary Clinton. That if you act in a corrupt way that benefits Hillary Clinton, you will be taken care of." [5:53]], 4ukzlr, 1469510312.0, 5482
+396, [Amid Hawaii delays, the Internet turned to a Google doc for caucus results, 'the mainstream media was nearly silent on his victory, voters took the electoral process into their own hands.'], 4c5bkf, 1459108520.0, 5487
+397, [Hillary Clinton Forgot That She Supported a Coup in Honduras], 49ue0a, 1457658975.0, 5481
+398, [Sam Brownback gutted Kansas: How Americas worst governor and an ultra-conservative ideology wrecked an entire state], 4h4euj, 1462051130.0, 5481
+399, [Bernie Sanders wins Michigan in stunning upset], 49mfcd, 1457526801.0, 5478
+400, [This is what the revolution looks like: Former Sanders staffers are launching a new PAC aimed at midterm Congressional elections], 4guy4g, 1461891819.0, 5479
+401, [Ex-Aide to Hillary Clinton Testifies About Email Server: A former aide to Hillary Clinton, Lewis A. Lukens, when she was secretary of state testified behind closed doors for two hours Wednesday in the first in a series of depositions.], 4k1z6a, 1463685607.0, 5477
+402, [Hillary Clintons Wal-Mart ties breed mistrust among liberals, boost Bernie Sanders-"Alice Walton, the daughter of Sam Walton, the founder of the chain of big box stores, gave Mrs. Clintons Democratic National Committee Victory Fund $353,000 in December, a contribution just made public last month."], 47p30z, 1456523438.0, 5475
+403, [Bernie Sanders' campaign threatens to sue DNC], 3xdfb1, 1450491631.0, 5477
+404, [Wall Street Whistleblower Turns His Scrutiny on the Clinton Foundation - This is a charity fraud], 4i08sm, 1462488915.0, 5470
+405, [Hillary Clinton wrongly says Bernie Sanders wants to delay the Clean Power Plan. We rate Clintons claim False.], 49sdx8, 1457621223.0, 5470
+406, [Bernie Sanders Received More Individual Campaign Contributions Than Obamas Entire 2008 Campaign], 4eh4oi, 1460510570.0, 5473
+407, ["A large, impassioned crowd of Bernie Sanders supporters  chanting Hell, no, D.N.C., we wont vote for Hillary  marched on Sunday afternoon to the site of the Democratic National Convention, promising a week in which the partys divisions will be on vivid display in the streets."], 4ufxhm, 1469435742.0, 5473
+408, ['Edward Snowden did this country a great service. Let him come home'], 52qtzk, 1473893357.0, 5473
+409, ["As I mentioned to you earlier, my father was born in Poland. Like Obama, I am the son of an immigrant father. Nobody has ever asked me for my birth certificate. Maybe it's because of the color of my skin being different than Obama's," Sanders, I-Vt., said.], 40iquc, 1452573455.0, 5465
+410, [Debbie Wasserman Schultz could be out as DNC chair before the convention], 4liyzx, 1464522258.0, 5464
+411, [Libertarian Candidate Gary Johnson Reaches 12% In Polling. At 15% He will Be Able to Participate In the Presidential Debates.], 4sinyh, 1468378130.0, 5459
+412, [Senator Bernie Sanders of Vermont vowed on Monday night that no matter the outcome of the Super Tuesday races, his campaign would continue to rally voters against a political establishment that is largely backing his rival, Hillary Clinton.], 48dmqj, 1456822674.0, 5461
+413, [All they want to do is screw over the president: Ryan, McConnell confirm they have no real agenda in 16 besides blocking Obama], 3zf6x3, 1451950030.0, 5467
+414, [Trump calls for drug test before debate], 57mxpa, 1476579410.0, 5458
+415, [Sanders beats Clinton in Wisconsin], 4djldl, 1459934761.0, 5453
+416, ["The Clintons most recent financial-disclosure forms show that he earned nearly $2.7 million in fees for speaking to audiences that included financial-industry firms, after she announced her candidacy."], 4lk76x, 1464552445.0, 5456
+417, [Its official: The Bush tax plan loses trillions and worsens inequality], 3wddix, 1449867836.0, 5452
+418, [Donald Trump backs out of debate with Bernie Sanders], 4lcqc0, 1464410667.0, 5447
+419, [Hillary Clinton Made More in 12 Speeches to Big Banks Than Most of Us Earn in a Lifetime], 402h2n, 1452308190.0, 5450
+420, [A 90-Year-Old Woman Whos Voted Since 1948 Was Disenfranchised by Wisconsins Voter-ID Law], 565vp5, 1475795880.0, 5447
+421, [Hillary Clinton says her campaign 'depends on small donations for the majority of our support'], 4bdwzf, 1458618404.0, 5442
+422, [Bernie Sanders: "I am delighted that the new president of the Minneapolis Federal Reserve believes that we need to break up 'too big to fail' banks."], 46alhu, 1455767488.0, 5443
+423, [People Hate Rahm Emanuel So Much It Might Cost Hillary Clinton Illinois], 4afukk, 1458028401.0, 5445
+424, [US has spent nearly $5 trillion on wars since 9/11], 52q0h0, 1473881615.0, 5439
+425, [Hillary Clinton aide moves to block release of deposition video], 4l28nt, 1464244132.0, 5439
+426, [Hillary "laughs off" everything she doesn't want to talk about], 42egnx, 1453637702.0, 5438
+427, [NYTimes Public Editor on Sanders Story: Yeah, We Screwed Up], 4av13i, 1458276032.0, 5447
+428, [Obama calls for an end to gerrymandering in the State of the Union], 40qeh4, 1452688871.0, 5441
+429, [Bernie Sanders forced to sue Ohio after rule change bars 17-year-olds from voting in primary -- Ohio's Republican secretary of state quietly changed the rules to block young voters from Tuesday's election], 49pekk, 1457577182.0, 5441
+430, [Obama warns: Discrimination against Muslims helps ISIS], 3wiema, 1449954035.0, 5441
+431, [Before Her Assassination, Berta Cceres Singled Out Hillary Clinton for Backing Honduran Coup], 4a0bu7, 1457753642.0, 5435
+432, [A super-PAC backing Hillary Clinton has accepted $200,000 in donations from a company holding multiple contracts with the federal government  despite a ban on such contributions], 4qetx5, 1467224965.0, 5429
+433, [Ben Carson doesn't understand how the debt ceiling, the budget, or interest rates work], 3r9dl6, 1446526623.0, 5431
+434, [Bernie gets green light to appear on D.C. ballot], 4dhxbn, 1459911670.0, 5436
+435, [Media Silent as Stunning New Poll Shows Bernie Sanders Surging in Crucial Primary States], 40ejqd, 1452506761.0, 5434
+436, [Obama not ready to endorse Clinton 'at this point:' White House], 4n0865, 1465349793.0, 5428
+437, [Hillary Clintons Energy Initiative Pressed Countries to Embrace Fracking, New Emails Reveal], 4kpgav, 1464057494.0, 5425
+438, [Let's drug-test the rich before approving tax deductions, US congresswoman says], 4oea1u, 1466124132.0, 5427
+439, [Your Taxes Are Being Spent on Preventing Other Citizens from Voting], 4cwv9t, 1459560727.0, 5428
+440, [Sanders campaign slams blackout by corporate media], 3wo07k, 1450055571.0, 5421
+441, [Pennsylvania Democrat Calls for Debbie Wasserman Schultz to Resign from DNC], 49e1z6, 1457404901.0, 5417
+442, [Trump campaign denies plagiarism in Melania's speech, blames reaction on Clinton], 4tkz8w, 1468961808.0, 5414
+443, [Sanders Introduces Major Clean Energy Jobs Package: It is time for us to invest in technologies that are cutting greenhouse gas emissions and in the long run will be more cost-effective, Sanders said.], 3yww4j, 1451600559.0, 5416
+444, [Democratic National Committee Breached by Russian Hackers], 4o217k, 1465948130.0, 5417
+445, [Ted Cruzs claim that sexual assaults rate went up significantly after Australian gun control laws: Four Pinocchios], 42l7ou, 1453755798.0, 5409
+446, [Pro-Clinton PAC unleashes a ridiculous $1 million plan to correct Reddit], 4g9lk7, 1461555047.0, 5408
+447, [Clintons Lead Has Evaporated in Nevada and Her Supporters Are Panicking], 46f5va, 1455837036.0, 5414
+448, [Texan who says Obama was a gay prostitute holds commanding lead in Board of Education vote], 48m7pe, 1456955710.0, 5403
+449, [The Armed Oregon Ranchers Who Want Free Land Are Already Getting A 93 Percent Discount], 3zh2dp, 1451975831.0, 5397
+450, [Shoe Company New Balance Says US Gov't Basically Offered It a Bribe to Support TPP], 4ell0f, 1460583377.0, 5403
+451, [Marijuana Legalization in Colorado Is Killing Mexican Drug Cartels], 43vrpw, 1454469431.0, 5396
+452, [While America is distracted by the Trump freakshow, Indiana just passed one of the most restrictive abortion bills in the nation. Governor Mike Pence is expected to sign a bill into law that would end nearly all abortions in his state.], 4admon, 1457999498.0, 5393
+453, [Sanders wins Oregon], 4jusho, 1463571549.0, 5394
+454, [Fentanyl Maker Donates Big to Campaign Opposing Pot Legalization], 51susj, 1473388844.0, 5391
+455, [It sure looks like Aetna quit Obamacare because Obama opposed their merger], 4y5lh2, 1471469707.0, 5395
+456, [Rubio Rejects Plea From Republican Mayor Of Miami To Accept Scientific Consensus On Climate Change], 49ynwi, 1457729567.0, 5385
+457, [Mitt Romney: Republicans Are Nuts Not to Raise the Minimum Wage], 40yi57, 1452820392.0, 5398
+458, [Hillary Angrily Denies Sanders Claim She Takes Money from Big Oil, After Taking Money from Big Oil], 4e4kgd, 1460291163.0, 5387
+459, [Colorado Juries Keep Letting People Go for Driving on Weed, Prosecutors and Cops are Furious], 3txzts, 1448317123.0, 5390
+460, [Bernie Sanders, Loud and Clear: "...[H]e is now making the case for progressive policies in a manner that the United States hasnt seen in decades."], 3sz0zu, 1447670496.0, 5391
+461, [Bernie Sanders: "We don't need more Wall Street CEOs in any administration"], 54lh21, 1474936419.0, 5384
+462, [Hillary Clinton's wealthy donors revealed in Panama Papers], 4fsqwk, 1461270951.0, 5381
+463, ["Hillary Clinton: I feel sorry sometimes for the young people who, you know, believe this. They don't do their own research."], 4d7ojb, 1459742774.0, 5378
+464, [Bernie Sanders Gets Group Endorsements When Members Decide; Hillary Clinton When Leaders Decide], 42639s, 1453506624.0, 5385
+465, ["Sanders can make a credible case that he can fund his $1 trillion infrastructure program over a 10 year period by taxing the profits of U.S. corporations now held in low-tax tax havens  and that such a spending plan could result in 13 million jobs."], 3t8lt1, 1447840147.0, 5382
+466, [I will not nominate any man or woman to the Supreme Court unless that individual is loud and clear in saying he or she will vote to overturn Citizens United and do that as quickly as possible - Bernie Sanders], 3vgrzt, 1449293311.0, 5382
+467, [Vermont governor wants legislation to legalize marijuana], 400xgm, 1452285535.0, 5371
+468, [Clinton not only rubber-stamped major weapon deals with 20 countries that donated to her and her husband's philanthropic arm, the Clinton Foundation, but also approved nearly double the amount of arms sales to those same 20 countries as the State Department of George W. Bush], 3xs02y, 1450776478.0, 5378
+469, [At 3% in the polls, Jeb Bush in free-fall], 3vesg2, 1449262351.0, 5371
+470, [Flint mayor diverted water-crisis money to political PAC, suit says], 4in6v7, 1462876803.0, 5372
+471, [Sanders blasts Trump: 'What are you afraid of?'], 4lcrxd, 1464411254.0, 5372
+472, [Even when 91% of Americans believe the influence of money in politics should be reduced, the two major parties are doing everything they can to stifle candidates who promise to do something about it.], 3xdt3g, 1450497441.0, 5364
+473, [Bernie Sanders Polls: After trailing Hillary Clinton by 30 points in Illinois, Sanders now leads just two days before voting.], 4a8eel, 1457906328.0, 5374
+474, [Sanders Supporters Protest at Nevada Democratic Convention: This is Fixed], 4jkkuv, 1463424126.0, 5370
+475, [What the hell just happened in Nevada? Sanders supporters are fed up  and rightfully so -- Allocations rules were abruptly changed and Clinton was awarded 7 of the 12 delegates Sanders was hoping to secure], 4jlok5, 1463441313.0, 5364
+476, [Leonardo DiCaprio attacks Republican presidential candidates on climate change | We should not have a candidate who doesnt believe in modern science to be leading our country, he said.], 4bre87, 1458852378.0, 5374
+477, [There is no way Secretary Clinton and her staff have not violated classified information laws  both misdemeanors and felonies, said Joseph E. diGenova, former U.S. attorney for the District of Columbia. The FBI is conducting a serious, criminal investigation. This is not a security review.], 48mu90, 1456964528.0, 5372
+478, [Wonder why so many in Congress have refused to endorse Bernie? Follow the money. Between 2008-2012, United Healthcare, Cigna and Aetna have donated to nearly all Democrats running for Congress. Guess what single payer, Bernie's plan, does? It largely gets rid of private healthcare premiums.], 45kwx0, 1455406211.0, 5364
+479, [Bill OReilly will flee to Ireland if Sanders is elected. Hes in for a shock], 41ctr3, 1453050837.0, 5373
+480, [Elizabeth Warren Challenges Clinton, Sanders to Prosecute Corporate Crime Better Than Obama], 438hrj, 1454097176.0, 5368
+481, [Bernie Sanders tells supporters he sees a winning streak coming "In a fundraising solicitation, the senator from Vermont wrote that Clinton had reached her 'high-water mark' in the campaign. 'Starting today, the map now shifts dramatically in our favor,' Sanders said."], 4ap9ml, 1458183675.0, 5361
+482, [House Democrats mistakenly release transcript confirming big payout to Clinton friend Sidney Blumenthal], 4q668k, 1467096461.0, 5358
+483, [Hillary Clinton Has a Lot to Say About Her Emails. Much of It Isnt True], 4lw22m, 1464740665.0, 5356
+484, ["When politicians start telling you that it is "unrealistic" to support candidates who want to build a movement for greater equality, fair wages, universal health care and an end to corporate control of our political system, it's probably best to leave the room."], 46l7iw, 1455925510.0, 5359
+485, [Allegations of voter fraud follow Hillary Clinton campaign across nation], 4fx2lm, 1461331211.0, 5355
+486, [Biden praises Sanders on income inequality, calls Clinton 'relatively new' to the fight], 40kb49, 1452593611.0, 5353
+487, [Obama Expresses Support For Making Election Day A National Holiday - Currently, there is at least one bill in the U.S. Senate to make Election Day a legal public holiday. The Democracy Day Act of 2015 was proposed by Sen. Bernie Sanders (I-VT)], 4j3vab, 1463129553.0, 5362
+488, [Goldman Sachs is a top donor to Hillary, Jeb, and Rubio], 427qkt, 1453527540.0, 5363
+489, [I often had to skip meals: Senate Dining Room Workers Want a Union, Say Theyre Living in Poverty], 3u92sc, 1448507814.0, 5357
+490, [Wikileaks drops latest Guccifer 2.0 data on Hillary Clinton, DNC, Democrats], 52ol7g, 1473851809.0, 5352
+491, [Clintons took payments from Trans-Pacific Partnership backers last year - "Hillary Clinton once called the Trans-Pacific Partnership the "gold standard" of free trade and previously indicated she would support the deal before she became a presidential candidate."], 4k2m92, 1463695706.0, 5357
+492, [Paul Ryan: If Republicans Lose the Senate, Bernie Sanders Wins], 57z8we, 1476760862.0, 5349
+493, [Red Hot Chili Peppers to headline Bernie Sanders fundraiser in LA], 4334sm, 1454013836.0, 5352
+494, [Hillary Says Its OK That She Takes Wall Street Money Because of Women and 9/11], 3suz3g, 1447588473.0, 5349
+495, [Cruz: GOP may block Supreme Court nominees indefinitely], 59l6b8, 1477557764.0, 5346
+496, [Florida Governor Signs Bill Requiring Actual Criminal Charges Before Seizing Property], 4d3kzg, 1459663958.0, 5347
+497, [Barack Obama lands in Cuba as first president to visit in 88 years], 4b94v5, 1458534477.0, 5345
+498, [New batch of Clinton emails released, 81 now marked 'classified'], 45waun, 1455569037.0, 5339
+499, [House panel looking into Reddit post about Clinton's email server], 53juir, 1474348320.0, 5337
+500, [King: Superdelegates are ripping off voters, placing Clinton ahead of Sanders in states where he actually won more votes], 4cfszo, 1459292567.0, 5344
+501, [Clinton Is Under Mounting Pressure to Release Her Wall Street Speeches : Public interest in these speeches is legitimate, and it is the public  not the candidate  who decides how much disclosure is enough,], 47qv1c, 1456544735.0, 5342
+502, [Hillary Clinton Emails: Secret Negotiations With New York Times, Trade Bill Lobbying Revealed In Latest State Department Release], 46o1bx, 1455961942.0, 5338
+503, [Scott Walker Is Dismantling an Oversight Committee That Investigated Him], 3xclbl, 1450478889.0, 5333
+504, [Sanders: I would vote to legalize marijuana in California], 4lh6pd, 1464492751.0, 5336
+505, [Bernie Sanders' stunning popularity is 'almost unheard of': 91% of those voters held a favorable opinion of him, compared with the 65% who held a favorable view of Clinton.], 41vobb, 1453343977.0, 5341
+506, [Senator who waited 5 hours to vote wants Legislature to address problems], 4btrvb, 1458885331.0, 5333
+507, [When you pay for federally funded research, you should be allowed to read it. Thats the simple premise of the Fair Access to Science and Technology Research Act (S.779, H.R.1477), which was just passed out of a major Senate committee.], 4cpzrp, 1459459542.0, 5334
+508, [Thank you for serving me when I didnt vote for you: A Republican writes the president after Obamacare saved his life], 48u3ag, 1457068844.0, 5335
+509, [Clinton has been caught lying for a year in email scandal], 4l99ed, 1464353837.0, 5327
+510, [Bernie Sanders has the correct diagnosis: U.S. prescription drug prices typically highest in world], 45cszt, 1455276688.0, 5330
+511, [Oil Companies Donated To Clinton Foundation While Lobbying State Department], 4dikng, 1459920115.0, 5331
+512, [Clinton's Image at Lowest Point in Two Decades], 4ul3vl, 1469511800.0, 5328
+513, ["These American millennials dont just dislike Washington politics they see it as corrupt and broken. Unfortunately, Hillary Clinton symbolises everything that represents, from her $225,000 speaking engagements to the email scandal and FBI investigation threatening to derail her campaign."], 4m70qt, 1464901050.0, 5330
+514, [Clinton's Internet Supporters, Allegedly Using Pornography, Shut Down Bernie Sanders' Largest Facebook Groups in Coordinated Attack], 4gjf6g, 1461714503.0, 5327
+515, [Sanders to Release Tax Returns, Clinton Won't Commit to Releasing Paid Speeches], 4euoyr, 1460716351.0, 5322
+516, [Poll: Voters Increasingly See Sanders As Electable], 46kt3t, 1455919925.0, 5323
+517, [Bernie Sanders Wins Hawaii Democratic Caucus], 4c4vgh, 1459093581.0, 5328
+518, [Democratic Rep. Tulsi Gabbard resigns from DNC, endorses Bernie Sanders], 482w7n, 1456701252.0, 5324
+519, [California Bill Would Make It a Felony for Prosecutors to Withhold Evidence], 4y5q71, 1471471229.0, 5323
+520, [Clinton Insists Shes Not Beholden to Wall Street While Raking in $21.4 Million], 44cdrh, 1454728925.0, 5317
+521, [Melania Trump speech plagiarized paragraph from Michelle Obamas 2008 DNC speech], 4tjc4e, 1468930992.0, 5314
+522, ["After spending 5 hours with someone who has spent the last 50 years radically fighting for your rights and mine, I can tell you that I am very proud tonight to announce the next President of the United States, Senator Bernie Sanders" - Killer Mike [4:58]], 3u10bt, 1448361989.0, 5319
+523, [In New York, Republicans and Democrats Join Forces to Overturn Citizens United: Seventeen states have called for a constitutional amendment to reduce the influence of money in politics. So whos next?], 4r4kjm, 1467619772.0, 5311
+524, [New Yorkers unleash rage over alleged primary voter fraud], 4hubv8, 1462395327.0, 5304
+525, [Mitch McConnell Voted To Confirm A Supreme Court Justice In Reagan's Final Year. So did every single Republican senator.], 45v6xs, 1455546434.0, 5304
+526, [Hillary Clinton Still Cant Shake Her Wall Street9/11 Debate Comment], 3t2ayp, 1447734385.0, 5304
+527, [Fox News' Anti-Bernie Sanders Segment Goes Horribly Wrong], 49vklk, 1457673889.0, 5298
+528, [Clinton Healthcare Hit Backfires as Evidence Shows Sanders 'Literally' Right Behind Her], 4a5sb9, 1457850138.0, 5298
+529, [As his wife is under federal investigation for her use of a private email server, former President Bill Clinton met privately with U.S. Attorney General Loretta Lynch at the Phoenix Airport Monday evening in what both sides say was an unplanned encounter], 4qio61, 1467272460.0, 5296
+530, [Clinton cancels Thursday campaign event in N.J.], 4lqsyl, 1464660756.0, 5296
+531, [If you have any doubt that Debbie Wasserman Schultz is the worst leader that the Democratic Party has had in modern history, just look at the corporations that shes allowing to call the shots for this years conventions.], 4jo3f8, 1463471861.0, 5299
+532, [Hillary Clinton told a crowd, If we broke up the big banks tomorrow, would that end racism? Would that end sexism?], 463d7x, 1455670799.0, 5298
+533, [Clintons private e-mail was blocked by spam filtersso State IT turned them off], 4phq8i, 1466729636.0, 5286
+534, [A lone hacker calling him or herself Guccifer 2.0 has claimed responsibility for hacking the Democratic National Convention and says claims the Russian government perpetrated the attack are false. The hacker also says the DNC lied aboutor didnt know the extent ofwhat was stolen.], 4o9y50, 1466056764.0, 5295
+535, ['The Walking Dead' Will Walk Out Of Georgia If Anti-LGBT Law Passes - Some of the strongest language came from The Weinstein Company on Thursday; the company threatened to move a Lee Daniels film on Richard Pryor, currently slated to shoot in Georgia, outside of the state.], 4byw2k, 1458976462.0, 5289
+536, [Clinton not simply disagreeing with Sanders on his Medicare For All, single payer health insurance plan, but knowingly distorting it. This was not Hillary Clinton offering a more moderate version of a solution, this was Hillary Clinton acting as part of the problem.], 3xww03, 1450866264.0, 5289
+537, [Hillary Clinton Loses Patience with Greenpeace Activist Over Fossil Fuel Donations], 4crwv2, 1459485013.0, 5289
+538, [Michigan Prosecutors Pressured Lab to Falsify Medical Marijuana Results], 3ss683, 1447539751.0, 5295
+539, [Cruz: "I am not in the habit of supporting people who attack my wife and attack my father"], 4tx4ps, 1469138800.0, 5287
+540, [Joe Biden praises Bernie Sanders for 'Thinking Big'], 4fzce2, 1461372885.0, 5285
+541, [Elizabeth Warren Rips Into Republicans For Pledging To Block Supreme Court Process - I cant find a clause in the Constitution that says except when theres a year left in the term of a Democratic President,' she said in a Twitter post.], 45ttgg, 1455523927.0, 5290
+542, [Idiot Wasserman Schultz Says Legal Pot is to Blame For Heroin Epidemic], 4zd8tt, 1472082540.0, 5283
+543, [Nebraska Democrats vote to abolish superdelegates], 4ovbd4, 1466400777.0, 5282
+544, [Dem Senator Breaks From The Pack To Endorse Bernie Sanders], 4ekzu6, 1460573093.0, 5286
+545, [GOP Senator: I'd Vote For Bernie Sanders Over Ted Cruz], 421plv, 1453435066.0, 5282
+546, ["Does it scare you that Ted Cruz wants to impose his Christian sharia onto the general citizenry of the United States? It should."], 4eulw0, 1460715090.0, 5284
+547, [We should remember that the key drivers of growth are science, education and innovation, not low taxes, lax regulations or greater exploitation of natural resources.], 4vg8s8, 1469981567.0, 5275
+548, [Bill Clinton just made a lot of trouble for Loretta Lynch: Republicans now calling on attorney general to step down after meeting on private jet], 4qn5cy, 1467339554.0, 5269
+549, [Bernie Sanders wins Maine Democratic caucuses], 49a6h5, 1457342199.0, 5277
+550, [Californians Call for a Grand Jury Investigation of the Primary], 4s0c40, 1468100514.0, 5269
+551, [Sanders awarded 49 more Washington state delegates], 4iadpi, 1462663577.0, 5271
+552, [A City Clerk Opposed an Early-Voting Site at UWGreen Bay Because Students Lean More Toward the Democrats], 59b94y, 1477433897.0, 5270
+553, [Clinton camp fears more leaks are coming], 4upokj, 1469581418.0, 5272
+554, ["If Clinton wants to become the president of the United States, she needs to explain how she could make such a reckless decision."], 4lrzhf, 1464676074.0, 5273
+555, [Sanders: Trump's taxes prove system rigged], 55iasc, 1475445240.0, 5267
+556, ["In proposing to deport 11 million undocumented immigrants and their U.S. citizen children, in suggesting that the government monitor mosques, he has positioned the Republican Party much closer to fascism than to the libertarianism toward which some mistakenly believed the GOP was headed."], 3ucjo2, 1448575399.0, 5270
+557, [NYC Wall Street Protest Planned to Call on Hillary Clinton to Release Transcripts of Goldman Sachs Speeches], 49mcp5, 1457525629.0, 5274
+558, [Sanders: We are not going to defeat Trump by throwing eggs], 4mg8qx, 1465033916.0, 5263
+559, [Release of Clinton Documents Delayed After State Department Discovers 'Thousands of Unsearched Records], 4925of, 1457207647.0, 5264
+560, [Bernie Sanders fires against Clinton: "My opponent is not in Iowa tonight. She is raising money from a Philadelphia investment firm," Sanders said. "Frankly, I would rather be here with you."], 431q9a, 1453984625.0, 5261
+561, [Sanders camp: We're getting 'zero' pressure from Dems to drop out], 4kzp7v, 1464212681.0, 5263
+562, [Hillary Questioned Bernie's Record on Health Care and The Internet Made an Epic Correction], 4a5jbw, 1457846176.0, 5254
+563, [Bernie Sanders: police should be obliged to report all officer-involved deaths.], 47dg17, 1456360591.0, 5260
+564, [Superdelegate: "Hillary Clinton began lobbying us a year ago."], 4ldmwt, 1464424385.0, 5251
+565, ["The Supreme Court ruled Wednesday that it is unconstitutional to freeze financial assets unrelated to a persons crime before a trial, when the money is needed to pay for an attorney."], 4cmym8, 1459402773.0, 5256
+566, [Bernie prepares to go into the belly of the beast: Sanders to do Fox News town hall without Clinton], 48yxh1, 1457149437.0, 5248
+567, [The idea that Bernie Sanders has been too negative to debate Hillary Clinton is ridiculous], 4cgt9n, 1459305350.0, 5252
+568, [President Obama Considering Executive Action Forcing Companies to List Campaign Gifts], 41vndv, 1453343689.0, 5249
+569, [Sanders accuses DNC of tipping convention toward Clinton], 4i5tsm, 1462580427.0, 5243
+570, [Julian Assange: Google working closely with Hillary Clintons presidential campaign], 4n27nw, 1465373362.0, 5245
+571, [Bernies most valuable lesson: The Democratic Party does not represent the values of progressive Americans], 4fxwcq, 1461350346.0, 5244
+572, [Sanders: Clinton should "keep her word" on debates], 4kk4tv, 1463975135.0, 5241
+573, [Fmr. Top DOJ Official: Clinton Likely Committed Biggest Violation of Federal Records Act in History], 4j90qh, 1463211219.0, 5242
+574, [Sanders tired of being 'lectured' on foreign policy. "The most important foreign policy issue in the modern history of this country was the war in Iraq. I was right on that issue, Hillary Clinton was wrong."], 44os3k, 1454925421.0, 5241
+575, [The Panama Papers prove it: we can afford a universal basic income], 4dspjh, 1460086177.0, 5242
+576, [Poll shows Sanders gaining on Clinton], 3yjffu, 1451349846.0, 5238
+577, [In Texas, a man who didnt kill anybody is about to be executed for murder], 4xo1av, 1471209041.0, 5235
+578, [Putin on DNC leak: 'Does it even matter who hacked this data?'], 50smt2, 1472842190.0, 5241
+579, [DNC Chair: Superdelegates Make Sure Party Leaders Dont Have to Run Against Grassroots Activists], 45s42u, 1455502600.0, 5240
+580, [Poll: Most Americans think attacks on abortion clinics are domestic terrorism."], 3vbmvn, 1449202729.0, 5234
+581, [Here Are Hillary Clinton's Private Email Server Misstatements], 4lus3e, 1464723353.0, 5236
+582, [Bernie Sanders is right: The top 0.1 percent have as much as the bottom 90 percent], 3tk522, 1448050526.0, 5232
+583, [Some of the most conservative states rely most on federal government aid], 3zpyea, 1452118809.0, 5220
+584, [Hillary Clinton Was Paid Nearly $1Mil For Speeches Within 30 Days Of Announcing Her Run. Her Staff Was Shopping For A Campaign Office At The Time], 4g3ph5, 1461451051.0, 5229
+585, ["In my view, you judge a country not by the number of millionaires and billionaires it produces, but by how it treats the most vulnerable people", Sanders said Sunday morning.], 3zcy4u, 1451905638.0, 5225
+586, [Hillary Fights to Keep Wall Street Speeches Secret], 458ttv, 1455227344.0, 5220
+587, [Oops: Clintons State Dept. opposed minimum wage hike, worked closely with huge corporations], 4ge3fh, 1461630472.0, 5220
+588, [Ben Carson did not apply and was not admitted to the U.S. Military Academy, despite writing in his book "Gifted Hands" that he had gotten a full scholarship offer from the school, his presidential campaign told ABC News.], 3rvvvh, 1446930987.0, 5219
+589, [No evidence for Hillary Clinton's claim that ISIS is using videos of Donald Trump as recruiting tool], 3xjkzt, 1450613610.0, 5214
+590, [Its Official: Thousands More Women Donating to Bernie Sanders Than Hillary Clinton], 3uhcmy, 1448671855.0, 5221
+591, [Clinton Speeches May Have Violated FEC Campaign Rules], 4gs0fo, 1461839890.0, 5225
+592, [Trump donates to Texas officials, they drop probe of Trump U], 4n4osk, 1465416604.0, 5209
+593, [Bernie Sanders: Hillary Clinton behind the curve on raising minimum wage. If you make $225,000 in an hour, you maybe don't know what it's like to live on ten bucks an hour.], 4f7yxe, 1460948856.0, 5210
+594, [Get Walmart Off Of Welfare | Bernie Sanders], 40grpc, 1452548019.0, 5209
+595, [Comey: Clinton gave non-cleared people access to classified information], 4rr8kt, 1467958282.0, 5214
+596, [Sanders: 'I don't know where Mr. Trump gets his evidence.' Theres nothing more that I would enjoy than the chance to take on Donald Trump and to expose the many fabrications that he has brought forth, he said.], 3u3qsm, 1448416199.0, 5213
+597, [New email release shows Clinton chose not to use secure phone line, acknowledged Blackberry risk], 4j31iu, 1463118132.0, 5209
+598, [US Intelligence Veterans Urge Fast Report on Hillary Clintons Emails: NSA, FBI Have Enough Evidence], 4kurqe, 1464137788.0, 5210
+599, [Poll: Ken Bone leads Jill Stein in Florida], 57j9f6, 1476514615.0, 5218
+600, [Bernie Sanders vows to stay in race right up to the convention], 474jsp, 1456224473.0, 5210
+601, [Bernie Sanders slams GOP on voting rights: 'They're political cowards!' "It has never occurred to me as a candidate to figure out a way to deny the vote to people because they might vote against me. People who do that are political cowards. They're afraid of a fair election."], 3ruj1h, 1446894840.0, 5203
+602, [CNN severs ties with Donna Brazile], 5ad8an, 1477959993.0, 5183
+603, [Bernie Sanders bests Hillary Clinton at Colorado Democratic convention], 4f3iy1, 1460866596.0, 5207
+604, [White House calls FBI probe into Clinton's classified emails a 'criminal investigation'  to glee of Republicans  on the same day Obama endorses her], 4nd1yl, 1465536711.0, 5210
+605, [Hacker who claims he breached Clinton server pleads guilty, strikes deal with feds], 4l098r, 1464219649.0, 5207
+606, [True: Ten times more 'dark money' has been spent for 2016 elections, U.S. Sen. Tammy Baldwin says], 3s5dtv, 1447115374.0, 5205
+607, [Bernie Sanders Not on DC Ballot After Democratic Party Registration Error: Sources], 4cmumi, 1459401319.0, 5202
+608, [Bernie opposing Auto Bailout, delaying Clean Power Plan, supporting Minutemen militia, Koch brothers endorsement, Reagan HIV/AIDS "activism" and today's Sanders healthcare support in the 90s are 6 things Hillary Clinton blatantly lied about in a single freaking week.], 4a6j18, 1457862563.0, 5204
+609, [Obama: U.S. Will Welcome Refugees As Long as Im President], 3tozhz, 1448143934.0, 5197
+610, [Bernie Sanders: Hillary Clinton's $353,400-a-ticket fundraiser is part of a 'corrupt', 'obscene' system -- It costs eight times the average US income for a single seat on a table with Clinton and George and Amal Clooney], 4ca4dv, 1459200439.0, 5195
+611, [Americans shouldn't pay more for drugs than Canadians, says Bernie Sanders], 5a9grs, 1477903948.0, 5207
+612, [Paul Ryan attacked Bernie Sanders. It backfired spectacularly.], 58oovg, 1477102269.0, 5199
+613, [Poll finds Americans don't think Clinton or Trump will be good president], 4r0x27, 1467554987.0, 5197
+614, [Sanders Accepts Challenge to Kill TPP If Elected... Nothing from Clinton So Far], 4a4wb9, 1457836433.0, 5196
+615, [Apple's CEO On Encryption: "You Can't Have A Back Door That's Only For The Good Guys"], 3tshsg, 1448206514.0, 5193
+616, [US Government's Own Report Shows Toxic TPP "Not Worth Passing". This report indicates the TPP will produce almost no benefits, but inflict real harm on so many workers.'], 4k8fvc, 1463782716.0, 5188
+617, [Bernie Sanders Campaign: We Don't Pay For Comments, Thank You], 4g1pjk, 1461407325.0, 5188
+618, [FBI Obtains Warrant for Newly Discovered Emails in Clinton Probe  as Reid Accuses Comey of Hatch Act Violation], 5a8mz9, 1477894245.0, 5201
+619, [The feds are making it a lot less profitable for local police to take your stuff], 3y6sj4, 1451086327.0, 5184
+620, [Thanks to Bernie Sanders, we now know how many big corporations dont pay taxes], 4ewnnd, 1460754920.0, 5172
+621, [Twitter Attacks Clintons Record With #WhichHillary], 47kepb, 1456453263.0, 5173
+622, [Jeb Bush says the middle class gets the biggest tax break under his plan- Mostly False], 3rp694, 1446797795.0, 5179
+623, [State Department Blocks Release Of Hillary Clinton-Era TPP Emails Until After The Election], 4msicf, 1465242144.0, 5170
+624, [Regarding her State Department email practices, "my predecessors did the same thing." [Rating: Mostly False]], 49rtvd, 1457610755.0, 5174
+625, [Racketeering Lawsuit Exposing Nationwide Vote Rigging in DNC Primaries Could Derail Clinton], 4ntn7p, 1465814401.0, 5164
+626, [If you perceive verifiable facts about your record to be attacks, you are admitting your actions are indefensible.], 4d12sj, 1459623084.0, 5167
+627, [Clinton Foundation received subpoena from State Department investigators], 459ycp, 1455240851.0, 5171
+628, [Sanders mocks tough guy Trump for changing mind on debate], 4lfq7j, 1464469415.0, 5163
+629, [Hillary Clinton Laughs in Activist's Face When Asked About Fracking Money], 4e2z3d, 1460263944.0, 5169
+630, [Sanders: Clinton 'condescending' to young voters], 4e5uoi, 1460325057.0, 5162
+631, [White house to respond to petition alleging voter suppression in Arizona], 4bswe5, 1458873497.0, 5163
+632, [The Problem With Clinton's Calls for Sanders to Adjust His Tone: This may backfire.], 4cgc6f, 1459299449.0, 5162
+633, [Bernie Sanders is the Most Popular Senator in America - A comprehensive survey of more than 75,000 voters in all 50 states], 3u33dc, 1448406859.0, 5166
+634, [Ben Carson: I hope that we have a database on everybody], 3tlqmk, 1448076948.0, 5156
+635, [New York attorney general swamped by voter complaints], 4fjzsx, 1461131526.0, 5158
+636, [Sanders Wants High-Speed Internet for US], 48q5oa, 1457004955.0, 5154
+637, [Colorado could ditch Obamacare for a single-payer system], 4r7a50, 1467668915.0, 5158
+638, [New York Times busted for anti-Bernie bias: The iconic, Clinton-endorsing newspaper slyly edits article to smear Sanders], 4ap7zs, 1458183058.0, 5156
+639, [Donald Trump's first TV ad shows migrants 'at the southern border,' but they're actually in Morocco], 3zg5y1, 1451963619.0, 5157
+640, [Bernie Sanders: Senate votes are what Im paid to do - Sanders has missed 4% of votes, compared to 42% for Sen. Marco Rubio], 3ri3nl, 1446680060.0, 5154
+641, [Sanders worried Clinton won't debate. "Sen. Bernie Sanders said Sunday that he wants to have a debate with former Secretary of State Hillary Clinton ahead of the April 19 New York presidential primary, but he is worried that Clinton, once the state's senator, does not."], 4c66di, 1459125528.0, 5145
+642, [Hillary Clintons viral nightmare: A video of her lying for 13 minutes], 4jurtr, 1463571256.0, 5137
+643, [Bill Clinton Gave a Six-Figure Speech to a Vulture Fund Accused of Preying on Low-Income Homebuyers: Hillary recently said her husband would be "in charge of revitalizing the economy"], 4m0mkx, 1464806574.0, 5145
+644, [60,000 Fewer Democrats in Brooklyn and No Clear Reason Why], 4fedzj, 1461046575.0, 5138
+645, [Bernie Sanders says lower turnout contributed to his Nevada loss to Hillary Clinton], 46vp1b, 1456097504.0, 5139
+646, [Donald Trump: I'd bring back 'a hell of a lot worse than waterboarding'], 44lviz, 1454885919.0, 5133
+647, [US Senator Bernie Sanders did not just have a good week. He had an unprecedented, presidential-campaign-changing week.], 4228nn, 1453441722.0, 5140
+648, [Sanders Slashes Clinton's Lead in Ohio to Single Digits], 49w50s, 1457681593.0, 5132
+649, ["She's Baldly Lying": Dana Frank Responds to Hillary Clinton's Defense of Her Role in Honduras Coup], 4em19j, 1460589554.0, 5137
+650, [The 1% hide their money offshore  then use it to corrupt our democracy], 4e8jm5, 1460365780.0, 5137
+651, [Computer Specialist Who Deleted Clinton Emails May Have Asked Reddit for Tips], 53j96v, 1474341350.0, 5136
+652, [On Guns, Clinton Runs Both Left and Right, Depending on Her Audience], 4giib7, 1461701446.0, 5134
+653, [Clinton faces losing Iowa to Sanders thanks to young women: Polls showing that Vermont's socialist senator winning powerful support among young women voters], 43llor, 1454312088.0, 5131
+654, [Debbie Wasserman Schultz is impeding democracy], 3yjn0b, 1451353021.0, 5126
+655, [Pressure grows on Paul Ryan to end 'wasteful' Planned Parenthood inquiry], 3rcho9, 1446583905.0, 5127
+656, [Bernie Sanders pulls ahead of Hillary in West Virginia poll], 4iea2n, 1462737150.0, 5131
+657, [Sanders is still the fulcrum of this election "You can call him whatever you want, but the fact remains that hes the only candidate who is asking the fundamental question about the American economy. Do we accept the massive split in wealth that has occurred in this country as a given, or dont we?"], 452la8, 1455138425.0, 5119
+658, [Bernie Sanders Receives Endorsement from West Virginia State Democratic Party Leader], 4hug8r, 1462397205.0, 5127
+659, [Bernie Sanders Supporters - New Development: AZ Voters, Disenfranchized Arizonians, Join the Lawsuit. The ACLU of Arizona is filing the lawsuit], 4c31j1, 1459057775.0, 5129
+660, [Sen. Elizabeth Warren Cheers Bernie's Fight to "Hold Big Banks Accountable"], 41f6bm, 1453090199.0, 5120
+661, [Clinton Email Scandal: Hillary Could Face A 10-Year Prison Stint If Her Server Was Hacked], 4mck3i, 1464984514.0, 5117
+662, [Female Sanders backers slam insulting Clinton supporters who say theyre betraying their gender], 44ql5h, 1454961072.0, 5113
+663, [U.S. elections ranked worst among Western democracies. Heres why. "The results show that the worst problem across most states involved gerrymandering of district boundaries to favor incumbents. The mean score for U.S. states was just 42 on a 100-point scale."], 4cf4ez, 1459281874.0, 5117
+664, [Report: Iowa Democratic Party Unilaterally Shifted Delegates From Bernie To Hillary], 44d5hy, 1454738862.0, 5104
+665, [Cruz gets booed after he declines to endorse Trump during convention speech], 4tuoo8, 1469095382.0, 5109
+666, [Bernie Sanders: I do not believe in trickle-down economics], 49fnp2, 1457424860.0, 5111
+667, [USDA: Beekeepers Lost 44% of Honey Bee Colonies Last Year | The EPA, USDA and Congress must adopt a federal, unified plan that eliminates the use of systemic pesticides to protect bees and beekeepers.], 4iy0xn, 1463041244.0, 5106
+668, [Muslim-Americans have repeatedly informed authorities of fellow Muslims they fear might be turning to extremism, law enforcement officials say, contrary to a claim by presumptive Republican presidential nominee Donald Trump this week.], 4ocvav, 1466105715.0, 5100
+669, [Obama: Kaepernick exercising his constitutional right to make a statement], 519c46, 1473109776.0, 5103
+670, [According to Hillary's 2014 Tax Return, the Clinton's Total Income was $28,336,212, which places them among the top 0.1% of Americans.], 44gf4q, 1454798187.0, 5098
+671, [Her appeal is waning: Hillarys favorability rating hits new low among Democrats], 4f4kz4, 1460883763.0, 5105
+672, [Hillary Has Now Gone 181 Days Without Holding a Press Conference], 4miyy2, 1465085806.0, 5099
+673, [Hillary Clinton camp now paying online trolls to attack anyone who disparages her online], 4gfmdw, 1461649420.0, 5092
+674, [It Sure Seems Like Hillary Clintons Tech Guy Asked Reddit for Email Advice], 53k7kc, 1474352854.0, 5097
+675, [Sanders: "ISIS and terrorism are a huge national issue that we have got to address, but so is poverty, so is unemployment, so is education, so is healthcare, so is the need to protect working families. And I will continue to talk about those issues."], 3vyj9x, 1449627241.0, 5093
+676, [Clinton Losing Millennial Support Nationally and in Key States], 53ddtz, 1474251603.0, 5095
+677, [Bernie Sanders Makes Strong Showing in New Polls], 40bpo7, 1452469016.0, 5084
+678, [It appears that Donald Trump, a pathological liar, simply cannot control himself. He lies, lies and lies again. Today, he repeated his lie that I want to raise taxes to 90 percent. Totally untrue." - Bernie Sanders], 3yu0fa, 1451540339.0, 5086
+679, [Colin Kaepernicks Protest Has Nothing to Do With the Military: The military doesnt give us the right to protest. The Constitution does.], 51cgn1, 1473149695.0, 5081
+680, [Hillary Clinton and Bill de Blasio make a cringeworthy colored people time joke at New York City charity event], 4ecgv3, 1460433527.0, 5088
+681, [No presidential debate in California after Clinton breaks promise], 4ks1y4, 1464091893.0, 5088
+682, [Green party's Jill Stein invites Bernie Sanders to take over ticket | US news], 4ruqcq, 1468014351.0, 5088
+683, [Hillary Clinton Is Now Tied To At Least Four Investigations By Federal Agencies], 4816ib, 1456682318.0, 5079
+684, [Warren Buffett to Trump: 'I have paid federal income tax every year since 1944'], 56t6le, 1476149387.0, 5084
+685, [Poll: Trump, Clinton score historic unfavorable ratings], 4bh2k8, 1458676290.0, 5074
+686, [Trump Tax Records Obtained by The Times Reveal He Could Have Avoided Paying Taxes for Nearly Two Decades], 55g62d, 1475399444.0, 5074
+687, [Bernie Sanders: Rating agencies should be nonprofit; "...[T]he agencies  which include Standard & Poor's, Moody's and Fitch  should not depend on Wall Street clients."], 3zm203, 1452055118.0, 5076
+688, [Report: Trump camp offered to make Kasich 'most powerful VP in history'], 4tr29e, 1469049188.0, 5075
+689, [King: Superdelegates a corrupt tool designed to elect party establishment candidates like Hillary Clinton], 49cvig, 1457390296.0, 5065
+690, [Bernie Sanders is the only presidential candidate to oppose fracking.], 439d68, 1454111801.0, 5076
+691, [Ted Cruz Describes Alleged Planned Parenthood Shooter As 'Transgendered Leftist Activist'], 3usahr, 1448873700.0, 5067
+692, [Senators Call Bernie A 'Loner' Because He Won't 'Hang Out With Lobbyists'], 4kgbd1, 1463906116.0, 5074
+693, [Bernie Sanders demands to know why leukemia drug costs $200,000 a year  leading to fall in stock price], 58l4tb, 1477048371.0, 5075
+694, [Chris Matthews wife loses race for congressional seat], 4gpnts, 1461807993.0, 5067
+695, [Emails Show Clinton Intervened On Behalf Of Tax Avoiding Corporate Crony], 4dsnp8, 1460085540.0, 5068
+696, [Dont be fooled by claims that TPP would create jobs: The TPP will offshore California jobs and push down our wages. Americans across the country and across party lines have had enough of these empty free-trade promises and are saying no to the TPP.], 4jgce0, 1463351949.0, 5064
+697, [FBI's Comey: I feel 'pressure' to quickly finish Clinton email probe], 4iw1j6, 1463016460.0, 5065
+698, [Bernies entire net worth, accumulated over his 74 years of life, is less than half of what Hillary Clinton made just in her speeches to Goldman Sachs. In 2013, Bernies net worth was estimated to be $330,000  making him among the least wealthy U.S. Senators in the country.], 4ehqm9, 1460518177.0, 5065
+699, [Hillary Clinton has gotten 54 times more money from Wall Street interests than from all of Iowa. Hillary rewarded Wall Street with a $700 billion bailout, then Wall Street made her a multimillionaire."], 43caal, 1454150807.0, 5065
+700, [This is why people dont trust Hillary: How a convenient reversal on gun control highlights her opportunism], 4ea3q4, 1460398270.0, 5067
+701, [Sanders sues Democratic party], 3xedyj, 1450506534.0, 5059
+702, ["Today marks 200 days since Clinton has held a formal press conference of any sort"], 4p68dq, 1466563620.0, 5067
+703, [The gaping hole at the heart of Hillary Clintons campaign: "the campaign has no story to tell the voters about Hillary Clinton and why she should be president."], 458pdc, 1455225414.0, 5057
+704, [Bernie Sanders: Heres what we want "We want an economy that is not based on uncontrollable greed, monopolistic practices and illegal behavior. We want an economy that protects the human needs and dignity of all people  children, the elderly, the sick, working people and the poor."], 4pg96p, 1466710137.0, 5058
+705, [At CNN town hall, Clinton again refuses to release Goldman Sachs transcripts], 47dli1, 1456362389.0, 5052
+706, [Sanders 2014 Federal Tax Return], 4eze4c, 1460791396.0, 5055
+707, [Emails Show Hillary Clinton Aides Celebrating F-15 Sales to Saudi Arabia: Good News], 472dra, 1456196831.0, 5052
+708, [Hillary Clinton could face an FBI investigation that stretches well beyond this Novembers election, casting a shadow over the presumed Democratic candidates campaign and raising the prospect of the second impeachment hearing against a Clinton president.], 4hvp3z, 1462413012.0, 5051
+709, [Clinton declines Calif. debate], 4kqvfm, 1464074540.0, 5055
+710, [Email: Clinton abandoned secure line to use home phone], 4j37dn, 1463120266.0, 5053
+711, [Hillary Clinton under fire for participating in racially charged joke - The joke poked fun at a negative stereotype of black Americans], 4ecb58, 1460431569.0, 5051
+712, [DEA should stop stalling on reclassifying cannabis - "What an irony it would be if Obama, who has openly admitted to pot use in his early years...left office without having moved the nation away from the antiquated reefer-madness enforcement of past presidencies."], 4wqalp, 1470693811.0, 5048
+713, [Sanders Accepts Clintons Challenge on Wall Street Speeches], 46mr9r, 1455944096.0, 5048
+714, [Clinton IT specialist invokes 5th more than 125 times in deposition], 4pbpb5, 1466643412.0, 5049
+715, [Clintons State Department Stopped Haiti From Increasing Its Minimum Wage to 61 Cents], 4game0, 1461569227.0, 5044
+716, [Im still cheering Bernie on, Elizabeth Warren says], 4bulw4, 1458898144.0, 5045
+717, [Sanders: 'To hell with the fossil fuel industry], 3tpzjj, 1448160848.0, 5039
+718, [New York City Comptroller orders audit of Board of Elections over "irregularities" during today's primary], 4fjisc, 1461125674.0, 5047
+719, [Former DNC Chairman Paul Kirk Jr. Endorses Bernie Sanders; I had the privilege of serving briefly with Bernie Sanders in the United States Senate and I quickly learned that he is who he is: a plain spoken and authentic patriot who wears his passion for a better America on his sleeve"], 410bzk, 1452843685.0, 5041
+720, [Trump predicts he can win 95 percent of the black vote], 4ylhc1, 1471671783.0, 5037
+721, [The more people are exposed to Bernie Sanders, the better he seems to do. In every demographic he keeps improving his popularity as time passes. His supporters have far more energy that Clinton's and he is winning younger voters overwhelmingly. He has drawn bigger crowds than Obama did in 2008.], 49tfcv, 1457645596.0, 5035
+722, [Mike Pence Tells Wrongfully Convicted Man He Won't Act On Pardon Request], 55i17a, 1475440287.0, 5040
+723, [HRC Email Release Megathread], 47xkz1, 1456630806.0, 5040
+724, [Bernie Sanders Meets Pope Francis During Visit to Vatican City], 4f12dd, 1460823246.0, 5036
+725, ["The question is not why younger voters are embracing Sanderss populist revolution, but why the Baby Boomer generation came to believe that Bill and Hillary Clinton should become the standard-bearers for the nations liberal party."], 4712zm, 1456180757.0, 5039
+726, [Sanders tax returns: As boring as promised], 4ezm5a, 1460794738.0, 5039
+727, [Hillary deletes more than emails as the latest edition of her memoir removes all her cheerleading for controversial Trans-Pacific Partnership trade deal], 4nixvs, 1465628448.0, 5032
+728, [Obama calls for paid sick leave], 55np09, 1475530952.0, 5037
+729, [Hillary Clintons health just became a real issue in the presidential campaign], 5293xf, 1473637940.0, 5033
+730, [Hillary Clinton wasn't greeting voters at a rally, town hall or diner as votes rolled in from Wisconsin. Instead, she was spending her evening with top donors in New York City. She raised at least $60,000 Tuesday night at the fundraiser.], 4dl7mi, 1459968126.0, 5022
+731, [Mike Pence Says His Role Model for Vice President is Dick Cheney], 53c313, 1474233125.0, 5024
+732, [Americans Dont Miss Manufacturing  They Miss Unions], 4j605m, 1463169974.0, 5026
+733, [As California Admits 2 Million Ballots Remain Uncounted, Sanders Pushes for Changing Primary Process], 4ngn91, 1465599059.0, 5025
+734, [Why Bernie Sanders deserves more attention than Hillary Clinton: "When it comes to Sanders, lots of folks throw in small amounts of cash. So when he raises $33 million in three months, it means a lot of people care."], 3znvfx, 1452079354.0, 5019
+735, [Google finds Americans searching for a 3rd party candidate for president is surging], 4u0gcu, 1469180818.0, 5024
+736, [Bernie Sanders Rips Into Hillary Clinton Over Panama Papers: Americans Are Sick And Tired Of Establishment Politicians], 4dlydz, 1459981540.0, 5020
+737, [Bernie Sanders wins Washington], 4c37og, 1459060555.0, 5022
+738, [FBI Admits Finding Additional Info On Clinton Server During E-Mail Investigation], 4n8gwp, 1465463234.0, 5019
+739, [DEA chief: Medical marijuana is "a joke." Science: No, it's not.], 3ty2w3, 1448318737.0, 5021
+740, [Weaver accused Clinton of running a smear campaign centered on "innuendo and unfair attacks." If they want to engage in that kind of a campaign, theyre going to see how a real New Yorker fights back,], 4dr969, 1460067871.0, 5012
+741, [Bernie Sanders is right: Bill Clintons welfare law doubled extreme poverty], 47uoqb, 1456604651.0, 5017
+742, [Clinton remarked, "It's always a little bit challenging because, you know, if Senator Sanders doesn't agree with how you are approaching something, then you are a member of the establishment." Sanders retorted, "Yes, Secretary Clinton, you are a member of the establishment."], 4evi6s, 1460731071.0, 5010
+743, [Under Sanders plan, the wealthiest Americans who make more than $250,000 a year would pay the same share of their income into Social Security as everyone else. Current law now caps the amount of income subject to payroll taxes at $118,500.], 408bct, 1452405609.0, 5005
+744, [Yes, the United States is the only industrialized nation without paid family leave], 4upg1f, 1469578671.0, 5009
+745, [Hillary Clinton Said Outsourcing Benefited America After She Criticized Bush Officials For Saying The Same Thing], 499r59, 1457335723.0, 5012
+746, [As a Canadian living in America, mark my words - any candidate who is not in favor of a single payer health care system does not have best interests of the American people at the top of his or her list of priorities.], 3yd65b, 1451220149.0, 5011
+747, [Hillary Clinton: Bernie Sanders 'has been largely a very reliable supporter of the NRA'], 4euwkr, 1460719613.0, 5003
+748, [Health Care Industry Moves Swiftly to Stop Colorados Single Payer Ballot Measure], 4fzkvk, 1461375767.0, 5009
+749, [Mika: It feels like Clinton is lying straight out], 4l54g0, 1464295635.0, 5001
+750, [Bernie Sanders is right: Saudi Arabia is more focused on the conflict in Yemen than fighting ISIS], 3u53wb, 1448434789.0, 5006
+751, [WV Dems call for resignation of DNC chair], 4no1el, 1465720209.0, 4997
+752, [McConnell Blocks Health Care for 9/11 First Responders], 3v6scj, 1449116476.0, 4994
+753, [Sorry, Hillary: You are the establishment], 44dpdn, 1454746291.0, 4994
+754, [New York Voters Sue The State, Claiming Mass Voter Roll Purges], 4febdo, 1461045626.0, 4998
+755, ["Hillary Clinton's campaign on Tuesday refused to budge from its refusal to participate in future debates until Bernie Sanders pledges not to launch any attacks on the former secretary of state."], 4cff5o, 1459287056.0, 5001
+756, [Sanders picks up another Colorado delegate as party admits error], 4ehasn, 1460512673.0, 4991
+757, ["Bernie Sanders loves to talk about the fact that he doesnt have a super-PAC backing his campaign. But the true state of his fundraising strategy is even more astonishing than that: The Sanders campaign doesnt have a finance team."], 40hhd1, 1452558370.0, 4990
+758, [Carson: Republicans Wouldnt Wait To Replace Scalia If We Held The White House], 463tck, 1455676109.0, 4991
+759, [Die-Hard Bernie Sanders Backers See F.B.I. as Answer to Their Prayers | I dont know why shes not already being told, You cant run because youre being investigated. I dont know how thats not a thing.], 4lai1n, 1464380967.0, 4987
+760, [Bernie Sanders Demands Apology From Hillary Clinton for Accusing Him of Lying], 4czedk, 1459589638.0, 4988
+761, [States opposed to Obama more dependent on federal government], 507dzw, 1472534201.0, 4982
+762, [Hillary is continually reinventing herself and her campaign, throwing things against the wall to see what sticks, Sanders appears to be driven by core values. Hes running because he wants to upend a broken system. Shes running because she thinks its her turn.], 46335x, 1455667551.0, 4985
+763, [Sanders: I have a "good chance" to win 2016 election - "With just two weeks until voting begins in the 2016 primaries and polls showing him closing in on Hillary Clinton, Democratic presidential candidate Bernie Sanders is feeling confident."], 41dzid, 1453073761.0, 4978
+764, [Bernie Sanders has now received 2 million campaign contributions, aides say], 3x5uky, 1450348095.0, 4975
+765, [Indiana officials are trying to block almost 45,000 black citizens from voting], 59hgl3, 1477516748.0, 4984
+766, [Bernie Sanders: 'Stay Tuned ... We Can Win This Thing'], 49qknl, 1457591739.0, 4977
+767, [Why Did Congo Offer Clinton $650,000 For Two Pics And A Speech?], 4f98uw, 1460967019.0, 4975
+768, [Emails on Hillary Clinton's secret server matched top secret documents virtually word for word and included details of CIA drone strikes against Islamic radicals], 47i7jc, 1456423394.0, 4982
+769, [Bernie Sanders Says Police, Not Colleges, Should Handle Rape], 40ogny, 1452662045.0, 4974
+770, [20,000 people attend Bernie Sanders rally in Oakland], 4lsq8y, 1464686669.0, 4972
+771, [Top DNC official leaves post to back Sanders], 482y3m, 1456701517.0, 4976
+772, [Sanders: We must rethink 'failed' war on drugs], 4bi63n, 1458693351.0, 4972
+773, [Sanders wins Utah caucuses], 4blat7, 1458740005.0, 4974
+774, [Sanders: American voters should not be forced to pick between the lesser of two evils], 4kiq9n, 1463955635.0, 4969
+775, [Calling Clinton's Bluff, Sanders Reveals What His Paid Speeches Look Like: Has Bernie Sanders thrown down the gauntlet after Hillary Clinton's challenge at Thursday's Democratic town hall?], 46lb5i, 1455926762.0, 4967
+776, [Elizabeth Warren Only Female Senator Not To Endorse Hillary Clinton], 3uxy7v, 1448965874.0, 4969
+777, [Sanders takes Colorado after young people turn out for caucuses], 48kq9h, 1456924910.0, 4974
+778, [End the Superdelegates. End the Caucuses. For Democracys Sake.], 47ye12, 1456639100.0, 4970
+779, ["In November 2014, only 36 percent of eligible voters went to the pollsthe lowest share in more than 70 years."], 3r7bbj, 1446495776.0, 4974
+780, [DNC Chairs PAC Has Paid More in Salaries Than It Has Given to Democrats], 4kwev8, 1464156933.0, 4970
+781, [Jeff Weaver: It is truly unfortunate that the largest pro-Clinton super PAC has decided to infect the democratic primary process with its haul of Wall Street cash.], 45iak6, 1455359734.0, 4971
+782, [Donald Trump's tweet on Tuesday dangling the idea of an independent run for president sent a clear warning to the Republican establishment: Attack at your own peril.], 3w29ul, 1449689842.0, 4967
+783, ["At a time when Republicans tell us that we don't have enough money to rebuild our crumbling infrastructure or provide universal childcare, maybe, just maybe we should stop allowing huge corporations to pay nothing in federal income taxes,"], 4ersba, 1460678109.0, 4965
+784, [Black Lives Matter Activists Interrupt Hillary Clinton At Private Event In South Carolina], 47h1xi, 1456400824.0, 4968
+785, [Hillary Clinton is lying about the criminal U.S.-backed coup in Honduras. It should be as scandalous as Libya], 4ewpk6, 1460755740.0, 4964
+786, [Be nice to Hillary Clinton online  or risk a confrontation with her super PAC], 4ijen9, 1462827160.0, 4958
+787, [Hillary Clinton's super PAC collected more than $9.5 million in January, more than half of which came from five wealthy donors.], 46vp2b, 1456097517.0, 4962
+788, [North Carolina governor and wife shunned by friends over anti-LGBT law], 57lm2y, 1476558627.0, 4963
+789, [Bernie Sanders crushed Hillary Clinton by 70 points among young people in Iowa. But "The most amazing stat coming out of the Iowa Democratic caucuses is this one: Among voters between the ages of 17 and 29, Bernie Sanders won 84 percent of the vote to Hillary Clinton's 14 percent."], 43v15i, 1454460392.0, 4957
+790, [If Trump hadnt inherited $200 million, hed be selling watches on the streets of Manhattan, whatever demon possessed Marco Rubio claimed tonight], 47n0w7, 1456484002.0, 4954
+791, [Texas Lt. Gov. Dan Patrick deletes "reap what you sow" tweet after mass shooting at LGBT club], 4nr1xw, 1465778671.0, 4958
+792, [This Delaware Address Is Home to 200,000 Shell CompaniesIncluding Hillary Clintons], 4eb8dr, 1460417980.0, 4951
+793, [Buffett Just Released His Own Tax Data to Hammer Trump], 56t12a, 1476147747.0, 4955
+794, [Vermont Sen. Bernie Sanders takes 49 percent of Iowa likely Democratic Caucus participants, with 45 percent for former Secretary of State Hillary Clinton], 42x69u, 1453925015.0, 4948
+795, [Over $300,000 Transferred From Hillary Victory Fund to State Parties Is Unaccounted For], 4k4g8f, 1463717678.0, 4947
+796, [Bill Clinton Blames Millennials For Anger, Economy, Congress], 4furma, 1461296951.0, 4954
+797, [Bernie Sanders Urges His Followers to Take Down Debbie Wasserman Schultz | "We need real change. We need U.S. senators, members of Congress, and state legislators who have the guts to take on the big-money interests whose greed is destroying the American middle class."], 4ko6a6, 1464042337.0, 4951
+798, ["Vermont Sen. Bernie Sanders raised $44 million in March, surpassing his record-breaking February haul as his campaign readies for a round of expensive primary fights this month."], 4cv5hs, 1459538790.0, 4952
+799, [Repeat after me: Obama is not admitting 100,000, 200,000 or 250,000 Syrian refugees "There is no excuse for repeated, false statements that have no basis in fact  and have been proven wrong. These candidates each earn Four Pinocchios."], 3tfmpn, 1447970844.0, 4944
+800, [Bernie Sanders says Democrats should get rid of closed primaries. Is he right?], 4gu2xn, 1461880578.0, 4937
+801, [Nader: 'Bernie Sanders is more authentic than Clinton], 45g6wi, 1455331766.0, 4936
+802, [Bernie Sanders: If my supporters 'take a hard look' at what Gary Johnson stands for, they won't vote for him], 55lf32, 1475487259.0, 4936
+803, [Dem debate: Sanders blasts mass incarceration, asks why millions of black Americans are in prison, but not Wall Street CEOs], 41h574, 1453117626.0, 4934
+804, [McCain vows permanent gridlock on Supreme Court appointments], 57youd, 1476755042.0, 4931
+805, [Secret Ledger in Ukraine Lists Cash for Donald Trumps Campaign Chief], 4xrxei, 1471263869.0, 4928
+806, [Bernie Sanders Rips Clinton For Campaign 'Money-Laundering' Scheme], 4hrzd1, 1462351278.0, 4934
+807, [Bernie Sanders: 'Make banking boring again'], 4dxwms, 1460171435.0, 4930
+808, [Bernie Sanders Is Exactly Right: The Media Is an Arm of the Ruling Class of This Country], 4ce8ff, 1459260279.0, 4935
+809, [Donald Trump 'uses language typical of children aged 11 and under'], 4asv58, 1458248701.0, 4934
+810, [Bernie Sanders better-liked, runs better against Republicans than Hillary Clinton: poll], 46efoc, 1455825844.0, 4932
+811, [Bank of America paid Clintons speaking fees, too  more than $1M worth], 4a5vi1, 1457851567.0, 4933
+812, [Susan Sarandon Says Bernie Sanders' Hollywood Backers Are "Afraid" to Be More Vocal], 48tjyw, 1457062068.0, 4933
+813, [Clinton Failed to Turn Over Key Email to State Department], 4pj6t2, 1466746382.0, 4928
+814, [Independents like Bernie Sanders more than they like Hillary Clinton  a lot more], 3y4q2r, 1451029155.0, 4928
+815, [Elizabeth Warren wants Wells Fargo CEO held accountable], 53e4a5, 1474260951.0, 4927
+816, [Warren Incensed at GOP Effort to Gut Financial Protections for Retirees:"W hy would anyone on Earth vote to overturn a rule designed to protect Americans from financial fraud?" asks Sen. Elizabeth Warren], 4kzj53, 1464210343.0, 4928
+817, [Sanders was staging sit-ins in 1962, in 1964 Clinton was campaigning for Barry Goldwater, who opposed the Civil Rights Act], 45ixf3, 1455370249.0, 4922
+818, [Mike Pence used campaign funds to pay his mortgage  and it cost him an election], 4t1nnw, 1468649467.0, 4923
+819, [An Associated Press review of the official calendar Hillary Clinton kept as secretary of state identified at least 75 meetings with longtime political donors, loyalists, Clinton Foundation contributors and corporate and other outside interests that were not recorded or were listed without the names], 4pmi3o, 1466798312.0, 4923
+820, [Hillary Clinton uses Sandy Hook victims as political props to shame Bernie Sanders on gun control], 4dy1gr, 1460173209.0, 4923
+821, [Trump wanted to put Bill Clintons accusers in his family box. Debate officials said no.], 56rjsk, 1476128511.0, 4928
+822, ['Bernie or Bust' backers to flock to Philly to protest], 4u8itc, 1469314630.0, 4918
+823, [Bernie Sanders Suddenly Looking and Sounding Like a Front-Runner], 44uoy0, 1455017148.0, 4921
+824, [Barack Obama says climate change already damaging national parks], 4ot2tz, 1466367498.0, 4919
+825, [Bernie Sanders scares the shit out of the establishment. He is the only candidate from either party running his campaign finance in a manner that would have been legal 8 years ago prior to Citizens United, and he is still kicking ass. After yesterday, one might as well call the DNC the HNC instead.], 3xgu7y, 1450564281.0, 4916
+826, [You Knew Who Trump Was When You Endorsed Him, Republican Leaders], 56k6fd, 1476006495.0, 4922
+827, [Jill Stein: The Democratic Party 'fakes left,' marches right], 4exbaf, 1460764051.0, 4919
+828, [Judge orders DOJ to explain Hillary Clinton emails delay], 44zrl0, 1455091107.0, 4916
+829, [DNC Chair Joins GOP Attack On Elizabeth Warren's Agency], 48h77a, 1456878002.0, 4916
+830, [Trump, Sanders explore staging unusual presidential debate - "Smart and bold move by Sanders," Democratic strategist Brad Bannon said. "The Clinton people are furious but Bernie wins points for being so aggressive.], 4l8t41, 1464344868.0, 4916
+831, [Dem strategist: Clinton cant sidestep controversies], 4jj36j, 1463392277.0, 4915
+832, [Poll: Bernie Sanders overtakes Hillary Clinton in Oklahoma], 48babr, 1456795416.0, 4922
+833, [Black Americans for a Better Future Super PAC 100% Funded by Rich White Guys], 434tpe, 1454037462.0, 4911
+834, [Politico Exposes Clinton Campaign Money-Laundering Scheme: "Despite Clintons pledges to rebuild state parties, Politico found that less than 1 percent of the $61 million raised by the Victory Fund has stayed in the state parties coffers."], 4hisow, 1462239664.0, 4913
+835, [Hillary Clinton Emails Contained Info Above Top Secret: IG], 41r72l, 1453272073.0, 4916
+836, [A Billionaire, Some Millionaires, and a No-Show Senator Debate How Best to Block Wage Hikes], 3seaja, 1447271475.0, 4908
+837, [Sanders pushes back on Clinton's claims that his campaign is lying], 4cvlnj, 1459545867.0, 4908
+838, [Hillary Clinton Wont Say How Much Goldman Sachs CEO Invested With Her Son-in-Law], 4lccn5, 1464405543.0, 4911
+839, [How Democrats Manipulated Nevada State Party Convention Then Blamed Sanders For Chaos], 4jwfvu, 1463603790.0, 4901
+840, [Former secretary of labor endorses Sanders], 47stnk, 1456567896.0, 4907
+841, [Bernie Sanders Earns Endorsement From Arizonas Most Influential Latino Rights Group, First Endorsement In Organizations History], 47f40v, 1456378664.0, 4902
+842, [Bernie Sanders is calling out Hillary Clinton delegates on the Democratic Party's platform-drafting committee for failing to support certain amendments regarding the Trans-Pacific Partnership (TPP) trade deal], 4r4c5j, 1467616271.0, 4905
+843, [Im more regular than you are: Clintons had Secret Service chauffeurs for 23 years now. She hasnt driven a car this century. She prohibits traveling press from photographing her boarding chartered private jets.], 4e64l7, 1460330037.0, 4905
+844, [Hours after being called a wacko by Donald Trump, Democratic presidential hopeful Bernie Sanders fired back at the Republican front-runner, saying he was pushing pathetic policies designed to benefit billionaires such as himself at the expense of misguided working-class voters who support him.], 3ynrhn, 1451429637.0, 4902
+845, [Sanders: Voters should take a "hard look" at Clinton emails report], 4lkk83, 1464559992.0, 4901
+846, [Bobby Jindal Exits Presidential Race, Returns To Louisiana With 8 More Weeks As Governor; Currently, his disapproval rating has hit a historic 70 percent.], 3tb2d9, 1447891264.0, 4892
+847, [After Saying Clinton Is Owned By Wall Street, Trump Proposes A Ban On Financial Regulation], 4wqhg7, 1470696350.0, 4898
+848, [FBI director takes center stage in Clinton email case], 4qws9x, 1467485192.0, 4898
+849, [A Black Man Brought 3 Forms of ID to the Polls in Wisconsin. He Still Couldnt Vote.], 4engrl, 1460607393.0, 4903
+850, [Obama warns Democrats against overconfidence about Clinton victory], 4xwsrw, 1471336914.0, 4891
+851, [People are not happy about Bill Clintons appearance at Mass. polls], 4clt64, 1459387844.0, 4893
+852, [Jon Stewart Devoured Hillary Clinton And The Media Ignored It], 4itpa8, 1462978095.0, 4890
+853, [Iowa State Senator calls Trump a bigot, leaves GOP in protest], 4q01ui, 1467008593.0, 4889
+854, [Sen. Elizabeth Warren Calls for Total Overhaul of Student Loan System - "We shouldnt be running the student loan program to create profits for private companies. We should run it for students], 4csfjo, 1459492219.0, 4898
+855, [Sanders wins Kansas], 4958j6, 1457256651.0, 4893
+856, [Washington Has Been Obsessed With Punishing Secrecy Violations  until Hillary Clinton], 4remlq, 1467778237.0, 4891
+857, [Republican Official: Don't Raise The Minimum Wage, Because Workers Will Spend It On Heroin], 55d18y, 1475354433.0, 4892
+858, [Hillary Clinton Praised Corrupt Brazilian President Dilma Rousseff For Her Transparency -- In 2012, Hillary Clinton said soon-to-be-impeached Brazilian President Dilma Rousseff was the global standard for transparency.], 4fcma4, 1461024970.0, 4890
+859, [Did Bill Clinton violate election rules by going into a polling location? Hillary Clintons campaign has been reminded not to solicit votes near polling sites after President Bill Clinton ventured into a polling location in Boston on Tuesday, the Secretary of the Commonwealth said.], 48in2b, 1456895583.0, 4885
+860, [Police Chief: Bernie Is the First Candidate to Ever Offer and Pay Police Overtime], 4cit6w, 1459333131.0, 4880
+861, [Ted Cruz cited this research when he said most violent criminals are Democrats. Now the researchers say hes wrong.], 3yaa96, 1451166367.0, 4876
+862, [Donald Trump Makes History With Zero Major Newspaper Endorsements], 56ak66, 1475861657.0, 4882
+863, [Top Hillary Clinton Advisors and Fundraisers Lobbied Against Obamacare], 44rdp7, 1454974224.0, 4876
+864, [Obama to push for TPP passage despite opposition from presidential candidates], 4vc0ew, 1469913087.0, 4875
+865, [Elizabeth Warren: Anyone Who Says Change Is Just Too Hard Is in Bed With the Billionaires], 430f0w, 1453966520.0, 4875
+866, [Trump is wrong on the Paris climate agreement. I know because I negotiated it. - Leaders of more than 190 nations endorsed the agreement. The United States has no power to cancel it. This isnt reality TV. You cant tell sovereign leaders around the world youre fired,], 4m0ypb, 1464812484.0, 4879
+867, [Comey: FBI recommends no indictment re: Clinton emails], 4rd7ly, 1467761204.0, 4876
+868, [Fact-checking Sanders' claim that U.S. spends 3 times per capita what the U.K. spends on health care], 3xjtkb, 1450618816.0, 4873
+869, [Obama: once out of office, Im gonna stop being polite and start getting real], 546ct9, 1474686031.0, 4872
+870, [Will they like me? No, Sanders says of Wall Street executives in the new ad. Will they begin to play by the rules if Im president? You better believe it.], 40xywt, 1452813326.0, 4865
+871, [Hillary Clinton and Henry Kissinger: It's Personal. Very Personal. The Clintons and the Kissingers regularly spend holidays together at a beachfront villa.], 45l30z, 1455408194.0, 4859
+872, [Bernie is something new. The major media has given him ridiculously little coverage, and belittled him in most of that coverage. Yet he has surged in the polls, in volunteers, in small-donor fundraising, and in real world events.], 42gc6x, 1453679666.0, 4859
+873, [Long lines, too few polls anger Phoenix voters], 4bmmz7, 1458771462.0, 4860
+874, [Big money fights to block marijuana legalization: "Our analysis of contribution data found that Wasserman Schultz and her leadership PAC have received $330,568 from the Beer, Wine, & Liquor industry since her first congressional election cycle in 2006"], 40sgnm, 1452727452.0, 4868
+875, [Bernie Sanders: The Democratic primary gave me 'leverage I intend to use' to pressure Hillary Clinton], 59b6so, 1477433150.0, 4857
+876, [Bernie Sanders Picks Up 3 More Vermont Superdelegates], 49k4jn, 1457494369.0, 4849
+877, [The police can't track your cellphone without a warrant, judge rules], 4t9oi9, 1468791853.0, 4853
+878, [Clinton Email Scandal: Now A Key Witness Emails Have Mysteriously Vanished | Its hard to believe that an IT staffer who set up Hillary Clintons reckless email server never sent or received a single work-related email in the four years he worked at the State Department."], 4inj1t, 1462882241.0, 4846
+879, [The macabre truth of gun control in the US is that toddlers kill more people than terrorists do], 4ab8yq, 1457950958.0, 4845
+880, [Clinton asks where Sanders was in '90s healthcare fightturns out he was right behind her], 4a5uxa, 1457851313.0, 4850
+881, [DOJ Acknowledges Hillary Email Investigation Is 'a Law Enforcement Matter'], 4hgrnm, 1462220436.0, 4857
+882, [Bernie Sanders' plan to win New York: Get highest voter turnout in primary history], 4ennot, 1460609736.0, 4848
+883, [Robert Gates: I question Hillary Clinton's judgment on email server], 4k8dcd, 1463781739.0, 4846
+884, [Al Gore: 'Consider me exhibit A' for why each vote matters], 5708l7, 1476247070.0, 4845
+885, [President Obama Just Vetoed a Bill That Would Have Blocked Millions of Patients from Receiving Care at Planned Parenthood Health Centers], 409glj, 1452422123.0, 4840
+886, [Sanders: Media tries to divide us], 4azua9, 1458358250.0, 4843
+887, [Obama: Congress Will Not Allow the CDC to Study Gun Violence'], 4o1des, 1465939559.0, 4845
+888, [DNC Chair: "make sure that party leaders and elected officials dont have to be in a position where they are running against grassroots activists" [2:05]], 45hs7d, 1455352135.0, 4843
+889, [Justice department 'uses aged computer system to frustrate Foia requests'. Lawsuit accuses DoJ of failure by design through use of decades-old system.], 4t95lj, 1468780886.0, 4847
+890, [Vermont legislature on track to be first in U.S. to legalize marijuana.], 4aczq3, 1457989377.0, 4839
+891, [What Clinton said in her paid speeches - Recalled one attendee: "She sounded more like a Goldman Sachs managing director."], 44w4ym, 1455043989.0, 4837
+892, [Bernie Sanders catches Hillary Clinton in new California poll], 4l53n8, 1464295294.0, 4850
+893, [Chris Matthews on MSNBC just now: "I think it's fair to say that Hillary Clinton is adopting a lot of Sanders' platform to get to the White House."], 46rt1f, 1456029043.0, 4851
+894, [Until the No Fly List Is Fixed, It Shouldnt Be Used to Restrict Peoples Freedoms], 3w7vsj, 1449781189.0, 4841
+895, [Bernie to his supporters: Im not the revolutionyou are], 4ojk7b, 1466203609.0, 4841
+896, [Black Lives Matter Activist Interrupts Hillary Clinton [2/24/16] "I am not a Superpredator."], 47hggt, 1456407227.0, 4840
+897, ["The TSA failed to detect ninety percent of the bombs and weapons that were passed through its passenger screening system in its last test. Were the test also applied to baggage placed on planes, it is likely that their failure rate in detecting bombs specifically would be even higher."], 4msyz1, 1465249380.0, 4836
+898, [GOP fails to block Obama's financial adviser rule requiring financial advisers to act in the best interest of their clients who are saving for retirement.], 4pep7f, 1466680923.0, 4841
+899, [True: Mike Pence advocated for 'conversion therapy'], 4v9p0e, 1469867250.0, 4838
+900, [Clintons Email Claims Vs. State Department Inspector Generals Findings Compared: "According to the findings, she claimed approval she didnt have and declined to be interviewed for the report despite saying: 'Im more than ready to talk to anybody anytime.'"], 4lvglc, 1464733694.0, 4845
+901, [Bernie Sanders is right: Hillary Clinton praising Henry Kissinger is outrageous], 45fx1h, 1455328482.0, 4838
+902, [Sanders a hit with Millennial women: "Young women could make history by helping elect the first woman president, but many of them are turning to the oldest white guy in the field."], 410on3, 1452848625.0, 4842
+903, [Another Major Union Just Endorsed Bernie Sanders], 4aegvl, 1458010258.0, 4834
+904, [Most Clinton Voters Like Bernie Sanders. Most Sanders Voters Dont Like Hillary Clinton.], 4fia04, 1461110470.0, 4832
+905, [Half the Foreign Policy Experts Signing Clintons Anti-Sanders Letter Have Ties to Military Contractors], 422exp, 1453443965.0, 4832
+906, [Sanders Calls on President to Intervene in Dakota Access Pipeline Dispute], 59wpwg, 1477714935.0, 4840
+907, [Lost emails from Clinton server discovered], 4bto7j, 1458883924.0, 4824
+908, [Sanders gets primetime speaking slot at Democratic National Convention], 4t0emp, 1468634258.0, 4829
+909, [Hillary Clinton used personal AT&T email account as senator, carried practice over to State Dept.], 4m1pgd, 1464822599.0, 4826
+910, [Legal Cannabis is Literally Transforming Cities  Funding Roads, Schools, Charities and More.], 4lkng3, 1464561652.0, 4833
+911, [Poll: Sanders holds slim lead over Clinton nationally], 4dmyft, 1459994635.0, 4829
+912, [Bernie Sanders Supporters Protest Election Coverage At Hollywood CNN Building], 4d86gx, 1459750108.0, 4821
+913, [Clinton IT aide pleads Fifth, skips hearing], 52kw4q, 1473807476.0, 4825
+914, [Missouri Democrats Have Been Filibustering An Anti-Gay Bill For 22 Hours and Counting], 49khlm, 1457498821.0, 4829
+915, [Land of the free? New reports shows the US ranks dead last in electoral integrity | "As if further proof could possibly be needed of the sorry state of the American electoral process, a new study just ranked the United States dead last in electoral integrity among established Western democracies."], 4fcub1, 1461027656.0, 4817
+916, [DiCaprio: Climate change deniers shouldn't hold public office], 55r2ia, 1475572365.0, 4819
+917, [Bernie Sanders says he's 'one of the poorer members of the United States Senate'], 4euvsv, 1460719266.0, 4824
+918, [Voter Suppression Is a Much Bigger Problem Than Voter Fraud], 58n4oq, 1477084433.0, 4823
+919, [Senior papal official: Untrue that Sanders invited himself to Vatican], 4dxlcx, 1460167295.0, 4820
+920, [How come Bernie needs a plan to pay for his health care proposal but Hillary and none of the other republican candidates have to explain how they'll pay for their endless global wars and mass surveillance?], 418ij6, 1452981621.0, 4820
+921, [Trump: "If Hillary Clinton was a man, I don't think she'd get 5% of the vote."], 4gmr07, 1461757621.0, 4822
+922, [Sanders: Superdelegates may now be eyeing switch from Clinton], 4c5r5v, 1459118489.0, 4816
+923, [Stephanopoulos Again Fails to Disclose His Donations During Clinton Interview], 4fb1wg, 1461000558.0, 4815
+924, [At least 2,079 Clinton emails contain classified material], 48dlsv, 1456822323.0, 4805
+925, [Austin Peterson: I want gay couples to be able to protect their marijuana fields with fully automatic rifles"], 4kb0uc, 1463815493.0, 4810
+926, [FAA Says North Dakota Cops Commited Felony by Shooting Down DAPL Protester Drones], 5a7tbz, 1477885048.0, 4823
+927, [Fact-checking Trump's claim that thousands in New Jersey cheered when World Trade Center tumbled], 3tvfgt, 1448264109.0, 4802
+928, [After court threat, Mich. removed Flint's power to sue], 53hder, 1474318042.0, 4804
+929, [Hillary Clinton Is Exposing the Dark Underbelly of the Democrats Money Machine: Her campaign has put a spotlight on the cozy relationships between Democratic operatives and corporate America.], 49vc2b, 1457670831.0, 4797
+930, [The Clintons really dont get it: False attacks and failed strategies as Hillary repeats 2008], 462ed0, 1455657635.0, 4804
+931, [Clintons credibility gap widens after FBI rebuke - "Want to know why two-thirds of Americans do not consider Hillary Clinton trustworthy? Re-watch pretty much any public comment shes made about her email use over the past 16 months and then watch James Comeys speech yesterday"], 4ritfk, 1467845178.0, 4806
+932, [Clinton Delegate Lead Down to 194, Even as Dramatic Miscounting of Delegates by Media Continues], 4f90u9, 1460963756.0, 4801
+933, [Bernie Sanders to deliver much-awaited speech on democratic socialism Thursday], 3tajja, 1447882598.0, 4805
+934, [More Clinton emails released, including some she deleted], 4ql7bk, 1467315638.0, 4796
+935, [Bernie Will Ban Private Prisons. Hillary Accepted $133,246 From Prison Lobbyists], 4774aa, 1456270698.0, 4804
+936, [With her email scandal, Hillary Clinton is out of excuses - The exit polls from the "FBI Primary" are in and they don't look good for Hillary Rodham Clinton.], 4llpl0, 1464577214.0, 4806
+937, [There Is Only One Way Bernie Sanders Can Win New York Tomorrow: Clinton has the party machine locked up. So Sanders's supporters will need to overwhelm the establishment and swamp the polls.], 4fd5m3, 1461031476.0, 4798
+938, [In November, Sanders flat out accused Clinton of being in Wall Streets pocket, adding that the banks expect to get something in exchange for their millions of dollars of campaign contributions. Its common sense, he pointed out for the benefit of viewers. Everybody knows that.], 3yf9yz, 1451271430.0, 4788
+939, [Bravo! Email Shows Hillary Clintons Friends Congratulating Her on Invading Libya], 47geiw, 1456391969.0, 4801
+940, [Carly Fiorina is a liar: And everyone should finally just say it  loudly], 3x9tfo, 1450420695.0, 4793
+941, [New Poll: Almost 80% of Americans Believe Country Will Head in Wrong Direction Under Trump or Hillary], 4ulow2, 1469519417.0, 4789
+942, [Sanders Forges Ahead: 'No One Said a Political Revolution Would Be Easy'], 4aw7k6, 1458293516.0, 4783
+943, [Americans Are Sick Of The 'Tough On Crime' Era.], 45kj8y, 1455401701.0, 4792
+944, [Instead of addressing the abnormally high infant death rate, Tenet Healthcare sent $200,000 in campaign contributions to Florida Governor Rick Scott and his party. In response, the governors administration repealed Floridas pediatric heart surgery standards altogether.], 4358z6, 1454042771.0, 4782
+945, [Gov. Christie To Get Criminal Summons For Possible Official Misconduct: Report], 57aibi, 1476397535.0, 4789
+946, [Rubios tax plan gives a huge gift to the top 0.0003% "the Rubio plan will hemorrhage revenues while bequeathing a massive gift of wealth to the top 0.0003%. Apparently, hes decided that Americas big economic challenge is that those rich people arent rich enough. And damn it, hes gonna fix that!], 3rrdh2, 1446844989.0, 4787
+947, [Hillary Clintons tone-gate disaster: Why her campaigns condescending Bernie dismissal should concern Democrats everywhere If the Clinton campaign can't deal with Bernie's "tone," how are they supposed to handle someone like Donald Trump?], 4ck64m, 1459362090.0, 4792
+948, [Don't Let Trump's Antics Distract You From Cruz's Unwavering Extremist Agenda -- One is theater. The other is terrifyingly real.], 49cj08, 1457384930.0, 4785
+949, [Sanders Wins Big Over Clinton In Minn., Claiming Every Congressional District. "Sanders win came despite the fact that every prominent elected official in the state, including the Governor and Sen. Klobuchar, all endorsed Clinton."], 48pbv7, 1456994171.0, 4782
+950, [Hillary Clinton Lets Scandal-Plagued Corporation Throw Her a Fund-raiser, for Some Stupid Reason], 4afl0j, 1458024639.0, 4782
+951, [Trump: Wind power kills all your birds], 4vsbg9, 1470171790.0, 4777
+952, [Poll: Sanders closes gap nationally], 4cezpe, 1459279102.0, 4781
+953, [Trump bounces into the lead], 4uhujv, 1469469971.0, 4783
+954, [By not releasing transcripts of her speeches to Wall Street, Hillary Clinton reinforces the notion that she has something hide.], 47rdns, 1456550219.0, 4773
+955, [The richest 20 individuals alone own more wealth than the entire bottom half of the U.S. population.], 3wpx13, 1450083223.0, 4777
+956, [Trump has 2-point edge in new Florida poll], 59h9tb, 1477514266.0, 4782
+957, [If Bernie Sanders loses, his backers may not be there for Hillary Clinton in November], 44j77k, 1454836170.0, 4764
+958, [Bernie Sanders Insurgent Campaign Marks the End of Dont-Rock-the-Corporate-Boat Liberalism], 420b05, 1453417124.0, 4775
+959, ["He didn't see Bernie Sanders because Bernie Sanders was doing fair and open housing in Chicago -- that's why he didn't see him. No matter how good your eyesight is -- if you are standing in Alabama, you can't see people in Chicago," Ellison told CNN.], 45ge0e, 1455334230.0, 4772
+960, [Christie vetoes $15 an hour minimum wage bill pushed by N.J. Democrats], 50cl4t, 1472609999.0, 4771
+961, [Sanders campaign slams Clinton for calling herself nominee], 4k58t5, 1463727440.0, 4770
+962, [Telling Women They Have To Vote For Hillary Clinton Is Not Only Offensive, It's Anti-Feminist], 44wv6x, 1455056612.0, 4763
+963, [Kansas Gov. Sam Brownbacks trickle-down economics experiment is so bad the state stopped reporting on it], 59dx2l, 1477462266.0, 4767
+964, [Hillary Clinton Falsely Credits Reagans With Starting National Conversation on HIV/AIDS], 4a0n14, 1457757824.0, 4763
+965, [Hillary Clinton's top political donor is Univision chairman, investigation shows], 49rp2q, 1457608519.0, 4754
+966, [Ryan cuts Trump from Wisconsin event], 56eqqz, 1475917941.0, 4759
+967, [Trump: Transgender people can use whatever bathroom they want], 4fstjo, 1461272092.0, 4753
+968, [Fired up by Bernie Sanders, Democrats shift left on health care], 4i062k, 1462487855.0, 4759
+969, [The Official Head Of The Democratic Party Joins GOP Effort To Protect Payday Lenders], 48lstg, 1456947815.0, 4763
+970, [Hillarys Pathetic Cover-Up of TPP Support: Clinton allies are stonewalling emails that expose her trade hypocrisy], 4mu0qi, 1465261604.0, 4751
+971, [Sanders to supporters: Don't let anyone tell you this is over], 4ik8zx, 1462838889.0, 4750
+972, [The Panama Papers show something Bernie Sanders gets right about the economy], 4dbq62, 1459814707.0, 4742
+973, [Rudy Giuliani Says He Didnt See Hillary at Ground Zero. Here Are Photos of Them There Together.], 575x0k, 1476328475.0, 4751
+974, [Yes, Hillary Clinton Is Held To A Double Standard. In fact, she has been held to a much lower standard.], 4eiccc, 1460525836.0, 4750
+975, [Bernie Sanders proved politicians can make it this far without selling their souls | Robert Reich], 4nb9ju, 1465514331.0, 4749
+976, [Poll: 67% of millennials dislike Clinton, 75% dislike Trump - 35% may vote 3rd Party], 4dgofp, 1459895718.0, 4746
+977, [Hillary Clinton Slams Donald Trump For Praising Dictators, But She Has Praised Dictatorial Regimes That Donated To Her Family Foundation], 4h1h51, 1461992141.0, 4748
+978, [Time to Transform Bernies's Campaign Into a Permanent Organization], 4c7uqh, 1459151880.0, 4746
+979, [Sanders Raises More Than $4 Million Since Saturday Victories], 4caoch, 1459208598.0, 4741
+980, [Bernie Sanders: I can beat Trump, Hillary Clinton can't], 47ghpq, 1456393007.0, 4741
+981, [White armed occupiers were acquitted. Native American activists were tear gassed.], 5a1fq7, 1477789807.0, 4752
+982, [Hillary Clinton just suggested shes not establishment. Come on.], 44al5i, 1454703504.0, 4738
+983, [Most Americans, including a majority of both Democrats and Republicans, think ex-convicts should be allowed to vote after their release], 4gl3p2, 1461734966.0, 4741
+984, [Women are calling the governor's office to tell him about their periods in response to abortion bill], 4d1soz, 1459637886.0, 4740
+985, [Meet Tim Canova, the Democrat challenging Debbie Wasserman Schultz in CD23: The more I looked at her record, I noticed how much money shes been taking in from large corporations and how its been apparently been influencing her votes in favor of Wall Street banks and private prisons."], 42bfo6, 1453594687.0, 4738
+986, [Sanders: Nobody's ever asked me where I was born], 53cebv, 1474238414.0, 4742
+987, [Sanders: Carson's 'absurd views' more important than his past], 3ry3f7, 1446968584.0, 4736
+988, [Boehner on Ted Cruz: "I have never worked with a more miserable son of a bitch in my life"], 4gub23, 1461883737.0, 4735
+989, [Poll: Sanders does better than Clinton in general election], 4ewsgn, 1460756962.0, 4735
+990, [National Media Retracts Its Claim That There Was Violence at the Nevada State Democratic Convention], 4l60p3, 1464307275.0, 4730
+991, [Nixon Aide Reportedly Admitted Drug War Was Meant To Target Black People], 4biqrx, 1458700826.0, 4729
+992, [Schwarzenegger urges Republicans to vote country over party, dump Trump], 56soy2, 1476144122.0, 4732
+993, [DNC Lawyers Now Implicated in Email Leaks as Giving Pro-Hillary Advice], 4uqpnq, 1469593053.0, 4728
+994, [Step by step instructions on how to remove Debbie Wasserman Schultz from congress #DebtTrapDebbie], 4ic74p, 1462691452.0, 4728
+995, [Bernie Sanders wins Wisconsin Democratic primary], 4djooo, 1459936129.0, 4726
+996, [White Lives Matter To Be Listed As Hate Group By Southern Poverty Law Center: We are listing them because they are clearly white supremacists.], 504wx3, 1472504937.0, 4727
+997, [Black Lawmakers And Their Staffers Split On Bernie Sanders: "'The younger generation has begun to look at us and theyre asking the question, Is Hillary really on my side? When my brother was put in jail for marijuana under her husband? Welfare was taken away, and so forth.'"], 45wrne, 1455576389.0, 4723
+998, [Noam Chomsky: Bernie Sanders is Not a Radical, He Has Mass Support for Positions on Healthcare & Taxes], 4gqxxk, 1461824229.0, 4724
+999, [Bernie Sanders Wins Landslides in Washington, Alaska and Hawaii; Corporate Media Downplays Them], 4cavgm, 1459211224.0, 4722
+1000, [Sherrod Brown: Mass Shootings By White Men Are Terrorist Attacks Too], 3u7oca, 1448486486.0, 4720

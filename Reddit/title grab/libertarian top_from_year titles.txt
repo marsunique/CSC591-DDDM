@@ -1,0 +1,1001 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Shock As Texas Jury Sides With Cannabis Grower Who Killed SWAT Officer], 5a04nx, 1477771009.0, 5284
+2, [Harvard Study Finally Admits Drug Prices Are High Because Govt Grants Big Pharma A Monopoly], 4zzly3, 1472423578.0, 5260
+3, [Warfare Queen], 49fuev, 1457427367.0, 5230
+4, [Sarah Silverman admits she made up wage gap story even after she called out specific employer.], 51evif, 1473192570.0, 4806
+5, [Pandora's Iphone], 46sle8, 1456039997.0, 4521
+6, [Hillary Clinton strategist Bob Beckel called for WikiLeaks editor Julian Assange to be assassinated], 4x81wg, 1470951948.0, 4298
+7, [Rand Paul Is Just a Handful of Votes Away From Auditing the Fed | RedState], 4ts1w0, 1469061699.0, 4275
+8, [Florida Governor Signs Bill Requiring Actual Criminal Charges Before Seizing Property], 4d15t4, 1459625164.0, 4265
+9, [FBI Announcement], 4ri0kq, 1467832867.0, 4244
+10, [Hello r/all, CNN will be hosting a town hall tonight at 9PM for the Libertarian presidential nominees, Governors Gary Johnson and Bill Weld. They are running on a fiscally responsible, socially tolerant platform. Please tune in and remember to use the hashtag #JohnsonWeldCNN], 4pae11, 1466627367.0, 4017
+11, [Finally: University of Chicago Warns Freshmen Not to Expect Safe Spaces, Trigger Warnings], 4zin69, 1472162705.0, 3905
+12, [When Someone Tells You You're Wasting Your Vote...], 4udb6h, 1469399231.0, 3890
+13, [A True Grassroots Candidate], 4si6w2, 1468372912.0, 3854
+14, [How to close the wage gap], 3udxf3, 1448598166.0, 3839
+15, [Johnson polling 15% among Midwest voters], 4vyd15, 1470258089.0, 3791
+16, [This says it all.], 4phz7d, 1466732273.0, 3742
+17, [Gary Johnson's response to the mass shooting in Orlando], 4nrr2q, 1465787544.0, 3733
+18, [Reporter who said "F**k it" and promoted legalization is facing 54 years in prison for running the Alaska Cannabis Club], 57qv52, 1476642198.0, 3724
+19, [Let Libertarian Gary Johnson debate Clinton and Trump], 4wcy2w, 1470463717.0, 3727
+20, [Let Gary Johnson debate], 4ozn9z, 1466469673.0, 3688
+21, [Cyanide and Happiness on age requirements], 41fkmz, 1453095364.0, 3687
+22, [CNN to host town hall with Libertarian presidential candidates (X-post from /r/GaryJohnson)], 4o8uw0, 1466044515.0, 3663
+23, [/r/All, meet your 2016 Libertarian Party Presidential Nominee!], 4ll79b, 1464570018.0, 3628
+24, [Paul Ryan says U.S. taxes on small businesses is 44.6 percent, versus 15 percent in Canada (Politifact Rating: TRUE)], 549et2, 1474736568.0, 3613
+25, [TIL Trey Parker is a Libertarian], 54ri4o, 1475023739.0, 3602
+26, [#letgarydebate], 56ouo7, 1476083355.0, 3549
+27, [Gary Johnson on front page of cnn.com right now], 4pdzhp, 1466670827.0, 3508
+28, [New Utah Poll: Trump 29, Clinton 27, Johnson 26], 4u8foo, 1469313237.0, 3476
+29, [Hillary Clinton speaking in support of video game censorship (2006).], 55sxdo, 1475607346.0, 3477
+30, [CNNS Libertarian Party Town Hall was #1 in Cable News Last Night at 9PM], 4w7yhw, 1470388660.0, 3447
+31, [First ever nationally televised Libertarian party debate - April 1st on Fox Business], 4cklbu, 1459370805.0, 3387
+32, [Shit just got real.], 4u0c8b, 1469179105.0, 3309
+33, [Gary Johnson polls at 13% in CNN/ORC National Poll], 4t9os0, 1468792004.0, 3313
+34, [NYTimes Journalist who slams Johnson for ignorance is forced to issue corrections after incorrectly identifying what Aleppo is. Twice.], 51s6od, 1473381254.0, 3252
+35, [This feels awfully appropriate today], 57xif4, 1476742298.0, 3229
+36, [Google Searches for "Libertarian Party" Surge After Ted Cruz Drops Out], 4hu1t4, 1462390278.0, 3191
+37, [I'm tired of people saying voting libertarian is a waste of a vote. How could you vote for Clinton or Trump and say THAT isn't a wasted vote .], 4uoobw, 1469569436.0, 3181
+38, [No Can Do Allison], 59u1e8, 1477685212.0, 3158
+39, [Sign on my doctor's front entrance.], 57g0l1, 1476475864.0, 3141
+40, [Mike Rowe to Bernie Sanders: Stop Telling Everyone College is The Only Thing], 3wzioj, 1450240486.0, 3118
+41, [Clinton-Trump debate sites plan for a third podium], 4wvjh0, 1470767940.0, 3048
+42, [People claim I'm a hypocrite for being pro-privacy but celebratory when politicians and their supporters get hacked...], 4uxflc, 1469688056.0, 3004
+43, [The Clinton Campaign Should Stop Denying That The Wikileaks Emails Aren't Validated; They Are And They're Real], 59c34u, 1477442879.0, 2978
+44, [If Bernie said this it would break the Reddit upvote button. Ron Paul's What If Speech], 3z597n, 1451774509.0, 2969
+45, [Trying to argue with a socialist about the current affairs in Venezuela], 4n3c2y, 1465389669.0, 2964
+46, [All Gary needs is 33.4% in the polls and he's the frontrunner. But first he needs to be included. Then we NEED to get his name out there. USE THE UPVOTE BUTTON!], 4oe4cb, 1466122320.0, 2903
+47, [Breaking: Reddit Users Break HUGE Clinton Email Story - Proving Hillary ORDERED Emails to Be Stripped], 53jbd2, 1474342042.0, 2900
+48, [My favorite tweet from Gary Johnson tonight.], 54orjo, 1474976680.0, 2885
+49, [St. Louis area police department claims it does not have to follow the laws they enforce, department has no insurance, or no registration for their police cars nor any workers compensation for their officers.], 4qr6vf, 1467400165.0, 2875
+50, [Billionaire Mark Cuban says Apple deserves a 'standing ovation' for fighting FBI on encryption], 46lmxn, 1455930843.0, 2810
+51, [Ross Perot was only at 8% and allowed to debate. Gary is at 12%. What are they afraid of?], 51lt5r, 1473290829.0, 2763
+52, [Mike Rowe to Bernie Sanders: Stop Telling Everyone College is The Only Thing], 5acdap, 1477951225.0, 2818
+53, [Justin Amash: "'What is Allepo?' You think that's bad? @HillaryClinton doesn't even know what 'classified' means."], 5264qn, 1473583817.0, 2734
+54, [Rand Paul Giving His Speech To Block The $1 Billion Saudi Arms Sale], 53yk2s, 1474573895.0, 2728
+55, [Hillary Clinton on Assange "Can't we just drone this guy" -- report], 55npke, 1475531179.0, 2736
+56, [Libertarian Johnson: Drug war 'root cause' of police shootings], 4rwc0k, 1468033412.0, 2708
+57, [Gary Johnson polls at 10% in California], 4rooov, 1467928690.0, 2703
+58, [Gary Johnson was finally added to a Google Rewards poll.], 4qxbqz, 1467496915.0, 2699
+59, [Happy 81st birthday, Ron Paul!], 4yphs5, 1471734938.0, 2677
+60, [Libertarian Attack-Ad on Clinton], 4nl36j, 1465674110.0, 2655
+61, [Surrounded by armed bodyguards and Secret Service agents, HillaryClinton declared that guns don't keep us safe.], 3zffpq, 1451953697.0, 2649
+62, [Why I love Gary], 4w27ch, 1470304835.0, 2641
+63, [Richard Nixon Could Only Wish He Got Hillarys FBI Treatment], 59hph9, 1477519797.0, 2626
+64, [Gary Johnson surpasses $2.7 million in online donations for August], 4xz4to, 1471377832.0, 2617
+65, [Rand Paul: Nobody read the $1.1 trillion omnibus bill], 3xl2qg, 1450654211.0, 2617
+66, [Child taken from mother for playing 120ft away. Reporter: "Aren't you afraid someone might take him", Mother: "Yes, that's exactly what the police did"], 3v0937, 1449012589.0, 2614
+67, [Gary Johnson polls at 12% in National Fox News Poll], 4nda5s, 1465539790.0, 2617
+68, [Johnson hits 15% in Colorado!], 4xehe0, 1471049273.0, 2590
+69, [CISA Is Now The Law: How Congress Quietly Passed The Second Patriot Act], 3xgl0e, 1450557747.0, 2558
+70, [GOP Billionaire Drops Six Figure Donation on Gary Johnson's Campaign], 50drl2, 1472623977.0, 2549
+71, [Rand Paul recommends Prison Sentence for Hillary Clinton], 4t3rst, 1468687315.0, 2523
+72, [Rand Paul and Ron Wyden introduce legislation to block expansion of FBI powers], 4nalbv, 1465504612.0, 2520
+73, [Gary Johnson polls at 10% in National Fox News Poll], 4jzh1m, 1463640954.0, 2498
+74, [Edward Snowden: "I told the US government I'd return to the US if I was guaranteed a fair trial [...] The United States responded with a letter from the attorney general saying they promised they would not torture me."], 47djcc, 1456361717.0, 2486
+75, [Paul Ryan says U.S. taxes on small businesses is 44.6 percent, versus 15 percent in Canada (Politifact Rating: TRUE)], 3wa5e9, 1449812213.0, 2482
+76, [Hillary Clintons Hometown Paper Endorses Gary Johnson], 58tnjl, 1477179885.0, 2453
+77, [It does feel great.], 4excum, 1460764623.0, 2446
+78, [Gary Johnson polls at 12% in CBS/NYT National Poll], 4ssy3t, 1468527411.0, 2432
+79, [Sen. Rand Paul says that Hillary Clinton deserves five years in prison for lying to Congress about the true nature of the CIA operation in Benghazi that was attacked by terrorists in 2012.], 4xntva, 1471204784.0, 2404
+80, [Join Governor Gary Johnson and Governor Bill Weld on R/IAmA Sep. 6th at 9PM for their AMA!], 508m5n, 1472549897.0, 2344
+81, [Leaked Audio: Hillary Clinton: "The Supreme Court is WRONG on the Second Amendment"], 55d3xa, 1475355787.0, 2332
+82, [Truth sometimes leaks even on Facebook], 3y7gwr, 1451100451.0, 2317
+83, [Man Tells Cops They Can't Search His Home Without A Warrant, Cops Kick His Down Door & Kill Him], 3t0ug6, 1447712522.0, 2319
+84, [Gary Johnson: A Wasted Vote Is A Vote For Trump Or Clinton], 4vcniu, 1469923408.0, 2300
+85, [Searches for "Gary Johnson" spiked right after the debate], 54wkn2, 1475101587.0, 2270
+86, [Confirmed: Rand Paul is Doing an AMA this Week.], 41auoq, 1453014994.0, 2251
+87, [Share with all of your Bernie friends to help get Gary to 15% in the polls!], 4uua00, 1469650226.0, 2250
+88, [Former Florida Governor and Presidential candidate Jeb Bush is expected to endorse Gov. Gary Johnson for President next week.], 4u48wu, 1469241236.0, 2235
+89, [The vacuum of justice], 58xezn, 1477232463.0, 2211
+90, [The truth about "TTIP is not your business!"], 4kia4e, 1463947172.0, 2161
+91, [A man with a carry and conceal gun stopped a mass shooting at a nightclub], 4ql2ru, 1467313385.0, 2151
+92, [Poll: Millennials #FeelTheJohnson, Hillary falls to 37%], 4r7sa0, 1467676154.0, 2144
+93, [Gary Johnson breaks 15% in new Iowa, Ohio polls], 4qh8a7, 1467255248.0, 2094
+94, [Donald Trump: "It's disgraceful to have such a high criteria for third parties to be included in the debates."], 4ymxes, 1471691026.0, 2067
+95, ["If you think that a 'minor party' candidate cannot win, and thus cast your vote for a slightly more palatable version of the worst possible answer, then you are the problem."], 4lv18n, 1464727639.0, 2051
+96, [Rand Paul would release the 28 pages of the 9/11 report if president], 425dfb, 1453495601.0, 2039
+97, [Nebraska Just Abolished Civil Forfeiture, Now Requires A Criminal Conviction To Take Property], 4fnsjs, 1461193864.0, 2040
+98, [Gary Johnson #1 Trending Search on Yahoo Monday Morning!], 4mtli6, 1465256834.0, 2029
+99, [The Senate votes this week on whether to give the FBI warrantless access to your browsing history], 4sbhdk, 1468279817.0, 2021
+100, [GOP congressman says he'll vote for Libertarian ticket over Trump | Fox News], 4wpmn3, 1470683638.0, 2014
+101, [Gary Johnson Beats Hillary With Independents, Reaches 12% Nationally], 4o1cl4, 1465939212.0, 2004
+102, [A letter to Bernie Sanders' voters], 45swmh, 1455512244.0, 1997
+103, [FYI This is how r/politics moderators operate.], 3x7i97, 1450384824.0, 1988
+104, [Gary Johnson and Bill Weld are on 60 mins right now. Please share], 53esag, 1474270221.0, 1961
+105, [No charges for Clinton], 4rd5uf, 1467760656.0, 1954
+106, [Man Shoots at Intruders, Turns Out it was a No-Knock Raid. Now He Faces the Death Penalty. (x-post /r/Texas)], 3ts1nn, 1448195673.0, 1956
+107, [Hold it right there!], 4aufrj, 1458268145.0, 1953
+108, [Report: Gun crime has been on the decline for about 20 years, except in gun-free zones], 3vf8c6, 1449270578.0, 1950
+109, [Rand Paul Challenges Bernie Sanders To Hour-Long Debate On Socialism vs. Capitalism], 3smbe2, 1447413636.0, 1941
+110, [Don't like Gary Johnson? Vote for him anyways. If he gets just 5% of the popular vote the Libertarian party will have automatic balloting in all 50 states and government funding for future elections!], 59pqz8, 1477623084.0, 1942
+111, [Gary Johnson could snatch the election away from Donald Trump ... or Hillary Clinton. "Gary Johnson, like many Americans, is socially liberal, fiscally conservative and wants the U.S. to steer clear of foreign wars"], 4v4blg, 1469787160.0, 1923
+112, [Press is lying. Clinton is NOT first woman nominated for president. It was Victoria Woodhull in 1872. More bias against anything not part of the two party rigged system.], 4v0zps, 1469745138.0, 1914
+113, [We can trust government, they've never lied to us before], 53ajqd, 1474197244.0, 1922
+114, [I got unsolicited mail telling me not to vote third party. It's an important issue so I mailed them back this donation.], 5a6c77, 1477867850.0, 1909
+115, [Democrats Kill Rand Paul's Audit the Fed Bill, Though Sanders Votes Yes], 40s9sc, 1452724494.0, 1887
+116, [Yesterday, a federal court judge agreed to hear oral arguments in a lawsuit challenging the nonprofit status of the Commission on Presidential Debates], 5669sg, 1475800445.0, 1893
+117, [Libertarian Gary Johnson looks to boost credibility, with a little help from Drew Carey], 4ui4wv, 1469475263.0, 1874
+118, [I'm sick and tired of hearing Americans lament that both Trump and Hillary are terrible candidates but then refuse to even consider voting for Gary Johnson instead], 4p6y2i, 1466571868.0, 1876
+119, [Johnson Hits 12% in Michigan Poll], 4m0r73, 1464808927.0, 1860
+120, [In case it's a bomb.], 3y4s8r, 1451030483.0, 1849
+121, [Demand that Gov. Gary Johnson be included in the presidential debates], 4v9wmd, 1469870500.0, 1847
+122, [This made me chuckle], 4mnmhb, 1465165929.0, 1843
+123, [Chicago Tribune Editorial Board endorses Gary Johnson for president], 557tsq, 1475269932.0, 1830
+124, [This is not photoshopped], 58c4ue, 1476932954.0, 1828
+125, [Emails: CNN Reporter Coordinated With Hillary Aide To Smear Rand Paul During 2013 Benghazi Hearing], 3u7m8s, 1448485290.0, 1821
+126, [Joe Rogan Endorses Gary Johnson], 4vql7g, 1470138606.0, 1797
+127, [Johnson at 24% in NM], 55ifnb, 1475447451.0, 1793
+128, [Congrats on that $15/Hr Minimum Wage], 4ignko, 1462774742.0, 1787
+129, [US Congressman, Scott Rigel (R-VA) Backs Libertarian Presidential Candidate in Campaign First], 4wh8ic, 1470539003.0, 1779
+130, [Only 9% of America Chose Trump and Clinton as the Nominees], 4vm7b9, 1470082908.0, 1776
+131, [Why is this so hard to understand?], 4jmi0e, 1463451798.0, 1775
+132, [Saudi Arabia sentences a man to 10 years in jail and 2,000 lashes for tweeting that he was an atheist], 50hfce, 1472682256.0, 1774
+133, [No, Obama, It's Not Easier To Buy A Glock Than A Book], 4smy2n, 1468442506.0, 1766
+134, [Sen. Rand Paul (R-Ky.) is calling out Sens. Elizabeth Warren (D-Mass.) and Bernie Sanders (I-Vt.) to back his legislation to audit the Federal Reserve ahead of a procedural vote Tuesday.], 40hnkv, 1452560526.0, 1765
+135, [Wikileaks Nails It!], 58l1o1, 1477047125.0, 1761
+136, [Please don't ruin it for Gary Johnson. This is our best chance ever.], 4mcpyl, 1464987138.0, 1750
+137, [Austin Peterson: I believe in a world where gay married couples can defend their marijuana fields with fully automatic machine guns], 4iz06u, 1463056054.0, 1719
+138, [Rand Paul's face When Whoopi Goldberg Says We Need to Outlaw Guns That Have Been Outlawed for Decades], 3zwnd2, 1452218766.0, 1723
+139, [Gary Johnson will not be on the ballot in Ohio unless you get the Sec. of State to do their job. Anyone in the country can help.], 4xb802, 1470995713.0, 1707
+140, [Rand Paul: "My friend @tedcruz has still not pledged to issue exec order declaring Canadian "bacon" is not real bacon. Makes me suspicious."], 3xz5pt, 1450916430.0, 1694
+141, [Gary Johnson: If polls would include me, I'd be at 20%], 50zof3, 1472950910.0, 1669
+142, [Johnson/Weld Come Out of CNN Town Hall Looking Like "a sensible alternative to the two main options."], 4w48r8, 1470342226.0, 1672
+143, [TIL Gary Johnson's dad paratrooped into Normandy before D-Day as a member of the 101st Airborne - the division that "Band of Brothers" was about], 4vudpq, 1470195634.0, 1636
+144, [Government Named Top U.S. Problem for Second Straight Year], 3zpmk8, 1452112950.0, 1633
+145, [Gary Johnson Leads In 18-24 Demographic Over Both Clinton and Trump.], 53ivbu, 1474336862.0, 1620
+146, [Rand Paul Introduces Resolution to End Arms Sales to Saudi Arabia], 52j9r9, 1473780758.0, 1621
+147, [Hey /r/all, did you know that "Johnson tops Clinton among independents"?], 4nho23, 1465611579.0, 1611
+148, [The worst mass shooting in the US was done by the US government], 4o5dbq, 1465990118.0, 1612
+149, [BREAKING: New Video of Hillary Clinton's "Medical Episode" Emerges [VIDEO]], 5296v6, 1473638925.0, 1607
+150, [TSA paid $1.4 million for Randomizer app that chooses left or right], 4db1oy, 1459805113.0, 1600
+151, [What Gary Johnson Believes in 2 Minutes], 4psj07, 1466890516.0, 1594
+152, [Thanks Obama: Health care costs rise the most in 32 years. Premiums on the Obamacare exchanges are expected to rise by double-digits this year.], 536ws5, 1474141800.0, 1594
+153, [Happy Independence Day?], 4r3kth, 1467605407.0, 1576
+154, [/r/the_donald and free speech], 4nw9wx, 1465862221.0, 1572
+155, [Rand Paul is Everywhere on the Internet!], 42v2yx, 1453888325.0, 1560
+156, [Stop "resisting"], 43b4u7, 1454133928.0, 1544
+157, [Bill: Give Cops Up to 10 Years in Prison for Warrantless Phone Tracking], 3rhvsv, 1446676631.0, 1541
+158, [The Libertarian Party is currently on the ballot in 32 states. To make it 50, we need go out and get thousands of signatures, lots of money, and all of it gathered in a short time. Donate to the Ballot Access Fund today to keep us on pace to get on the ballot across the nation!], 4hzl0y, 1462478631.0, 1540
+159, [WikiLeaks: "#Brexit to set Julian #Assange free, as EU arrest warrant, used as the excuse to hold him without charge, is to be scrapped in the UK."], 4pn427, 1466806986.0, 1503
+160, [Thanks Obama (premiums on a sharp increase)], 597pxp, 1477379128.0, 1498
+161, [Gary Johnson will only be on the ballot in 49 states], 4nge4i, 1465595719.0, 1493
+162, [This two year old post is even more relevant now], 3re0i4, 1446606323.0, 1490
+163, [#LetGaryDebate], 5187ey, 1473086489.0, 1482
+164, [This is the year], 4q6kl2, 1467101802.0, 1481
+165, [Perot Was At 8% Nationally And Allowed To Debate, Gary Johnson Is At 9%], 52mc6z, 1473823218.0, 1481
+166, [Dear Democrats: No One Owes You Their Vote], 53msbt, 1474397481.0, 1467
+167, [New poll: Gary Johnson surges to 14% in Utah, both major nominees have 70% disapproval ratings. We can win this!], 5743p9, 1476308438.0, 1471
+168, [Gary Kasparov: "I'm enjoying the irony of American Sanders supporters lecturing me, a former Soviet citizen, on the glories of Socialism and what it really means! Socialism sounds great in speech soundbites and on Facebook, but please keep it there."], 48s0ry, 1457041384.0, 1471
+169, [CNN now using San Bernadino to push for NSA mass data collection], 3vl0dy, 1449378611.0, 1460
+170, [Mark Cuban: "The best way for any of us to impact the political game?If asked in a survey who you will vote for,Pick a 3rd party.Get them in the debates!"], 4m3jzn, 1464843961.0, 1448
+171, [Spain Hasn't Had A Government In 300 Days And Economy Is Booming], 583ons, 1476824996.0, 1442
+172, [You're with Her Now (x-post /r/propagandaposters)], 4v72b3, 1469834113.0, 1435
+173, [How to eliminate the "gender wage gap"], 551qjo, 1475177907.0, 1430
+174, [Gary Johnson: Make America Sane Again], 4kazud, 1463815089.0, 1430
+175, [Libertarian Johnson polling better than any 3rd party candidate since Perot], 4l00g4, 1464216648.0, 1424
+176, [Mfw Listening to the remaining Presidential Candidates], 456pat, 1455188643.0, 1419
+177, [Rand Paul Refuses to Vote for Bill Without Reading the Bill], 4l8998, 1464336201.0, 1419
+178, [New Email shows that Clinton instructed aide to remove classification marking from information, a federal offense], 4034kl, 1452316576.0, 1412
+179, [Johnson at 16% in NM (PPP)], 4zchgj, 1472072961.0, 1410
+180, [Former Rand Paul Super PAC Drops $1 Million Ad Buy for Libertarian Gary Johnson], 4zfrkm, 1472113650.0, 1408
+181, [Drew Carey to host fundraiser for Libertarian Gary Johnson], 4sx6we, 1468581288.0, 1404
+182, [Unlike Trump And Clinton, Johnson Believes In Due Process And Gun Rights], 4ouzk2, 1466396314.0, 1402
+183, [The popped up on my Facebook feed.... and it's pretty accurate.], 3yqntc, 1451476309.0, 1397
+184, [Gary Johnson: If This Isnt An Opportunity For the Libertarian NomineeThere Will Never Be An Opportunity], 4br30t, 1458845403.0, 1394
+185, [Gary Johnson takes out full-page ad to get into first debate], 52recp, 1473900166.0, 1398
+186, [New Mexico teens can now legally sext each other and exchange nude photos: The new law means adolescents caught sharing explicit photos with each other will no longer risk charges, prison sentences and a damaging criminal record], 47uwgx, 1456608862.0, 1389
+187, [The IRS to Michael Phelps: "You Didnt Win That" -- This year, the IRS will impose a nearly 40% victory tax on athletes who take home gold, silver, and bronze medals for the United States.], 4ybq3n, 1471548200.0, 1368
+188, [Teen Boy Will Be Charged As Adult For Having Naked Pics of a Minor: Himself], 3zl218, 1452042488.0, 1371
+189, [Innocent woman forcibly stripped by male Ohio police officers and left nude in a jail cell for SIX HOURS.], 55yz87, 1475695430.0, 1368
+190, [NH House Becomes First in US to Pass Bill Requiring Judges to Inform Jurors of Jury Nullification], 4e1par, 1460245247.0, 1367
+191, [And they call this "news"...], 3t5fyt, 1447792954.0, 1364
+192, [Being sold under the guise of preventing distracted driving, a newly proposed Vermont law would allow officers to rifle through motorists cellphones without a warrant to see if they have recently been used.], 41odoc, 1453234678.0, 1365
+193, ["At this moment, law enforcement can access American citizens' emails without a warrant, even though the exact same messages in paper form would require a warrant," Email Privacy Act is a necessary fix for outdated laws], 4gnysa, 1461783910.0, 1358
+194, [Protesters shout "We want Rand" during debate.], 411gzo, 1452860503.0, 1354
+195, [xpost /r/socialistmeme. Somewhat appropriate], 42xtvf, 1453935672.0, 1353
+196, [Democrat Endorses Rand Paul In Kentucky Senate Race], 58a4pn, 1476910882.0, 1352
+197, [David Koch Pledges Millions To Gary Johnsons Presidential Bid], 4k30r7, 1463700826.0, 1351
+198, [The #LetGaryDebate Petition is at 977k Signatures. Once it hits a million signatures the campaign will send it to the CPD. Let's get there so they can deliver it before the first debate on Monday!], 543jq1, 1474643155.0, 1344
+199, [Gary Johnson and Bill Weld to appear on Stephen Colbert tomorrow night!!], 4n7q78, 1465453285.0, 1327
+200, [New Study Shows Even If Cops Commit a Crime on Video, 96% of the Time they Arent Prosecuted], 4acwi1, 1457987680.0, 1316
+201, [Quinnipiac University Poll: 62% of likely voters, 85% of millennials say Gary Johnson should be included in the debates], 4zvj8o, 1472351588.0, 1311
+202, [Dont pick the lesser of two evils, pick Gary Johnson - The Daily Texan], 4dro9u, 1460073372.0, 1306
+203, [Cornell Republicans Break Party Lines, Endorse Johnson for President], 50wjyt, 1472893586.0, 1299
+204, [Rand Paul: Its scary people want to vote for Bernie Sanders: Look at the ultimate cause of what he is for, Paul said. It can only be accomplished at the point of a gun.], 46eu5r, 1455832665.0, 1294
+205, [HIDDEN CAM: NYC Democratic Election Commissioner, "They Bus People Around to Vote, There is a Lot of Fraud"], 56xbvp, 1476209652.0, 1292
+206, [Drew Carey to host Gary Johnson fundraiser], 4q2ykg, 1467057506.0, 1290
+207, [Put this up over the weekend. My neighbor with a Trump sign in his yard keeps giving me dirty looks], 4githp, 1461706466.0, 1283
+208, [Arnold Schwarzenegger wants gary johnson and bill weld in the debates], 51ypte, 1473472467.0, 1282
+209, [Rand is suspending his campaign], 43zvng, 1454536464.0, 1278
+210, [Gary Johnson support among 18-29 year-olds at 23%], 4wa98i, 1470430720.0, 1277
+211, [Libertarian Gary Johnson on 2016: 'This is the demise of the Republican Party'], 4z0363, 1471894263.0, 1267
+212, [Rand Paul: Its bulls--t to collect phone records after Paris attacks], 3th6hb, 1447992837.0, 1270
+213, [Actually got a polling call and was able to do my part to help Johnson hit 15%...], 4zowlt, 1472251019.0, 1273
+214, [Oh the Irony...], 4cvf8o, 1459543341.0, 1257
+215, [Libertarian candidate and Iraq vet from DeLand wins way onto U.S. Senate ballot], 52e073, 1473711014.0, 1246
+216, [Licensing...], 4h5zr4, 1462075946.0, 1235
+217, [A new rallying cry for liberty], 56fnc3, 1475932940.0, 1235
+218, [Colorado Says Libertarian Senate Candidate Missed Debates by 0.023%], 504zo3, 1472506042.0, 1231
+219, [Rand Paul Introduces Amendment to Prohibit Drone Surveillance on US Soil], 4dy968, 1460176117.0, 1222
+220, [U.S. court upholds ban on gun sales to marijuana card holders], 50mrnk, 1472759252.0, 1220
+221, [The GOP Is a Dying Party. Thats Why Im Running Against Trump.], 4tnujt, 1468995521.0, 1204
+222, [Hilarious! Thoughts on Bernie Sanders' policies from the Libertarian candidate for Governor of Florida, Adrian Wyllie.], 445yqt, 1454631759.0, 1196
+223, [Exposed: Hillary Caught Coordinating With CNN to Smear Rand Paul], 3ugxgb, 1448664251.0, 1192
+224, [I was speechless: Man charged with felony for passing out jury nullification and rights fliers in front of courthouse], 3v4tip, 1449087019.0, 1191
+225, [Cop arrives on the scene of a rollover, "accidentally" shoots the driver in the neck paralyzing him, doesn't mention the shooting until another cop notices the wound, faces no punishment because he didn't intend to shoot the guy], 3we4w0, 1449879797.0, 1188
+226, [Johnson and Stein fail to make cut for first presidential debate], 533l6x, 1474082171.0, 1183
+227, [AMA: Rand Paul will be answering your questions tomorrow, 1/21, at 7:30pm ET], 41ybc2, 1453380020.0, 1179
+228, [Rand Paul: A sober man in a bar full of belligerent drunks], 3xbsdi, 1450460317.0, 1172
+229, [Sarah Palin Says Legal Pot Is 'Absolutely No Big Deal'], 3towg9, 1448142169.0, 1170
+230, [Joe Rogan working out a date to talk to Gary Johnson on a podcast], 4b7pt3, 1458512985.0, 1158
+231, [US Senator Says Due Process Is Killing Us  Are We In a Dystopic Novel? (VIDEO)], 4oja95, 1466199885.0, 1164
+232, [Gary Johnson at 18% for voters under 35.], 4lvcqd, 1464732305.0, 1155
+233, [37% of Republicans would consider a third party candidate if the general is Trump and Hillary], 4al7tx, 1458115220.0, 1157
+234, [Louisiana Officials Demand That Self-Reliant Locals Stop Surviving The Flood Without Permission], 52w2rb, 1473974101.0, 1149
+235, [Libertarian Party slowly rising in polls as alternative to Clinton and Trump], 4xt3ju, 1471288843.0, 1140
+236, [The ACLU rightly rejects the No Fly List for gun control], 4oo7re, 1466279548.0, 1138
+237, [The relationship between Bernie's socialism and the market summed up perfectly.], 44p3tk, 1454930958.0, 1135
+238, [Bring Out a Third Lectern for Gary Johnson], 5314kn, 1474047807.0, 1137
+239, [GOP representative: Gary Johnson can win], 4x44tz, 1470888614.0, 1132
+240, [America Does NOT Have a Gun Problem.], 407w9c, 1452399778.0, 1132
+241, [Officer admits to arresting mechanic on false felony charges due to frustration with mechanic. His punishment? Ten day suspension.], 4k8co6, 1463781474.0, 1124
+242, [2nd Amendment isn't about personal defense. It's about keeping tyranny in check], 3wi57p, 1449946892.0, 1123
+243, [Rand Paul Says Cannabis Prohibition Should Be Repealed  /r/StandwithRand], 415ulv, 1452931182.0, 1122
+244, [Red State: We Should Have Nominated Rand Paul], 5710vk, 1476256379.0, 1130
+245, [CNN: Don't fall for 'lesser of two evils' argument], 4m72c3, 1464901734.0, 1124
+246, [No, a Vote for a Third Party (or Abstaining from Voting) Is not the Same as a Vote for Hillary], 4ia0o1, 1462657283.0, 1122
+247, [Chinese Immigrant Who Lived Under Mao Runs for Senate as Libertarian], 4zsyh2, 1472305692.0, 1117
+248, [Tennessee Becomes Only Second State Ever To Eliminate Its Income Tax], 4gzc4t, 1461964854.0, 1115
+249, [With this whole controversy I really wish that more of us had supported Rand Paul], 56mavk, 1476050753.0, 1107
+250, [Glenn Beck on Rand's campaign suspension], 442tw1, 1454574969.0, 1102
+251, [Libertarian Party Welcomes Refugees from the Republican and Democratic Parties], 4apgbg, 1458186167.0, 1104
+252, [Dr. Rand Paul on Twitter: "I introduced a Resolution to halt arms sales to the government of Pakistan. If approved it will stop the sale of F-16s & other military gear"], 47l8i3, 1456461124.0, 1102
+253, [Gary Johnson at 14% in new PPP poll], 4jtbs0, 1463550452.0, 1100
+254, [Damn right], 4d6wx0, 1459731930.0, 1089
+255, [Gary Johnson: I'd Consider Pardoning Edward Snowden, Chelsea Manning], 4v1uea, 1469755133.0, 1072
+256, [OK Libertarians, you win: I am hereby pledging to vote Johnson/Weld come this election.], 4y7b4r, 1471487784.0, 1067
+257, [San Diego Cops Keep Forgetting to Turn Their Body Cameras On Before Killing People], 3rmwpz, 1446765114.0, 1067
+258, [Wikileaks has released a large amount of emails, showing that Bernie was rigged to fail from the start, as well as other shady goings-ons, from the DNC, This could turn the tide], 4u4s6i, 1469247746.0, 1066
+259, [The Left's War on Women: Feminism subreddit censors all discussion of sexual assaults by migrants in Europe because the attacks fail to adhere to left wing political narrative.], 40mlr4, 1452637367.0, 1059
+260, [Anatomy of a Gary Johnson Hit Piece], 5149yd, 1473029362.0, 1063
+261, [Deficit attention disorder...], 43jf4i, 1454282584.0, 1054
+262, [Sen. Rand Paul Is Just 7 Votes Away from Auditing the Fed], 4thx0s, 1468911636.0, 1054
+263, [Gary Johnson will not be on the ballot in Ohio unless you get the Sec. of State to do their job. Anyone in the country can help.  /r/GaryJohnson], 4xkdf5, 1471142463.0, 1050
+264, [Hillary and Bernie both complain about excessive CEO pay, but the average CEO makes less than Hillary's speaking fee], 45w6dl, 1455566730.0, 1054
+265, [Voting for the Libertarian canidate in a Republican primary.], 48kx7i, 1456928394.0, 1051
+266, [Clinton 41% Trump 36% Johnson 11%], 4vh0t5, 1469999624.0, 1044
+267, [We can do better.], 56yyrg, 1476233116.0, 1040
+268, [Ron Paul: "The Secret Society loves Hillary. For her to say that we shouldn't comment on the Fed -- 'it is off limits, don't talk about it' -- it's astounding. Donald Trump wants to audit the Fed."], 58pn40, 1477112822.0, 1042
+269, [Pay Attention to Libertarian Gary Johnson; He's pulling 10% vs. Trump and Clinton], 4kv79v, 1464142736.0, 1042
+270, [Johnson winning 18-24 year olds in Aug 5 IBD poll], 4wl5bx, 1470610754.0, 1040
+271, [Safety vs Revenue], 4ie6za, 1462735002.0, 1034
+272, [Concealed Carrier Prevents Mass Shooting At SC Nightclub], 4qho25, 1467260152.0, 1034
+273, [NBC Poll: 60% dislike or hate Trump and Clinton], 4ktdcg, 1464119405.0, 1017
+274, [Donald J. Trump on Twitter: "It is so important to audit The Federal Reserve, and yet Ted Cruz missed the vote on the bill that would allow this to be done."], 472ut1, 1456202471.0, 1014
+275, [Gary Johnson: I Would Look Into Pardoning Snowden If I Were President], 4mczhi, 1464991221.0, 1005
+276, [Students want top earners to pay their tuition..."how are we going to pay for this?"...response is comical], 3u2w49, 1448403552.0, 1008
+277, [Penn Jillette on Donald Trump, Hillary Clinton, And Why He's All in on Gary Johnson], 4vt5aj, 1470182175.0, 1001
+278, [Minimum Wage Blowback: Wendy's To Put Kiosks In all 6,000 Restaurants], 4j6fho, 1463176665.0, 1011
+279, [Obamacare has gone from the president's greatest achievement to a 'slow-motion death spiral'], 4yuzku, 1471816980.0, 1005
+280, [Gary Johnson is that alternative. Vote liberty this November], 4t86na, 1468758810.0, 1004
+281, [The Secret History of the Commission on Presidential Debates], 54kcli, 1474922000.0, 992
+282, [Rand Paul: "Be concerned about the accumulation of power no matter what party is in charge."], 4xrsmx, 1471261807.0, 988
+283, [Washington Times Poll - who won the presidential debate?], 56t8cf, 1476149908.0, 986
+284, [Gary Johnson: And what is Aleppo?], 51r23x, 1473366769.0, 985
+285, [Reminder that the TSA has never done anything worthwhile, violates the 4th amendment thousands of times a day, and no one seems to care.], 3v7tx6, 1449131887.0, 978
+286, [Long discussion on CNN this morning about Johnson/Weld ticket. It's happening!!], 4lp8mc, 1464639050.0, 984
+287, [People are looking for more information regarding the Libertarian Party, we are getting the message out! Lets make sure they get some good, accurate, and easily shareable information], 4hux0b, 1462403637.0, 982
+288, [Vietnam vet BTFO of anti-gun "whiny little bitches"!], 4fwovy, 1461323981.0, 983
+289, [Ron Paul: Trump vs. Clinton is 'super nationalistic populism vs. socialism'; they both support the military industrial complex, the federal reserve, deficits and entitlements, and and an invasion of our privacy], 4a9lrj, 1457926010.0, 976
+290, ["Ron Paul-style libertarianism was harsh on government but always compassionate toward individuals. Trump-style authoritarianism largely embraces big government and collectively blames immigrants, Muslims and others for Americas problems."], 4dgb4z, 1459890223.0, 969
+291, [Pardon Snowden: Sign the letter and urge President Obama to pardon Edward Snowden before leaving office. Time is running out.], 52py4o, 1473880347.0, 975
+292, [Colorado Juries Keep Letting People Go for Driving on Weed, Prosecutors and Cops are Furious], 3txptu, 1448311383.0, 967
+293, [Fingerprints], 4bd7em, 1458609486.0, 967
+294, [Public sector unions], 4rsyzw, 1467981944.0, 967
+295, [Romney: "I hope voters get to see former GOP Governors Gary Johnson and Bill Weld on the debate stages this fall."], 51noka, 1473312405.0, 957
+296, [Former Facebook Workers: We Routinely Suppressed Conservative News], 4ijkdu, 1462829772.0, 957
+297, [Rand Paul Isnt at the RNC. Hes Literally Curing the Blind Instead: Libertarian leader skipped the GOP convention in order to perform pro-bono surgery on needy patients.], 4twkqt, 1469130500.0, 959
+298, [Dave Rubin endorses Gary Johnson for President!], 4y65uf, 1471475911.0, 954
+299, [It depresses me that Rand Paul isn't at the top of the GOP, and instead irrational control freaks are... :/], 3x3pxy, 1450316456.0, 953
+300, [Top medical experts say we should decriminalize all drugs and maybe go even further], 4bvw4k, 1458927880.0, 956
+301, [Courtesy Reminder: /r/libertarian is not /r/the_donald], 57aqer, 1476400174.0, 947
+302, [Libertarian Party in the news. This is great.], 4ordes, 1466329676.0, 946
+303, [Florida sheriff threatens to arrest Apple CEO: "I can tell you, the first time we do have trouble getting into a cell phone, we're going to seek a court order from Apple. And when they deny us, I'm going to go lock the CEO of Apple up,"], 4a3v0q, 1457818935.0, 941
+304, [FBI Instructs High Schools to Inform on Anti-Government Students - LewRockwell.com], 49ypq3, 1457730382.0, 938
+305, ["Taxes are like a subscription to your Country that you can't cancel, no matter how bad the service gets." (xpost r/showerthoughts)], 4yju7n, 1471652531.0, 942
+306, [Gary Johnson to Bernie Supporters: "How 'bout taking a look at the Libertarian Ticket?"], 4n5d1g, 1465425774.0, 927
+307, [Columbine Survivor Turned Lawmaker Pushes to Legalize Guns in Schools], 47pc8a, 1456527244.0, 923
+308, [Bureaucrats fire lunch lady for giving kid a free lunch ($1.70) instead of tossing the lunch & tray directly in the trash per policy], 3xv5it, 1450838785.0, 921
+309, [An unusual coalition of 13 Republicans and 12 Democrats on Wednesday announced the creation of the House Fourth Amendment Caucus to protect Americans' privacy rights against calls for increased government surveillance in the wake of terrorist attacks.], 4sq938, 1468482689.0, 920
+310, [If Rand Paul were a Democrat, Reddit would be in love], 51xlts, 1473459319.0, 911
+311, [The Federalist: No, Hillary Clinton, The Supreme Court's Heller Decision Wasn't About Toddlers], 58hcsa, 1477005036.0, 910
+312, [Gary Johnson at 16% in Utah], 4wrtiy, 1470711455.0, 916
+313, [Want to stop terrorism? Ron Paul had it right: get out of Muslim countries. Stop bombing. Stop installing dictators. Stop stealing. Stop intervening. Stop killing.], 3syegk, 1447659992.0, 909
+314, [During a Managing Microaggressions event at the University of Virginia, students spoke out against microaggressions like identifying as American and criticizing someones taste in food], 4ip39g, 1462914104.0, 904
+315, [For The First Time In Over 100 Years, New Hampshires Largest Newspaper Will Not Be Endorsing The Republican Nominee For President. Rather Than Picking Between The Lesser Of Two Evils, The Union Leader Has Bestowed Its Endorsement On Gary Johnson.], 52x794, 1473988093.0, 907
+316, [Thomas Jefferson, America's greatest President], 4jh9m4, 1463365254.0, 900
+317, [Gary Johnson Pitches Himself as Independents' Choice for President], 4iupj3, 1462999227.0, 908
+318, [Wikileaks: "Julian Assange's internet link has been intentionally severed by a state party. We have activated the appropriate contingency plans."], 57w7ju, 1476719464.0, 903
+319, [No matter who gets the nomination, we must unite behind that person.], 4lhh5d, 1464497215.0, 903
+320, [Hawaii becomes first U.S. state to place gun owners on FBI database | Reuters], 4pxxtx, 1466979634.0, 897
+321, [The No Fly List Isnt Just Broken, Its Insane. You Must Read This Before You Talk About Gun Control.], 3vy2h8, 1449620993.0, 894
+322, [Verizon responded to Bernie Sanders' claims that Verizon has made billions and hasn't paid a nickel in taxes.], 4en8rg, 1460604702.0, 891
+323, [Yes, yes she does.], 43vu2y, 1454470263.0, 889
+324, [BREAKING: Gary Johnson Left Off Pennsylvania Absentee Ballots], 53owcn, 1474425734.0, 887
+325, [Gary Johnson: Id close Dept. of Homeland Security], 53n91r, 1474405567.0, 884
+326, [Apple's response to the FBI request to add a backdoor into iOS], 467sfv, 1455734754.0, 879
+327, [Americans hate the U.S. government more than ever], 42sfsg, 1453856442.0, 879
+328, [Firearms found in El Chapo's compound tied to Arizona, Fast and Furious operation], 422lsn, 1453446370.0, 877
+329, [Johnson at 15% with economist!!], 4z1djj, 1471912363.0, 867
+330, [Johnson will be on the State of the Union on Sunday!], 4r2r8t, 1467593459.0, 876
+331, [The Biggest Threat to American Public Safety Is the American Police State], 3xqby7, 1450750812.0, 873
+332, [A new idea...], 4dwbqv, 1460150160.0, 868
+333, [GaryJohnson2016: "The greatest lie ever told in America..." #FeelTheJohnson], 4cdsau, 1459251728.0, 874
+334, [Get MR_TRUMP OFF THE FUCKING SIDEBAR], 4keo86, 1463882453.0, 863
+335, [Foreign Policies], 574vq1, 1476317472.0, 863
+336, [Gary Johnson Officially on the Vermont Ballot as the Libertarian Presidential Candidate], 4q0mfj, 1467016759.0, 862
+337, [Donald Trump's Pretty Lucky He's Not Held To The Same Standard As Gary Johnson], 56bz4h, 1475883582.0, 859
+338, [Rand Paul says he won't ban encryption if president, chides Chris Christie over governor's stance.], 3ssv6g, 1447552149.0, 847
+339, [This election season be like], 557tb7, 1475269747.0, 851
+340, [Gary Johnson: WIRED Should Have Endorsed Me for President], 53sw8s, 1474489884.0, 848
+341, [Good Sign Placement.], 3rwa62, 1446939396.0, 838
+342, [A Self-Fulfilling Prophecy], 4nvjcq, 1465852209.0, 839
+343, [CNN to Host Second Libertarian Presidential Town Hall on Aug. 3], 4vmk4y, 1470087908.0, 839
+344, [#Feelthebern], 459u35, 1455239570.0, 841
+345, [FBI Agents Caught Posing As Militia Members To Harass Locals In Oregon], 40xo7o, 1452808965.0, 837
+346, [New CDC Data Suggest E-Cigarettes Are Helping Smokers Quit], 3r7mme, 1446502329.0, 835
+347, [TSA INVESTIGATION FINDS 73 WORKERS ON U.S.S TERRORIST WATCHLIST], 4q9f2n, 1467149314.0, 839
+348, [Libertarian Party Membership Has Skyrocketed In The Past Year; 566% increase in new donors], 4is05d, 1462950536.0, 828
+349, [A young man asked Ted Cruz to sign a copy of the Communist Manifesto as a joke. Here's what Cruz wrote.], 4gxj63, 1461927214.0, 832
+350, [When I heard Gary Johnson is eyeing another Libertarian ticket run...], 40q2wh, 1452683921.0, 833
+351, [Who should you vote for?], 4i6g1t, 1462588530.0, 819
+352, [You Need 4 Different Licenses to Shine Shoes in DC. Sen. Ben Sasse Wants to Change That.], 4tldr1, 1468967171.0, 820
+353, [After 40 years, $1 trillion, US War on Drugs has failed to meet any of its goals], 3w5ln8, 1449739284.0, 815
+354, [Judge Says Tesla Can't Sell Directly to Missouri Customers], 50t4xr, 1472850693.0, 817
+355, [Jeb Bush suggests voting for Gary Johnson at luncheon], 554xj0, 1475218145.0, 810
+356, [Ron Paul Says Libertarians Should "Vote For The Libertarian Party"], 4erkcn, 1460675296.0, 808
+357, [Gary Johnson: Cruz did say to vote for Gary Johnson, didn't he? | Politics], 4ty1ut, 1469149685.0, 812
+358, [Rand Paul Shuts Down Donald Trump, Moderators, and Commercial Breaks], 3sdgtf, 1447247970.0, 810
+359, [House Passes Bill Requiring Search Warrants to Access Your Old Emails], 4gtl5f, 1461872422.0, 804
+360, [Got this in the mail yesterday! Feelin it!], 4c6xxy, 1459137456.0, 805
+361, [Activist Stephen Ruth has disabled so many red light Cameras he's called the Red Light Camera Robin Hood], 4fefy3, 1461047278.0, 806
+362, [Muskogee police use civil forfeiture to take $53k from Christian orphanage, church, and band], 4gdk21, 1461623479.0, 797
+363, [Bernie Sanders Bashes Uber, Uses It For All His Taxi Rides], 42ekn5, 1453639595.0, 796
+364, [Reddit Involved In Massive Cover-Up Of Clinton Cash, DNC Disaster, Wasserman Schultz And Wikileaks News], 4ulqpj, 1469520104.0, 791
+365, [Cops Seized Over $107,000 From Couple, Didnt Charge Them With a Crime], 3yf8kl, 1451270753.0, 792
+366, [Letter from my child's daycare regarding cost increases caused by local minimum wage ordinance], 59o739, 1477606616.0, 795
+367, [Schwarzenegger: Put Libertarians in debates], 51yytt, 1473475335.0, 786
+368, [In mocking Johnson for not knowing what Aleppo is, New York Times gets what Aleppo is wrong], 51scmv, 1473383167.0, 782
+369, [Not a fan of the burka/burkini nor what it stands for, but freedom includes respecting those with different, even objectionable, lifestyles.], 4z5sdi, 1471976607.0, 790
+370, [Ron Paul: Ted Cruz is no libertarian], 44cfhf, 1454729531.0, 792
+371, [Why is the price so high?], 3wo2ww, 1450056689.0, 786
+372, [A newly purposed Rhode Island gun law would criminalize the possession of so-called high capacity magazines (10+ Rounds) and sentence offenders to up to 10 years in prison... but police officers and other agents of the state would be exempt...], 41u5ke, 1453322193.0, 787
+373, [Is this a serious question?], 4pecfk, 1466675779.0, 778
+374, [Cops Seize Car When Told to Get a Warrant, Tell Owner Thats What He Gets for Exercising His Rights], 3yzapl, 1451644714.0, 781
+375, [With Gary Johnson and Bill Weld as standard bearers, the LP is more serious and in touch with America than the Dems and the GOP.], 4ls8vv, 1464679735.0, 786
+376, [Why I can't take Trump supporters seriously], 49cgbw, 1457383632.0, 780
+377, [Venezuela has had enough of Socialism, votes overwhelmingly in opposition], 3vsma3, 1449528218.0, 777
+378, [Homeless Man Owes Government Over $110,000 In Fines For Being Homeless], 4932ct, 1457224653.0, 781
+379, [Billy Corgan: Social Justice Groups Are 'Shutting Down Free Speech'], 4j3q8u, 1463127491.0, 779
+380, ["The Democratic and Republican parties have created a rigged duopoly. Neither wants a third challenger, and both have actively colluded against one. They understand that their key to power lies in making sure the choice is between the lesser of two evils."], 4jw43b, 1463598241.0, 779
+381, [Gary Johnson on NPR at 10. Listen here.], 4x22k9, 1470863944.0, 777
+382, [Rand Paul Mocks Hillary Clinton For Spending $90,000 on a Campaign Playlist, Offers His Own List For Her], 49tsfa, 1457651242.0, 772
+383, [Don't Grab The Pussy...], 56kbdk, 1476008596.0, 772
+384, [Latest CNN Poll 17% of voters under 45 are for Gary Johnson.], 4uim0j, 1469482406.0, 773
+385, [Convinced entire family to vote Libertarian this election], 4tf899, 1468877893.0, 770
+386, [McCain: "We tried Japanese generals and hung them for war crimes. One of the crimes was waterboarding." - Anyone Who Says Waterboarding Works is a Liar], 450vwq, 1455106304.0, 774
+387, [Kuwait has become the first country to create a DNA Database of all Citizens, failure to submit your DNA gets you 1 year in prison.], 4b3vxw, 1458436506.0, 767
+388, [Why Gun Control Won't Fix Inner City Violence - Another Colion Noir Video], 594ykk, 1477350153.0, 763
+389, [Alabama Senate Passes Bill Eliminating Marriage Licensing], 4ao1rg, 1458167385.0, 764
+390, [New Emails Show Press Literally Taking Orders From Hillary], 45em3m, 1455310956.0, 765
+391, [Rand Paul slams White House for saying Trump disqualified himself from race - "Today I would like to put a mirror in front of the Obama White House and show them the top ten things that make HIM unqualified:" --- (TOP 10 THINGS IN COMMENTS)], 3w3e5p, 1449708936.0, 759
+392, [Rand Paul introduces amendment to get rid of draft], 4l15km, 1464230272.0, 754
+393, [Colorado Celebrates Legalization Anniversary: Massive Drop in Arrests and Millions in Tax Revenue], 400uot, 1452283980.0, 755
+394, [Poll Finds 32% Of All Voters Would Consider Voting For Gary Johnson], 4z7z9a, 1472005806.0, 752
+395, [Iceland: 320k population, 90k registered guns. Almost no Violent Crime], 41klva, 1453175169.0, 744
+396, [Senator Rand Paul - The Fight To Lower EpiPen Costs], 57m8np, 1476570005.0, 741
+397, [The Supreme Court ruled Wednesday that it is unconstitutional to freeze financial assets unrelated to a persons crime before a trial, when the money is needed to pay for an attorney.], 4cqrzw, 1459470482.0, 744
+398, [Yet another federal court has told the DOJ to stop harassing medical marijuana providers], 4y4p8c, 1471455807.0, 746
+399, [What happens with a $15 minimum wage (x-post r/oddlysatisfying)], 4agcfe, 1458035345.0, 748
+400, [80 percent of Chicago PD dash-cam videos are missing audio due to officer error or intentional destruction], 43gjc1, 1454225425.0, 746
+401, ["When you're white you don't know what it's like to be poor." - Bernie Sanders], 49b2jw, 1457355783.0, 745
+402, [A shining example of the free market doing it better than the government], 4s8qgc, 1468233133.0, 737
+403, [Austin Petersen sure knows how to roast], 4s24wj, 1468125396.0, 738
+404, [When I hear people talking about choosing between Trump and Hillary.], 4u2yzf, 1469225935.0, 739
+405, [Rand Paul looks a bit "Low Energy" recently], 42id2v, 1453706695.0, 734
+406, [Anon feels the bern], 4aj6xy, 1458088106.0, 734
+407, [Average ObamaCare premium rises to $408 per month], 42nxaw, 1453786945.0, 739
+408, [Obama Falsely Implies His Gun Controls Could Have Stopped the Kalamazoo Shooter], 476mn7, 1456263832.0, 732
+409, [Congress is about to vote on what Rand Paul calls the biggest anti-poverty initiative in 50 years], 4fsqzg, 1461270989.0, 731
+410, [Mizzou Hunger Striker Claims Hes Oppressed, Rips White Privilege  Comes From Family Worth $20 Million], 3sehjr, 1447276591.0, 727
+411, [Libertarian Partys Gary Johnson to Appear on Election Ballots in All 50 States], 52r3e4, 1473896531.0, 731
+412, [Missouri Student VP: I'm Tired Of Hearing People Use First Amendment Rights To Create "Hostile" Atmosphere], 3sja5n, 1447366485.0, 726
+413, [GARY JOHNSON IS THE LIBERTARIAN PARTY 2016 NOMINEE!], 4ll6x3, 1464569892.0, 730
+414, [Met Gary Johnson and John McAfee yesterday in New York!], 4hb32d, 1462161115.0, 727
+415, [Let's support this ACLU campaign to pardon Edward Snowden, he should be recognized as a national hero to the America population.], 52hgzn, 1473752700.0, 727
+416, ["When all states were factored together with Johnson included, Clinton led Trump 44% to 34%, with Johnson at 13%."], 4qf6sm, 1467231426.0, 724
+417, [Mitch McConnell Moves to Grant the President Unlimited War Powers with No Expiration Date], 42ay4m, 1453586896.0, 713
+418, [Republicans and Democrats right now [x-post /r/CheckYourJohnson]], 4o4n5t, 1465979528.0, 717
+419, [What mass surveillance is like], 4f9x3d, 1460977685.0, 715
+420, [OU professor: Youths' attraction to Sanders shows education failure], 44le5h, 1454876397.0, 709
+421, [Ken Bone Prefers the Libertarian Party Over Others. #FeeltheBone], 57kco0, 1476530965.0, 707
+422, [Smash away Gary], 4wdens, 1470470174.0, 709
+423, [Rand Paul Is Actively Opposing Big Arms Sale to Saudi Arabia], 4z29z6, 1471922650.0, 703
+424, [The Federal Bureau of Investigation (FBI) is attempting to suppress information about a massive database which contains fingerprints, palm prints, iris, voice, and face scans, as well as other biometric data, of millions of Americans.], 4knry4, 1464036679.0, 701
+425, [MoneyBomb just hit 1.5 million goal!], 4xvf41, 1471319169.0, 701
+426, [Yale students have exercised their right to be treated like children], 3s6yi5, 1447136944.0, 701
+427, [Pokemon Go Shows How the Free Market Can Get Kids Moving Again], 4s5din, 1468184261.0, 704
+428, [NBC Poll Shows Gary Johnson WINNING Independents By Several Points], 53ux85, 1474514692.0, 694
+429, [Rand Paul Isnt at the RNC. Hes Literally Curing the Blind Instead.], 4toqbx, 1469007547.0, 690
+430, [Gary Johnson May Be Running a General Election Race Already], 4e5wm1, 1460326101.0, 691
+431, [The War on Drugs is unjust, immoral & counter productive. ONLY Gary Johnson wants to END IT NOW. Please Help. Vote Gary Johnson!], 4ywe0s, 1471834040.0, 683
+432, [Yale Economist Analysis: Bernie Sanders Tax Plan would lead to 9.5 percent lower GDP, 18.6 percent smaller capital stock and 6.0 million fewer full-time equivalent jobs over the long term], 47mys9, 1456483177.0, 687
+433, [THERE IS A THIRD CHOICE], 4po6r2, 1466819155.0, 679
+434, [Meet the most hated man in the Pentagon: Company executives accuse Shay Assad of pursuing a "personal vendetta" by hounding firms large and small to justify what they charge for weapons or services.], 4eg5l6, 1460497675.0, 685
+435, [New Gary Johnson ad], 4qig1n, 1467269448.0, 680
+436, ["Longtime Republican strategist Mary Matalin says she changed her affiliation to the Libertarian Party on Thursday"], 4i4ibn, 1462559163.0, 682
+437, [Rand Paul on Daily Show: Gov't Shouldn't Tell You What To "Smoke, Drink, and Eat"], 40xqox, 1452810033.0, 681
+438, [New York Loses $400 Million After Imposing The Nations Highest Cigarette Tax], 3ylnn1, 1451383970.0, 679
+439, [This time around, Gary Johnsons third-party bid makes sense], 4npuik, 1465759026.0, 680
+440, [Gary Johnson polls at 7% in FL, 8% in OH and 9% in PA in new Quinnipiac Poll], 4p4dmk, 1466541585.0, 670
+441, [Utah senator moving to South America after his medical marijuana bill fails to pass."This state is not welcoming to people who want to live their lives and be free to make choices for themselves".], 49k71q, 1457495254.0, 674
+442, [Marine Discharged For Warning of Afghan Police Rape of Boys], 3vabvu, 1449183843.0, 669
+443, [Did Bernie Sanders just send the 'most economically illiterate tweet ever'?], 3ycltj, 1451209434.0, 665
+444, [Obama Is Wrong: Mass Shootings Do Happen Elsewhere, And More Often], 3vbrk8, 1449204575.0, 665
+445, [Accurate], 43s95t, 1454410928.0, 667
+446, [Rand Paul: We Must Restore Congressional Authority on War], 4kq1he, 1464064372.0, 661
+447, [/r/politics is now /r/hillaryclinton], 55q73q, 1475560564.0, 654
+448, [Sexual assault in the ballot box], 56h67v, 1475965764.0, 660
+449, [Shocking Survey: Economists Trust Gary Johnson More Than Donald Trump], 4z75ge, 1471996363.0, 654
+450, [The three branches...], 46xnq8, 1456122419.0, 658
+451, [Walmart Closes LA Store Over $15 Minimum Wage], 43mfmg, 1454323677.0, 655
+452, [Bernie Sanders supporters in a nutshell], 3xcfnm, 1450475956.0, 653
+453, [Drew Carey endorses Gary Johnson: I dont need a national daddy, or mommy], 4uf6jn, 1469424864.0, 643
+454, [FBI Drops its Case Against Apple], 4bge3m, 1458658541.0, 643
+455, [Amherst Student Was Expelled for Rape. But He Was Raped, Evidence Shows.], 3z20qz, 1451710418.0, 645
+456, [If you don't have to give up your car because of drunk drivers], 4olauj, 1466225091.0, 640
+457, [Obama Signs Defense Bill Authorizing $500 Million More In Aid To "Moderate" Syrian Rebels], 3uuzsc, 1448925623.0, 643
+458, [California Police used 52,000 apparently illegal wiretaps to make hundreds of arrests], 3tkmw5, 1448060453.0, 642
+459, [NEW POLL: Rand Paul Leads by 12 Points in Re-Election Race for Senate], 4wlxo2, 1470622196.0, 638
+460, [FBI Director wants 'adult conversation' about backdooring encryption: How about f**k off  is that adult enough?], 50mxxn, 1472762146.0, 647
+461, [Im a Bernie Sanders supporter, but I will vote for Gary Johnson in the general over Hillary Clinton.], 4mdji5, 1464998289.0, 639
+462, [Hi Reddit, we are a mountain climber, a fiction writer, and both former Governors. We are Gary Johnson and Bill Weld, candidates for President and Vice President. Ask Us Anything!  /r/IAmA], 51ijq3, 1473238125.0, 642
+463, [Snowden: FBI's claim it can't unlock the San Bernardino iPhone is 'bullshit'], 49nwiz, 1457556495.0, 641
+464, [Freedom Of Association: Rock Stars Can Refuse To Play, Bakers Can Refuse To Bake], 4g52ra, 1461471272.0, 636
+465, [Bill Nye, the science guy, is open to criminal charges and jail time for climate change dissenters], 4f6kke, 1460928390.0, 632
+466, [19% would vote third party in Cruz v Hillary race. 16% for Trump v Clinton], 4fj3ql, 1461120551.0, 638
+467, [Bill would make it a crime to videotape police in Arizona], 40ekmi, 1452507138.0, 638
+468, [In Leaked Speech, Clinton Promises Bankers to Stand Against Pot Legalization 'In All Senses of the Word'], 56z7tf, 1476235823.0, 635
+469, [Gary Johnson has a message for Bernie supporters: "The ACLU gave me the highest score in American presidential politics, higher then Barack Obama, higher than Ron Paul..."], 4shxp5, 1468370144.0, 630
+470, [Libertarian Gary Johnson in double digits in race against Hillary Clinton, Donald Trump: poll], 4bsea3, 1458866948.0, 631
+471, [Gary Johnson Has More Daily Newspaper Endorsements than Donald Trump], 52f923, 1473727077.0, 630
+472, [Juanita Broaddrick: It Never Goes Away. "I was 35 years old when Bill Clinton, Ark. Attorney General raped me and Hillary tried to silence me. I am now 73....it never goes away."], 3zszz5, 1452158040.0, 624
+473, [McDonald's Says its Wage Hikes Are Improving Service: It has done what we expected it to90 day turnover rates are down, our survey scores are upwe have more staff in restaurants,], 4dlekn, 1459972441.0, 629
+474, [My liberal friend is offended by my Libertarianism. So I made him this.], 4fjykc, 1461131059.0, 628
+475, [Best response to a government inquiry to survey private land for frogs.], 4nw87j, 1465861613.0, 629
+476, [As Turkey's new regime turns authoritarianism up to 11, freedom of the press has become a thing of the past: 'Zaman', Turkey's largest newspaper, quickly puts out one final issue criticizing its takeover by authorities, mere minutes before the police raids began.], 4979uc, 1457298988.0, 628
+477, [Study: Bernie Sanders's single-payer plan is almost twice as expensive as he says], 4350hx, 1454039804.0, 618
+478, ["Rand Paul is right: The most economically unequal states are Democratic" - The Washington Post], 3tu014, 1448242755.0, 624
+479, [Private vs. Public], 3tb9bs, 1447893986.0, 621
+480, [Trump Says He Supports Reauthorizing Patriot Act, NSA Metadata Collection], 3w84re, 1449785708.0, 615
+481, [Rand Paul doubles down on calling Hillary Clinton a NEOCON & slams GOP Neocon war hawks], 3s23yc, 1447050580.0, 615
+482, [Maryland Property Owners No Longer Have To Prove Their Innocence In Civil Forfeiture Cases], 44s31w, 1454982926.0, 615
+483, [15 Reasons Why A Vote For Gov. Gary Johnson Matters], 4xj16l, 1471123208.0, 610
+484, [But don't waste your vote on a third party! /s], 4vjk7k, 1470035340.0, 607
+485, [Many people at my highly liberal university share this twisted view], 53bhji, 1474218954.0, 600
+486, [Romney & Obama Ask Court to Toss Libertarian Party's Debate Case, Leave Third Parties Out in 2016. antitrust laws do not regulate politics.], 419449, 1452991345.0, 605
+487, [Clinton Accepts $20 Million From Planned Parenthood - How can taxpayer dollars go to this organization who then gives to campaigns?], 40ylmb, 1452821662.0, 604
+488, [If you love liberty, Rand Paul needs your help. Sign the petition letting Fox News know that we want Rand on the Main debate stage!], 40gyqr, 1452551254.0, 602
+489, [Gary Johnson will be on the Joe Rogan Experience this Tuesday], 4j915o, 1463211392.0, 596
+490, [2016 American Voting Guide], 52kmj0, 1473804394.0, 604
+491, [Kids Play in Backyard While Mom Does Dishes. An Investigation Ensues], 4g0eq2, 1461386617.0, 597
+492, [Look who I met in Atlanta today!], 5632jl, 1475746961.0, 600
+493, [How Americas largest third party could actually make a difference], 4l58j4, 1464297344.0, 598
+494, [Mises warned us bros], 46bhf7, 1455777698.0, 593
+495, [PAC backing Gary Johnson says Dick Cheney 'supported gay marriage sooner' than Hillary Clinton], 51y2mf, 1473464910.0, 597
+496, [Is anyone else REALLY FUCKING EXCITED about Gary Johnson & the potential this campaign holds for liberty???], 4m9v9v, 1464936636.0, 597
+497, [Top 10 Hillary Clinton scandals exposed by WikiLeaks], 578wxk, 1476368683.0, 591
+498, [US government sets record for failing to find records requested by the public], 4ayc2n, 1458337151.0, 595
+499, [It's all Ronald's fault!], 52ehy8, 1473718201.0, 591
+500, [In Opinion: The Libertarians have become the moderate, middle way party], 51asjy, 1473128874.0, 590
+501, [I turn 18 in July. I'm getting my American citizenship ASAP after that. If all goes as planned, I will be casting my first vote as an American citizen for this man in November.], 4nh95i, 1465606589.0, 588
+502, [Trump and Clinton are only symptoms. The disease is the rest of us who refuse to consider seriously candidates other than those the two major parties have served up for us.], 54f1dr, 1474838107.0, 584
+503, [Vote Libertarian in 2016], 4mzn9p, 1465342890.0, 587
+504, [When people unironically defend Socialism and Communism on the front page of Reddit], 4g8gt0, 1461538999.0, 590
+505, ["Johnson/Weld best uphold the values that we fight to protect with our oaths of office.], 4uo5my, 1469561489.0, 580
+506, [Unprecedented excitement at Libertarian Party convention], 4lfmdn, 1464467308.0, 575
+507, [Gary Johnson op-ed in the New York Daily News], 54ey3x, 1474836404.0, 579
+508, [The Johnson Money Comet has Surpassed $150,000 - Its Original Goal Was $25,000. Donations Help Raise Awareness to Hit 15% in the Polls and Get Him in the Debates], 4u3arm, 1469230014.0, 575
+509, [Gary Johnson has now doubled his peak interest from 2012], 4w4xxo, 1470351923.0, 574
+510, [Apple Makes $407,000 Profit Per Employee, Walmart And Retail, $6,300: Who's The Exploiter?], 3ynzb2, 1451433505.0, 573
+511, [Just wanted to say to all of you Libertarians:], 53o1a6, 1474415711.0, 571
+512, [Donald Trump vs. Hillary Clinton vs. That two-term governor of New Mexico who also started a multi-million dollar corporation in college and also climbed Mount Everest at 50 years old literally with a broken leg], 4n6iiz, 1465438998.0, 572
+513, [Surprise! NSA data will soon routinely be used for domestic policing that has nothing to do with terrorism], 49vvrx, 1457677983.0, 568
+514, [My thoughts on watching the DNC this evening], 4umus0, 1469536282.0, 561
+515, [For Cam Newton, Adding Super Tax Insult to Super Bowl Injury. "Peyton Manning paid New Jersey nearly $47,000 in taxes two years ago on his Super Bowl earnings of $46,000? Newton is looking at a tax bill more than twice as much, which will swallow up his entire Super Bowl paycheck"], 44wx0l, 1455057360.0, 565
+516, [''I don't believe in charities,'' said Mayor Sanders, bringing a shocked silence to a packed hotel banquet room. The Mayor, who is a Socialist, went on to question the ''fundamental concepts on which charities are based''], 4d68ce, 1459720749.0, 564
+517, [Tennessee troopers set up 'no refusal' checkpoints with mandatory blood draws through Jan. 4], 3yxw69, 1451617642.0, 567
+518, [Three men incarcerated in Massachusetts who were working with state legislators on prison reform have been thrown in solitary confinement, in an apparent retaliation against their activism and an attempt to disrupt further communications.], 4kywz5, 1464199469.0, 566
+519, [I dont give a fuck, Drew Carey says, bluntly. If your person doesnt get enough votes, you lose. I dont want to hear it. There are more than two choices and you are allowed to vote for whoever you want. This is America. If you cant get the votes to win, tough shit.], 4uefru, 1469415082.0, 563
+520, ['Tens of Thousands' Wrongly Convicted Based on Unreliable Drug Tests], 4sh3lm, 1468360605.0, 558
+521, [Sanders Voted for the Very Criminal Justice Measures He's Denouncing], 43parb, 1454374111.0, 564
+522, [Mitt Romney: "If Bill Weld were at the top of the ticket, it would be very easy for me to vote for Bill Weld for president. So I'll get to know Gary Johnson better..."], 4niu5f, 1465626914.0, 560
+523, [Hillarys team copied intel off top-secret server to email], 42kwke, 1453749917.0, 558
+524, [40% of Millennials OK with limiting speech offensive to minorities], 3tmjg0, 1448089032.0, 554
+525, [The Libertarian Party: So hot right now], 4mixpv, 1465085345.0, 559
+526, [It's official... Rand Paul will be on the main stage for the next Presidential debate], 42ue5g, 1453879403.0, 557
+527, [Clinton vs. Trump: Who's Worse? | Penn Jillette: "For many years I have believed two things about presidential politics: 1. Every major-party candidate was smarter than me. 2. There is no one worse than Hillary Clinton. "I have been proven wrong on both of these this year."], 4tf8vw, 1468878157.0, 560
+528, [Rand on the #DemDebate: I just want to remind everyone: "A claim for equality of material position can be met only by a government with totalitarian powers."], 42pl0q, 1453807713.0, 556
+529, [/r/libertarian really needs to get back to its, AKA, Friedman and Hayek. Enough with this Bernie shit.], 44ayei, 1454710067.0, 557
+530, [Police Departments Upset with Obama for Seizing MRAPs, Bayonets, Grenade Launchers], 3wryuf, 1450123531.0, 551
+531, [The other, other choice, everyone.], 50u11y, 1472861848.0, 551
+532, [Libertarians NEED to support the Johnson-Weld ticket this election! It is not hyperbole to say that this is our single greatest opportunity to meaningfully impact American politics.], 4wxo7x, 1470795873.0, 548
+533, [The San Bernardino tragedy will be used by the president to declare enough is enough regarding guns. [W]hat is really motivating him for tonights speech is [...] to bypass Congress & the Constitution & apply that same practice to gun ownership in America. Hes going all in on the gun issue tonight.], 3vohyu, 1449452444.0, 554
+534, [Gary Johnson polls at 16% in Utah Poll], 4mutun, 1465270753.0, 554
+535, [I cannot stress how absolutely vital it is that we get Gary on that debate stage. Because once he's up there, Gary will be seen as the ONLY third option, and he is since no other third party is on the ballot in all 50 states.], 4v45px, 1469784909.0, 550
+536, [Despite Being in the Top 5% of Earners, Bernie Sanders Pays Half the Taxes of the Average Citizen], 4f8899, 1460952487.0, 551
+537, [The case against Hillary Clinton by Christopher Hitchens], 3yj3r8, 1451344619.0, 554
+538, [U.S. Has Record 10th Straight Year Without 3% Growth in GDP], 4841jv, 1456708666.0, 548
+539, [Gary Johnson On the Verge of Appearing On the Debate Stage], 4thfri, 1468905321.0, 546
+540, [First Ever Televised Libertarian Party Presidential Debate Friday April 1st 9PM ET on Stossel], 4cq424, 1459461396.0, 538
+541, [Release of the Full TPP Text After Five Years of Secrecy Confirms Threats to Users Rights], 3rr5j3, 1446839863.0, 536
+542, [#IdLetItGoOff (via the SOLIFICO FB page)], 52ckl8, 1473682265.0, 536
+543, [/r/all meet your 2016 Libertarian Party Vice Presidential Nominee], 4lmgzi, 1464588016.0, 542
+544, [Sanders: 15 Percent Debate Threshold "Probably Too High"], 514huj, 1473032547.0, 532
+545, [Its a rigged game, man, Johnson said in a news conference before the rally. Democrats and Republicans make up the presidential debate commission, 15 percent is not the law. Its Democrats and Republicans not wanting a Ross Perot on the stage again.], 53itu8, 1474336364.0, 533
+546, ["Vice Chairman of the Washington, D.C., GOP party plans to resign from his post and vote for libertarian candidate Gary Johnson"], 4u40sm, 1469238549.0, 535
+547, [Rand Paul will not endorse any presidential candidate: "I'm going to stay out of it."], 48eio2, 1456835390.0, 535
+548, [For America's Sake, Let Gary Johnson Debate], 52xf31, 1473990717.0, 531
+549, [Where Bernie goes wrong.], 45tqjw, 1455522766.0, 533
+550, [(Unconstitutional) NSA data will now be used domestically between agencies], 4bzvcx, 1458993662.0, 525
+551, [28 years of a man's life completely lost, because a woman falsely accused him based on a dream she had], 4rtpy9, 1467995852.0, 527
+552, [Gary Johnson polls at 10% in new Morning Consult National Poll], 4mygt0, 1465325714.0, 529
+553, [Libertarian Candidate Gary Johnson: Pardon Edward Snowden], 4m1opk, 1464822346.0, 523
+554, [MRW I wake up every morning and remember who is running for president.], 46ihkl, 1455878492.0, 522
+555, [Free college tuition promised by Democrats is one big illusion], 3tffgo, 1447967206.0, 523
+556, [After billions of dollars spent trying to fight drugs, 60 minutes shows you can have heroin delivered to your doorstep], 3ulffd, 1448754380.0, 522
+557, [Bernie supporter is $226,000 in Debt because of a Speech Pathology Degree], 4f4u57, 1460888414.0, 518
+558, [Y'all can argue, but this pretty much sums it up how I view each candidate], 44e4oe, 1454752724.0, 513
+559, [Overstock CEO Patrick Byrne endorses Gary Johnson], 4x4qsa, 1470896037.0, 515
+560, [Gary Johnson Endorsed by Two More GOP State Reps], 4uixtb, 1469486652.0, 507
+561, [Mods, please remove the note in the sidebar instructing us not to discuss Gary Johnson in /r/Libertarian -- he's the LP nominee, garnering national attention, and news about him is perfectly relevant for the subreddit.], 4m53yg, 1464865170.0, 506
+562, [another xpost from /r/socialistmemes. Thought I'd push my luck....], 431hib, 1453981007.0, 516
+563, [Pretty on point], 55fvz9, 1475394993.0, 507
+564, [Cop Assigned To Investigate Jewelry Theft Recovers Items, Pawns Them - [Spends Five Hours In Jail, Keeps Pension]], 48a1ff, 1456778846.0, 507
+565, [New Mexico Passed a Law Ending Civil Forfeiture. Albuquerque Ignored It, and Now Its Getting Sued], 50hya2, 1472688465.0, 507
+566, [LP Chairman Nicholas Sarwark on Twitter - "Things my Presidential candidate didn't do today: Encourage supporters to shoot another candidate. #VoteLibertarian"], 4wzvci, 1470823369.0, 510
+567, [Broncos' Brandon Marshall loses endorsement deal after kneeling for national anthem], 522t8j, 1473537753.0, 509
+568, [Ronald Reagan's son implied that his father would have supported Johnson-Weld over Trump on Twitter], 4x3kka, 1470882152.0, 499
+569, [Searches for 3rd Party candidate 2016 spiked by +1,150% in past week], 4u3mwu, 1469234007.0, 506
+570, [Ron Paul: 'We can do without the IRS, TSA and VA - They havent provided anything, he said. "All theyve done is undermine the liberties of the American people. They havent been proven to have stopped any terrorist attack.], 4l5i9y, 1464301075.0, 504
+571, [Johnson Hits Back: "I still can't come up with a foreign leader I look up to"], 553wtp, 1475205571.0, 501
+572, [It's happening! Let the defections begin! Sen. Ebke (ex-R, Nebraska) follows John Moore (ex-R, Nevada) in moving to the Libertarian Party.], 4m71ur, 1464901532.0, 497
+573, [It's Time To Abolish The DEA], 50hvfa, 1472687596.0, 496
+574, [GUYS, THE LP MIGHT NOT BE ON THE BALLOT ON IL. WE HAVE TO MAKE SURE WE HAVE BALLOT ACCESS IN ALL 50 STATES.], 4mktbn, 1465111488.0, 504
+575, [Everyone go and thank Drew Carey for donating $2,700 to the Gary Johnson campaign!], 4lw5of, 1464741877.0, 506
+576, [Cops Who Write Bull$hit Tickets May Soon Face Prison Time], 3wxb4n, 1450205475.0, 506
+577, [Gary Johnson won't be on the ballot in Maine...], 4qcnl5, 1467187787.0, 492
+578, [Last handgun ban in an American jurisdiction struck down], 4cgoqt, 1459303757.0, 489
+579, [Leaked Emails Show Democrats Feared Rand Paul as GOP Nominee], 56p4ps, 1476087152.0, 491
+580, [This is how parties are listed when registering to vote online in Iowa.], 544kif, 1474664407.0, 486
+581, [PLEASE UPVOTE! COPS IN PENNSYLVANIA STOP GARY JOHNSON PETITIONERS FROM LAWFULLY PETITIONING; CHARGE WITH CRIME!  /r/GaryJohnson], 4t9lnj, 1468790475.0, 484
+582, [Rand Paul: "In France, they have a (surveillance) program a thousandfold more invasive" than the United States. Politifact rates Mostly True], 3w53h4, 1449731730.0, 487
+583, [Ron Paul on voting Libertarian if Trump is GOP Nominee: Certainly!], 4jblb6, 1463264751.0, 488
+584, [9th Circuit Says Medical Marijuana Cardholders Have No Second Amendment Rights], 50muex, 1472760598.0, 489
+585, [Kurt Russell: I'm Not a Republican, I'm Worse. A Hardcore Libertarian], 3xvz1k, 1450850873.0, 482
+586, [Good Thing John Hinckley Jr. Only Shot the President. If He Sold Drugs, He Might Still Be Locked Up.], 4v17ic, 1469747728.0, 480
+587, [Gary Johnson Wants to Make Weed Legal. Oh, and He Also Wants to Be President], 4m73bp, 1464902163.0, 480
+588, [Just as it was exposed... that Sen. Harry Reid wanted Nevada rancher Cliven Bundy off his Clark County ranch in 2014 in order to aid a Chinese solar power firm his son represents to build a solar energy complex, corruption also seems to be afoot in Oregon.], 3zkca1, 1452032629.0, 486
+589, [UPDATE ON THE MAINE SITUATION], 4s0hsb, 1468103121.0, 475
+590, [New ABC Poll Says 1 in 3 Voters Still Considering a Third Party in November], 4yvxik, 1471828807.0, 481
+591, [Why we should fear a cashless world: Poor people and small businesses rely on cash. A contactless system will likely entrench poverty and pave the way for terrifying levels of surveillance], 4bc1f2, 1458591853.0, 483
+592, [Gary Johnson's New Advertisement Has Now Been Viewed by Twice the Amount of People Who Voted for Him in 2012 -- Help Get the Count Even Higher and Share it with YOUR Friends Too!], 4qt4ep, 1467425088.0, 478
+593, [In honor of Muhammad Ali, Sen. Rand Paul will introduce bill to end Selective Service], 4mwpec, 1465293724.0, 472
+594, [Finally! A Democrat in Congress Calls Out Hillary Clinton's Hawkishness], 48nlhz, 1456973779.0, 466
+595, [Gary Johnsons cousin is running for Congress in Michigan's 1st District as a Libertarian], 52wdw6, 1473978218.0, 467
+596, [We have to laugh at ourselves sometimes.], 53vnbu, 1474523441.0, 468
+597, [IRS rebuked for tea party targeting, ordered to release secret list], 4blurs, 1458755330.0, 469
+598, [Welfare/Foodstamps 2016!!], 42tffq, 1453867923.0, 467
+599, [A $10 billion program to eliminate long wait times and other problems for veterans' health care has resulted in more veterans waiting even longer.], 4jr10f, 1463522295.0, 460
+600, [Why Do the Postal Service, USDA, EPA, And Department of Agriculture Need SWAT Teams?], 44gljn, 1454800996.0, 462
+601, [Can we stop the pissing match of trying to out Libertarian each other?], 4e95ej, 1460375995.0, 463
+602, [Theft Calculator Tells You How Much of Your Paycheck Each Presidential Candidate Will Take], 4c656e, 1459125030.0, 461
+603, [Apple says the FBI is making access demands even China hasn't asked for], 46q4e4, 1456004571.0, 465
+604, [W.E.B. Dubois, the first African American to earn a doctorate, a co-founder of the NAACP, and renowned civil rights activist, says it right.], 452z54, 1455143792.0, 462
+605, [Don't Make Women Register for the Draft. Just End Draft Registration for Everyone. "], 44nsnu, 1454910791.0, 456
+606, [When did our rights become licenses?], 40bfr6, 1452464178.0, 464
+607, [The Top 5 Reasons Why Liberals Should Consider Rand Paul And Libertarianism], 3us2tq, 1448870566.0, 466
+608, [Anyone else sick of people portraying these partisan, statist morons as intellectuals?], 57xwwo, 1476746946.0, 459
+609, [As a libertarian, I can't vote for Johnson], 4llzel, 1464581048.0, 458
+610, [Gary Johnson: "Pleased to share that we are working out a date for an LPnational prez debate on the John Stossel show."], 4647kj, 1455680843.0, 456
+611, [Rand Paul Is OutBut Libertarianism Is Finally Mainstream], 4545wt, 1455157767.0, 459
+612, [California minimum wage hike hits L.A. apparel industry: The exodus has begun], 4fbxgg, 1461016398.0, 460
+613, [Rand Paul: Ending NSA spying: "Simply owning a cellphone does not mean you forfeit your constitutional rights", "This domestic NSA spying is simply not acceptable in a free society."], 3ro1jx, 1446781046.0, 455
+614, [Johnson is getting popular enough for FactCheck.org to start researching him.], 4q4z5l, 1467082136.0, 451
+615, [My morning was better after I saw this], 4nmlap, 1465698714.0, 450
+616, [Gary Johnson's Reddit AMA Got More Points Than Donald Trump's], 51mn8f, 1473300546.0, 454
+617, [Gary Johnson sarcastically fakes heart attack in response to BS marijuana claims], 4vt46a, 1470181831.0, 457
+618, [Federal Judge rules that DOJ can't force Apple to unlock iPhone in NY drug case], 48d5zo, 1456816194.0, 454
+619, [/r/Libertarian Wiki], 4lww0l, 1464750106.0, 453
+620, [Houston-area Eighth Grader sent to school Police Office and investigated for "Felony Forgery" after trying to pay for her Lunch with a $2 bill given to her by her Grandmother.], 4h37b4, 1462020296.0, 453
+621, [Romney, McCain, Bush, other major Republicans Set to Endorse Libertarian Gary Johnson for President], 4wg8yw, 1470525306.0, 452
+622, [Rand Paul makes GOP Debate Main Stage], 3wo8z0, 1450059051.0, 451
+623, [Vietnam, ruled by communists for 40 years, is now the No. 1 fan of capitalism on the planet], 4hi58h, 1462232853.0, 451
+624, [Stossel: I have lung cancer], 4fnol3, 1461192562.0, 450
+625, [Why is this not obvious to people yet?], 4estox, 1460690644.0, 446
+626, [The Government Is Useless], 57ijuj, 1476505882.0, 448
+627, [Proposed California Ballot Initiative That Would Lower Drinking Age to 18 Cleared to Collect Signatures], 3s6a54, 1447127655.0, 446
+628, [If the 2nd Amendment falls, the 1st will follow... [x-post from r/firearms]], 4poaq4, 1466820385.0, 442
+629, ["It's called Socialism Bernie"], 47it5x, 1456435124.0, 439
+630, [Let's remind /r/all that CNN is hosting a Libertarian Town Hall featuring Gov. Gary Johnson and Gov. Bill Weld this Wednesday at 9PM (x-post /r/GaryJohnson)], 4p06g6, 1466475835.0, 445
+631, [Ron Paul: US Elections Are Rigged, Voting Simply Used to Pacify the Public], 58zyxp, 1477276543.0, 444
+632, [Penn Jillette Will Be Hosting The Next Libertarian Party Presidential Debate], 4il09e, 1462848070.0, 445
+633, [Gary Johnson recommended isidewith.com to see which candidate you side with - turns out I'm on Team Johnson!], 4lr486, 1464664679.0, 437
+634, [Don't Throw away Your Vote], 58l794, 1477049363.0, 435
+635, [Front page of CNN!], 4llz1l, 1464580902.0, 434
+636, [Him or me...], 4hhosk, 1462228866.0, 433
+637, [The IRS...], 4grwg5, 1461838211.0, 434
+638, [Donald Trump on 'ridiculous' 15% requirement to participate in presidential debates], 51ci98, 1473150321.0, 436
+639, [UC Berkeley Touts $15 Minimum Wage Law, Then Fires Hundreds Of Workers After It Passes], 4g0pgl, 1461390844.0, 429
+640, [The lack of Choice in 2 party Politics], 3swt4e, 1447635284.0, 433
+641, [Gary Johnson on Bill Maher], 4qvh8e, 1467457310.0, 428
+642, [Google searches for "Libertarian Party" have been on par with the two major parties for a few days now.], 4igimi, 1462772627.0, 431
+643, [Facebook Censorship of Libertarian Page], 4s1dno, 1468115386.0, 427
+644, [Gary Johnson: Donald Trumps a pussy], 48i1lr, 1456887959.0, 428
+645, [Still hanging in], 50bfub, 1472596722.0, 430
+646, [Revenge of the Libertarians: How This Third Party Could Sway the 2016 Election], 4otqm1, 1466378991.0, 429
+647, [Frederic Bastiat predicted Reddit's glorification of taxes.], 42xwm5, 1453936739.0, 426
+648, [Harvard Study Reveals Drug Prices are High in U.S. Because Government Grants Monopoly to Big Pharma], 52heas, 1473751747.0, 429
+649, [NYT makes TWO geography errors in article criticizing Johnson for Aleppo], 521c7u, 1473507069.0, 432
+650, [Gary Johnson will be on the ballot in Illinois!], 4q1t8w, 1467034693.0, 426
+651, [Fast and Furious], 3vvoni, 1449572847.0, 430
+652, [CNN Accused of Bias Against Third Parties By a Post-Debate Focus Group Participant], 56cnwa, 1475891403.0, 423
+653, [If you're calling yourself a Libertarian but voting for Trump so Clinton doesn't win, you're a Republican, not a Libertarian.], 4qgqx7, 1467249948.0, 426
+654, [CNN showing Libertarian Town Hall countdown.], 4p4ulb, 1466547824.0, 423
+655, [The Libertarian Party will be on the Washington presidential ballot!], 4x08qo, 1470828888.0, 422
+656, [Gary Johnson speaks out after winning Libertarian nomination (Fox News)], 4lq58h, 1464652399.0, 424
+657, [CNN: Include Gary Johnson in national Presidential polls], 4tpcgr, 1469016335.0, 425
+658, [Nevada Lawmaker: It's Okay To Aim Guns At Cops If They Aim At You First], 4hn5cp, 1462309580.0, 423
+659, [Perfect description of the drug war], 56cw73, 1475894094.0, 417
+660, [It is amazing what you can accomplish], 3x1ebs, 1450268981.0, 417
+661, [Gary Johnson - We're LIVE in New York taking your questions and proving the debate commission and its corporate sponsors can't silence us. Help spread the word by adding #LetGaryDebate to your profile picture: https://goo.gl/VAe5dB], 54nc35, 1474957709.0, 415
+662, [Divide and conquer], 48q5kg, 1457004915.0, 416
+663, [Bernie Sanders Says Hed Raise Taxes. Of Course He Would.], 42ruuv, 1453849603.0, 417
+664, [NYT: Gary Johnson: Take a Deep Breath, Voters. There Is a Third Way. - by Gary Johnson 9/28/2016], 54vnmy, 1475086540.0, 412
+665, ["Johnson said he's getting about 30 national media requests a day. Four years ago he ran for president he only received one to two a week."], 4mupd0, 1465269346.0, 411
+666, [Bernie Sanders lies so much that Denmark is telling him to stop], 3yh44q, 1451301040.0, 411
+667, [GARY JOHNSON AT 16% AMONG LATINO'S], 4xl9e3, 1471154726.0, 408
+668, [Let's introduce Reddit to Governors Gary Johnson and Bill Weld. They want to be your next president. Here they are talking about the issues on CNN. (Full Town Hall Video)], 4pgap4, 1466710878.0, 414
+669, [Could the Libertarian Candidate Finally Be Invited to the Presidential Debates? Gary Johnson Inches Closer to Qualifying, Even People.com is paying attention to us], 4wy3h4, 1470800765.0, 411
+670, [Gary Johnson, Libertarian Candidate, Sees Opening Created by Donald Trump], 4dp5iy, 1460025581.0, 408
+671, [Johnson NOT included in same forum as Hillary/Trump], 50nyco, 1472774849.0, 404
+672, [Utah State Senator Mark Madsen switches to the LP!], 4ujsyx, 1469496581.0, 405
+673, [NFL Star Richard Sherman: Stop Forcing Taxpayers to Fund Billionaires' Stadiums], 50a1kx, 1472573481.0, 401
+674, [CNN Poll: 13% of Sanders Supporters Are Backing Jill Stein, 10% Want Gary Johnson], 4vt7qz, 1470182904.0, 404
+675, [Reuters is rigging their polls to show Hillary Clinton winning], 4vhsop, 1470011646.0, 406
+676, [Gary Johnson: We Need To Stop Criminalizing Personal Choice], 4y14w9, 1471402108.0, 408
+677, [Gary Johnson polls at 9% in NBC National Poll], 4p4z9s, 1466549481.0, 400
+678, [Ohio Man Sentenced to 240 Days for Recording Cops and Holding Up Sign Warning Drivers of DUI Checkpoint], 48ov3j, 1456988160.0, 401
+679, [Sanders to vote for Paul's 'Audit the Fed' bill], 40nobj, 1452652151.0, 404
+680, [PA Cops Have Womans Rectum, Vagina Searched After Traffic Stop], 4er85n, 1460670892.0, 399
+681, [Wikileaks: Multiple US Sources say Kerry Asked Ecuador To Stop Assange], 5841dp, 1476829354.0, 398
+682, [Muh liberty], 4edu3o, 1460452493.0, 402
+683, [Gary Johnson Reaches All-Time Polling High of 13% on Eve of GOP Convention], 4tctz6, 1468836463.0, 394
+684, [The latest season of South Park has been taking PC Culture head on. Just wanted to share my admiration for one of the most influential libertarians, Trey Parker!], 3scjav, 1447231586.0, 394
+685, [N.J. now lets teens shovel legally, but there's still more red tape to cut: "Licensing has certainly gone too far when it ensnares everyone from snow-shoveling teens to dentists trying to do good."], 463ne7, 1455674052.0, 392
+686, [New Massachusetts Law Will Tax Uber and Lyft to Bailout Taxi Industry, As Taxi Medallions Plunge], 4z6ltr, 1471989803.0, 398
+687, [Tesla is asking owners and enthusiasts to help block a GM-backed bill to ban direct sales in Indiana], 4772x8, 1456270229.0, 393
+688, [Sen. Rand Paul: Lawmakers Must Take Back Their Power From the Executive Branch], 45idmr, 1455361088.0, 393
+689, [Johnson at 12% in CBS poll (still not included in topline question)], 4uiqpu, 1469484131.0, 394
+690, [Wolf Blitzer of CNN literally asks if it's a bad idea to defund Saudi Arabia's bombing of Civilians in Yemen because it will cost defense industry jobs.], 52kzip, 1473808555.0, 388
+691, [Latinos Are Twice As Likely to Support Libertarian Candidates], 4yiysf, 1471642779.0, 391
+692, ['Edward Snowden did this country a great service. Let him come home' - Bernie Sanders, Daniel Ellsberg, former members of the NSA and more weigh in on whether Obama should grant clemency to the divisive whistleblower], 52qwmq, 1473894258.0, 389
+693, [10 Years Ago Today, Hillary Voted For A Massive Border Fence], 55ad30, 1475302143.0, 385
+694, [Law enforcement agencies are Asking Ancestry.com and 23andMe for Their Customers' DNA], 471brn, 1456184121.0, 386
+695, [The "I Side With" Quiz needs to be at the TOP of r/all after the LP Convention...spend the time to take the quiz. See who you most align with in terms of your beliefs instead of just blindly following any of the three candidates. See who would best represent what YOUR convictions are.], 4lmsoc, 1464592959.0, 382
+696, [500 IRS Employees Caught Not Paying Taxes in 2015, Only 5 Fired], 54m1dj, 1474942766.0, 384
+697, [NEW POLL: Gary Johnson Wins Commander-in-Chief with Military Community], 52ff8u, 1473729053.0, 382
+698, [Rand Paul Has No Plans to Endorse in GOP Nomination Race], 4795j3, 1456294811.0, 383
+699, [This is horseshit], 4w7uig, 1470387015.0, 374
+700, [The amendment will never change, only the equipment.], 4sy4fa, 1468599317.0, 381
+701, [Rhode Island Secretary of State Validates Gary Johnson on the Ballot making it 50 for 50!], 51ytyp, 1473473791.0, 375
+702, [Two-Thirds of Millennials Disgusted with "Binary Choice" Between Trump & Clinton], 4xr628, 1471252609.0, 377
+703, [Rand Paul among only 6 Republican Senators to vote Nay on a rider to expand Internet surveillance powers in reaction to Orlando], 4pgrj6, 1466717782.0, 379
+704, ['Frustrated' (Nebraska) State Sen. Laura Ebke switches from Republican to Libertarian], 4m43e3, 1464850715.0, 380
+705, [RonPaul.Com Founders Endorse Trump, Receive Vicious Backlash], 48gqff, 1456871983.0, 373
+706, [If this election doesn't convince voters why government ought to be small, then we're doomed], 4v0ino, 1469738806.0, 370
+707, [The Clintons War on Drugs: When Black Lives Didnt Matter], 45l0b3, 1455407306.0, 373
+708, [The DEA moves to ban an herbal supplement that gets people off opiate addiction, because it cuts into pharmaceutical opiate profits], 531vdc, 1474061129.0, 376
+709, [Gary Johnson is running again.], 3zr8pu, 1452135578.0, 369
+710, [FBI admits it uses stingrays, zero-day exploits], 3w27ut, 1449688366.0, 376
+711, [Rand Paul praises Edward Snowden for doing 'a service' to the U.S.], 3snp9i, 1447449157.0, 373
+712, [My fortune cookie message was quite libertarian today.], 4vdnyn, 1469937006.0, 371
+713, [[Thomas Simmons] A gay man defends his right to keep and bear firearms], 591rjc, 1477298253.0, 369
+714, [Spread the word! CNN Town Hall with the Libertarian ticket!], 4p1tw3, 1466496839.0, 367
+715, [The Bill of Rights Ensures the Government Cant Do Whatever It Wants - "Unfortunately, many of members of Congress believe that those four wordssomething must be donegive the federal government permission to do whatever it wants."], 4qa646, 1467158533.0, 366
+716, [For r/All: Read about Gary Johnson, the 2016 Libertarian presidential candidate!], 4c39wz, 1459061591.0, 364
+717, [Wisconson at 16%, Johnson beating Trump among blacks and more great news!], 4qngaq, 1467343001.0, 361
+718, [Austin Petersen endorses Gary Johnson.], 4llfud, 1464573362.0, 366
+719, [The other other choice, everyone], 4ycbgk, 1471556508.0, 364
+720, [Justin Amash on Twitter: "Nothing better illustrates the phoniness of politicians than the ease w/ which they shift from blasting one another to praising one another."], 4i2ncz, 1462521303.0, 368
+721, [It's time for Republicans to consider the Gary Johnson option], 4w0g9g, 1470282612.0, 364
+722, [Libertarian Party sees spike in registration, fundraising], 4l2zk0, 1464255189.0, 369
+723, [New Quinnipiac Poll: Gary Johnson 13% Nationally], 52s6t3, 1473909460.0, 360
+724, [The reality of gun control], 4rdsx8, 1467768254.0, 366
+725, ["Those two Libertarian weirdos don't stand a chance!"], 4n22hm, 1465371477.0, 361
+726, [Traffic Camera Company Lies and Colludes With Local Governments to Violate Rights], 3zvcjx, 1452199945.0, 362
+727, [The Daily Show totally misrepresents Gary Johnson and Libertarianism], 4yjuvy, 1471652730.0, 362
+728, [Gary Johnson Polls: As Libertarian Candidate Continues To Climb, Support Grows To Include Him In Presidential Debates], 4ydegm, 1471568483.0, 365
+729, [Justin Amash on Twitter: "Democrats are staging a sit-in on the House floor. They refuse to leave until our Constitution replaces due process with secret lists."], 4pdsww, 1466668394.0, 364
+730, [Proposed Minneapolis ballot item would require police to carry insurance: Supporters say change would add incentive to avoid misconduct.], 4mi6dd, 1465073394.0, 358
+731, ["There are now twice as many people searching for information about Johnson than there were people searching for information about Sen. Rand Paul when interest in him as a presidential candidate spiked earlier in the year...."], 4wt8s5, 1470728586.0, 358
+732, [More than 900,000 People Tuned In to Watch This Weeks CNN Libertarian Town Hall], 4pobz1, 1466820754.0, 356
+733, [Just Before Passing Surveillance Expansion, Lawmakers Partied With Pro-CISA Lobbyists], 3yb3yg, 1451182928.0, 355
+734, [This has never been more relevant than this election.], 4u8gma, 1469313658.0, 359
+735, [Americans Tilt Toward View That Government Is Doing Too Much], 56v0gl, 1476169778.0, 360
+736, [BREAKING! Wikileaks e-mail shows Donald Trump as a "Pied Piper Candidate" elevated by the DNC and MSM to hurt GOP!], 56hqti, 1475973467.0, 360
+737, [Help Libertarian ticket of Johnson-Weld appear on the Alabama ballot on Nov.8], 4v697x, 1469822922.0, 355
+738, [Let's get Gary in the debates: Tell the ABC/Post Poll to include Gary Johnson! (x-post from /r/garyjohnson)], 4ojkur, 1466203859.0, 352
+739, [You guys ordered Pizza?], 4vhxjr, 1470013454.0, 355
+740, [Gary Johnson to appear on Real Time w/ Bill Maher], 4qbo50, 1467175267.0, 357
+741, [The US is dropping bombs quicker than it can make them], 4el927, 1460578176.0, 354
+742, ["In 2014, for the first time in recorded history, police seized more money and property from citizens than all burglars and thieves combined"], 4dgs7n, 1459897172.0, 353
+743, [VIDEO: Undercover officers beat wrong man, choked unconscious, order witnesses to delete video], 4dqlsx, 1460057139.0, 358
+744, [TIL the median wait time to see a health care specialist in Canada has doubled since 1993.], 3yjszx, 1451355530.0, 356
+745, [Unfortunately, this isn't actually satire], 4lk7ak, 1464552517.0, 355
+746, [A couple of my Facebook friends still know what's up], 3vc33q, 1449209049.0, 350
+747, [Hillarys State Department Stopped Haiti From Increasing Its Minimum Wage to 61 Cents], 4gaqt1, 1461571071.0, 351
+748, [Freethevote.us pairs you with someone on the other side of the aisle so that you both can vote third party without "guilt"], 52qlp6, 1473890383.0, 349
+749, [CNN Libertarian Town Hall Mega Thread], 4w1yt8, 1470301342.0, 352
+750, [Gary Johnson at 10% in Latest NBC/WSJ Poll], 4pyaic, 1466984697.0, 352
+751, [Celebrities endorsing and contributing to Gary Johnson 2016!], 4lvqg5, 1464736894.0, 347
+752, [Right on the money...], 435e5u, 1454044586.0, 345
+753, [Citizen Asks ATF: Do I Need a Federal Firearms License to Sell Thousands of Guns to Mexican Cartels?], 3zw7a0, 1452213069.0, 343
+754, [How Presidential Non-Opinion Polls Drive Down Third Party Numbers and Facilitate Debate Exclusion], 4yhxcx, 1471627138.0, 345
+755, [When you try to bring a different idea on r/Hillaryclinton], 59i1nj, 1477523539.0, 346
+756, [Dilbert Creator Scott Adams now supports Gary Johnson], 56jukx, 1476001357.0, 344
+757, [Gary Johnson at 11% in Morning Consult poll], 4q4i59, 1467076847.0, 338
+758, [Is Gary Johnson the Fittest Presidential Candidate Of All Time?], 52h8rc, 1473749767.0, 342
+759, [Living among liberal progressives], 44bytc, 1454723844.0, 340
+760, [The 2 Genius Choices.], 563fd1, 1475752091.0, 344
+761, [Gary Johnson pens CNN op-ed], 4ndxdq, 1465549072.0, 341
+762, [Drug Dogs Don't Even Have To Be Right Half The Time To Be Considered 'Reliable' By The Courts], 45o7bg, 1455447192.0, 341
+763, [BREAKING: Mitt Romney Calls for Johnson and Weld to Be in Debates], 51nymb, 1473315732.0, 338
+764, [Anyone else notice the AMA last night had almost 9000 upvotes and now only has around 3000 and declining slowly? It was double the ITT Tech closing story, now that story is back on top and the AMA buried.], 51kr8h, 1473276016.0, 340
+765, [There is an alternative #MakeAmericaSaneAgain], 4uftzf, 1469434220.0, 340
+766, [Has There Ever Been a Better Time for More Choice in America? - Let Gary Johnson Debate!], 4p5lte, 1466556768.0, 338
+767, [NFL Subsidies: Taxpayers Left High and Dry After Rams Move to Los Angeles], 42gqa1, 1453685365.0, 345
+768, [6 years ago.....], 59kirf, 1477549593.0, 340
+769, [Cop tricks person into putting out a cigarette to use that as an excuse to arrest him and search his car], 3xvowz, 1450846702.0, 339
+770, [The Most Important Question About ISIS That Nobody Is Asking - "who is the commodity trader breaching every known law of funding terrorism when buying ISIS crude...why is it that these governments have allowed said middleman to continue funding ISIS for as long as it has?"], 3tkshf, 1448062930.0, 339
+771, [Gary Johnson polls at 12% in Fox News National Poll], 4w132l, 1470289787.0, 333
+772, [Gary Johnson Will Be On the Ballot in NY], 4vukjr, 1470197719.0, 338
+773, [LP Statement of Principles: "We hold that all individuals have the right to exercise sole dominion over their own lives, and have the right to live in whatever manner they choose, so long as they do not forcibly interfere with the equal right of others to live in whatever manner they choose."], 4i6gx6, 1462588849.0, 336
+774, [Rigging the Election - Video II: Mass Voter Fraud], 585ifg, 1476844835.0, 333
+775, [I PROUDLY "threw away my vote" today for Johnson/Weld!], 53p8mg, 1474429755.0, 337
+776, [Dont be surprised if Aleppo flub helps Gary Johnson rise to 15%], 520pzz, 1473497619.0, 342
+777, [All the Gary Johnson opposers this morning], 51t50g, 1473392040.0, 342
+778, [Gary Johnson polls 13 percent in a Utah poll.], 4nwp7q, 1465867440.0, 341
+779, [Gary Johnson: "legalizing marijuana will lead to less overall substance abuse because people are going to find it a safer alternative than everything else out there, starting with alcohol."], 4m45vu, 1464851668.0, 336
+780, [WHY Bernie Sanders supporters are switching to support Gary Johnson.], 4nbnmx, 1465519293.0, 343
+781, [Cops Who Killed 6-yo Boy Lied About his Dad Having a Warrant & Gun  He Had Neither], 3rux2d, 1446902799.0, 336
+782, [Mom Arrested, Charged with Felony Child Endangerment for Treating Her Own Disease with Pot], 3ywmgp, 1451593829.0, 338
+783, [Jill Stein knows where to stick the War on Drugs], 52zza2, 1474023953.0, 333
+784, [The naked truth about the mind numbing double standards of the mainstream media], 4wmq1h, 1470632760.0, 332
+785, [As of today, I have officially left the Democratic Party and will most likely vote for Johnson (as I did in 2012). And there is still a route for him to win.], 4urs8m, 1469606537.0, 337
+786, [Johnson/Weld's $15 for 15% on the 15th money bomb reaches its goal of $1,500,000! Throw another $15 on there and let's push this over the top!!], 4xvgnm, 1471319665.0, 334
+787, [Hey, r/SandersForPresident and r/all, Gary Johnson has a quick pitch for you [Video]], 4n2ge0, 1465376710.0, 329
+788, [Gary Johnson smoked marijuana seven weeks ago, but says he will stop during his run for office because he wants to be "completely on top of my game."], 4ojc49, 1466200605.0, 330
+789, [A classic conundrum], 4flavw, 1461149569.0, 332
+790, [Student Loan Subsidies Cause Almost All of the Increase in Tuition], 3xr3az, 1450761795.0, 332
+791, [John Stossel: "after years of reporting, I've concluded that most politicians have little to say that's interesting, and many are craven opportunists, desperate to rule over others. When we have a choice, Americans ignore politicians. That's usually a good thing."], 4xp8hp, 1471226610.0, 329
+792, [Gary Johnson Siphons More Support from Clinton Than Trump In New Poll], 4j1vle, 1463103752.0, 330
+793, [I own BernieSanders.co], 477trc, 1456279055.0, 331
+794, [Police to Take Valuables from Unlocked Cars to Stop Break-Ins], 3rce9o, 1446581697.0, 324
+795, [Big Boi - "Bitch I Voted for Gary Johnson"], 52xyij, 1473997154.0, 330
+796, [Big Boi from Outkast is a voting libertarian], 4lvmlg, 1464735669.0, 327
+797, [Progressives spent 85 Years Pushing Presidential Power Far Beyond its Constitutional Limits. Now the NYTimes Panics at the Prospect of Trump with the Power of the Imperial Presidency.], 48hrpk, 1456884774.0, 325
+798, [Insure the Police], 577gvz, 1476346892.0, 321
+799, [Gary Johnson, Libertarian, makes his pitch for the presidency], 4twytl, 1469136605.0, 327
+800, [Turns out Bernie's tax plan would be horrible for the economy.], 43akem, 1454126595.0, 326
+801, [Rhode Island confirmed: Johnson/Weld on ballots in all 50 states], 51z9nw, 1473478950.0, 326
+802, ["I understand that the NSA was an executive order under Truman. If that's the case then it seems to me that there can be an executive order to turn the satellites away from all of us." - Gary Johnon], 4yxnnt, 1471849664.0, 327
+803, [This may surprise you to hear, but Im ready to defend the proposition that Gov. Johnson can win, Republican Congressman Scott Rigell of Virginia told CNN Wednesday.], 4x53pi, 1470900854.0, 325
+804, [CNN to Host Second Town Hall With Gary Johnson and William Weld This Wednesday], 4vmm2a, 1470088625.0, 323
+805, [Libertarian Candidate Lily Tang Williams Awesome Interview], 56tybx, 1476157524.0, 325
+806, [Gary Johnson on guns, lists, and due process], 4ow2i9, 1466412067.0, 326
+807, [DEA Releases New Drug Overdose Death Figures: Guns Safer than Prescription Drugs], 3rrq38, 1446851162.0, 326
+808, [Sen. John McCain (R) withdraws support for Donald Trump], 56j1rl, 1475990078.0, 322
+809, [Democrats Trying to Tell Third Party Voters They "Can't Afford to Vote Their Conscience" This Election], 53qpqt, 1474448781.0, 318
+810, [You know Gary Johnson is getting more attention if TMZ is ambushing him], 4wc92w, 1470455132.0, 321
+811, [As Both Parties Are Losing Voters, Gary Johnson Is Winning Them], 4ux2pg, 1469683640.0, 321
+812, [Gary Johnson Comes Out Against No Fly, No Gun Proposal], 4oddyf, 1466113651.0, 326
+813, [Johnson Endorsed by Two Montana GOP State Reps], 4ul9po, 1469513879.0, 322
+814, [Rep. Mia Love wants to limit congressional bills to one subject at a time], 42ted1, 1453867577.0, 317
+815, [Sen. Bernie Sanders Booed Loudly after Clinton Endorsement], 4ullg7, 1469518128.0, 323
+816, [I'm good then, right?], 4rk1s8, 1467859316.0, 321
+817, [Austin Petersen: "If today you find yourself simultaneously defending the rights of gun owners, gays, and Muslims, you just might be a libertarian."], 4nu67a, 1465823329.0, 312
+818, [Unlawful gun owners commit 80 percent of gun crimes], 4vnjls, 1470099949.0, 317
+819, [Big Boi - "Bitch I Voted for Gary Johnson"], 4m98g1, 1464928334.0, 317
+820, [A Facebook friend's response to the recent Uber shutdown in Austin. The free market always finds a way], 4kce7m, 1463839679.0, 316
+821, [Ron Paul: I'll make my vote count by voting 3rd party this presidential election], 4ibpwt, 1462683751.0, 315
+822, [Gary Johnson Wants Bernie Sanders Fans' Support After Hillary Clinton Wins], 4gubl7, 1461883936.0, 313
+823, [Megyn Kelly exclaims "Where's Gary Johnson?" when considering the choice between Trump or Hillary. (very short :15)], 4kxmod, 1464174184.0, 319
+824, [Rand Paul calls Hillary Clinton a Neocon], 3rxcgv, 1446956531.0, 309
+825, [Edward Snowden on Twitter: "Break classification rules for the public's benefit, and you could be exiled. Do it for personal benefit, and you could be President."], 4mde60, 1464996486.0, 313
+826, [Actor Michael Ian Black Uses Paris Terror to Mock U.S. Gun Laws Mid-Attack], 3sqht8, 1447496310.0, 311
+827, [School Cops Threaten Eighth Grader With Felony Forgery Over [Real] $2 Bill], 4h93wa, 1462139723.0, 312
+828, [Drew Carey hosts fundraiser at home for Libertarian candidate, Gary Johnson.], 53mwg2, 1474399915.0, 315
+829, [Gary Johnson at 12% in latest IBD/TIPP Poll], 50tzfz, 1472861315.0, 315
+830, [Cop sued for drawing gun on man filming him], 4ke3iy, 1463874524.0, 305
+831, [LA unions call for exemption from $15 minimum wage they fought for], 4esmkr, 1460688215.0, 307
+832, [Felony charge dropped for man after passing out jury rights fliers. (Same court is trying it as a misdemeanor now). The state actively tries to keep its citizens ignorant of the very laws that govern them.], 4bp4h8, 1458804752.0, 310
+833, [The Republican Party Should Formally Endorse Johnson & Weld], 56mazw, 1476050796.0, 309
+834, [We Must Defend Everyones Rights Even if We Disagree With How They Exercise Them], 543nna, 1474645652.0, 311
+835, [Crowd erupts in laughter after former Florida Gov Charlie Crist claims Hillary Clinton is honest.], 53tsg0, 1474501579.0, 309
+836, [Make America Free Again: We shouldn't aspire to be a great nation. We should aspire to be fully free persons.], 499cbl, 1457329817.0, 311
+837, [/r/Politics mods removing links to JohnsonWeld.com but not HillaryClinton.com], 57yvk2, 1476756964.0, 308
+838, [A libertarian, free marketeer was just elected mayor of Johannesburg South Africa], 53d4ky, 1474248294.0, 306
+839, [See, nobody cares!], 51u9ox, 1473405494.0, 311
+840, [Bill Kristol: "I'll make you this promise. If it's September 1st, and there's no other independent or third party candidate besides Governor Johnson, I will fight hard to get Johnson on the debate stage. Let him make his case to 75 million Americans, and at that point anything will be possible."], 4r43mg, 1467612787.0, 308
+841, [End the Drug War. Vote libertarian], 4lknxu, 1464561899.0, 309
+842, [Irony at the NYT: Taxation by ISIS is "violent extortion"], 3vo2h7, 1449445567.0, 306
+843, [Im voting for Gary Johnson because its the only way to make my vote matter], 57kbu4, 1476530569.0, 309
+844, [Handy dandy guide to government spending], 4i8m2f, 1462622536.0, 308
+845, [New York Times pushes propaganda once again just like they did for the Iraq war, this time propaganda to push for gun bans!], 3vjget, 1449352464.0, 304
+846, [John Adams on a two-party system], 4tjpx3, 1468938341.0, 306
+847, [How the 3 Presidential Candidates reacted to the tragedy in Orlando. (x-post /r/GaryJohnson)], 4nstt3, 1465802082.0, 302
+848, [Bernies Nordic fantasy], 3sa179, 1447196070.0, 306
+849, [Thomas Simmons Libertarian for Congress In Mass. Within the Margin of Error Against Incumbent], 590eqt, 1477281507.0, 305
+850, [Sen Rand Paul: Hillary Clinton Should Not Be Above the Law], 4rg5k3, 1467798215.0, 302
+851, [Katie Couric -- Lying In Anti-Gun Documentary], 4l5f6u, 1464299914.0, 301
+852, [Corporations would have too much power under Libertarianism], 440c5u, 1454542972.0, 307
+853, [Though Favored Among Military, Johnson Excluded from Veterans' Forum], 4zoqfs, 1472248805.0, 299
+854, [Do Black Lives Matter? Raven Symone Voting For Gary Johnson], 4wjf3q, 1470572601.0, 301
+855, [Bing presidential canidates includes Jill Stein but not Gary Johnson! Bug em about it so we can reach the 5 or 6 people who DO use bing], 4o4ez2, 1465976402.0, 299
+856, [Gary Johnson Beats Hillary With Independents, Reaches 12% Nationally], 4nmho4, 1465697334.0, 300
+857, [Why isn't the NSA a hot topic in the US elections?], 4g0jdv, 1461388439.0, 299
+858, [Thermal Imaging threat and intimidation by Fresno Law Enforcement.], 433nl4, 1454022476.0, 303
+859, [87-year old woman in Germany sentenced to 10 months in prison for saying the Holocaust was a lie], 3spcmx, 1447475324.0, 296
+860, [Audit the Fed will get a vote in the Senate on Jan. 12 - and you can help get it passed], 3xezt8, 1450517540.0, 297
+861, [Austin Petersen: "The response to Gary Johnson not being libertarian enough for you isn't to support the statist Trump."], 51jxnr, 1473258985.0, 297
+862, ["This is CNN" Reason], 506saf, 1472527364.0, 296
+863, [New Mexico GOP state senator backs Johnson over Trump], 4w4hip, 1470345966.0, 301
+864, [This pretty much sums up my opinion of this election.], 4d9ufa, 1459778663.0, 299
+865, [CNN Cuts Feed Of Rep. Chris Collins When He Brings Up Wikileaks & Hillary Clinton], 58f2cf, 1476967269.0, 298
+866, [Mother of five arrested for not cutting grass], 4s7ba5, 1468212670.0, 301
+867, [Could Donald Trump lose the millennial vote to Gary Johnson?], 4s0jkq, 1468103881.0, 295
+868, [Is This Gary Johnson/Bill Weld Spot the Greatest Presidential Ad], 4qm2wn, 1467327236.0, 298
+869, [From #FeelTheBern to #FeelTheJohnson? Gary Johnson sees huge jump in new poll], 4km37w, 1464003650.0, 303
+870, [I met Ron Paul the other day!], 56f7u0, 1475925388.0, 298
+871, [Super PAC that supported Kentucky U.S. Senator Rand Paul's 2016 presidential run is now backing libertarian candidate Gary Johnson], 50i96h, 1472691844.0, 292
+872, [Nancy Pelosi LITERALLY calls to "create an echo chamber throughout America" to strip 2nd Amendment rights without due process], 4pna1q, 1466808908.0, 300
+873, [Gary Johnson Could Win Utah], 4nljzk, 1465683511.0, 292
+874, [Observation], 4ngenq, 1465595937.0, 294
+875, [Millennials like socialism  until they get jobs], 4bwv15, 1458947786.0, 296
+876, [How Pigs Behave in a Single gif], 429s5n, 1453559909.0, 297
+877, [It's the only thing left for Gary Johnson to climb. (X-post /r/CheckYourJohnson)], 4nyl6e, 1465890597.0, 297
+878, [Gary Johnson to Unhappy Republicans: Call My Office], 4im9iu, 1462863615.0, 299
+879, [The Bing Political Index DOESN'T even include Gary Johnson, but it DOES Include Stein.], 4p5kj2, 1466556393.0, 295
+880, [The top comments from r/news's megathread are all deleted except one. Welcome to censorship.], 4nqzv7, 1465777944.0, 298
+881, [The New York Times Accurately Portrays Hillary Clinton as an Unrepentant Warmonger], 484pcs, 1456715652.0, 293
+882, [Vermont Senate approves marijuana legalization 16-13], 47j0hp, 1456438055.0, 292
+883, [Rand Paul Went On The Offensive, Reshaped The Debate And Had His Strongest Performance Yet], 3sdv0s, 1447257825.0, 293
+884, [17% of early voters in Florida voted 3rd party], 546hbz, 1474687535.0, 295
+885, [In U.S. presidential race, Arizona is home to best chance for a spoiler - The Libertarian Party nominees best chance to influence the presidential race may come in Arizona, where the former New Mexico governor appeals to a group of finicky conservatives who make up part of the GOP base.], 5198us, 1473108247.0, 290
+886, [Bernie supporters should take a look at Gary Johnson and Bill Weld. They might like what they find.], 4shv26, 1468369362.0, 296
+887, [University of Kansas mob surrounds conservative students, suggests they leave school - The College Fix], 562sx2, 1475743221.0, 296
+888, [Libertarians can swap in Gary Johnson's name on Ohio ballot, Jon Husted rules], 4xuvdm, 1471312659.0, 294
+889, [NBC/WSJ Poll Puts Gary Johnson at 10% Nationally in 4 Way Race], 4py7fi, 1466983497.0, 296
+890, [Colbert: Gov. Gary Johnson & Gov. William Weld Are Not "Fringe" Candidates], 4nfamg, 1465574111.0, 293
+891, [Florida Airport for the WIN. PGD fires TSA and hires private security firm ISS Action.], 4ewnpw, 1460754955.0, 293
+892, [Gary Johnson has reached 1 Million likes on Facebook!], 4vyd2s, 1470258108.0, 292
+893, [Isn't Bernie just awesome?], 4ulqfx, 1469520002.0, 287
+894, [September 6, 1984: Ron Paul Warns of Surveillance State - Don't Ever Say We Weren't Warned.], 4mjx2h, 1465098748.0, 289
+895, [In a lawsuit filed in Chicago federal court, multiple plaintiffs are alleging that the Kane County Sheriffs Office is running a racketeering scheme for their own benefit under the auspices of asset forfeiture.], 47ceq5, 1456346753.0, 291
+896, [Why is CNN still a news source?], 5541o2, 1475207160.0, 286
+897, [Jesse Ventura: Why I'm voting for Libertarian candidate Gary Johnson for president], 4snmta, 1468451312.0, 292
+898, [Minimum Wage Effect], 48vg7f, 1457088817.0, 291
+899, [Bernie supporters are starting to ruin this sub], 448bnj, 1454661904.0, 288
+900, [Gary Johnson will be the greatest jobs president in American history], 501v7w, 1472453227.0, 289
+901, [Supreme court justice Antonin Scalia dies at 79 | Law], 45n158, 1455430631.0, 293
+902, [Glenn Beck Likely To Vote For Gary Johnson], 4tyo10, 1469157005.0, 291
+903, [Senator Elizabeth Warren attacks Republicans for ignoring the Constitution while she ignores their constitutional right to block any presidential appointment for any reason], 45rl7v, 1455497201.0, 287
+904, [Union Leader of New Hampshire Endorses Gary Johnson Over Donald Trump], 52tnqn, 1473928398.0, 286
+905, [AnCaps Be Like], 4z15gr, 1471909658.0, 290
+906, [Poll suggests voters want Trump, Hillary alternative], 4tfd24, 1468879855.0, 288
+907, [Let me get this straight, I should vote with her because...], 4y7pig, 1471491998.0, 285
+908, [Cops put guy in a body bag like restraining device, even though he wasn't struggling. Completely covering his entire body, and kept him that way for over 20 minutes before he was taken away. All over a $2.75 subway fare.], 4elk9k, 1460583083.0, 289
+909, [Poll: Libertarian Johnson beating Trump, Clinton among active troops], 4tt2f5, 1469073812.0, 282
+910, [Watch Libertarian CNN Town Hall Stream Live: Gary Johnson, William Weld Face Voters In Prime Time As Party Gets Big Break], 4p6mte, 1466568173.0, 286
+911, [No, You Dont Get Moral High Ground over Third Party Voters: "voting for Clinton to save the country from Trump would still not make people ethically superior. If voting for Hillary Clinton is the lesser of two evils, it is still evil, and you dont get to escape culpability for that."], 55xwn1, 1475672093.0, 284
+912, [Gary Johnson cuts into Clintons lead], 531qva, 1474059367.0, 284
+913, [WATCH: Ben Swann DESTROYS Notion That 3rd Party is "Wasted Vote"], 4xk698, 1471139791.0, 284
+914, [Americans have a right to know that Hillary Clinton employs an illegal network of domestic political terrorists that use violence to influence public opinion. Democracy and freedom are not compatible], 583g6c, 1476821918.0, 281
+915, [Bill Weld: Media is publishing made up stories about me.], 561k66, 1475727455.0, 282
+916, [My roommate hung up a Donald Trump flag on his side of the room. I'm no hypocrite, I let him put it up. But you bet I had a Gary Johnson flag custom made just to compete.], 52n7ig, 1473832974.0, 280
+917, [Gary Johnson defends freedom of speech and freedom from thought policing], 50r1ru, 1472812628.0, 283
+918, [Here's Why Gary Johnson Polling At 11% Nationally Is A Big Deal], 4cc3uv, 1459227133.0, 280
+919, [Gary Johnson is officially running for POTUS 2016], 42ckw7, 1453610052.0, 281
+920, [End Needless Interactions With Police Officers During Traffic Stops: A broken taillight does not require armed agents of the state to approach a motorists window.], 4s0bnk, 1468100273.0, 283
+921, [Team Hillary is working overtime to block former Secret Service officer Gary Byrne from appearing on ANY broadcast network. Byrne is set to reveal what he observed inside the White House while protecting the First Family in the 1990s. 'What I saw sickened me, I want you to hear my story.'], 4p300e, 1466514607.0, 283
+922, [Our First Reaction to Orlando Should Not Be Partisan - Democrats and Republicans endorse violating the 1st, 2nd, 4th, 5th, 6th, and 8th Amendments in response to the attack. About the only thing we are missing is a call to quarter troops in our homes.], 4odbi6, 1466112653.0, 281
+923, [Fox poll: Gary Johnson at 10% nationally], 4jzep5, 1463640100.0, 282
+924, [Uber offering horse and buggy rides to protest regulations], 3s5paq, 1447119710.0, 282
+925, [At this rate, ignoring Gary Johnson isn't a luxury the other parties will have.], 4ye999, 1471577497.0, 281
+926, [Gary Johnson's newly updated website rivals those of Clinton/Trump.], 4u4tj0, 1469248216.0, 279
+927, [Gary Johnson Polls At 11% In GQRR National Poll], 4qlyxa, 1467325946.0, 280
+928, [With all the recent news I decided today is the day for this.], 4k5afs, 1463728052.0, 278
+929, [Gary Johnson interviewed by the New York Times], 4bnhfx, 1458782818.0, 279
+930, [Congress Passes Law Permanently Banning Internet Taxes], 45f9b8, 1455320230.0, 276
+931, [Felony Charge for Selling a Wisconsin Beer In Minnesota: Americans, This is Where We Live], 45ad6l, 1455245337.0, 274
+932, [Joe Rogan: [Gary Johnson] is the most reasonable guy running for president], 4vebbq, 1469946168.0, 277
+933, [Germany To Lower Educational Standards For Benefit Of Migrants], 3s4yxw, 1447109043.0, 281
+934, [What the fuck YouGov], 57c0vf, 1476414383.0, 276
+935, [The ACLU Is About to Launch a Campaign Asking Obama to Pardon Edward Snowden], 52eizd, 1473718557.0, 275
+936, [IBD poll: Gary Johnson rises to 1st place with young voters], 4wq598, 1470691732.0, 273
+937, [Gary Johmson: If we had a free market model for health insurance, we would have insurance to cover ourselves for catastrophic injury and illness and we would pay-as-you-go in a system that was very, very affordable"], 4mqkwi, 1465206109.0, 277
+938, [If You Criticize Hillary Online Be Prepared to Confront One of Her Paid Trolls], 4y2as4, 1471415734.0, 274
+939, [Gary Johnson polls at 9% in NBC News National Poll], 4mym7d, 1465328466.0, 275
+940, [Billionaire moves from New Jersey to Florida. Facing tax losses, New Jersey government must reassess budget forecasts.], 4dmdjq, 1459987209.0, 273
+941, [Leaked DNC emails the final straw: Cannot support the status quo, I will vote for Gary Johnson.], 4u5d08, 1469255191.0, 275
+942, [It is better to vote for what you want and not get it than to vote for what you don't want and get it. -Eugene V. Debs], 4txool, 1469145398.0, 269
+943, [Police Shootings are Everyone's Problem: Harvard Study Finds No Racial Bias in Police Shootings.], 4syomf, 1468611793.0, 273
+944, [Great article slamming the war on drugs, and Barack Obama. This is the legacy of all our modern presidents, mass incarceration.], 4y5d5l, 1471466813.0, 273
+945, [Flashback: The Maryland State Police classified 53 nonviolent activists as terrorists and entered their names and personal information into state and federal databases that track terrorism suspects. (And some people want to ban gun sales based on that list?)], 3vqpc7, 1449485874.0, 270
+946, [ABC: Include the Libertarian Party Nominee in General Election Polling], 4mng7m, 1465163221.0, 269
+947, [Gary johnson is now included!], 4meo83, 1465012078.0, 272
+948, [Real Clear Politics Has Finally Added Johnson to the GE Polls], 4m2ycj, 1464837009.0, 272
+949, [Rand Paul: "Use It Or Lose It" on Gov't Spending Needs To Stop], 557r0h, 1475268800.0, 269
+950, [Now that the RNC is over, it's time for Romney and friends to endorse Gary Johnson wish will push him over 15% to get him into the duopoly's debates, and then anything is possible.], 4u8l72, 1469315701.0, 273
+951, [Let's not forget, there are literally hundreds of Libertarians running for state and local offices this year who need our support as well], 4jw73a, 1463599805.0, 269
+952, ["Why do we tell adults what they can put in their bodies?" - Gary Johnson], 4qza3n, 1467526172.0, 268
+953, [Rand Paul Slams CNN After Its Reporter Is Caught Colluding With Hillary Clinton'], 3ua2v1, 1448522909.0, 266
+954, ["Sharing Economy" Reveals that Licensing Laws Are Really About Shutting Down the Competition], 56hn5h, 1475972162.0, 268
+955, [CNN Headline News blurs out a man's Trump for President shirt while explaining how he saved a baby from a hot car.], 50kabb, 1472716089.0, 267
+956, [Bill Weld: "Mr. Trump, Instead of Re-Reading the Art of the Deal for the 400th time; Take out the United States Constitution and Read it for the First Time!"], 4rre94, 1467960326.0, 265
+957, [Rand Paul has double the amount of votes that Jeb(!) Bush has.], 43s607, 1454409726.0, 267
+958, [Larry King says he's voting for Gary Johnson!], 4ysw6h, 1471778795.0, 266
+959, [The amount of Gary Johnson support I'm seeing on my Facebook news feed is just unreal.], 4va89f, 1469875560.0, 267
+960, [Wikileaks releases Smoking Gun Email of Hillary Clinton instructing her staff to remove classified header and send it through a non-secure fax], 4rp7u4, 1467934906.0, 264
+961, [Poll: Gary Johnson largely unknown and drawing double digits], 4ngtl0, 1465601256.0, 264
+962, [Man has $20,000.00 stolen from him by police; money not returned even after prosecutor tries to drop forfeiture case], 4j1h4k, 1463098835.0, 269
+963, [Rand Paul Criticizes Congress On $1.1 Trillion Omnibus Spending Bill That No One Read], 3ykuvm, 1451371396.0, 266
+964, [Richmond Times-Dispatch endorses Gary Johnson for president], 512adn, 1472988138.0, 264
+965, [Libertarian Elected Mayor of South Africa's Largest City], 4z2v1t, 1471929730.0, 263
+966, [Days after the Obama administration approved a major arms sale agreement to Saudi Arabia, Republican senator Rand Paul of Kentucky is considering blocking the move], 4xoqdv, 1471219983.0, 262
+967, [Psychiatrist notices that many people diagnosed as mentally ill are simply just anti-authoritarian.], 4bwica, 1458942400.0, 262
+968, [If I was Gary Johnson...], 54nx58, 1474965322.0, 264
+969, [Gary Johnson at 12% in Fox News Poll, Leads Clinton in Independents], 4nddr3, 1465541182.0, 262
+970, [Post-Debate, Is Rand Paul Back?], 3sh1i1, 1447315395.0, 263
+971, [BREAKING: New York State Independence Party Endorses Johnson/Weld], 51zdw8, 1473480327.0, 261
+972, [Make sure all of you are in your homes before curfew], 516gtv, 1473058485.0, 266
+973, [The naked truth about "you must always listen and believe automatically all the people who cry and claim that they were raped!!!"], 4ym9zk, 1471681754.0, 262
+974, [Libertarian Gary Johnson Gets 11%], 4mujan, 1465267441.0, 261
+975, [Clinton Keeps Saying Trump Would Start A War, But She Actually Started One In Libya], 552jtv, 1475189744.0, 264
+976, [On the anniversary of 9/11 lets remember when Ron Paul would not stand down and give up our Liberty for war mongers], 52aqg7, 1473657273.0, 262
+977, [Saw a Johnson/Weld booth at a cannabis conference in Portland!], 4wnquu, 1470647540.0, 262
+978, [Study finds Uber "lowers the rate of DUIs and fatal accidents".], 4lva9a, 1464731355.0, 258
+979, [President Obama Wants a Back Door on Your Phone. But Not on His], 4a4z1k, 1457837575.0, 260
+980, [TSA Confiscates 5-Year-Olds Disney World Toy, Throws It Away As He Cries], 3tc80c, 1447907175.0, 260
+981, [UN deletes tweet calling free market an "urgent threat" - UN Watch], 52hufs, 1473757483.0, 260
+982, [Obama presidency to end with $20 trillion national debt], 3r7k8d, 1446501101.0, 262
+983, [NEW POLL: Johnson in 2nd, Trump in Nose Dive with Voters Under 30], 4wg3uu, 1470523169.0, 259
+984, [Hey r/all 2016 Presidential Candidates Johnson/Weld want to know are #YouIn?], 4r0d9x, 1467544186.0, 264
+985, [Muh Roads!!!], 58865v, 1476875467.0, 260
+986, [Wearing Dont Tread on Me insignia could be punishable racial harassment], 4w4hml, 1470346008.0, 262
+987, [North Carolina LP will have 18 candidates on the 2016 ballot], 3y3eeq, 1451003549.0, 262
+988, [South Park and The Book of Mormon co-creator Trey Parker says he'll "probably" support Gary Johnson], 512jlk, 1472992586.0, 258
+989, [Police kill family dog at child's birthday party], 4tqi1k, 1469039003.0, 255
+990, [Help Gary Johnson/LP get on the Ballot in PA!], 4oyt02, 1466459330.0, 257
+991, [President Obama Uses Panama Papers to Condemn Government Corruption Demand More Power for Government], 4dmewa, 1459987676.0, 258
+992, [Police Across America Celebrate Freedom this 4th of July with Forced Blood Draw Checkpoints], 4r6wkl, 1467662260.0, 257
+993, [Female Student Said, 'I'm Fine and I Wasn't Raped.' University Investigated, Expelled Boyfriend Anyway.], 4fk0l3, 1461131824.0, 253
+994, [City of Fort Worth Levies $3,000 Fine to Raw Milk Dairy, Located 40 Miles Outside of City Limits], 3wl1s6, 1449995384.0, 255
+995, [University of Alabama students stage protest on campus against racism: demands include separate spaces, funding, recruitment and programs based on race.], 3sqmhl, 1447498857.0, 255
+996, [Saw a friend post this and Lol'd], 54zvsf, 1475142025.0, 255
+997, [CNN Libertarian Town Hall Stream going live now. Tune in at 9pm], 4pdycx, 1466670398.0, 254
+998, [Rand Paul pushes new bill to thwart Obama action on gun control], 3xrpyj, 1450771727.0, 257
+999, [Gary Johnson will be on Meet the Press this Sunday], 4mdox4, 1465000071.0, 253
+1000, [Vermont college that Bernie Sanderss wife once led is closing due to too much debt.], 4jrpob, 1463530823.0, 253
