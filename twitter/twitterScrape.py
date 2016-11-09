@@ -5,17 +5,29 @@ from tweepy.streaming import StreamListener
 import json
 import time
 import re
+import psycopg2
+import datetime
 
 #emoji support
 import sys  
 reload(sys)  
 sys.setdefaultencoding('utf8')
-
+'''
 ckey = "ESH4cnWcKgKVHFPcnIjpAUvbe"
 csecret = "aTOvrDtmqn2I15RZKEANNNhkPsXryAlECDdmbkAp2L268Dw8N8" 
 atoken = "3060784180-REBbkm5XaSZ1XBwpYDL6d6HS12CdXJ7Kz1JEMaR"
 asecret = "CDtvPLmbIheR6GXgd5aIKuD0Jl0vJDpRdSIZqHtwpEcWs"
+'''
+ckey = "ddG8wj7QOLTa2FC2OcfThVv2v"
+csecret = "u4ySl4h8CppB43eCYX37OQOUN3uvJ2qfBkh1x8xTOgqQfmUE7I" 
+atoken = "3060784180-6bT5hk58xwebXAAhclm8IgnWZSBo2mvCX7I7oGE"
+asecret = "62pOOLxYOgCx0Aq8AEJf76yrMUtPJ4oYiTFNA4YCPvmXJ"
+try:
+    conn = psycopg2.connect("dbname='team7' user='team7' host='/tmp/' password=''")
+except:
+    print "database connection error"
 
+curr = conn.cursor()
 
 #fileOut = open("/Users/charliebuckets/Desktop/projects/smScraper/output.txt", "a")
 
@@ -31,38 +43,161 @@ class listener(StreamListener):
             #all_data = json.dumps(json.loads(data))
             
             all_data = json.loads(data)
+            
+            text = all_data["text"]
+            if not type(text) is unicode:
+                print "bad tweet   " + str(text)
+            if len(text) > 161:
+                print "text too long"
+
+            username = all_data["user"]["screen_name"]
+            if not type(username) is unicode:
+                print "bad username   " + str(username)
+            if len(username) > 50:
+                print "username too long"
+
+            timeStampInMilliseconds = int(all_data["timestamp_ms"])
+            if not type(timeStampInMilliseconds) is int:
+                print str(type(timeStamp))
+                print "bad timestamp   " + str(timeStampInMilliseconds)
+            timeStamp = datetime.datetime.fromtimestamp(timeStampInMilliseconds/1000)
+
+            userId = long(all_data["user"]["id"])
+            if not type(userId) is long:
+                print "bad userId   " + str(userId)
+
+            location = all_data["user"]["location"]
+            if location == None:
+                location = "N/A"
+            if len(location) > 100:
+                print "location too long"
+            if not type(location) is unicode and not type(location) is str:
+                print "bad location   " + str(location)
+
+            language = all_data["lang"]
+            if not type(language) is unicode:
+                print "bad language   " + str(language)
+            if len(language) > 20: 
+                print "language too long"
+
+            created_at = all_data["created_at"]
+            if not type(created_at) is unicode:
+                print "bad created_at   " + str(created_at)
+            if len(created_at) > 60: 
+                print "created_at tool long"
+
+            followers_count = int(all_data["user"]["followers_count"])
+            if not type(followers_count) is int:
+                print "bad followers_count   " + str(followers_count)
+
+            tweet_id = long(all_data["id"])
+            if not type(tweet_id) is long:
+                print "bad tweet_id   " + str(tweet_id)
+
+            favorite_count = int(all_data["favorite_count"])
+            if not type(favorite_count) is int:
+                print "bad favortie_count   " + str(favorite_count)
+
+            retweet_count = int(all_data["retweet_count"])
+            if not type(retweet_count) is int:
+                print "bad retweet_count   " + str(retweet_count)
+
+            favorited = int(all_data["favorited"])
+            if not type(favorited) is int:
+                print "bad favorited   " + str(favorited)
+
+            verified = all_data["user"]["verified"]
+            if not type(verified) is bool:
+                print "bad verified   " + str(verified)
+
+            friends_count = int(all_data["user"]["friends_count"])
+            if not type(friends_count) is int:
+                print "bad friends_count   " + str(friends_count)
+
+            timeZone = all_data["user"]["time_zone"]
+            if timeZone == None:
+                timeZone = "N/A"
+            if not type(timeZone) is str and not type(timeZone) is unicode:
+                print str(type(timeZone))
+                print "bad timeZone   " + str(timeZone)
+
+            in_reply_to_status_id_str = all_data["in_reply_to_status_id_str"]
+            if in_reply_to_status_id_str == None:
+                in_reply_to_status_id_str = "N/A"
+
+            if not type(in_reply_to_status_id_str) is unicode and not type(in_reply_to_status_id_str) is str:
+                print str(type(in_reply_to_status_id_str))
+                print "bad in_reply   " + str(in_reply_to_status_id_str)
+
+
+
+
+
+
+
+            '''
             tweet = all_data["text"]            
             username = all_data["user"]["screen_name"]
             timeStamp = all_data["timestamp_ms"]
-            hashTags = all_data["entities"]["hashtags"]
+            #timeStamp = int(all_data["timestamp_ms"])/1000
+            #date = datetime.datetime.fromtimestamp(timeStamp).strftime('%Y-%m-%d %H:%M:%:S')
+            #hashTags = all_data["entities"]["hashtags"]
             userId = all_data["user"]["id"]
             location = all_data["user"]["location"]
             language = all_data["lang"]
             created_at = all_data["created_at"]
-            place = all_data["place"]
+            #place = all_data["place"]
             followers_count = all_data["user"]["followers_count"]
+            tweet_id = all_data["id"]
+            favorite_count = all_data["favorite_count"] 
+            retweet_count = all_data["retweet_count"] 
+            
+            favorited = all_data["favorited"]
+            verified = all_data["user"]["verified"]
+            friends_count = all_data["user"]["friends_count"]
+            timeZone = all_data["user"]["time_zone"]
+            in_reply_to_status_id_str = all_data["in_reply_to_status_id_str"]
+            '''
+
+            ''' 
+            print tweet
+            print username
+            print timeStamp
+            print userId
+            print location
+            print language
+            print created_at
+            #print place
+            print str(followers_count)
+            print tweet_id
+            print favorite_count
+            print str(retweet_count)
+            print favorited
+            print verified
+            print friends_count
+            print timeZone
+            print in_reply_to_status_id_str
+            '''
+            #match = re.search(".?([Hh][Ii][Ll][Ll][Aa][Rr][Yy]).?|([Tt][Rr][Uu][Mm][Pp]).?|([Cc][Ll][Ii][Nn][Tt][Oo][Nn]).?|([Rr][Ee][Pp][Uu][Bb][Ll][Ii][Cc][Aa][Nn]).?|([Dd][Ee][Mm][Oo][Cc][Rr][Aa][Tt]).?|([Dd][Ee][Bb][Aa][Tt][Ee]).?", tweet)
             
             
-            match = re.search(".?([Hh][Ii][Ll][Ll][Aa][Rr][Yy]).?|([Tt][Rr][Uu][Mm][Pp]).?|([Cc][Ll][Ii][Nn][Tt][Oo][Nn]).?|([Rr][Ee][Pp][Uu][Bb][Ll][Ii][Cc][Aa][Nn]).?|([Dd][Ee][Mm][Oo][Cc][Rr][Aa][Tt]).?|([Dd][Ee][Bb][Aa][Tt][Ee]).?", tweet)
-            
-            
-            if match:
-                print tweet
+            #if match:
                 
-            #print all_data
-            with open('debate_fetched_tweets.txt','a') as tf:
-                tf.write(data)
-            #tf.close()
-
-
+                #print all_data
+            #with open('debate_two_fetched_tweets.txt','a') as tf:
+            #    tf.write(data)
+           
+            query = "INSERT INTO tweets(text,username,timeStamp,userId,location,language,created_at,followers_count,tweet_id,favorite_count,retweet_count,friends_count,timezone,in_reply_to_status_id_str,favorited,verified) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s);"
+            data = (text,username,timeStamp,userId,location,language,created_at,followers_count,tweet_id,favorite_count,retweet_count,friends_count,timeZone,in_reply_to_status_id_str,favorited,verified)   
             
-            #tweetString = tweet.encode("utf-8")
-            
+            curr.execute(query,data)
+            conn.commit()
+
             return True
         
-        except BaseException, e:
-            print "Failed in OnData " + str(e)
-            time.sleep(5)
+        except Exception, e:
+            conn.rollback()
+            
     
     def on_error(self, status):
         print status
@@ -75,10 +210,12 @@ class listener(StreamListener):
 auth = OAuthHandler(ckey, csecret)
 auth.set_access_token(atoken, asecret)
 api = tweepy.API(auth)
-
-twitterStream = Stream(auth, listener())
-twitterStream.filter(locations=[-172.863636, 4.671721,  -28.019894, 71.943955])
-
+while True:
+    try:
+        twitterStream = Stream(auth, listener())
+        twitterStream.filter(locations=[-172.863636, 4.671721,  -28.019894, 71.943955], track=['Trump', 'Clinton', 'Donald', 'Hillary', 'Debate', 'Republican', 'Democrat', 'Vote'] )
+    except Exception:
+        pass
 
 ''' SAMPLE TWITTER JSON OBJECT FROM STREAM
 {u'contributors': None, 
@@ -145,6 +282,7 @@ twitterStream.filter(locations=[-172.863636, 4.671721,  -28.019894, 71.943955])
 }
 '''
 '''
+
 for tweet in tweepy.Cursor(api.search, q="hate trump", lang = "en").items(300):
 #    print tweet.text.encode("utf-8")
     count = count + 1
