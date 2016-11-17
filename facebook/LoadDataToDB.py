@@ -1,12 +1,12 @@
 #-*- coding: utf-8 -*-
 import glob
-#import psycopg2 as psql
+import psycopg2 as psql
 import re
 import time
 
 class Load_To_DB(object):
     def __init__(self):
-        self.file_list = glob.iglob("data\\*.csv")
+        self.file_list = glob.iglob("data/*.csv")
         # self.file_list = './data/cnn_2016_11_08_11_13_56.csv'
         # self.file_list = './data/_test.csv'
         # self.file_list = './data/pbs_2016_10_31_13_12_07.csv'
@@ -134,7 +134,7 @@ class Load_To_DB(object):
                         index += 1
             except BaseException, e:
                 print '-----in file: ' + csvfile + '-----'
-                print '-----in line: ' + index + '-----'
+                print '-----in line: ' + str(index) + '-----'
                 print str(e)
             except IOError:
                 print 'Failed To Open ' + csvfile
@@ -142,7 +142,7 @@ class Load_To_DB(object):
                 file_read.close()
             print >> logWrite, 'In file %s, %d records were loaded into database' % (csvfile, eachFileCount)
         logWrite.close()
-        # conn.close()
+        conn.close()
         print '%d Files Loaded' % (fileCount)
         print '%d Records Loaded' % (totalLoadCount)
 if __name__ == '__main__':
