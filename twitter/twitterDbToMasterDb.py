@@ -1,5 +1,6 @@
 
 
+import psycopg2
 
 
 try:
@@ -10,18 +11,30 @@ except:
 curr = conn.cursor()
 
 try:
+    query = "DELETE FROM temp_master_data WHERE source = 'twitter';"
+    curr.execute(query)#,data)
+    conn.commit()
+    
+    query = "INSERT INTO temp_master_data (identifier, source, comment, likes) SELECT tweet_id::text, 'twitter', text, favorite_count+retweet_count  FROM tweets LIMIT 10;"
+    #query = "UPDATE master_data SET comment = (SELECT text::text FROM tweets WHERE tweets.tweet_id::text = master_data.identifier);"
+    #query = "SELECT * FROM master_data WHERE source = 'twitter';" 
 
-    query = INSERT INTO master_datai
+            #data = (text,username,timeStamp,userId,location,language,created_at,followers_count,tweet_id,favorite_count,retweet_count,friends_count,timeZone,in_reply_to_status_id_str,favorited,verified)
 
-           query = "INSERT INTO master_data (comment, likes, source, identifier) SELECT (text, favorite_count, 
+    curr.execute(query)#,data)
+    conn.commit()
 
-"INSERT INTO tweets(text,username,timeStamp,userId,location,language,created_at,followers_count,tweet_id,favorite_count,retweet_count,friends_count,timezone,in_reply_to_status_id_str,favorited,verified) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s);"
-            data = (text,username,timeStamp,userId,location,language,created_at,followers_count,tweet_id,favorite_count,retweet_count,friends_count,timeZone,in_reply_to_status_id_str,favorited,verified)
+    
+    query = "SELECT * FROM temp_master_data WHERE source = 'twitter';"
+    
+    curr.execute(query)#,data)
+    conn.commit()
 
-            curr.execute(query,data)
-            conn.commit()
-
-            return True
+    rows = curr.fetchall()
+    
+    for row in rows:
+        print row
 
 except Exception, e:
+    print str(e)
     conn.rollback()
