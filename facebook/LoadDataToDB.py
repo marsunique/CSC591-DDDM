@@ -1,5 +1,6 @@
 #-*- coding: utf-8 -*-
 import glob
+import psycopg2 as psql
 
 class Load_To_DB(object):
     def __init__(self):
@@ -9,6 +10,10 @@ class Load_To_DB(object):
     def print_file_list(self):
         print self.file_list
     def mock_run(self):
+        conn = psql.connect(database = 'team7')
+        if conn != None:
+            print "Database Connection Successful"
+        cur = conn.cursor()
         file_read = open(self.file_list)
         isRelevant = 0
         try:
@@ -34,6 +39,12 @@ class Load_To_DB(object):
                         line = lines[index].strip().split('|')
                         line = [s.strip() for s in line if s]
                         print line
+                        likes = line[2]
+                        identifier = line[3]
+                        comment = line[4]
+                        cur.execute("INSERT INTO temp_master_data (comment, likes, source, identifier)\
+                                VALUES (%s, %s, %s, %s)",(comment, likes, 'facebook', identifier));
+                        conn.commit()
                     index += 1
                     
 
@@ -46,6 +57,7 @@ class Load_To_DB(object):
 
 
         finally:
+            conn.close()
             file_read.close()
     def run(self):
         for csvfile in self.file_list:
