@@ -6,7 +6,7 @@ import time
 
 class Load_To_DB(object):
     def __init__(self):
-        self.file_list = glob.iglob("data/*.csv")
+        self.file_list = glob.iglob("data_test/*.csv")
         # self.file_list = './data/cnn_2016_11_08_11_13_56.csv'
         # self.file_list = './data/_test.csv'
         # self.file_list = './data/pbs_2016_10_31_13_12_07.csv'
@@ -126,7 +126,7 @@ class Load_To_DB(object):
                             identifier = line[3]
                             comment = line[4]
                             if comment:
-                                cur.execute("INSERT INTO facebook_master_data (comment, likes, source, identifier)\
+                                cur.execute("INSERT INTO normalization_test (comment, likes, source, identifier)\
                                         VALUES (%s, %s, %s, %s)",(comment, likes, 'facebook', identifier));
                                 conn.commit()
                                 eachFileCount += 1
