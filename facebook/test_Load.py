@@ -19,6 +19,7 @@ class Load_To_DB(object):
             ]
     def print_file_list(self):
         print self.file_list
+    '''
     def mock_run(self):
         fileCount = 0
         fileCount += 1
@@ -77,6 +78,7 @@ class Load_To_DB(object):
             # conn.close()
             file_read.close()
         print fileCount
+    '''
     def run(self):
         conn = psql.connect(database = 'team7')
         if conn != None:
