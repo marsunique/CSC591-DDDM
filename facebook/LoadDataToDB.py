@@ -126,7 +126,7 @@ class Load_To_DB(object):
                             identifier = line[3]
                             comment = line[4]
                             if comment:
-                                cur.execute("INSERT INTO temp_master_data (comment, likes, source, identifier)\
+                                cur.execute("INSERT INTO facebook_master_data (comment, likes, source, identifier)\
                                         VALUES (%s, %s, %s, %s)",(comment, likes, 'facebook', identifier));
                                 conn.commit()
                                 eachFileCount += 1
