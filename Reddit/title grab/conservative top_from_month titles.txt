@@ -1,0 +1,1001 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Thanks NBC, im glad we cleared that up..], 56pycg, 1476097906.0, 3566
+2, [Oh, Huffpo.], 58grvj, 1476998247.0, 2244
+3, [It's illegal for you to read the leaked emails, only we are allowed to do it. (X-post /r/AnarchoCapitalism)], 57rujc, 1476659892.0, 1896
+4, [I'll drink to that!], 57nixp, 1476586863.0, 1781
+5, [Clinton has 'nothing to say' about email revealing $12M deal with Morocco's king], 594isv, 1477344852.0, 1440
+6, [Liberal hypocrisy], 590elx, 1477281459.0, 1386
+7, [Hillary Clinton campaign WikiLeaks emails reveal disdain for Catholics, Southerners, 'needy Latinos'], 57a7h8, 1476393617.0, 1323
+8, [Washington Post on Comey: Before and After Clinton FBI Investigation Re-Opening], 5a765t, 1477877904.0, 1232
+9, [Recent Poll Shows More Americans Want Clinton Indicted than Want Her to Be President], 5a05y6, 1477771686.0, 1012
+10, [I see your sign, and raise you my windows], 5a3eim, 1477813987.0, 981
+11, [Free speech...], 57xiur, 1476742453.0, 977
+12, ["Politifact is a legitimate fact checker"], 58c4yx, 1476932988.0, 816
+13, [Rigging the Election - Video II: Mass Voter Fraud], 5858qu, 1476842117.0, 804
+14, [Hillary the Philanthropist], 55oe7u, 1475539872.0, 771
+15, [WikiLeaks: It Took 12 Clinton Staffers 12 Hours And 10 Drafts To Write One Tweet], 59ueyi, 1477690327.0, 770
+16, [LGBT Against Islamaphobia...], 564y2p, 1475782845.0, 766
+17, [The reason people mistrust Hillary Clinton...], 56bg3n, 1475877098.0, 757
+18, [the Choice], 59nvpq, 1477602724.0, 708
+19, [WOW! Hypocrite Hillary Clinton Used SAME TAX AVOIDANCE LAW as Trump to Save Money on Taxes], 55kzq9, 1475481061.0, 705
+20, [Leaked Emails Show Clinton Campaign Coordinating With Soros Organization], 56ltkl, 1476041352.0, 683
+21, [Dem Operative Who Oversaw Trump Rally Agitators Visited White House 342 Times], 589zmw, 1476908882.0, 653
+22, [Jack Abramoff: I Was Imprisoned for Same Things Hillary Clinton Has Done], 57gfgk, 1476481706.0, 633
+23, [Study: Liberal professors outnumber conservatives 12 to 1], 56h1yv, 1475963969.0, 616
+24, [CAUGHT ON CAMERA: Clinton Staffer Says I Could Grab [Her] Ass and Not Get Fired; Ripping Up Ballots is Fine | Project Veritas Action], 57413i, 1476307484.0, 620
+25, [George... REKT], 55zso5, 1475707350.0, 619
+26, [The awful truth...], 5ac2ut, 1477947667.0, 626
+27, [An inconvenient truth...], 55mh08, 1475505393.0, 546
+28, [Rigging the Election - Video I: Clinton Campaign and DNC Incite Violence at Trump Rallies], 57y6dj, 1476749784.0, 536
+29, [HIDDEN CAM: NYC Democratic Election Commissioner admits voter fraud does indeed exist], 56xmgj, 1476215921.0, 527
+30, [Look! Donald Trump just called some girl fat!!], 55i32y, 1475441306.0, 516
+31, [Then & Now...], 565rzd, 1475794670.0, 507
+32, [Shocked!], 58t5wf, 1477172328.0, 504
+33, [Tim Kaine Holds Rally and Only 30 People Show Up!], 59aih7, 1477423769.0, 494
+34, [They're not rigged!], 58tzs0, 1477184093.0, 493
+35, [WikiLeaks: More evidence Obama knew and lied about Hillary's email server], 59cehq, 1477446135.0, 476
+36, [Trump announcement today shook the Obama Administration to the core], 581jyb, 1476787666.0, 468
+37, [Not so smart...], 55tjx4, 1475617702.0, 433
+38, [Liberal pundits concede: Mike Pence won the vice-presidential debate], 55zazf, 1475700799.0, 433
+39, [Jason Chaffetz on Twitter: "FBI Dir just informed me, "The FBI has learned of the existence of emails that appear to be pertinent to the investigation." Case reopened"], 59vovh, 1477704312.0, 429
+40, [Progressives assault homeless black woman protecting Trump's Hollywood Star.], 59xhth, 1477723773.0, 417
+41, [Woman Backtracks on Assault Claim After O'Keefe Video], 58n8bz, 1477085682.0, 411
+42, [Ted Cruz Lets Loose on Why He's Standing by Trump: "Hillary Clinton Is an Absolute Disaster"], 56za2j, 1476236506.0, 403
+43, [The Best Debate...], 56bd17, 1475875929.0, 392
+44, [GAMECHANGER: New WikiLeaks Confirms Hillary DELIBERATELY, Criminally Deleted Emails], 56vpvv, 1476179258.0, 385
+45, [Remember when...], 59hf4m, 1477516250.0, 377
+46, [Common sense regarding Russia], 58vnn7, 1477204813.0, 373
+47, [Lawsuit: Yahoo CEO Marissa Mayer led illegal purge of male workers], 56a4jg, 1475851840.0, 370
+48, [Democrat Corruption is Much Worse Than Trump], 59gqhp, 1477505148.0, 367
+49, [Democrats Agree Trump's Accusers Should Be Believed. So, Here's a Full List of Every One of Bill Clinton's.], 57j772, 1476513792.0, 366
+50, [Trump has 2-point edge in new Florida poll], 59igaz, 1477527756.0, 346
+51, [Trey Gowdy - Hillary Clinton Can Release All 650,000 Emails TODAY if She Wants Transparency], 5acb9x, 1477950586.0, 351
+52, [Political insider - Secret Service Agent Says "Good Morning" To Hillary - She Responds with "F--k off"], 583rxq, 1476826122.0, 330
+53, [Feel The Bern], 5a5tou, 1477859886.0, 323
+54, [2Breaking: Smoking gun showing Obama Lied to the American public about HRC email server and when he found out. MSM claims Obama never stated he found out via the press. Here's proof that he did.], 59bpdm, 1477438876.0, 315
+55, [Trumps Business record is dissected. Let's look at HRC record in U.S. Senate. Hillary Clinton got ONE bill she sponsored written into law. The renaming of a building. She NEVER EVEN ATTEMPTED to pass legislation helping women or children.], 56hbta, 1475967997.0, 312
+56, [Blue Lives Matter is boycotting Ben & Jerry's for its support of Black Lives Matter], 56zest, 1476237939.0, 304
+57, [Ron Paul calls Black Lives Matter a racially divisive group that doesn't understand economics], 563jef, 1475753863.0, 299
+58, ["Because you'd be in Jail"], 56pxkm, 1476097646.0, 300
+59, [FBI probing new Clinton emails], 59vmpy, 1477703700.0, 282
+60, [Busty Ross], 58p487, 1477106969.0, 282
+61, [It's not rigged!], 58yx3s, 1477263772.0, 273
+62, [The Law, not a person, not a pundit, not a blogger, says Hillary is not allowed to be President.], 5a6yp4, 1477875563.0, 267
+63, [FBI reopening Clinton email investigation], 59vni6, 1477703918.0, 267
+64, [CNN cuts satellite feed as soon as WikiLeaks is mentioned by Congressman Collins], 58awk7, 1476920109.0, 262
+65, [Funny how that works...], 59uw7f, 1477695940.0, 254
+66, [2006 Audio Emerges of Hillary Clinton Proposing Rigging Palestine Election], 59w3s2, 1477708438.0, 242
+67, [Reddit Admins ban /r/The_Donald from mentioning /r/politics out of fear of harassment/brigading of their mods and board], 57gew0, 1476481485.0, 247
+68, [To be white is to be racist, Norman student offended by teachers lecture], 583sed, 1476826291.0, 239
+69, [Cruz: I'm still backing Trump], 56zrfm, 1476241832.0, 229
+70, [Donna Braziles Deception Is a Symbol For the Big Media Lie], 58yfqk, 1477256338.0, 230
+71, [The New Deplorables: Clinton Campaign Staffers Trash Catholics], 5740s2, 1476307372.0, 232
+72, [Limbaugh: 'Ironic That The Democrat Party Wants to Throw Down the Morality Card'], 570j54, 1476250320.0, 229
+73, [Newly Leaked Emails Reveal Unprecedented Coordination Between Hillary Campaign And Press], 56rzdb, 1476135433.0, 227
+74, [Father Morris: Clinton camp mocking Catholics is 'bigotry'], 577oec, 1476349655.0, 225
+75, [WIKILEAKS: Hillary Staffers Were Happy About Killing of Black Teen to Advance Gun Control This is Great], 59p0cr, 1477615423.0, 224
+76, [Obama has sure changed his tune on Hillary's Track Record], 571ow1, 1476265191.0, 225
+77, [Donald J. Trump: "Paul Ryan should spend more time on balancing the budget, jobs and illegal immigration and not waste his time on fighting Republican nominee"], 56tgrr, 1476152480.0, 220
+78, [New poll: 34 percent 'less likely' to vote for Clinton after new email revelations], 5a6os4, 1477872290.0, 218
+79, [Study: Clinton's tax hikes would kill 700,000 jobs], 5751g9, 1476319197.0, 217
+80, [Why Don't We Hear About Soros' Ties to Over 30 Major News Organizations?], 58vuvg, 1477207554.0, 213
+81, [Trump recorded having extremely lewd conversation about women in 2005], 56df03, 1475900149.0, 215
+82, [Activist Who Took Credit For Violent Chicago Protests Was On Hillarys Payroll], 583rp6, 1476826035.0, 213
+83, [University president: Transgender ideology dumbs down the definition of the human being], 55iort, 1475451100.0, 208
+84, [Wikileaks: Erica Garner Rips Clinton Campaign for Calculating How to 'Use' Father's Death], 59qgyg, 1477630617.0, 205
+85, [Rand Paul returns $620,000 to the US Treasury], 59ilfg, 1477529240.0, 208
+86, [Watch Clinton Operative Brag About Starting Anti-Trump Chicago Riots That Injured Two Police Officers - DCWhispers.com], 57zpkb, 1476765721.0, 208
+87, [Rigging the Election - Video IV: $20K Wire Transfer From Belize Returned], 59j2ra, 1477534130.0, 208
+88, [Compare & Contrast], 57jf9n, 1476516819.0, 208
+89, [Decisions, decisions...], 55tdvm, 1475615317.0, 206
+90, [John Podesta ageees that the Iran Nuclear Deal "is the greatest appeasement since Chamberlain gave Czechoslovakia to Hitler."], 58nffn, 1477088159.0, 204
+91, [Jake Tapper: Do you believe all the claims made against a politician you hate but none against a politician you like? You might want to think about that.], 57h9rv, 1476491685.0, 201
+92, [The New York Times abandoned its integrity just to bash Donald Trump], 573lxd, 1476301118.0, 201
+93, [The FBI's Own Investigation Summary Proves Hillary Broke The Law], 583wg4, 1476827721.0, 200
+94, [Cruz: GOP may block Supreme Court nominees indefinitely], 59lbn3, 1477559684.0, 201
+95, [Ben Shapiro Destroys The Abortion Argument], 569b2w, 1475837715.0, 200
+96, [Democrats Don't Care About Democracy, They Care About Hillary], 5acbie, 1477950667.0, 208
+97, [Trump releases seven-point health care reform plan . . . and it's excellent], 5a9o2r, 1477906516.0, 196
+98, [List of States Allowing you to Change Your Vote in Light of Hillarys Federal Investigation], 5a6dy1, 1477868516.0, 199
+99, [Wikileaks Reveals Clinton Camp Was Posting FAKE "Sexist Trump Job Ads" On Craigslist], 57ho5l, 1476496006.0, 198
+100, [Facebook Employees Pushed to Remove Trumps Posts as Hate Speech], 58oz0k, 1477105373.0, 198
+101, [Ben Carson to Bill Clinton: 'I don't think I'm a redneck'], 575hm1, 1476323960.0, 197
+102, [Whether It's John McCain, Mitt Romney or Donald Trump, Democrats Always Run War on Women Campaign], 59hgtd, 1477516820.0, 194
+103, [DNC caught inciting violence at Trump rallies], 57z6q5, 1476760227.0, 193
+104, [Conflict of Interest: PolitiFact and the Clinton Foundation Share Megadonor], 55wptw, 1475655354.0, 193
+105, [NRA says Clinton said something she said. Politifact says NRA claim 'mostly false'], 5852c8, 1476840331.0, 191
+106, [Hillary Clinton in 2002: George W. Bush Was 'Selected, Not Elected'], 58gtfh, 1476998816.0, 186
+107, [Chaffetz: FBI Allegedly involved in "Quid Pro Quo" With Clinton], 57xdtg, 1476740699.0, 188
+108, [Rigging the Election  Video III: Creamer Confirms Hillary Clinton Involvement], 595lfg, 1477356731.0, 187
+109, [A Democrat-led crowdfunding campaign raised $13,000 to rebuild the bombed GOP office in North Carolina], 57vw65, 1476712956.0, 184
+110, [BREAKING: Federal Elections Commission Suit Filed Against Hillary], 58q6xj, 1477119371.0, 182
+111, [WikiLeaks 18: Cheryl Mills Confirms Obama Used Private Email we need to clean this up  he has emails from her  they do not say state.gov], 59bnsn, 1477438401.0, 184
+112, [Support For Assault Weapons Ban Hits Record Low], 59jw1w, 1477542676.0, 181
+113, [Texas Trump Voters Say Presidential Picks Were Switched to Hillary  Election Officials Cite 'Voter Error'], 59khwz, 1477549327.0, 177
+114, [Elections Expert: "We Now Have 4 Million Ineligible and Dead Voters on American Voter Rolls"], 583vjb, 1476827409.0, 179
+115, [US Chess Champion: Id Rather Sacrifice My Career Than Be Forced to Wear a Hijab], 55nzx8, 1475535014.0, 176
+116, [Ted Cruz Accuses NBC of Orchestrating an October Surprise], 56uoqj, 1476165808.0, 174
+117, [CNN Formally Severs Ties With Donna Brazile: Completely Uncomfortable With Question-Sharing], 5ad8a4, 1477959990.0, 190
+118, [Weiner: Before & After], 5a6lff, 1477871151.0, 175
+119, [Hillary routinely bullied her bodyguards  and with the worst language possible.], 59auo2, 1477428898.0, 171
+120, [Why aren't we being honest with ourselves about the state of the campaign?], 56t67i, 1476149269.0, 173
+121, ['We are losing control of the streets' Merkel's Germany descends into lawlessness], 5afr8g, 1477984706.0, 299
+122, [ABC NEWS: How The Clintons Raped The People Of Haiti], 571esr, 1476261419.0, 175
+123, [WikiLeaks Dump: Top Clinton Aides Mock Catholicism, Evangelical Christianity], 572pec, 1476281099.0, 169
+124, [Hillary Clinton: Supreme Court 'Is Wrong on the Second Amendment'], 56xv2l, 1476219685.0, 172
+125, [Hillary Directly Fundraised For PAC That Gave Nearly $500K To Wife Of FBI Official Who Led Email Probe - Vessel News], 59r2qe, 1477637489.0, 171
+126, [Clarence Thomas Is Conspicuously Absent In The New Black History Smithsonian], 55zicn, 1475703667.0, 170
+127, [[Breaking] Republican HQ in NC firebombed: "Nazi republicans get out of town or else".], 57t5kb, 1476675417.0, 165
+128, [Poll Shows Clintons Lead Was Crumbling, Before FBI Bombshell], 5a2uqe, 1477806890.0, 169
+129, [How Curious: Hillary VP Tim Kaine Has Dinner With Son of George Soros], 55zmj0, 1475705233.0, 165
+130, [Has liberalism ruined entertainment for you yet?], 59lo05, 1477564210.0, 165
+131, [Obama administration confirms double-digit premium hikes], 59j7nt, 1477535542.0, 169
+132, [One-third of millennials believe more people killed under George W. Bush than under Stalin], 5807mb, 1476771185.0, 166
+133, [Trolls Who Post 'Humiliating' Memes Could Be Jailed Under UK Guidelines], 56xx7b, 1476220517.0, 164
+134, [Happy Halloween...], 5acg4b, 1477952088.0, 175
+135, [Obama Lied. My Third Health Plan Just Died.], 57591s, 1476321444.0, 163
+136, [Mike Pence Sets Internet on Fire When He Proudly Declares 'Police Officers Are the Best of Us'], 55zr6t, 1475706847.0, 167
+137, [Trump Pledges To Drain The Swamp And Impose Congressional Term Limits | Donald J Trump for President], 58658o, 1476851271.0, 163
+138, [Trump holds press conference with women who've accused Bill Clinton of sex assault, rape], 56p2oa, 1476086402.0, 161
+139, [Ben Shapiro: The Myth of the Tiny Radical Muslim Minority], 566r7i, 1475805892.0, 160
+140, [Mike Pence the most conservative nominee of all, according to American Conservative Union -- Tim Kaine deemed left of Obama, Clinton], 55wf0a, 1475651392.0, 161
+141, [Wrong, PolitiFact: Hillary Supports Unlimited, Tax-Funded Abortion], 57fy4l, 1476474806.0, 160
+142, [Elijah Cummings And Others Dems Leaked Information To Hillarys Lawyers While Being Part Of The Special Committee on Benghazi], 56w2kd, 1476184096.0, 163
+143, [I miss the days when the biggest controversy by a candidate was "Binders full of women".], 56eyl4, 1475921316.0, 165
+144, [Hill's Shills: Hillary Clintons Correct The Record (aka Paid Trolls) names publicly listed on FEC website], 567rec, 1475816962.0, 160
+145, [Abedin implicated Clinton in foundation trade-off with Morocco amid $12 million commitment], 58so2p, 1477163329.0, 157
+146, [10,000 Supporters at Pennsylvania Trump Rally Chant 'CNN Sucks'], 56y6lx, 1476224058.0, 159
+147, [Trump going to war with GOP: "So many self-righteous hypocrites. Watch their poll numbers - and elections - go down!"], 56muxe, 1476058511.0, 158
+148, [New Emails: Hillary Needs Podium, Cannot Walk Around], 589ywi, 1476908578.0, 155
+149, [NBC -- Planned to Use Trump Audio to Influence Debate, Election], 575m1r, 1476325233.0, 156
+150, [Scarborough: "We Love Working Here," But NBC Poll Showing Clinton +14 "Couldn't Have Been Cooked More"], 571lva, 1476264072.0, 158
+151, [Super Bowl champion Burgess Owens has a message about the Democratic Party. The Democratic Party has been anti-black for over 150 years! It was the Republican Party  the party of Lincoln  that fought against slavery, segregation, Jim Crow, KKK. The Davis-Bacon Act.], 57a6x3, 1476393414.0, 154
+152, [Pence: I never considered leaving Trump ticket], 56uegv, 1476162501.0, 154
+153, [Awkward], 56ruqt, 1476133551.0, 154
+154, [Pence Tells Donors He Is Fully Committed to Trump], 56kui6, 1476017672.0, 155
+155, [This Debate is rigged...], 58aeqv, 1476914492.0, 153
+156, [Trump Accuser Said He Abusively 'Nudged' Her at a Concert That Never Happened], 57dkbc, 1476432452.0, 153
+157, [Tracking Matthew], 567wyy, 1475818776.0, 153
+158, [WIKILEAKS: Hillary Clinton Needed Someone to Sober Her Up at 4:30 in the Afternoon], 59iamv, 1477526155.0, 149
+159, [John Podesta's Best Friend At The DOJ Will Be In Charge Of The DOJ's Probe Into Huma Abedin Emails], 5afgmk, 1477981548.0, 254
+160, [DOJ stalling: won't give FBI a warrant to review new Abedin emails linked to Clinton probe], 5a5j6f, 1477853825.0, 147
+161, [New Evidence Links Voting Machines And Clinton Foundation], 59thrg, 1477674634.0, 147
+162, [Mitt Romney on Twitter: Hitting on married women? Condoning assault? Such vile degradations demean our wives and daughters and corrupt America's face to the world], 56eln7, 1475915847.0, 148
+163, [Harry Reid lied about Mitt Romneys taxes. Hes still not sorry -- Responds: "Romney didn't win, did he?"], 59crmj, 1477449873.0, 144
+164, [Clinton Campaign, DNC Coordinated With Organizations To Incite Violence At Trump Events - Shown in New O'Keefe Video], 57zoki, 1476765429.0, 149
+165, [NY TIMES 1996 - Americans of all political persuasions are coming to the sad realization that our First Lady - a woman of undoubted talents who was a role model for many in her generation - is a congenital liar.], 577ake, 1476344544.0, 143
+166, [Donald Trump says the latest FBI documents on Hillary Clinton prove 'corruption at the highest level'], 581w3k, 1476792452.0, 146
+167, [What happens when you overdose Socialism], 57s403, 1476663236.0, 146
+168, [Ron Paul Wont Vote for Gary Johnson, and Hes Right], 55nral, 1475531897.0, 141
+169, ['You caused your son great harm by insisting on raising him as a girl': Boy, seven, is sent to live with father after his mother raised him as her daughter], 58ub5g, 1477187936.0, 138
+170, [It's Worse! Military is LIVID at Hillary's TOP SECRET Classified Leak], 58paxy, 1477109073.0, 141
+171, [Science vs. Liberal Science...], 55iwi8, 1475454020.0, 139
+172, [Insiders At FBI And DOJ: Decision To Let Clinton Slide Was Top Down], 57g8og, 1476479122.0, 139
+173, [Ted Cruz: Every wife, mother, daughter -- every person -- deserves to be treated with dignity and respect.], 56fabz, 1475926522.0, 138
+174, [Five FBI Field Offices are investigating the Clinton Foundation], 5acl8v, 1477953665.0, 151
+175, [CNN: Clinton Nuke Launch Talk Exposed Extremely Classified Info, Military Not Exactly Thrilled], 58q5t9, 1477118979.0, 138
+176, [America responds to celebrities telling us to vote for Hillary], 55skt1, 1475599536.0, 139
+177, [Bias Alert: Ny Times Reports On 7-Year-Old's Scary Dream About Trump], 59hqzj, 1477520278.0, 133
+178, [Gov. Mike Pence says media coverage of North Carolina firebombing 'would be significantly different' if Democrats had been attacked], 585fj1, 1476844020.0, 138
+179, [Sailor's Mom Calls Out Double Standard: Son Is Going to Jail, But No Charges for Hillary?], 56bc8o, 1475875625.0, 136
+180, [McAuliffe-FBI-Hillary 'payoff' scandal explodes -- Clinton headlined fundraiser for $500,000 donation to wife of agency boss], 59q6g9, 1477627536.0, 134
+181, [Obamacare Premiums going up by an average of 25% next year...], 5983em, 1477383595.0, 134
+182, [Trump Vows to Sue DNC For Staging Violence at His Rallies  Subverse], 58vuxo, 1477207580.0, 134
+183, [Megyn Kelly vs. Donna Brazile: Did You Receive Debate Question Beforehand?; Brazile: I Will Not Be "Persecuted"], 58jwsy, 1477032432.0, 133
+184, [Homeless Woman Guards Donald Trump's Hollywood Walk of Fame Star], 59r6zc, 1477638896.0, 131
+185, [We scored the vice presidential debate and Mike Pence won], 55ytxs, 1475692434.0, 129
+186, [Obama's golf weekend with Tiger Woods in 2013 cost taxpayers more than $3.6M], 59psi4, 1477623538.0, 129
+187, [Hillary Clinton embraces George Soros' 'radical' vision of open-border world], 58nfu4, 1477088281.0, 127
+188, [MEDIA CORRUPTION: Hillary Up 5 Points in AZ Poll That Interviewed Nearly TWICE as Many Democrats as Republicans], 58d7rq, 1476944453.0, 132
+189, [BBC is biased toward the left, study finds: The BBC are more likely to cover left-wing think tank reports and to hail them as independent while giving right-wing research a health warning by pointing out its ideological position, the Centre for Policy Studies have found.], 5a7b7h, 1477879470.0, 129
+190, [Islamic extremist who said gay men's heads should be chopped off is now teaching children in London], 56gv63, 1475960736.0, 128
+191, [Black History Museum Omits Clarence Thomas, But Guess Who They Decided To Include...], 55zvcs, 1475708303.0, 129
+192, [Memo shows Bill Clinton's wealth tied to Clinton Foundation], 59qfqq, 1477630263.0, 128
+193, [I paid $40k to be told how to vote.], 5765io, 1476331041.0, 126
+194, [Sen. John McCain withdraws support for Donald Trump], 56j18w, 1475989887.0, 130
+195, [Donald Trump Totally Called It That Anthony Weiner Was A Security Risk], 59xyt4, 1477729863.0, 130
+196, [North Carolina Hillary Supporter Brags on Facebook About Voting Multiple Times], 59scew, 1477653418.0, 128
+197, [Wikileaks: Multiple US Sources say Kerry Asked Ecuador To Stop Assange], 5841c2, 1476829337.0, 123
+198, [Dallas Stars Will Honor Slain Police Officers With Helmet Decal [PHOTO]], 57lliq, 1476558283.0, 129
+199, [Bill Clinton Mocks Trump's Base as 'Your Standard Redneck'], 572v4y, 1476284368.0, 124
+200, [Bombshell: Over 1,000 Illegal Voters in Eight Virginia Localities], 55kics, 1475474444.0, 126
+201, [Chaffetz: "We've got two years worth of" Hillary investigations], 59o7tl, 1477606877.0, 126
+202, [Justice Sotomayor: I Fantasized About Hitting Scalia With A Baseball Bat], 58765t, 1476862647.0, 126
+203, [Four Men Arrested In Attack On Alabama Teen Who Said 'Blue Lives Matter' - The men, all former Sylacauga High School students, were arrested Tuesday after the Sept. 30 attack against 17-year-old Brian Ogle.], 57a6b3, 1476393188.0, 124
+204, [Good Grief. Hillary Tells Black Radio Host She Appreciates Rap Music - Tells Hispanic Host She Loves Mexican Food], 59ozwb, 1477615292.0, 121
+205, [Mark Levin defines Hillary's America: A massive, choking administrative state], 59gq77, 1477504989.0, 124
+206, ['Clean This Up:' Wikileaks Shows Hillary Aides Scrambling Over Obama's Email Scandal Lie], 59cs15, 1477449987.0, 121
+207, [Hillary Clinton on environmentalists: Get a life], 57jxyk, 1476524407.0, 122
+208, [More Illegal Immigrant Voters Discovered In Philly], 58ml69, 1477075875.0, 119
+209, [WikiLeaks Releases 2,050 Emails From Clinton Campaign Chairman John Podesta], 56ebf9, 1475911682.0, 119
+210, [FBI reopens investigation into Clinton email use], 59votk, 1477704296.0, 122
+211, [Wikileaks], 57x4k7, 1476737252.0, 120
+212, [FBI, DOJ roiled by Comey, Lynch decision to let Clinton slide by on emails, says insider], 576pog, 1476337373.0, 116
+213, [Black Americans for Trump: Ice Cube, Mike Tyson, Shaq, 50 Cent, Sean Combs, and others!], 59cbis, 1477445262.0, 121
+214, [Conservative speaker Ben Shapiro lectures at Yale], 55wn6r, 1475654379.0, 120
+215, [Crooked], 5ac5jm, 1477948578.0, 123
+216, [PhD gives up trying to reason with SJWs], 59gewb, 1477498323.0, 118
+217, [The Bully Party], 59dj3n, 1477458003.0, 113
+218, [Amazon pulls offensive sexy burka costume. Sexy Nun, Sister, Habit, and Priest still available], 56dd8e, 1475899568.0, 116
+219, [Jake Tapper: Isn't this really all kinda Hillary's fault?], 5ade0g, 1477961499.0, 125
+220, [We made history], 5a0jl4, 1477778252.0, 118
+221, [Steven Crowder's rebuttal of Samantha Bee's abortion lies.], 59nlht, 1477598746.0, 112
+222, [Watch the video Clinton tried to ban. Perfect for a relaxing Sunday.], 58ynz7, 1477260084.0, 113
+223, [Wikileaks Release: Hillary Clinton Press Sec Says Gun Control to Be Implemented by Executive Order], 56fh7e, 1475929784.0, 112
+224, [Note to NeverTrumpers: Just Because You Dislike Trump Doesn't Make Hillary Anything But Horrible], 5adfe9, 1477961845.0, 132
+225, [Huh. Seems the Clinton Foundation Is Also Under FBI Investigation.], 5ac7xy, 1477949446.0, 119
+226, [Deputies: Woman mistakes meeting for Trump gathering, vandalizes 30+ cars], 58t67s, 1477172484.0, 110
+227, [Ted Cruz: "Voter fraud operative: 45 meetings w/ Obama--this merits a serious criminal investigation (not a James Comey "friends and family" cover-up)."], 58d8dt, 1476944648.0, 112
+228, [EXCLUSIVE: FBI Agents Say Comey Stood In The Way Of Clinton Email Investigation], 584k6s, 1476835178.0, 113
+229, [Pro-Hillary students busted for campaigning with school resources], 59o9uj, 1477607533.0, 112
+230, [Load of manure dumped at Democratic Party HQ in Ohio], 5a5zkq, 1477862717.0, 112
+231, [Trump: Clintons Are Now Wealthy; They Didn't Create Or Produce Anything But Sell Out The American Worker], 5a0e28, 1477775774.0, 109
+232, [Liberal Billionaire George Soros Mentioned Over 50 Times In Leaked Hillary Campaign Emails], 58azvp, 1476921110.0, 111
+233, [Flashback: Clinton cheered 11th hour indictment that doomed Bush re-election], 5a6g8j, 1477869323.0, 110
+234, [Pence: 'Many Americans Feel Like This Election Is Being Rigged' By the National Media], 57rr9m, 1476658680.0, 106
+235, [Feminist PhD Candidate: Science is sexist because its not subjective, science classes should stop using the scientific method.], 571xn4, 1476268523.0, 112
+236, [Bill Clinton avoids reporters as Hillary is rocked by FBI probe], 5a64mo, 1477864930.0, 107
+237, [Trump ramps up attacks on Paul Ryan: 'Weak and ineffective leader'], 56y9m7, 1476225115.0, 107
+238, [Trump At Al Smith Dinner: Hillary Clinton Asked Me To "Pardon" Her], 58nazw, 1477086633.0, 106
+239, [Emails show Hillary has the media in her pocket], 573mu5, 1476301586.0, 106
+240, [Majority of Paris attackers entered Europe posing as refugees], 56mlbr, 1476055021.0, 108
+241, [Leaked Hillary Clinton Audio: Weve Got to Go After Supreme Court on Second Amendment], 56824s, 1475820487.0, 104
+242, [Pope calls gender theory a 'global war' against the family], 55i4bu, 1475441955.0, 107
+243, [CNN: Nevada, Florida No Longer Leaning Democratic], 59ot60, 1477613284.0, 102
+244, [WSJ: On SCOTUS, Trump Has Superior Grasp On Constitution, While Clinton's Views Threaten Liberty], 58tvg1, 1477182631.0, 103
+245, [White House coordinated with Clinton about email scandal], 56baf4, 1475874896.0, 101
+246, [Hillary's emails matter: A retired CIA officer explains why], 5acips, 1477952891.0, 112
+247, [Hillary Caught Using Child Actor At Pennsylvania Town Hall], 563v6q, 1475759282.0, 105
+248, [Google promotes controversial claim its NOT possible for ethnic minorities to be racist against white people], 55nrmw, 1475532016.0, 103
+249, [Social Media Blackout? FBI Emails Are Not 'Trending' On Twitter, Facebook, Buzzfeed, Or Snapchat], 5a5igq, 1477853330.0, 100
+250, [Boy Treated as a Girl By His Mother Suffered 'Significant Emotional Harm', Court Hears], 58vlum, 1477204137.0, 102
+251, [Syrian refugee with FOUR WIVES and 23 CHILDREN claims 320,000 a year in benefits'], 59cefx, 1477446117.0, 101
+252, [Obama: We Cant Drill Our Way to Lower Gas Prices  Experts: Yes We Can], 5a7kyh, 1477882463.0, 99
+253, [Interesting Development: White House Praises FBI Director Comey, Says He Is Not Trying To Influence Election], 5ae49e, 1477968395.0, 125
+254, [Abedin-Weiner electronic device was laptop, had tens-of-thousands of emails, source], 5a2ub9, 1477806751.0, 98
+255, [GOP Releases Huma Abedins OF109 Form Live On CNN, Proving She Violated United States Federal Law], 5a10s4, 1477784801.0, 101
+256, [Attorney General Lynch 'Pleads Fifth' on Secret Iran 'Ransom' Payments], 59v49r, 1477698357.0, 97
+257, [California Aborting Free-Speech Rights], 58mzrf, 1477082568.0, 99
+258, [Wikileaks Release Reveals Hillary Clinton Plans To Weaken Your Constitutional Rights {2ND AMENDMENT} through executive order?], 56t89z, 1476149886.0, 99
+259, [Juanita Broaddrick Responds to Trump P*ssy Tape: "I Was 35 years old when Bill Clinton, Ark. Attorney General raped me..."], 56fhid, 1475929922.0, 104
+260, [Liberals Attack Homeless Woman Defending Trump Walk of Fame Star], 59ymxf, 1477739718.0, 99
+261, ['How to Commit Voter Fraud on a Massive Scale': Part II of Project Veritas Investigation into Clinton Network], 585hke, 1476844598.0, 97
+262, [Now YouTube Has Restricted Christina Hoff Sommers Videos], 57myk6, 1476579707.0, 96
+263, [Ben Sasse: Obamacare Did Not Deliver Lower Premiums And More Choices], 57045n, 1476245666.0, 99
+264, [Donald J. Trump - Here is my statement], 56folw, 1475933611.0, 101
+265, [Wikileaks emails REVEALS Hillary campaign pushing Muslim Obama narrative!], 57gi2y, 1476482653.0, 91
+266, [President Hollande has admitted 'France has a problem with Islam'], 575zn3, 1476329245.0, 97
+267, [Bill Clinton calls Obamacare 'the craziest thing in the world'], 55uevh, 1475628294.0, 95
+268, [High School kid is assaulted over an Anti-Black Lives Matter post], 55tc3v, 1475614604.0, 92
+269, [Chaffetz asks deputy FBI director for documents about wifes political ties to Clinton], 5a5x84, 1477861590.0, 92
+270, [Breitbart coordinated with liberal activists to disrupt Rubio, Cruz events], 598rz3, 1477392327.0, 97
+271, [Clintons vow to push Supreme Court left galvanizes conservatives wary of Trump], 56yc9j, 1476226022.0, 92
+272, [Why did it take Donald Trump to make the media rediscover sexual morality?], 56tf5a, 1476151979.0, 95
+273, [Bernstein: FBI Would Not Reopen Case Unless New Evidence Was "A Real Bombshell"], 59xz86, 1477730021.0, 97
+274, [Wikileaks Says Assange's Internet Link Was Severed By 'State Party'], 57xhtq, 1476742097.0, 95
+275, [Wikileaks uncovers attempt to protect Obama in email scandal], 57r9ne, 1476650940.0, 93
+276, [DNC staffers create fake Craigslist employment ads from Trump that demean women.], 57i0x2, 1476499902.0, 93
+277, [GLENN BECK: "If the consequence of standing against Trump and for principles is indeed the election of Hillary Clinton, so be it. At least it is a moral, ethical choice"], 56oavr, 1476076186.0, 92
+278, [U.S. CODE: Hillary R. Clinton has disqualified herself from holding any public office in the United States], 56f59y, 1475924255.0, 95
+279, [BBC Under Fire for Transgender Program Aimed at Children as Young as Six], 5aa07f, 1477910829.0, 90
+280, [Report: 91 Percent of Media's Trump Coverage Has Been Negative], 5a4h05, 1477829865.0, 95
+281, [Hillary's Treat], 59bm0v, 1477437854.0, 91
+282, [Car With Trump Stickers Looted, Destroyed By Black Youth], 580uat, 1476778716.0, 89
+283, [The FBIs Own Investigation Summary Proves Hillary Clinton Broke The Law], 57zl2u, 1476764420.0, 93
+284, [Trump: Corporate Media Clinton's Most Powerful Weapon, "No Longer Involved in Journalism"], 57fcti, 1476462265.0, 89
+285, [Chicago Tribune : Democrats should ask Clinton to step aside], 5a5xip, 1477861735.0, 90
+286, [Trump: Loretta Lynch Trying to Protect Hillary Clinton], 5a2rdk, 1477805726.0, 92
+287, [Donald Trump's Walk Of Fame Star Destroyed, Police Investigate], 59ibdk, 1477526372.0, 89
+288, [Palestinian soccer team honors Jerusalem shooter who killed two Israelis], 57lefk, 1476553510.0, 93
+289, [Why Are Republican Lies Bad But Democrat Lies Okay?], 55o5np, 1475536991.0, 94
+290, [Let's say Trump supporters firebombed a DNC field office. Would the talk of evil violent Trump supporters ever end? - Ben Shapiro on Twitter], 57unno, 1476694202.0, 89
+291, [Ted Cruz Indicts the Entire Media Over Trump's Lewd Video with One Damning Question], 56ub0a, 1476161442.0, 90
+292, [CNN (CLINTON NEWS NETWORK) TELLS VOTERS WHAT TO SAY (Clinton won the orc/cnn poll)], 56q8j7, 1476101691.0, 86
+293, [Politico's Chief Correspondent To John Podesta: "Don't Tell Anyone I Did This"], 5809ma, 1476771829.0, 91
+294, [UC Berkeley students barricade bridge, force whites to cross creek], 59l56b, 1477557368.0, 87
+295, [MSNBC interview African Americans in SC | Reporter was not expecting Trump supporters!], 59jnjl, 1477540177.0, 88
+296, [Literally 24/25 of the posts on the front page of r/politics right now are anti-Trump. So much for a place for fair and civil political discussion.], 58jmad, 1477029044.0, 86
+297, [Email Suggests Biden Aide Sabotaged His Presidential Aspirations To Help Hillary], 576zq4, 1476340687.0, 86
+298, [Why Is YouTube Censoring 21 Educational Videos From PragerU?], 57435m, 1476308237.0, 86
+299, [Wall Street speeches reveal the real Hillary], 56x69l, 1476205978.0, 88
+300, [Clinton attack featuring Miss Universe was months in the making, email shows], 59bsqe, 1477439872.0, 89
+301, [Obama Warned of Rigged Elections Back in 2008], 58t5x4, 1477172337.0, 84
+302, [The hypocrisy of liberalism], 56rmx6, 1476130110.0, 82
+303, [Hillary Clinton Defended Partial-Birth Abortions, Opposed Criminalizing a Medical Procedure], 55zsmk, 1475707334.0, 86
+304, [Man Who Destroyed Trump's Hollywood Star Could Serve 3 Years in Jail], 5a8yib, 1477897908.0, 88
+305, [Reddit Users Declare War On Hillarys Paid Internet Trolls], 59ugia, 1477690890.0, 86
+306, [296 Refugees Diagnosed with Active TB in Minnesota, Ten Times Any Other State; Majority Are Somalis], 57fw4q, 1476473796.0, 86
+307, [24 Hours After Last Nights Debate, Mike Rowe Makes A Huge Confession On What He Sees Wrong With This Election], 5723fv, 1476270790.0, 85
+308, [Who Won The VP Debate? Mike Pence Wins Big By Staying Calm As Tim Kaine Goes On Attack], 55xise, 1475666082.0, 88
+309, [OKeefe: Why the hell isnt the press covering this?], 58ckrt, 1476937489.0, 82
+310, [Trump wins post-debate CNN focus group 10-5], 58hejf, 1477005561.0, 84
+311, [Seriously? MSNBC Declares: No Proof of Collusion Between Media and Hillary], 58bcfm, 1476924837.0, 83
+312, [Defamation Trial over False Rolling Stone Rape Story to Begin], 57wzwo, 1476735374.0, 83
+313, [Incriminating evidence...], 5a0qc3, 1477781027.0, 84
+314, [Here's the List of Mainstream Reporters Working Directly With the Clinton Campaign], 597h6d, 1477376316.0, 83
+315, [Video: Hillary Clinton Approved Robert Creamer Plan Directly], 595m36, 1477356928.0, 83
+316, [UCLA Students Shout Down Mother Whose Son Was Killed by Illegal Alien - "promoting a racist, fascist, xenophobic agenda."], 588eix, 1476878743.0, 86
+317, [Blog: Awkward: Sanders-Clinton joint appearance cancelled in wake of Hillary insulting Sanders supporters as basement dwellers], 55naam, 1475524392.0, 83
+318, [Hillary Reboots Vast Right-Wing Conspiracy Playbook], 5acikb, 1477952839.0, 83
+319, [FBI Investigation Into Bribery With Clinton Foundation Spans Nation, Multiple Field Offices, Says WSJ], 5aa0uf, 1477911060.0, 80
+320, [Weiner revelation proves Comey dropped the ball on Hillary probe], 5a6fg1, 1477869038.0, 81
+321, [It was a sad moment for her...], 59pjyh, 1477621045.0, 81
+322, [Venezuela Officially Descends Into Dictatorship, With Minimal News Visibility], 58tssk, 1477181716.0, 82
+323, [With SCOTUS picks, Trump vows to protect under siege Second Amendment], 58gobv, 1476997001.0, 82
+324, [Reporter Admits Secret Service at Debate Said No Flashes Because of Hillarys Seizure Disorder], 56xt72, 1476218903.0, 82
+325, [Clinton says she was gone for the red line in Syria incident], 56uqys, 1476166555.0, 84
+326, [Frank Luntz debate focus group results. [Trump +9] [Clinton -4]], 56q0q1, 1476098758.0, 81
+327, [AP News : Paul Ryan heckled by Trump supporters in his district], 56jgst, 1475995738.0, 84
+328, [Donald Trump Says Campaign Not in Crisis, and There Is Zero Chance Ill Quit], 56ivr4, 1475987901.0, 82
+329, [Email scandal proves Hillary learned wrong lessons from Nixon and Watergate -- Hillary advanced through her political career thinking if she could always destroy the evidence she and the rest of Clinton Inc. could never be held responsible for their actions], 5abkzp, 1477940096.0, 81
+330, [Scott Foval Reveals "They" Were Behind the Romney 47% Video], 59l9kk, 1477558931.0, 80
+331, [Clinton Spokesman To Trump: Go Fuck Yourself], 56rtqo, 1476133158.0, 82
+332, [Obama DOJ drops charges against Arms Dealer Threatening to Expose Clinton Libya Efforts.], 55x89d, 1475662165.0, 81
+333, [Ben Shapiro Destroys John Oliver On Abortion and Trump], 59s1of, 1477649464.0, 75
+334, [Summing Up Hillary Rodham Clinton...], 58fnkb, 1476977795.0, 78
+335, [WikiLeaks: Hillary Wants Obamacare to Unravel], 5843jf, 1476830039.0, 78
+336, [Ben Carson: Americans Need to See Through Mainstream Media 'Crap'], 57ay17, 1476402608.0, 78
+337, [WSJ: FBI Agents Allege DOJ Ordered 'Stand Down' on Clinton Foundation Investigation], 5aeigs, 1477972156.0, 93
+338, [The fact-checkers keep destroying fact-checking], 57edi5, 1476443752.0, 75
+339, [More FBI agents turn on Comey: He stood in the way], 583uke, 1476827076.0, 77
+340, [Children at Donald Trump rally pepper-sprayed by a demonstrator], 581ih1, 1476787167.0, 80
+341, [Once lauded as a peacemaker, Obama's tenure fraught with war], 5666q2, 1475799443.0, 81
+342, [Disgusting! The shills over at r/Politics have reached a new low "It's okay that some refugees may commit mass murder in America, because not all of them will"], 58w8xh, 1477213100.0, 74
+343, [Leaked Emails Show Democrats Feared Rand Paul as GOP Nominee], 56r300, 1476117934.0, 76
+344, [Exclusive: New Leak on Clinton's Cozy Press Relationship], 56nepe, 1476065323.0, 80
+345, [CNN identifies the person who leaked Donald Trump's hot mic tape: NBC producer Rob Silverstein], 56f6ij, 1475924786.0, 78
+346, [Surprise: Fox News' Chris Wallace Orchestrates The Year's Most Balanced Debate], 58izf3, 1477022114.0, 72
+347, [Hillary Clinton: 'Incomprehensible' that Gun Makers Aren't Liable for Misuse of Stolen Guns], 57t85o, 1476676270.0, 75
+348, [Why have tough questions on abortion never been asked of Democrats?], 55xily, 1475666006.0, 78
+349, [Liberals Bash FBI Director Comey Over Clinton Probe After Praising Him in July], 5a19bo, 1477787676.0, 74
+350, [Watch "Trey Gowdy Shocks The Media Then Walks Off Like A Boss"], 57rtvt, 1476659631.0, 74
+351, [The Most Explosive WikiLeaks Clinton Revelations (So Far)], 57lvk9, 1476563963.0, 71
+352, [Wikileaks: Clinton Campaign Discusses Which Emails To "Hold" Hours After Subpoena], 57htbz, 1476497556.0, 76
+353, [Weiner filed emails on his computer under "Life Insurance"], 5ac2jl, 1477947558.0, 76
+354, [Get Ready for Hillary's Executive Order on Guns], 57c3rn, 1476415276.0, 71
+355, [Iraqi refugee who raped a 10-year-old boy has his conviction overturned because the Austrian court 'didn't prove he realised the boy was saying no'], 59bmgs, 1477437987.0, 73
+356, [The White House wont explain why disgraced Democratic operative Robert Creamer visited some 342 times, including 47 meetings with President Barack Obama.], 58iwum, 1477021367.0, 76
+357, [Donald Trump is calling for ethics reform to 'drain the swamp in Washington DC'], 584krf, 1476835339.0, 70
+358, [Brazile denies giving Clinton camp advance notice on CNN town hall question], 570108, 1476244737.0, 72
+359, [Former US Attorney for DC: New Hillary Email Probe Was Result of 'Revolt' Inside FBI], 5a6f66, 1477868941.0, 70
+360, [Theyre with her: Illegal immigrants go door-to-door on behalf of Hillary], 59b10o, 1477431207.0, 71
+361, [Petition Launched to Include Clarence Thomas in African American Museum], 58vdvz, 1477201261.0, 70
+362, [Is this the DNC/Hillary paid woman from the Veritas video at the Chicago protest screaming at a Trump supporter right before he got maced in the face?], 5846lh, 1476831036.0, 74
+363, ["We can confirm Ecuador cut off Assange's internet access Saturday, 5pm GMT, shortly after publication of Clinton's Goldman Sachs speeches." - WikiLeaks on Twitter], 57zik5, 1476763687.0, 68
+364, [The Press Buries Hillary Clintons Sins], 57h348, 1476489661.0, 72
+365, [Putin: White House uses Russia scaremongering to manipulate Americans], 5767um, 1476331738.0, 68
+366, [Top US General: Hillarys No Fly Zone Strategy Would Require War With Russia], 55iz7f, 1475455029.0, 74
+367, [Mainstream media says Trump fans are hurting their feelings], 5a9y68, 1477910108.0, 69
+368, [FBI gets second warrant for Weiner emails], 5a8vli, 1477896987.0, 71
+369, [Chaffetz says he'll vote for Trump], 59o8m4, 1477607139.0, 70
+370, [The Smoking Gun: Cheryl Mills Tells Podesta "We Need To Clean This Up - Obama Has Emails From Her"], 59hzbb, 1477522851.0, 69
+371, [Hillarys New Constitution: Clinton explains how shell gut the First and Second Amendments.], 58nigx, 1477089164.0, 70
+372, [Ted Cruz Raises Stakes on 'Voter Fraud Operative': 'This Merits a Serious Criminal Investigation'], 58h3lb, 1477002209.0, 71
+373, [Still Voting for Trump; Must Defeat Clinton], 584zo8, 1476839557.0, 67
+374, [Yes, there is...], 57tiox, 1476679677.0, 72
+375, [Wikileaks -- Hillary Clinton to Goldman Sachs: Americans Who Want to Limit Immigration Are 'Fundamentally UnAmerican'], 57snjv, 1476669655.0, 74
+376, [Wikileaks: Clinton campaign hand picks people to sit behind Clinton during a rally so it is "organic and not too staged."], 59hyfm, 1477522583.0, 70
+377, [Ron Paul: US Elections Are Rigged, Voting Simply Used to Pacify the Public - Your Online News], 58zrn4, 1477274216.0, 71
+378, [State Department tried to bribe FBI to unclassify Clinton emails], 57yr7e, 1476755709.0, 67
+379, [Secret Service Detail: Hillary Clinton Was Drunk Morning of Campaign Rally], 5acdn4, 1477951339.0, 69
+380, [Hillary's nightmare scenario: Weiner's laptop holds 650,000 emails, thousands of them from Clinton's private server, and a search will take WEEKS. Democrat faces an ongoing FBI probe even if she's elected], 5a8df6, 1477891258.0, 69
+381, [5 Times Democrats Claimed U.S. Elections Are 'Rigged'], 5944cx, 1477339260.0, 69
+382, [calibration Error Changes Gop Votes To Dem In Illinois County], 58tvgz, 1477182639.0, 69
+383, [Hundreds of Christian refugees sexually abused and beaten by Muslims in German camps], 58nen6, 1477087888.0, 68
+384, [Ted Cruz Calls for Investigation of 'Voter Fraud' Operative], 58l6po, 1477049126.0, 71
+385, [ADDRESS THAT  Chris Wallace Grills Hillary On Clinton Foundation Corruption], 58geme, 1476993102.0, 68
+386, [UPDATE: Bill Clinton rape protester beaten at Hillary Vegas rally], 57blqb, 1476409759.0, 72
+387, [Top Ben Carson adviser: He stands by Trump, recording 'is the kind of language that we hear in rap music'], 56m9b3, 1476050069.0, 69
+388, [DOJ abruptly drops case against gun-runner who threatened to reveal Clinton's Libya dealings], 560o41, 1475717431.0, 64
+389, [Liberals Are Losing It After FBI Announces Hillary is Back Under Investigation], 59x6r4, 1477720080.0, 70
+390, [Politifact: 'Mostly False' That Clinton Wanted 'Open Borders' - Even though it's in her speech transcripts], 58rsz5, 1477143798.0, 67
+391, [Bill Clinton Rape Accusers Asked If They've Gotten Same Media Attention As Trump's. Their Answers Are Telling...], 57i9fj, 1476502559.0, 69
+392, [Trump: Americans Should Be Able to Own 'Firearm Of Their Choice' (10/9/16)], 570weg, 1476254815.0, 68
+393, [YouTube Hides and SLAPS WARNING on New Trump Ad About Hillary's Health], 56zh84, 1476238655.0, 66
+394, [Leaked email reveals Hillary faked surprise during TV interview; whole thing scripted by campaign], 56bco1, 1475875795.0, 65
+395, [Podesta relative earned six-figure fees lobbying Clinton's State Dept. during his tenure there], 59r14a, 1477636948.0, 69
+396, [Early voting suggests tight race in key states despite Clinton camp boast], 59ausw, 1477428946.0, 66
+397, [Concern Grows Over Soros-Linked Voting Machines], 594rm8, 1477347896.0, 70
+398, [CNN Cuts feed of Rep. Chris Collins when he Brings Up Wikileaks Emails], 58bdp3, 1476925207.0, 64
+399, [Clinton Campaign Bus Caught Dumping Human Waste In Georgia, HAZMAT Team Called In], 586xgo, 1476859804.0, 67
+400, [Las Vegas Gun Store Holds 'Pre-Hillary' Gun Sale], 58424h, 1476829588.0, 66
+401, [Hillary Clinton herself (hrod17@clintonemail.com) said Saudi Arabia, Qatar, and others were providing "clandestine financial and logistic support" to ISIL], 571qkm, 1476265826.0, 68
+402, [Gwen Ifill: Absent the Trump Audio, We'd Be 'Paying A Lot More Attention' To Hillary Speech Revelations], 56m8bg, 1476049615.0, 65
+403, [We must have the freedom to mock Islam], 5a5f3e, 1477851048.0, 66
+404, [Donald Trump's Star on Hollywood Walk of Fame is Now Being Guarded By A Homeless Trump Supporter], 59rlf8, 1477643760.0, 68
+405, [Geraldo Rivera: I Have Never Seen the Mainstream Media  Be So Partisan], 57l8sx, 1476549565.0, 61
+406, [Post Debate Discussion Thread], 56psv6, 1476096054.0, 66
+407, [Donald Trump to Howard Stern: It's okay to call my daughter a 'piece of ass'], 56iqlz, 1475986006.0, 61
+408, [Obama's Deputies Drop Criminal Charges Against Hillary Clinton-Linked Arms Dealer in Libya], 5691t7, 1475834004.0, 65
+409, [Hillary Clinton is WAY overcompensating for Tim Kaines poor debate performance], 567u1j, 1475817826.0, 64
+410, [Fueled by Hillary Clinton, White House Debated Nominating Wikileaks Founder for Obama-Controlled Drone Kill List], 565ef2, 1475789783.0, 63
+411, [Zineb el Rhazoui, Charlie Hebdo survivor, discusses why the world needs to Destroy Islamic Fascism: "Those who think terrorism has nothing to do with Islam are ignorant"], 5a2z2w, 1477808386.0, 63
+412, [More than 48 Christians Killed in Kaduna, Nigeria Massacres], 58nsy2, 1477092475.0, 62
+413, [Video showing Ten Minutes of CNN Cutting Off People Who Are Critical Of Hillary Clinton...but CNN isn't biased, they just have a poor connection.], 58dvtl, 1476952533.0, 64
+414, [Hacked Emails Prove Coordination Between Clinton Campaign and Super PACs], 5841sw, 1476829487.0, 62
+415, [High schooler records teacher's racism lecture: 'To be white is to be racist, period'], 583w7w, 1476827647.0, 65
+416, [Paul Joseph Watson: Top YouTubers are being offered money to endorse Hillary.], 57plcm, 1476615365.0, 66
+417, [Leaked emails reveal Hillary Clintons life of deceit], 57obyc, 1476597340.0, 66
+418, [Happy 241st Birthday to the United States Navy!], 57ayt3, 1476402843.0, 65
+419, [Kathleen Willey to Women: Would You Stay With A Rapist?], 5759ed, 1476321531.0, 64
+420, [Washington's governing elites think we're all morons, a new study says], 565ac1, 1475788179.0, 65
+421, [Judicial Watch Is Suing The FBI For Records About Bill Clinton's Secret Meeting With Loretta Lynch], 5a2gzg, 1477802106.0, 64
+422, [Rachel Maddow Cries Over FBI Investigating Hillary Again - Live on MSNBC], 5a2bea, 1477800178.0, 65
+423, [Wikileaks: Hillary Clinton Skipped Metal Detector Before Benghazi Hearing], 58nyxp, 1477094319.0, 60
+424, [CNNs Stelter Blames Firebombing of NC Republican Office on Trump's 'Over Heated' Rhetoric], 57uoe1, 1476694481.0, 64
+425, ["Bill Clinton Was Here": The Elite One-Percents 'Orgy Island' Exposed], 57mr2d, 1476577054.0, 64
+426, [Creepy Kaine], 55xm5a, 1475667436.0, 67
+427, [Trump tax return leak again exposes Democrats as hypocrites], 55togy, 1475619399.0, 63
+428, [Conservatives Denounce Deal To Pass Internet Sales Tax After Election Day], 55o9ew, 1475538287.0, 65
+429, [Voter fraud suspect arrested in Des Moines], 59xgd5, 1477723269.0, 63
+430, [CAUGHT ON TAPE: UN bans skeptical journalists from climate summit for holding views not particularly helpful], 58qvlp, 1477128610.0, 62
+431, [Texas has been cooling since 1895, but that doesnt suit NOAAs global warming agenda. So they keep cooling the past further and further to create the appearance of a warming trend. On The NOAA Texas Temperature Fraud], 588yba, 1476888436.0, 62
+432, [[Policy] Trumps puts out 5-point plan for ethics/lobbying reform], 581mqz, 1476788716.0, 64
+433, [Three days before Scalia's death. Check out the original for more details. Other emails/etc in the comments. [x-post from The_Donald]], 57crty, 1476422677.0, 64
+434, [Exclusive  Ex-Tim Kaine Staffer: Mike Pence Won Debate, I Dont Know What the Clintons Have Done to My Old Boss], 55xujh, 1475671062.0, 63
+435, [h3h3Productions on being told who to vote for], 57v5wz, 1476701231.0, 61
+436, [Hillary Clinton admits she didn't have permission to set up secret email], 57gddm, 1476480924.0, 64
+437, [Obamas tragic admission: Hes learned nothing as president], 55z1ai, 1475696517.0, 62
+438, [FBI destroyed laptop belonging to Cheryl Mills after time-limited search], 55rf8c, 1475577395.0, 61
+439, [Judge Napolitano: The NSA hacked the DNC, not Russia], 58vwva, 1477208306.0, 59
+440, [The most important WikiLeaks revalation has nothing to do with Hillary Clinton], 57g7et, 1476478617.0, 61
+441, [Nearly 100,000 Pennsylvania Voters Switch From Democrat To Republican], 57bc7j, 1476406932.0, 60
+442, [Sure looks like this girls townhall question to Hillary was staged], 56bgd8, 1475877193.0, 58
+443, [Post Debate Thread - Vice Presidential Debate], 55xdpp, 1475664155.0, 58
+444, [WikiLeaks: Clinton Adviser Says Deploy the Brown and Women Pundits], 59krnr, 1477552557.0, 61
+445, [3 Maine Women Face Theft Charges for Stealing Dozens of Trump Signs: Stothart wrote an op-ed in The Washington Post, explaining that it was "disrespectful" that so many Trump signs were along Route 1 in her hometown of Falmouth.], 59k4hi, 1477545189.0, 60
+446, [Malik Obama Will Be Donald Trump's Guest at Third Debate], 58b17f, 1476921523.0, 56
+447, [WikiLeaks Deniers: The New Breed Of Conspiracy Nut], 5848u2, 1476831729.0, 60
+448, [Wikileaks Document Drop: Hillary Clinton Dreams of 'Open Trade and Open Borders'], 56h23s, 1475964027.0, 55
+449, [What we saw from @GovPenceIN, was a fearless Conservative riding into battle with pure delight as he destroyed Liberals], 55zh5y, 1475703207.0, 59
+450, [Donald Trump has become voters default choice], 55vfqs, 1475639693.0, 59
+451, [That look when you know that you are next to be thrown under the bus], 5a0ini, 1477777843.0, 57
+452, [Only a few more thousand signatures! Emergency meeting to remove George Soros voting machines.], 59kml2, 1477550854.0, 58
+453, [WikiLeaks: Clinton aides scramble to address alleged mistress nicknamed 'Energizer Bunny'], 594swu, 1477348322.0, 57
+454, [No, voter fraud isn't a myth: 10 cases where it's all too real], 584pi8, 1476836692.0, 61
+455, [Crybaby college kids offered counseling for offensive Halloween costumes], 57qnbf, 1476636695.0, 60
+456, [Top Clinton aide Huma Abedin in leaked email: 'Can we survive not answering questions' from press?], 57atcz, 1476401117.0, 55
+457, [Leaked Email: Then-CNNer Donna Brazile Gave Clinton Camp Heads-Up on CNN Town Hall Question], 56yuug, 1476231865.0, 59
+458, [Jock Journalists Condemn 'All Lives Matter' Protestor as Racist, Then Cops Take Off His Gorilla Mask], 55toos, 1475619478.0, 61
+459, [Leaked Email: If She Wins, Hillary Will Own The Supreme Court for the Next 30 to 40 Years], 59pm4u, 1477621705.0, 59
+460, [WikiLeaks: Hillary Ally Spoke with Campaign About Intimidating Justice Roberts on Obamacare], 595laf, 1477356692.0, 56
+461, [Immigrants! Don't Vote for What You Fled], 5949ko, 1477341451.0, 55
+462, [Meet The Gay, Gun Rights Group That Would Rather Be At The Range Than Talk Politics], 56wf34, 1476189444.0, 61
+463, [Mark Levin Rips Trump's Lewd Comments and 'Despicable' Media Cover-Up of Bill Clinton], 56eo3b, 1475916837.0, 55
+464, [Self defense as a natural born right], 55zdb7, 1475701686.0, 57
+465, [Texas voters claim machines switching their votes], 59kogs, 1477551516.0, 54
+466, [BREAKING: James O'Keefe Releases FOURTH Video, Follow The Money], 59j11w, 1477533657.0, 59
+467, [Hillarys open borders dream is a nightmare for workers], 589wau, 1476907450.0, 54
+468, [Tapper on Brazile forwarding debate question to Clinton: 'unethical,' 'very troubling,' 'journalistically horrifying'], 57bld7, 1476409651.0, 55
+469, [Bob Dole only former GOP nominee to stick with Trump], 56lckw, 1476029077.0, 59
+470, [Woman Who Served With Tim Kaine On City Council Says, "This Guy Is Crazy!" (VIDEO)], 56bcwf, 1475875880.0, 60
+471, [Census: Record 42.4M immigrants, 23% of school kids, Muslims biggest jump], 55xf47, 1475664683.0, 56
+472, [A message to Trump supporters from Alan Rickman in my favorite Christmas movie], 5a8xcg, 1477897523.0, 54
+473, [Anger, disbelief in Clinton camp], 5a33ed, 1477809811.0, 56
+474, [POSTAL WORKER Brags Online About Destroying Trump Ballots], 57xq8u, 1476744908.0, 53
+475, [Vandals spray-paint at least 20 vehicles outside Trump rally in Bangor], 57pi7d, 1476613969.0, 56
+476, [Stop complaining about Trumps war on the media because hes right - Hot Air], 57nh3n, 1476586223.0, 56
+477, [Democratic officials planned to fool 'self-righteous' Sanders supporters at convention], 576it7, 1476335150.0, 53
+478, [Vice Presidential Debate - 9PM ET], 55wwj6, 1475657883.0, 51
+479, [Teen Charged With Murder After Killing Her 2-Pound Premature Baby. How Is This Different From Abortion?], 55wtxy, 1475656905.0, 53
+480, [VIDEO: Hispanic man films white woman being beaten over Trump yard sign], 55m6xh, 1475499583.0, 55
+481, [Newt: Nixon Must Be Looking Down, Wondering Why He Couldn't Be as 'Clever' as Obama at Dishonesty], 5a0kyp, 1477778824.0, 50
+482, [No Consequences for Reporters Caught Colluding with Hillary], 594r81, 1477347760.0, 55
+483, [Voters agree media biased against Donald Trump], 58vnxk, 1477204927.0, 52
+484, [DNC chairwoman tries to play the victim on Wikileaks, Megyn Kelly responds accordingly], 58lzou, 1477062921.0, 54
+485, [YouGov: Paul Ryan's favorable rating among Republicans drops 28 points - in a week], 58gtw4, 1476998985.0, 52
+486, [WIKILEAKS: Podesta Says It's OK for Illegals to Vote With Driver's License....], 58claj, 1476937636.0, 53
+487, [Memo: Googles Eric Schmidt Working Directly With the Clinton Campaign], 589yjb, 1476908416.0, 54
+488, [WOW! Only 50 People Show Up to See Hillary's VP Tim Kaine in Miami], 57u24m, 1476686358.0, 53
+489, [Hillary Surrogates Dismiss Rape Accusation Against Bill Clinton Because He Wasn't Prosecuted], 5767e3, 1476331592.0, 52
+490, [Newly released WikiLeaks email: Hillary Campaign chairman, John Podesta, admits Hillary lies 'often'], 56sm6h, 1476143243.0, 53
+491, ["A Time for Choosing" by Ronald Reagan], 56oq33, 1476081647.0, 53
+492, [FBI Hillary investigation bombshell is why we should not have early voting], 5a1cs3, 1477788829.0, 55
+493, [NY Times: New Emails in Clinton Case Came From Anthony Weiner's Electronic Devices], 59wgoi, 1477712160.0, 50
+494, [Trump calls Clinton email investigation bigger than Watergate], 59vwoq, 1477706462.0, 52
+495, [Study: Google searches favor left-wing content], 59ujsh, 1477692042.0, 52
+496, [Sen. Sessions: Obama Keeps 182,761 Convicted Foreign Criminals in United States], 58mvwp, 1477081006.0, 52
+497, [Caught: Dem. Party Worker OKs Destroying Repub. Voter Applications], 57s2jt, 1476662764.0, 53
+498, [Mike Pence "disappointed" with Republican leaders not backing Donald Trump], 577529, 1476342588.0, 54
+499, [Paul Ryan wont defend or campaign for Trump ahead of election], 56smb4, 1476143291.0, 54
+500, [University of North Dakota, citing First Amendment, wont punish students for blackface Snapchat photos], 56kjdn, 1476012239.0, 54
+501, [Wikileaks Appears To Release Hillary Clinton's Paid Speech Transcripts], 56ecuo, 1475912250.0, 52
+502, [Trump filed his taxes, legally. That is outrageous], 56171f, 1475723356.0, 53
+503, [DiCaprio: If You Do Not Believe in Climate Change, YouShould Not be Allowed to Hold Public Office], 55vo3f, 1475642291.0, 54
+504, [Donna Brazile Shared Additional Debate Questions With Clinton Campaign, Identified Her Tipster], 5acp18, 1477954778.0, 51
+505, [Report: AG Lynch Pressured FBI Director Comey Not to Disclose Reactivated Hillary Probe], 5a1fk5, 1477789752.0, 51
+506, [Montel Williams on Twitter: True fact: A @nytimes reporter threatened to publish my address if I didn't talk to him about this useless (Trump) story . https://t.co/NWnQLzcKLl], 59qfbh, 1477630137.0, 50
+507, [Berkeley Protesters Demand 'Spaces Of Color,' Harass White Students Trying To Pass], 59837q, 1477383527.0, 51
+508, [Democratic operative caught on camera: Hillary PERSONALLY ordered 'Donald Duck' troll campaign that broke the law by coordinating with tax-exempt pressure group], 595yld, 1477360417.0, 51
+509, [James O'Keefe says he has a surprise for us tomorrow at noon], 592bu2, 1477306099.0, 52
+510, [WikiLeaks Releases First Batch Of Barack Obama's Emails - Breitbart], 58pqzd, 1477114049.0, 48
+511, [BILL OREILLY: Media Organizations Have Ordered Employees to Destroy Trump Or Be Destroyed (VIDEO)], 575sqp, 1476327259.0, 51
+512, [Trump: Hillary Wants World Government, Unlimited Immigration, Rule By Corporations], 5753j0, 1476319815.0, 48
+513, [No Big Deal: Hillary Talked About Secret Bin Laden Raid Details During Paid Wall Street Speech], 56zsi3, 1476242163.0, 48
+514, [Every survivor of sexual assault deserves to be heard, believed, and supported.], 56mkis, 1476054704.0, 53
+515, [Emails show Qaddafi son offered talks  but Clinton ordered top general to 'not take the call,' source says], 55oznp, 1475546646.0, 52
+516, [Clinton Campaign Manager Mook Doubles Down: 'A Lot' of Trump Supporters Are 'Deplorable'], 55k74p, 1475470351.0, 51
+517, [CNN Stealth Edits Article That Originally Made False Claim Trump Told Supporters To Vote Multiple Times], 5a9ssk, 1477908187.0, 51
+518, [It Begins... Hillary Lackeys Paint James Comey as Putin Puppet], 5a2b9s, 1477800139.0, 49
+519, [Keep the Senate!! Campaign Twitter Handles for Battleground GOP Senate Candidates], 59pujz, 1477624110.0, 51
+520, [New Podesta Email Exposes Dem Playbook For Rigging Polls Through "Oversamples"], 591hni, 1477294691.0, 51
+521, [Feminist PhD Candidate: Science Is Sexist Because It's Not Subjective: [N]otions of absolute truth and a single reality are masculine, she says, referring to poststructuralist feminist theory.], 58t9rj, 1477174049.0, 50
+522, [Third Presidential Debate - 9PM ET], 58dxop, 1476953191.0, 50
+523, [Special Treatment Gave John Kerrys Daughter $9 Million In Govt Contracts], 58dfwm, 1476947101.0, 52
+524, [CNN "Loses" Satellite Feed Just As Republican Congressman Mentions WikiLeaks], 58d59j, 1476943668.0, 54
+525, [Scott Walker was targeted by DNC operatives. Here is all the evidence you need.], 57ylk9, 1476754101.0, 49
+526, [Trump Sets GOP Record for Individual Donors], 57rgh4, 1476654160.0, 53
+527, [Clinton Team Outsources Attack Ads to SuperPAC in Apparent Violation of Campaign Finance Laws], 57cbqa, 1476417751.0, 53
+528, [Leaked emails show Clintons team should read a catechism], 57400j, 1476307075.0, 53
+529, [Obama breaks another promise to save the Iran deal], 56x6kf, 1476206191.0, 48
+530, [Breaking: Hillary throws Huma Abedin off her plane], 5a43pw, 1477823986.0, 47
+531, [Do not forgot about your state and local elections this cycle], 58pj3f, 1477111549.0, 49
+532, [Institute of World Politics Professor says Hillary Clinton is "unfit" after releasing the "4 minute" nuclear information.], 58ogef, 1477099671.0, 50
+533, [New O'Keefe Video: DNC Schemes to Bully Women at Trump Rally], 58c8si, 1476934043.0, 52
+534, [When will Hillary Clinton be held accountable for Trump rally violence s...], 5880qu, 1476873393.0, 53
+535, [Female Cop Was Afraid to Pull Gun in Fear of Backlash. She Staggered Away Nearly Beaten to Death...], 57pdi4, 1476611963.0, 48
+536, [Muslim Father Rapes Own Daughter For Becoming 'Too Westernized'], 57dqfc, 1476434716.0, 51
+537, [WaPo Blogger Complains That Trump Used Female Pronouns to Refer to Hillary Clinton], 56zj6o, 1476239271.0, 48
+538, [CNN coaches respondents during after debate discussion.], 56rybs, 1476135017.0, 52
+539, [How the moderators hijacked the second debate], 56roc9, 1476130756.0, 47
+540, [Second Presidential Debate - 9PM ET], 56pasb, 1476089468.0, 50
+541, [UNDERCOVER: Crashing College Socialist #SJW Protest], 563jeo, 1475753868.0, 47
+542, [Former Asst. FBI Director Says the Clintons Are a 'Crime Family' -- "Its like organized crime. I mean the Clinton Foundation is a cesspool"], 5adrvz, 1477965165.0, 52
+543, [Black Voters in North Carolina Tell MSNBC Reporter: Trump Loves America, He Loves All People (VIDEO)], 59uvcr, 1477695686.0, 52
+544, [America's Electronic Voting Machines Are Scarily Easy Targets], 58oiw5, 1477100443.0, 48
+545, [PODESTA LEAKS: Chief correspondent of Politico admits "I'm a hack," before sending articles to Podesta for approval and discussing HRC campaign strategy], 580291, 1476769566.0, 51
+546, [Hillary voters struggle to name a single accomplishment], 57x2sk, 1476736555.0, 50
+547, [WIKILEAKS: Clinton Campaign Fudged Climate Change Data - Inflated Emission Numbers], 57bpuc, 1476411003.0, 48
+548, [Donald J. Trump on Twitter: "With the exception of cheating Bernie out of the nom the Dems have always proven to be far more loyal to each other than the Republicans!"], 56yn0l, 1476229454.0, 49
+549, [Judge Jeanine DESTROYS Hillary Clinton], 56haez, 1475967487.0, 50
+550, [Shock poll shows growing number of French back anti-migration hardliner], 55ob03, 1475538847.0, 52
+551, [The New York Times Paid No Taxes in 2014 - Breitbart], 55ij8h, 1475448950.0, 49
+552, [WikiLeaks: Podesta Lamented That a Muslim, Not a White Man, Named as Killer in 2015 San Bernardino Massacre], 57y98o, 1476750632.0, 46
+553, [SCANDAL OF DOUBLE VOTERS 46,000 registered to vote in city & Fla.], 57gpc7, 1476485150.0, 46
+554, [New email shows Brazile may have had exact wording of proposed town hall questions before CNN], 5763qa, 1476330495.0, 49
+555, [CNN Anchors Hyperventilate After Crowd Chants CNN Sucks At Trump Rally], 56ztu5, 1476242579.0, 51
+556, [Age of Obama-Chicago cop says she feared using gun while being beaten], 56dp91, 1475903581.0, 44
+557, [FBI Obtains Warrant Needed to Start Reviewing Emails Found on Laptop Used by Clinton Aide], 5a8qg9, 1477895322.0, 47
+558, [CBS4 Investigation Finds People Voting Twice], 59iv5u, 1477531996.0, 45
+559, [Hillary Supporters Sending Death Threats To Gay Couple Who Support Trump!], 595hy0, 1477355747.0, 48
+560, [#NeverTrump GOP Candidate McMullin Admits His Goal is to Prevent Trump from Winning (Pro-Hillary)], 58x4ou, 1477227212.0, 49
+561, [Did Podesta just have a "LET THEME EAT CAKE MOMENT?" Didn't work out so well for Mary Antoinette], 57s8ah, 1476664653.0, 48
+562, [Podesta Hoping That A Shooter On The News Was White!], 57s1nl, 1476662472.0, 47
+563, [Michelle Obama Attacks Hillary 'If You Can't Run Your Own House, You Can't Run The White House!'], 57hwz9, 1476498665.0, 46
+564, [A professor is under fire after saying Black Lives Matter is as racist as the KKK], 56s20e, 1476136471.0, 51
+565, [Another Clinton Admits Obamacare Is Not Affordable: Chelsea], 563h59, 1475752874.0, 51
+566, [Oops! List of Top 10 Corpate Tax Dodgers Are All Hillary DonorsCompliments Of Bernie Sanders  100percentfedUp.com], 55qojc, 1475566842.0, 48
+567, [Police kill six year old white child, no White Lives Matter riots ensue], 55l0ye, 1475481540.0, 49
+568, [Kansas University conservatives accused of 'violence' for using term 'illegal'], 55juhs, 1475465952.0, 45
+569, [Harry Reid LOSES HIS MIND, Accuses Comey Of Working For Trump], 5af1ao, 1477977202.0, 63
+570, [Robert Creamer on Calls With Clinton Campaign 'Every Morning'], 59oocv, 1477611879.0, 46
+571, [Jonathan Gruber: Obamacare is 'working as designed'], 59ln0o, 1477563829.0, 47
+572, [Voter Fraud Proof - 18 Million Invalid Registration & 2 Million Are Dead - Donald Trump - Lou Dobbs], 58vlkz, 1477204036.0, 46
+573, [WIKILEAKS: Hillary Took Algeria Off Terror Watch List After Donation to Clinton Foundation], 58j1al, 1477022651.0, 47
+574, [Ted Cruz calls for criminal probe into visits by 'voter fraud operative' to Obama White House], 58eg9v, 1476959179.0, 44
+575, [Billy Bush fired by NBC but John Harwood still has a job - Hot Air], 5770m7, 1476340993.0, 45
+576, [California petitions to become first state to offer ObamaCare to illegal immigrants], 5637j5, 1475748906.0, 45
+577, [Supreme Court denies Obama rehearing on US v Texas immigration fight], 55qx29, 1475570163.0, 49
+578, [Clarence Thomas: Were Destroying and Undermining Our Institutions], 5ac5md, 1477948601.0, 45
+579, [Woman surprised to find Donald Trump Jr. was the one who helped push her car], 59v2it, 1477697848.0, 45
+580, [WIKILEAKS: Hillary Clinton reads from script during fake "interview" with MSNBC's Chris Hayes], 572uey, 1476283935.0, 46
+581, ['FOBs': How Hillary's State Dept. Gave Special Attention to 'Friends of Bill' After Haiti Quake], 56z69f, 1476235372.0, 44
+582, [Sen. Mark Kirk (R-Ill.)calls for Trump to step down], 56epfy, 1475917399.0, 44
+583, ['White Privilege' survey in high school class sparks parents ire], 55p4z9, 1475548343.0, 43
+584, [When Will Liberals Answer For Obamacare's Failures?], 59b8he, 1477433703.0, 48
+585, [Stop undermining confidence in U.S. elections!], 58gumn, 1476999258.0, 43
+586, [UNESCO attempts to erase Jewish connection to Temple Mount], 57g10e, 1476476032.0, 42
+587, [Reality Check: DNC Chair Donna Brazile Did Leak Townhall Question To Clinton Campaign], 57edex, 1476443712.0, 43
+588, [Media To Voters: Drop Dead, We're Getting Hillary Elected], 57bz48, 1476413861.0, 46
+589, [Mel Gibson: In "Hacksaw Ridge" interview states: "I hate war, but I love the warrior"], 5631zd, 1475746741.0, 45
+590, [Gun sales hit 17th straight monthly record, up 27 percent], 55tffa, 1475615919.0, 41
+591, [ABC Keeps 'Modernizing' the Family Leftward], 55krg6, 1475477848.0, 40
+592, [John Fund: If Hillary wins, well have a potential blackmail target in the White House], 5aa6dg, 1477913163.0, 40
+593, [Christian refugees threatened with beheading for being 'unbelievers' by Muslim migrants], 59pyck, 1477625198.0, 42
+594, [Key Obamacare premiums to jump 25 percent next year], 597kz8, 1477377551.0, 43
+595, [Trump: Clinton Should Return Money From Countries That Abuse Women], 58hpr4, 1477008885.0, 43
+596, [According to the media Hillary has the composure of a President because she smiles when you call her a crook, and Trump doesn't because he fights back when he is called a racist demagogue.], 58erlr, 1476963009.0, 45
+597, [The rule of law cannot survive with a crook like Hillary Clinton in the White House], 58c0p7, 1476931743.0, 46
+598, [Hillary Clinton Linked To Mysterious Front Associated with Julian Assange Pedophile Smear], 58b9gn, 1476923977.0, 44
+599, [Catholic University BANS Pro-Life Posters to Shield Students From 'Bigotry'], 57yrzy, 1476755946.0, 40
+600, [FBI: 'Rice observed strict adherence to State Department security and Diplomatic protocols while Clinton Frequently and blatantly Disregarded them'], 57y09q, 1476747975.0, 39
+601, [State Police raid Indy office in growing voter fraud case], 565imi, 1475791388.0, 46
+602, [Canadian Imam: 50 year old man marrying 9 year old girl is legitimate in Islam], 5ae141, 1477967568.0, 51
+603, [Giuliani: There Is Enough Evidence Now For A RICO Case Against Clinton Foundation "Racketeering Enterprise"], 5a7moe, 1477882975.0, 40
+604, [Clinton 'fixer': Hillary's affair with Vince Foster 'an open secret' -- Admits paying off reporters, hiding sex romps, joining 'team effort' to destroy Lewinsky], 59dakx, 1477455465.0, 40
+605, [Utah Poll: Trump 30%, McMullin 29%, Clinton 28%], 57y0zv, 1476748208.0, 40
+606, [Report: RNC redirecting funds away from Trump], 56jrxp, 1476000222.0, 40
+607, [Is America Ready For Hillary Clinton's 'Shariah Advisor' In The White House?], 560hoa, 1475715427.0, 45
+608, [Bernie Sanders on CNN: "Of Course" Leaked Hillary Clinton Audio Bothers Me], 55m6x3, 1475499579.0, 40
+609, [DHS Official Admits: Many Refugees Have Been Convicted of Terrorist Offenses in U.S.], 55i620, 1475442881.0, 45
+610, [Comey defied Lynch in telling Congress about renewed Hillary probe], 5a2o4y, 1477804571.0, 45
+611, [Supreme Court Justice Clarence Thomas: Washington D.C. Is 'Broken'], 59pj59, 1477620802.0, 37
+612, [Democrats caught stuffing ballot with campaign materials], 59hzsw, 1477522986.0, 38
+613, [Newt Gingrich EXPLODES at Megyn Kelly Calling Trump a Sexual Predator 'You're Fascinated with Sex!'], 59ha66, 1477514424.0, 40
+614, [Hillary Super Pac], 58rkol, 1477139578.0, 44
+615, [Fox News Is No Longer a Top 20 Best-Perceived Brand Among Republicans], 58iq9i, 1477019384.0, 40
+616, [Wikileaks: Journalists Dined at Top Clinton Staffers' Homes Days Before Hillary's Campaign Launch], 585gsy, 1476844389.0, 40
+617, [Does Hillary have a serious memory problem? Because she cant recall much of anything about her emails - Hot Air], 57i2m7, 1476500439.0, 42
+618, [[Video] Alabama Teen Beaten Into Critical Condition After Posting Blue Lives Matter], 55oz7j, 1475546514.0, 39
+619, [WIKILEAKS: Virginia Gov. Terry McAuliffe Caught Trading Favors with Friend John Podesta in 2013], 59ijhf, 1477528686.0, 43
+620, [Suspect in Boston police shooting wrote of Islamic rebirth, had several aliases], 57g8sj, 1476479160.0, 43
+621, [Pence: 'Trump showed that he is a big man' with debate apology], 56tjpb, 1476153395.0, 38
+622, [Russia Files Complaint Over UN Official's Condemnation of Trump], 56m22n, 1476046511.0, 37
+623, [How The Clinton Foundation Got Rich Off Poor Haitians], 56cete, 1475888558.0, 41
+624, [Bill Clinton bashes Obamacare as 'crazy system' while campaigning for Hillary Clinton], 55ts5b, 1475620688.0, 38
+625, [Pro-Abortion Professor Freaks Out When Black Pro-Life Advocate Compares Abortion to Slavery | LifeNews.com], 5ack2i, 1477953293.0, 42
+626, [CNN: Huma Abedin Negotiating With FBI Over Emails -- computer Abedin shared with her estranged husband, Anthony Weiner contained emails that were deleted from Democratic presidential candidate Hillary Clinton's server before the FBI took possession of it], 5a85a2, 1477888705.0, 39
+627, [Donald Trumps Pathway to Victory Expands as FBI Reopens Criminal Probe of Hillary Clintons Illicit Email Server], 5a49wl, 1477826661.0, 36
+628, [Federal Judge Questions Lack of Christian Syrian Refugees], 59ukla, 1477692295.0, 41
+629, [Post-Debate Discussion - Third Presidential Debate], 58ei8p, 1476959782.0, 40
+630, [How Many Millennials Think Bush Killed More Than Stalin], 57wha3, 1476725613.0, 39
+631, [WikiLeaks: Podesta Asks Clinton's Lawyer, 'Think We Should Hold Emails To and From (Obama)?], 57rtex, 1476659467.0, 37
+632, [Judge dismisses Newtown families lawsuit against Remington, citing the Protection of Lawful Commerce in Arms Act], 57j3lb, 1476512507.0, 42
+633, [Busted AGAIN! Hidden cam busts clinton staffers], 57aseo, 1476400828.0, 41
+634, [Simulated 'Convention of States' is source of hope for government reform], 56xp6u, 1476217171.0, 38
+635, [Ben Shapiro | A Call For Conservative Unity], 56o2im, 1476073345.0, 38
+636, [Hack Shows MSNBC Producer Going Full Hillary Fangirl In Email To Clinton Campaign], 569z3x, 1475848823.0, 35
+637, [EU clamps down on the freedom of British press by ordering them NOT to reveal when terrorists are Muslims], 560ohb, 1475717539.0, 41
+638, [Kaine the interrupter hit for debate demeanor], 560d8f, 1475714003.0, 37
+639, [White House Official Josh Earnest Smugly Dismissed Project Veritas Video Evidence of Mass Corruption], 58qa6c, 1477120483.0, 37
+640, [Convicted Felon Leads Obama-Backed Effort to Lobby for Iran Deal - (Bob Creamer from the Veritas expose!!)], 589r4n, 1476905075.0, 36
+641, ["I really call myself a classical liberal more than a conservative." -Paul Ryan], 588hhb, 1476880008.0, 37
+642, [Assange cut off from outside world by state actor. Wikileaks activates contingencies. Developing Situation MegaThread  /r/The_Donald], 57xd07, 1476740405.0, 40
+643, [3 men charged in Garden City bomb plot], 57nzyr, 1476592940.0, 38
+644, [Clinton Campaign Emails: Raw Contempt For Average Americans], 57h216, 1476489308.0, 38
+645, [Fox News Poll: Clinton leads Trump by 7 points], 57d6a4, 1476427470.0, 38
+646, [Republican Party Toppled by Liberal Long Con: The Classic Pump-and-Dump], 579b7h, 1476377427.0, 40
+647, [Clinton bashes Trump over Russia praise, but emails show she praised Putin], 575xub, 1476328722.0, 37
+648, [New Emails: Clinton Staffers Make ABC Anchor Their Mouthpiece], 56uwsf, 1476168543.0, 38
+649, [Donald J. Trump's Statement regarding comments he made in 2005], 56ffbw, 1475928874.0, 37
+650, [US officials see no link between Trump and Russia: report], 5agmz6, 1477995078.0, 106
+651, [Peter Thiel, live from press club..developing], 5ac86b, 1477949526.0, 36
+652, [Jury acquits leaders of Oregon standoff of federal charges], 59rfdo, 1477641733.0, 37
+653, [Report: Top Global Warming Center Faked Research to Bag Million$ from Taxpayers], 59i7bm, 1477525207.0, 40
+654, [The all time top post on /r/politics is about election fraud...], 58u7hn, 1477186701.0, 40
+655, [Australia Admits Gun Buyback Failure, Announces Amnesty], 58ofqw, 1477099476.0, 37
+656, [Hillary on Leaked Speech Calling for Open Borders: I Was Talking About Electricity!], 58hmqa, 1477008009.0, 35
+657, [New Clinton emails appear to contradict her sworn testimony], 58da6x, 1476945229.0, 37
+658, [Complaint Filed Against Clinton's Campaign Following O'Keefe Videos], 58btwj, 1476929779.0, 41
+659, [Hillary Clinton says she has 'both a public and a private position' on Wall Street: WikiLeaks], 581j47, 1476787383.0, 38
+660, [OKeefe Video Sting Exposes Bird-Dogging  Democrats Effort to Incite Violence at Trump Rallies], 57yo0t, 1476754803.0, 39
+661, [Voter Fraud Is Real. Here is The Proof], 57gdq6, 1476481056.0, 37
+662, [Hillary "Shocked!" By Trump's Sex Talk... But Here's Video of Hillary Threatening Sex Assault Victims in 1995], 56epuo, 1475917563.0, 35
+663, [NY AG Admits Clinton Foundation Failed To Provide 3 Years Of Tax Forms On "Donors And Contributors"], 565lm7, 1475792460.0, 36
+664, [Al Gore is now under criminal investigation and it's bad], 560xlq, 1475720383.0, 40
+665, [Bill Clinton Begins Ohio Bus Tour by Throwing Sanders Under Bus], 5604dt, 1475711247.0, 39
+666, [Judge Throws Out Ferguson Rioters Excessive Force Lawsuit], 55us80, 1475632450.0, 38
+667, [Justice Clarence Thomas: Nation's capital is 'broken'], 59oeva, 1477609078.0, 34
+668, [Tom Perez jokes about murdered girl at Clinton event], 59o7oo, 1477606826.0, 34
+669, [Trump says he'll sue sexual misconduct accusers], 58vm4n, 1477204235.0, 33
+670, [Kansas Bishop: Tim Kaine Is a 'Cafeteria Catholic,' Worshipping What Is 'Politically Convenient'], 58uwod, 1477195199.0, 35
+671, [Dismemberment Abortions Tear Babies Limb From Limb, Hillary Clinton Calls That "a Scare Tactic" | LifeNews.com], 58o6gs, 1477096602.0, 34
+672, [Hillary Clintons Sudden Move Of $1.8 Billion To Qatar Central Bank Stuns Financial World], 58albr, 1476916629.0, 36
+673, [Giuliani: 'Dead People Generally Vote for Democrats'], 57v0dh, 1476699040.0, 35
+674, [Hillary email: Don't help Michael Savage with U.K. travel ban], 57sr84, 1476670847.0, 39
+675, [Donald Trump Challenges Hillary Clinton To Take A Drug Test Before Third Debate: "She's Getting Pumped Up"], 57r83h, 1476650155.0, 38
+676, [Trump calls for drug test before debate], 57n5is, 1476582112.0, 36
+677, [NYT Alleges Trump Groped Woman on Plane  But WILL NOT POST ACTUAL FOOTAGE of Bill Clinton Groping Woman on Plane], 57i68o, 1476501563.0, 32
+678, [Is there a list of all the Hillary scandals/negative things which disqualify her from being president?], 56gyqg, 1475962407.0, 32
+679, [Scott Adams: "My prediction of a 98% chance of Trump winning stays the same."], 56g139, 1475941338.0, 35
+680, [VA Dem Candidate Says Obamacare Has Made Health Care More Affordable, Crowd Breaks Out in Laughter], 56clww, 1475890791.0, 37
+681, [Yale Student Survey Reveals Conservative Views 'Unwelcome' on Campus], 59wyvw, 1477717618.0, 37
+682, [Top Global Warming Center Faked Research to Bag Million$ from Taxpayers], 59fdg9, 1477480378.0, 35
+683, [Media Have Selective Memory When It Comes to Democrats Accepting Election Results -- Democrats challenged the results of the presidential elections in 2000 and 2004], 58hr2j, 1477009279.0, 36
+684, [Rigging the Election - Video II: Mass Voter Fraud], 585i8r, 1476844789.0, 33
+685, [Trump's campaign "pulling out of Virginia"], 579se2, 1476387487.0, 33
+686, [Hillary In Leaked Email: Saudi Arabia And Qatar Are Funding ISIS], 5723np, 1476270879.0, 31
+687, [Iraqis Use 9/11 Bill to Demand Compensation from US for 2003 Invasion], 55nut0, 1475533176.0, 33
+688, [LEAKS: Podestas Friend Admits Close Work With Super-PAC Could Be Illegal], 5advav, 1477966037.0, 33
+689, [Actually, Trump Hotels Seem to Be Doing Fine], 5a9rln, 1477907772.0, 31
+690, [DEMS caught paying patients from a halfway house $300 rebate to vote for HRC in CA!], 5a8bfz, 1477890630.0, 35
+691, [VIDEO : Newt Gingrich The Clinton Family is a Corporation Engaged in Organized Crime], 5a2us9, 1477806910.0, 33
+692, [Hillary Slams FBI for 'Unprecedented' Interference in Election], 5a2r6l, 1477805659.0, 32
+693, [Dem admits: Passing Obamacare without GOP 'one of the worst things'], 5a1rqr, 1477793746.0, 35
+694, [Huffington Post: Muhammad was a Feminist], 5a08ht, 1477773111.0, 32
+695, [MEMO: Clinton Used Foundation As Cover To Raise Cash For Their Own Benefit], 59vcyy, 1477700875.0, 34
+696, [Rancher yearns for Trump wall on US-Mexico border], 59up73, 1477693776.0, 34
+697, [Triggered: Journalist Snowflakes Scared Trump Supporters Are 'Turning on the Media'], 59o945, 1477607302.0, 34
+698, ["Dont Repeat That To Anybody" - Hillary Clinton And Donna Brazile Implicated In Latest Project Veritas Video], 596agw, 1477363761.0, 36
+699, [EMAIL: Podesta asked 'How bad is her head?'], 594qyw, 1477347677.0, 34
+700, [Watch "Dear Mainstream Media" on YouTube], 58qios, 1477123572.0, 37
+701, [LA Times reporter: "What stuck out to me about Trump's speech was not his harshness toward Clinton but his obvious resentment toward the elite in the room."], 58mwx5, 1477081419.0, 32
+702, [Ahead of Al Smith Dinner, Cardinal Dolan says Hillary owes Catholics an apology], 58l6z5, 1477049236.0, 32
+703, [Islamic centre wants neighboring bar's liquor licence revoked], 583qjd, 1476825643.0, 38
+704, [Clinton aides alarmed by Bills Energizer in leaked emails], 57mvbl, 1476578587.0, 33
+705, [The election official who spoke his mind on vote fraud], 57m5cq, 1476568553.0, 35
+706, [David Burge on Twitter: Please help stamp out testifying under oath, America's leading cause of Alzheimer's disease], 57h5id, 1476490377.0, 34
+707, [12,587 Syrian Refugees Admitted in FY 2016: 12,486 Muslims, 68 Christians, 24 Yazidis], 55o8ir, 1475537982.0, 36
+708, [Gang of 17 migrant men in horror sex attack on two women in church square], 5aag1c, 1477917129.0, 32
+709, [Hillary Clintons email investigation is being reopened and Paul Krugman is losing his damn mind], 5a0pv7, 1477780856.0, 35
+710, [Trump pledges new deal for black America], 59kmjn, 1477550841.0, 34
+711, [[Hillary makes snide remark] Trump: "...such a nasty woman." Smart people: "Trump just insulted all women!" I'm too dumb for this election.], 59d7oy, 1477454666.0, 31
+712, [A 19-year-old social conservative beat Tory heavyweights to run as PC candidate in Ontario by-election], 597qy6, 1477379470.0, 34
+713, [The First Broken Promise of Hillary Clinton's Presidency -- Why her vow not to add a penny to the debt is an impossible pledge to keep], 58ufpf, 1477189418.0, 33
+714, [If You Dont Like Either Candidate, Then Vote for Trumps Policies], 58ubc4, 1477187999.0, 34
+715, [Trump's Joke About Melania Stealing Michelle Obama's Speech], 58nfbj, 1477088121.0, 36
+716, [The Missing "Oh Shit" Link Revealed: Hillary Admits "I Asked That They Be Deleted"], 58chtu, 1476936640.0, 32
+717, [MAGA...], 58bzl6, 1476931418.0, 36
+718, [Feingold Says Clinton to Use 'Executive Order' on Guns], 57ci9j, 1476419745.0, 29
+719, [Wikileaks reveals exactly how the Clinton campaign, bullies, seduces, manipulates and dominates its media coverage], 57caxm, 1476417510.0, 34
+720, [NYTIMES: Two Women Say Donald Trump Touched Them Inappropriately], 577iud, 1476347602.0, 31
+721, [NYC election official claims voter fraud in minority neighborhoods], 5723g8, 1476270793.0, 33
+722, [WikiLeaks Outs NYT Maggie Haberman as Clinton Operative], 56vm6d, 1476177835.0, 34
+723, [Hillary's Townhall in Haverford PA Where She Stages Question with Child Actor], 561lqx, 1475727968.0, 33
+724, [Fraudulent Hillary blasts the very tax loopholes she uses], 561739, 1475723378.0, 31
+725, [Save The Day Response - Excellent video to all those famous actors], 55l6mf, 1475483761.0, 31
+726, [The Obama administration is using billions of dollars in banking fines to fund radical left-wing activist groups that work to elect Democrats], 5a9s7s, 1477908005.0, 36
+727, [Republican Defeatism About Trump Not Warranted By Current Polling], 59rox2, 1477645041.0, 34
+728, [Rigging the Election - Video IV: $20K Wire Transfer From Belize Returned], 59k7w6, 1477546213.0, 32
+729, [Marilyn Mosby would like to prevent cops from opting for bench trials], 59iql0, 1477530704.0, 36
+730, [Emails show Clinton camp scrambling over 2015 threat of Biden run], 59ikdl, 1477528945.0, 30
+731, [Clinton Ally McAuliffe Donated $500,000 to Campaign of FBI Official's Wife], 5992tm, 1477396419.0, 34
+732, [CBS Pushes PC Attack on Wonder Woman: Large-Breasted, White' 'American Flag Motif'], 58pwas, 1477115799.0, 36
+733, [SJWs Attack White Savior US Chess Champion For Anti-Iran Womens Rights Campaign], 57arwy, 1476400662.0, 30
+734, [McMullin surges to a 3-way tie in Utah], 573p20, 1476302641.0, 33
+735, [Congressman Jason Chaffetz withdraws his endorsement of Donald Trump], 56f85u, 1475925540.0, 31
+736, [Donald Trump Says Central Park Five Are Guilty, Despite DNA Evidence], 56do4b, 1475903185.0, 30
+737, [If Trump Can Debate Like Pence, He Can Win], 562ufk, 1475743785.0, 31
+738, [No Encores for Tim Kaines Creepy Clown Act], 55zl7c, 1475704776.0, 32
+739, [Hypocrite Hillary Bashes Wells Fargo at Rally... But Took $258,000 from Wells Fargo Executives (Video)], 55s6df, 1475590262.0, 35
+740, [Can You Trust The Press?], 55n2c0, 1475519813.0, 30
+741, [Doesnt Clinton Embarrass Democrats?], 59xgoz, 1477723387.0, 30
+742, [To Protest Racism, Students Block White People From Campus Entrance], 59wo39, 1477714390.0, 29
+743, [FBI reopening Clinton email investigation], 59vplp, 1477704517.0, 30
+744, [Dirty laundry: Bill Clinton overpriced his old underpants to inflate tax write-off], 59pnix, 1477622090.0, 30
+745, [Poll: Over Half of Clinton Supporters Will Not Accept Trump as a Legitimate President], 59frw6, 1477486344.0, 29
+746, [Hillarys Upset That Trump Says He Wont Accept Election Results. Heres What Hillary Has To Say About Election 2000.], 58i96x, 1477014488.0, 31
+747, [Democratic Operative In Veritas Videos About Voter Fraud, Inciting Violence Visited The White House 342 Times], 58ah5b, 1476915283.0, 35
+748, [WikiLeaks: Politico Reporter Offered Clinton Camp Chance to Edit Story], 584czj, 1476833011.0, 32
+749, [FULL EVENT: Donald Trump ENORMOUS 21k Rally in CINCINNATI, OHIO 10/13/2016 Trump Cincinnati Speech], 57r9f3, 1476650826.0, 29
+750, [A brilliant and well spoken take down of HRC. Do not skip this one folks.], 57gdki, 1476480996.0, 30
+751, [FBI Source: Majority Of Staff On Clinton Case Wanted Her Prosecuted], 578tn6, 1476366899.0, 30
+752, [Laura Ingraham: The Trump Betrayal By Republican Elites Won't Soon Be Forgotten], 574jyd, 1476313864.0, 31
+753, [Wikileaks Dump Shows Clinton Campaign Was Tipped Off Before State Dept. Released Emails], 56z07m, 1476233572.0, 32
+754, [Wikileaks dump: Team Hillary was terrified GOP would nominate anyone other than Trump.], 56vaqi, 1476173575.0, 30
+755, [Fact Check of Hillary's Debate Statement: "Police Are Outgunned" (xpost /r/firearms)], 55lyql, 1475495585.0, 29
+756, [Stocks sink after new email review tied to Clinton -- when did news of a Republican win start to crater the stock market?], 5a4gj7, 1477829645.0, 30
+757, [VIDEO : Gowdy DEBUNKS Clinton FAKE Presser DEMANDING Comey Release Emails, She Knows Evidence Cant be Released], 5a2tt8, 1477806580.0, 29
+758, [Survey Says Yale Deeply Unwelcoming to Conservative Students], 59zpqs, 1477761468.0, 34
+759, [Two women busted for election fraud in Miami-Dade], 59wk5y, 1477713208.0, 30
+760, [The worst of ObamaCare is yet to come], 59gwa0, 1477508261.0, 29
+761, [Fail: Gun-Controlled Australia Admits Criminals Still Armed, Launches New Amnesty - Breitbart], 5909w4, 1477279986.0, 28
+762, [Event Thread - Al Smith Dinner], 58kiam, 1477039892.0, 30
+763, ['WTF' Moment at 3rd Presidential Debate: Hillary Gives Away Time it Takes for US Nuclear Response], 58h1gm, 1477001505.0, 26
+764, [Reporters at Vegas Debate Caught Cheering for Hillary], 58eohm, 1476961907.0, 27
+765, [Howard Dean insists "Quid Quo Pro" accusation is a Russian lie; Can't understand it is an FBI release and not Wikileaks. Then tries to blame Chaffetz. Not one single scandal that Hillary Clinton has been accused of, has ever, ever, been proved.], 5853cf, 1476840617.0, 30
+766, [Peter Thiel to Donate $1.25 Million in Support of Donald Trump], 57prv2, 1476618297.0, 28
+767, [Former Miss Universe Pageant Manager: I Have Never Heard One Accusation Against Mr. Trump (VIDEO)], 57n0xn, 1476580495.0, 29
+768, [Former U.S. Attorney: Agents See FBI Chief Comey as a Dirty Cop], 57hmbd, 1476495486.0, 34
+769, [Bolton: Hillary Thinks the World Must 'Get Ready for Open Borders], 57by0b, 1476413526.0, 29
+770, [As protesters accuse her husband of rape, Clinton blasts Trumps scorched earth tactics], 57826k, 1476354853.0, 29
+771, [Is Islam a Religion of Peace? | Ayaan Hirsi Ali for PragerU], 56sfv0, 1476141230.0, 30
+772, [Michele Bachmann Stands Behind Trump, Audio Leaks "Coordinated to Manipulate the Media"], 56idzm, 1475981575.0, 28
+773, [Lindsey Graham: Syria is Obama's Rwanda -- "Obama has ... empowered some of the most tyrannical regimes in the world... His legacy is unleashing the forces of hell"], 566u3m, 1475806756.0, 30
+774, [Protester Interrupts Bill Clinton With A Bill Clinton A Rapist Sign], 5652w4, 1475785122.0, 31
+775, [Pence edges Kaine in VP debate instant poll], 55y2w2, 1475675391.0, 32
+776, [Columbia student reported for 'gender misconduct' after calling himself 'handsome' in class], 55tiwu, 1475617291.0, 32
+777, [Gay Tech Billionaire Peter Thiel Doubles Down on Support for Trump], 5aezpk, 1477976767.0, 43
+778, [FBI Obtains Warrant Needed to Start Reviewing Emails Found on Laptop Used by Clinton Aide], 5a8tko, 1477896305.0, 30
+779, ["I wanna tell my kids that I did the right thing this election"], 5a7hyr, 1477881539.0, 30
+780, [[1st Women POTUS] 13yoGIRL Delivers Amazing Speech at Donald Trump Rally in Arizona Phoenix], 5a3be7, 1477812792.0, 30
+781, [Our Sidebar Tribute feature started at the time of Margaret Thatcher's death (April 8th, 2013). Since that time, the moderators of /r/Conservative have updated it weekly on a rotating basis, with a "community choice" selection thrown in occasionally.], 5a2db1, 1477800830.0, 29
+782, [Sen. Pat Toomeys neighborhood vandalized with anti-GOP graffiti], 59hgss, 1477516815.0, 29
+783, ['Draw them to punch you': 2 Dem operatives lose jobs after undercover video comments], 58cieq, 1476936804.0, 30
+784, [hillary an embarrassment as SOS, just wait to see how she acts if she becomes prez], 58by16, 1476930957.0, 28
+785, [One Million Reasons Obamacare Made Things Worse -- At least that many people will lose their health plans in January.], 57wjim, 1476726988.0, 32
+786, [My favorite radio host from DFW - Mark Davis - on why you should support Trump if you're a conservative], 574fyn, 1476312630.0, 29
+787, [Obama Admin Rushes More Than 900 Refugees Into U.S. On Consecutive Days, On Track for 185,000 in FY17], 56j9uo, 1475993095.0, 26
+788, [Hillary Clinton on Twitter: Every survivor of sexual assault deserves to be heard, believed, and supported.], 56h0y3, 1475963482.0, 33
+789, [NFL enduring unprecedented double-digit TV ratings drops this year], 55usns, 1475632587.0, 29
+790, [Why I had to kill my sister to defend our familys honor.....religion of peace.], 55qf7q, 1475563448.0, 28
+791, [Liberals Sign Petition to Allow Illegal Immigrants to Vote in 2016 Presidential Election], 55owew, 1475545645.0, 28
+792, [Podesta Wont Deny That FBI Revelation Entirely Stems From Clintons Own Actions], 5ac70t, 1477949091.0, 29
+793, [PolitiFact: Trump Is Lying When He Repeats What Hillary Clinton Actually Said], 5a0ofk, 1477780262.0, 25
+794, [Revoke the FCC licenses of the news agencies associated with the "Wikileaks 65" news personalities pending investigation], 59i9id, 1477525853.0, 28
+795, [Texas County Switches to Paper Ballots after Software Glitch], 59dmdd, 1477458955.0, 26
+796, [Tech analysis of emails leaves us wondering how Donna Brazile is still working at the DNC], 59b04g, 1477430887.0, 27
+797, [LA Times Editors Call For Banning All Guns In The United States], 595b04, 1477353839.0, 29
+798, [PSA: Correct the Record strategy for week], 58z4r8, 1477266560.0, 31
+799, [Schools Ditch Academics For Emotional Manipulation], 58ae3k, 1476914267.0, 27
+800, [TRUMP answers question about Marijuana Legalization], 57pufc, 1476619454.0, 30
+801, [Here Are Hillary Clinton's Three Speeches To Goldman Sachs For Which She Was Paid $675,000], 57o0xp, 1476593296.0, 29
+802, [Why Is Trumps Sexual Depravity Bad But Bill Clintons Okay?], 57i8dr, 1476502212.0, 31
+803, [DC Circuit Delivers a Blow for the Constitution -- The court ruled the Consumer Financial Protection Bureau unconstitutional.], 57ftl6, 1476472444.0, 26
+804, [Ben Shapiro | Trump's Final Con], 56yduo, 1476226543.0, 26
+805, [Leaked emails show tension inside Clinton inner circle], 56xp3t, 1476217133.0, 32
+806, [Mainstream Media: America's Pravda Continues], 56xl16, 1476215172.0, 28
+807, [Prager U | Why is College So Expensive?], 56ai9i, 1475860470.0, 27
+808, [Clinton Sought Pentagon, State Dept. Contracts for Chelsea Friend], 5657za, 1475787260.0, 29
+809, [Under Intense Pressure to Silence Wikileaks, Secretary of State Hillary Clinton Proposed Drone Strike on Julian Assange], 55r3zb, 1475572938.0, 27
+810, [US fails to make most free top ten list], 55otmj, 1475544775.0, 29
+811, [ESPN Loses 621,000 Subscribers; Worst Month in Company History], 5a4gwc, 1477829817.0, 27
+812, [NYT: New Emails in Clinton Case Came From Devices Once Used by Anthony Weiner], 59wuyu, 1477716456.0, 27
+813, [Ben Shapiro: McConnell Was Not Elected To Give An Up Or Down Vote On Hillary Clintons Judicial Nominees], 59o9br, 1477607371.0, 24
+814, [Failure to find a sexual partner is now a DISABILITY says World Health Organisation], 58o67z, 1477096530.0, 24
+815, [Show of Hands Leaves CNN Anchor Speechless When She Polls Undecideds After Last Presidential Debate], 58o2py, 1477095419.0, 24
+816, [Hillary and the Book-Burners], 58n7bc, 1477085338.0, 27
+817, [Rubio Warns GOP On WikiLeaks: 'Tomorrow, It Could Be Us'], 58ast4, 1476918962.0, 26
+818, [Obama Lectures Trump on "Rigged" Elections -- Forgets That Democrats Just Rigged Primary Against Bernie], 586rc4, 1476857841.0, 27
+819, [SAS hero killed ISIS fighter with AXE just before he abuses sex slaves], 57zl23, 1476764414.0, 26
+820, [Clinton Claims Matthew Was Caused By Climate Change, But...], 57jaov, 1476515051.0, 27
+821, [FBI Served with Request for Hillary's Backup Device...Object Is in FBI's Possession], 57ebzw, 1476443131.0, 29
+822, [The Huffington Post Is Now Actively Encouraging Felony Gun Theft], 57cfqr, 1476418988.0, 28
+823, [Schwarzenegger says he won't be voting Republican for the first time ever], 56j65w, 1475991711.0, 25
+824, [Massive Voter Fraud Sweep Under Way By Texas AG], 56atct, 1475867180.0, 28
+825, [White House to Americans: Pay Astronomical Deductibles -- Or Else], 565sno, 1475794892.0, 28
+826, [A childs scraped knee becomes a desperate 2-month hospitalization in Venezuela], 55zdci, 1475701704.0, 27
+827, [Book details how Team Obama schemed to let Hillary skate], 55snsz, 1475601571.0, 28
+828, [Clinton manager reticent to comment on report Clinton floated drone strike against Wikileaks], 55s4qx, 1475589364.0, 28
+829, [Progressive Bias? Twenty Democrats for Every One Republican in Journalism Faculty], 55kh82, 1475474032.0, 30
+830, [7 Things You Need To Know About The FBI's Renewed Hillary Investigation], 5afmyz, 1477983462.0, 36
+831, [Carville Melts Down: Asserts FBI, GOP and KGB in Cahoots], 5afgjg, 1477981523.0, 34
+832, [Presidential historian on HRC: Its like Watergate], 5af9mo, 1477979556.0, 33
+833, [Confirmed: U.S. Code Title 18 Part 1 Chapter 2071 Hillary Is Officially Disqualified To Run For President], 5aa4yt, 1477912588.0, 25
+834, [CNN vs. FOX. Clearly we don't care enough about ratings.], 5a0kh5, 1477778619.0, 27
+835, [CNN: Clinton Campaign Stunned' by News of FBI Investigation], 59xsa4, 1477727429.0, 25
+836, [UK Reporter Calls CNN "Clinton News Network - Your Coverage Is Totally Biased"], 59q55m, 1477627189.0, 26
+837, [Justice Clarence Thomas: We are destroying our institutions], 59ob56, 1477607928.0, 27
+838, [What does it mean to be Republican anymore?], 59gqd6, 1477505078.0, 25
+839, [Draining the swamp], 594gyf, 1477344175.0, 30
+840, [Sign the petition: We the people ask congress to meet in emergency session about removing George Soros owned voting machines from 16 states], 58z3lp, 1477266144.0, 28
+841, [Obama Blames Far-Right Media for Pumping Out All Kinds of Crazy Toxic Stuff], 58v046, 1477196377.0, 27
+842, [Washington Post: $400 million in cash 'may have whetted' Iran's appetite for more American prisoners (Update)], 58jzwm, 1477033444.0, 27
+843, [When Hillary claimed for 240 years our candidates have respected the result of elections how on Earth does Trump not mention Bill Clinton VP going to court over HIS LOSS and appealing all the way to SCOTUS??], 58eglu, 1476959279.0, 25
+844, [Democrat Endorses Rand Paul In Kentucky Senate Race], 58a564, 1476911034.0, 27
+845, [Former BLM Leader: Black Lives Matter on 'Wrong Side of History], 58a4ez, 1476910777.0, 26
+846, [Pretty funny anti-Clinton ad], 581old, 1476789441.0, 26
+847, [Georgia County Cuts the Cord, Refusing Federal "Sustainability" Funds], 56ta7s, 1476150455.0, 25
+848, [A CNN poll where 58% were Hillary supporters only had Hillary winning the debate 57-34%], 56q95d, 1476101937.0, 27
+849, ['Cocks Not Glocks' crew gets invited to the White House], 56jar6, 1475993429.0, 26
+850, [ICE Officials Tell TRUMP Illegals Are Being Allowed to Vote - That's Why They They Won't Deport Them], 56fifl, 1475930403.0, 25
+851, [ISIS Calls for Random Knife Attacks in Alleys, Forests, Beaches], 55zkf3, 1475704477.0, 27
+852, [Known facts regarding the Clinton investigation], 5absm2, 1477943765.0, 27
+853, [4 FBI Offices have been quietly investigating the Clinton Foundation for months], 5a8y4w, 1477897774.0, 25
+854, [Australian Miss Universe says Trump treated her with respect], 5a1u9g, 1477794572.0, 25
+855, [This is what happens when you protest against immigration in France], 5a1bcn, 1477788359.0, 24
+856, [Beautiful SNL Sketch showing the relationship between rednecks and African-Americans.], 59fccu, 1477479949.0, 24
+857, [Survey: Trump has 38-point lead over Clinton in Wyoming], 59cc2p, 1477445429.0, 24
+858, [NY Assemblywoman Claudia Tenney: Hillary Clinton 'Destroyed' New York as Senator; Imagine What She'd Do to Country as President], 594vls, 1477349210.0, 25
+859, [Obama will do just about anything to save ObamaCare], 593zty, 1477337181.0, 26
+860, [Illinois Judge Orders Phyllis Schlafly Website to Take Down All Pro-Trump Articles], 591ce7, 1477292791.0, 25
+861, [Podesta Wikileaks Horror: Voter ID Doesn't Stop Alien Voting], 58l0pi, 1477046749.0, 26
+862, [MSNBC's Reid Sneers: Fraud Concerns Are Code for 'Black People' 'Stealing Election'], 58ke8n, 1477038387.0, 26
+863, [8 Times Liberals Claimed An Election Was Stolen Or Rigged], 58gxzg, 1477000439.0, 24
+864, [Obama seeks to end free speech and restrict conspiracy news websites], 585hn8, 1476844623.0, 23
+865, [WikiLeaks: Podesta, Soros Henchman Schemed Over Scalia Replacement], 584cv7, 1476832974.0, 26
+866, [Some Things Never Change: Hillary Looted the State Dept. - Just Like She Looted The White House], 581ljq, 1476788265.0, 23
+867, [Hillary Clinton Supplied Cash, Weapons, Tanks, Training to Al-Qaeda to Kill Gaddafi; Weaponize ISIS in Syria], 57rmtb, 1476656862.0, 24
+868, [Why conservatives will need a new party if/when Hillary wins], 57rhmc, 1476654647.0, 24
+869, [FIGURES. Trump Accuser in NYT Hit Piece Linked to Clinton Foundation], 57c5pa, 1476415873.0, 24
+870, [Sanders on WikiLeaks reveals: Look forward, not backward], 57bbvm, 1476406837.0, 26
+871, [Terrific! #NeverTrump Candidate Evan McMullin Says Republicans Are Racist], 578mwo, 1476363745.0, 26
+872, [Flashback: Hillary Laughed on Tape About Rape of 12-Year-Old Girl], 56xlkv, 1476215464.0, 26
+873, [RUMBLINGS: Top Paul Ryan Advisor Leaked Trump Sex Talk Tape to WaPo], 56wl9d, 1476192602.0, 26
+874, [Has anybody asked why the Trump audio wasn't made available a year ago?], 56o6yf, 1476074836.0, 29
+875, [Top Cardinal: Islam Wants to Conquer the World], 56k7vi, 1476007096.0, 22
+876, [Ryan sickened by Trumps lewd comments in video], 56et7u, 1475918985.0, 23
+877, [Leaked memo shows Clinton was provided questions ahead of interview], 56a0vp, 1475849732.0, 26
+878, [CNN Goes "Full Reuters" - Attempts To Rig VP Debate Poll With Too Many Dems In Sample], 565jkh, 1475791723.0, 23
+879, [5 Prominent Democrats With Big-Time Tax Problems Who Didnt Get Loads of Media Attention], 55szg5, 1475608451.0, 25
+880, [Hillary To Be Investigated By U.N. For Election Fraud], 55qall, 1475561775.0, 27
+881, [NYT on How Hillary "Grappled" with Bill Clinton's Infidelities: Destroy the Accusers], 55oqdb, 1475543767.0, 26
+882, [Under Intense Pressure to Silence Wikileaks, Secretary of State Hillary Clinton Proposed Drone Strike on Julian Assange], 55ld0x, 1475486375.0, 28
+883, [Join Me, Christians. I Promise To Grant Your Religious Liberty A Quick, Clean Death. | Clinton Op-Ed Satire], 5afm0x, 1477983171.0, 29
+884, [Resignation letters piling up at FBI -- reopening investigation into Hillary Clintons emails came after FBI Director Comey could no longer resist mounting pressure by FBI agents described as mutinous], 5a86ip, 1477889128.0, 26
+885, [Three in Florida, Virginia charged with voter fraud], 5a2sg8, 1477806102.0, 24
+886, [UC Irvine students demand Rally for America be canceled], 5a15m2, 1477786459.0, 22
+887, [Democrat-Run Cities Push Plans to Let Non-Citizens Vote], 59wrxk, 1477715543.0, 24
+888, [FBI Reopens Clinton E-Mail Probe Less Than 2 Weeks Before Vote], 59vsgg, 1477705292.0, 25
+889, [FBI Reopens Clinton Email Investigation], 59vrn6, 1477705071.0, 22
+890, [American Mideast Coalition endorses Trump], 59jgb5, 1477538044.0, 22
+891, [Reports That Clinton Foundation CEO Sought Asylum in Russia in Fear For His Life], 59e5xi, 1477465151.0, 24
+892, [Just Before Election, Hillary Caught Breaking Election Law], 595r56, 1477358328.0, 23
+893, [Ceremony honoring police before HS game sends 'frightening message,' ACLU says], 594fev, 1477343624.0, 22
+894, [Well he isn't wrong.], 593aeu, 1477322496.0, 24
+895, [Ben Stein Brings Bueller Back in Awesome New GOP Ad], 58tvpm, 1477182711.0, 24
+896, [Most accurate pollster in 2012 has Trump +1 going into the Debate], 58dctr, 1476946086.0, 23
+897, [Thanks for giving me the choice, Google.], 58b1lm, 1476921644.0, 23
+898, [CNN's Stelter: Its False and Ludicrous that the Media Colluded with Clinton Campaign], 57ulz6, 1476693546.0, 26
+899, [Now, even Democrats can see the ObamaCare death spiral], 57ukm5, 1476693049.0, 24
+900, [Marco Rubio blasts President Obama for moves to normalize Cuba relations], 57tza2, 1476685355.0, 24
+901, [Obama White House threatens war with Russia to score political points for Hillary Clinton], 57rtvx, 1476659633.0, 25
+902, [WSJ: 'Nation Now Has Proof' of Hillary Scandals, But Leftist Media 'Devote Its Front Pages to the Trump Story'], 57rqjg, 1476658363.0, 26
+903, [Emails show Bloomberg wants to be Clintons secretary of state], 57r8c4, 1476650273.0, 24
+904, [Bill Clinton: Donald Trump base is 'your standard redneck'], 57bg6s, 1476408086.0, 25
+905, [The deep disgust for Hillary Clinton that drives so many evangelicals to support Trump], 56mjxd, 1476054470.0, 24
+906, [Cops used a helicopter and the National Guard to take an 81-year-old womans medical marijuana plant], 56bqxe, 1475880883.0, 25
+907, [Obama Administration Is Quietly Delaying Thousands of Deportation Cases], 5699lq, 1475837116.0, 25
+908, [Architect Of Obamacare Blames Republicans For Law's Problems], 565ypa, 1475796859.0, 25
+909, [Bill Weld: Media Is Publishing Made-up Stories About Me], 561tlt, 1475730504.0, 25
+910, [Supreme Court denies Obama request to rehear major immigration case], 55oqax, 1475543745.0, 24
+911, [The new Comey], 5a5umw, 1477860351.0, 27
+912, [FBI to conduct new investigation of emails from Clintons private server], 59vscn, 1477705264.0, 25
+913, [EPA Commissar Orders Americans To Live Like It's 1899], 59v9w2, 1477699990.0, 23
+914, [Assange claims crazed Clinton campaign tried to hack WikiLeaks], 59pv3g, 1477624268.0, 23
+915, [Spike In Immigrants Illegally Crossing Into US Ahead Of Election], 59h9tt, 1477514273.0, 23
+916, [Obamacare Architect: Obamacare Premium Increases Are 'Going to Be Severe' For 'A Million People'], 59ee2h, 1477467811.0, 24
+917, [Media Bias -- Liberal Reporters Hide Bias by Claiming They Are Independents], 58q4wd, 1477118670.0, 23
+918, [Germans Are Leaving Germany 'In Droves'], 58n393, 1477083914.0, 21
+919, ['Deport Them Immediately': Established Migrants in Germany Unhappy About Refugee Influx], 585wti, 1476848896.0, 21
+920, [Elizabeth Warren Goes After Trump By Making Chicken Noises. Seriously.], 5859jq, 1476842339.0, 22
+921, [CNN/Rubio: Iran nuclear deal an unfolding disaster - world sees "an American president bend over backward" for Iran], 5858gb, 1476842039.0, 21
+922, [Curt Schilling says he's running for the Senate in 2018 - Business Insider], 58519c, 1476840016.0, 23
+923, [Illegal Alien Living in New York Voted in Over 20 Elections], 57hnvu, 1476495919.0, 23
+924, [Donald Trump demands retraction of NY Times article about alleged assault and threatens lawsuit], 57bsfs, 1476411803.0, 23
+925, [IT'S SPREADING: "Bill Clinton a Rapist" Signs on Today Show - Heckler at Tim Kaine Rally! (VIDEO)], 56c7p5, 1475886296.0, 25
+926, [Smithsonian Black History Museum Cuts Out Clarence Thomas], 567v7r, 1475818190.0, 24
+927, [Clinton Foundation refiles three years of tax forms], 565uif, 1475795499.0, 23
+928, [Bill Clinton slams ObamaCare: 'Its the craziest thing in the world'], 55y1it, 1475674647.0, 25
+929, [Largest segment in recent U.S. immigrant surge came from Muslim nations], 55vww4, 1475645133.0, 23
+930, [National Academies Hides $500 Billion 'Immigration Tax' In 495-Page Report], 55uzrg, 1475634774.0, 23
+931, [Alien Invasion: Documents show non-citizens are registering or voting by the thousands in two key swing states.], 55u61x, 1475625366.0, 23
+932, [Wednesday Hillary Clinton is done: Reports Julian Assanges announcement on Tuesday will finish her], 55j1ej, 1475455828.0, 24
+933, [Clinton Supporters Vandalize Trump International Hotel in DC - Liberal Media Completely Ignores Attack], 55im29, 1475450036.0, 25
+934, [Own up to NAFTA, Democrats: Trump is right that the terrible trade pact was Bill Clintons baby - Salon.com], 55iit8, 1475448770.0, 26
+935, [New Clinton Probe Proves Early Voting Is Bad For America], 5ac7th, 1477949397.0, 21
+936, [Agents Accuse Feds of Covering Up Record Border Detainee Numbers for 2016 Election], 5abyjk, 1477946078.0, 24
+937, [Democratic Socialism is Still Socialism], 5ab8bc, 1477932630.0, 20
+938, [Hillary's 12 point lead shrinks down to just ONE POINT - as polls show Trump gaining steam in Florida BEFORE FBI's email reveal], 5aahm4, 1477917835.0, 23
+939, [From the Mouths of Babes... New York City First Graders Say Hillary Lies too Much], 5a3drp, 1477813699.0, 22
+940, [Clintons remodeled home without getting required permits], 5a2s9u, 1477806030.0, 24
+941, [Homeless Woman Protecting Trump Star Beaten, Signs Destroyed.], 59z0ne, 1477746166.0, 21
+942, [FBI to Reopen Investigation Into Clinton Email Servers], 59vq5c, 1477704657.0, 23
+943, [Illegals accounted for 7 percent of all births in 2014], 59my1i, 1477586185.0, 21
+944, [Poll: Republicans Trust Trump Over Paul Ryan], 59kce4, 1477547589.0, 23
+945, [UC Berkeley 'identity' groups protest for safe spaces, block passage to white students], 59jh4d, 1477538277.0, 21
+946, [Trump-related broadcast news stories negative 91 percent of time, study finds], 59bqsr, 1477439312.0, 24
+947, [LEAKED CLINTON INTERNAL DOCUMENT: Discourage Trump Supporters with Bogus Polls and Declaring Election Over], 592x55, 1477315309.0, 24
+948, [No, Hillary, The Supreme Court's Heller Decision Wasn't About Toddlers], 58h23j, 1477001714.0, 21
+949, [Florida Democrats push for new voting rules - ballots to be cast before registration verified], 58gtx0, 1476998996.0, 21
+950, [Here's a nice video condensing the corruption of the dnc, with a British accent to boot], 58dmkg, 1476949341.0, 20
+951, [Witness: DNC tour bus dumps human waste into storm drain], 587ic7, 1476866880.0, 21
+952, [Don't ask CNN's Brooke Baldwin about term limits], 5879kd, 1476863825.0, 23
+953, [Canadian Students Demand Censure of Bigoted Professor Who Refuses to Use Correct Gender Pronouns], 574jb0, 1476313656.0, 20
+954, [Largest Voter Fraud Investigation in Texas History Underway in Tarrant County], 570lok, 1476251166.0, 21
+955, [Islam Apologists Are CANCER], 56zf59, 1476238028.0, 23
+956, [Wikileaks: Debate Moderator John Harwood Emailed Podesta -- Often], 56yt16, 1476231288.0, 23
+957, [Ben &amp; Jerrys declare support for Black Lives Matter, calls for ice cream boycott ensue], 56fhfw, 1475929891.0, 20
+958, [Cruz: Trump remarks 'disturbing and inappropriate'], 56ewug, 1475920559.0, 23
+959, [FEC war: Dems reject call to protect Internet news, talk radio from regs], 56532n, 1475785204.0, 22
+960, [UPI/CVoter poll: Trump regains lead over Clinton as September ends], 55igfw, 1475447785.0, 20
+961, [CNN's Snarky Screen: Why Won't Gary Johnson Quit Presidential Run?], 55ibjd, 1475445596.0, 23
+962, [Voter Fraud: Multiple Dead People Voting In Colorado], 5ae016, 1477967300.0, 23
+963, [FBI Obtains Warrant Needed to Start Reviewing Emails Found on Laptop Used by Clinton Aide], 5a93jz, 1477899549.0, 20
+964, [FBI Obtains Warrant for Newly Discovered Emails in Clinton Probe], 5a8spt, 1477896025.0, 20
+965, ['Emails say nothing, really' - Eric Holder on Podesta leak (Keiser Report TEASER)], 5a2x9z, 1477807780.0, 22
+966, [When Will Liberals Answer for Obamacare's Failures?], 5a29k4, 1477799549.0, 21
+967, [Wth the new premium hikes middle class couples will save significantly over 10k per year by getting divorced and staying in the same house.], 59qno4, 1477632679.0, 21
+968, [Former Reagan Official: Evangelicals Calling for Trump to Withdraw Are Wrong -- The 3,000-plus people that a president would appoint to fulfill his or her goals are key to understanding the importance of an election. Those appointees have an "immense impact" on religious freedom], 59jwm9, 1477542854.0, 22
+969, [Before Gen Petraeus Was Busted for Classified Info Violations, Hillary Gave Him Some Email Advice], 593t6h, 1477333785.0, 22
+970, [Foster mum's horror after 12-year-old refugee revealed to be 21-year-old Jihadi], 591ior, 1477295082.0, 19
+971, [Why Does the Left Stop the Poor from Choosing How to Educate Their Children?], 590x0n, 1477287442.0, 21
+972, [Thousands of California soldiers forced to repay enlistment bonuses a decade after going to war], 58uyxc, 1477195953.0, 22
+973, [When Every GOP Presidential Nominee Is the Worst Republican Ever], 58u1w7, 1477184815.0, 20
+974, [Judge doubles down against Obama's bathroom plan -- 'The scope of this injunction should be and is nationwide'], 58hsth, 1477009834.0, 21
+975, [DNC Schemes to Bully Women at Trump Rally], 58cdjj, 1476935387.0, 23
+976, [Rigged election? Democrat operative admits MASSIVE voter fraud], 585spb, 1476847725.0, 21
+977, [Fox News: Assange to Be Arrested Within the Next Few Hours], 584dyn, 1476833315.0, 20
+978, [Welcome Aboard!], 580iyh, 1476774803.0, 21
+979, [47 Lawmakers Demand Answers to HHS Rule Requiring Doctors to Perform Gender Transition Procedures], 57rtsi, 1476659597.0, 22
+980, [Democrats expose their own problems by attacking Trump], 57qnq4, 1476637000.0, 19
+981, [Justice Department decides to pass on prosecuting EPA officials over Gold King spill], 57mr92, 1476577120.0, 20
+982, [The Associated Press Spins For Hillary], 56rgla, 1476126669.0, 22
+983, [Ferguson effect? Savagely beaten cop didnt draw gun for fear of media uproar, says Chicago police chief], 56kjz5, 1476012518.0, 21
+984, [Your conduct, sir, is the distraction: Sen. Mike Lee calls on Donald Trump to step down], 56jb10, 1475993530.0, 18
+985, [A brave girl who fled a Muslim marriage in Kuwait opens up about her support for Trump and Milo while unloading on feminism and Islam apologists.], 56dwi5, 1475906119.0, 22
+986, [The Final Days: Cruz, Ryan Stump For Trump], 567lfh, 1475815084.0, 21
+987, [VP Debate Gives Mike Pence The Chance To Prosecute Case Against Hillary], 55wesx, 1475651318.0, 22
+988, [EXCLUSIVE: DHS Refuses To Investigate Top Official Who Fast-Tracked Visas For Hillarys Brother], 55vb21, 1475638239.0, 21
+989, [Trump Tax Return Story Exposes Policy Ignorance Of Political Reporters], 55t08u, 1475608882.0, 21
+990, [Corporate feminism is a problem  but not for the reasons feminists think.], 55i5jy, 1475442612.0, 23
+991, [BREAKING: DOJ FINALLY Secures Warrant To Inspect Humas Emails], 5aac3n, 1477915478.0, 19
+992, [Trump Talks Faith, Religious Liberty, and Abortion In EWTN Interview], 59wk3q, 1477713187.0, 20
+993, [Erica Garner rips Clinton camp over emails on her father's death], 59qb4z, 1477628897.0, 22
+994, [Trump Is Inspiring Rust Belt Democrats To Cross Over], 59kj5q, 1477549730.0, 21
+995, [Clinton Campaign Chairman Had Multiple Dinners With Top DOJ Official During Clinton Email Investigation], 59i3ge, 1477524078.0, 18
+996, [Nets Silent on Perjury Sentencing of Democratic Attorney General], 59g4y8, 1477492791.0, 20
+997, [Clinton Cronys Allies Donated $675,000 to Political Campaign of FBI Officials Wife], 5975cl, 1477372702.0, 21
+998, [Clinton Foundation Employed Now-Imprisoned Senior Muslim Brotherhood Official], 594sm1, 1477348227.0, 21
+999, [Trump Up 2 Points Nationwide, While Clinton Campaigns As If The Race Is Already Won  IBD/TIPP Poll], 591im3, 1477295049.0, 20
+1000, [Univeristy of Toronto testing free-speech rights], 58yhc2, 1477257059.0, 20

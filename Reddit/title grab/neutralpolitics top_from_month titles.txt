@@ -1,0 +1,43 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [No fact-checking thread for tonight's debate], 56lznk, 1476045126.0, 664
+2, [Why is healthcare in the United Stated so inefficient?], 5742g4, 1476307994.0, 587
+3, [Why is Trump doing so much better in the tracking polls than standard polls?], 58vq93, 1477205787.0, 459
+4, [What independent evidence corroborates or refutes the allegations made via the recent James O'Keefe video?], 58jxzh, 1477032823.0, 391
+5, [[Announcement] Live fact-checking thread tonight for US presidential debate], 58djsx, 1476948380.0, 364
+6, [How does the Philippines' potential "separation" from the US affect the power dynamics in Asia and the dispute over the South China Sea?], 595066, 1477350617.0, 330
+7, [What are some arguments for and against the US's decision to spend so much on defense, and have military bases around the world?], 57sm6k, 1476669202.0, 320
+8, [What alternatives for a fair redistribution of districting have been proposed to counter gerrymandering?], 57ggkc, 1476482099.0, 307
+9, [What are the merits and drawbacks of California Proposition 60, condoms in pornographic films?], 5a6u1h, 1477874049.0, 306
+10, [What is the neutral approach to addressing sexual assault allegations made against both Bill Clinton and Donald Trump?], 57axd8, 1476402383.0, 304
+11, [What are the pros and cons of the Standing Rock pipeline?], 5aezki, 1477976728.0, 459
+12, [What are the implications of Hillary Clinton's foreign policy principles in Syria and their effect on the American-Russian relationship? How do they differ from Obama's?], 56vrsv, 1476179994.0, 286
+13, [Final Debate Fact Checking Thread], 58dqa1, 1476950644.0, 285
+14, [Trump's tax plan: Does it actually raise taxes on the middle class?], 55xtwu, 1475670767.0, 280
+15, [In light of Lebron James' announcement to support Clinton - What historical effect have high profile celebrities/athletes had on polling/voting in their respective state?], 55qwmi, 1475569983.0, 283
+16, [What are the pros and cons of California's propositions on death penalty reform?], 583kwl, 1476823731.0, 237
+17, [How do Democratic senators win in states that are solid for Republicans, and vice versa, with the decline of split ticket voting?], 55kyz6, 1475480780.0, 206
+18, [Looking for a site for economist's views], 59ia78, 1477526037.0, 210
+19, [How serious are the accusations that Hillary Clinton silenced and damaged the reputations of women who alleged sexual misconduct by Bill Clinton?], 56lx7n, 1476043676.0, 205
+20, [What legislation is the left proposing to fix the gender wage gap that is not already in the Equal Pay Act of 1963?], 565hgf, 1475790934.0, 201
+21, [What are the practical and hypothetical implications of the Obama Administration officially blaming Russia for interfering with the election?], 56fwq5, 1475938484.0, 138
+22, [Influence of education on social mobility and equality appears very low. What now?], 57a4s9, 1476392637.0, 135
+23, [Is there a way to find out the US debt repayment obligations broken down by year?], 560kuj, 1475716415.0, 135
+24, [Post-debate discussion thread], 58etts, 1476963853.0, 129
+25, [Judicial activism: what is the proper definition; is there empirical evidence of this phenomenon; is it a feature or a bug; if a bug, what are policies that can deal with it?], 56a7r1, 1475853734.0, 126
+26, [[META] What Are You Reading? Week of 10/28], 59tqpe, 1477679892.0, 119
+27, [Why is the income of illegal aliens prorated (partially ignored) when considering household eligibility for the SNAP (food stamps) program? What kind of effect on our taxes, economy, and society does this provision have and is it a net positive or negative overall?], 57k8ob, 1476529140.0, 105
+28, [[META] What Are You Watching? Week of 10/17], 580dan, 1476773011.0, 101
+29, [What caused the fall of Salvador Allende and Rise of Pinochet?], 5abn29, 1477941128.0, 91
+30, [Is Obamacare working or not? Should it be repealed?], 5948q1, 1477341129.0, 86
+31, [Donald Trump has released a five point plan on ethics reform. Do these points have merit?], 582h58, 1476802543.0, 78
+32, [[META] Announcing New Community Initiative], 5753u7, 1476319918.0, 74
+33, [Did Filipino Foreign Policy just pull a 180?], 56wfhb, 1476189634.0, 54
+34, [Looking for some college educated voter statistics, any help?], 58zl22, 1477272012.0, 52
+35, [Corporate tax incentives and inter-state competition], 58jk31, 1477028331.0, 46
+36, [Are there any constitutional provisions for a scenario where a major party candidate pulls out of the election?], 56kbmw, 1476008718.0, 36
+37, [Who would pay for family leave under Clinton's plan? Employers or the federal government?], 595ftv, 1477355171.0, 29
+38, [Have there been any polls this election cycle using Ranked or Approval voting systems?], 562r39, 1475742507.0, 29
+39, [Harry Reid has accused James Comey of violating the Hatch Act. Is there a strong case to be made for this? Is there solid evidence for the Trump Campaign - Russian Actor allegation?], 5afc3n, 1477980272.0, 48
+40, [To what extent is a third party vote a vote for Trump or a vote for Clinton?], 5a7556, 1477877601.0, 22
+41, [how do we know that the things wikileaks puts out is real?], 59ycrb, 1477735474.0, 14
+42, [Why don't the public have access to all Clintons emails (from her time as SoS) under the FOIA?], 5a605n, 1477862997.0, 11

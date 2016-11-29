@@ -1,0 +1,65 @@
+ITEM NUMBER, THREAD TITLE,THREAD ID, CREATION TIME, SCORE
+0, DEFAULT ENTRY, NONE, 0, 0
+1, [Californian’s ballot initiative would require legislators to wear logos of top 10 contributors], 3ygh45, 1451290374.0, 10143
+2, [Rep. Mia Love wants to limit congressional bills to one subject at a time], 42sc14, 1453855243.0, 10062
+3, [Nebraska Just Abolished Civil Forfeiture, Now Requires A Criminal Conviction To Take Property], 4fnqns, 1461193252.0, 9389
+4, [Justice Department says it will end use of private prisons], 4ycwv3, 1471563251.0, 9189
+5, [Obama Endorses Idea of National Voting Holiday], 4j3232, 1463118335.0, 9074
+6, [McCain: Anyone Who Says Waterboarding Works is a Liar | "We tried Japanese generals and hung them for war crimes," said McCain. "One of the crimes was waterboarding."], 44zv2i, 1455092317.0, 8410
+7, [DNC Email Leak Megathread], 4u5ztv, 1469264469.0, 8305
+8, ["Six justices" on the U.S. Supreme Court have been "confirmed in presidential election years since 1912."], 4ay9f8, 1458336119.0, 8299
+9, [Homeland Security Secretary Jeh Johnson said Thursday his department is considering classifying electronic polling stations across the country as "critical infrastructure," entitling them to the same level of cyber-protection as the nation's power grid and financial sector.], 4wadp4, 1470432499.0, 8162
+10, [Congress is going to try to expand the Patriot Act tonight and hopes no one will notice], 4scrzl, 1468294055.0, 8137
+11, [Woman leading Flint lead poisoning lawsuit found shot dead in her home], 4g6j9u, 1461494916.0, 8097
+12, [President Barack Obama began an annual tradition of science fairs, arguing that if he celebrates the nation’s top athletes at The White House, he should do the same for the best young scientific talent.], 4vr6gd, 1470149184.0, 7966
+13, [Russ Feingold calls for making internet a utility], 51lmo4, 1473288707.0, 7798
+14, [Tim Canova, Debbie Wasserman Schultz's Primary Opponent, is Denied Access to Voter Files], 4apubh, 1458191413.0, 7793
+15, [Americans' Trust in Mass Media Sinks to New Low], 52scw6, 1473911439.0, 7774
+16, [Confirming Big Pharma Fears, Study Suggests Medical Marijuana Laws Decrease Opioid Use. Study comes after reporting revealed fentanyl-maker pouring money into Arizona's anti-legalization effort], 537gyt, 1474152020.0, 7742
+17, [Marijuana legalization is leading in every state where it’s on the ballot this November], 55zek9, 1475702200.0, 7592
+18, [Jimmy Carter: US campaign funding is 'legal bribery'], 43z987, 1454524071.0, 7569
+19, [Richard Sherman wants billionaires, not taxpayers, to pay for stadiums], 50d83w, 1472617445.0, 7556
+20, [Congressman plans bill to overturn CISA ‘cyberspying’ legislation snuck into omnibus], 3ys8f5, 1451512507.0, 7545
+21, [Sanders calls notion he should quit Democratic race 'absurd'], 4awjff, 1458298837.0, 7540
+22, [Bernie Sanders: Obama Administration “Should Kill” The AT&T-Time Warner Deal: “Higher Prices & Fewer Choices”], 591def, 1477293138.0, 7577
+23, [Wells Fargo admits deception in $1.2 billion U.S. mortgage accord], 4e1ar4, 1460238371.0, 7501
+24, [Shoemaker New Balance is criticizing the Obama administration over the Trans-Pacific Partnership. The company is trying to make a running shoe with 100 percent American parts and feel the trade deal will doom shoes made in the U.S.], 4g3nvu, 1461450341.0, 7501
+25, [The Supreme Court has rejected an effort by Nebraska and Oklahoma to have Colorado's pot legalization declared unconstitutional], 4bccob, 1458597509.0, 7508
+26, [Bernie Sanders Slams Decision Not To Reclassify Marijuana: "People can argue about the pluses and minuses of marijuana, but everyone knows it’s not a killer drug like heroin."], 4x924g, 1470963914.0, 7492
+27, [Sanders Calls for Wasserman Schultz to Resign After Email Leaks], 4ud9tk, 1469398614.0, 7483
+28, [President Obama is seriously considering an executive order that would require companies doing business with the federal government to disclose their political contributions], 41w757, 1453350453.0, 7390
+29, [The ACLU is about to launch a campaign urging Obama to pardon Edward Snowden.], 52e421, 1473712577.0, 7382
+30, [Harvard study: Policy issues nearly absent in presidential campaign coverage], 53si3z, 1474482497.0, 7369
+31, [President Jimmy Carter says America, a once-free nation, is now an oligarchy, and that’s not just his opinion. It is provable, and backed up by the research of top political experts and scholars.], 492viu, 1457221734.0, 7332
+32, [Jeb Bush Suspends 2016 Presidential Campaign], 46t5hs, 1456048283.0, 7328
+33, [President Barack Obama signs into law a ban on tiny plastic particles used in personal cosmetic products that scientists say are polluting U.S. lakes, rivers and the oceans.], 3ypt1y, 1451461682.0, 7304
+34, [New Mexico Passed a Law Ending Civil Forfeiture. Albuquerque Ignored It, and Now It’s Getting Sued], 50i25f, 1472689711.0, 7295
+35, [These Louisiana politicians are demanding flood aid, but voted against Sandy relief], 4z2j4b, 1471925653.0, 7286
+36, [Phoenix mayor requests federal investigation into long voter wait times], 4bpi7a, 1458810457.0, 7248
+37, [Vermont Senate approves marijuana legalization 16-13], 47j0j6, 1456438073.0, 7242
+38, [Jimmy Carter calls for return to publicly-financed elections], 4o86et, 1466036948.0, 7160
+39, [Connecticut Police Accidentally Record Themselves Conspiring to Fabricate Criminal Charges Against Protester], 53icsu, 1474330810.0, 7138
+40, [Senior Associate Justice Antonin Scalia found dead at West Texas ranch], 45munw, 1455428773.0, 7134
+41, [Poll: 66 percent think presidential election process is broken], 4bx0sw, 1458950015.0, 7096
+42, [DNC rolls back Obama ban on contributions from federal lobbyists], 45fgw8, 1455322923.0, 7083
+43, [The Supreme Court ruled unanimously Tuesday that a Maryland man may proceed with his lawsuit alleging that the state’s congressional redistricting plan was unconstitutionally gerrymandered.], 3vxz85, 1449619710.0, 7067
+44, [TPP: "If U.S. Congress signs this agreement despite its blatant corruption, they'll be signing a death warrant for the open Internet and putting the future of free speech in peril."], 3s0878, 1447020613.0, 7068
+45, [Woman who filed first Flint lawsuit against government is murdered just days after suspicious death of foreman at city's water treatment plant], 4g7zxw, 1461530504.0, 7066
+46, [Sheriff’s Raid to Find Blogger Who Criticized Him Was Unconstitutional, Court Rules], 4zrysk, 1472289224.0, 7062
+47, [Senator Elizabeth Warren Requests Formal Investigation About Why The Obama Administration Did Not Prosecute Wall Street], 52wjxw, 1473980360.0, 7066
+48, [6 Mich. employees criminally charged in Flint water crisis], 4v70hs, 1469833539.0, 7039
+49, ["It took pressure from the White House – including a phone call with President Obama – to get her to finally see the writing on the wall. Two reliable sources say Wasserman Schultz was trying to make top aides take the fall, rather than take personal responsibility."], 4uj3aq, 1469488511.0, 7008
+50, [2,500 Native Americans Successfully Block Oil Pipeline Construction -- State of Emergency Declared], 51v3av, 1473416475.0, 6993
+51, [Medical marijuana is no longer banned at the federal level. The near 2,000-page federal spending bill that was passed the other day included a provision that lifts the medical marijuana ban. The war on medical marijuana is now nearly over.], 3xlz43, 1450669031.0, 6982
+52, [Worried About Voter Turnout? Demand an Election Day Holiday: "Voters need time to vote."], 3s9wtn, 1447194031.0, 6978
+53, [Iowa Passes Plan to Convert to 100 Percent Renewable Energy. "We are finalizing plans to begin construction of the 1,000 wind turbines, with completion expected by the end of 2019,"], 50n3ez, 1472764364.0, 6975
+54, [The Case For A New National Holiday: Election Day], 58bdiz, 1476925154.0, 6930
+55, [Milwaukee Police Forcibly Arrested Two Men Last Night for Doing Nothing Wrong. They Got a Surprise When One Was A State Rep and the Other Was from the ACLU.], 50ph7s, 1472791896.0, 6919
+56, [Hillary Clinton Gets $13 Million From Health Industry, Now Says Single-Payer Will "Never, Ever Come To Pass"], 43ifoc, 1454259388.0, 6894
+57, ["Riot" Charges Against Amy Goodman Dismissed in Press Freedom Victory], 57z438, 1476759448.0, 6879
+58, [Obama to pick Merrick Garland for Supreme Court], 4anxgp, 1458165703.0, 6872
+59, [The alcohol industry is bankrolling ads to scare you about legal pot], 58v3nv, 1477197650.0, 6851
+60, [Leaked documents reveal secretive influence of corporate cash on politics], 52qcos, 1473886977.0, 6828
+61, [Marco Rubio dropped out of the Republican presidential race on Tuesday night after losing badly to Donald Trump in his home state of Florida.], 4albfr, 1458116670.0, 6823
+62, [Sanders revs up ‘public option’ fight after Aetna leaves ObamaCare: "In my view, the provision of healthcare cannot continue to be dependent upon the whims and market projections of large private insurance companies whose only goal is to make as much profit as possible.”], 4y1zex, 1471411878.0, 6831
+63, [Debbie Wasserman Schultz Booed at Chaotic Florida Delegation Breakfast], 4uilgl, 1469482207.0, 6803

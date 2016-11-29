@@ -1,0 +1,411 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Maine could become the first state in the nation to have ranked-choice voting], 55dbwr, 1475359596.0, 133
+2, [Merrick Garland Deserves a VoteFor Democracys Sake. By Barack Obama], 4tg6pe, 1468890020.0, 80
+3, [I am German, please explain to me why Trump is being taken seriously.], 53yjow, 1474573701.0, 62
+4, [Why is there such a visceral hatred of Hillary Clinton?], 42bq3z, 1453598743.0, 59
+5, ["When politics becomes fundamentally unreal, the nature of political decision-making changes. Everything is fiction, so voters can only choose the fiction that best suits their taste and aligns with their self-image. Thus politics becomes devoured entirely by personal aesthetics." - Ned Resnikoff], 54yrgh, 1475126941.0, 51
+6, [How Russian propaganda in the form of falsified emails made it into the stump speech of the Republican Presidential candidate.], 56wiuo, 1476191323.0, 51
+7, [I Miss Barack Obama], 454avc, 1455159296.0, 52
+8, [15 years later, we're still fighting in Afghanistan, and no one seems to care.], 56ib48, 1475980580.0, 49
+9, [President Obama regrets filibustering the nomination of Supreme Court Justice Samuel Alito in 2006, his top spokesman said Wednesday, though he maintains that the Republican opposition to his effort to replace Justice Antonin Scalia is unprecedented.], 46dhtn, 1455806677.0, 48
+10, [Most Republicans Feel Embarrassed by Campaign], 4bhwci, 1458689745.0, 44
+11, [The lockdown by mods of the New Years gang assaults is playing right into negative perceptions of censorship. The discussion, no matter how ugly, needs to proceed unimpeded!], 3znety, 1452072726.0, 47
+12, [This is not 2000 all over...], 58jpcl, 1477030017.0, 45
+13, [Youre Asian, Right? Why Are You Even Here?; What I learned when I was attackedand sparedbecause of my race at a Black Lives Matter protest.], 4zq61l, 1472265850.0, 45
+14, [User asks Quora: Why am I now drawn to Donald Trump for President despite the fact that I originally thought he was a joke? Tom Klein Answers (as one does on Quora.) "Because you are a primate."], 46mv99, 1455945502.0, 44
+15, [Hillary Clinton celebrates victory. Sanders says: Next Tuesday we continue the fight, in the last primary, in Washington, D.C.,], 4n6aza, 1465436670.0, 42
+16, ["Corruption Is Not A Type Of Petty Crime But A Tool Of Power, In Both Democracies And Dictatorships"], 59cc84, 1477445464.0, 39
+17, [Hillary ducked a question I really would have liked an answer to...], 58esgs, 1476963324.0, 40
+18, [Your Surgeon Is Probably a Republican, Your Psychiatrist Probably a Democrat], 56p64i, 1476087648.0, 39
+19, [Trump dropped 15% in prediction markets in three days, why is that?], 4csubn, 1459497759.0, 39
+20, [Six reasons for Trump's rise that no one talks about. (Bear with the new title, the article is more evenhanded)], 57i0hs, 1476499769.0, 44
+21, [Were the Only Plane in the Sky: Where was the president in the eight hours after the Sept. 11 attacks? The strange, harrowing journey of Air Force One, as told by the people who were on board.], 51yp09, 1473472212.0, 40
+22, [The Summer of the Shill; Campaign 2016 won't just have lasting implications for American politics. It's obliterated what was left of our news media], 4y0uk8, 1471398901.0, 38
+23, [Jeb Bushs breathtaking campaign implosion: How a GOP front-runner became the please clap candidate], 44hl98, 1454814364.0, 40
+24, [CNN Parts Ways With Donna Brazile After Debate Questions Were Provided to Clinton], 5ae4ak, 1477968403.0, 58
+25, [Trump is the GOPs Frankenstein monster. Now hes strong enough to destroy the party.], 47o8d7, 1456506194.0, 40
+26, [Donald Trump is well on his way to the 1,237 delegates he needs to be the GOP nominee], 47evks, 1456376433.0, 40
+27, [Iraq declares Ramadi liberated from Islamic State], 3yjvrg, 1451356618.0, 39
+28, [Kenyan Muslims shield Christians in Mandera bus attack], 3xqhkj, 1450753061.0, 37
+29, [Two Women Say Donald Trump Touched Them Inappropriately], 57bbr9, 1476406802.0, 40
+30, [I Ran the C.I.A. Now Im Endorsing Hillary Clinton.], 4wb0sf, 1470440729.0, 39
+31, [State Dept. Audit Faults Hillary Clinton in Emails], 4l0dit, 1464221102.0, 39
+32, [Im a Republican. You Couldnt Pay Me to Vote for Trump.], 41euel, 1453085823.0, 38
+33, [Supporters Of Trump - Who was the last Republican you supported and why?], 3vymj5, 1449628469.0, 37
+34, [Gary Johnson can't name a single foreign leader he admires, admits to having "an Aleppo moment"], 5550gt, 1475219231.0, 37
+35, [Bill Clintons Meeting With Loretta Lynch Causes Stir in Both Parties: Ms. Lynch oversees the Justice Department, which oversees the F.B.I., which is looking into the circumstances around Hillary Clintons use of a private email], 4qskck, 1467418627.0, 38
+36, [I've always voted Republican, but will never vote for Trump or Cruz. Please pitch me on your candidate!], 48n27v, 1456967373.0, 34
+37, [The Seven Habits of Highly Depolarizing People: How to make friends and influence people on the other side of the aisle.], 4775h6, 1456271130.0, 31
+38, [Who replaces Justice Scalia?], 45nbcu, 1455434209.0, 37
+39, [Hillary Immediately Brings Disgraced DNC Chair Onto Her Campaign], 4ugon0, 1469447757.0, 33
+40, [Why do people think that Trump fans were the problem in Chicago this last weekend?], 4afjjf, 1458024090.0, 32
+41, [What Ted Cruz saying he wants to return to the gold standard says about him.], 44jebw, 1454839121.0, 38
+42, [What would be the most realistic path for a GOP victory in 2020 should Trump lose?], 4xoj2d, 1471217063.0, 32
+43, [National Review, conservative thinkers stand against Trump], 426p9b, 1453514361.0, 33
+44, [Hagel: The White House Tried to Destroy Me; In an exclusive interview, Chuck Hagel said the Obama administration micromanaged the Pentagon, stabbed him in the back on the way out -- and still has no strategy for fixing Syria.], 3xdau6, 1450489774.0, 33
+45, [Four US states demand restraining order to stop internet power handover to ICANN], 557djp, 1475262260.0, 32
+46, [Donald Trump says he will sue all women accusing him of sexual harassment], 5977f6, 1477373327.0, 29
+47, [Why are Democrats so shocked at Trump's allegations of election fraud? Don't most Democrats think 2000 was stolen in Florida, and many think 2004 was stolen in Ohio?], 58jsdu, 1477030992.0, 29
+48, [Our political parties are based more and more on absurd tribalism], 4txrhh, 1469146263.0, 34
+49, [Obama Cites Lack of Day After Plan in Libya as Biggest Mistake], 4ecf9g, 1460432963.0, 32
+50, [Brexit: What happens now?], 4pnm5d, 1466812822.0, 30
+51, [Trump, Sanders explore an unconventional presidential debate], 4l7tgh, 1464329717.0, 30
+52, [Ecuador acknowledges restricting Assange's internet amid Clinton leaks], 58b4u6, 1476922608.0, 28
+53, [Obamacare Is Stuck in a Feedback Loop of Bad Policy and Bad Politics], 50dlx6, 1472622006.0, 31
+54, [Two Russian warplanes flew simulated attack passes near a U.S. guided missile destroyer in the Baltic Sea on Tuesday, the U.S. military said, with one official describing them as one of the most aggressive interactions in recent memory.], 4es8sl, 1460683619.0, 28
+55, [In America's current polarizing political scene, is there any argument that could make a Bernie supporter condone or even understand Trump and his supporters? Or vice versa? Have we lost the ability to communicate ideas over party lines? What can be done?], 4c13wf, 1459026697.0, 28
+56, [FBI announces that it is reviewing new evidence in its investigation into her use of a private email server as Secretary of State.], 59w1is, 1477707807.0, 29
+57, [When the Suspect Is an Armed Black Man -- and the Cop Is Black], 4z1d2d, 1471912213.0, 28
+58, [What policy issues show the greatest generational divide?], 4x2l3h, 1470870651.0, 27
+59, [Emails Released by WikiLeaks Appear to Show DNC Trying to Aid Hillary Clinton], 4uj8sm, 1469490335.0, 26
+60, [Bernie Sanders: Hillary Clinton is not qualified to be president], 4ds4i6, 1460078961.0, 29
+61, [This year my family joined millions of others whose health-insurance premium has become their biggest annual expense.], 49pfjt, 1457577545.0, 27
+62, [Scalias death plunges court, national politics into turmoil - Senate Majority Leader Mitch McConnell (R-KY) said in a statement that the Senate controlled by his party should not confirm a replacement for Scalia until after the election.], 45ob6w, 1455448896.0, 28
+63, [Michigan Gov. Rick Snyder excluded from congressional hearing on Flint water], 432am0, 1453994965.0, 28
+64, [France Is Asking Everyone for Help in Its War Against ISIS], 3td0hd, 1447918451.0, 29
+65, [Forget Trumps temperament and Clintons stamina. Voters care less and less about candidates personalities], 55zhy5, 1475703514.0, 26
+66, [The Big Sort: Why the Clustering of Like-Minded America Is Tearing Us Apart [LONG] (treat it like a podcast)], 53h9s4, 1474316489.0, 27
+67, [Request: Subs featuring informed, conservative political discussion], 4zkogl, 1472185815.0, 27
+68, [Why should Guantanamo Bay NOT be closed?], 4r2660, 1467584296.0, 28
+69, [Donald Trump says he has "never met" Vladimir Putin], 58r7pt, 1477133669.0, 26
+70, [Remember When Donald Trump Said National Borders Were A Bad Idea?], 4pzbza, 1466998893.0, 26
+71, [Donald Trump Has Delegate Majority for Republican Nomination, The A.P. Says], 4l6gkb, 1464312723.0, 25
+72, [Bernie Sanders celebrates Indiana win, criticizes closed primaries], 4hvuux, 1462414920.0, 25
+73, [My thoughts on Cruz choosing Fiorina as his running mate], 4grf15, 1461831061.0, 27
+74, [Congress overrides Obama veto of Justice Against Sponsors of Terrorism Act], 54yp2w, 1475126169.0, 23
+75, [The State of the Presidential Debate], 53sktl, 1474484112.0, 27
+76, [Does anybody know where I can find a good written/recorded debate between a moderate left-winger and a moderate right-winger?], 53dc6k, 1474251003.0, 25
+77, [WAPO Fact Checker: Clintons claim that the FBI director said her email answers were truthful], 4vnfef, 1470098661.0, 26
+78, [Is universal backlash against third-party support merited?], 4uvebj, 1469664577.0, 24
+79, [For Trump, the GOP is no longer the party of Bush], 4ttlzc, 1469080561.0, 24
+80, [Gary Johnson could give us President Paul Ryan: Here is the math.], 4m3zen, 1464849202.0, 26
+81, [The Jacksonian creed was "Opportunity for all, favoritism to none." This is a message that should resonate today.], 4fz07h, 1461368517.0, 27
+82, [The Obama Doctrine], 49w5aa, 1457681701.0, 25
+83, [How do we deal with the growing disconnect between the US military and the US people?], 57u2rd, 1476686597.0, 22
+84, [What do you think of an increased tax on gasoline in order to help fund public transportation and reduce urban sprawl?], 542ylx, 1474631767.0, 24
+85, [Read the Interview Where Gary Johnson Asked What Aleppo Is], 51sc0z, 1473382980.0, 24
+86, [Did you "Feel The Bern"? Are you now "With Her?"], 4sixxa, 1468381276.0, 21
+87, [Moderates of Reddit, who are you voting for, and WHY?], 4s8zy5, 1468237174.0, 22
+88, [Trump Campaign Manager Was a Foreign Agent for Controversial Saudi Prince], 4phyxv, 1466732198.0, 24
+89, [US struggles to convince Iraqis it doesn't support IS], 4ikf9y, 1462841053.0, 26
+90, [A veteran's view on the nra and the sad state of gun violence in this country], 57os58, 1476603319.0, 24
+91, [As The Race Tightens, Dont Assume The Electoral College Will Save Clinton], 50ubfl, 1472865239.0, 24
+92, [Colin Powell Says Hillary Clinton's 'People Have Been Trying to Pin' Email Scandal on Him], 4z1pu9, 1471916248.0, 23
+93, [Im the shooter. Its me, the man said. I am the shooter. I did it for ISIS, the caller said, according to Gentili, I did it for the Islamic State.], 4oebhm, 1466124614.0, 23
+94, [Isn't it interesting...], 4em7zl, 1460591978.0, 22
+95, [Duterte aligns Philippines with China, says U.S. has lost], 58hln6, 1477007686.0, 22
+96, [Are Gary Johnson and Jill Stein hurting each other?], 4y9uxl, 1471517301.0, 22
+97, [U.S. Sent Cash to Iran as Americans Were Freed; Obama administration insists there was no quid pro quo, but critics charge payment amounted to ransom], 4vzug8, 1470275892.0, 22
+98, [Free Spaces Not Safe Spaces], 4ch17f, 1459308141.0, 24
+99, [There is a way out of this Trump nightmare and it goes through the Valley], 48yv9e, 1457148640.0, 22
+100, [As moderates, how do you feel about the republican debate moderators appearing to have an agenda against Trump?], 48y4ia, 1457138986.0, 22
+101, [Which presidential candidate's message resonates with you the most and why?], 47r7oh, 1456548381.0, 23
+102, [Why has the number of banks in the US decreased every quarter since the 1980s?], 3y0ruv, 1450942678.0, 22
+103, [Officials: San Bernardino shooter apparently radicalized, in touch with terror subjects], 3vbe7t, 1449199354.0, 23
+104, [When Debbie Wasserman Schultz resigned as DNC Chair, she was named Honorary Chair of Clinton's 50-State Program. Now that Clinton is doing more down-ballot campaigning, do we know whether DWS is actually doing work on that effort?], 59t3i8, 1477665863.0, 21
+105, [Cybersecurity experts discuss the security of Americas electronic voting systems by breaking down vulnerabilities at the state, local and manufacturer level], 59hzp1, 1477522957.0, 22
+106, [Election systems in the United States, specifically e-voting machines, are extremely vulnerable to manipulation by computer hackers and outside adversaries, a report released Monday reveals], 53pcm2, 1474431044.0, 20
+107, [Has there ever been a "Bombshell" in any candidate's tax returns?], 4j7zz9, 1463196977.0, 23
+108, [UN says violence suffered by civilians in Iraq "remains staggering", with at least 18,800 killed and 3.2 million displaced internally between 1 January 2014 and 31 October 2015.], 41r0j8, 1453269840.0, 22
+109, [Trump Tours Flood Damage in Louisiana], 4yl5qu, 1471668092.0, 19
+110, [Nigel Farage's first speech to the European Parliament after Brexit vote  full transcript], 4qbwwi, 1467178247.0, 20
+111, [Trump Campaign Manager Corey Lewandowski Ousted: Trump's top strategist, Paul Manafort, will be moved into the campaign manager role, two sources tell NBC News.], 4ozj29, 1466468308.0, 21
+112, [In light of the 2016 primary debacle, what is your Ideal voting system reform?], 4nopni, 1465732217.0, 21
+113, [Government and industry leaders assess the state of federal cybersecurity one-year after the discovery of the OPM breach, discussing the importance of cyber hygiene, new federal cybersecurity initiatives and long-term resiliency opportunities], 4mj1vq, 1465086958.0, 21
+114, [Bernie Sanders digs in], 4koz3m, 1464052028.0, 21
+115, [Ted Cruz drops presidential bid], 4hvs1k, 1462414002.0, 19
+116, [An idea to get everyone to confront their erroneous political biases and come to grips with the facts.], 49g27r, 1457430439.0, 19
+117, [Australian Federal government's 'no jab, no pay' welfare law sparks run on vaccines, gets children their first shots.], 46v9ot, 1456090571.0, 21
+118, [Iraqi government forces are advancing into the centre of the city of Ramadi, which is controlled by jihadist group Islamic State (IS), officials say.], 3xut2e, 1450833756.0, 20
+119, [U.S. Increases Special Operations Forces Fighting ISIS in Iraq], 3v2hzl, 1449042293.0, 21
+120, [Clintons Campaign is having to answer for $12 million the Clinton Foundation received from the king of Morocco.], 595tk8, 1477359006.0, 17
+121, [The 7 must-read passages in the Benghazi report: From the video conference that was convened as the attack was underway to the unlikely assistance the Americans received that night.], 4qoauw, 1467353206.0, 18
+122, [US election: Why has Trump caught Clinton in the polls?], 4l0goz, 1464222150.0, 19
+123, [Paul Ryan: 'I'm just not ready' to back Donald Trump... And we've got a ways to go from here to there,"], 4i5trz, 1462580420.0, 18
+124, [Bernie Sanderss Supporters Consider Where to Turn if His Bid Fails], 4gllsh, 1461741631.0, 20
+125, [Arizona op-ed on being ignored in elections], 45vh2h, 1455552195.0, 18
+126, [Why do Iowa and NH always get to choose first?], 44s6tr, 1454984304.0, 18
+127, [Let's talk about Michael Bloomberg], 42owfr, 1453798673.0, 20
+128, [North Korea Says It Has Detonated Its First Hydrogen Bomb], 3zwpxp, 1452219657.0, 19
+129, [ISIS is sending "suicide squads" from Syria to its Iraqi stronghold of Mosul, witnesses have told CNN, as tens of thousands of troops close in on the key city to take it from the militant group's control.], 59k3hg, 1477544887.0, 18
+130, [Clinton Back on Campaign Trail After Releasing Health Info], 52wznk, 1473985516.0, 19
+131, [Vehicle-miles traveled (VMT) tax pilots seek solution to falling gas-tax revenues for federal Highway Trust Fund], 51ex1k, 1473193280.0, 18
+132, [Full text: Donald Trump 2016 RNC draft speech transcript], 4u4ga7, 1469243670.0, 18
+133, [Trump names Pence as running mate], 4szrk0, 1468626783.0, 18
+134, [Ruth Bader Ginsburg Expresses Regret for Criticizing Trump], 4subh7, 1468544452.0, 19
+135, [Why are people so against outsourcing?], 4heaxq, 1462192085.0, 18
+136, [Let Me Ask America a Question - By Donald J. Trump], 4exuvj, 1460770897.0, 19
+137, [Ted Cruz agrees that, 'It doesn't make sense to hold a hearing' for Obama's nominee], 46ptfz, 1455998384.0, 20
+138, [Health Law Tax Penalty? I'll Take It, Millions Say], 59p2nw, 1477616080.0, 19
+139, [Any good website (or image) that categorizes/explains ALL political terms like Authoritarianism, Libertarian, Fascist, Communist, and things like that? I want to learn the difference between those terms.], 5767me, 1476331664.0, 18
+140, [Theresa May promised to build a "better Britain" and to make the UK's EU exit a "success" after she was announced as the new Tory leader and soon-to-be PM.], 4sdoth, 1468305113.0, 19
+141, [An expensive reminder that Sanders still hasnt dropped out: His Secret Service detail], 4ou9el, 1466386584.0, 16
+142, [Maybe what's missing from the election is genuine conversation], 4bm5os, 1458763110.0, 17
+143, [Asked a question on /r/SandersForPresident, had post removed without explanation, reposting here], 49lr35, 1457516431.0, 17
+144, [ISIS Grip on Libyan City Gives It a Fallback Option], 3uvued, 1448937197.0, 19
+145, [Why Aetna is pulling back, big-time, from Obamacare markets now], 4y18qm, 1471403228.0, 14
+146, [Newly Released Emails Highlight Clinton Foundations Ties to State Department], 4xetw9, 1471053150.0, 14
+147, [I made this (iOS) app to let you track and vote along with your representative to see if they actually represent you. I'd love to get any feedback you guys might have. Thanks!], 4qnxy4, 1467348823.0, 18
+148, [AP Interview: In pursuit of GOP unity, Ryan endorses Trump], 4m9wk5, 1464937123.0, 16
+149, [Are liberals or conservatives more likely to acknowledge their own biases?], 48ef5c, 1456833909.0, 16
+150, [Discussion - With a NY Times endorsement, is John Kasich moderate enough for democrats of Reddit?], 43zbx1, 1454525782.0, 16
+151, [Libyan Lawmakers Reject U.N.-Backed Unity Government], 43blha, 1454140250.0, 15
+152, [Creeping Incrementalism: U.S. Strategy in Iraq and Syria from 2011 to 2015], 3sat49, 1447207265.0, 15
+153, [7 things you should know about Tim Kaine], 4v7f2n, 1469838255.0, 16
+154, [Full transcript: Donald Trump NYC speech on stakes of the election], 4pbjz1, 1466641773.0, 16
+155, [Theory - the election process is broken because of moderates], 4avif5, 1458282934.0, 15
+156, [If the US political parties are are broken as they seem to be, why do we not see a third party developing?], 498gbg, 1457317197.0, 17
+157, [Can someone help me understand what I perceive as hypocrisy in the Republican platform?], 48vnri, 1457091970.0, 15
+158, [This bill has been proposed in South Dakota recently, and I'd like to hear some opinions.], 42uvl2, 1453885619.0, 15
+159, [What makes American government broken?], 40sjq6, 1452728639.0, 15
+160, [Why the vice-presidential debate matters], 55t5f6, 1475611512.0, 13
+161, [Why Donald Trump strikes a chord with Russians], 51nfap, 1473309433.0, 13
+162, [DHS Removes Nearly 1,000 Suspected Terrorists From Database], 50k2uv, 1472713252.0, 13
+163, [6 Crazy Things That Could Happen This Presidential Election], 4ydg82, 1471569003.0, 14
+164, [Who will most likely win the presidential election in your opinion?], 4xi0b2, 1471099609.0, 12
+165, [Statement by FBI Director James B. Comey on the Investigation of Secretary Hillary Clintons Use of a Personal E-Mail System], 4rlcmn, 1467875552.0, 12
+166, [A moderate's podcast: respectful discussion between a republican and democrat], 4li9yt, 1464509965.0, 13
+167, [Created this website for tracking tweets posted by various candidates. Let me know if you want me to include a candidate.], 4kukab, 1464135392.0, 12
+168, [Is this the year? Momentum's building to legalize pot in California], 4irw3b, 1462949032.0, 14
+169, [With Trump all but clinching the GOP nomination, we look back at the greatly exaggerated reports of his political demise.], 4i11hq, 1462499129.0, 15
+170, [When Donald Trump clinches the nomination, will his media coverage change? Predict how in this thread!], 4hqzi6, 1462343465.0, 13
+171, [[Serious]A billion dollars worth of donations or more might end up getting spent in this election cycle. Where does all that money go?], 4f4anw, 1460878721.0, 14
+172, [Is the Republican base getting more aggressive?], 3tk5u7, 1448051050.0, 15
+173, [State Department officials call for U.S. military action against Assad regime], 4okuge, 1466219372.0, 13
+174, ['Why Leaders Lie'  Group Read at r/NonFictionBookClub], 4lrl56, 1464670661.0, 12
+175, [US, Other Powers Want to Arm Libyan Government], 4jmcg3, 1463449832.0, 14
+176, [Islamic State announced the formation of a caliphate in the heart of the Middle East in June 2014. Here is a look at their 2016 foothold outside of Syria and Iraq.], 4ixoio, 1463036408.0, 12
+177, [The structure of the US primary system is the reason for our problems], 4cviqc, 1459544721.0, 14
+178, [Why would the RNC want Kasich out over Cruz?], 4bfwrq, 1458647763.0, 13
+179, [The Die-Hard Republicans Who Say #NeverTrump], 48dfso, 1456820073.0, 13
+180, [A Political Sim for the Politically savvy! (I promise, it's great)], 480hc7, 1456667840.0, 11
+181, [Trump says Cruz 'stole' Iowa election; Sanders mulls challenge], 441fel, 1454556723.0, 13
+182, [Manufacturing Consent group read at r/NonFictionBookClub], 3wgr0p, 1449917244.0, 13
+183, [Mali Hotel Attack Leaves Dozens Dead, Including an American], 3tmqpv, 1448092205.0, 12
+184, [Clinton / Trump biography recommendations], 502w2u, 1472467606.0, 14
+185, [News sources], 4z15dy, 1471909632.0, 12
+186, [Trumps recent gun control comments], 4opxwv, 1466307254.0, 12
+187, [John Kasich is dropping out of the Republican presidential race, two sources familiar with the plan confirmed to CNN.], 4hvuew, 1462414775.0, 12
+188, [Why do States like Alabama, Mississippi, etc. hold so much weight in Democratic primaries?], 48k7ez, 1456916991.0, 13
+189, [As far as I have heard neither Hillary, nor Trump (current front runners) have declared their VP. Do candidates usually not declare that until the convention? When is the traditional point in time to announce it?], 48bsw2, 1456801552.0, 11
+190, [What version of Moderate is this subreddit?], 3u4jc3, 1448426765.0, 11
+191, [The Importance of Art and the American Education System], 570gb0, 1476249430.0, 12
+192, [Will Trump or Clinton win? The 11 states deciding the race], 51nxoc, 1473315409.0, 11
+193, [Germany Put on Edge After Unprecedented String of Attacks], 4ujf6n, 1469492358.0, 12
+194, [Terrorist Attack in Nice, France, Leaves 84 Dead and 202 Injured], 4t02q4, 1468630355.0, 12
+195, [Is there actually a way to add due process to the watch list system?], 4phvcw, 1466731141.0, 10
+196, [Man Arrested at Rally Tells Authorities He Wanted to Kill Donald Trump: He said he chose the specific officer because he noticed that her holster was in an unlocked position.], 4p53eo, 1466550897.0, 12
+197, [There's been a huge increase in mass shootings after 2011. Any ideas on why?], 4oqjyl, 1466316600.0, 11
+198, [What Would a Positive Ad for Donald Trump Look Like? Let's try and imagine it.], 4olkcq, 1466228517.0, 11
+199, [I'm a 26 year old moderate with a Masters degree in Cognitive Psychology and it's time to work to get moderate candidates elected.], 4bop6s, 1458798884.0, 10
+200, [Your predictions: what will happen if 2016 is Trump vs Bernie], 41jx04, 1453166694.0, 10
+201, [As It Fights ISIS, Pentagon Seeks String of Bases Overseas], 3wajwb, 1449817553.0, 10
+202, [Obama Tours Flood Damage in Louisiana], 4z8el5, 1472010774.0, 9
+203, [Julian Assange WikiLeaks founder says big leak on Hillary Clinton could lead to indictment], 4oju4e, 1466207147.0, 10
+204, [Will the GOP outwardly support Trump, and behind the scenes fund house and Senate races?], 4ilx10, 1462859030.0, 11
+205, [Its time to kill the $100 bill], 467jrp, 1455730692.0, 10
+206, [Question for Republicans, why are most of you ok with Trumps bashing of John McCains military career?], 42cbx5, 1453606744.0, 12
+207, [All Los Angeles Unified schools closed by 'credible threat' of violence], 3wykrq, 1450227772.0, 10
+208, [A little game for moderatepolitics: Debate predictions], 54lohw, 1474938744.0, 9
+209, [State Department Finds 30 Deleted Clinton Benghazi Emails], 50ia7k, 1472692157.0, 9
+210, [At lunch I heard talk of a Military Coup in the US if Donald Trump wins on the radio...], 4waz2g, 1470440136.0, 9
+211, [CNN captures secret (US Military) mission in Syria], 4kq9ii, 1464067028.0, 9
+212, [How *Not* to attack Trump], 4j7nji, 1463192413.0, 10
+213, [If free education became a thing in the U.S.,the people who currently have student loan debt, would their loans be forgiven?], 4h96cp, 1462140745.0, 9
+214, [Reddit Reacts: Decision 2016 and Super Tuesday], 48hcyg, 1456879936.0, 7
+215, [Why Donald Trump Wont Win the Republican Nomination], 45gy94, 1455341210.0, 8
+216, [Syria conflict: Bashar Assad vows to retake whole country], 45goh2, 1455337865.0, 9
+217, [My response to the "Official Democratic Party Platform Survey"], 455fie, 1455172155.0, 8
+218, [Understanding Users of Reddit Survey], 3vftyp, 1449279724.0, 10
+219, [Paris shootings and explosions near Stade de France kill 18; At least 18 people have been killed in several shootings in the French capital, Paris, as well as explosions at the Stade de France.], 3spsla, 1447482093.0, 8
+220, [Military Success in Syria Gives Putin Upper Hand in U.S. Proxy War], 4wqzg0, 1470702378.0, 10
+221, [Why is Bernie still in it?], 4n7598, 1465446215.0, 9
+222, [Presidential Hopefuls Desert Moderation, Democracy's Glue], 4ma230, 1464939285.0, 9
+223, [Should there be a voting age at all?], 4f4pmq, 1460886115.0, 10
+224, [Libya: Can unity government restore stability?], 4dbj4l, 1459812182.0, 8
+225, [Clinton, on her private server, wrote 104 emails the government says are classified], 495zw0, 1457269849.0, 8
+226, [I think I could support socialized medicine if it wasn't free], 462d4t, 1455657078.0, 9
+227, [More Is Needed to Beat ISIS, Pentagon Officials Conclude], 43bky7, 1454140034.0, 9
+228, [Lax gun laws in Indiana fuel gun violence in Chicago: Nearly 60 percent of Chicago crime guns were first purchased outside of Illinois  20 percent came from Indiana], 40h6kq, 1452554400.0, 7
+229, [Clinton aide in hacked email: Need to 'clean up' Obama answer on email server], 59e2z7, 1477464152.0, 9
+230, ["Im the Last Thing Standing Between You and the Apocalypse"], 5754f5, 1476320098.0, 8
+231, [Ivanka for VP? Eric Trump, Bob Corker support Trump/Trump ticket], 4rqwhp, 1467954140.0, 7
+232, [Hillary Clintons tenure as secretary of state produced a more turbulent, dangerous Middle East and birthed the Islamic State terrorist group responsible for violent attacks around the world, Donald Trump said Wednesday.], 4q5anh, 1467085709.0, 7
+233, [I recently asked "What Would a Positive Ad for Donald Trump Look Like? Let's try and imagine it." This is the best response I have seen.], 4ozqe1, 1466470673.0, 6
+234, [The Less Affordable Care Act? As private insurers look to increase premiums, the administration scrambles to fix Obamacares exchange markets.], 4oexsb, 1466131549.0, 8
+235, [My take on democratic socialism], 4ei81x, 1460524242.0, 8
+236, [New Jersey a winner in presidential primaries - Circle June 7 on your calendar. New Jerseys presidential primary elections on that date have suddenly taken on significance.], 4as3nf, 1458232104.0, 7
+237, [Ted Cruz was involved in both the Bill Clinton impeachment and Bush v Gore.], 46li39, 1455929206.0, 7
+238, [EU migrant crisis: Sweden may reject 80,000 asylum claims], 43bqmr, 1454142309.0, 6
+239, [What ails American democracy? Too much information and too little thought. - Peggy Noonan], 55eb7a, 1475373202.0, 6
+240, [BBC World Service - Newshour Extra, Challenging America's Two Party System], 55daus, 1475359152.0, 7
+241, [Syrias Paradox: Why the War Only Ever Seems to Get Worse [Soft Paywall]], 557fgr, 1475263323.0, 5
+242, [How we got a presidential race entirely about character (soft paywall)], 53muwq, 1474399056.0, 7
+243, [Emails reveal how foundation donors got access to Clinton and her close aides at State Dept.], 4z7o5c, 1472002255.0, 6
+244, [Riots on the Streets of Milwaukee: 5 Fast Facts You Need to Know], 4xubdn, 1471306334.0, 6
+245, [Franois Hollande declares war on Islamic State. Does he mean it?], 4uvawf, 1469663489.0, 6
+246, [More Sanders voters say they will choose 'other,' or not vote, than back Clinton], 4tgdfv, 1468892214.0, 6
+247, [Balanced, Pragmatic Gun Control Articles?], 4opznu, 1466307997.0, 6
+248, [Potential moderate fringe-benefits of a Trump presidency.], 48k8a0, 1456917371.0, 7
+249, [Is Michael Bloomberg really the best candidate for U.S. startups?], 475zgs, 1456251078.0, 6
+250, [2002 Interview Contradicts Trump on Early Opposition to Iraq War], 46m575, 1455936727.0, 5
+251, [Military Times poll of the U.S. military has Gary Johnson tied with Donald Trump in the race for president], 53zmoc, 1474588504.0, 5
+252, [Newsweek opinion posits "Libertarians have become the moderate, middle way party"], 51essd, 1473191322.0, 4
+253, [Sirte battle risks widening Libya political splits: With no national army, brigades of former rebel fighters, who battled to oust Muammar Gaddafi in 2011 before turning against one another, are powerbrokers who form a patchwork of quasi-fiefdoms across the OPEC country.], 4spzrw, 1468479220.0, 4
+254, [What does everyone think of Land Value Taxes to replace all other taxes?], 4ky2g2, 1464181419.0, 5
+255, [A Response to My Conservative #NeverTrump Friends], 4kw7nb, 1464154439.0, 4
+256, [Are there parallels between Hilary Clinton and Martha Coakley?], 44tbru, 1454998207.0, 5
+257, [John Kasich takes a hard line  on gerrymandering], 3ypk0a, 1451457706.0, 5
+258, [How credible and truthful are the popular YouTube political, social commentators (Sargon of Akkad, Nerdwriter, Paul Joseph Watson, Cult of Dusty and etc...)], 57c23w, 1476414769.0, 5
+259, [The US is trying to spare a jihadist group in its attempts to unseat Syria's President Bashar al-Assad, Russia's foreign minister has told the BBC.], 5598np, 1475288004.0, 3
+260, [Take a Deep Breath, Voters. There Is a Third Way.], 54x9c0, 1475109664.0, 3
+261, [Donald Trump, Ivanka Trump Unveil Child Care Plan], 52sw27, 1473917802.0, 5
+262, [[Podcast] Digital strategist Vincent Harris explains how social media has shaped the 2016 election.], 4wzc94, 1470816060.0, 4
+263, [Desperate criminals, ex-marines, & cops. It turns out those trained to believe that shooting people is a solution are more likely to shoot people in order to resolve a situation.], 4twqqe, 1469133289.0, 4
+264, [Who is your candidate this election? If your not voting, who is who is your ideal candidate?], 4mb0d7, 1464953403.0, 4
+265, [Unions Split as Bitter U.S. Campaign Exposes Divergent Agendas], 4kwdr8, 1464156537.0, 5
+266, [The primaries: The party declines - American politics looks so strange right now partly because both Republicans and Democrats are a mess], 491ud4, 1457198731.0, 4
+267, [So you can see how far we've come: 1960 Primary Debate (JFK vs. Hubert Humphrey)], 48vwr1, 1457095892.0, 5
+268, [Who is my candidate?], 48q56i, 1457004750.0, 4
+269, [Donald Trump and the Culture of Bullies], 4785i8, 1456282676.0, 5
+270, [Students Fight for the NHS], 45svdh, 1455511777.0, 5
+271, [Why Libya Matters  Again], 45gor9, 1455337969.0, 5
+272, [Party Confusion], 44tsrd, 1455004715.0, 4
+273, [What Other Conservatives Can Learn from Cameron], 44luia, 1454885389.0, 4
+274, [Calling in Kallstadt: A Visit to Donald Trump's Ancestral Home - SPIEGEL ONLINE - News], 41w9x5, 1453351470.0, 5
+275, [Barack Obama: Guns Are Our Shared Responsibility | Op-Ed], 40p0lm, 1452668987.0, 3
+276, [The Brutalism of Ted Cruz], 40ouqy, 1452666823.0, 4
+277, [Lawless Libya: Can peace be achieved?], 3x9n6k, 1450418015.0, 3
+278, [Syria air strikes: The mission to target so-called Islamic State militants in Syria could take some time and will require persistence, PM David Cameron has said.], 3vbexr, 1449199613.0, 3
+279, [While states have spent years thinking about and planning for other types of crisis that can mess with voting  from hurricanes to power blackouts and terrorist attacks], 59v7vx, 1477699434.0, 3
+280, [Who are the leaders of todays political youth?], 54z8oc, 1475133071.0, 3
+281, [The man believed to be responsible for the explosion in Manhattan and in New Jersey was taken into custody on Monday after he was wounded in a gun fight with the police.], 53ilme, 1474333712.0, 5
+282, [Trump, Ryan and McConnell: Reluctant partners with their own priorities], 4ttllt, 1469080437.0, 3
+283, [GOP, Dems Unite to Demand Increased Iranian Sanctions One Year After Nuclear Deal], 4tip62, 1468922038.0, 3
+284, [The Death of the Middle Class Is Worse Than You Think], 4thuwc, 1468910846.0, 3
+285, [Kind of confused and wanting some clarification on a recent political event's impact on another.], 4pmlqk, 1466799945.0, 3
+286, [In his article, Samuels claims Obama was actively misleading the public about Iran.], 4iwchq, 1463020111.0, 1
+287, [THE LIBYA GAMBLE - PART 1], 48d1y0, 1456814808.0, 2
+288, [The Governing Cancer of Our Time], 47uwz3, 1456609110.0, 3
+289, [Middle-Class Malaise (Germany)], 47p15i, 1456522558.0, 3
+290, [The media are misleading the public on Syria], 477szn, 1456278790.0, 3
+291, [We need to crack encryption by former GRU double agent Naveed Jamali.], 472uvc, 1456202490.0, 4
+292, [Strong conservative bias, but how do the sentiments hold up?--"Don't Vote for Bernie"], 456uzy, 1455190810.0, 1
+293, [33 Things This Election Will Decide That Have Nothing to Do With Trump or Clinton], 5agqrs, 1477996363.0, 6
+294, [Washington and South Dakota could become the first states to enact campaign finance vouchers], 5agqlm, 1477996313.0, 7
+295, [Hillary Clintons Benghazi Debacle: Arming Jihadists in Libya . . . and Syria], 58db1t, 1476945507.0, 4
+296, [When Anderson Cooper opened the debate by declaring Trump Bragged about sexually assaulting women, was he correct?], 56uv5i, 1476167962.0, 2
+297, [Differences on balance: National comparisons of charter and traditional public schools], 53yer6, 1474571072.0, 2
+298, [Where the presidential race stands today: The USC Dornsife / Los Angeles Times poll], 53jt50, 1474347871.0, 3
+299, [Hillary Clinton walks back 'basket of deplorables' remark], 52ggyo, 1473740671.0, 2
+300, [North Korea's largest nuclear test draws condemnation, threat of more sanctions], 51ygw8, 1473469585.0, 2
+301, [Transcript: Hillary Clinton's Democratic National Convention speech, annotated], 4v75ah, 1469835100.0, 3
+302, [Turkish Military Says It Has Seized Control From Ankara Government - Turkish prime minister says attempted military coup underway; military jets and helicopters seen flying low over Ankara and tanks reported in the streets; two major bridges in Istanbul are closed to traffic.], 4t1cv2, 1468645630.0, 2
+303, [Why Todays Romp by Trump Doesnt Matter; or Running a receding finish line.], 4gll7g, 1461741423.0, 1
+304, [Why Bankruptcy Won't Erase Student Loan Debt, arguments for and against.], 491pab, 1457194921.0, 2
+305, [THE LIBYA GAMBLE - PART 2], 48d22r, 1456814847.0, 2
+306, [Bloomberg Politics's 404 error page is fantastic!], 47a4cg, 1456307440.0, 2
+307, [Supreme Court fight has lawmakers doing somersaults - "The debate over judicial nominations is a study in role reversals. Depending on which party is in power, several major players in the current fight have staked out positions on both sides."], 475vhz, 1456248793.0, 2
+308, [Join the Liberal Party of /r/ModelUSGov!], 474chf, 1456221586.0, 1
+309, [Here are the Actual Facts about Super Delegates], 4601ap, 1455615088.0, 2
+310, [How much knowledge do presidential candidates have over what their endorsers will say?], 44nga1, 1454906454.0, 2
+311, [Ted Cruz and Bernie Sanders are authentically wrong-- the Washington Post], 441edy, 1454556370.0, 2
+312, [Donald Trump, and the fall of America's institutions], 43ahz2, 1454125730.0, 2
+313, [Political apathy in the UK is perfectly respectable], 41lkll, 1453186880.0, 2
+314, [The Rise of Political Clickbait - New video exposes examples of negative practices on left and right independent political Facebook pages.], 3z7m8q, 1451810981.0, 2
+315, [A Syrian artist who was accused of being an opposition activist and tortured in a detention centre has drawn pictures of his experiences - and described how he became numb to death, as dead bodies were piled up in the cell he shared with dozens of other naked prisoners.], 3xrcr9, 1450765829.0, 2
+316, [Paris Grand Mosque chairman backs military action in Syria against ISIS], 3vcgbd, 1449214536.0, 2
+317, [Rigged elections! What does that even mean?], 5ai78v, 1478022396.0, 0
+318, [Column: Congressional and presidential elections shouldn't occur at the same time], 5agq5l, 1477996170.0, 1
+319, [The 650,000 Question: Feds to search thousands of emails in Hillary Clinton investigation], 5adw9d, 1477966301.0, 1
+320, [Equality of Opportunity and Why We Don't Really Have It], 59vs4k, 1477705203.0, 1
+321, [Why don't you make them work together?], 5547y5, 1475209224.0, 1
+322, [Donald Trump and Hillary Clinton locked in tight race nationally - CBS/NYT poll], 52wzgc, 1473985443.0, 0
+323, [Due Process Lawsuits Have Increased Dramatically After Overreach], 51b77f, 1473133816.0, 1
+324, [Elizabeth Warren sets the government loose on Airbnb, despite its middle-class benefits], 4tsn3o, 1469068790.0, 1
+325, [Budget deficit nearly doubles during Obama's tenure], 4ti3q6, 1468914114.0, 1
+326, [How might Tim Kaine influence a Clinton administration if chosen as VP?], 4sn0br, 1468443442.0, 2
+327, [Support Grows for Stopping Trump in Cleveland], 4phwhk, 1466731469.0, 1
+328, [Trump adviser on Lewandowski: 'Ding dong the witch is dead!'], 4oz8ng, 1466464837.0, 1
+329, [Strategy Analysis: Trump never planned to debate Sanders, and here's why], 4lihu0, 1464513788.0, 0
+330, [Moderate Politicians, what's ur view on the situation with Snowden?], 4l8bm1, 1464337247.0, 1
+331, [Whether intentionally or unintentionally, the Obama administration presented the world with an unequivocally false narrative about (Iran) Mr. Rouhani and the future of the Islamic republic.], 4kp0b2, 1464052423.0, 0
+332, [Islamist Rebel Groups Press Offensive in Northern Syria], 4dbjm2, 1459812349.0, 1
+333, [Different sides of the same coin], 4al7dz, 1458115045.0, 1
+334, [A (Relatively) Short Guide to Fix U.S. Politics], 4ags5a, 1458041997.0, 1
+335, [Trump Reverses His Stance on Torture: GOP front-runner had faced criticism from military and legal experts after his comments], 490utn, 1457177468.0, 1
+336, [ModelUSGov - A Realistic Government Sim], 48w45n, 1457099475.0, 1
+337, [Something Is Rotten in the Republican Party], 473wax, 1456215262.0, 1
+338, [Trump, Cruz, and South Carolina], 46s9kz, 1456035598.0, 1
+339, [Copy-Editing Trump], 46lfji, 1455928337.0, 1
+340, [Robert Reich reporting that Obama will nominate 46-year-old Judge Sri Srinivasan for SCOTUS], 45zpp8, 1455610764.0, 1
+341, [In Libya, U.S. Courts Unreliable Allies to Counter ISIS], 41r9w8, 1453273079.0, 1
+342, [A POLITICO review of Barack Obamas domestic policy legacy], 40lw53, 1452621377.0, 1
+343, [The Shocking Video Ted Cruz DOESNT Want You To See], 4086jf, 1452403719.0, 1
+344, [Scotland's First Minister's Questions - 7th January 2016], 3zwc8w, 1452214868.0, 1
+345, [Christopher Hitchens Debates Timothy Jackson On Religion (2007)], 3zvds5, 1452200605.0, 1
+346, [Civil Rights At Issue In Korea, But Not The Korea You'd Expect : Parallels : NPR], 3zisfp, 1452001733.0, 1
+347, [No Good Guys in the West], 3zgn85, 1451970081.0, 1
+348, [Conservative Party Failures and Rise of Populist Alternatives], 3z285f, 1451713572.0, 1
+349, [Yes, Addiction Does Discriminate | The Fix], 3ynnz4, 1451427625.0, 1
+350, [The Great Republican Revolt], 3y8z3s, 1451130090.0, 1
+351, [T. Boone Pickens calls for bipartisan panel to screen candidates for president], 3xsjrs, 1450786018.0, 1
+352, [Unequal Representation?], 3xc8kv, 1450471864.0, 1
+353, [New Russian Air Defenses in Syria Keep U.S. Grounded], 3xbgum, 1450451890.0, 1
+354, [Battle for Sinjar: IS-held town in Iraq 'liberated'], 3sozk0, 1447469973.0, 1
+355, [Mosul: Islamic State is 'a brutal opponent', says US general], 58k2q0, 1477034370.0, 0
+356, [Trump will accept result 'if I win' - He added that he would accept a "clear" result - but reserved the right to challenge a "questionable" result], 58ixtf, 1477021641.0, 0
+357, [Northeast Ohio Couple, Who Normally Vote Democratic, Consider Trump], 5714k9, 1476257667.0, 3
+358, [Dawn of big business on democratic side?], 5201ye, 1473488550.0, 0
+359, [Dr. Jekyll and Mr. Trump], 51sohk, 1473386909.0, 0
+360, [Why MainStreet Isnt Buying Obamas Economic Story], 4v7ton, 1469842990.0, 1
+361, [Why Are Voters So Angry?], 4uh5sm, 1469456150.0, 0
+362, [A Reform Blueprint], 4uf5av, 1469424402.0, 0
+363, [Secret side agreement will allow Iran to accelerate nuke production in 11 years], 4tilfc, 1468920629.0, 0
+364, [Your opinion on Ben Shapiro?], 4qiuu6, 1467274979.0, 1
+365, [The Speech Intimidation Game: The left plays rough to shut down conservative ideasas Visa and Coke learned the hard way.], 4ozovd, 1466470204.0, 0
+366, [Five reasons Brexit could signal Trump winning the White House: Few pundits saw either coming, but we should have], 4ozkwh, 1466468898.0, 1
+367, [There will indeed be political repercussions for Clinton, especially if the FBI recommends indictment, and Democrats will need Bernie Sanders. The DNC will need Bernie Sanders. The country will need Bernie Sanders.], 4fzp3l, 1461377251.0, 1
+368, [Interested in politics in action? Then join the Model Republicans!], 4a6r6t, 1457866704.0, 1
+369, [Understanding Users of Reddit Survey], 47gqnd, 1456396222.0, 0
+370, [Obama to skip Scalia's funeral], 46fxoq, 1455846070.0, 0
+371, [How should I decide my vote in the 2016 Republican Presidential Preference Primary?], 457qii, 1455205949.0, 2
+372, [We need your help!], 41rbom, 1453273719.0, 0
+373, [Firearms management], 40dcg5, 1452490547.0, 2
+374, [What is your opinion on this new unbiased/non partisan moderate website about US politics and elections and its correlation with money?], 3u4uyl, 1448431211.0, 0
+375, [President Obama ridiculed on Snapchat by daughter Sasha - BBC News], 59imo3, 1477529578.0, 0
+376, [I will not vote for Hillary Clinton. But, as Ive explained in these columns, I could never vote for Donald Trump.], 58pnhd, 1477112952.0, 0
+377, [Hillary Clinton Selects Tim Kaine, a Popular Senator From a Swing State, as Running Mate], 4ujaoz, 1469490957.0, 0
+378, [The Trump tax plan has been tweaked. Has it ever.], 4ugsop, 1469449674.0, 0
+379, [President Trump's Revolution? Fear Not], 442ss9, 1454574561.0, 0
+380, [Should the President of the United States be on a reality TV show while still in office?], 3wyz86, 1450233221.0, 1
+381, [The Blue State Model Has Failed], 4x2a36, 1470866774.0, 0
+382, [The Democrats just ceded economic justice to Donald Trump], 4ttld3, 1469080347.0, 0
+383, [Who will Hillary's VP be? Who do you want it to be?], 4t0wwo, 1468640167.0, 0
+384, [Join The Model Republican Party on r/modelusgov!!], 4pcqpf, 1466654882.0, 0
+385, [Video shows Clinton appearing to faint while getting in van], 52f7ff, 1473726563.0, 0
+386, [State Department Stonewalling Information About What's Being Done to Stop Christian Genocide], 50k4qm, 1472713975.0, 0
+387, [We are crowdsourcing a Direct Democracy Constitution. You can add your own ideas.], 4lzsei, 1464789452.0, 0
+388, [24 Years Later, Joe Bidens Words (On SCOTUS replacements) Haunt Democrats], 477tfv, 1456278951.0, 0
+389, [If the Kid President can find a solution for child hunger why can't us adults?], 4f2am4, 1460848775.0, 0
+390, [Sanderss Record, Filings Show Benefits From Super PACs, Links to Wall Street Donors], 45hzmg, 1455355096.0, 0
+391, [A good guy with a gun stops a bad guy with a gun.], 42oosm, 1453795952.0, 0
+392, [/r/PresidentBloomberg, let's get a moderate into the White House.], 42no9l, 1453784252.0, 0
+393, [Comey Is Not the One Whose Unorthodox Actions Are Casting a Cloud over the Election], 5adzp6, 1477967216.0, 0
+394, [Hillary Clinton Emailed Classified Information After Leaving State Deptartment], 50i1r0, 1472689577.0, 0
+395, [Heres How Americans Can Curtail Government Spending], 4ue758, 1469411859.0, 0
+396, [Fact-checking the Economics Behind Third Clinton-Trump Debate.], 58zrsk, 1477274263.0, 0
+397, [Its time to stop talking about racism with white people], 51mwgc, 1473303617.0, 0
+398, [Karl Rove: Can Trump stop the slide while Clinton coasts?], 4q5ddr, 1467086609.0, 0
+399, [Impeachable? A contrarian way of viewing this election.], 56chhm, 1475889393.0, 0
+400, [5 Reasons Why Trump Will Win by Michael Moore as Animated Infographic], 4wwfgt, 1470781553.0, 0
+401, [Trump and 21 Brave Americans], 4i3q3o, 1462539656.0, 0
+402, [Hillary Clinton Signed Classified Information Nondisclosure Agreement Saying She Received Briefing on Classified Information], 51cbfd, 1473147709.0, 0
+403, [As a moderate myself, I'd like to hear what alot of ur views are..], 4k63yb, 1463739926.0, 0
+404, [Trump + Kanye 2016 A populist duo, fueled by fame, would compliment each other and bring in a large fan base.], 486faz, 1456727717.0, 0
+405, [Hillary Wiped Her Server Under Subpoena], 51c9kb, 1473147012.0, 0
+406, [If the Democrats really pick Hillary, isn't Trump going to absolutely DESTROY her in the Debates?], 4sn982, 1468446807.0, 0
+407, [Gerrymandering Isnt Evil - Why independent redistricting won't save us from political gridlock.], 55n38t, 1475520401.0, 0
+408, [Americans oppose Democrat plank forcing taxpayers to pay for abortion], 4up6l9, 1469575648.0, 0
+409, [[Serious] Why is "doing the right thing" so hard to do these days? Is political correctness to blame?], 3wpvvj, 1450082705.0, 0
+410, [O'Malley is going to be our next president], 3rvd8x, 1446915049.0, 0

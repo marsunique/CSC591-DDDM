@@ -1,0 +1,1001 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Sorry Bernie, I love you but even with your endorsement I will not vote for Hilary.], 4shhs2, 1468365358.0, 2601
+2, [I donated $15 to Bernie Sanders so my girlfriend won't have to decide between a hospital visit and groceries. Match me to send a message - that Healthcare is a human right.], 4al4ic, 1458113918.0, 81
+3, [This is the 2008 Obama vs. Hillary Primary Map. Hillary won the south and Obama didn't secure until May. Do not be discouraged, be inspired! We have to fight harder!], 4alz76, 1458126796.0, 53
+4, [The Phoenix rally is packed!], 4albnj, 1458116753.0, 0
+5, [Just made my first phonebank call!], 4al04l, 1458112155.0, 0
+6, [Canvassed the rest of my precinct before heading to the Utah Caucus, thanks to Reddit's help!], 4bktf7, 1458730556.0, 16
+7, [Bernie Sanders : I Am Very Pound To be Jewish My Family Was Wipe Out By Hitler], 49amko, 1457348933.0, 1
+8, [State of the Subreddit Address and The Future of /r/SandersForPresident], 4uq5cs, 1469586625.0, 217
+9, [I want Bernie to be my President....], 4alqqd, 1458123063.0, 56
+10, [Voted Bernie today in SC & first time voting! Come on SC, don't disappoint me!], 47uxvu, 1456609557.0, 1834
+11, [Sanders Campaign Will Travel On, but Path to Victory Is All but Blocked], 48kptp, 1456924713.0, 42
+12, [Are affidavit ballots even counted?], 4fjdbe, 1461123780.0, 7
+13, [Please STOP asking for us to support Hillary Clinton], 4secmm, 1468313987.0, 3164
+14, [Bernie has been fighting for Years without hesitation - today is no different. Don't doubt this man!], 4sgra9, 1468355796.0, 98
+15, [New York was awesome. We almost took half the vote her home state! Here's $15, Match me!], 4flkmk, 1461153765.0, 98
+16, [A "poster" I made for Bernie!], 4gjsku, 1461719030.0, 6
+17, [tyler pedigo NY primary projection: 40 Sanders 59 Clinton], 4fejpj, 1461048700.0, 2
+18, [Worlds Largest Fart-In Planned for Hillary Clintons Acceptance Speech in Philadelphia], 4otsmt, 1466379863.0, 0
+19, [I'm sick and tired of hearing about the damn emails!], 4l1kqq, 1464235322.0, 3
+20, [Ride in Davidsonville MD for early voting elderly], 4fkp4x, 1461141031.0, 6
+21, [Sanders Campaign Prepares For Run As An Independent], 4nci77, 1465529724.0, 9
+22, [I voted for Bernie Sanders because I trusted him and his judgement. I still trust him now.], 4sigm5, 1468375857.0, 20
+23, [Loving the enthusiasm guys but please be respectful when FLOTUS is speaking], 4um3i5, 1469525040.0, 1
+24, [We need the speeches], 4an5j3, 1458153124.0, 1
+25, [Bernie Sanders Expected to Endorse Hillary Clinton Next Week], 4rq8df, 1467946158.0, 3
+26, [Bernie Sanders on Twitter: "I congratulate @HillaryClinton on this historic achievement. We are stronger together."], 4v4nm3, 1469792075.0, 0
+27, [I'm 15 years old, and I have made 517 calls to Iowa in the last 10 days. 483 more to go.], 4292q7, 1453547209.0, 2897
+28, [Bernie Sanders set to endorse Clinton after Democratic platform negotiations], 4satdj, 1468271165.0, 0
+29, [The Young Turk's Cenk Uygur criticizes mainstream media as complicit in Clinton's coronation by the establishment], 4n3iqk, 1465392938.0, 0
+30, [Strategy before Activism!], 4aoyfr, 1458179556.0, 1
+31, [You can still vote in Florida even though you didn't register as a democrat!!!!], 4a019e, 1457749678.0, 9
+32, [Everyone should get in Twitternow demanding George Clooney explain where the money was going from the fund raiser as it now appears lots isn't going to down tickets.], 4ff3oa, 1461056475.0, 1
+33, [Sanders: 'Clinton will make an outstanding president'], 4sjtix, 1468391989.0, 3
+34, [First Post Debate Poll - Emerson, Clinton 55% (-1) - Sanders 40% (+2)], 4fa1gg, 1460979684.0, 0
+35, [A friend has been noting preliminary NY poll results as they are updated...], 4flcus, 1461150359.0, 0
+36, [Think Bernie and win. MEDITATE, Hold Space, Group mind meld. Lunchtime Bernie meditation!], 4fhzja, 1461106951.0, 7
+37, [White guys: Repossess the angry white man label. White Privilege is What Allows Voters to Dismiss Bernie Sanders], 4bzdpx, 1458984615.0, 0
+38, [The hard states are behind us. The Southern firewall is behind us. Starting today we are going to make our comeback!], 4altxn, 1458124461.0, 3645
+39, [Bernie Sanders: We must do everything to elect Hillary Clinton], 4rqnye, 1467951239.0, 0
+40, [Cool down the rhetoric], 4k9cj4, 1463794135.0, 8
+41, [Hillary Clinton and Donald Trump Are Winning Votes, but Not Hearts], 4amqpw, 1458142100.0, 4
+42, [To those of you considering voting for Trump: "My supporters are smart enough to know that we don't want a bigot to become president of the United States." - Bernie Sanders], 4sfyrj, 1468340593.0, 8
+43, [YUUGE Wins 4 Bernie Sanders, after March 15th, in Every Remaining State?], 4amejc, 1458134544.0, 0
+44, [Seeing how many Hillary and Trump supporters are there in our country, I am kinda depressed.], 4kkx2k, 1463985781.0, 2
+45, [Republican Candidates get Bern'd], 49b4kj, 1457356675.0, 0
+46, [MODS, Can we get flair for special donation amounts? I want flair for $100 club $500, club $1000 club and Max Donation- Mad Max club? After today we need to up our donation game. We need to impress HARDER.], 43t7ib, 1454426583.0, 1
+47, [Can some please explain to me WTF is going on?], 46vozp, 1456097488.0, 3
+48, [Bernie Friend Invite - Invite All Your Friends to Like Bernie Sanders], 4aptmh, 1458191137.0, 0
+49, [Hey Berners! Have a couple of questions about phone banking. Good so far except for these couple of things...], 4appyf, 1458189791.0, 4
+50, [DONT GIVE UP NOW DAMN IT], 4n3ptv, 1465396777.0, 0
+51, [Is There Still Hope For Bernie Sanders?], 4amij8, 1458136893.0, 9
+52, [Bernie won, but the narrative is to keep Clinton in the race. Brace yourselves, vote fraud is coming.], 43sxp0, 1454421461.0, 11
+53, [What tv network to watch for unbiased coverage?], 4glpkz, 1461743112.0, 0
+54, [From Team Hillary: It Gets Better], 46wtem, 1456111810.0, 12
+55, [Bernie Sanders Worried About Republicans Mental Health], 49bjt4, 1457364376.0, 5
+56, [Sanders National Press Secretary Leaving Campaign], 4q3h0u, 1467064945.0, 1
+57, [I'm scared :(], 4fa14r, 1460979538.0, 3
+58, [Start a gofundme and get out of state to canvas!], 46vqvp, 1456098219.0, 0
+59, [We have already won! Listen to me We have already won this race. This goes out to all of you Bernie supports working hard for this movement. Please read below and click on the links to see the proof.], 4gcz09, 1461614284.0, 1
+60, [According to our latest FiveThirtyEight polls-plus forecast, Hillary Clinton has a 97% chance of winning the California primary.], 4l5ku0, 1464301980.0, 0
+61, [Bernie's Way or the Highway - It's not about BERNIE, it's about US], 4gs71n, 1461842769.0, 0
+62, [Complacency is bad, go facebank, match me, and other such buzzwords! Lots of exclamation points! We can't let whatever do a thing! Keep [insert state here] in our sights! [State] is really important!], 49ww60, 1457695405.0, 5
+63, [Disqualify the delegates of Maricopa and NYC], 4g4xn5, 1461469195.0, 0
+64, [CNN says they don't think Sanders will be able to continue to fund raise as he did before. My first ever donation was $5 last week.. Here's another $15. Match me.], 47z759, 1456647560.0, 3785
+65, [Freezing off my ass canvassing in Western Mass.], 47y1ns, 1456636293.0, 2719
+66, [Let's give Bernie some slack], 4scudg, 1468294818.0, 0
+67, [It is clear, our strategy failed. If we continue to be just nice and fine nothing will change. We need to attack too or else Trumpp will win. And there is a reason he won by such large margins.], 4jgbql, 1463351678.0, 0
+68, [BERNIE IS NOT A SELL-OUT.], 4pp42h, 1466829823.0, 4
+69, [Sanders To Campaign With Clinton Tuesday], 4sb6et, 1468276226.0, 2
+70, [Live primary results alternatives?], 4n25s4, 1465372677.0, 1
+71, [Bernie Sanders and the Danish Example], 46w0xd, 1456102094.0, 2
+72, [Imagine if we made Hillary non-viable in California], 497c9z, 1457300196.0, 0
+73, [Leonardo Dicaprio won his first Oscar and used the stage to support our revolution! #FeelTheBern], 48e2iq, 1456828811.0, 0
+74, [Martin O'Malley on snapchat], 4gli7z, 1461740272.0, 5
+75, [Ok my Berners, I need help.], 4ap0f6, 1458180264.0, 0
+76, [So tired of CNN.], 4a1p9o, 1457773284.0, 6
+77, [To the people that say Bernie's plans are too "Pie in the Sky"], 4hk2mq, 1462255411.0, 0
+78, [Write In Victory], 4greyn, 1461831027.0, 0
+79, [GOTV Phonebank in Germantown, MD on Wednesday, April 20, 2016], 4fkqhp, 1461141596.0, 13
+80, [Nate Silver on Twitter "Welp, she got 55% of the vote and the clear majority of elected delegates, but let's give it to the 74-year-old white guy!"], 4m5uya, 1464877423.0, 15
+81, ['Seinfeld' meets Sanders on 'SNL'], 4f6lj4, 1460928913.0, 0
+82, [Sadly have to leave this subreddit, and here's why], 4up1c7, 1469573921.0, 8
+83, [Mod Bchociej censorship], 4df32q, 1459862856.0, 1
+84, [Ladies and Gentleman - WE WON!], 43ss55, 1454418901.0, 9
+85, [I know this will be downvoted and ignored, but I have to post as a Bernie supporter with a dissenting opinion], 4uopiq, 1469569877.0, 0
+86, [Sanders will take ideas to convention, but we 'know who has the most votes'], 4nwuor, 1465869303.0, 4
+87, [Bernie should promise to make women 50% of his cabinet], 3rya55, 1446971731.0, 2
+88, [I know its early for the, but lets look at The Numbers: Bernie Hillary & Trump in a 3 way race], 4gq416, 1461813563.0, 0
+89, [TIL at the polls], 48jdse, 1456905261.0, 0
+90, [Bernie might be running out of money guys. Please DONATE!!!], 47ap59, 1456315503.0, 14
+91, [Please don't post "WE NEED TO CALL (insert state here)".], 4fkp7c, 1461141062.0, 28
+92, [Bernie Sanders on Twitter: "Its important we do not succumb to bigotry. We are fighting a terrorist organization killing innocent people. We are not fighting a religion."], 4bj2g9, 1458705077.0, 3775
+93, [Poll report from Canarsie, Brooklyn - a black caribbean neighborhood], 4fh5gm, 1461094570.0, 4
+94, [PPP National Poll: Clinton 54 Sanders 36], 4ch7iz, 1459310350.0, 6
+95, [Website problems: I'm a big Bernie fan, but HRC is actually looking tougher on Wall Street. Huh?], 45s7ys, 1455503979.0, 1
+96, [Don't Ever Call Bernie a Sellout], 4skxru, 1468407369.0, 220
+97, [Mods pls (a plea for sanity)], 4onyq4, 1466273407.0, 0
+98, [I think it is time we realize what Bernie is doing.], 4ujkiz, 1469494013.0, 0
+99, [What will this mean for the campaign?], 4ga2ta, 1461561548.0, 0
+100, [National Poll Morning Consult (2/24-2/25) - Clinton 50 (+3) Sanders 35 (-4)], 47mwgy, 1456482187.0, 0
+101, [Sarah Silverman thinks we are being ridiculous. You know what's ridiculous? Rigging an election, then insulting the almost half of your electorate that still managed to beat that very same rigged system.], 4um3tm, 1469525155.0, 4103
+102, [Here's the only math that matters, guys.], 4h8lyx, 1462128884.0, 0
+103, [Keep Calm and Trust Bernie Sanders], 4snh5s, 1468449477.0, 0
+104, [A lot people don't realize, especially young and new voters, that you can write in whoever you want for president on your ballot in the general election. Perhaps we can start something trending where those of us who won't vote Clinton can write in Sanders.], 4nc8u0, 1465526514.0, 0
+105, [To all the people in Arizona offended by the violence and disruptions], 4bh0vj, 1458675285.0, 1
+106, [how far would you walk for someone like this if the chance were to arise? (my note on Facebook to introduce Bernie to friends without mentioning mentioning Bernie...until many people reply)], 4b35lg, 1458424345.0, 0
+107, [Facebanking Q: Inviting FoF's but not friends (i.e. 1st degree connections)?], 4aogsn, 1458173028.0, 2
+108, [Bernie Sanders wants to legalize marijuana but....], 48zcuy, 1457154944.0, 0
+109, [Clinton May Take the Nomination, but Sanders Has Won the Debate], 4n4p61, 1465416769.0, 2
+110, [Black voters], 46v7x0, 1456089643.0, 1
+111, [It's time to do something about the downvote brigade.], 4gpi6k, 1461806115.0, 15
+112, [Hillary Clinton just got a clear victory in the Nevada caucuses], 46sb4m, 1456036139.0, 34
+113, [New Economist/YouGov National Poll Feb. 24-27 : Bernie 39% - Hillary 32%], 488pjl, 1456753925.0, 11
+114, [Reading between the lines -- Bernie will run Independent if the DNC nominates Hillary], 4h7sup, 1462106768.0, 15
+115, [Sanders is in the lead by 20 points in Wisconsin], 4cnzmu, 1459418325.0, 14
+116, [The trolls are hete. Get off this sub and do your part without them distracting you.], 4mwzoh, 1465297619.0, 2
+117, [Sanders kicked ass!], 4f4uro, 1460888726.0, 1
+118, [Should Bernie go to Rome if he is not meeting the Pope?], 4eexet, 1460471614.0, 4
+119, [Sanders spokesman tells @ckmarie: Hes still a candidate, hes not dropping out], 4si7sf, 1468373184.0, 0
+120, [Add High School to Campaign Issues], 46w5k9, 1456103690.0, 0
+121, [Hi! I'm a 14 year old Bernie supporter, and this weekend I made 100 calls to Super Tuesday states. Will you match me?], 4861fv, 1456725370.0, 1539
+122, [Young people are useless because they do not vote. We need a way to reach older voters now.], 470pjj, 1456174598.0, 9
+123, [April 26th primary prediction update], 4ghdzc, 1461676356.0, 1
+124, [I shower with Bernie!], 4ctxwp, 1459514042.0, 1
+125, [Sanders supporter Lucy Flores condemns harassment and "misogynistic vulgarities" at NV Convention], 4jpvip, 1463501497.0, 8
+126, [Mythbusters' Adam Savage endorses Bernie Sanders for president], 494z9y, 1457252499.0, 3626
+127, [If Bernie does not get the nomination I think we should start a write in campaign for him!], 4n9i42, 1465480655.0, 4
+128, [The deeper bad news for Sanders: there's no sign of political revolution so far], 46shjj, 1456038511.0, 0
+129, [Black voters reject Bernie Sanders in South Carolina], 481izz, 1456690406.0, 0
+130, [Bernie Sanders ad claims or implies endorsements from New Hampshire newspapers], 448dgl, 1454662621.0, 8
+131, [Biden: Sanders supporters 'are all going to end up voting for Hillary'], 4uqfo9, 1469589878.0, 2
+132, [The phoney Trump narrative has provided political cover for cowardice and betrayal], 4sl486, 1468409978.0, 0
+133, [We're bigger than that], 4cshjo, 1459492978.0, 0
+134, [Question about contacting mods re- broken links], 4aodyp, 1458171964.0, 0
+135, [A lesson from Nevada?], 46w8ry, 1456104751.0, 1
+136, [Can I Track My Order Through Bernies Website?], 4fkcmf, 1461136177.0, 0
+137, [VAPE NATION V/\], 4cur3i, 1459530138.0, 0
+138, [Sanders Questioned By Native American Activist], 480iwq, 1456668625.0, 0
+139, [Economists Who Bashed Bernie Sanders' Tax Plan Admit They're Clueless: "We're Not Really Experts"], 493vtw, 1457236265.0, 3360
+140, [Could Hillary clinch the nomination because of the superdelegates? Or does the nomination only go to the person that has 2,382 PLEDGED delegates?], 4ibu0t, 1462685533.0, 2
+141, [Is Clinton going to crash Bernie's Good Morning America interview], 4d9rls, 1459776998.0, 3
+142, [We need to unify against Trump, but we don't need to vote for Hillary.], 4n4x0o, 1465419995.0, 16
+143, [People keep saying Hillary Clinton doesn't have a platform or a message. This is false. If she truly had no platform, she'd adopt Bernie's for the popular vote.], 4o40j9, 1465971134.0, 0
+144, [Hillary, if you are serious about extending the olive branch to Bernie supporters, we need to talk about a few things first. (Warning blocked from HillaryClinton for being negative, but it's not)], 4fq7nd, 1461223705.0, 0
+145, [My GF was not allowed to vote in CA.], 4n232m, 1465371694.0, 5
+146, [Volunteer to drive people to the polls or become a poll worker. Which will help our campaign more?], 4glogl, 1461742651.0, 3
+147, [How about hosting a @BernieSanders - @DrJillStein debate on TYT?], 4lfqv9, 1464469735.0, 10
+148, [Be careful where you post things from. When you forward and upvote FOX, Brietbart and the like, you're feeding into the narrative spreading like wildfire that Sanders supporters are all ignorant shills for the right wing.], 4k18k5, 1463669379.0, 8
+149, [Today's Correct The Record Agenda: Mass influx of "Bernie will vote for Hillary" posts by novelty accounts. They're clutching at every straw to get us to fall in line. Don't "fall" for it!], 4pmlms, 1466799901.0, 3712
+150, [Are big rallies really helpful?], 4g5ol3, 1461480543.0, 3
+151, [Bernies spring break blues], 470drv, 1456167942.0, 0
+152, [#FeelTheBern I Voted], 4n31r4, 1465385119.0, 0
+153, [Senator Sanders remains my hero. You people who are being ugly and insulting toward him need to pull it together. Bernie knows what he is doing as he continues the fight for all of us.], 4ssvi6, 1468526274.0, 3096
+154, [Are the California campaign team members really quitting and being let go?], 4jwoie, 1463607312.0, 0
+155, [A question on phonebanking], 4gskkf, 1461849547.0, 0
+156, [Don't Divide Democrats!], 4dwcwo, 1460150667.0, 0
+157, [If Bernie's Campaign Can Prove Intentional Voter Fraud in Arizona by the Other Side, Does Bernie Win the Nomination?], 4buk6c, 1458897336.0, 1
+158, [Bernie Always], 4awyns, 1458306663.0, 1
+159, [What are the logistics of absentee voting?], 4aohfl, 1458173258.0, 3
+160, [If Bernie Sander is elected, he will legalize marijuana.], 44ktya, 1454864188.0, 0
+161, [Why African-Americans should be turning out in droves to support Bernie Sanders], 4361nn, 1454053049.0, 1
+162, [Martin OMalley encourages his backers to support Bernie Sanders?], 42zqxi, 1453958375.0, 2
+163, [Clinton announces herself "winner" in a tie! SCREW THAT! Just donated another $100 to Bernie. WE. WILL. WIN.], 43ske9, 1454415437.0, 3525
+164, [What's Worst Than Trump Supporters], 4gpsda, 1461809497.0, 0
+165, [Guys, it was a trap! She set a trap!], 4drhpv, 1460070976.0, 6
+166, [I'll just leave this here as a reminder of why we support Sanders for President.], 4r39vj, 1467601085.0, 3776
+167, [We need an organized effort to draft Bernie for an independent run NOW], 4mwe43, 1465289766.0, 20
+168, [bernie is still going to win !], 4swr2j, 1468574463.0, 6
+169, [Blitzer: "She won fair and square, right?" Sanders: "Yep."], 4rkss0, 1467868350.0, 3
+170, [Can we start a Sanders Independent ballet !??!!?], 4ni07t, 1465615777.0, 1
+171, [Left-Leaning Economists Question Cost of Bernie Sanderss Plans], 45y38b, 1455592155.0, 2
+172, [Bernie Sanders offers overheated claim on where all Republicans stand on climate change], 45dcja, 1455284952.0, 10
+173, [Hey old people it's our time now], 40j69v, 1452578726.0, 0
+174, [We talk almost exclusively of the race, but not enough on issues in this sub. Critical articles or comments of Sanders in another sub lack informed rebuttals, but you informed folks are all here and there's little here to find to fact-check the validity of prevalent points of view.], 4ge4uz, 1461630960.0, 0
+175, [Sanders: Trump 'most dangerous candidate' in modern history], 4v2snn, 1469766434.0, 5
+176, [Clinton's new higher education plan is a HUGE win for Bernie!], 4rrtok, 1467965857.0, 5
+177, [We don't need a new Party. We need a new Constitution.], 4ndral, 1465546523.0, 9
+178, [Trump, Hillary projected to sweep upcoming primaries], 4g3ld3, 1461449138.0, 7
+179, [BernieBP is exploding with activity but it's ignoring a key state: Arizona. Why are we ignoring Arizona? GET ON IT FOLKS! This is two days in a row I notice we've been ignoring Arizona.], 4ag07b, 1458030623.0, 7
+180, [Reality check: Delegate count after tonight Clinton 431 Sanders 50], 451f9y, 1455114865.0, 7
+181, [How is Bernie's "Tax the rich" plan explainable/justifiable?], 49jtsg, 1457490736.0, 18
+182, [How does sanders plan to pay for free education?], 4ap3ns, 1458181437.0, 8
+183, [Neil deGrasse Tyson: "Who would Jesus vote for? To him walls, wealth, & torture are non-starters, so probably the Jewish New Yorker from Vermont."], 48ioh0, 1456896076.0, 4307
+184, [2016 Iowa Republican Presidential Caucus - Clinton 57%, Sanders 36% (Gravis Marketing/One America News 1/11-1/12)], 40u9ai, 1452749459.0, 3
+185, [Sanders dominates Clinton in California with 61.25%], 4h2ptw, 1462011199.0, 0
+186, [Former Hillary Clinton Advisor "Let's be real: it's a pathological hatred for a female leader among young men, it's not about #BernieSanders."], 41nem5, 1453214976.0, 18
+187, [I am worried that Sanders supporters will back Hillary in the end, and nothing will ever change.], 4nc749, 1465525939.0, 12
+188, [California voter here. I think I screwed up. I need answers!], 4n23z3, 1465372017.0, 0
+189, [Nevada caucus and beyond.], 46w0km, 1456101964.0, 5
+190, [I'm voting for Sanders on Super Tuesday, but I don't think he will win the nomination. But he has already done a lot by raising attention to the issues many of us care about.], 477gen, 1456274938.0, 4
+191, [Genuine question.], 4mpcy2, 1465188760.0, 6
+192, [Illinois supposedly is recycling numbers! Do NOT call IL! Call Missouri/North Carolina!], 4aalwq, 1457940716.0, 27
+193, [GET YOUR BUTTS PHONEBANKING NOW OR YOU WILL BE BLAMED IF WE LOSE!!!!!!!!!!!! New California Poll - Clinton 57, Bernie 38], 4hjyrp, 1462254022.0, 0
+194, [Pledge to Continue the Political Revolution], 4si4yv, 1468372334.0, 3
+195, [Please Bernie read!!!!], 4njs94, 1465642744.0, 0
+196, [Why the movement must adopt anti-capitalism.], 4lz33o, 1464777963.0, 0
+197, [I just want to thank you all.], 4ar5kf, 1458211601.0, 0
+198, [Californian here. Win or lose, rain or shine, regardless of the results. After today, I want my state to Bern even hotter than the wildfires caused by the drought. Call our phones and knock on our doors. Get people registered. It'll be glorious.], 4gl5t9, 1461735712.0, 3919
+199, [Polling places running out of ballots in St. Clair and Madison County Illinois], 4al9sh, 1458115987.0, 75
+200, [Why doesn't the Sanders for President movement become the Democratic version of the Republican's Tea Party?], 4pubhd, 1466916507.0, 0
+201, [On coldest night of 2016, Birmingham's homeless warming station used for Sanders rally], 41mwc4, 1453206024.0, 5
+202, [Fox News Almost Hosted a Trump/Sanders Debate, But Trump Backed Out], 49l5ql, 1457507739.0, 4175
+203, [Told my boyfriend all I wanted for Valentine's Day was canvassing with him for Bernie. We're both huge introverts, so if we can do it, you can too!], 45t99o, 1455516375.0, 2190
+204, [Down But Not Out: A "Where Do We Go From Here?" Discussion], 4n3q60, 1465396963.0, 6
+205, [If Bernie keeps this up he is going to lose..], 3sya9o, 1447658039.0, 5
+206, [The Cold Hard Truth], 4arns7, 1458221149.0, 3
+207, [Fight on and remember what John F Kennedy once said], 4apeeb, 1458185462.0, 3
+208, [Why are so many people here acting as if California is a sure-win? Newest poll doesn't look too good unfortunately.], 4lwrd9, 1464748670.0, 11
+209, [We're hitting them like they have oil! Currently at 1,000 calls every five minutes. Keep going and we can WIN this!], 4ag1bl, 1458031077.0, 3984
+210, [Comey did the right thing.], 4rkx5x, 1467869918.0, 1
+211, [NY Daily News: Scary Bernie Hates Israel!], 4dug9r, 1460110907.0, 0
+212, [Super Tuesday], 46xa6s, 1456117643.0, 3
+213, [Can someone explain to me how Sanders plans to pay for all the new social services he wants to introduce], 4apvhp, 1458191865.0, 2
+214, [Definitely "felt the burn" in Iowa this weekend], 43on8y, 1454365413.0, 0
+215, [Bernie Sanders on Twitter in reply to Trump: Big talk from the same guy who was too afraid to debate Bernie in California.], 4sj62o, 1468383922.0, 11
+216, [@EmersonPolling: ##2016elections #Democratic #NYPrimary #Poll Results for 4/17 @HillaryClinton 55% @BernieSanders 40%], 4fac1s, 1460984935.0, 0
+217, [Hillary Clinton's average lead in the polls in New York has lowered by .7 percentage points! It's now only 13.3!], 4en0pq, 1460601919.0, 13
+218, [This sub is still Sanders for President. All you argumentative folks who are obviously pro Hillary, will you please just leave us alone? the condescending comments by Hillary supporters entrenches me further in the opposite direction... you are defeating your cause.. Leave us Alone!], 4ofpe0, 1466140391.0, 3344
+219, [The new Anti-Bernie rhetoric and the related narrative about his followers is beginning to wear on me.], 4lj0dq, 1464522926.0, 0
+220, [Hillary Clinton strongly backs public option, wins praise from Bernie Sanders], 4s1hg2, 1468116801.0, 5
+221, [How Bernie Can Win (But Hes Not Going To Like It)], 4cnews, 1459409311.0, 0
+222, [Bernie Sanderss One-Dimensional Campaign is Hurting Him Badly], 3vv2t1, 1449563417.0, 6
+223, [Hi. I'm a black male. I support Bernie but not his supporters and here's why.], 47em5o, 1456373746.0, 89
+224, [Underwhelmed with the Address to Supporters], 4ogsi3, 1466154801.0, 0
+225, [Am I the only one feeling betrayed?], 4ng0j7, 1465589920.0, 0
+226, [I'm in the Bay Area and I'm looking to progressive demonstrators.], 4gqz17, 1461824664.0, 4
+227, [I did my 5! For Bernie, for freedom!], 4arcmy, 1458215018.0, 0
+228, [Bernie is ignorant on aboriginal rights], 45nw2o, 1455442307.0, 0
+229, [Bernie Sanderss single-payer plan isnt a plan at all], 41hcns, 1453120802.0, 9
+230, [When did this sub go from pro-progressive to pro-Trump?], 4q6rrd, 1467104551.0, 5
+231, [Trump supporter here, abandoning ship.], 48vmkf, 1457091464.0, 3279
+232, [Reddit, you have supported me since this campaign first began, and for that, I thank you. Today, I have a huge request for you.], 48bqz6, 1456800928.0, 5085
+233, [ever again], 4lyucu, 1464774625.0, 0
+234, [A Push for a Major Celebrity Endorsement/s Won't Hurt], 4arbnk, 1458214525.0, 4
+235, [Top Democratic economists don't think much of Bernienomics. He doesnt care.], 46f1k9, 1455835518.0, 3
+236, [Bernie's Instagram has 428k followers, Hillary's has 556k. $30 says we can make it equal by the end of today.], 3w30m3, 1449703450.0, 4053
+237, [Spread the word...AP is lying], 4mwdak, 1465289475.0, 49
+238, [Wisconsin has 86 pledged delegates out of which 57 will be allocated proportionally based on voting, remaining 29 are WINNER-TAKE-ALL.], 4dc4jc, 1459819883.0, 0
+239, [Tomorrow Bernie Talks to Obama], 4n820k, 1465457514.0, 0
+240, [How about the Justice Party?], 4gvl40, 1461899669.0, 0
+241, [Tyler Pedigo made his projection for New York - it doesn't look good. But if we lose hope, we will not meet call goals for April 26th and that's when we truly lose! Stay positive!], 4fgpt2, 1461084921.0, 0
+242, [Our backs are against a wall. NOW IS THE TIME TO FIGHT BACK!!!], 46w69o, 1456103916.0, 5
+243, [Stop trying to spin the result - it is what it is. Look ahead and keep fighting], 46uafd, 1456067409.0, 4
+244, [The MSM should stop bashing Bernie because he holds Clinton's presidential destiny in his hands], 4n9ds0, 1465478299.0, 1
+245, [How specifically does Sanders plan to "take on wall street"?], 4dxoyb, 1460168564.0, 2
+246, [Clinton has won most of her delegates in states that were won by Mitt Romney. What if  for the sake of discussion  we ignored delegates from states that voted GOP in 2012?], 4b0z2h, 1458375611.0, 1
+247, [Voter Turnout Lost Ohio - Huge Turnout Is The Only Chance], 4ar33l, 1458210462.0, 0
+248, [GOING FORWARD: AN EFFECTIVE GAME CHANGE PLAN IS NEEDED], 4anpky, 1458162526.0, 1
+249, [People Denigrating and/or Disavowing Bernie], 4ue0tq, 1469409503.0, 0
+250, [PARTING WORDS FOR BERNIE SANDERS], 4t3csk, 1468677480.0, 0
+251, [About California], 4nmpqz, 1465700453.0, 0
+252, [Why Didn't Gabbard Leave Earlier To Endorse Us?], 4899f9, 1456763532.0, 0
+253, [Bernie Sanders has a problem with educated white voters. According to entrance polls by the NYT, he trails Clinton in both categories. Is he planning a college tour to visit white people?], 4422az, 1454564747.0, 1
+254, [I missed my registration deadline], 43sawj, 1454411582.0, 1
+255, [How Sanders Supporters can Up Their Game (or, Why Sanders Lost NY)], 4gdoax, 1461625093.0, 2
+256, [Hillary Clinton Campaign Slams Bernie Sanders Response on Racial Blindspots : Very Disturbing], 49dpsz, 1457400815.0, 6
+257, [A Great Graphic showing Bernie's Northern Nevada Win!!], 46vudk, 1456099653.0, 7
+258, [Sanders's speech saying he would vote for Bill Clinton in 96], 4pmtay, 1466803050.0, 0
+259, [Take a deep breath and remember what the Democratic race looked like at this point in 2008], 4k9uzg, 1463800317.0, 3
+260, [Clyburn: Sanders' Education Plan Is A Disaster For Private Black Colleges], 46wppm, 1456110525.0, 0
+261, [Now That Trump Is The Nominee, These Republicans Say They're Voting For Hillary], 4hsg5h, 1462357475.0, 0
+262, [Why did Bernie Sanders dominate Saturday? Caucuses in whiter states.], 4c59ur, 1459107036.0, 3
+263, [Bernie Block Parties], 4aprlw, 1458190400.0, 0
+264, [Bernies Revolution Hits a Wall], 4849nc, 1456710401.0, 6
+265, [Stood and waited 8 1/2 hours for this moment. Well worth it.], 4ab679, 1457949676.0, 2327
+266, [Does anyone know how long FB blocks your invite ability when you've overdone it?], 4ayu1d, 1458344323.0, 3
+267, [We need a contingent working on facebanking NY and CA NOW and NONSTOP.], 4ane86, 1458157425.0, 0
+268, [Dispelling Fiction - Bernie's "I promise by the end of my first term we won't have the largest number of prisoners in the world" claim is impossible. Actually surprising information inside.], 488uig, 1456756108.0, 3
+269, [Getting in touch with Weaver or campaign officials?], 46w9p1, 1456105061.0, 1
+270, [Alright mods, this shit needs to stop. Deleted after 3k upvotes? The issues discussed in this thread are important], 3zdwe9, 1451923233.0, 12
+271, [Bernie won the first Roll Call. They ignore it apparently.], 4uqw8t, 1469595200.0, 7
+272, [We have one almost two full months to petition Superdelegates!], 4n4k8h, 1465414492.0, 8
+273, [The Media is Lying to You - Hillary Clinton is Not the Democratic Presidential Nominee], 4mxemi, 1465304152.0, 9
+274, [Who here was part of the 'layoffs' and is it just MSM spun bs on the 'severity'?], 4gunlf, 1461888194.0, 5
+275, [Varieties of Voodoo - "By endorsing outlandish economic claims, the Sanders campaign is basically signaling that it doesnt believe its program can be sold on the merits, that it has to invoke a growth miracle to minimize the downsides of its vision."], 46k7o9, 1455910413.0, 0
+276, [It is true that Sanders is a one issue candidate, hear me out.], 461mlk, 1455641572.0, 3
+277, [Response to SCOTUS Arguments], 4np5t3, 1465741483.0, 10
+278, [A California Dream & Why I Don't Think We Should Protest The Convention], 4k23vk, 1463688148.0, 0
+279, [Bernie's Vision], 4its4f, 1462979824.0, 2
+280, [Bernie Sanders vs. Barack Obama], 4b25pp, 1458398762.0, 0
+281, [Bernie's South Carolina Surrender], 47dlgp, 1456362377.0, 0
+282, [Do we have a Sanders for Americans Abroad team anywhere?], 470emq, 1456168449.0, 0
+283, [Meet The Press and Corporate Media Sponsodered Ads], 46w9dq, 1456104962.0, 0
+284, [Susan Sarandon on Hilary Clinton and presidential election], 4n4clt, 1465410493.0, 0
+285, [So whose idea was it to put that god ugly cheese head on Bernie?], 4dimz8, 1459920984.0, 4
+286, [IMPORTANT QUESTION! Are we allowed to do this? (AMAZING RESULTS)], 493hh7, 1457230670.0, 8
+287, [YES!!! FOR THE FIRST TIME TONIGHT OH MY GOD BERNIE FINALLY....], 43sr7f, 1454418455.0, 0
+288, [It's the way you treat people that defines your character.], 47mdwv, 1456474572.0, 2882
+289, [AP Source: Clinton, Sanders discussing endorsement event], 4rmriz, 1467895076.0, 0
+290, [Give Hillary and DNC an Ultimatum], 4ng7pp, 1465593199.0, 0
+291, [Take us to the Golden Age of Man Bernie!], 4m34ei, 1464838970.0, 0
+292, [The Long March of Bernies Army: Where it came from; where its headed.], 4c8ixh, 1459163262.0, 0
+293, [Can someone please explain how winning Massachusetts could save Bernie's campaign?], 489lxo, 1456770665.0, 0
+294, [De Blasio vouches for Clinton after 'botched' Wall Street answer], 3t22zr, 1447731318.0, 0
+295, [Don't despair: After March 15th the entire last half of the elected delegate race is favorable to Bernie], 4alyyz, 1458126692.0, 3602
+296, [Thanks for nothing, Elizabeth Warren: How the Democratic Partys rock star missed her chance, hurt the progressive agenda], 48frs6, 1456859419.0, 138
+297, [Sanders runs low on cash while Clinton stockpiles $30 million], 4kuhwh, 1464134627.0, 14
+298, [Dear Mods, I love the volunteer work you do to keep this thread amazing, but we need to talk about the future of this sub.], 4ng3f2, 1465591261.0, 2
+299, [Sanders pledges to work with Clinton after meeting with Obama], 4nc62h, 1465525597.0, 0
+300, [Montana results - Bernie wins but gets fewer delegates?], 4n4bwi, 1465410095.0, 0
+301, [Talking point: if Hillary won 8 years ago we would probably have two more anti-LGBT judges on the Supreme Court. Hashtag idea. #wherewouldwebenow], 4fpma6, 1461215966.0, 3
+302, [Why Sanders Trails Clinton Among Minority Voters], 4bf7eb, 1458636302.0, 3
+303, [To anyone saying Facebanking must not have been effective:], 4arpht, 1458222176.0, 2
+304, [It's time to put my big boy pants on!], 4argwy, 1458217262.0, 2
+305, [Bernie Sanders' Long History With Alternative Medicine], 499s7x, 1457336156.0, 3
+306, [question about phonebanking locally versus out of state], 46w6mp, 1456104043.0, 2
+307, [Just donated for Bernie. I'm a Chinese citizen and never been to USA but I think under his leading we might hope for a better USA and a better world.], 3zowyp, 1452097049.0, 0
+308, [PPP North Carolina poll: Clinton 60(-1) Sanders 21(-3)], 3w354g, 1449705302.0, 0
+309, [My son got to meet Bernie at the NH rally - he dressed for the occasion.], 42emuw, 1453640704.0, 2830
+310, [Help me understand this.. Even if Bernie plans on a contested convention, wouldn't it be pointless if he still doesn't have a majority?], 4hlulq, 1462282086.0, 0
+311, [Indiana is feeling the Bern!], 47z6nr, 1456647376.0, 11
+312, [Just realized that Trump, someone who no political experience acts more like a politician than Bernie, who has been in office for 40 years], 4leuz0, 1464447982.0, 10
+313, [Idea: Someone makes an app that opens a public hotspot called "Free wifi by Bernie Sanders" from your smartphone.], 4azm2m, 1458355028.0, 7
+314, [I think I have a great idea!], 4apcl3, 1458184785.0, 3
+315, [Hey Mods, can we clean up all these posts bashing and turning against Bernie. Either these people are trolls or just classless people.], 4ueunp, 1469420551.0, 5
+316, [The Democrats Are Headed for a Contested Convention Too], 4mwseq, 1465294848.0, 3
+317, [Thanks for nothing (or why it's important to educate yourselves on all the candidates on the ballot)], 4dnlc3, 1460002871.0, 2
+318, [Bernie Sanders lost poor voters in South Carolina by a big margin  a problem for his political revolution], 4804g5, 1456661886.0, 13
+319, [A Problem With Some Bernie Supporters.], 3xj4nf, 1450604437.0, 11
+320, [I have a question about Sanders' College for All plan], 4fj64a, 1461121355.0, 3
+321, [Bernie Sanders "Never Tweet"], 4umr68, 1469534680.0, 0
+322, [Is Obama feeling the Bern?], 4eiiym, 1460528320.0, 5
+323, [Maybe Sanders supporters are so young, because...], 4czce8, 1459588861.0, 4
+324, [Disappointed with Bernie's views on Winston Churchill.], 45dwws, 1455296496.0, 0
+325, [Curb Your Enthusiasm. Bernie is still behind in most polls and especially with African American voters], 3zk5ho, 1452029619.0, 3
+326, [What would happen if Bernie won EVERY upcoming race by 16 points and the Democrats Abroad Primary by 30 points after todays results?], 4amzou, 1458149009.0, 8
+327, [If we win 4 states today, Hillary will lose momentum and we WILL have the nomination. We have over 5,000 users online. If 1 out of every 5 people makes 10 calls, we can make 2,000 calls within a matter of MINUTES. Want another Michigan? DO SOMETHING ABOUT IT. Want a revolution? BE PART OF IT.], 4aj7lk, 1458088358.0, 3838
+328, [Not giving up!!], 4n25p0, 1465372641.0, 0
+329, [Ferrets For Bernie], 4m2ou5, 1464834035.0, 0
+330, [What Can Be Learned About Bernie Sanders From His Time As Burlingtons Mayor?], 4aye3s, 1458338037.0, 0
+331, [Is there an alternative for facebanking], 4apuvi, 1458191624.0, 1
+332, [Back To Work We Go], 4anpwv, 1458162692.0, 0
+333, [Upcoming Races are in smaller states and spread out more. Demographically they are predisposed to Sanders. This is fertile territory for our phonebanking efforts to saturate states one by one.], 4anppf, 1458162590.0, 1
+334, [Bernie Sanders, Integrity & the Nevada Caucus "English Only" Controversy], 48s31b, 1457042410.0, 3
+335, [Reports' limitations plague Bernie Sanders' claim about high childhood poverty rates in the U.S.], 45dcmw, 1455284999.0, 0
+336, [FDU NJ Poll: Clinton 64, Sanders 27], 3tacm5, 1447878562.0, 3
+337, [Benchmark Politics on Twitter: "Clinton 50.5% - Sanders 49.5% in Oregon, early modeling. Closed primary, extremely old median age, mail in voting. https://t.co/fX5QvWxJ0b"], 4iszso, 1462965069.0, 0
+338, [Thoughts on this CNN article?], 4djbnu, 1459930645.0, 0
+339, [What's going on with this sub? Have you all really given up and become cynical?], 4hlnvo, 1462278650.0, 17
+340, [Bernie Sanders Will Hit the Campaign Trail With Hillary Clinton], 4sb02z, 1468273816.0, 52
+341, [Our next steps as the Progressive movement], 4n83y1, 1465458285.0, 0
+342, [Does anyone know the website that lets you create delegate allocation scenarios?], 4lm5fl, 1464583430.0, 2
+343, [Polls v. Reality], 4jwmxh, 1463606689.0, 0
+344, [Does sombody has the % or numbers of electronic voting/counting birdie vs hillary?], 4gg1yq, 1461655480.0, 1
+345, [Bernie Power: Caucuses vs Primaries], 46y7dq, 1456129846.0, 1
+346, [Jimmy Fallon debuts Bernie Sanders impression - CNN Video], 45wkif, 1455573538.0, 0
+347, [Democrats to Sanders: Time to wind it down (Protracted combat with Hillary Clinton threatens to do real damage in a general election against Donald Trump, senators warn)], 4bf66b, 1458635805.0, 0
+348, [Practical phonebanking question - when do polls close in Ohio?], 4aks8w, 1458109087.0, 12
+349, [What is standard practice at Bernie events?], 4bu0vz, 1458888934.0, 0
+350, [Hillary Clinton Makes A Late Surge And Cuts Bernie Sanders Lead To 7 In New Hampshire], 44uxn9, 1455020734.0, 0
+351, [It was said that after Indiana, most of the states were clearly PRO-BERNIE. Instead, I see that we are still fighting too close each State that comes up. How come?], 4iltoo, 1462857877.0, 9
+352, [Invite all of your FB friends to like Bernie Sanders is 5 minutes with http://bernieinvite.com/], 4applb, 1458189661.0, 4
+353, [LIVE Stream: Bernie Sanders & Hillary Clinton Rally in Portsmouth, New Hampshire (July 12, 2016)], 4shayt, 1468363151.0, 32
+354, [Its Dat Bernie], 4m2mcn, 1464833268.0, 4
+355, [Can we create a subreddit for civil debate between the Democratic candidates?], 4bgfgu, 1458659568.0, 0
+356, [We press on.], 46xa45, 1456117617.0, 0
+357, [Winston Churchill was a colonialist monster. Bernie Sanders shouldnt embrace him.], 45fxr9, 1455328736.0, 0
+358, [An idea to stop Hillary Clinton], 4nbaqo, 1465514743.0, 0
+359, [How Bernie Can Win (But He's Not Going To Like It)], 4coqln, 1459431712.0, 0
+360, [Hi Bernie community! I'm new here but I wanted to share a couple of links that will give you some hope and spread the positive vibes!], 4as45g, 1458232523.0, 2
+361, [My friend sent me this website about Sander's Donations, how should I respond?], 4ln1us, 1464597034.0, 2
+362, [If Sanders doesn't win the nomination, I might lean Trump.], 46vwgx, 1456100452.0, 36
+363, [Why I will not support Hillary Clinton, regardless of Bernie's possible endorsement of her.], 4sh8x9, 1468362456.0, 3233
+364, [Of the People, by the People, for the People (poster and written piece)], 48k4av, 1456915730.0, 0
+365, [I made a deal with the devil], 4n248u, 1465372111.0, 0
+366, [Why did Bernie say he'll vote for Hillary? Wasn't that an absolutely terrible move on his part?], 4rex1c, 1467781810.0, 0
+367, [WE NEED HISENBERN!!!!! Time to hold HRC's feet to the fire and demand actual change.], 4nf0y1, 1465568042.0, 1
+368, [Sanders speaks out after White House meeting "I spoke with Hillary Clinton on Tuesday night. I congratulated her with very strong campaign. I look forward to meeting with her in the near future to see how we can work together".], 4ncj6k, 1465530082.0, 2
+369, [Why is there no South Dakota event?], 4mxd4b, 1465303439.0, 0
+370, [2016 Dewey Defeats Truman], 4lz90h, 1464780335.0, 0
+371, [Bernie drinking game], 4bzatu, 1458983232.0, 0
+372, [I'm glad everybody's picking themselves up, but we still need to do some soul searching. And reconnaissance], 4aw6o4, 1458293107.0, 0
+373, [Texas ads?], 470cpf, 1456167359.0, 0
+374, [What Does This Mean for Sanders?], 453m9y, 1455151638.0, 3
+375, [What are Delegates?], 43sbuv, 1454411942.0, 1
+376, [Have been Pro-Bernie for awhile now - but my Canadian friend confronted me about Canadian Healthcare and how great it ISN'T. [Long lines - placement in line based on severity of issue and your age] - Please, enlighten me on why we want something like that here?], 435mg3, 1454047447.0, 0
+377, [Why Nevada was a bad sign for Bernie Sanders's "political revolution"], 46x4np, 1456115659.0, 0
+378, [Well this is upsetting. Stephen Colbert claims on his show that Hillary needs 17% of the remaining delegates to clinch the nomination], 4j0rr2, 1463089972.0, 28
+379, [Cenk from TYT has given up on Bernie this election, I'm considering giving up my membership.], 4rf4xf, 1467784660.0, 13
+380, [A bird lands on Bernie's podium during his Portland, Oregon rally. "That bird is really a dove asking us for world peace," he said.], 4byed9, 1458968852.0, 4456
+381, [Congratulations, /r/SandersForPresident! You are Subreddit of the Day!], 4hndjf, 1462312851.0, 4606
+382, [Donated another 27 dollars after how hard we worked for yesterday, anyone want to match me today?], 4aprv7, 1458190491.0, 0
+383, [Statistics break down of victory path], 4aogub, 1458173045.0, 0
+384, [List of Aggressive Democratic Public Officials.], 4m7dj8, 1464906074.0, 0
+385, [Who's more electable: Bernie Sanders or Hillary Clinton?], 4fsvos, 1461273066.0, 0
+386, [Can someone explain Bernie's votes on guns regarding the Brady Bill?], 4erxzz, 1460680035.0, 0
+387, [I predict Joe Biden will endorse Bernie Sanders today], 40y3k9, 1452815052.0, 0
+388, [Sanders ratchets up attacks on Democrats], 4m4hxk, 1464856400.0, 0
+389, [Cruz rising in Iowa; Clinton back out to dominant lead], 3r9gx5, 1446527863.0, 3
+390, [State of the Sanders Union: What are the objective, realistic chances we have at winning this?], 4etodp, 1460701412.0, 2
+391, [Well, looks like Bernie has sold out. Time to pack it up, folks! /s], 4cvc2u, 1459542038.0, 3
+392, [Duplicate posts should not always be deleted: The rules must change], 4aybjt, 1458336953.0, 4
+393, [After March 15th, could there possibly need to be a re-evaluation of our strategy?], 4aqsx9, 1458205876.0, 0
+394, [Ohio mom breast feeds baby at Bernie Sanders rally], 48ryli, 1457040386.0, 3
+395, [I'm very disappointed to find out that Bernie opposes nuclear power.], 478sj5, 1456290505.0, 1
+396, [Perspective & Youth Voter Turnout], 46xaob, 1456117808.0, 0
+397, [Spreading the word on League of Legends!], 4809a1, 1456664063.0, 0
+398, [Sanders staffers messed up & all news isn't good news.], 3xe13f, 1450500900.0, 6
+399, [We want a political revolution. First we must defeat fascism.], 4v3zyh, 1469782639.0, 0
+400, [Moving Tribute Bernie Sanders], 4awydu, 1458306495.0, 3
+401, [Strategy to win Democrats: Compile Obama's best anti-HRC lines from 2008], 4ar3il, 1458210662.0, 3
+402, [(repost) Bernies ideas are radical, but unfortunately his campaign strategy is moderate at best (brainstorming thread!)], 4anpbn, 1458162413.0, 2
+403, [On Predictit.org, Bernie is currently at 11% to be democratic nominee, and 11% to be president, that means if Bernie wins the nomination he will almost certainly become president!], 48lsr0, 1456947775.0, 5
+404, [New strategy, or just use what we have but not emphasized enough!], 46w40d, 1456103162.0, 0
+405, [STOP FIGHTING EACH OTHER OVER WHO YOU'RE GOING TO VOTE FOR], 4ncgak, 1465529109.0, 3
+406, [I wish more people understood what will realistically when Bernie is elected. What I tell people when they say they don't want to pay for all these free things with taxes.], 4bg2xs, 1458651185.0, 0
+407, [Is this election straining anyone else's personal relationships?], 46w9bg, 1456104940.0, 0
+408, [Why does Reddit love Bernie Sanders?], 44z9ll, 1455084570.0, 5
+409, [I was a Republican, Now I Love Bernie], 47gm9k, 1456394548.0, 1843
+410, [Can We Get A Post Warning People About The State Of The Sub?], 4ayecn, 1458338146.0, 13
+411, [Word of caution: Be vigilant against the defeatist attitude.], 46sfvs, 1456037903.0, 4331
+412, [Is this sub really going to sit by and let pro-Trump voices dominate this sub?], 4v3ny0, 1469777803.0, 5
+413, [[Not Malicious] Why are there so many Sanders supporters that don't trust Bernie's judgement?], 4umbql, 1469528346.0, 0
+414, [Clinton voter fraud in Polk County, Iowa Caucus], 43slk3, 1454415956.0, 4522
+415, [Regardless of if Bernie ends up endorsing Hillary, let's all agree we will always support him.], 4rm5dx, 1467886298.0, 6
+416, [What is an affidavit?], 4fjo45, 1461127462.0, 6
+417, [Predictions for the pledged delegate gap by the convention?], 4mr2vg, 1465213453.0, 3
+418, [I wonder if it would be possible for an elected official to have their actions bound by a contract. Would such a contract be enforceable?], 4g9chn, 1461551672.0, 0
+419, [Does anyone else want to know why Bernie isn't rich?], 4cipuw, 1459331747.0, 3
+420, [Quick question about Facebanking], 4az2tt, 1458347590.0, 3
+421, [What states are we trying to do what in right now?], 4arp4n, 1458221950.0, 0
+422, [We need to start converting Hilary voters in Bernie ones], 4anq5e, 1458162796.0, 0
+423, [Is Bernie Sanders Healthy Enough To Be President?], 43c5rx, 1454148725.0, 0
+424, [Why African-American voters may doom Bernie Sanders candidacy], 426s9g, 1453515373.0, 1
+425, [I'm a 44 year old gay man. I am kind of losing my mind right now over Clinton saying that Nancy Reagan helped people with HIV in the 80s...How do I start phone-banking for Sanders?], 4a1l4e, 1457771487.0, 4513
+426, [We need to draft someone to run against Warren], 4nhbkh, 1465607386.0, 13
+427, [New CA poll conducted from MAY 04-16 with HRC +13], 4lv4op, 1464729074.0, 0
+428, [March for Bernie: Seattle Edition], 47zcvw, 1456649813.0, 7
+429, [Question about my provisional ballot], 4fkkbi, 1461139130.0, 14
+430, [Ohio caller down?], 4akmc9, 1458106855.0, 13
+431, [Thank you Bernie for opening my eyes to the truth. I have the highest respect for you.], 4sjdu6, 1468386410.0, 0
+432, [Bernie seemed rather angry after his talk with Obama.. no?], 4nboel, 1465519553.0, 6
+433, [Disney CEO Hits Back at Sanders Criticism With Blunt Question: How Many Jobs Have You Created?], 4l6hsf, 1464313140.0, 5
+434, [Honestly, Looking at the NY map after Today... It doesn't look that bad.], 4flptt, 1461156128.0, 5
+435, [Just got out of the Bernie rally in Tulsa and he signed the best hat of them all], 47guri, 1456397866.0, 6
+436, [Iowa Polling Results (Gravis Marketing/One America New) - Bernie Sanders 36% (+5), Hillary Clinton 57% (+8)], 40u7sb, 1452748925.0, 5
+437, [remove 3 out of 19 pro hillary pollster from Iowa huffpollster, and you get:], 3rcl2v, 1446585836.0, 0
+438, [This kid gave himself the Bernie cut], 4jy50j, 1463624859.0, 0
+439, [Steve Aoki at Bernie Event in Appleton?], 4cgj7o, 1459301856.0, 0
+440, [If Trump won't debate Republicans anymore, would he debate Sanders?], 4arvd1, 1458226002.0, 0
+441, [Best Bernie Sanders Quotes From The Campaign Trail], 4anfcr, 1458157928.0, 0
+442, [Feel the Bern - Sebastian Castro [NSFW YouTube though...]], 480and, 1456664701.0, 0
+443, [Clinton moves to end the primary quickly: As her rivals gasp in Iowa, the front-runner is locking down later states.], 3trkxc, 1448186655.0, 0
+444, [I'll stop fighting for my candidate when he stops fighting for me. WE DO NOT GIVE UP! Match me?], 4alvxg, 1458125326.0, 3139
+445, [FDR endorsed his opponent Al Smith and went on to win the nomination at the contested convention.], 4sogqh, 1468461012.0, 5
+446, [Maybe Obama doesn't want Bernie to win...], 4ogrlo, 1466154413.0, 4
+447, [Bernie's Shop #losangeles], 4mx5qv, 1465300112.0, 4
+448, [Sanders Supporters Propose Mobilizing Voters to Beat Trump], 4j35gt, 1463119539.0, 4
+449, [When you wake up from a nap], 4curzf, 1459530687.0, 0
+450, [German living in the US wondering about the chances of Bernie winning.], 4mfwtv, 1465028630.0, 0
+451, [Prescription cost per year and Bernie's proposal, need some questions cleared up.], 4ia3lk, 1462658763.0, 0
+452, [Innocent question: What happened in CT ?], 4go7ct, 1461788424.0, 1
+453, [Should we have a two-tier system of healthcare?], 4f8a8v, 1460953303.0, 0
+454, [Should Bernie do anything different to broaden his appeal? If so, what?], 4ar2uz, 1458210339.0, 1
+455, [Shouldnt Older Men Be Going For Bernie?  MattBruenig], 46yy8v, 1456140670.0, 0
+456, [Mods - the popup about registering to vote blocks users from being able to select flair], 4327d8, 1453993056.0, 1
+457, [I voted earlier using a provisional ballot, but I found my mail in ballot. Could I go in and swap them out?], 4n23yj, 1465372013.0, 4
+458, [How MSM, 538 and Clintonites feel about Bernie winning in the polls], 4m2g77, 1464831342.0, 0
+459, [BerniePB tracker broken?], 4gqw21, 1461823513.0, 5
+460, [Upcoming States], 4ghe14, 1461676379.0, 4
+461, [Delegate Count Leaving Bernie Sanders With Steep Climb], 46z2du, 1456142412.0, 0
+462, [Why is the Mexican wall a bad thing?], 45ifoj, 1455361962.0, 2
+463, [New Friday poll has us down in NY by double digits. Think of all the crap we've had to endure this past week, or even throughout the primary. Alright then, "Bernie Bros". Time to get the last laugh. We need to #TakeNYByPhone], 4f2r0s, 1460855375.0, 0
+464, [The Real Issue: People Are Too Lazy To Learn], 4bb0i5, 1458565530.0, 0
+465, [Somebody Get This Man In The White House!], 4enj09, 1460608134.0, 4896
+466, [Did everyone give up? Get on the phones today.], 4gcxc3, 1461613366.0, 14
+467, [We must share this far and wide.], 4mwzcs, 1465297498.0, 0
+468, [Bernie's wholly inadequate foreign policy in the current environment will doom him to failure (DETAILED)], 3tsm4h, 1448210039.0, 0
+469, [Joe Biden to the rescue of HRC?], 4kjcyb, 1463964818.0, 0
+470, [Connecticut Frustration], 4gofwc, 1461792252.0, 7
+471, [I just donated $50 to let Bernie know that I am still fighting with him and for him. Match me to show your support! Let's show MSM that we have not given up! Can this be the biggest fundraising day yet? Let's fuel the fire for "Primary 2.0"!], 4am18c, 1458127757.0, 103
+472, [On Meet the Press, former Secretary of Defense Robert Gates just supported Bernie Sanders' ISIS Policy over Clinton's, Cruz, and Trump's. Let's get people talking about this.], 42g3xo, 1453675881.0, 3948
+473, [In 2008 Obama lost 21 states. KEEP PUSHING, KEEP FIGHTING WE CAN DO THIS!!!!], 4alzch, 1458126873.0, 3953
+474, [Any news on the AUA /r/socialism is going to have on /r/s4p ?], 4nxqo9, 1465879613.0, 1
+475, [Help me inform my dad], 4lxg30, 1464756550.0, 3
+476, [Sanders voted for less gun background checks?], 4enm8n, 1460609221.0, 0
+477, [question about bernie's view on welfare?], 4e3k4g, 1460272997.0, 0
+478, [Washington delegate count?], 4cq2at, 1459460614.0, 0
+479, [I've noticed a trend on this sub where a lot of people have recently started downvoting critical articles/opinions....], 3s5h7g, 1447116703.0, 0
+480, [Here Are the 126 Celebrities That Just Endorsed Bernie Sanders for President], 3rw30w, 1446935584.0, 0
+481, [Anyone else curious if Trump's move was intentional?], 4lew0v, 1464448736.0, 3
+482, [My Prophesy on Senator Bernard Sanders], 4e41s0, 1460281378.0, 0
+483, [Tell me what I can do.], 4as618, 1458234027.0, 0
+484, [Why Bernie Sanders tawks that way], 46sow4, 1456041396.0, 5
+485, [Apparently I'm this thing called a "Boomer" - How this subreddit has likely lost activist, after activist, after activist who probably will vote for Bernie Sanders, but are sufficiently repulsed that they say to hell with canvassing/phonebanking.], 463uqa, 1455676581.0, 0
+486, [Keep my vote: Sanders dumping nuclear waste in poor communities.], 44jfnl, 1454839645.0, 0
+487, [Can we PLEASE stop using this subreddit to support other candidates?], 4tftbi, 1468885652.0, 0
+488, [@BernieSanders | "Our job now is to see our progressive platform implemented by a Democratic Senate, a Democratic House and a Hillary Clinton presidency."  Crosspost /r/Political_Revolution], 4shs4v, 1468368500.0, 10
+489, [What's going on? WHY IS NO ONE PHONEBANKING?], 4c64r4, 1459124836.0, 0
+490, [Bernie is leading the popular vote 151,584 to Hillary's 95,252], 46whqf, 1456107807.0, 14
+491, [How Are We Going To Prevent California From Being The Same Electoral Farce We've Been Seeing So Far?], 4mxfit, 1465304575.0, 4
+492, [Hillary Offers Olive Branch To Sanders Supporters], 4gpx3m, 1461811121.0, 0
+493, [Super Bern! our grassroots comedy video], 4bh2xa, 1458676516.0, 0
+494, [Bernie Sanders (Campaign Trap Anthem) [Rap Song] by: An0maly @An0malyMusic], 4bb3e2, 1458567341.0, 5
+495, [[Meta] Is the whole "revolutionary army" titles/motif on this subreddit smart?], 46xq8s, 1456123320.0, 3
+496, [The cost of the electoral process vs higher education for all], 46vxd4, 1456100808.0, 5
+497, [If we lose Pennsylvania, we lose the primary.], 4ef2zy, 1460475353.0, 19
+498, [My girlfriend supports Bernie but says she'll vote for Hillary if she has to because she doesn't want to lose out healthcare. If she right?], 4fq9ya, 1461224590.0, 3
+499, [Where can I read Sanders thoughts on the benifits of capitalism?], 4dztau, 1460201002.0, 0
+500, [While increasing negativity from Bernie's campaign concerns me...], 4dtomb, 1460099113.0, 0
+501, [CNN said Bernie stumbled in a NY Daily News interview. What's that about?], 4doqtw, 1460019243.0, 0
+502, [(Don't upvote) I know this has been asked all the time, but can Bernie still win? Realistically.], 4cyv12, 1459582402.0, 1
+503, [Why I am voting for Bernie regardless of any results up until November.], 4ax3gu, 1458309602.0, 3
+504, [By not attacking Clinton, Bernie is failing his role as Democrat nominee's candidate], 48u4qc, 1457069376.0, 0
+505, [I agree with Hillary...], 47bkb8, 1456330383.0, 3
+506, [Assuming Bernie Wins the Nomination/Presidency, do you think he would give Clinton a Cabinet Position?], 44ve23, 1455028347.0, 0
+507, [Let's play The Devil's Advocate. What is wrong with Bernie?], 3zg0rn, 1451961712.0, 0
+508, [March for Bernie in front of the Nebraska State Capitol!], 47z6ge, 1456647293.0, 17
+509, [Question: Why doesn't Bernie run Independent in the general, and only drop out if polls show him losing on, say, Nov 1st?], 4n7kob, 1465451351.0, 0
+510, [Exposing Fracking to Sunlight], 4ann5g, 1458161358.0, 1
+511, [What would prevent Wall Street from moving out of the US after Bernie is elected?], 48zehu, 1457155550.0, 0
+512, [PSA to all Sanders supporters: PLEASE STOP VANDALIZING], 48t2ud, 1457056111.0, 2
+513, [Bernie Sanders declares he is a strong feminist and honorary woman - The Washington Post], 47b2vi, 1456321421.0, 0
+514, [Dan Merica on Twitter: "This Sanders fundraising email flat out isn't true: None of Clinton's events yesterday cost $27,000 to attend."], 477pmo, 1456277701.0, 2
+515, [Why Do People Love Bernie Sanders?], 46x4g5, 1456115586.0, 5
+516, [CNNs Brooke Baldwin Asks Bernie Sanders Supporters to Define the Word Socialist], 43qw6s, 1454392865.0, 1
+517, [Bernie Sanders Says 'My Job' Is to Make Sure Hillary Clinton Is Elected President], 4tecg1, 1468862808.0, 0
+518, [We can do this!], 4gt104, 1461859389.0, 6
+519, [Any Psychologist or Psych student out there want to do a body language comparison video between Bernie and Hillary?], 4gr23i, 1461825890.0, 6
+520, [Reality check: Bernie still behind by 25% nationally], 3xx691, 1450871439.0, 3
+521, [This sub has lost its mind.], 4slnn9, 1468418720.0, 19
+522, [As a Sanders supporter since the first time I heard him on Thom Hartmann's show years ago, I'm very disappointed in all of you who are turning on him now that things got hard.], 4up0bt, 1469573581.0, 20
+523, [My Californian uncle's 'valid reasons' for voting for Hillary over Bernie.], 4hphmz, 1462332102.0, 18
+524, [The results tonight in 4 states were remarkably close, with Clinton barely claiming victory. The true delegate count remains very close! Bernie is still very much in this race.], 4aminq, 1458136963.0, 35
+525, [Just write the man in], 4uyl5s, 1469704022.0, 0
+526, [Bernie phonebank game now closed?], 4ob139, 1466071398.0, 0
+527, [Found this app, Brigade, after last nights depression lead internet rabbit hole. Does it have potential to help the political revolution?], 4n69bv, 1465436171.0, 1
+528, [Serious Goal question], 4gog34, 1461792340.0, 0
+529, [What would Bernie Sanders offer to a Donald Trump supporter such as myself to win me over?], 45879c, 1455215994.0, 2
+530, [Sanders should support HR 40 (Commission to Study Reparations)], 42m3v6, 1453766983.0, 0
+531, [On climate change, and never voting for Clinton], 4156qo, 1452921839.0, 0
+532, [The Young Turks - Live Show & Election Coverage], 4akym3, 1458111559.0, 85
+533, [NO MORE BERNIE BRO-ING!!!!!!], 43sysz, 1454421904.0, 11
+534, [Just voted early here in Texas! Feeling the Bern], 478shf, 1456290487.0, 2367
+535, [Friendly message from a Hillary Clinton supporter], 4exnso, 1460768443.0, 0
+536, [This is what modern feminism looks like.], 44u327, 1455008659.0, 4536
+537, [Can anyone ELI5 about Clinton winning the Washington Primary?], 4l1txb, 1464238596.0, 7
+538, [I feel the Bern.], 48atqo, 1456789918.0, 3995
+539, [I think that even with less pledged delegates, Bernie can still win the nomination. Here's why.], 4gehp5, 1461635378.0, 0
+540, [How the election was really rigged against Bernie Sanders.], 4uwu8y, 1469680842.0, 4277
+541, [If you read this...], 4h5x2j, 1462074828.0, 18
+542, [We need Bernie campaign to take action against the registration switches and drops happening all over NY.], 4fj4o8, 1461120864.0, 70
+543, [Sanders won't debate Thursday unless Clinton agrees to future debates], 43wvq3, 1454483492.0, 9
+544, [False expectations and reality], 48ii5f, 1456893801.0, 11
+545, [Why were we against the temporary rules for the Nevada convention? I feel like there might be some misconceptions being repeated.], 4jr185, 1463522365.0, 0
+546, [Ported my new Birdie Sanders game: Flappy Bernie to iOS / the App Store! Let me know how you like it :)], 4pgfli, 1466713078.0, 0
+547, [For anyone curious about May's FEC filing...], 4m91ul, 1464926129.0, 0
+548, [Washington Post says Bernie/Trump Debate unlikely - it may be, but not for the reasons they think], 4l9n5a, 1464361726.0, 0
+549, [Unification], 4kem63, 1463881662.0, 0
+550, [Brokered convention?], 4gooz6, 1461795831.0, 3
+551, [Bernie only visiting for town halls?], 4e3xk5, 1460279328.0, 0
+552, [Do we need to be worried about the NYDN interview?], 4dlkun, 1459975710.0, 1
+553, [Question Regarding Preregistration for 17 y/o's in CA], 4ax9l7, 1458313803.0, 3
+554, [Having a problem with Facebanking, can anybody help?], 4atvfk, 1458260580.0, 0
+555, [Where Bernie Sanders' political revolution has already succeeded], 48pfq3, 1456995308.0, 1
+556, [What Happened to the Campaign Tool Kit on the Side Bar?], 470d9e, 1456167651.0, 1
+557, [Loras College Iowa poll: Clinton 59 (+0), Sanders 30 (+3)], 4281ig, 1453531495.0, 0
+558, [Hillary Clinton says Bernie Sanders voted for regime change in Libya], 3xvgys, 1450843471.0, 1
+559, [Obama Privately Tells Donors That Time Is Coming to Unite Behind Hillary Clinton], 4au0wn, 1458262620.0, 27
+560, [An Idea Related to Clinton's Transcripts], 4kdf3r, 1463863518.0, 4
+561, [I think the phonebank total on the banner busted.], 4gqz7p, 1461824738.0, 3
+562, [I'm not voting for anyone in the primary or general Election until they address the fact that the Rent is Too Damn High], 4d731a, 1459734327.0, 0
+563, [This sub needs to change direction (Bernie would not be proud of us)], 48t1nm, 1457055723.0, 3
+564, [Sanders Foreign Policy Falls Short: Socialism Means Internationalism], 436b96, 1454056720.0, 0
+565, [I am not a Democrat. I am a Bernie supporter. I am not lining up to vote HRC in November.], 4k1z09, 1463685512.0, 4627
+566, [How Can I Get the Campaign to Stop Contacting Me?], 4ccoy8, 1459234974.0, 8
+567, [The Sanders campaign is officially a success], 4s7n72, 1468217122.0, 0
+568, [Think of it this way: If the pro Bernie states went first, we'd have all the momentum and positivity!], 4aniy1, 1458159462.0, 19
+569, [Hey /r/sandersforpresident the world is watching you.], 43sl1p, 1454415741.0, 4267
+570, [Can Bernie win California?], 4jyd85, 1463627512.0, 1
+571, [Will Bernie be able to enact his policies with the current senate?], 4e3xki, 1460279334.0, 3
+572, [Can you text bank?], 4awvqe, 1458304954.0, 2
+573, [Phonebankers urgently needed for the March 22nd states! These states are critical for restoring our momentum. Please help us out!], 4aqw8e, 1458207348.0, 5
+574, [Clinton Had a Very Good Night, But the Democratic Race is Far From Finished - The majority of the delegates have yet to be chosen.], 4anu8n, 1458164510.0, 3
+575, [How has this not reached the front page yet?! The MOST EFFICIENT tool for facebanking -- AUTOMATIC TAGGING! I reached 300+ in Michigan in 20 minutes.], 49igs2, 1457472358.0, 3036
+576, [Hillary Clinton Embraces Ideas From Bernie Sanderss College Tuition Plan], 4ris0i, 1467844713.0, 0
+577, [Didn't we all envision a Sanders Administration for 8 years? IF AND ONLY IF OUR HOPES DO NOT MATERIALIZE, why couldn't Bernie run in 2020?], 4njuvw, 1465644053.0, 2
+578, [Has anyone compiled a list of superdelgates by state and figured how the count would go if they supported whoever win their state?], 4mcfrd, 1464982229.0, 3
+579, [Audit Black Box Voting in Chicago], 4gt083, 1461858856.0, 1
+580, [My rep is supporting Clinton], 4eda27, 1460444294.0, 2
+581, [idea: AskBernieSupporters subreddit], 4aroco, 1458221500.0, 2
+582, [We have won a huge victory just by getting Bernie's message out. Hillary has been froced to take his positions.], 4antgw, 1458164245.0, 0
+583, [Bernie supporter in PA - looking forward], 4anr1u, 1458163198.0, 2
+584, [When do we get an update from the Bernie camp?], 4anpsl, 1458162636.0, 2
+585, [[Found Artwork - Last One] President Sanders speaking his peace.], 49hs77, 1457458628.0, 3
+586, [CLINTON LEADS SANDERS BY A WIDE MARGIN IN SOUTH CAROLINA, WITH STRONG SUPPORT FROM AFRICAN AMERICANS], 47mg7h, 1456475514.0, 3
+587, [How can I find out where Bernie is going], 46yfbp, 1456133040.0, 3
+588, [Need Help Explaining These Votes On Bernie's Record (or refuting them - cannot find them on his website )], 46xwit, 1456125720.0, 0
+589, [Now is the time to announce Sen. Warren for VP], 43n4am, 1454334307.0, 2
+590, [I am God and I endorse Bernie Sanders. Ask Me anything!], 48bl38, 1456798986.0, 1881
+591, [Wake the hell up. Bernie is not going to win JUST because he's the benevolent protagonist fighting the evil establishment. The next 4-8 years of your country are at stake, nothing should be more important. Get out there and FIGHT.], 483ov4, 1456706626.0, 3827
+592, [Don't give up. Work harder! Join me in donating $15 to show Bernie that we're still behind him on, and after, the 15th, and that we believe the best days of the primary (and ultimately victory) are ahead of us!], 4alywa, 1458126663.0, 102
+593, [What happened to the positivity and policy discussion around here?], 4jmpeh, 1463454279.0, 11
+594, [Recently moved from SF to NYC. Should I register here before primary, or vote absentee back in the CA primary?], 4aki6j, 1458105316.0, 10
+595, [Who is that guy again?], 4m4rbi, 1464860152.0, 0
+596, [Fundamental Issue with Strict Capitalism (Video: 2:03) We shouldn't blame corporations for following profits, it's what capitalism says to do. I think an interesting way for Bernie to gain support, would be to convince other democrats that Strict Capitalism is flawed], 4ffkli, 1461062950.0, 0
+597, [My friend sent me a link to an article that wrote on Bernie voting for bills that increased prison population sizes. I remember reading/hearing something that said Bernie voted for bills he otherwise wouldn't have, due to fine line details. Are these those types of bills?], 4enaxu, 1460605446.0, 0
+598, [Marist College Poll - Apr. 6-10 :: Annotation Issue], 4efxdo, 1460494139.0, 0
+599, [Footage of Clinton and Sanders having a one-on-one about her Wall Street speeches.], 49r6y8, 1457600693.0, 0
+600, [How can Hilary beat the GOP when she'll have to spend all her money on Bernie?], 46z2sj, 1456142590.0, 0
+601, [Nate Silver says Bernie has a 25% chance of winning Nevada. Can someone tell me what he said Bernie's chances were in Iowa, comparatively?], 46osw0, 1455974731.0, 1
+602, [Your theory of politics is wrong], 46oh60, 1455968965.0, 0
+603, [Help, I'm demoralized. Tell me how we are going to close gaps nationwide that we needed An IA win to do.], 43xzlq, 1454499194.0, 0
+604, [Tired of posts saying that we should not lay out the facts on Clinton], 4289t7, 1453534779.0, 0
+605, [This One Fact About Bernie Sanders Makes Him Even More Relatable & It's All Thanks To His Wife, Jane], 3ymk5l, 1451399110.0, 1
+606, [Why do we keep blaming Sanders' lack of support in Black communities in South Carolina on name recognition? I think the Sanders campaign should try to change how they approach this demographic.], 3s0ouj, 1447029386.0, 0
+607, [Did Bernie Sanders just send the most economically illiterate tweet ever?], 3ydgg0, 1451226469.0, 0
+608, [Does Bernie have a good chance of winning the primary?], 4mfonz, 1465025217.0, 5
+609, [The Revolution Will Not Be Internet-ized], 4fc41n, 1461018803.0, 4
+610, [I'm disappointed in Sanders position on the Israel-Palestine conflict], 45m5l0, 1455420491.0, 0
+611, [So has this sub thrown in the towel on Phone Banking?], 4c7uoc, 1459151859.0, 0
+612, [Maybe we lost because of our behavior.], 486e8y, 1456727499.0, 0
+613, [Not affiliated with a party! Come quick!], 4fko7t, 1461140653.0, 33
+614, [If more people would do the PHONEBANKING instead of the COMMENTING, Bernie would win the nomination !], 4aprkq, 1458190389.0, 0
+615, [Sarah Silverman (7.79M followers): Bernie's jus 5yrs older than Trump he just doesn't have time to dye his hair & get a fake tan HE'S BUSY W OTHER SHIT], 42pix7, 1453806911.0, 4406
+616, [If anyone knows this guy, give him some love! March for Bernie, NYC TODAY:)], 47zqou, 1456655655.0, 8
+617, [Vote Sanders. Everyone else will send your kids to war.], 4ay9wi, 1458336300.0, 3649
+618, [I Have an Idea:], 4ntfti, 1465811244.0, 2
+619, [How much do we need to raise to get a Bernie AMA going?], 4bxgbm, 1458955973.0, 0
+620, [Bernie Mojo requested!!], 4b98fa, 1458535939.0, 5
+621, [The Moral Vision of Bernie Sanders], 4av7h2, 1458278505.0, 6
+622, [Is bernie actually going to tax people that make six figures at 95%?], 48sb0x, 1457045907.0, 0
+623, [Intelligent Youtube celebrity just endorsed Bernie Sanders], 45y02k, 1455591119.0, 0
+624, [ECPS on Twitter: "BREAKING #iacaucus poll results: Democratic Top 3: @HillaryClinton: 51% @BernieSanders: 43% @MartinOMalley: 4% #EmersonPoll"], 43n2oj, 1454333517.0, 5
+625, [Serious question...is Bernie really losing?], 3x84vg, 1450396145.0, 5
+626, [Christians are often urged to vote for a "Godly Leader". But I've come to realize that voting for the Christian candidate isn't really in line with "Christ-likeness". Bernie may not be a religious man, but he stands for more "Christian values" than any other candidate - that is why he has my vote.], 413jvt, 1452900835.0, 4412
+627, [Bernie Sanders for President | Bernie Sanders Gets a Song | Vote Bernie Song Ukulele | Feel the Bern], 4amygw, 1458148071.0, 0
+628, [The fact that it's SO CLOSE proves that every little thing everyone did as a result of this subreddit MATTERED 100%], 43sokw, 1454417278.0, 4638
+629, [CONGRATULATIONS!! We made 50,000 calls IN ONE DAY!! :) Everyone should be proud of their efforts!], 4aazez, 1457946606.0, 4191
+630, [Issues], 4b9czh, 1458537820.0, 0
+631, [First time ever voting and I felt the Bern tonight.], 47aesf, 1456311499.0, 1143
+632, [Did you really think that Sanders wouldn't endorse Hillary?], 4slvjm, 1468422956.0, 0
+633, [Bernie Sanders Calls Out Both Democrats And Republicans in 1989], 4si5ue, 1468372585.0, 0
+634, [@BernieSanders | "Together, we have begun a political revolution to transform America and that revolution continues. Together. Not me, us."  Crosspost /r/Political_Revolution], 4shep0, 1468364382.0, 0
+635, [Sanders greatest victory so far was when the Clinton campaign gave private prison lobbyist cash to charity. Can a contested convention achieve similar progress?], 4ni0qs, 1465615956.0, 0
+636, [Are you all not tired???], 4ngwhv, 1465602229.0, 0
+637, [Can Bernie become the "people's president?"], 4fof3t, 1461201492.0, 0
+638, [Question about protests?], 4dy9p1, 1460176327.0, 0
+639, [Is there any way I can still vote?], 4a2uq8, 1457793194.0, 0
+640, [The Miami debate was Clintons personal nightmare], 49w65s, 1457682061.0, 0
+641, [Bernie Sanders Doesn't Believe In Sell Out Clinton Era Welfare Reform], 470491, 1456162551.0, 0
+642, [What Bernie Sanders told Lou Dobbs in 2007 about why he opposed the Kennedy-McCain immigration bill], 45h2xb, 1455342700.0, 2
+643, [Are there other supporters like me who are turned off by the term "revolution"? I prefer "renaissance". (If you disagree than comment. Not downvote)], 44c0h9, 1454724426.0, 0
+644, [Sanders Supporters Explain Socialism], 435t6n, 1454049921.0, 1
+645, [Bernie Sanders grapples with promise not to go negative], 40ztvp, 1452837036.0, 0
+646, [Hillary Clinton to unveil major jobs and infrastructure spending proposal], 3uqjv4, 1448848909.0, 0
+647, [Bernie Mic Drop: "Trump, you wouldnt know New York values if they were written in 50 foot gold letters on the side of the Empire State Building. New York values are the Statue of Liberty, not a wall between us and Mexico. In New York, we pride ourselves on our diversity. We dont divide people up."], 4epe4s, 1460634084.0, 4590
+648, [Question: Why Didn't Bernie Attack Hillary More Regarding the Email Scandal?], 4ngmxm, 1465598947.0, 3
+649, [Bernie vows a divisive platform fight at Philly confab], 4du0xb, 1460104200.0, 4
+650, [What's an acceptable level of inequality?], 4deu07, 1459858019.0, 3
+651, [When are the campaign offices going to open up in California?], 4ax2c8, 1458308851.0, 2
+652, [A note for Millenials for Sanders], 4anu28, 1458164454.0, 2
+653, [Should this be part of Bernie's new message?], 4ant8f, 1458164146.0, 1
+654, [The curse of inevitability: After Hillary Clintons big wins, the media is already ignoring Bernie Sanders], 4anq4q, 1458162791.0, 4
+655, [What is Bernie's position on the PKK and other Kurdish Militias?], 4a2xl2, 1457795012.0, 0
+656, [Bernie Sanders Has a Turnout Problem.], 47169e, 1456182094.0, 2
+657, [Muted Response to Sanders at South Carolina Church], 46yvai, 1456139419.0, 0
+658, [How early to arrive for a rally?], 46x8ir, 1456117013.0, 3
+659, [In 2000, Sanders voted in favor of the CFMA, which prevented OTC derivatives from being more tightly regulated. OTC derivatives went on to be considered one of the causes of the financial crisis of 2008.], 3zds4w, 1451920540.0, 3
+660, [I'm from CD1 on Long Island, New York and I just gave Bernie $100. Please match me if you can. If you can't match that, try matching one of my others, $27, $10, $5, or $2.70. We cannot give up or get discouraged.], 4fl5vf, 1461147657.0, 271
+661, [My opponent thinks free public college is too expensive. Well, the Iraq war was pretty damn expensive.], 4m19o7, 1464817088.0, 3052
+662, [Stay Democrats until after your State's closed Primaries; Kansas, Connecticut, Wyoming, Florida, and Delaware [X-post /r/Political_Revolution]], 4si94k, 1468373575.0, 0
+663, [Joe Biden has been in the news an awful lot lately....], 4ngon4, 1465599541.0, 2
+664, [3 weeks ago I made a post seeking individuals to volunteer at election sights throughout CA to prevent fraud and disenfranchisement], 4nglf2, 1465598408.0, 3
+665, [Canadian here - with an observation concerning Bernie & Hillary], 4ne725, 1465553250.0, 0
+666, [Here's what I really want to know about Bernie's (potential) strategy], 4k5eh8, 1463729600.0, 1
+667, [As someone from Australia who is remotely interested in US politics at the moment, how likely is it that Sanders will beat Clinton this late in the race?], 4i5ayx, 1462573528.0, 2
+668, [What are the similarities between Hillary and Romney??], 4gprwu, 1461809348.0, 0
+669, [The 6.2% tax increase paid by employers for the healthcare premium would hurt small businesses and self employed people, wouldn't it?], 4dzig6, 1460195588.0, 2
+670, [Just donated an additional $15 on top of my normal monthly donation.], 4awb1d, 1458294987.0, 3
+671, [Morning Consult Poll: Sanders Gains on Clinton; Trump Increases Lead], 4aw5xk, 1458292777.0, 2
+672, [Quick question about Facebanking], 4ar6b1, 1458211966.0, 1
+673, [Can we have a sticky that stays till the end of primary to give our feedback to the campaign?], 4ao1ka, 1458167301.0, 2
+674, [How We Create The Winning Margins Needed], 4anstd, 1458163941.0, 2
+675, [Crazed Woman Charges Bernie Sanders At Rally], 47ntrz, 1456497104.0, 0
+676, [What is the best form to donate ? (Paypal,visa,amex)], 46y7cp, 1456129834.0, 0
+677, [Sports Illustrated Swimsuit Model Wants Bernie Sanders To Be President], 46jalu, 1455891451.0, 4
+678, [/r/PoliticalDiscussion thinks that Bernie would be unelectable, thoughts?], 44os8h, 1454925499.0, 3
+679, [Please be careful], 44a6d8, 1454694441.0, 4
+680, [State of the Subreddit], 40eu7t, 1452511249.0, 0
+681, [New Nevada poll has Bernie down 50-27%], 3yv7ks, 1451560400.0, 2
+682, [How Bernie Sanders Lost the Debate Before the Debate], 3szb9p, 1447675562.0, 1
+683, [Can't phonebank until monday....], 4gqpmq, 1461821107.0, 6
+684, [Let's stop using polls as scare tactic.], 49z3kd, 1457736790.0, 5
+685, [Guys, I think we are coming off a bit too strong], 43m78b, 1454320289.0, 7
+686, [Is it me, or is the Daily Show incredibly anti-Bernie?], 4fxj9x, 1461341200.0, 7
+687, [You know what actually makes me sad about the events of last night?], 4analm, 1458155546.0, 0
+688, [Yoog! March For Bernie in Pittsburgh PA!], 47z899, 1456648003.0, 8
+689, [Do you support fracking? Hillary vs Bernie], 4cd0ph, 1459239799.0, 4274
+690, [[META]: A little disappointed that the trolling/astroturfing is allowed to be as bad as it is. Mods are doing a very mediocre job controlling it.], 4gr0z4, 1461825457.0, 22
+691, [Trayvon Martins family attorney endorses Bernie Sanders | Fusion], 42y0wu, 1453938281.0, 2526
+692, [Did Hillary just lie and infer that she has been fighting for LGBT rights for 40 years? Donate $40 to Bernie!], 42pm9t, 1453808172.0, 3744
+693, [Bernie WON the coin tosses!! The rules state that "In the case where two or more preference groups are tied for the loss of a delegate, a coin shall be tossed to determine who LOSES the delegate!], 43u7ft, 1454448774.0, 18
+694, [Please cease all protests at Trump's rallies], 4lwc1u, 1464743845.0, 0
+695, [How is this election doing compared the 2008 elections?], 4lso96, 1464685854.0, 6
+696, [Hillary Clinton has a big problem], 4gomuk, 1461795040.0, 6
+697, [Has there been a #He'sWithUs hastag/chant?], 4g5fnn, 1461476700.0, 6
+698, [On the Reflexive Downvoting of Anti-Bernie Articles], 46cgtc, 1455790946.0, 0
+699, [Can someone tell me why I should vote for Sanders and his economic policies. I'm starting to lose hope in him.], 4600ot, 1455614872.0, 4
+700, [This campaign is so amazing - look what we just accomplished! 40,000 calls on the day of the primary. Keep it up until the convention!], 4fko53, 1461140618.0, 117
+701, [Bernie Sanders Set to Endorse Hillary Clinton at New Hampshire Rally], 4saqla, 1468270054.0, 0
+702, [REALITY CHECK: We are 3.73% of elected delegates behind, with only 21.45% of elected delegates assigned. We're doing just fine, people. Don't let up now, we can win this. Enough with the defeatism.], 48lui4, 1456948827.0, 5042
+703, [Sanders collides with black lawmakers], 4ov2bc, 1466397338.0, 0
+704, [My brand new Bernie Sanders ONESIE! This fight isn't fucking over!], 4puqcd, 1466922414.0, 517
+705, [Attempt to open upcoming primaries to voters], 4fkkco, 1461139142.0, 22
+706, [Guys, we dropped the ball. Today is the last day to sign up for Moveon.org to vote in their endorsement poll. We need to make sure every Sanders supporter joins the site NOW. This group has even more members than DFA (7 mil). We only have 16 hours to make sure every Sanders supporter sees this.], 3zpnjk, 1452113486.0, 4319
+707, [In less than 48 hours, Bernie has successfully did what Hillary and every GOP candidate failed to pull off for several months make Donald Trump look bad.], 4lfc6t, 1464460629.0, 4809
+708, [5 numbers that explain how Clinton won Nevada], 46ubz1, 1456068488.0, 0
+709, [Talk me down], 44olxq, 1454922409.0, 0
+710, [Read This Article In Slate That Claimed Bernie's Rise Was Due To Sexism, Here's My Response], 448g2x, 1454663606.0, 1
+711, [Alabama Radio Host Blasts Bernie Sanders' Family, Cornel West], 42izwq, 1453715362.0, 0
+712, [how can a small business be expected to pay 15$/hr?], 3vuxlg, 1449561231.0, 0
+713, [OMalley: Bernie Sanders Is Rewriting History Of Obama Support In 2012], 3s4ur3, 1447106990.0, 0
+714, [Bernie's smiling face adorns the cover of the new Rolling Stone magazine! What a great photo!], 3tben1, 1447896003.0, 4292
+715, [New NBC\WSJ\Marist poll Florida: Clinton 61 Sanders 34 Ohio: Clinton 58 Sanders 38 Illinois: Clinton 51 Sanders 45], 4a8dnc, 1457905864.0, 14
+716, [Bernies Fundraising Was Revolutionary. How He Spent His Money Was Another Matter], 4stsvg, 1468538558.0, 5
+717, [We should be encouraging Sanders to cease taking part in this gun ban charade], 4ph3nu, 1466722223.0, 0
+718, [Fox News Poll: Trump, Clinton rule Empire State], 4e5yac, 1460326989.0, 5
+719, [With Bernie right now circulating New York, can we have an honest discussion on his opposition to Indian Point Nuclear Power Plant?], 4e16k7, 1460236097.0, 0
+720, [I just donated to a political candidate for the first time ever. $27 for 27 Remaining Primaries and Caucuses. Match me! #IFeelTheBern], 4aqqwh, 1458204995.0, 0
+721, [Why Bernie Sanders won the Democratic primary  even if he loses], 471g0o, 1456185620.0, 0
+722, [I am deeply concerned Bernie is fighting an unwinnable battle.], 45k2a8, 1455395424.0, 4
+723, [What Leadership Looks Like], 4gloev, 1461742630.0, 26
+724, [Mark Ruffalo to 2.28M followers: "Bernie is crushing it at @CNN debate! #DemDebate"], 49ahqx, 1457346987.0, 4544
+725, [It's becoming clear there may likely be a 3rd challenge on the right, Bernie should do the same], 4gf7pk, 1461644318.0, 7
+726, [I never understood the jabs aimed at supposedly overzealous Bernie supporters...until today.], 4lo2oy, 1464614061.0, 28
+727, [Can non-US citizens donate to delegates' trip to Dem convention?], 4lnd1s, 1464602137.0, 7
+728, [What can be done about super delegates - long-term?], 4g9xvz, 1461559681.0, 5
+729, [FiveThirtyEight (News rooted in analytics) article accuses Sanders of sexism], 4dy2nb, 1460173659.0, 7
+730, [Official Bernie and HRC joint event in NH on Tuesday page. Come out and support Bernie!], 4sbddn, 1468278527.0, 54
+731, [Boxer: Sanders appeals to young voters with grandpa effect], 4l8zry, 1464349002.0, 0
+732, [Dear Hillary Voters: It's Not Bernie's Fault She's Terrible], 4976j8, 1457296959.0, 7
+733, [If Nevada was Primary instead of Caucus], 46vzop, 1456101654.0, 15
+734, [If there's one thing I hope the Democratic Party establishment learns from Bernie's campaign...], 4ktkt4, 1464122573.0, 2
+735, [are there any video animators in this group?], 4ggd40, 1461660058.0, 2
+736, [Robert Reich and Bernie], 4awppg, 1458301778.0, 0
+737, [Far too many people were registered incorrectly in Florida, we need to fix that moving forward!], 4anpl7, 1458162529.0, 3
+738, [I won't be caucusing for Bernie], 46z5c0, 1456143628.0, 3
+739, [Bernie Sanders Makes Progress, But Hillary Clinton Remains The Favorite], 46yz4g, 1456141025.0, 3
+740, [The real enemies of this campaign], 46y5qb, 1456129184.0, 0
+741, [Bernies Way: The Vermont senator doesnt want to bring Republicans and Democrats together. He means to tear it all down.], 44quqy, 1454966230.0, 0
+742, [I don't want to be pessimistic... but my jar is a little half empty right now. Here is why.], 440ez6, 1454543988.0, 3
+743, [Martin O'Malley claims that when Bernie Sanders called for more debates he really wanted less.], 433bt5, 1454017311.0, 2
+744, [States with sore loser laws?], 4nhmc6, 1465611006.0, 3
+745, [Convention case. No independent run.], 4n7pbz, 1465452989.0, 1
+746, [Quick question], 4j2cno, 1463109551.0, 1
+747, [What is the TRUE delegate count?!], 4gojlf, 1461793781.0, 1
+748, [Let's play nice [peace between candidates rant]], 4dx286, 1460160360.0, 0
+749, [Great Video to Convert Trump supporters to Bernie-- feed them their own sources.], 4doizt, 1460015913.0, 0
+750, [Tyler pedigo data?], 4dawke, 1459802759.0, 0
+751, [DANK MEMES - APRIL FOOLS JOKE?], 4cvm9l, 1459546117.0, 2
+752, [A real liberal revolution starts with communities of color], 48u5tv, 1457070123.0, 0
+753, [Can someone please redo this and put BERNIE on it instead?], 48f1ms, 1456844190.0, 0
+754, [Change my view/Explain like I'm 10. Why should I vote for the Bern?], 470l4a, 1456172278.0, 0
+755, [Caucus Cheat Sheet], 46zkvq, 1456150759.0, 1
+756, [Bernie Sanders is a real world Captain America], 451uq4, 1455123780.0, 0
+757, [Delegates], 43sb3z, 1454411664.0, 0
+758, [If Bernie Sanders wins, what would your dream cabinet and vice-president picks be?], 439tu7, 1454117582.0, 2
+759, [Are the data in this graph true?], 42mo57, 1453773136.0, 0
+760, [That was disappointingly short and expended a lot of energy that should've been saved for other things.], 42dsy3, 1453626936.0, 0
+761, [[IAMA Request] Bernie Sanders], 413osc, 1452902706.0, 3
+762, [Bernie Sanders Flirted With 100 Percent Marginal Tax on the Rich, Maximum Wage], 3tcymn, 1447917667.0, 1
+763, [A Future To Believe In - #BirdieSanders], 4c162c, 1459028000.0, 4281
+764, [[Discuss] Why won't Bernie Sanders run as an Independent?], 4qdikl, 1467199933.0, 1
+765, [Deciding where I'll go from here on out.], 4nma1y, 1465694332.0, 3
+766, [I got lucky: I just got changed to "Permanent absentee" instead of the wrong party.], 4n3vpv, 1465400184.0, 2
+767, [This subreddit], 4lz7nt, 1464779773.0, 4
+768, [As I understand it, Republicans can over-rule the delegate count at their convention. Can Democrats do this also?], 4l1ngx, 1464236229.0, 2
+769, [Please help me understand the concept of a contested democratic convention...], 4gqo7h, 1461820614.0, 0
+770, [Donate $26 to Bern the 26th!], 4fnkhp, 1461191171.0, 0
+771, [To all the naysayers, I present the advantage of Caucus over Primary], 4d8ltu, 1459756761.0, 0
+772, [Great catchy political tune, "You Can't Buy Bernie" - tells the facts in a way that is fun and sticks in one's head, excellent campaign song!], 48u5di, 1457069989.0, 1
+773, [Can Bernie Sanders create a new Party to rival the traditional two?], 48m836, 1456955884.0, 0
+774, [Bernies ideas are radical, but unfortunately his promotional strategy isnt.], 48dm5e, 1456822455.0, 0
+775, [Mods need to chill (an anecdote)], 43zvn0, 1454536458.0, 3
+776, [Should there be a "suspicious behaviour on Caucus" megathread?], 43osp4, 1454367677.0, 0
+777, [Donald Trump and Ted Cruz surge in Florida; Bernie Sanders no threat to Hillary Clinton [HRC 62, Sanders 26] [GE Matchups Trump +3 on Clinton, +5 on Sanders. Clinton +5 vs Cruz, Sanders Tied.]], 41vqmv, 1453344727.0, 2
+778, [Bernie Sanders compares Hillary Clinton to Dick Cheney], 41soay, 1453292712.0, 0
+779, [Let our voices be heard. Who else feels betrayed?], 4ndh29, 1465542452.0, 12
+780, [Bernie has spoken multiple times about how important the environment is, but hasn't addressed one of the biggest polluters and green house gas producers. The Agriculture industry.], 4hrc6t, 1462346293.0, 13
+781, [Let's Call #DonaldDucks Bluff. If it Really Is About the Money, Let's Raise $10mil for His Speaking Fee], 4ld3g7, 1464415725.0, 6
+782, [[Serious] Why do YOU want Sanders to win?], 4h86mi, 1462116360.0, 0
+783, [Ok guys, if we make Hillary unelectable in the next 6 states, by April 5, with even a tie in Wisconsin we should have taken the advantage of delegates.], 4apx7u, 1458192551.0, 10
+784, [Last minute Bernie Supporter in Michigan, here. Small suggestion to all of you: chill on the "Facebanking"], 49yylh, 1457734685.0, 12
+785, [Be careful when Facebanking - FB people are annoyed. Calling Bernie Spamders], 49emzq, 1457411733.0, 10
+786, [Alright! It's game time. Let's Get Out The Vote!], 48fxw7, 1456862963.0, 4606
+787, [What if I told you that all it would take for Bernie Sanders to win the nomination is 35,000 calls made every day from now until June 7, would you start dialing then? OUR LOW EFFORT IS HILLARY'S PATH TO THE NOMINATION - WE'VE COME TOO FAR TOGETHER TO LOSE HOPE NOW], 4at1ps, 1458250967.0, 3655
+788, [Why is there so much ageism in this subreddit?], 4thsv4, 1468910102.0, 6
+789, [BERNIE SANDERS BODY LANGUAGE SAYS HE ANGRILY AND RELUCTANTLY ENDORSES HILLARY CLINTON], 4skbyu, 1468398961.0, 6
+790, [Hilary is in the top 1% Bernie is in the top 10% in income.], 4f0g92, 1460809286.0, 0
+791, [Trump and Hillary pulling out of the debate creates a great opportunity for Bernie to have a debate with another candidate such as Gary Johnson and/or Jill Stein.], 4ljv3o, 1464543458.0, 0
+792, [Let's get real here for a second], 4gtz90, 1461879046.0, 0
+793, [Rachel Maddow Confronts Debbie Wasserman Schultz On Democratic Superdelegates], 4axxqs, 1458331289.0, 8
+794, [Thank you for your submissions to the thread concerning the future of this sub, but there's something you need to know.], 4ur6gn, 1469598657.0, 15
+795, [I'm furious that I cannot vote for Bernie in my home state (stupid New York registration rules). So I decided to canvass for 12 hours today. Halfway done. Round two tomorrow! Let's take New York!], 4f3gbk, 1460865542.0, 4342
+796, [Queens, NY checking in! 5th person to vote in my district.], 4fh0hk, 1461091702.0, 2477
+797, [Clinton is getting arrogant, not planning to spend 1 dollar on TV ads in the remaining states. I'd hate to be cheesy, but slow and steady can win the race if we make Indiana a blowout victory and it's an OPEN primary! How about 100,000 calls today?], 4h4bfg, 1462049192.0, 4565
+798, [I just got a call from my dad in Virginia asking who he should vote for. He said, "It's your future, so I want to know who you want."], 48j1f8, 1456900649.0, 3941
+799, [How to make downvotes productive], 4gva60, 1461895974.0, 18
+800, [They did it. They called it for Clinton. Guess what i have to say to that? SCREW THAT. Join me and donate $50 to Bernie to show superdelegates that this campaign is the only one with the grassroots, small donor support that can take on Trump WITHOUT a superPAC.], 4mwa41, 1465288373.0, 3209
+801, [Dont give up hope (match me)], 4ggqtl, 1461665676.0, 16
+802, [MLK WAS A DEMOCRATIC SOCIALIST UPDANK IN 20 seconds], 4cv2r0, 1459537231.0, 3592
+803, [We won't give up! The chance is real but the fight is hard. It will only happen if we keep pushing.], 4aoyc4, 1458179519.0, 20
+804, [Bernie rally song by a band up in Portland.], 4gri1j, 1461832283.0, 7
+805, [Bernies Forecast As An Independent In The General Elections], 4goma7, 1461794817.0, 0
+806, [Clinton has won 10 million votes so far. That is only 3% of the population of America. That's no mandate.], 4fognm, 1461201992.0, 7
+807, [Can you vote early in Utah?], 4aoxn9, 1458179266.0, 0
+808, [Just talked to Hillary supporter and what he said is making me think a lot], 49fxmw, 1457428662.0, 6
+809, [I thought it was a great Facebook app for reminding Bernie fans of Super Tuesday... turns out I'm just rude], 48ozi2, 1456989717.0, 0
+810, [Can someone point me to a guide to getting started phone banking using google voice for those of us outside the US?], 46x5dk, 1456115916.0, 9
+811, [The reddit circle jerk over Sanders has pretty much guaranteed that I am not going to vote for him if he wins the nomination. Change my view.], 40tlg9, 1452741558.0, 0
+812, [Fact-checking Bernie Sanders' comments on climate change and terrorism], 3t32ql, 1447745584.0, 10
+813, [Bernie Brahs: How do I contribute more?], 4aphyj, 1458186798.0, 0
+814, [In the unlikely event of a three person race between Trump, Clinton, and Sanders who would win?], 4m4cg2, 1464854217.0, 2
+815, [Genuinely curious, what are we hoping for in the Trump/Sanders debate?], 4l3vps, 1464269803.0, 3
+816, [Bernie's Tax Rate], 4ffp2k, 1461064785.0, 0
+817, [I got yelled at :(], 4mle1q, 1465120281.0, 24
+818, [Can we discuss Bernie's mistakes or is this taboo?], 4prwqr, 1466877531.0, 7
+819, [Missing Birdie Sanders Sticker], 4gydm2, 1461944169.0, 0
+820, [I have some questions for you guys.], 4emmkk, 1460597202.0, 5
+821, [Stream-A-Thon for South Carolina and Bernie Sanders], 47z697, 1456647219.0, 0
+822, [Sanders dismisses major womens group as establishment], 41vhk4, 1453341539.0, 0
+823, [4 new national polls today], 3w9taf, 1449807917.0, 0
+824, [Clinton: I expect Sanders to call for unity after tuesday], 4mnrlo, 1465168028.0, 0
+825, [My Grandfather found out i voted for Sanders and sent me this email (Long)], 4ihduq, 1462786231.0, 16
+826, [Check This Shit: Bernie Sanders, Civil Rights Hero], 47zv0h, 1456657562.0, 18
+827, [Pro-Sanders Union Gets Behind Clinton], 4o5c92, 1465989670.0, 0
+828, [**Swap out , Don't drop out!**], 4n3mur, 1465395079.0, 13
+829, ["The Democratic race looks extremely close... BUT, its going to be very difficult for Sanders to make up that deficit. In very liberal, academic Iowa City, Bernie's lead is not as he might have expected there, and his leads elsewhere arent nearly as large."], 43s64g, 1454409770.0, 10
+830, [Under Sanders, income and jobs would soar, economist says], 44ru3e, 1454979876.0, 4665
+831, [Benchmark Politics on Twitter: "Montana County Benchmarks: Sanders 62% - Clinton 38%"], 4km8fj, 1464006023.0, 0
+832, [Kentucky official: Hillary Clinton apparent winner], 4juk4y, 1463567862.0, 10
+833, [The statistical basis (and minor lack thereof) in claiming Clinton election fraud vs. exit polling], 4h4jqn, 1462053721.0, 0
+834, [Bernie Sanders says he polls better against GOP candidates than Hillary Clinton], 42sarq, 1453854845.0, 0
+835, [Ned Beatty Explains Why Bernie Isn't Winning - "The World is a Business"], 4s9js4, 1468246827.0, 0
+836, [CrossTalk: Bernie's Quest], 4kzaz8, 1464206844.0, 2
+837, [Question about Bernie's Medicare for all Single Payer Tax Plan.], 4ka0r4, 1463802293.0, 0
+838, [is there a place which lists all of the rallys that sanders will be appearing at that isn't based on distance from me? I can only search on the official site for events within 100 miles which is nothing.], 4gfbis, 1461645619.0, 0
+839, [The Washington Post's slanted coverage of Bernie's campaign], 49ebt7, 1457408174.0, 0
+840, [Which banks are Too Big To Fail, and what would a break up look like?], 478yj1, 1456292508.0, 0
+841, [Sanders Veterans scandal], 45zagr, 1455605211.0, 2
+842, [Hillary Clinton Narrowly Defeats Bernie Sanders in Iowa Democratic Caucuses], 43tgmd, 1454432709.0, 1
+843, [As much as I can't stand conservatives, I can't help but agree with them when they say that bigger government means more corruption.], 3zg255, 1451962196.0, 0
+844, [What is Bernie Sanders plans to prevent these things from happening?], 3z52l2, 1451770532.0, 2
+845, [Gringos for Hispanics for Bernie (converting the hired hands)], 3wzu24, 1450244793.0, 2
+846, [The Two Sides of Sanders (project for my art class)], 3w69rt, 1449749219.0, 0
+847, [Second guessing who I want to become president], 3ujo3l, 1448712071.0, 0
+848, [I just realized the official Facebook pages for Donald Trump and Ben Carson both have more Likes than Bernie Sanders', and it quickly put me into a state of depression. Help!], 3t86b9, 1447833261.0, 0
+849, [The Bernie Bounce], 3sp1r9, 1447470882.0, 2
+850, [You told us, you will fight for every vote for every delegate! because every vote counts! So many states later...], 4jrfvu, 1463527579.0, 15
+851, [Example of "Headline Bias" in News Article Today], 4g95ak, 1461549107.0, 0
+852, [When did this sub switch to being no news and only grassroots organising?], 4dovsu, 1460021374.0, 3
+853, [Name the one reason, a policy or trait, that ultimately led to your support of Bernie Sanders.], 4aquph, 1458206678.0, 3
+854, [Canvasser recruitment and support idea], 4anrio, 1458163414.0, 2
+855, [Sanders for Independent Candidate], 3xf23x, 1450518795.0, 4
+856, [Does Bernie care about Asian American issues?], 3ufi3b, 1448629025.0, 4
+857, [Please Read!!!!!], 4aphxm, 1458186790.0, 0
+858, [This Land Is Your Land], 49qlgk, 1457592054.0, 4429
+859, [Clinton Surrogate Knocks Jane Sanders for Playing Nice With Joe Arpaio], 4b2pqa, 1458414352.0, 8
+860, [Trump winning is good for us.], 47b3i4, 1456321726.0, 5
+861, [This isn't directly election related but I wanted to share with you a Bernie-esque tax policy being adopted in Ecuador after their 7.8 earthquake last week.], 4gry4z, 1461838927.0, 4
+862, [Can Bernie Sanders turn the United States into Denmark? An investigation.], 4ad3th, 1457991420.0, 0
+863, [Bernie Sanders is under attack for lack of civil rights record], 45bxhl, 1455264549.0, 3
+864, [Bernie Sanders: A Loser's Life?], 448jx4, 1454665154.0, 6
+865, [Sanders IRC or something like that?], 43sk4w, 1454415335.0, 5
+866, [Sanders live now!], 4alkyh, 1458120618.0, 133
+867, [To me as an African American, this picture of Bernie solidified that he is the best representative for my people. So I decided to make it into a poster. I hope you like it.], 46yp49, 1456136906.0, 1934
+868, [[Serious] A curious Trump supporter comes in peace with honest questions], 4scf5q, 1468290128.0, 0
+869, [A United States government owned and operated media outlet, Voice of America, published a hit piece on Democratic presidential candidate Senator Bernie Sanders, calling him a "shill" for undemocratic regimes.], 4os20q, 1466342214.0, 0
+870, [Help Responding to my Stepdad's Letter Supporting Trump (I want to counter with Bernie facts)], 4o7ttl, 1466032895.0, 0
+871, [So much going on in this sub today], 4nclvg, 1465531037.0, 0
+872, [If Bernie fails to gain DNC nomination, will he run as an independent?], 4k2qbt, 1463697239.0, 2
+873, [Some more rough analysis regarding errors in the polls], 4a8c21, 1457904808.0, 2
+874, [Sanders has the resources and a plan to go the distance. Will it matter?], 46yl9k, 1456135363.0, 1
+875, [Crazy Fundraising Idea], 46wf7f, 1456106954.0, 0
+876, [Bernie Sanders Was Right To Condemn Henry Kissinger. But Why Did He Praise Winston Churchill?], 45h5fo, 1455343547.0, 2
+877, ["Increasingly nasty battle for Hispanics in NV gets uglier as woman Sanders listed as backer says she's w/Hillary. " - @RalstonReports], 44unyk, 1455016754.0, 2
+878, [Sanders military adviser briefed him once], 44r4bg, 1454970572.0, 2
+879, [Biden Joins Other Dems Knocking Sanders: We Dont Need Socialism], 41z7ud, 1453397611.0, 0
+880, [Ultraviolet | Statement from Nita Chaudhary, co-founder of UltraViolet in response to Bernie Sanders labeling Planned Parenthood as part of the political establishment], 41x5ly, 1453363197.0, 0
+881, [Should Bernie Sanders Support Reparations?], 41sl32, 1453291356.0, 0
+882, [Most of Bernie Sanderss big ideas are dead-on-arrival in Congress], 41p0wa, 1453244234.0, 2
+883, [What's a Bernie Sanders stance that you DON'T like?], 3xqn22, 1450755292.0, 1
+884, [Bernie Sanders wins Michigan in stunning upset], 49mfdd, 1457526812.0, 4888
+885, [We made 40,000 calls today! But we still have an hour left! Lets make it 50,000!], 4akz42, 1458111747.0, 113
+886, [Together.], 4c2tn7, 1459054214.0, 3359
+887, [Moderators inconsistency], 4tocot, 1469002133.0, 1
+888, [So we have two weeks to flip delegates and super delegates over to President Sanders. What do they respond to? [Serious]], 4splq8, 1468474195.0, 0
+889, [The Alternative Vote Explained - If Bernie could have gotten the DNC to push for this, his endorsement would have been more worth it], 4sijh2, 1468376724.0, 0
+890, [Not Me; Bernardus!], 4m29mo, 1464829178.0, 2
+891, ["I Just Don't Know if Bernie's Policies are Feasible."], 4k0xnu, 1463663458.0, 0
+892, [Contested Convention Math], 4gq1hl, 1461812663.0, 0
+893, [I need help breaking down this article. I've seen info verifying what Sanders says, so how much of what the CEO said is true?], 4ep8qn, 1460631841.0, 1
+894, [Here's the path forward for Bernie Sanders and his revolutionaries], 4arbxy, 1458214656.0, 0
+895, [This is not the time to give up!], 4aqqxm, 1458205010.0, 0
+896, [Confused about Monday 3/14], 4a6zx5, 1457871268.0, 0
+897, [Do you trust Hillary Clinton? I trust only Bernie Sanders in 2016], 49xzp4, 1457715611.0, 0
+898, [My conflict today: vote for Bernie or vote against Trump...?], 48goag, 1456871215.0, 0
+899, [Hey, Bernie, Vermont Is Not Enough: Your Guide To Super Tuesday's Challenges], 48a8ve, 1456782167.0, 0
+900, [The time for incremental event driven giving is over. Evaluate your budget and give it all NOW.], 473efc, 1456208939.0, 2
+901, [ELI 5: How does a large increase in minimum wage not just create an inflated economy?], 46z41j, 1456143114.0, 1
+902, [New York Times writes a Bernie Take-Down article about his time as VA Chairman. "His deep-seated faith in the fundamental goodness of government blinded him,"-NYT.], 44jl5d, 1454841927.0, 0
+903, [Sanders wont give previously advertised foreign policy speech before Iowa caucuses, aide says], 439rpa, 1454116845.0, 0
+904, [CBS Evening News: Washington Post hits Bernie Sanders with stinging op-ed], 4368a6, 1454055556.0, 1
+905, [TheBernReport Poll Who did the best job at the CNN Forum], 42q3ax, 1453815132.0, 0
+906, [Carl Wolfson Says Hes Ending His XRAY.FM Radio Show Because Bernie Sanders Supporters Have Gotten Too Nasty - Willamette Week], 41xt9q, 1453372440.0, 0
+907, [Bernie Sanders May Be Taking More Rides on Private Planes], 3yz98c, 1451643778.0, 2
+908, [1 sanders, 3 trumps. Bernie for the win.], 3yj13b, 1451343306.0, 0
+909, [Neil Cavuto Repeatedly Confronts Student Pushing Free College Plan With Harsh Facts - Keely Mullen], 3sp4mp, 1447472038.0, 1
+910, ["How are Bernie's donations skyrocketing after so many losses in SC and Super Tuesday?" This is what I want the headlines to look like. DO NOT QUIT FIGHTING.], 47yv5v, 1456642829.0, 4065
+911, [Sanders Supporters Don't Understand Math!?], 4lgevp, 1464481028.0, 0
+912, [SANDER's OUTLOOK and WHY WE MUST FIGHT.], 4an3py, 1458151868.0, 10
+913, [Mods are you F*in kidding me.?], 4exzew, 1460772465.0, 51
+914, [I am a Trump supporter and I have one thing to say to you guys. (Please read before downvoting)], 4sd93b, 1468299603.0, 621
+915, [I Voted Today In Florida! But not before I converted two of my Sisters, my Mother, Father, Uncle, Aunt and two Cousins.], 4aipgo, 1458081668.0, 3946
+916, [Hoping to make Texas a blue state! First time voter in Austin.], 46r60n, 1456020056.0, 418
+917, [Kansas has always correctly predicted the Democratic nominee for the past 50 years.], 4956qu, 1457255825.0, 3890
+918, [Clintons tricky task now: Can she ignore Sanders?], 4gsf8s, 1461846684.0, 0
+919, [Why is Bernie anti nuclear energy when nuclear energy is the most safe and sustainable energy resource?], 4e02z3, 1460206589.0, 8
+920, [The Guardian: Bernie Sanders' candidacy is a first for Jews. Why isn't he talking about it?], 4agq96, 1458041106.0, 8
+921, [President Obama quietly signed the TPP deal while I slept. I log in at work to find out AT&T is shipping our jobs overseas. Didn't even wait 24 hours.], 447yyt, 1454656915.0, 4222
+922, [We absolutely lit up Wisconsin today, and that's awesome! Wisconsin is closed for calls now but the fun doesn't have to end! We can still bring that fire to Wyoming and Oregon. Keep going!], 4de51e, 1459847033.0, 18
+923, [I maxed out my donation to Bernie after his incredible town hall appearance], 42pmnd, 1453808312.0, 2740
+924, [We can win by 40-60 pts. in Montana, North Dakota, South Dakota, and Oregon, and by 20-40 pts. in Indiana, West Virginia, Kentucky, New Jersey, New Mexico, and California IF WE WORK FOR IT.], 4gnyol, 1461783852.0, 3587
+925, [Sanders: It doesnt appear that Im going to be the nominee], 4pbwsu, 1466645609.0, 19
+926, [I'm feeling sick.], 4smog0, 1468438283.0, 5
+927, [WE DID IT!! $40 MILLION IN THE MONTH OF FEBRUARY!!], 48dj5m, 1456821340.0, 4664
+928, ["Where was he when I was trying to get healthcare in '93 and '94?"], 4m2c5q, 1464830027.0, 4
+929, [I can shitpost too], 4m2b50, 1464829684.0, 3
+930, [Bernie Emails ... personally I'm signed up to receive Bernie and Hillary emails and I want to know why don't get any from Bernie !], 4lngn8, 1464603742.0, 0
+931, [How rational would it be for Sanders to run as a 3rd party?], 4k3xxc, 1463711521.0, 0
+932, [Criticism of Bernie's College Tution Plan], 4j68xp, 1463173992.0, 5
+933, [An Investigation: Which Presidential Campaigns Have the Largest Gender Wage Disparities?], 4ichp4, 1462696251.0, 0
+934, [Primaries as of April 27th], 4gru0i, 1461837219.0, 0
+935, [All the way], 4gr1ip, 1461825664.0, 0
+936, [Saw this Hater on the bus. Needless to say I knew my memes would prevail over logic.], 4cwaci, 1459554491.0, 6
+937, [Possible way to target over 65 years old or those lacking internet access], 4aqz0r, 1458208566.0, 5
+938, [Overall on average, how much % of votes does Bernie need from the states that haven't voted?], 4annd5, 1458161465.0, 5
+939, [In the bathroom], 4803y3, 1456661662.0, 4
+940, [Media unfairly comparing turnout to 2008, missing the bigger picture], 46zoq3, 1456152891.0, 3
+941, [Sanders points to Goldman Sachs CEO as evidence of Wall Street power over Washington], 44jg6e, 1454839877.0, 3
+942, [Clinton: Sanders' health care plan 'will never, ever come to pass'], 43atvk, 1454129956.0, 0
+943, [With all the negativity in the media about Bernie Sanders, isn't at least some of it legal slander? So why is the campaign not launching lawsuits to fight this? Why are non-campaign lawyers not stepping up and launching pro-bono suits in the campaign's name?], 4bc9ai, 1458595928.0, 0
+944, [Republicans for Bernie Sanders!], 42rqv6, 1453848129.0, 4237
+945, [C-SPAN Stream: Clinton Precinct Chair lied about the vote counting in Precinct 43 and it was all caught on camera.], 43sexj, 1454413172.0, 4973
+946, [Hillary Clinton is officially the nominee of the Democratic Party to the President of the United States.], 4urj9q, 1469603211.0, 0
+947, [TIL that under Hillary Clinton's plan, Americans can expect to pay an extra $5 trillion over the next ten years in out-of-pocket expenses for health care. Under Bernie's plan, Americans will save about $1.7k annually. Spread this like wildfire.], 4148nj, 1452909937.0, 4952
+948, [When I started supporting Bernie, it wasn't because I thought he would win or lose. It's because he shares the same beliefs as I do.], 4fmzwg, 1461182860.0, 4900
+949, [My Republican Dad and Step-Mom Have Come Around!], 42pes4, 1453805359.0, 2354
+950, [DNC took Bernie signs and gave out their own signs, so we modified them...], 4uln6b, 1469518795.0, 4506
+951, [Hey Bernie, cool it on Hillary, warns this former Democratic hopeful... [Tone it down for what!?]], 4gtyk5, 1461878753.0, 0
+952, [Convince me to vote for Bernie], 4ep2xf, 1460629547.0, 11
+953, [I made a Bernie poster by handwriting the first names of his many donors], 4dhwyn, 1459911548.0, 4581
+954, [NY Berners just finished our canvassing trip to Youngstown, OH. People want to talk about Bernie. Please phonebank, canvas, and donate. I'm the squinty one on left.], 4aaq2d, 1457942523.0, 2430
+955, [This feels like a Trump Subreddit], 4v0rte, 1469742392.0, 7
+956, [Quick Ohio question, dont upvote], 4llq6c, 1464577445.0, 7
+957, [Maybe Let Go of the Trump Debate?], 4lf78d, 1464456892.0, 0
+958, [Those of you with experience and/or who are good at convincing people, what are good methods of phonebanking?], 4apym4, 1458193103.0, 8
+959, [Why are so many Bernie fans sayng they vote for Trump if Hillary wins the candidancy?], 461yd8, 1455648565.0, 0
+960, [Hillary Clinton wins South Carolina primary], 47z5bi, 1456646839.0, 17
+961, [Why is Bernie wasting his time is even he believe Clinton can't beat Trump?], 4ta2nr, 1468798081.0, 0
+962, [Sanders campaign manager to help organize voters for Clinton], 4sn8ew, 1468446522.0, 0
+963, [Sanders delegates amazed they need cash for DNC trip], 4rbqux, 1467736568.0, 2
+964, [Where did Sanders campaign supporters and members go wrong and what have we learned?], 4pklgg, 1466765604.0, 0
+965, [Went to my small hometown to visit family and this happened to my Bernie sticker], 4k2whf, 1463699384.0, 3
+966, [Important Rally Question], 4ibthb, 1462685301.0, 3
+967, [Congress and State elections are essential for the revolution. Here's how we win them:], 4arb3l, 1458214246.0, 0
+968, [Reflecting on Facebanking], 4ar8if, 1458212997.0, 3
+969, [#FocusTheBern! There is a major difference in the value of your call], 4aquek, 1458206545.0, 3
+970, [Youth Turnout was too low to win], 4aqsk2, 1458205711.0, 3
+971, [Hillary Clinton and Bernie Sanders take part in Democratic town hall  as it happened | US news], 4abik3, 1457955608.0, 5
+972, [NYT Editorial: Ther Bernie Sanders Revolution], 4a8hcm, 1457908032.0, 3
+973, [WTF Happened to Bernie Sanders in South Carolina, Explained ("The Vermont senator has worked diligently to make inroads with African-American voters...but there was no payoff")], 48908a, 1456758825.0, 3
+974, [ELI5 Phonebanking], 47b4r8, 1456322304.0, 4
+975, [As a 23 year old, working class, gay, Latino millennial, I plan on running to be a delegate to represent my beautiful state of Arizona in Philadelphia so that our voices are heard and my vote represents the best interests of the people at large.], 45u8ie, 1455530464.0, 2692
+976, [Largest Nurse's Union (37,000+ members) in NY Endorses Bernie Sanders for President!], 4bkaka, 1458722264.0, 4707
+977, [Bernie Sanders: Hillary Clinton Won Fair And Square], 4rl4kd, 1467872625.0, 18
+978, [From Bernie Sanders Supporters, Death Threats Over Delegates], 4jsuhv, 1463544401.0, 23
+979, [Hating on Bernie for supporting Hillary undermines progress made by his campaign and makes it easier for her to go back to her old ways.], 4uki1m, 1469504487.0, 5
+980, [Puerto Rico Results...hmmmm], 4n6irb, 1465439064.0, 0
+981, [Test post do not upvote. Those of you who have Facebook - is this link showing as "Page Not Found"?], 4myhvm, 1465326297.0, 0
+982, [Trump didn't want to debate Bernie because it would be much easier to use his Republican influence and money to pressure DoJ to indict AFTER she's crowned Dem candidate.], 4lolif, 1464625138.0, 0
+983, [Am I just paranoid?], 4l4cpu, 1464279809.0, 5
+984, [Respectfully, where is my money going when I donate to Sanders?], 4hsvvp, 1462364340.0, 4
+985, [Moving Forward - Strategies for the Berniecrat Movement], 4grceh, 1461830004.0, 5
+986, [The American Crisis (What comes to my mind after last night)], 4gqurb, 1461823037.0, 4
+987, [Why isn't Bernie already campaigning in EVERY REMAINING STATE? What needs to occur in order for this to happen? Clinton has been in every state from day one and is killing him with her ground game.], 4bqq8o, 1458835175.0, 3
+988, [Bernie Sanders Open To Help From Superdelegates [part 1]], 4ay9ii, 1458336153.0, 6
+989, [I think I needed to donate $20 to get over this hangover from Tuesday. Yes victory is a longshot, but Bernie is a shot worth fighting for. And I will be damned if I fold after one lousy night.], 4awj50, 1458298698.0, 0
+990, [Swedish Feminists For Bernie - The People For Bernie Sanders 2016], 4ansvw, 1458163975.0, 0
+991, [M.D. Harmon: Maybe Sanders knows something that might affect the campaign], 49y4fz, 1457718386.0, 0
+992, [Honest question: Has anyone ever come back from as far behind as Bernie is right now?], 48lqqm, 1456946597.0, 5
+993, [Why is nobody calling out the feminists who are bashing the female Bernie supporters?], 44tmzp, 1455002713.0, 6
+994, [On to New Hampshire! Forget about Iowa.], 43stab, 1454419418.0, 5
+995, [We're being played by the polls.], 42n02u, 1453776838.0, 0
+996, [Sanders says Koch brothers are outspending either political party in 2016 elections.], 3rtfbx, 1446875902.0, 0
+997, [The Pro-Trump sentiment has to stop, it is getting scary], 4qignt, 1467269646.0, 20
+998, [Drew sanders on the university library whiteboard, alongside other inspirations.], 4n4k3x, 1465414430.0, 7
+999, [Obama held weekend call with Sanders], 4mvjbg, 1465279013.0, 7
+1000, [Sanders Makes Nice, Says He'll 'Certainly Support' Clinton if She's the Democratic Nominee], 4duw7p, 1460118507.0, 8

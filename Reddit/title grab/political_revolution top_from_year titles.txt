@@ -1,0 +1,1001 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Paul Ryan would like to remind us: A democratic senate majority would put Bernie Sanders at the head of the Senate Budget Committee], 57ldis, 1476552856.0, 5782
+2, ["When giant drug companies spend $70 million to stop single payer, it means that they are NERVOUS. Keep fighting!" - The Political Revolution], 4x21s6, 1470863632.0, 5491
+3, [New Leak: Top DNC Official Wanted to Use Bernie Sanderss Religious Beliefs Against Him], 4u47za, 1469240922.0, 5473
+4, [Susan Sarandon: DNC email leak confirms Sanders backers' fears weren't "paranoia"], 4unza3, 1469557928.0, 5216
+5, [Sanders among five senators asking Obama to order Dakota pipeline review], 57aixw, 1476397756.0, 5087
+6, [Call on Bernie to attend NY Supreme Court trial for open primaries], 55tmsi, 1475618780.0, 4964
+7, [Bernie Sanders is the most-liked politician in the United States. What does that mean for the future of left politics here?], 583njj, 1476824635.0, 4921
+8, [Leaked DNC Emails Confirm Democrats Rigged Primary, Reveal Extensive Media Collusion], 4u9uot, 1469333417.0, 4882
+9, [BREAKING: Bernie Sanders endorsed candidate Pramila jayapal is projected winner of the Washington CD7 Primary!], 4vx191, 1470232522.0, 4836
+10, ["When working people don't have disposable income, when they're not out buying goods and products, we are not creating the jobs that we need." -Bernie], 4w4rwl, 1470349869.0, 4768
+11, [Breaking: Arrest Warrant Issued for Amy Goodman in North Dakota After Covering Pipeline Protest], 5267c7, 1473584889.0, 4754
+12, [Assange: "We have published proof that the election campaign of @BernieSanders was sabotaged in a corrupt manner."], 4vid8w, 1470019244.0, 4755
+13, [Did You Know We Are Having the Largest Prison Strike in History? Probably Not, Because Most of the Media Have Ignored It], 53g2l3, 1474290035.0, 4672
+14, [#SwitchToBernie - Petition: "We, the undersigned, respectfully request the delegates and superdelegates of the Democratic National Convention to vote for Bernie Sanders as the Democratic Party's nominee for President, regardless of who they are currently pledged or bound to."], 4udlb7, 1469403492.0, 4606
+15, [Bernie Sanders on Twitter: 'The Waltons are the wealthiest family in the USA but pay wages so low their workers are forced to taxpayer-funded programs like food stamps.'], 529wp8, 1473647458.0, 4598
+16, [Bernie Sanders just might be the most popular politician in America], 53jnwt, 1474346150.0, 4417
+17, [Canova: Ill concede that Debbie Wasserman Schultz is a corporate stooge. Were fighting for American democracy. This is a rigged system and everyone knows it.], 50t726, 1472851506.0, 4398
+18, [Indians Staged One of the Largest Strikes in History, But No One on U.S. Cable News Covered It], 51iolp, 1473239885.0, 4369
+19, ["VOTER SUPPRESSION already beginning: Our campaign is receiving multiple reports of voters being called and told not to vote in the August primary and to wait until November to cast their ballots."], 4z2mxp, 1471926927.0, 4360
+20, [Bernie Sanders Blocks Obamas FDA Nominee Over Big Pharma Ties], 4z8i2l, 1472011909.0, 4320
+21, [Watch this! Bernie Sanders for Prop 61: "People are dying because they can't afford the medicine they need, just so these companies can make outrageous profits. Proposition 61 is a very, very important step forward."], 55do94, 1475364762.0, 4292
+22, [Sanders promises to push his platform in Congress after Nov. 8 vote], 5a2nld, 1477804389.0, 4193
+23, [Wasserman Schultz troubles help produce fundraising bonanza for challenger Tim Canova], 4v6h2n, 1469826459.0, 4098
+24, [Bernie Sanders' brother Larry selected by Green Party to contest David Cameron's former seat], 5442tn, 1474655739.0, 4089
+25, ["We should not be locking people up for using the same drugs that have been used by at least the last three American Presidents." - Tim Canova], 4wt3k7, 1470726709.0, 4058
+26, [Bernie Sanders: Obama Administration Should Kill The AT&T-Time Warner Deal: Higher Prices & Fewer Choices], 591e2v, 1477293376.0, 4044
+27, [I would like to publicly thank Tulsi Gabbard for not endorsing Hillary Clinton.], 4ujmqj, 1469494702.0, 4023
+28, [You say you want to continue Bernie's revolution. Prove it. Phonebank for Pramila Jayapal today - the Washington Primary is tomorrow, and she was one of the first candidates Bernie ever endorsed!], 4vmtnm, 1470091372.0, 3921
+29, [Bernie Sanders and Elizabeth Warren Lead the Charge: Arrest Wells Fargo Executives Over Fraud Cases!], 568hoj, 1475826373.0, 3897
+30, [And we will...keep moving forward guys.], 4v19u1, 1469748523.0, 3900
+31, [5 down, 29 to go. Rhode Island joins California, New Jersey, Illinois, and Vermont as the fifth state to pass the Wolf PAC Constitutional Amendment to eliminate money from politics. Join us.], 4oue1t, 1466388397.0, 3871
+32, [Tulsi Gabbard wins Hawaii Primary in a 78% vs. 14% blowout!], 4xntn1, 1471204628.0, 3872
+33, [Donations to Jill Stein Explode Nearly 1000% Since Sanders' Endorsement of Clinton], 4sqbx3, 1468483755.0, 3814
+34, [Bernie Sanders on Twitter "Election Day should be a national holiday so that everyone has the opportunity to vote."], 5aa39a, 1477911942.0, 3823
+35, [Hi Reddit-- Tim Canova here. Thanks for your support. We can win this, but it's a close race and we need your help. Please phone bank today and tomorrow, and we can win!], 5055gx, 1472508228.0, 3786
+36, [Bernie Sanders Goes Off on Rising Prescription Drug Prices Senate Floor], 53vmf1, 1474523099.0, 3779
+37, ["It's not right that regular taxpayers are the ones paying for new football stadiums while the billionaire owners are the ones making all the money from it." - Our Revolution], 50hhpu, 1472683093.0, 3713
+38, [Bernies Beef with Big Soda: Advertising from the American Beverage Association that implies that I oppose ballot items in San Francisco and Oakland that would place a tax on drinks with sugar are false. ... I have asked the American Beverage Association to stop using my name], 58nik4, 1477089195.0, 3681
+39, [Gary Johnson and Jill Stein sue to be part of Debates... But judge is sitting on the case.], 4u08eq, 1469177586.0, 3672
+40, [Illinois Governor Vetoes Automatic Voter Registration, Bernie Sanders Calls For State Lawmakers To Override], 4xmheb, 1471173898.0, 3660
+41, [Its Paul Ryan Versus Bernie Sanders, and Sanders Is Winning], 59djlk, 1477458145.0, 3664
+42, [Bernie Sanders Is More Popular Than Ever], 52kf9k, 1473801832.0, 3658
+43, [Bernie Sanders Supporters Just Staged a Massive Walkout at the DNC], 4urtij, 1469607006.0, 3621
+44, [Bernie Sanders suggests lowering the bar for third-party candidates to take part in presidential debates], 51dfxb, 1473163773.0, 3584
+45, [I'm a Bernie Supporter that's willing to move on, But the DNC scandal is too much for me to ignore.], 4uxm7g, 1469690471.0, 3564
+46, [Elizabeth Warren: "Supporters of the TPP want you to believe this deal is about America's role in setting the rules of international trade. But here's the problem, TPP isn't about helping American workers set the rules, it's about letting giant corporations rig the rules"], 4roerx, 1467925060.0, 3446
+47, ['BernieCare' Can Save ObamaCare: "Sanders, who is more of a highly skilled political and legislative tactician than pundits understand, has responded to the Aetna withdrawal from many healthcare exchanges by publicly announcing he will wage an all-out campaign to enact the public option."], 4ykjo6, 1471661125.0, 3429
+48, [Vote to have Hillary and Trump asked about Basic Income on Oct 9. debate], 55n4fb, 1475521134.0, 3414
+49, [Many voters abandoning both parties' nominees], 4s1ggs, 1468116439.0, 3377
+50, [More than 15,000 have signed Tim Canova's petition to have the FEC investigate DWS for illegal use of DNC resources against his campaign. HERE's THE PROBLEM: They need an additional $20,000 to cover the costs of filing this complaint. Stand with Tim and DONATE TODAY!], 4wwtyt, 1470786392.0, 3358
+51, [Dennis Kucinich: "It is inconceivable that the dirty tricks played by the DNC against the Sanders were not coordinated with the Clinton campaign. The primary system was rigged."], 4ugsxz, 1469449813.0, 3352
+52, [Bernie Sanders Wont Rule Out Future Presidential Run], 4vc7fa, 1469916645.0, 3308
+53, [Wikileaks - T Gabbard threatened, Ex-DNC Chair Debbie & current DNC Chair Donna Brazile working for Clinton since Jan'16], 56xoen, 1476216810.0, 3249
+54, [Bernie Sanders on Twitter: .@SenWarren is right: "The only way that Wall Street will change is if executives face jail time when they preside over massive frauds.], 53ooas, 1474423179.0, 3157
+55, [Bad Blood: Sanders Helps Canova Raise Money As Clinton Hits The Stump For Wasserman Schultz], 4x7uy6, 1470949360.0, 3099
+56, [Actress Shailene Woodley Reveals She Was Strip-Searched After Her Arrest Protesting Dakota Pipeline], 58xwtw, 1477244718.0, 3084
+57, [The Political Revolution on Twitter: "Bernie supporters want to run for office in: 51% of state house districts, 69% of state senate districts and, every district in the U.S."], 4olvo5, 1466232822.0, 3065
+58, [DWS lied, insisting the DNC was neutral, while they worked against Sanders, plotting to smear him as an atheist and pressuring the media to air a pro-Clinton narrative. Corruption has no place in the DNC OR IN CONGRESS. Join me & donate $10 to Tim Canova to ensure DWS never returns to Congress!], 4w01wt, 1470278158.0, 2976
+59, [50,000 Calls to Congress Today! Tell your Representative to Vote NO! on the TPP.], 52q3d2, 1473883031.0, 2952
+60, [Bernie Sanders Wants YOU to Run for Office or Volunteer], 4ogpdn, 1466153548.0, 2916
+61, [Primary voting in 5 states today: KS, MO, MI, OH, WA. The revolution doesn't end with Bernie, go vote today!], 4vslvx, 1470175820.0, 2891
+62, [Bernie Sanders For Senate Budget Committee Chairman!], 598yfb, 1477394695.0, 2854
+63, [Tim Canova's primary is up in NO LESS THAN FOUR DAYS!! This is one of the first tests of the Political Revolution! Can we unseat DWS?! Pick up the phone and make ten calls this weekend!], 4zoahe, 1472242629.0, 2823
+64, [When you refuse to take down your Bernie 2016 lawn sign and wake up to this! (Inglewood,CA)], 4ycgrt, 1471558244.0, 2802
+65, [We Still Have to Fight the TPP], 56mf5f, 1476052568.0, 2780
+66, [After Tricking Public Into Thinking He Stopped DAPL Obama Just Gave The Green Light To Dakota Access Pipeline Company To Build Two More Pipelines On Native Land], 54f8j9, 1474841324.0, 2781
+67, [WE are the political revolution, NOT Bernie. Do not let today's endorsement get you down. This is a reminder of how crucial down-ballot tickets are and fight harder than ever!], 4si6bj, 1468372736.0, 2759
+68, [Bernie Sanders says he won't endorse Hillary Clinton.], 4pjibi, 1466750488.0, 2725
+69, [Maine will be attempting to introduce Ranked Choice Voting, one of Bernie's platform points, on their referendum this November], 4va3zw, 1469873695.0, 2719
+70, [You Know That Its Not a Few Rotten Apples - The Wells Fargo Scam is way bigger and it isnt just them], 54bl8j, 1474773437.0, 2719
+71, [Cornel West Endorses Jill Stein], 4su2pd, 1468541656.0, 2633
+72, ['Disappointed' in Obama, Sanders Calls on Top Dems to Drop Lame Duck TPP Push], 4xfwu2, 1471065620.0, 2601
+73, ['Get the Insurance Companies the Hell Out' of Healthcare System], 59ioow, 1477530170.0, 2592
+74, [Breaking: "Riot" Charges Against Amy Goodman Dismissed in Press Freedom Victory], 57z3y2, 1476759410.0, 2547
+75, [Why DNCLeak isn't trending on Twitter], 52vn1d, 1473966678.0, 2543
+76, [Bernie Sanders on Twitter | I know this is a radical idea, but we have to inject morality into our political process.], 57rrgo, 1476658767.0, 2511
+77, [Tulsi Gabbard's seat in HI's 2nd Congressional District is up for Re-election TODAY!! If you live in Hawaii, make sure to GO VOTE! Everyone else, help spread the word!], 4xirbz, 1471117752.0, 2507
+78, [Happy Birthday Bernie!], 51r0es, 1473366083.0, 2476
+79, [Ireland Begins Arresting Top Bankers Responsible For 2008 Crash], 53s9xn, 1474477398.0, 2477
+80, [Tulsi Gabbard for Congress | Tell the DOJ to prosecute Wells Fargo for fraud and abuse], 530xsl, 1474043035.0, 2456
+81, [Bernie Sanders on Twitter: "No one seriously believes that marijuana deserves to be classified beside heroin. It should not be a Schedule 1 drug."], 51ujra, 1473409183.0, 2453
+82, [Call For Tim Canova The Race Is Close So Close that DWS says she is against fracking after saying she was pro fracking in the debate The Flip Flops and Lies are just being said out of desperation of losing to Canova], 4zdmcn, 1472087279.0, 2437
+83, [Big Pharma is paying $70 million to fight California Prop 61! Vote Yes on Prop 61 to regulate how much California pays for vital drugs!], 514xeo, 1473038378.0, 2427
+84, [Bernie Sanders: "If this election has taught us anything, it's that the American people are sick and tired of the economic, political and media status quo."], 5a6e3f, 1477868568.0, 2426
+85, [ Amy Goodman Is Facing Prison for Reporting on the Dakota Access Pipeline. That Should Scare Us All.], 57po60, 1476616620.0, 2361
+86, [The ACLU Is About to Launch a Campaign Asking Obama to Pardon Edward Snowden], 52er5e, 1473721310.0, 2357
+87, [A Princeton University study analyzing more than 20 years worth of data shows that while our government does represent the interests of economic elites and lobbying organizations, the opinions of average Americans have statistically no impact on public policy.], 4q3al2, 1467062539.0, 2352
+88, [Awesome BERNIECRAT Bruce Franks Jr. WINS Revote after opponent cheats!  /r/WayOfTheBern], 5392ni, 1474174085.0, 2342
+89, [Under new Oregon law, all eligible voters are registered unless they opt out], 4wbqae, 1470449048.0, 2330
+90, [If every trade union in the country opposes the TPP, and if all the crooked corporations support it, what does that tell you about who it really benefits?], 4sbkes, 1468280762.0, 2303
+91, [Big pharma is spending big to keep CA voters from passing a first-in-nation law meant to cut prescription drugs' cost], 58a34s, 1476910282.0, 2288
+92, [Let's get Jill Stein in the debates.], 4trhrs, 1469055108.0, 2282
+93, [Its not just the DNC vs. Bernie, its the DNC vs. US], 4uuu1a, 1469658013.0, 2267
+94, [It is not bad or harmful for the federal government to provide assistance to those in need. We need more compassion in government, not less. @SenSanders], 4wg8et, 1470525082.0, 2265
+95, [Bernie Sanders is no spoiler: Hes trying to cure the centrist complacency thats plaguing the Democratic Party], 4p3y35, 1466534055.0, 2260
+96, [We have money to fight climate change. It's just that we're spending it on defense | "Were spending 28 times as much on military security than climate security."], 56h19z, 1475963648.0, 2249
+97, [Tim Canova says Debbie Wasserman Schultz backs Big Sugar - "Mostly True"], 4wl0tu, 1470608643.0, 2105
+98, [Jane Sanders on Twitter - #OurRevolution to rely on small donors, allow union/environmental/project support, zero to do w/HRC. Weaver heads excellent team!], 4zifr5, 1472160009.0, 2011
+99, [Bernie Sanders's Book Is Coming Out In November, One Week After Election Day, And It Will Cost $27.], 4wj0ge, 1470565304.0, 2000
+100, [Reminder: anti-Sanders Patrick Murphy is ruing against pro-Sanders Alan Grayson for the Democratic FL Sen nomination and told Florida he is an Accountant. He does not hold an accounting license and only worked as an Auditor for 8 months. #Patricklied], 502f3w, 1472460892.0, 1981
+101, [Warren Calls For Obama To Fire SEC Chairwoman | "Sen. Elizabeth Warren hit out at the U.S. Securities and Exchange Commission (SEC) Chair Mary Jo White for her failure to develop new rules that would require corporations to disclose their political contributions."], 57gaj0, 1476479813.0, 1973
+102, [Eddie Glaude: I am not voting for Hillary Clinton, regardless of her endorsement by Bernie Sanders.], 4sn0rv, 1468443627.0, 1931
+103, [Class Action Lawsuit Against Debbie Wasserman Schultz Moves Forward], 4ydp6u, 1471571666.0, 1885
+104, [Bernie Sanders on Twitter: "The number of billionaires has increased 10 times, while over half our kids in public schools are on free or reduced school lunch programs."], 521jn4, 1473510559.0, 1876
+105, [BREAKING: Misty Kathrine Snow, a Bernie Sanders supporter, is the projected winner of the Utah Senate Primary!], 4qfd4o, 1467233882.0, 1861
+106, [Bernie Sanders will launch organizations to spread progressive message], 4syos7, 1468611877.0, 1862
+107, [Bernie Sanders Wades Into Oregon Politics, Endorses Measure 97 . News], 58go36, 1476996915.0, 1847
+108, [Pope Francis: Capitalism is Terrorism Against All Humanity], 4w9ynk, 1470425919.0, 1789
+109, [President Obama endorses Teachout], 59ua65, 1477688574.0, 1765
+110, [WL - "Julian Assange's internet link has been intentionally severed by a state party. We have activated the appropriate contingency plans."], 57vuws, 1476712295.0, 1746
+111, [Noam Chomsky: The Democratic party now belongs to moderate Republicans], 4nsto0, 1465802017.0, 1737
+112, [@Tim_Canova on Twitter - Fracking companies love Florida's new rule to allow more toxins in our water, and they also love DWS.], 4xug57, 1471307877.0, 1739
+113, [Bernie Sanders on Twitter: 'Burning the oil transported through the Dakota Access Pipeline would produce carbon emissions equivalent to 21 million cars.'], 59yi1u, 1477737710.0, 1729
+114, [Anonymous Launches Campaign to End Media Blackout of Jill Stein], 4palht, 1466630371.0, 1728
+115, [I have to admit, I was a little shocked to see what we'd just done. We raised $40,000 in TWO DAYS for Tim Canova's campaign. What DWS can raise in two days from elites, we can do the right way in one---with grassroots donations. Respond to Team Canova's ask: Let's raise an additional $40,000 TODAY!], 4y00re, 1471389534.0, 1715
+116, [Black Men for Bernie continue its agenda; They also stressed that despite Hillary Clinton being the presumptive Democratic nominee for president, they do not support her or the party, as they are dissatisfied with both major political parties.], 4ql9ws, 1467316834.0, 1714
+117, [Reminder: Ranked Choice Voting (RCV) is on the Maine ballot this year. It has majority support in polls -- but make sure you get the word out to any Maine residents you know! And consider supporting FairVote.org!], 573kf1, 1476300294.0, 1699
+118, [The Nation: Hillary Was Nowhere to Be Seen in the Fight for 15  I Should Know], 4s66jj, 1468197491.0, 1644
+119, [Hillary Clinton Pledges Constitutional Amendment To Overturn Citizens United In Her First 30 Days], 4t4zu6, 1468711736.0, 1634
+120, [Today is National Voter Registration day. There is SO MUCH MORE on the ballot than just Trump/Clinton. 9 states are voting on weed. A handful of states are voting on min. wage. Colorado is voting on single payer. And then there are local elections! Register to vote today! Convince a friend, too!], 54qqws, 1475014349.0, 1629
+121, [TIL Helen Keller was a member of the Socialist Party of America and campaigned for Eugene V. Debs when he ran for president], 4wpssu, 1470686685.0, 1612
+122, [Tim Canova's Primary is in THREE days! Help Tim out by phonebanking!], 4zuf5h, 1472336719.0, 1589
+123, [Senate Dems to DOJ: Don't Let Wells Fargo Executives Off the Hook], 5632tq, 1475747066.0, 1570
+124, [Tim Canova:No wonder @DWStweets knew name of Mayor of Southwest Ranches. They worked together pushing for privatized ICE prison], 4xrols, 1471260073.0, 1545
+125, [Sanders Condemns Obscene Levels of Inequality Documented in New CBO Report; 'Unacceptable' wealth inequality keeps growing in the U.S., with the top 10 percent of families owning three-quarters of total wealth], 4yi42h, 1471630438.0, 1544
+126, [Congress Flooded with Anti-TPP Calls], 535zby, 1474118255.0, 1485
+127, [Bernie Is Dangerous For Wall Street], 54vvoy, 1475091305.0, 1423
+128, [Bernie Sanders endorses Colorado single-payer health initiative], 4zm0xq, 1472202894.0, 1379
+129, [@BernieSanders | We just passed 2300 events in every state across the country for the August 24 launch of Our Revolution!], 4yv8q4, 1471820436.0, 1382
+130, [The Democratic Party Is Dead], 4t9hes, 1468788161.0, 1380
+131, [Tomorrow (August 1) is the last day to register voters for Canova's primary. Pledge to make 10 phone calls today to defeat Debbie!], 4vgswk, 1469995303.0, 1349
+132, [Vote Theft is Wage Theft! Minneapolis City Council Blocks $15], 4y6828, 1471476549.0, 1336
+133, [The company that makes Fentanyl just pumped $500k into the campaign AGAINST legalizing marijuana in AZ. WHY? Because states with MMJ saw a 25% drop in painkiler OD's. Legalization may hurt their profits, but it saves lives. 9 states are voting on MJ in Nov. Register to vote. Lives depend on it.], 51yman, 1473471345.0, 1343
+134, [People For Bernie on Twitter | It's going down on Alcatraz. This #IndigenousPeoplesDay, we honor the struggle of Native People and join their cause against #DAPL. #NoDAPL], 56s9lc, 1476139151.0, 1332
+135, [@BernieSanders: "We must get rid of superdelegates. The fact that we had 400 superdelegates pledged eight months before the first ballot was cast is absurd."], 4o3x1e, 1465969914.0, 1317
+136, [This is finally the year we can dump Sheriff Joe Arpaio, so let's help the guy who can beat him], 53z5u5, 1474582783.0, 1292
+137, [Wasserman Schultz goes down to wire against primary challenger], 4zzvn3, 1472427469.0, 1280
+138, [Zephyr Teachout on Twitter: "My opponent, John Faso, was a lobbyist for payday lenders and pipeline companies. I've fought for people. There's a pretty clear contrast."], 559ovo, 1475293488.0, 1266
+139, [Berniecrat Picus wins in primary, faces Pelosi in November in two person race.], 4rg14p, 1467796511.0, 1256
+140, [29 Sanders Democrats Win in Maine Primaries, Advance To General Elections], 4o8cvw, 1466039003.0, 1233
+141, [@lhfang: "WV Dems pass resolution opposing superdelegates, calling for Debbie Wasserman Schultz to resign...Also endorsing public financing of elections/overturning Citizens United, legalizing pot, supporting Medicare for all, single payer"], 4nnmb5, 1465713569.0, 1220
+142, [New Mexico Democrats vote to eliminate superdelegates!], 4pyc81, 1466985355.0, 1211
+143, ['If you've ever enjoyed a paid vacation, a sick day, or a pension, unions are the people to thank.' -Bernie Sanders on Twitter], 51fbu1, 1473199263.0, 1207
+144, [Bernie Sanders on Twitter: The dangers of the TPP are abundant and well-documented. We must do all that we can to #StopTPPNow.], 4xutuh, 1471312196.0, 1199
+145, [Hey, I'm running for city council next year, and I think you should too, so let's talk about how to bring the political revolution down to the local level!], 54kpyv, 1474927440.0, 1173
+146, [Kshama Sawant: Bernie Running As a Green "Would Be Nothing Short of a Political Earthquake"], 4pgjp3, 1466714734.0, 1140
+147, [GOTV calling officially begins today for Tim Canova. Avenge the sham presidential primary and stick it to the so-called Democrats by forcing Debbie OUT of Congress and putting a real progressive in!], 4yopij, 1471723266.0, 1131
+148, [Bernie Sanders Told Supporters To Run For Office  And This Wichitan Is], 5951ub, 1477351112.0, 1121
+149, [Sign the petition!! Tell President Obama: Stop the Dakota Access oil pipeline. #NoDAPL], 59nuk4, 1477602322.0, 1118
+150, [Tim Canova here! Thank you so much for what you've done so far, but I need your help in the final push to unseat DWS!], 4wm0sq, 1470623390.0, 1116
+151, [From Bernie: "We are building a new organization called Our Revolution. Our goal will be the same as in our campaign: we must work to transform American society by making our political and economic systems work for all of us, not the 1%." Contribute $3 to Our Revolution; let's take our country back!], 4w0b14, 1470280978.0, 1107
+152, [BERNIE JUST FLIPPED ANOTHER CALIFORNIA COUNTY!], 4p7ujh, 1466583135.0, 1102
+153, [The Progressive Coders Network is building a community of Tech Volunteers to build Open-Source tools for Progressive Candidates. It's started by volunteers who've built websites and digital tools for Bernie's Campaign, and we want to bring the same energy to down-ballot progressives. Join Us.], 4tfw31, 1468886594.0, 1071
+154, [Dakota Access Pipeline Company Attacks Native American Protesters with Dogs & Pepper Spray], 513dnu, 1473011549.0, 1047
+155, [Florida district 23 is now 80% pro Bernie If you tell them that Canova has a similar platform they get excited!!!!!], 4xxndk, 1471349191.0, 1050
+156, [Poll Shows Hillary's Outreach To Bernie Voters Is Failing Miserably], 4pvka1, 1466934568.0, 1037
+157, [I'm Janet Garrett, a Berniecrat taking on Jim Jordan for Congress in Ohio's 4th Congressional District. AMA!], 50b86x, 1472594058.0, 999
+158, ['Now, it's time for bust': Jill Stein ramps up courting of furious Sanders supporters in Philly], 4urhd2, 1469602555.0, 995
+159, [FBI gets subpoenaed on live television for withholding Clinton Email info (x-post /r/JusticeServed)], 540vf2, 1474602964.0, 980
+160, [New poll: Zephyr Teachout leading opponent by just 5 points in swing district], 53nsyb, 1474412963.0, 981
+161, [Ben & Jerry's Ice Cream Co Formally Comes Out In Support of Black Lives Matter: "Choosing to be silent in the face of such injustice is not an option."], 5667aq, 1475799626.0, 963
+162, [Bernie put out a call for progressives to run for office. 14,000 answered. All 50 states. 85% of state senate districts. More than 60% of state house districts. Every single congressional district. This is Our Revolution.], 4pucgp, 1466916897.0, 965
+163, [DWS Blames Russians for DNC Scandal], 4yrw2u, 1471764684.0, 961
+164, [Obama, former health official tout public option to replace failing Obamacare], 519z7q, 1473118977.0, 960
+165, [Wow. Americans Really, Really Don't Like Trump or Clinton], 4r5fyt, 1467633740.0, 958
+166, [Will Clinton VP Pick Be 'Pronounced Middle Finger' to Millions Who Voted for Bernie?], 4tx1eq, 1469137593.0, 951
+167, [New independent poll: Zephyr Teachout: 42%, opponent: 43%. Game on!], 54yz3r, 1475129561.0, 943
+168, [Point of No Return: Earth Reaches 400ppm Threshold Permanently], 552r9w, 1475192280.0, 928
+169, [More young people voted for Bernie Sanders than Trump and Clinton combined  by a lot], 4p073y, 1466476047.0, 927
+170, [Noam Chomsky: We Are Suffering the Major Downside of Corporate Globalization], 4pxtzh, 1466977940.0, 921
+171, [Sanders 'revolution' faces first down-ballot test: "Tuesday also marks the first primary for one of Sanders down-ballot endorsees: Lucy Flores..."], 4nvtlf, 1465856297.0, 911
+172, [Election Fraud Study Authors Respond to Clinton Critics: Yes, The Dem Primaries Were Rigged Against Bernie], 4nysqu, 1465893504.0, 909
+173, [Bernie Sanders on Twitter: "They tell us the only thing we can get is incremental change. We tell them: no thanks. We're thinking big and demanding real change."], 4q75qp, 1467109978.0, 910
+174, [High school is free in the US. College should be too.], 51xdza, 1473456635.0, 899
+175, [Tulsi Gabbard petition | Demand Congress act now to criminally investigate and break up Wells Fargo], 576zkm, 1476340639.0, 890
+176, [Jane Kleeb elected as Nebraska Dem Party chair - Sanders revolution secures another state party!], 4oqq9f, 1466319232.0, 879
+177, [All 4 #Bernie Endorsed candidates that were in contested elections today WON!], 4x4ce7, 1470891104.0, 872
+178, [Colin Kaepernick receives support from America's military veterans], 50n55h, 1472765025.0, 867
+179, [Latin Times Media Publications Endorses Tim Canova, For Congressional District 23], 4zydii, 1472396253.0, 868
+180, [The First Sanders Democrat Just Won Her Congressional Primary], 4qd9gf, 1467196133.0, 868
+181, [Bernie Sanders spinoff group to disclose big donors], 51o7ao, 1473318799.0, 854
+182, [I just donated $10 to Tim Canova! Match me!], 4xdgkf, 1471036590.0, 855
+183, [Khristy Wilkinson, a Bernie supporter, won the Dem primary for State Sen. in TN. Her opponent refuses to expand medicaid and believes it is harder to get a vasectomy than an abortion. Gardenhire CAN be defeated, but Khristy needs our help. Join me, folks, and donate $10 to her campaign today.], 4wle4b, 1470614514.0, 857
+184, [Obama endorses Zephyr Teachout in NY-19 race], 5966rz, 1477362719.0, 856
+185, [Liberals rally to sink Obama trade deal], 4xuh4g, 1471308193.0, 860
+186, [New York Primary Results - So Far - Zephyr Teachout 77%], 4qd3b2, 1467193744.0, 847
+187, [Michigan citizens no longer able to vote on Marijuana Legalization this year due government passing bill to block ballot measures after collecting more than 350,000 signatures], 54wf4b, 1475099594.0, 845
+188, [On April 10th, Pramila was down 35-9 in the polls. Bernie endorsed her on April 13th. Three and a half months later, she won with a 16 point landslide. Never, ever underestimate our potential to make real change in this country.], 4vzadx, 1470269592.0, 821
+189, [Bernie Sanders Is Running a Shadow Campaign], 58u04d, 1477184213.0, 821
+190, [Sanders revs up public option fight after Aetna leaves ObamaCare], 4y21jo, 1471412596.0, 825
+191, [Zephyr Teachout: progressive endorsed by Sanders looks to fix 'corrupt' Congress], 4r2629, 1467584243.0, 821
+192, [Happy Independence Day], 4r8qe3, 1467688127.0, 792
+193, [Tim Canova just had a fantastic debate with DWS. Now help him win! Remember when we used to do 50,000 calls a day? Just 50,000 calls in TOTAL would make Tim win! PHONEBANK!], 4xpjxv, 1471230653.0, 763
+194, [Ready to Join the /r/Political_Revolution? Here's what you need to know...], 4nqvsk, 1465776509.0, 755
+195, [CNN severs ties with Donna Brazile], 5aex45, 1477976083.0, 998
+196, [Bernie supporters: Help win single payer in NJ!], 4oz0ec, 1466462020.0, 724
+197, [A Bernie delegate gets creative and tells the truth with her "love trumps hate" DNC freebie sign], 4uludc, 1469521466.0, 717
+198, [/r/Political_Revolution hits 20K subscribers], 4psnzt, 1466893000.0, 713
+199, [Arizona State Senator Al Melvin cannot honestly answer Anderson Cooper's simple question], 556yub, 1475252653.0, 711
+200, [We're having a huge, OFFICIAL social media push today to help Stop the TPP! Join us at Noon Eastern and let's present as many signatures to the DNC Platform Committee as possible!], 4rcuv2, 1467756749.0, 711
+201, [TIL in 2002, Republican Consultant & Pollster, Frank Luntz wrote a memo to the Bush Administration stating "The scientific debate is closing ... but not yet closed" and they should reframe from using the term "global warming", instead use "climate change" as "climate change" sounds less severe], 55jsfn, 1475465239.0, 703
+202, ['Socialism' the most looked-up word of 2015 -- Bernie Sanders sparked 169% rise in look-ups], 4zf6cg, 1472105951.0, 701
+203, [Cancel your Student Debt - Green Party Presidential Candidate Jill Stein], 4td832, 1468842425.0, 692
+204, [DNC Monitored Debbie Wasserman Schultz's Primary Opponent, Tim Canova], 4uj0gt, 1469487549.0, 691
+205, [Our Revolution now has a calling schedule up for candidates like Zephyr Teachout (NY), Gary Kroeger (IO), Pramila Jayapal (WA), and even for propositions like ColoradoCare!! Change can only take place from the bottom-up; help us shape the future of America by making ten calls today!!], 55zfzn, 1475702745.0, 690
+206, [WashPost Makes History: First Paper to Call for Prosecution of Its Own Source (After Accepting Pulitzer)], 53cxsj, 1474245859.0, 687
+207, [Bernie Sanders taps his donor network to raise nearly $2 million in two days for House, Senate contenders], 58k6zs, 1477035862.0, 684
+208, [@BernieSanders | "We must ensure that progress does not end on the platform's pages, but becomes reality. The fight is just beginning."], 4sh28c, 1468360120.0, 686
+209, [Four quick reasons why calls for Tim Canova are effective and matter in his race, and why you should personally pitch in even 20 calls this week.], 4z06uv, 1471896051.0, 675
+210, [After 15-Hour Filibuster, Republicans to Allow Votes on Gun-Control Measures], 4odbta, 1466112781.0, 673
+211, [If you want to vote for Tim Canova and unseat Debbie Wasserman Schultz, TODAY IS THE LAST DAY TO REGISTER. Get off the sidelines and keep this political revolution rolling!], 4vmtao, 1470091238.0, 671
+212, [WikiLeaks reveals DNC holds unions in contempt], 4vctq5, 1469925740.0, 661
+213, [How It Begins "This is not how the revolution ends, my friends. This is how it begins."], 4nh4sb, 1465605118.0, 650
+214, [Emailgate 2.0: WikiLeaks Cache Shows Democrats Conspired to Stop Bernie], 4u86lz, 1469308855.0, 650
+215, [BREAKING: Angela Corey, State Attorney in Florida's Fourth Judicial Circuit Court, has been DEFEATED in her primary election.], 50eqmi, 1472636704.0, 641
+216, [The Debates Are Over, and No One Asked About Climate Change], 58gusf, 1476999308.0, 640
+217, [Tim Canova on Twitter: "I'm still hoping @BernieSanders will campaign for me in South Florida. FL23 is ground zero of "our" revolution!"], 4ywe3s, 1471834067.0, 643
+218, [Welcome to /r/Political_Revolution! This is where we carry the torch!], 4nduqd, 1465547946.0, 639
+219, [Sanders just Flipped District 34 (LA County) and District 13 (SF County) for wins in California], 4qy9cl, 1467511131.0, 635
+220, [30 arrested in bid to disrupt Iowa pipeline project Bernie opposes. I was one of them.], 50rx6m, 1472826967.0, 631
+221, [Bernie Sanders Message Is All Over Dem Platform Draft], 4qvhdb, 1467457381.0, 619
+222, [@BernieSanders: Nice majority you got there @SpeakerRyan. Be a shame if someone flipped it. #ThanksPaul], 5960m3, 1477360972.0, 612
+223, [Colorado could ditch Obamacare for a single-payer system], 4r7a6o, 1467668936.0, 611
+224, [Zephyr Teachout on Twitter: A SuperPAC just announced it will spend $1.6 million to defeat me. As the first person I told said, "You made some hedge funders angry!"], 52xxya, 1473996967.0, 599
+225, [The Other Woman Running for President Starts to Get Noticed], 4rwhd8, 1468035158.0, 594
+226, [Jill Stein, the Green Partys Presumptive Presidential Nominee, Makes Inroads], 4qx7pv, 1467494781.0, 586
+227, [Worried About Voter Turnout? Demand an Election Day Holiday; Voters Need Time to Vote.], 4wnt1g, 1470648486.0, 585
+228, [After Bernie: Green Party Hopeful Jill Stein Says Millennials Can Take Over This Election], 4o76c1, 1466024291.0, 587
+229, [Sanders-Backed Pramila Jayapal Wins Big in Washington Congressional Primary], 4wcuev, 1470462419.0, 581
+230, [Nina Turner: The Oligarchy Must Be Challenged by Everyday People], 4ricqm, 1467838920.0, 576
+231, [Debbie Wasserman Schultz - Tim Canova debate now extended to 60 minutes on Sunday], 4xalyv, 1470982141.0, 572
+232, [Despite What Media Says, TPP Isnt About Free Trade  Its About Protecting Corporate Profits], 4rzifs, 1468081951.0, 557
+233, [Betraying Progressives, DNC Platform Backs Fracking, TPP, and Israel Occupation], 4q13v3, 1467023925.0, 559
+234, [How Bernie Sanders Made Burlington Affordable: As the citys mayor in the 1980s, he championed an unusual model of publicly supported housing. Its still working.], 4yefaj, 1471579289.0, 559
+235, [Sanders Asks Supporters to Back 4 Democratic Candidates], 50d57s, 1472616494.0, 554
+236, [A message to George Clooney: Hillary Clinton isnt out to help down-ticket Democrats. Shes out to help Hillary Clinton -], 4puq9c, 1466922380.0, 559
+237, [Bernie Sanders started a political revolution. Now he cant stop it.], 4ukboq, 1469502400.0, 553
+238, [Tim Canova earns the endorsement of the Working Families Party endorsement in FL CD 23 race], 4t31b8, 1468671153.0, 547
+239, [David Sirota on Twitter: "HAPPENING NOW: GOP inserts provision into budget bill that would help corporations hide their political spending"], 54zgt4, 1475136176.0, 543
+240, [Bernie Sanders will join a great line-up of Native speakers (including a candidate - see the list!) at Tuesday's White House rally calling on Obama to revoke the Dakota Access pipeline permits], 5294ob, 1473638195.0, 543
+241, [Sanders Raises Cash for Wasserman Schultz Challenger], 4wxbz3, 1470792018.0, 542
+242, [Small farmer Berniecrat running for congress in WV needs signatures for DFA endorsement.], 4vhpln, 1470010439.0, 541
+243, [35 Massachusetts Candidates Pledge to Refuse $$$ from Major Fossil Fuel and Utility Companies], 50pw9k, 1472797088.0, 540
+244, [Seattle Socialist Kshama Sawant: "if we continue to assume that change happens because benevolent leaders at the top hand it down, then we will continue to ask nicely, and to be disappointed."], 553tdb, 1475204500.0, 541
+245, [We Dont Need a New President  We Need a New System and a New Consciousness], 54pknt, 1474992093.0, 540
+246, [Bernie Sanders: "We Raised $2.4 Million to Take Back Congress. #ThanksPaul" <--- Join the Social Media Tweetstorm RIGHT NOW!], 595mep, 1477357026.0, 537
+247, [Message from Bernie | I hear you want me to have a gavel], 58bk7d, 1476927018.0, 530
+248, [A friend of mine started a Progressive youtube channel. He only has 22 subscribers, but Tim Canova agreed to sit down for an interview with him regardless.], 4zs8d5, 1472293383.0, 519
+249, ["It's simple, really: Politicians should be working for their constituents' votes, not lobbyists' money. That's not radical. It's democracy." -Bernie on Twitter], 4w7vkv, 1470387463.0, 521
+250, [Senator Bernie Sanders is fundraising for a new organization "to take the next steps for our political revolution."], 4w198j, 1470291843.0, 522
+251, [Report: Bernie was right!], 4z7cy6, 1471998776.0, 520
+252, [Tim Canova hopes to topple Debbie Wasserman Schultz in Democratic primary], 4y72b7, 1471485230.0, 518
+253, [Tim Canova, "We have a real chance to win this election. But we cant win if youre not registered to vote by Monday, August 1"], 4uwuf0, 1469680900.0, 511
+254, [NEW YORK! You have congressional primaries today, and two amazing candidates, Zephyr Teachout (CD-19), who literally wrote the book on political corruption, and Eric Kingston (CD-24), a strong national advocate for Social Security, need our help! PHONEBANK TODAY! CONTINUE THE POLITICAL REVOLUTION!], 4q9beb, 1467147865.0, 510
+255, [Bernie Backs Jay Z's Call to End the War on Drugs], 52yfvm, 1474002730.0, 510
+256, [From Black Lives Matter to the Fight for $15: Why Americans Are in Revolt], 58tdbz, 1477175615.0, 503
+257, [Tulsi Gabbard Nominates Bernie Sanders To Be President Of The USA - Beautiful! DNC Speech], 4ur0td, 1469596759.0, 498
+258, ['Bernie Sanders is the real populist, not Trump': President Obama News Conference - 29 Jun 2016], 4rbjth, 1467732460.0, 495
+259, [Debbie Wasserman Schultz's Opponent Tim Canova: DNC Chair Is Rigging The System | MSNBC], 4xsvm3, 1471284013.0, 486
+260, [@BernieSanders | "On August 24, I will address our volunteers live at more than 2,000 organizing meetings across the U.S. Attend one: berniesanders.com/Attend"], 4yprmp, 1471738428.0, 476
+261, [I miss /r/SandersForPresident already. Which of you political revolutionaries were part of the supportive and encouraging group of posters and commenters over there?], 4vfl0l, 1469966726.0, 483
+262, [Robert Reich - $15 minimum wage the least we can do.], 53c2oh, 1474232925.0, 472
+263, [IMPORTANT: SENATE SEAT! Bernie Progressive, Alan Grayson desperately needs our help to take over Rubio's seat!], 4vtlec, 1470187080.0, 471
+264, [Single-payer is best option to Obamacare: "Obamacare is not working for the insurance industry, and the Republicans are trying to make it too expensive for a majority of working Americans."], 50b60y, 1472593269.0, 467
+265, [Jill Stein qualifies for Georgia ballot access], 4sk36s, 1468395580.0, 469
+266, [Native Americans protest outside CNN demanding they stop ignoring Standing Rock], 5aamxh, 1477920277.0, 467
+267, [What our funds are buying in Florida.], 4yf93g, 1471588450.0, 459
+268, [Russian government hackers penetrated DNC, stole opposition research on Trump. [The DNC Knowingly had Russian hackers in their system for 6 weeks before clearing them out]], 4o22e8, 1465948494.0, 462
+269, [Sanders surrogate blasts Elizabeth Warren: She doesnt get brownie points for slamming Trump], 4ngj85, 1465597617.0, 459
+270, [Lee Fang on Twitter: "Makers of Fentanyl, deadly opioid 50x stronger than heroin, gives $500k to campaign to keep marijuana illegal in AZ"], 51vnzj, 1473424871.0, 453
+271, [The 2014 Princeton study that found the US is an oligarchy], 4nid7i, 1465620415.0, 456
+272, ["Bernie said it since day one. And he can't do this alone. We need millions of people to stand up for the political revolution. Join us for our launch on August 24." - Our Revolution on Facebook], 4xv9uo, 1471317465.0, 453
+273, [@Tim_Canova: Set your alarm clocks. The mostly highly anticipated debated of the season is happening live TOMORROW from 8 - 9 a.m. ET on @CBSMiami. [DWS vs Tim Canova Debate!]], 4xkyij, 1471150465.0, 451
+274, [Outraged By DNC Leaks, More And More Sanders Supporters Plan To Vote Third Party], 4ui2pi, 1469474164.0, 451
+275, [Bernie Sanders Supporters Not Finished With The Revolution], 4qpecw, 1467368333.0, 450
+276, [The Sanders Movement Is Only Just Beginning], 4y3pvi, 1471436461.0, 445
+277, [Eric Kingson on Twitter: "The government must stop profiting through interest on loans of students looking to improve their lives and conditions of their families."], 4pnsph, 1466814821.0, 444
+278, [Millennials are ripe for socialism: A generation is rising up against neoliberal oppression], 4r9823, 1467694367.0, 444
+279, [NBC and the media is focused on Russia rather than the defrauded Sanders Revolution], 4vj7t8, 1470030489.0, 447
+280, [DemExit: 13 Million to leave Democratic Party Thursday], 4umatp, 1469527951.0, 442
+281, [Michael Whitney on Twitter "In less than 48 hours, supporters of @BernieSanders raised $1,774,021 for 13 House and Senate candidates with 334,769 contributions" !!!], 58h0mr, 1477001260.0, 444
+282, [Bernie Sanders on Twitter | Paul Ryan said if Republicans lose the Senate, a guy named Bernie Sanders becomes Budget Committee Chair. Sounds like a plan! #ThanksPaul], 595nr9, 1477357386.0, 441
+283, [HEARTBREAKING. Brother Larry Sanders cries thru vote for BERNIE SANDERS - Democratic Convention], 4urkds, 1469603603.0, 439
+284, [That sign in front of DWS is right. We are better than this. Let's retire DWS on August 30.], 4ti832, 1468915698.0, 431
+285, [How California is being stolen from Sanders right now - Greg Palast], 4nqgoq, 1465770781.0, 432
+286, [Bernie Sanders Campaign Chief Says Someone Must Be 'Accountable' for What DNC Emails Show], 4uangk, 1469345083.0, 423
+287, [Bernie Sanders tweet sends shares of Ariad Pharmaceuticals down 11%], 57ibpr, 1476503283.0, 421
+288, [Bernie Sanders endorses his brother in race to replace David Cameron], 56zcos, 1476237307.0, 419
+289, [Roadmap for a Revolution "Win-or-lose Sanders was always adamant that this revolution would not be about one person, or one election"], 4qrpn6, 1467408297.0, 422
+290, [Senators Introduce Resolution Calling for Health Care Public Option], 535a0z, 1474105611.0, 414
+291, [Sanders Calls on President to Intervene in Dakota Access Pipeline Dispute], 59wq1f, 1477714978.0, 413
+292, [Bernie Please take a 1 1/2 hour flight to Campaign for Tim Canova. the VP and future prez did it can you please please ? They love you in Florida district 23 and they need Tim. Please this race is close. Even if you could do anything?], 4ywtc5, 1471838867.0, 408
+293, [WikiLeaks' Assange - TPP Not Only Trade, 83% Is Fascists Controlling Our Daily Lives - Once We're In, We're Stuck Forever], 4xj1hk, 1471123365.0, 408
+294, [Political revolution can stop Trans-Pacific Partnership], 4xxboc, 1471344288.0, 406
+295, [BERNIE SANDERS JUST FLIPPED DISTRICT 2 IN CALIFORNIA], 4r2g18, 1467588762.0, 409
+296, [The Sanders movement is only just beginning: While the media focuses on the spectacle of Donald Trumps implosion, the next chapter of the Sanders political revolution is already beginning.], 4wx2p5, 1470789137.0, 403
+297, [Wikileaks releases 20k DNC emails from Guccifer 2.0 Hacker (click search)], 4u349o, 1469227793.0, 400
+298, [Jill Stein Interview With Fox Business News Panel], 4ruabl, 1468007453.0, 400
+299, [Peter Jacob is a progressive candidate for U.S. Congress in NJ-7. He is the only Bernie Sanders Democrat to make it through the primaries here in NJ and is fighting a battle to flip a very challenging district.], 4vb31w, 1469891421.0, 401
+300, [Majority Disapproves of Decision Not to Charge Clinton on Emails], 4sgvbj, 1468357460.0, 401
+301, [Big Pharma Breaks The Bank To Kill Measure Aiming To Lower Drug Prices], 59pkmq, 1477621253.0, 399
+302, [@BernieSanders | "This campaign was never about Bernie Sanders. It's about a grassroots movement of Americans standing up and saying: 'Enough is enough!'"], 4wcv47, 1470462662.0, 397
+303, [Utah U.S. Sen. candidate Misty Snow: "I am currently a cashier at a grocery store and was raised in a lower income family... Im concerned by the degree of income inequality in this country: how it disproportionately impacts women, people of color, and the LGBT community. Join me and Donate to her!], 4xuqwk, 1471311264.0, 395
+304, [Jane O'Meara Sanders on Twitter: In Vermont, 80% of Bernie endorsed candidates - all 4 State Senate & 16 State House - won their primaries, along w/Lt. Gov! #OurRevolution!], 4x4fyl, 1470892318.0, 398
+305, [Free-Market Republicans Turn on Mylan, Say EpiPen Went Too Far], 53zeyg, 1474585926.0, 387
+306, [Zephyr Teachout on Twitter: Huge news: @SenSanders will be coming to campaign with me on Friday!], 52g1cn, 1473735870.0, 388
+307, [Meet Debbie Wasserman Schultzs First-Ever Primary Challenger: Tim Canova], 4xt44o, 1471289201.0, 387
+308, [A vote for hillary is not "unity" its not a vote "against trump" its a vote against common decency and democracy itself.], 4upo2k, 1469581263.0, 390
+309, [The call is going out for a Millennials March on Washington, DC, January 21 with this list of demands - no honeymoon!], 53enm8, 1474268367.0, 390
+310, [Charlie Hardy: The Bernie-Like Candidate Running in Wyoming], 4xug0j, 1471307838.0, 389
+311, [Clinton superdelegate & long-time congressman found guilty on 22 counts in corruption trial], 4pbr2p, 1466643925.0, 389
+312, ["We don't need career politicians. We need public servants." - The Political Revolution on Twitter], 4wqsjs, 1470700186.0, 387
+313, [Richest 10 per cent of families hold 76 per cent of wealth in US], 4yoxa7, 1471726870.0, 389
+314, [Cornel West: Why I Endorse Green Party's Jill Stein Over "Neoliberal Disaster" Hillary Clinton], 4th76l, 1468902256.0, 382
+315, [Justice Department says it will end use of private prisons], 4ycxek, 1471563417.0, 379
+316, [Canova Wins Endorsement of Both African American Newspapers in CD 23], 4zle68, 1472194517.0, 374
+317, [Tim Canova is on the verge of a historical accomplishment and we can help him get there!], 4pt1ds, 1466898679.0, 384
+318, [Tim Canova outraised Debbie Wasserman Schultz], 4yjwlt, 1471653242.0, 371
+319, [Wikileaks Mega Thread - Podesta E-mails], 575c9f, 1476322384.0, 369
+320, [Nurses testify in favor of single payer healthcare at Democratic platform committee], 4poian, 1466822696.0, 377
+321, ["Some Republican leaders want to repeal the estate tax and give a $269 billion tax break to the .01%. That is regressive, and unacceptable." - The Political Revolution], 4xe8a7, 1471046323.0, 375
+322, [@BernieSanders: "At a time of massive income and wealth inequality, it is absurd to provide huge tax breaks to the very rich."], 4wsihv, 1470719331.0, 373
+323, ["Stop Forcing Taxpayers to Fund Billionaire's Stadiums" - NFL Star Richard Sherman], 507aab, 1472533034.0, 374
+324, [Forget Trump and Clinton, but this November is still pretty damn important! We've got 4 states voting on minimum wage increases, 5 states voting on legalizing recreational marijuana, 4 states voting on legalizing medical marijuana and Colorado is voting on single payer! REGISTER TO VOTE NOW!], 51fpmi, 1473204141.0, 364
+325, [Progressives need to cross over and VOTE OUT PAUL RYAN in Wisconsin's OPEN primary TUESDAY to stop the TPP !], 4w0fa4, 1470282307.0, 369
+326, [Progressive Candidate, Khristy Wilkinson Defeats Dem Party Back Candidate in TN Senate 10 Race.], 4w9yl2, 1470425879.0, 368
+327, [Please phone bank for Tim Canova-- follow this link! Whatever happens with Bernie, we CAN get Tim in Congress and DWS out, but we need to phone bank.], 4nht1y, 1465613274.0, 363
+328, [Bernie Sanders joins pipeline fight with bill amendment], 52ix4a, 1473773614.0, 364
+329, [Bernie Sanders on Twitter | When the Founding Fathers wrote the Constitution, Im pretty sure they werent thinking Lets make sure billionaires can buy elections.], 56mqs1, 1476057062.0, 360
+330, [Survey: Americans want paid family leave, and they support social programs for families], 58v0ao, 1477196441.0, 361
+331, [Bernie Sanders on Twitter: "It's a disgrace that while Americans were defrauded by Wells Fargo, the executive in charge received $124 million."], 52fhrl, 1473729848.0, 361
+332, [Wasserman Schultz says she'll debate challenger Tim Canova], 4w645s, 1470365385.0, 360
+333, [Hillary supporters are saying "Where's your loyalty?" Here's my response.], 4shu2a, 1468369058.0, 354
+334, [If we had listened to Bernie Sanders in 2003 and left Iraq alone, we would have been able to pay for his free college plan for 80 years.], 4pj7ha, 1466746608.0, 353
+335, [Guccifier 2.0 DNC leaks dump], 4oahqi, 1466063883.0, 355
+336, [This may be the last presidential election dominated by Boomers and prior generations], 50ezuk, 1472640166.0, 350
+337, [Media Coverage of the Primaries Was Awful, Harvard Study Confirms], 4o7la7, 1466029955.0, 347
+338, [Wells Fargo ignored employee petition protesting ethics: suit], 55jzra, 1475467796.0, 353
+339, [This morning, Tim Canova filed a complaint with the FEC for DWS using DNC resources in her reelection bid! Everyone should sign this petition from Tim, donate and start phonebanking! YOU can make a difference down ballot!], 4wqv52, 1470701027.0, 350
+340, [Ohio Revolution is proud to announce it's endorsement of 5 Ohio State House of Representatives candidates! These are 5 candidates that had direct ties to the Bernie Sanders campaign in some way or were strong Bernie supporters.], 557ykj, 1475271939.0, 352
+341, [Clintons Responsibility: Bill Clinton is responsible not just for eviscerating welfare, but for trying to end any Democratic Party commitment to the poor.], 553ed8, 1475199721.0, 353
+342, [Movement For Bernie Becomes Movement For The 99%], 4wfcil, 1470507382.0, 351
+343, [Jill Stein Wins Green Party Primary, Calls for Inclusion in Debates], 4o9zw3, 1466057329.0, 343
+344, [Fuel the Political Revolution! Split a contribution between these 18 candidates that Bernie has endorsed!], 4nlzyp, 1465690336.0, 348
+345, [Jill Stein Addresses Disenchanted Sanders Supporters at Occupy DNC Rally], 4uyddi, 1469700773.0, 343
+346, [Sorry for the Meta post, but if this subreddit is going to take off, and in order for us to truly support the progressive movement, mods need to up their game in regards to Clinton and Trump trolls.], 4uufg3, 1469652435.0, 344
+347, [The DNC planted spies in the Sanders campaign], 4u5ogm, 1469259765.0, 343
+348, [Bernie Sanders Supporters File Major Class Action Lawsuit Against the DNC], 4q1p3y, 1467032811.0, 341
+349, [Guys, the revolution is NOT over. Last night, Misty Snow of UT became the first transgender candidate to win a major party primary for US Senate. She supports tuition-free college, $15/hour minimum wage, MJ legalization, CJ reform, Wall St. reform and paid maternity leave. Let's give her some love!], 4qfxfg, 1467240861.0, 337
+350, [As California admits 2 million ballots remain uncounted, Sanders pushes for changing primary process], 4ni6nu, 1465618030.0, 340
+351, [1 year ago today, FeelTheBern.org was completed. Thank you to everyone who helped out on that amazing project (and on this amazing revolution) along the way.], 4xdifg, 1471037309.0, 337
+352, [Tulsi Gabbards reelection primary is coming up in less than two weeks. I am donating $27. Match me and help send a clear message that she still has our support.], 4vik2v, 1470021683.0, 332
+353, [Petition to Open Primaries - will be delivered at DNC - Please sign], 4t1oum, 1468649889.0, 335
+354, [@Tim_Canova: We need a Green New Deal to provide hope and opportunity to this struggling generation.], 4zxe59, 1472378334.0, 329
+355, [CNN and Fox News Are Finally Covering the TPP After Ignoring It for Two Years], 4vvmt4, 1470210896.0, 334
+356, [Bernie Sanders supporters rally for Ohio's Nina Turner], 4v0kkx, 1469739595.0, 339
+357, [Third party candidate: No Clinton or Kaine, protest the DNC!], 4udjxw, 1469402920.0, 333
+358, [Corruption is Legal in America], 4vgcsd, 1469984458.0, 327
+359, [Jimmy Carter Calls For Return to Publicly Financed Elections], 4o997y, 1466048912.0, 330
+360, [Bernie Sanders - We have over 2,600 launch events for Our Revolution across the country tonight. Find one near you!], 4ze7mv, 1472094416.0, 329
+361, [Leaked DNC Documents Show Plans To Reward Big Donors With Federal Appointments], 4ugqlm, 1469448666.0, 325
+362, [If you want to ensure that the Democratic Party cannot rig anymore primaries, we have to end primaries. In order to have real choices, we cannot have a "spoiler" problem. Maine is solving the "spoiler" problem through the use of Ranked-Choice Voting. Donate to the RCV Maine campaign here-], 4nmjqe, 1465698112.0, 328
+363, [Leonardo DiCaprio Stands With Great Sioux Nation to Stop Dakota Access Pipeline], 51rctx, 1473371027.0, 329
+364, [Why Bernie Sanders fans must support a Universal Basic Income], 4q9yr1, 1467156184.0, 330
+365, [The sub's design is a little...lacking. Here are my thoughts and a alternative mockup.], 4nif6z, 1465621146.0, 325
+366, [Bernie Sanders on Twitter: "Universal health care is a reality in dozens of countries around the world. It really is not a radical idea for the U.S. to do the same."], 57vmfe, 1476708181.0, 316
+367, [Wouldn't you like a website where you could go and just enter the name of a politician and see how they voted and where they stand on issues?], 4yyhl7, 1471862302.0, 320
+368, [Jill Stein: Its Time for a Second American Revolution], 4r88gz, 1467681902.0, 322
+369, [@TulsiGabbard on Twitter: I am humbled & grateful for the vote of confidence from Dem voters today. Mahalo nui loa to you & to our incredible #TeamTulsi volunteers.], 4xnsu4, 1471204062.0, 320
+370, [Teachout is Tied in Sept 28th Poll!!!! Call please! Or Donate $ 19 for an Ad!], 56ku2j, 1476017447.0, 324
+371, [Jamie Johnson, the great-grandson of the founder of Johnson & Johnson pharmaceuticals (and documentary filmmaker) shares how the top 1% responded after releasing his Emmy nominated Film on wealth inequality], 50bahc, 1472594893.0, 318
+372, ["Let's Get Started" - Bernie Sanders, Our Revolution], 4w0t4c, 1470286603.0, 322
+373, [We have less than 30 days until Tim Canova's primary!!! Early voting has already started!!! We can do this, but we need your help-- please Phonebank!], 4vw6s4, 1470218606.0, 321
+374, [Debbie Wasserman-Schultz praises the value of Presidential Debates, and then immediately deflects when asked about debating Tim Canova.], 4nwo1e, 1465867044.0, 314
+375, [No Longer A Protest Vote: Why Im Genuinely Falling In Political Love With President Jill Stein], 4nrb5y, 1465781900.0, 311
+376, ['Edward Snowden did this country a great service. Let him come home' - Bernie Sanders, Daniel Ellsberg, former members of the NSA and more weigh in on whether Obama should grant clemency to the divisive whistleblower], 52qwg8, 1473894203.0, 310
+377, [After 525 Years, It's Time to Actually Listen to Native Americans], 50okcs, 1472781549.0, 314
+378, ["The folks at Exxon are some of the best scam artists in history. They lied about the environment, funneled huge amounts of money into the political system, and received massive tax breaks and protection from the Republicans." - The Political Revolution], 4xti4r, 1471295989.0, 311
+379, [Actor Viggo Mortensen backs Green Party candidate Jill Stein], 4t6r17, 1468735727.0, 312
+380, [Pardon Snowden: Sign the letter and urge President Obama to pardon Edward Snowden before leaving office. Time is running out.], 52py3g, 1473880327.0, 310
+381, [Lawsuit Just Filed To STOP Certification Of CA Primary Election!], 4qygwy, 1467514177.0, 309
+382, [Don't Be Surprised if Sanders Supporters Go Green], 4uu9hn, 1469649993.0, 303
+383, [Sanders Welcomes McConnell Decision to Block TPP], 4zpscz, 1472261249.0, 306
+384, [Indian-American socialworker Peter Jacob gets Endorsed from Bernie Sanders for his Congressional bid], 4zxw2i, 1472386530.0, 305
+385, [US capitalism in crisis while most Americans lose out - The inequality that is feeding the bitter, divisive and populist politics now sweeping the west], 53djg2, 1474253561.0, 304
+386, [Bernie Sanders Being Recruited For A Position And Its Huge], 4wcycp, 1470463822.0, 301
+387, [The Time is Now: To Defeat Both Trump and Clintonian Neoliberalism], 4tl1m1, 1468962737.0, 300
+388, ["In the coming weeks, I will be announcing the creation of successor organizations to carry on the struggle that we have been a part of these past 15 months. I hope you will continue to be involved in fighting to transform America." - Bernie Sanders, 'Forever Forward'], 4si4qa, 1468372261.0, 299
+389, [Bernie Sanders mention of TPP in his DNC Speech Generated the Most Google Search Interest in TPP Since Records Began], 4v3sf1, 1469779578.0, 299
+390, [We will need a General Strike to stop the TPP], 4yi0v5, 1471628898.0, 294
+391, [An internal poll by primary challenger Tim Canova shows Debbie Wasserman Schultz leading by just 8 pts, 46-38%, in that FL primary - Mark Murray on Twitter], 4vhx54, 1470013322.0, 296
+392, [I'm giddy at Bernie's email today: "Defeating Debbie Wasserman Schultz"], 4wxn5z, 1470795526.0, 297
+393, [Let's donate to @TulsiGabbard as a thank you for her bravery and convictions.], 56tuah, 1476156329.0, 294
+394, [We are proud to announce our first completed batch of endorsed candidates! Stay tuned in the days, weeks, and months ahead as we grow this list, and please support progressives in your state!], 4zf51m, 1472105518.0, 300
+395, [Rachel Maddow Is Not Happy That Some Want Debbie Wasserman Schultz OUT of Congress], 4vcz9l, 1469927796.0, 292
+396, ['Jill, not Hill,' Sanders crowd chants at Green Party's Jill Stein], 4urovr, 1469605258.0, 296
+397, [Progressive Democrats endorse Tim Canova], 4ws8nb, 1470716191.0, 295
+398, [DISCUSS: What are your ideas for this movement?], 4ndi4t, 1465542876.0, 294
+399, [EpiPen Uproar Highlights Companys Family Ties to Congress], 4zedgp, 1472096329.0, 289
+400, [New York Becomes 17th State to Call for a Constitutional Amendment to Overturn Citizens United and Related Decisions], 4og01l, 1466144076.0, 290
+401, [Florida Gives Green Light To Solar Amendment: "Floridas solar Amendment 4 passed with brilliant colors Tuesday. With only 60 percent needed to pass, the measures overwhelming support suggests, perhaps, a new direction for solar in the Sunshine State, a relatively untapped source of energy."], 50eg7v, 1472632872.0, 285
+402, [Berniecrat Chris Pearson (P-VT) Moves on to General Election!], 4x0bgh, 1470830115.0, 286
+403, [Russ Feingold wins Democratic primary for U.S. Senate seat], 4x025g, 1470826089.0, 291
+404, [Bernie Sanders wants to know why this cancer drug costs nearly $200,000 a year], 58jv1f, 1477031865.0, 287
+405, [Decline of unions has hurt all workers: study], 50ee26, 1472632103.0, 284
+406, [Justin Bamberg (a Bernie-endorsed candidate for South Carolina's 90th district) just won a crushing victory in the South Carolina primary, 1804 votes to 479! Congratulate him by making a donation!], 4o5048, 1465984678.0, 287
+407, ['BernieCare' can save ObamaCare], 4z833v, 1472007053.0, 289
+408, [Princeton Professor Shows How Easy it Is to Hack an Election in Just 7 Minutes], 4wq6qa, 1470692327.0, 281
+409, [Elizabeth Warren twitted on 1/29/16: "The next president can honor the simple notion that nobody is above the law, but it will happen only if voters demand it."], 4recrr, 1467774916.0, 284
+410, [Donna Braziles Deception Is a Symbol For the Big Media Lie], 58vpao, 1477205425.0, 282
+411, [War Has Become a Permanent Condition for the United States], 4zs7lm, 1472293024.0, 283
+412, [Idea: A new party, The Progressive Party], 4ng9lr, 1465593972.0, 281
+413, [North Dakota Is Starting To Look Like A War Zone And Yet Theres No Mention From The Federal Government Nor Hillary/Trump], 59b8fg, 1477433683.0, 280
+414, [Sanders Announces Bill to Close Tax Loopholes Used by Trump], 55wig5, 1475652644.0, 280
+415, [Media Collusion Revealed In DNC Leak Shows Why Change Must Come From Outside The Party], 4vc02t, 1469912903.0, 279
+416, [Nina Turner, Prominent Sanders Delegate, Ejected from DNC], 4usmam, 1469618652.0, 281
+417, [Disappointed By the Democratic Party Platform? Follow the Money.], 4tkpcq, 1468957338.0, 281
+418, [Bernie Sanders on Twitter: One thing I am proud of is that there's a lot more support for the concept of democratic socialism today than there was before the campaign.], 53oqtr, 1474423954.0, 282
+419, [Tim Canova on Twitter: .@DWSTweets thinks a 15 minute Sunday morning debate is a "robust debate." \_()_/], 4x4yhb, 1470898828.0, 276
+420, [Nationwide Class Action filed Against Democratic Party and Debbie Wasserman Schultz], 4qev47, 1467225615.0, 283
+421, [Bernie might've lost DC, but progressives won the council. That's partly because of new progressive networks. (Xpost, S4P)], 4o7tcr, 1466032738.0, 276
+422, [Our Revolution Launch Mega Thread | Live Streamed Event | 9 PM ET], 4zfdz7, 1472108658.0, 281
+423, [@BernieSanders | "We must remember that the struggle for our rights is not the struggle of a day, or a year. It is the struggle of a lifetime."], 4ty103, 1469149409.0, 278
+424, [WikiLeaks: TPP, TTIP, TISA, point of view from outside the US. People are rightly concerned.], 4ysoxc, 1471775689.0, 278
+425, [Sanders Stands with Tribal Nations, Calls on President to Stop Pipeline], 52p080, 1473858972.0, 275
+426, [Bernie Sanders Left Delegates With No Way to Fight but Boo], 4uo5pv, 1469561533.0, 270
+427, [Debbie Wasserman Schultz has no plans to debate Tim Canova, despite Canova's TV ad], 4thvs5, 1468911188.0, 273
+428, [Edward Snowden on Twitter: What is #Allo? A Google app that records every message you ever send and makes it available to police upon request.], 5491g2, 1474726897.0, 275
+429, [Make calls Tim Canova on GrassrootsPB, and win a thank-you prize from Tim personally!! | Details Inside], 4w4bix, 1470343429.0, 272
+430, [The Young Turks interviews founders of The Climate Mobilization about building mass political movement for WWII-scale national effort against the climate emergency, for net zero emissions and 100% clean energy], 59rrc6, 1477645929.0, 268
+431, [Amendment 69 is on the ballot in 69 days. ColoradoCare, our Medicare-for-All system, is just 69 days away from becoming reality, but we need your help to do it. Over the next 69 days, we need YOU to chip in and turn out to help spread our message across Colorado.], 50k7md, 1472715052.0, 270
+432, [Here's Why Activists Don't Buy Hillary Clinton's Justification for the Honduras Coup], 4tcgvq, 1468831262.0, 267
+433, [@BernieSanders: "We have to replace the current DNC leadership. We need someone who vigorously supports bringing people into the political process."], 4o3r7a, 1465967928.0, 271
+434, [Bernie Sanders: Reject the AT&T-Time Warner Merger], 59jn69, 1477540069.0, 267
+435, ['Pardon Snowden' Campaign Takes Off as Sanders, Ellsberg, and Others Join], 52tqpk, 1473929574.0, 271
+436, [Alan Grayson: Dem Party Essentially "Money Laundering" For Donors], 4zllk0, 1472197118.0, 269
+437, [Bernie Sanders calls out hackable voting machines in 2004 (re: Bruce Schneier Sounds The Alarm: If You're Worried About Russians Hacking, Maybe Help Fix Voting Machine Security July 29 2016)], 4vahvv, 1469879793.0, 268
+438, [Sanders media consultants to work for Wasserman Schultz challenger], 4v7lem, 1469840313.0, 271
+439, [DNC is taking people's Bernie Sanders signs, Dems In Philly are being silenced!], 4ulclu, 1469514885.0, 269
+440, [Clintonites, the Liberal Elite and the Democratic Party are Ideologically and Politically Compromised by the Ruling Class. No Honeymoon Period After November 8th.], 594hcb, 1477344318.0, 267
+441, [Moneybomb to elect Michigan Berniecrats on 8/24! Join to show your support for the state that Nate Silver said we would never win! (x-Post /r/PoliticalRevolutionMI)], 4xziwx, 1471383496.0, 268
+442, [Sanders petition against trade deal gets 700,000 signatures], 4rz0tb, 1468071609.0, 265
+443, [UNCOUNTED: The True Story of the the California Primary], 4ozfyx, 1466467280.0, 263
+444, [Tim Canova outraised Debbie Wasserman Schultz], 4zohs7, 1472245594.0, 268
+445, [The Bernie for President campaign is over, but the political revolution that he launched against corporate rule is just beginning. Sanders and close advisors are now strategizing and developing a new organizational structure to keep growing the grassroots rebellion], 4wlj2f, 1470616559.0, 268
+446, [We Are Not Berniebots: If Bernie Won't Stand up to Hillary Then We Will], 4umo3e, 1469533432.0, 267
+447, [Green Party Candidate for Senate from Colorado: Arn Menconi], 4uyjpv, 1469703419.0, 261
+448, [Drew Ash, a 21 year old former Bernie volunteer running for State Representative in my Indiana district, supports basic income, campaign finance reform, and more. Let's lend him a hand!], 537w55, 1474158205.0, 266
+449, [Jill Stein Wants You To Continue The Revolution With The Green Party], 4smw36, 1468441699.0, 267
+450, [House Democrats mistakenly release transcript confirming big payout to Clinton friend Sidney Blumenthal], 4q6i8m, 1467100892.0, 265
+451, [Thank you Bernie Sanders.], 5aeokk, 1477973792.0, 333
+452, [Mayors going to bat for Wasserman Schultz; For his part, Canova said he's been knocking on doors around the district and the mayoral support is just more insider politicians scratching each others' backs.], 4yrbgp, 1471757596.0, 262
+453, [I just received my paperwork to volunteer as an Election Day Official. Thank you Bernie for the inspiration to become more involved!], 4vevhq, 1469954752.0, 260
+454, [Wikileaks: DNC Chair mocks Bernie views bc he's "never been a member" of party], 4u824q, 1469306445.0, 261
+455, [DNC rolls back restrictions on lobbyist donations], 4zi798, 1472156535.0, 262
+456, [Hi everyone! I'm not officially a Deputy Field Organizer on the Tim Canova campaign. We're working hard knocking on doors and you'd be surprised how many people still don't know about Tim. The best thing you can do right now to help is to phone bank to make our jobs easier and more efficient!], 4xbvwy, 1471005936.0, 258
+457, [Noam Chomsky supports Colorados universal healthcare ballot measure], 4uvoo7, 1469667998.0, 260
+458, [Bernie Sanders on Twitter: "Today, a few giant media conglomerates control much of what Americans see, hear and read. We need more diverse media ownership, not less."], 59fiam, 1477482313.0, 255
+459, [Democratic National Committee CEO resigns amid hack scandal], 4vtq0z, 1470188556.0, 256
+460, [Bernie Sanders must emerge from the Democratic National Convention as the Democratic nominee.], 4u66h4, 1469267373.0, 258
+461, [Over 20 Arrested After Militarized Police Raid #NoDAPL Prayer Ceremony], 552r0l, 1475192194.0, 254
+462, [PRESS RELEASE: Today we announced our endorsement for 9 more truly amazing and committed progressives running for office around the country.], 54zxxp, 1475142886.0, 257
+463, [Running with Bernie Sanders--Charlie Hardy, a Bernie-like candidate, lost last week in Wyoming. Now he's running with #OurRevolution. /r/Political_Revolution AMA with Charlie this Thurs!], 4z0vx1, 1471906398.0, 253
+464, [Glenn Greenwald's eviscerates the elite after Brexit: "The solution is not to subserviently cling to corrupt elite institutions out of fear of the alternatives. It is, instead, to help bury those institutions and their elite mavens and then fight for superior replacements."], 4pxoar, 1466975153.0, 253
+465, [We just won partial, if not majority stake, in the Missouri Democratic Party!], 4oziy1, 1466468272.0, 254
+466, [Tim Canova on Facebook: Payday lending and check cashing shops all over South Florida are charging interest rates of more than 300%. That's obscene. Time for a change. | [x-post from r/TimCanova]], 4oqogb, 1466318467.0, 254
+467, [Jordan on Twitter: "Less than 24 hours, @BernieSanders speech sparked 11K people 2 express interest in running 4 office #OurRevolution https://t.co/8OoOdoiePq"], 4olizs, 1466228025.0, 255
+468, [Jane Sanders: 'Take Some Time to Be Sad. But the Work is Too Important.'], 4v2mz1, 1469764402.0, 252
+469, [ We've hit 10,000 calls for Pramila! Outstanding work: jbabramowitz, Skyeheart, OliML, achipinthearmor, ravster & datatitian who helped push us over the edge. Tomorrow, dedicating even 10 minutes to make some calls will multiply our effect & make the dialer run more smoothly. Onward! ], 4veg7m, 1469948149.0, 253
+470, [Bernie is against the Bakken pipeline. Tomorrow there will be civil disobedience and a protest rally in Pilot Mound, IA. Will you show up to help?], 50duql, 1472625093.0, 249
+471, [As Resistance Mounts, TPP Becoming 2016 Election's Third Rail], 4yqaaw, 1471745019.0, 249
+472, [My name is Sarah Lloyd, I'm a Bernie supporter running for Congress in Wisconsin. AMA], 4qi4ng, 1467265478.0, 253
+473, [How Democrats Killed Their Populist Soul | In the 1970s, a new wave of post-Watergate liberals stopped fighting monopoly power. The result is an increasingly dangerous political system.], 595dbg, 1477354493.0, 247
+474, [Deeming Pollution of Earth Sinful, Pope Proposes Climate Action as Sacred Duty], 50r4e5, 1472813691.0, 250
+475, [Bernie Sanders Endorses Democrat Peter Jacobs Bid to Represent New Jerseys 7th Congressional District], 4zolvm, 1472247136.0, 249
+476, [Lame-duck TPP vote could be disastrous for Dems], 4xtiyx, 1471296343.0, 247
+477, [Five Years Ago I Was Driving School Buses - Now I'm Running For State Representative], 4pertz, 1466682030.0, 248
+478, [We've just eclipsed 10,000 calls for Tim Canova on https://www.grassrootspb.com! Thanks to jbabramowitz and OliML who are holding down the fort today, and to all who are helping to replace DWS with someone who reflects the electorate. Let's do this!], 4vcwny, 1469926842.0, 249
+479, [I have been to all 165 towns in the 19th CD, and everywhere I go, I hear the same thing: let's get Congress working again, for the PEOPLE.], 579tm5, 1476388068.0, 247
+480, [U.S. Court of Appeals Rules against Standing Rock Tribe in Dakota Access Pipeline Case], 56s71q, 1476138278.0, 248
+481, [Cable News Silent as Two States Declare Emergency After Pipeline Spill], 532t4d, 1474072932.0, 243
+482, [Zephyr Teachout is on FIRE. We need more people like this standing up for small business owners in Congress. They've been getting screwed for 30 years.], 4w4upo, 1470350826.0, 249
+483, [What's next for Sanders backers? Replace the entire Congress (and DNC)], 4vcsh8, 1469925271.0, 244
+484, [Why is there no accountability for the DNC underhandedly giving the election to Clinton from the start?], 4us9xo, 1469613538.0, 248
+485, [Wasserman Schultz Challenger Tops Her in Recent Fundraising], 4t6ros, 1468735990.0, 246
+486, [BERNIE SANDERS: Almost 7,000 of my supporters just signed up to run for office], 4olutg, 1466232471.0, 245
+487, [@OurRevolution: "Congratulations @DwightBullard on your victory tonight! Candidates like you are what fuel Our Revolution."], 50f04m, 1472640282.0, 243
+488, [Tim had originally invited DWS to have a series of six debates, she ignored him. Now she came up with this ridiculous time, 8am on a Sunday!! What can we do to guarantee maximum exposure of the debate?], 4xlxo4, 1471165099.0, 246
+489, [Feudalism Then & Now], 4r903w, 1467691525.0, 244
+490, [Sanders supporter submitting plan to end superdelegates], 4pmsp3, 1466802805.0, 247
+491, [I AMA Ro Khanna running for U.S. Congress, one of ten federal candidates who doesn't take corporate, PAC, and lobbyist money. Ask me anything!], 4y0w90, 1471399432.0, 246
+492, [**URGENT** To all Super Delegates: simple choice; Bernie or Trump, it's in your hands now.], 4uljas, 1469517289.0, 242
+493, [@BernieSanders: Nevada  send the message today that yes, we are going to move this country in a progressive direction. Go vote.], 4o1xea, 1465946871.0, 244
+494, [TODAY'S THE DAY! PLEASE CALL TO HELP TIM WIN!], 50bw74, 1472602138.0, 241
+495, [What every politician should aspire to believe], 4y4amr, 1471447208.0, 245
+496, [Tim Canova pleased, but skeptical, about Debbie Wasserman Schultz' announcement that she will debate him], 4wbzlx, 1470452048.0, 239
+497, [Tim Canova And The People who Campaigned For Him Are Heros!], 50f5jn, 1472642498.0, 243
+498, [Nearly 14,000 Uber And Lyft Drivers Sign Union Cards In New York], 54eqn3, 1474831979.0, 242
+499, [Chicago Election Board Sued Over Alleged 'Discrepancies, Improprieties' During Post-Primary Election Audit], 4vosl6, 1470114328.0, 241
+500, [Bernie Sanders on Twitter: "Don't believe anyone who tells you we cannot change the status quo. #NoDAPL"], 521jq0, 1473510600.0, 240
+501, [PHONE BANK FOR BERNIE-ENDORSED-CANDIDATE ERIC KINGSON : x-post CaliforniaForSanders], 4ni1ub, 1465616322.0, 235
+502, [Super PACs are pouring MILLIONS of dollars to stop Zephyr Teachout in NY-19... Recent polls are showing that the race is neck and neck!!! Faso and his wealthy donors are scared; and they should be, but that doesn't mean that we should let up now!!! KEEP FIGHTING!], 5acpt5, 1477954967.0, 265
+503, [Let's Kill The TPP: A r/socialism Campaign], 4ypojo, 1471737353.0, 239
+504, [Progressive Unseats Rhode Island House Majority Leader By 17 Votes], 52wnwn, 1473981658.0, 238
+505, [Detroit makes community college free | First step towards education as a right?], 4xbisd, 1470999994.0, 239
+506, [Bernie is funding his delegates - donate or spread the word before tonight's final fundraising deadline!], 4qn89z, 1467340461.0, 238
+507, [@SenSanders: "In 1965, ratio of CEO pay to average worker pay was 20:1. In 2014, it was 303:1. Thats just incomprehensible to me."], 57sr3z, 1476670811.0, 235
+508, [Remy: This is CNN], 50alcf, 1472584657.0, 234
+509, [Zuckerman Wins! The people in Vermont are ready for a change in politics as usual, at all levels of government.], 4x0ch3, 1470830555.0, 231
+510, [The Koch Brothers Are Behind a Plot to Open Up the Grand Canyon Watershed to Toxic Uranium Mining], 4weuk5, 1470495587.0, 233
+511, [When Are the Bernie Sanders DNC Marches and Protests?], 4tpgu7, 1469018274.0, 230
+512, [A million Ohio voters didnt get absentee ballot mailing], 5a6kcm, 1477870760.0, 233
+513, [@OurRevolution: We intend to do everything we can to defeat the TPP. Join the fight. https://OurRevolution.com/Stop-The-TPP], 4zg4c8, 1472118498.0, 231
+514, [So, We all voting Jill Stein now? Awesome], 4sk04y, 1468394414.0, 230
+515, [Democrats Will Learn All the Wrong Lessons From Brush With Bernie], 4necr5, 1465555758.0, 230
+516, [@LucyFlores: Today is the day! Election Day! Need to find your polling location? Call 702-437-0587. Get out there and vote! #NV04], 4o1xa2, 1465946827.0, 230
+517, [Bernie Sanders on Twitter: "Apparently for many in the top 1%, owning and controlling our economy is not enough. They also want to own and control the government."], 57qkgr, 1476634619.0, 229
+518, [VA is short on Bernie delegates to the state convention this Saturday 6/18], 4o1jzi, 1465942097.0, 228
+519, [Hawaii Vote @TulsiGabbard for Congress TODAY! We need everyone to get out and vote! #OurRevolution #TeamTulsi], 4xjr3h, 1471134221.0, 226
+520, [Democrats want 'major role' for Sanders: Reuters/], 4nq9i1, 1465767562.0, 230
+521, [Meet Some Sanders Delegates Who Plan To Turn Anger Into Positive Action], 4vghys, 1469987978.0, 222
+522, [44 Percent of DEMOCRATS Want Sanders to Make an Independent Run for the White House | Global Research], 4odn99, 1466116858.0, 224
+523, [Kshama Sawant: Organize a New Party for the 99% #movement4bernie], 4nixzh, 1465628496.0, 224
+524, [Tim Canova is debating DWS at 8:00 a.m. Eastern time today. Let's use this opportunity to get people fired up to make more calls for Tim!], 4xnqmd, 1471202418.0, 222
+525, [Ford CEO: We're Against TPP, Not Free Trade], 4vcurq, 1469926121.0, 227
+526, [Two trans women win congressional Democratic primaries - both are supporters of Senator Sanders], 4qhncp, 1467259923.0, 226
+527, [Berniecrat running to defeat Hillary supporter LA Mayor Garcetti], 4p884w, 1466588454.0, 229
+528, [One Million Supporter March for Bernie at the DNC National Convention], 4os3nk, 1466343162.0, 224
+529, [Pharma Threatens Vets in CA Prop 61 No Ads | "In other words, No Prop 61 is saying that the measure will hurt veterans because the pharmaceutical industry  in all its greed  will react by raising prices on veterans and refusing to honor some of the VAs discounts."], 55znue, 1475705687.0, 228
+530, [Attention Bernie Sanders Delegates!], 4ukyp0, 1469510011.0, 225
+531, [Dr. Jill Stein on Twitter: "Hillary Clinton understands if you can't vote for a warmongering corporatist like her."], 4tzeqt, 1469166214.0, 223
+532, [#ImWithNina has been trending on twitter for the last hour], 4uxpo5, 1469691742.0, 224
+533, [Bothwell leaves Democratic Party over Clinton], 4t9pup, 1468792532.0, 224
+534, [Boost from Bernie Sanders plays into Seattle race for Congress], 4riohx, 1467843471.0, 223
+535, [Affordable Care Act Shows Compromise With Capitalists Is Impossible], 4y7omh, 1471491741.0, 223
+536, [Teachout up 44-41 in new poll, 15% of voters still undecided], 59jf3c, 1477537697.0, 220
+537, [Delegates Are Using the Convention to Make the TPP Politically Unacceptable], 4v27jb, 1469759307.0, 222
+538, [JAW-DROPPING Evidence Of Election Fraud & Media Blackout! #ExitPollGate], 4qu4wc, 1467437303.0, 221
+539, [FEC Commissioner, Citing The Intercept, Calls for Ban on Foreign Money in Politics], 4xal8t, 1470981900.0, 224
+540, [Bernie Sanders: The Nation Interview], 53ngt5, 1474408643.0, 222
+541, [Tim Canova Files Legal Complaint vs. Debbie Wasserman Schulz over Emails], 4uj3sb, 1469488676.0, 218
+542, [New DNC Email Leak is the Final Nail in the Party Unity Coffin], 4u56z9, 1469253010.0, 219
+543, [Claiming That Bernie Sanders Just Sold Out, Or That The Political Movement He Started Is Over, Is Absurd], 4si9s5, 1468373774.0, 220
+544, [Runforoffice.org : a website that tells you what offices you can run for], 4nlrls, 1465686879.0, 221
+545, [Bernie Sanders to campaign in Boulder for Amendment 69, the statewide universal healthcare proposal], 57pess, 1476612482.0, 220
+546, [You promised CHANGE! We demand it! Change the 13th Amendment and abolish prison slave labor! #PrisonStrike], 523e92, 1473547548.0, 216
+547, [Voter Suppression Is Real & Now We Have Mathematical Proof], 4zm506, 1472204391.0, 222
+548, [r/NinaTurner - A new sub to support Former Ohio State Senator and Bernie Sanders Surrogate, Nina Turner in her future endeavors  /r/NinaTurner], 4vn2ln, 1470094457.0, 219
+549, [Sanders Wages Fight for Democrats to Show 'Strong Opposition' to Trans-Pacific Trade Deal], 4r4c36, 1467616241.0, 218
+550, [Appeals court halts Dakota Access Pipeline work pending hearing (xpost /r/NoDAPL)  /r/IndianCountry], 53c77a, 1474235205.0, 216
+551, [Political Revolution on Twitter | .@DWStweets will not support a ban on fracking. @Tim_Canova will. #FL23Debate -H], 4xo2v4, 1471209865.0, 221
+552, [Tim Canova on Twitter: ".@DWStweets missed more votes than any other Floridian representative. Now she won't show up to debate Tim Canova."], 4pumr1, 1466920969.0, 216
+553, [Im in a union. Youre welcome. How having strong labor unions helps everyone who works earn more], 50fpcy, 1472651695.0, 213
+554, ["Zephyr Teachout wrote the book when it comes to political corruption, so when billionaire hedge-funders like Paul Singer dump half a million dollars against her campaign, you know she's doing something right." - Our Revolution], 4xwjek, 1471333286.0, 211
+555, [Pramila's primary is in three days. Please hop on the phones and make sure we win this!], 4vclwh, 1469922782.0, 218
+556, [Bernie Sanders on Twitter: "America needs YOU to run! BernieSanders.com/Run"], 4ppjik, 1466835334.0, 212
+557, [Tonight we win. Help ensure that Tim Canova wins tonight by phone banking!], 50a3qg, 1472574827.0, 217
+558, [Late stage Capitalism focuses more wealth into fewer and fewer hands, and Corporations are not competing any more. We need the FTC to use the SAA to break up companies, pull back the monopolies and create competition again until we figure out the next evolution of Capitalism that is fair for all.], 4y1azm, 1471403933.0, 213
+559, [Citizens Oversight is Winning Election Fraud Case in CA - Affects Multiple Counties and States], 4wdc9g, 1470469121.0, 215
+560, [Bernies people are just beginning, even if Sanders ends his campaign], 4o1ypc, 1465947281.0, 216
+561, [Wolf PAC], 4nmo96, 1465699880.0, 214
+562, [This is it! OurRevolution now has its own ActBlue! Now I can *really* start spamming "donate" and "phonebank!"], 4to3ru, 1468998903.0, 214
+563, [Green Partys Jill Stein is in Burlington, Vermont, DNC is paying close attention], 4t7qym, 1468751318.0, 211
+564, [Tim Canova on Twitter: "It's official, we've qualified by petitions for the ballot in the Democratic primary. Let's see the next excuse for #DebbieDodgesDebates."], 4p83il, 1466586568.0, 212
+565, [Minimum Wage Would Be $21.72 per hour if it kept pace with productivity increases - Study], 4x5n0l, 1470908425.0, 212
+566, [Hospital CEO says health care system broken, favors Medicare for all], 4tloib, 1468970669.0, 211
+567, [Tomorrow is the last day to get Jill Stein on the ballot for Georgia], 4sa8ak, 1468261200.0, 212
+568, [White House Admits 3x More Money Goes to Prisons than Schools], 4s2y04, 1468136674.0, 213
+569, [Wells Fargo: Too big to fail, too arrogant to admit it], 53t74u, 1474494321.0, 211
+570, [Wikileaks Revelation: DNC Had Hillary Moles Inside Bernie Campaign], 4u9ws4, 1469334269.0, 214
+571, [Universal healthcare in Canada began in one province, Saskatchewan, and then spread federally. In 2016, the fine people of Colorado have the opportunity to amend their State's Constitution to make healthcare a right of all Coloradans!], 4pjuk1, 1466755079.0, 207
+572, [My Challenge to a Billionaire with a Super Pac - Zephyr Teachout], 4xwx3l, 1471338568.0, 213
+573, [This sub is supposed to be for finding, encouraging, and supporting progressive candidates. Can we PLEASE not turn it into an endless Clinton conspiracy echo chamber?], 4q7zxy, 1467123532.0, 208
+574, [Let's do something about the Clinton Foundation leak.], 4p6hhe, 1466566454.0, 213
+575, [North Dakota Rejects Corporate Farm Ownership by 3-to-1 Margin], 4osrty, 1466360469.0, 208
+576, [Latest polls: Bernie continues the solid trend of outperforming Hillary in the general. As usual Bernie is the best candidate to win in the general election.], 4o8lvx, 1466041763.0, 207
+577, [Hundreds Shut Down Puerto Rico's Largest Wal-Mart], 51nykj, 1473315718.0, 212
+578, [@BernieSanders | "Proud of my former staff Chris Pearson, Tim Ashe and Anthony Pollina for winning their Vermont primary elections yesterday!"], 4x51kk, 1470900003.0, 206
+579, [Julian Assange Offers to Surrender to U.S. if Chelsea Manning Is Released], 52zp9i, 1474019735.0, 207
+580, [Warren demands FBI explain failure to charge bankers], 52wqcw, 1473982494.0, 208
+581, [Study: Marijuana abuse falls as legalization rises], 51ct33, 1473154445.0, 205
+582, [Koch Brothers Pass On Hillary AND Trump. Will Buy Congress Instead (down ballot race import!)], 4vslef, 1470175638.0, 205
+583, ["America has more people in jail than any other country on the planet. That is an embarrassment of international proportions." - Our Revolution], 4z7hrp, 1472000301.0, 202
+584, [So I was reading my AP Government and Politics book and I saw this... We don't have a single one of these things.], 4yymox, 1471864521.0, 202
+585, ["We are on the brink of a larger mass movement ready to demand alternative solutions to capitalism. This movement can be successful if we are willing to work toward a solution that supports and empowers workers in their respective enterprises."], 4qq1mr, 1467378297.0, 206
+586, [/r/IndianaForSanders will now be assisting Jill Stein to get the Green Party ballot access in Indiana. This gives Bernie an option, just in case he decides to run third party. Sign up to collect signatures in your state today!], 4pttp5, 1466909545.0, 203
+587, [It takes only ~15 min to make 10 calls for Tim Canova on GrassrootsPB, and be entered in a call raffle to win a letter and photo from Tim himself! Help Tim beat DWS! Lines are open 10AM-9PM EST.], 4y20hh, 1471412228.0, 202
+588, [Tim Canova just released a new ad about how important Social Security was for his family, with the small dollar donations from you! But ads aren't the only thing he need to close the gap, he needs people to PHONEBANK for him! Help remove DWS from Congress and put Tim Canova in! PHONEBANK!], 4w08pz, 1470280272.0, 202
+589, [Please use and share this official sign-up form to join Bernie's new successor organization and keep Our Revolution alive after the campaign.], 4syvwz, 1468615367.0, 206
+590, [Tim Canova on Twitter | RT  Debating DWS Sunday, August 14 at 8:00 a.m. ET on @CBSmiami It will also be streamed at http://CBSMiami.com], 4xirnm, 1471117926.0, 204
+591, [Phonebank for Tim Canova today. More callers = faster calls for everyone (NOT ME US) = more efficient canvassing = better GOTV = TIM WINS and DWS is out of a job.], 4wkm4f, 1470600557.0, 203
+592, [Wasserman-Shultz Opponent Files Lawsuit Over DNC Emails! (W/Guest: Tim Canova)], 4v511u, 1469798117.0, 200
+593, [It's as If They're Trying to Lose: Democrats' Optimism Ignores the Struggles of Millions], 4vr417, 1470147858.0, 200
+594, [/r/Political_Revolution hits 10K subscribers], 4nrisj, 1465784610.0, 200
+595, [For the people who are going to use the riots to shame people], 541mth, 1474612321.0, 200
+596, [@OurRevolution: "Tim Canova has devoted much of his life to challenging Wall Street banks and political corruption. Florida would be fortunate to have someone like Tim representing their state. Vote for him in the primary today!"], 50conw, 1472611138.0, 201
+597, [Bernie is polling at over 80% in South Florida where for the first time ever Tim Canova is challenging Debt Trap Debbie. But Bernie is MIA whilst the entire establishment has been down there campaigning for Tim Canova's opponent, including HRC, Nancy Pelosi and Bill Clinton.], 4zop90, 1472248355.0, 201
+598, [The Political Revolution Takes Aim at Wasserman Schultzs Congressional Seat], 4wqfa3, 1470695550.0, 199
+599, [Consider joining a Credit Union], 4whnhk, 1470544682.0, 200
+600, [Police arrest 117 in crackdown on North Dakota pipeline protesters], 59sp1j, 1477658619.0, 197
+601, [Michigans newest political party gets certified today. The Working Class Party got itself onto the Michigan ballot after more than 50,000 people signed petitions. Thats more than the 31,566 signatures required by election law.], 4z7g5g, 1471999783.0, 199
+602, [No more gravy train for big meat? Youngest Two Senators Jointly Propose Legislation Ending Anti-competitive Big Ag Funding], 4t4dm2, 1468701437.0, 199
+603, [Election Fraud: How Bernie Voters were Purged from Voter Rolls], 52s1xr, 1473907920.0, 200
+604, [WikiLeaks leaks new DNC emails 13 September 2016], 52n6c9, 1473832590.0, 202
+605, [Volunteer Coders from Bernie's campaign are revving up for the long haul. Inspired by Bernie's message, we want to democratize organizing and campaigning, replacing money with people with the help of tech. But first, we need the infrastructure to do it. Enter codecorps.org], 4yjcry, 1471647242.0, 197
+606, [DNC Staffers Mocked the Bernie Sanders Campaign, Leaked Emails Show], 4u4i80, 1469244324.0, 198
+607, [The Democratic Party missed the opportunity to win a generation], 4ttaud, 1469076663.0, 201
+608, [INTERVIEW: Socialist Alternative activist and formidable Fox News opponent Darletta Scruggs talks student debt crisis, workers rights, and changing the system], 4ypong, 1471737383.0, 198
+609, [Searches for 3rd Party candidate 2016 on Google spiked by +1,150% in the past week], 4u0bjr, 1469178830.0, 196
+610, [Canadian Government Officials Confirm TPP Will Raise Pharmaceutical Costs], 4nkr8i, 1465665182.0, 198
+611, [Make the Public Health Insurance Option Central to the 2016 Campaign], 53yuoq, 1474578509.0, 198
+612, [Undeterred by primary loss, Tim Canova continues pressing Wasserman Schultz], 52stsb, 1473917021.0, 196
+613, [Sanders Democrat MISTY PLOWRIGHT wins in Colorado!], 4qdznw, 1467207779.0, 195
+614, [Today is the deadline to submit testimony to the DNC about what you'd like to see included in the 2016 Democratic platform. Do this for Bernie! Let's flood the DNC with suggestions for genuinely progressive policies, based on what he stated in his Thursday address!], 4opl4c, 1466302193.0, 196
+615, [The root of all evil: corporate media and journalism. Even Bernie didn't have a proposal to solve these guys and the fundamental problems they bring. Let's brainstorm!], 4nezbn, 1465567088.0, 197
+616, [Wikileaks: DNC Chair Donna Brazile Violated DNC Charter Just Like Wasserman Schultz], 506wey, 1472528643.0, 192
+617, [Zephyr Teachout - After winning the democratic nomination in NY-19th district vows to change status quo], 4vey0g, 1469955862.0, 193
+618, [People For Bernie on Twitter | Breaking: @BernieSanders is the most popular US Senator, by a YUGE margin! #FeelTheBern], 52mc99, 1473823238.0, 191
+619, [PRESS RELEASE: Our Revolution Announces Formation of Board.], 507976, 1472532680.0, 195
+620, [Sanders-Backed Pramila Jayapal Wins Big in Washington Congressional Primary], 4vzanm, 1470269689.0, 193
+621, [US income gap widened last year as top 1 percent gained most], 4qsola, 1467420036.0, 192
+622, [How & Why Other Countries Have Ended the 2-Party System], 58f5mv, 1476968742.0, 190
+623, [Hi Reddit! I'm Keri Thompson. I'm an Independent running for MA State Rep to challenge the Democratic establishment and continue the political revolution! AMA!], 4z6qra, 1471991560.0, 191
+624, [Why conservatives should vote for ColoradoCare: "While we would all be paying $25 billion in taxes, we would all be saving $30 billion in health-care spending. This means the residents and businesses of Colorado end up with $5 billion more in their pockets each year..."], 4x3wly, 1470885941.0, 194
+625, [Obama puts Congress on notice: TPP is coming], 4xfyqq, 1471066333.0, 189
+626, [Amy Goodman Broadcasts from North Dakota Across from Court Where She Faces Riot Charge Today], 57y04v, 1476747932.0, 190
+627, [As Climate Warms, US Approves 117 Million Ton Coal Mine Expansion], 56dfp3, 1475900393.0, 188
+628, ['Travesty': Nestl Outbids Another Town for Control of Local Water Supply], 548crz, 1474713607.0, 190
+629, [Bernie Sanders On Twitter: "When people stand together, we win. Now we must stop the Dakota Access pipeline, once and for all."], 521jj4, 1473510506.0, 189
+630, [@BernieSanders | I have stood with unions all of my life and I will continue to do so in fighting the disastrous TPP.], 5173x9, 1473068098.0, 186
+631, [Koch Brothers Waging War Against Local Effort to Expose Dark Money], 4y96zr, 1471508941.0, 193
+632, [Facing South Florida: One-On-One With Tim Canova], 4wohqu, 1470660307.0, 186
+633, [Sheldon Adelson, who doesn't even live in MA, has donated $1 million to oppose legalization there. TODAY is the LAST day for MA residents to register to vote. It can be done online and it takes mere seconds. Get registered, fight back and vote yes! 2016 WILL be the political year of weed if we win.], 58b00y, 1476921152.0, 187
+634, [The House Intelligence Committees Terrible, Horrible, Very Bad Snowden Report], 53byvv, 1474230855.0, 187
+635, [Wasserman Schultz avoids talking about her email controversy, with tough primary days away], 50012v, 1472429507.0, 185
+636, [Today I made 10 calls for Pramila], 4vq16i, 1470130432.0, 185
+637, [Study Up, California! Youve Got 17 Statewide Measures to Vote On], 4r25ze, 1467584208.0, 191
+638, [I am David Sparks, And I Am Running For State Representative in Ohio, AMA!], 4q9s02, 1467153925.0, 185
+639, [Jane Sanders - Contact your representatives and the media to ask where they stand on #NoDAPL!], 57gn9p, 1476484411.0, 187
+640, [@BernieSanders: "I heard what @SpeakerRyan said: If the GOP loses the Senate, I'll be the Budget chairman. Sounds like a good idea."], 58by5u, 1476930992.0, 184
+641, [I do not believe the greatest country on Earth should have one of the highest rates of childhood poverty of any major country. Bernie Sanders on Twitter], 4w867c, 1470391935.0, 184
+642, [The Obama Administration Has Brokered More Weapons Sales Than Any Other Administration Since World War II], 4uzvbl, 1469727254.0, 186
+643, [Hes back...Bernie Sanders to rally in L.A., S.F. for drug measure], 571vj1, 1476267714.0, 186
+644, [Importance of Boston City Council Supporting Single Payer Health Care Reform: "The resolution calls upon the state legislature in the upcoming 2017- 2018 legislative session to propose and pass a measure to achieve a single payer system in the Commonwealth."], 4zdipd, 1472085967.0, 184
+645, [People For Bernie on Twitter: Wednesday night, we show the world Democratic Socialism is here to stay: http://map.berniesanders.com #OurRevolution], 4yxunz, 1471852627.0, 181
+646, [Income inequality happens by design. We can't fix it by tweaking capitalism], 4yvc3q, 1471821622.0, 186
+647, [WTF?! Bill Clinton Angry That Young People Don't Like Hillary: Says Millennials Are To Blame For Country's Problems], 4ttovk, 1469081588.0, 184
+648, [Clinton Democrats Claim To Support Health Care As A Right, But Oppose Universal Healthcare In Platform: "The amendment was defeated by Democrats appointed to the committee by Democratic presidential candidate Hillary Clinton..."], 4qliq3, 1467320252.0, 184
+649, [Defecting Democrats, Trump and bitterness: Why Jill Stein just might turn November upside down], 4pyt13, 1466991813.0, 188
+650, [Berniecrat running to defeat Hillary superdelegate Nydia Velazquez in NY-7], 4pav1p, 1466633794.0, 186
+651, [National Nurses United - Petition Calling on Democratic Party to include "MEDICARE FOR ALL" in 2016 DNC Platform], 4oetx9, 1466130317.0, 186
+652, [Zephyr Teachout on Twitter | Our campaign volunteers have knocked on 20,182 doors. We've got 50,000 more to reach in the next 3 1/2 weeks! Join: http://www.zephyrteachoutforcongress.com], 57g8tu, 1476479175.0, 185
+653, [We can't have a revolution until we take down the corporate media.], 4o139b, 1465935088.0, 184
+654, [Tim Canova on Facebook | "South Florida: you vote on August 30. Let's make sure we defeat the failed and ineffective leadership of DNC Chair Rep. Debbie Wasserman Schultz."], 4nwsd0, 1465868513.0, 183
+655, ['I Was Doing My Job': Climate Reporter Facing 45 Years Speaks Out], 587qp6, 1476869797.0, 179
+656, [Over 200 Groups Demand EPA Revise Dangerously Flawed Fracking Study], 54mmuy, 1474949488.0, 185
+657, [Sanders was speaking truth to power and gaining popularity. The corporate media had to give Sanders coverage. But in the end, corporatism overcame the Sanders challenge.], 50h2f3, 1472677463.0, 184
+658, [Message from Tim Canova | We did it! I want you to be the first to know tonight that weve successfully hit our $50,000 fundraising goal from the grassroots, which will allow our campaign to ramp up our television ads and support our volunteers and staff on the ground here in South Florida.], 4yy91u, 1471858670.0, 185
+659, [Robert Reich Takes on the Trans-Pacific Partnership], 4ycfak, 1471557765.0, 179
+660, [DNC Panics As Jill Stein Fundraising Skyrockets 999% After Bernie Endorsed Hillary], 4stcly, 1468533125.0, 184
+661, [Bernie Sanders Fundraises For Russ Feingold], 4p00el, 1466473914.0, 180
+662, [Edward Snowden: why Barack Obama should grant me a pardon | US news], 52k37g, 1473797135.0, 180
+663, [Viggo Mortensen Goes Green: I Trust Hillary About as Much as I Trust Donald Trump], 4t7eh7, 1468745671.0, 185
+664, [Zephyr Teachout is doing an AMA in /r/politics!], 56soh7, 1476143979.0, 180
+665, [Joe Biden Says Chances of Congress Passing the TPP Are Slim], 53ztyv, 1474590860.0, 178
+666, [Democratic lawmaker urges Sanders supporters to primary conservadems + take over the party; also posits creation of a hybrid third party], 4zu06h, 1472329351.0, 182
+667, [Environmental groups push back against the TPP], 4teq5s, 1468870140.0, 179
+668, [Nina Turner on Twitter | "Thanks for a great interview. More importantly, thanks for telling the stories of #DisappearingMiddleClass!"], 5607nj, 1475712250.0, 179
+669, [Bernie needs our input to carry this movement forward! Please fill out this volunteer survey.], 4olthl, 1466231935.0, 176
+670, [Bernie Sanders to stump for California drug pricing law], 57gf4x, 1476481581.0, 178
+671, [Down here in Florida's 23rd Congressional district, DWS is playing dirty. We need your help! Details inside], 4z1h5j, 1471913520.0, 177
+672, [@OurPoliticalRev: "With Bernie's new organization, we're going to get at least 100 new candidates elected into office. This is what the Political Revolution looks like."], 4sz5nh, 1468619300.0, 179
+673, [AMA Fraud and collusion class-action suit against the DNC and its Chairperson Debbie Wasserman Schultz, on behalf of Democrats, DNC donors, and Bernie Sanders donors (the Wilding case)], 4rinva, 1467843242.0, 177
+674, [People For Bernie on Twitter: "BREAKING: @BernieSanders endorsed candidate @ZephyrTeachout is the projected winner of the #NY19 primary! https://t.co/dxbLBBFZRo"], 4qd85l, 1467195642.0, 183
+675, [Stanford Study Adds To Election Fraud Scandal While Media Falls Flat], 4or19e, 1466323970.0, 178
+676, [Bernie Sanders on Twitter | Seniors and disabled veterans need more help than a few extra dollars in their monthly checks. We must expand Social Security.], 583q21, 1476825490.0, 178
+677, [Clinton super delegates up for replacement by Bernie'cratts], 502xqh, 1472468326.0, 177
+678, [@Tim_Canova on Twitter: The federal government should not be making more than $30 billion a year off the backs of students. This is absurd.], 4zp7hh, 1472254665.0, 178
+679, [Bernie Sanders Wins the Future with Our Revolution Book and Movement], 4z6qbl, 1471991419.0, 180
+680, [I Made 14 Calls for Tim Canova today The Results are Great Because the People in Florida district 23 Are Great! Here are my results.....], 4y9dsz, 1471511264.0, 178
+681, [The problem with mainstream media: 6 companies own 1500 news stations, 1100 magazines, 9000 radio stations, and 2400 publishers. This video shows just how scripted these stations are.], 4x6gi2, 1470921489.0, 178
+682, [The Koch Brothers Sneak Into School - "The Kochs not only pay for laws to be written and passed, they now pay for them to be legitimated in the school curriculum as well."], 4wo4fv, 1470653722.0, 182
+683, [Sanders campaign chair: Bernie wants fresh thinking on Israel-Palestinian conflict], 4uv79l, 1469662305.0, 179
+684, [Mark Ruffalo on Twitter | Okay everyone. Now let's GOTV on our down ticket folks who will make the biggest difference. Smash! Go @ZephyrTeachout], 56mv60, 1476058594.0, 179
+685, [This is your LAST REMINDER, folks. There is WAY MORE than Trump & Clinton on the ballot. 9 states are voting on weed. A few are voting on raising the min. wage. CO is voting on single payer healthcare. Many registration deadlines begin NEXT WEEK. Get registered NOW. Then register 5 friends as well.], 56ht3r, 1475974277.0, 176
+686, [Bernie Sanders releases statement opposing Dakota Access Pipeline], 4zmtur, 1472214548.0, 179
+687, [That one time Bernie Sanders took on Walmart: Walmart pays minimum wage, cuts employee hours, doesnt offer benefits and is the epitome of the user/exploit model of administration found far too often in business,], 4wtev2, 1470730762.0, 178
+688, [Admin:Please pin this. Urgent! Just got word from Sanders campaign that we need people in NH. And I mean A Whole MASS of people.], 4segsr, 1468315575.0, 181
+689, [Bernie Sanders real campaign is just getting startedcommentary], 4qaggr, 1467161757.0, 174
+690, [DNC Platform Co-Chair Embroiled in Major Ethics Scandal], 4q22r3, 1467039674.0, 176
+691, [Million Person March], 4ne21f, 1465551074.0, 175
+692, [The Largest Prison Strike in U.S. History Enters Its Second Week], 5320kr, 1474063163.0, 176
+693, [Jill Stein: Public Banks and the Post Office], 4qxd49, 1467497601.0, 177
+694, [How Therapy Became A Hobby Of The Wealthy, Out Of Reach For Those In Need: "This wouldn't happen in places that have single-payer health systems..."], 4qscej, 1467416064.0, 178
+695, [Sean Braddy, a Berniecrat, needs some support in OK], 4pduct, 1466668941.0, 176
+696, [A Close Election Could Expose Risky Electronic Voting Machines - Voters in 15 states, including several battlegrounds, will use systems that lack an important safeguard against software errors and tampering.], 5581tc, 1475273172.0, 176
+697, [Why We Need More Access to Bureaucrats Emails, Not Less: The Freedom of Information Act is crucial for government accountability.], 51nd3q, 1473308779.0, 177
+698, [Fire Debbie Wasserman Schultz], 4ziqyx, 1472164053.0, 179
+699, [EpiPens save lives, and yet these greedy pharmaceutical companies are hiking the prices up anyways. Their selfishness has no limitations | Our Revolution], 4yk0y4, 1471654657.0, 174
+700, [Incredibly, there are more than 2,300 registered events for the launch of Our Revolution on August 24th!], 4yetmd, 1471583571.0, 176
+701, [Zephyr Teachout aims to keep Bernie Sanders vision alive in Woodstock | US news], 4y893l, 1471497755.0, 174
+702, [Vietnam delays TPP vote], 53dkp1, 1474254016.0, 176
+703, [@ZephyrTeachout | "We have only 6 days until what is likely to be a low-turnout primary. Every single vote counts! Please volunteer today for this weekend."], 4pc7c4, 1466648775.0, 174
+704, [Green Party candidate vows to keep fighting Sanders 'revolution'], 4nmejx, 1465696100.0, 174
+705, [Deadline August 1st: To vote against Debbie Wasserman-Shultz in Florida, you must be registered Democrat by August 1st!], 4v2q9n, 1469765600.0, 173
+706, [Georgia senate seat could be in play - Bernie democrat running for Senate], 4tuph7, 1469095707.0, 174
+707, [Xavier Prez on Twitter: "We want to recognize a person who has inspired an entire nation" followed by a standing ovation for @BernieSanders. #NoBillNoBreak], 4pda8z, 1466661592.0, 172
+708, [Our Revolution on Twitter | Voting shouldn't about choosing a "lesser of two evils." Ranked choice voting, like Maine's #Yeson5, gives power back to the voters.], 575mg8, 1476325350.0, 173
+709, [Baltimores $15 Minimum Wage Proposal Up For Final Vote Next Week], 4xpyqj, 1471235968.0, 168
+710, [The Sanders Movement Is Only Just Beginning], 4x1i55, 1470853920.0, 167
+711, [Sanders Will Campaign for Dems, But Won't Give Party Coveted Email List], 506sbb, 1472527372.0, 171
+712, [So It Turns Out Things CAN Get Even Worse for Ex-DNC Chair Debbie Wasserman Schultz], 4vzczf, 1470270461.0, 170
+713, [Bernie Sanders Pens A Searing New York Times Op-Ed Calling On The Democratic Party To Wake Up], 4qi3ju, 1467265102.0, 167
+714, [Bernie Sanders on Twitter | Its time for Congress to stand up to the pharmaceutical industry. We need senators like @DeborahRossNC who will fight for working families.], 58azag, 1476920940.0, 168
+715, [Marijuana legalization is leading in every state where its on the ballot this November], 560d01, 1475713928.0, 164
+716, [Nonprofit group targets Wasserman Schultz over payday lenders], 4zjmrz, 1472174105.0, 169
+717, [VIDEO=> Wasserman Schultz Sued By Opponent Tim Canova for Illegal Use of DNC Resources], 4yfta5, 1471595331.0, 165
+718, [Beyond a Protest Party: What Will It Take for the Green Party to Start Winning?], 4xdo80, 1471039420.0, 166
+719, [Green Party's Jill Stein on Tax-Free Student Loan Bailout], 4rubeo, 1468008026.0, 167
+720, ['Relentless' Ilhan Omar sealed historic win in Minnesota legislative battle against 44-year incumbent], 4x86qa, 1470953670.0, 167
+721, [Don't #DemExit until AFTER your state's primaries are done], 4uv1sr, 1469660565.0, 166
+722, [Join us at /r/FeingoldForSenate: Russ Feingold voted against the Iraq War and the PATRIOT Act. He also supports universal health care and co-authored the Bipartisan Campaign Reform Act of 2002.], 4p03vn, 1466475016.0, 166
+723, [Tim Canova Battling Voter Suppression in Florida - Callers Told Not to Vote in August], 4z2yq9, 1471930999.0, 168
+724, [We have had NO CALLS on grassrootspb today. Let me repeat that: NO CALLS. If we want a political revolution, we have to make it ourselves starting at the grassroots level! PHONEBANK for Tim Canova and help get DWS out of Congress!], 4wy2hr, 1470800472.0, 165
+725, ["Marijuana doesn't kill people; corrupt crooks on Wall Street that drive the country into a recession kill people. It is appalling that owning a bag of weed is enough reason to throw thousands of kids in jail each year, but CEOs can defraud the entire nation without any punishment."], 4wtoyu, 1470735640.0, 164
+726, [Bernie Sanders: We Need A Third Party], 4tavd9, 1468809094.0, 166
+727, [#DebbieDodgesDebate], 4s7y5a, 1468221493.0, 163
+728, [Update: Dakota Access Pipeline Standoff Escalates], 59qq0r, 1477633391.0, 162
+729, [#PivottoDebbie: No, not that one - Debbie Medina is a democratic socialist candidate running for state senate in NY.], 4vho7v, 1470009881.0, 165
+730, [Showing up = Power. Your local Democratic club, district rep, and school board are powerful and easy to win.], 4vfzcp, 1469974916.0, 167
+731, ["Bernie lit the flame  now we'll hold their feet to the fire"], 4v7smw, 1469842637.0, 165
+732, [Anyone interested in starting Jill Stein rallies across the country?], 4uv9z3, 1469663192.0, 162
+733, [Minneapolis $15 minimum wage petition has enough signatures for November ballot], 4tt3hf, 1469074162.0, 163
+734, [@JaneKim | "#EveryVoteCounts! Updated election results released today- we're officially in lead + up 373 votes in race for State Senate D11! #runjanerun"], 4p1vwp, 1466497634.0, 162
+735, [Tim Canova on Twitter: "If I was in Congress, I'd sign the discharge petition and vote for an assault weapons ban. The horror in Orlando cries out for action!"], 4nxwzr, 1465881722.0, 164
+736, [Legalize Recreational Weed Use in California! Vote Yes on Prop 64!], 51cpwu, 1473153225.0, 162
+737, [We witnessed what happens when people don't show up to vote: we lose. We can organize all we want, but unless we get people registered and to the polls, it's all for nothing. 31 states + DC offer online voter registration (link inside). Share these links and make sure everyone you know can vote!], 50o0rr, 1472775605.0, 162
+738, [Sanders Donors Deserve Retribution in The Form of a Class Action Suit Against The DNC], 4u60kd, 1469264776.0, 166
+739, ['Is That Not Genocide?' Pipeline Co. Bulldozing Burial Sites Prompts Emergency Motion], 51byqr, 1473143085.0, 162
+740, [I'm making 100 calls for Tim Canova this week. Who's gonna match me?], 4xra71, 1471254264.0, 161
+741, [One of the greatest accomplishments that /r/SandersForPresident ever made was raising over ten million dollars for Bernie 2016. Now, it's time to support Our Revolution. Please make a contribution today using this referral link, and let's keep track of how much /r/Political_Revolution can raise!], 4w0tk9, 1470286738.0, 164
+742, [Discrediting the Democratic Party is how Progessivism can triumph over Neoliberalism-Neoconservatism.], 4neyaf, 1465566457.0, 163
+743, [President or not, Sanders is already the leader of the USA.], 52phlp, 1473869605.0, 160
+744, [The Our Revolution Launch is TONIGHT! Details on how to attend or host a launch party is inside!!!], 4zcc9w, 1472070920.0, 162
+745, [Bernie bucks keep pouring in for Wasserman Schultz rival Canova], 4x49nu, 1470890206.0, 158
+746, [A Republican Super PAC has been following Zephyr Teachout around with cameras wherever she goes. Here's what they found.], 5a1orl, 1477792787.0, 161
+747, [Mother Jones would probably throw up if she read Mother Jones attacks on Bernie Sanders young supporters], 53q8dy, 1474441913.0, 162
+748, [Bernie Sanders on Twitter: "It speaks to the best of who we are as Americans that in a moment of crisis, the people of our nation came together."], 52apj5, 1473656967.0, 155
+749, [An often ignored election can help us build the revolution...your local board of education], 50gysc, 1472676028.0, 161
+750, [Susan Sarandon on Twitter: "Listen up South Florida! Its time to say no to corruption & DWS and yes to a true progressive, @Tim_Canova."], 4zivp3, 1472165618.0, 159
+751, [Can Bernie Sanders Defeat Debbie Wasserman Schultz?], 4x1xor, 1470861902.0, 158
+752, [Our nations infrastructure is collapsing, and the American people know it. Today, the U.S. spends less than 2 percent of GDP on infrastructure. A $1 trillion investment in infrastructure could create 13 million decent paying jobs. We need to invest in infrastructure, not more war.], 4wxe6p, 1470792717.0, 161
+753, [On August 24th, 2016, Our Revolution will launch with a big Organizing Kickoff to get to work fighting for the political revolutionthrough November and beyond. Bernie will speak via livestream at 9 ET / 6 PT and lay out the path forward for our movement.], 4whkfq, 1470543527.0, 161
+754, [Friends: Our Revolution is looking for a creative graphic designer who wants to make art that changes the world. Based in Washington, D.C. and hiring ASAP.], 4vz3zp, 1470267535.0, 158
+755, [Debbie Wasserman Schultz Out As Democratic Convention Chair After Email Leak], 4ueer1, 1469414692.0, 158
+756, [Sign up to help count the ballots in California! ALL COUNTIES NEEDED!], 4o0eot, 1465920410.0, 161
+757, [Sen. Bernie Sanders to stump for Amendment 69 (ColoradoCare) in Boulder, Colorado on Monday (10/17)!], 57k0r7, 1476525618.0, 155
+758, [Never forget. We won't lose sight of his vision.], 4yxmui, 1471849323.0, 161
+759, [Dr. Jill Stein Responds to Anti-Vax Smears], 4thj0o, 1468906496.0, 157
+760, [Kshama Sawant: Why Im Petitioning Bernie to Run Independent], 4r3rlt, 1467608063.0, 158
+761, [Poll: Most Americans want to replace Obamacare with single-payer  including many Republicans], 4ncjon, 1465530269.0, 159
+762, [Money pours in for North Dakota pipeline protest], 5ad359, 1477958631.0, 165
+763, [ Zephyr Teachout on Twitter: "Three days until the June 28th Primary! Remember that the polls are open 12 to 9. Get it on your calendar and all your friends calendars!"], 4psrno, 1466894663.0, 156
+764, [Ben & Jerry just made a video endorsing Tim Canova and it is amazing.], 4oeubr, 1466130451.0, 156
+765, [Hi! Im Eric Kingson. I am running for New York's 24th Congressional District, and Bernie has endorsed my campaign. Ask Me Anything!  x-post /r/SandersForPresident], 4nwsh6, 1465868555.0, 155
+766, [Tulsi Gabbard for Congress | SIGN THIS PETITION! Call on President Obama to end the counterproductive regime change war in Syria.], 57rcmg, 1476652347.0, 159
+767, [I'm Zephyr Teachout, Bernie-endorsed candidate for Congress in one of the tightest races in the country. AMA!  /r/politics], 56sv69, 1476145991.0, 154
+768, [Vote to have a question about Ranked-Choice Voting in the next debate!], 54r9os, 1475020953.0, 153
+769, [Sanders Statement on Push to Pass Pacific Trade Pact], 4xeuuz, 1471053431.0, 154
+770, [Bernie Sanders' New Organization, "Our Revolution" Live-Stream Wednesday, August 24 @ 9pmEST (unofficial logo)], 4xbmxv, 1471001714.0, 152
+771, [Pennsylvania Pipelines Bursts, Leaks 55,000 Gallons Of Gas Into One Of USA's Most Endangered Rivers], 59cgr7, 1477446800.0, 156
+772, [Grassroots Democrats Are Making the TPP a Big Issue in Congressional Races], 4wsdu2, 1470717832.0, 157
+773, ["It is absurd that regular Americans get thrown in jail for nonviolent drug possession, while Wall Street executives are allowed to defraud an entire country and walk away scot-free." - Bernie Sanders], 4wt3gp, 1470726674.0, 153
+774, [Millennial Sanders Activists Give New Energy to Southern Organizing], 4vyhjz, 1470259875.0, 154
+775, [Draft Nina Turner to take Debbie Wasserman Schultz DNC Speaking Slot], 4udju6, 1469402880.0, 153
+776, [A SECOND Stanford Study Shows Election Fraud!], 4s6zkr, 1468208222.0, 152
+777, [Faced with Trump and Clinton, Americans yearn for third choice: Reuters/Ipsos], 4rwzif, 1468041247.0, 154
+778, [Sanders tweet causes drug company to lose $400M in a day], 57j7sv, 1476514009.0, 150
+779, [Zephyr Teachout - Live from the rally with Bernie Sanders!], 532ewf, 1474068188.0, 153
+780, [Shake up at the DNC: CEO and top staffers resign], 4vuaut, 1470194794.0, 155
+781, [NH poll: Dem challenger pulls ahead of Ayotte], 58kegk, 1477038466.0, 152
+782, [Bernie Sanders on Twitter: "We have a debt that we owe the Native American people that we can never fully repay."], 52fgx3, 1473729579.0, 153
+783, [Pipeline protests work: After delays, Sandpiper Pipeline goes under with cheap oil prices], 51a3wj, 1473120677.0, 154
+784, [The r/Tulsi team has set up a new twitter account @GrassrootsTulsi to use in grassroots organizing and promotion of Congresswoman Tulsi Gabbard.  Crosspost: /r/tulsi], 4ux081, 1469682802.0, 150
+785, [Hours Before Hillary Clinton's VP Decision, Likely Pick Tim Kaine Praises the TPP], 4tzru7, 1469171103.0, 148
+786, [Tulsi Gabbard launches petition to end Democratic Party superdelegate process], 4no2qx, 1465720840.0, 151
+787, [Bernie Sanders to Boulder residents: 'Stand tall and vote yes on Amendment 69' (ColoradoCare)], 581ocs, 1476789349.0, 150
+788, [Is The Political Revolution being co-opted by The Democratic Party?], 4vuktn, 1470197807.0, 146
+789, [Hey guys, I'm a Field Organizer for the Canova Campaign. With all the news about DWS today, it is the perfect opportunity to be calling voters in FL-23 and letting them know why Tim Canova should be their next representative in Congress. Please hop on the phones and help us win here on August 30.], 4ufsah, 1469433572.0, 149
+790, [Bernie Sanders to Campaign Against Debbie Wasserman Schultz], 4tttz5, 1469083417.0, 152
+791, [Friends: Check your email! Bernie is doing a fundraiser to pay the flights/accommodation for his delegates trying to get to Philly. I'm down for another money bomb to help these people.], 4qbqi3, 1467176059.0, 152
+792, [Tell the DNC: Gov. Malloy must stand up for working families -- or resign from the Platform Committee], 4oqck6, 1466313387.0, 150
+793, [Hi r/Political_Revolution! I am Tom Wakely. A progressive Texan looking to unseat Lamar Smith (R) in TX's 21st Congressional District. AMA!], 58jd5j, 1477026189.0, 152
+794, [Make Sure You're Informed!! Our Revolution has a list of important Ballot Initiatives for All 50 States; Read up on your state *NOW* so when you get to the booth, you know what to vote for!! Ballot Items are how change is enacted or stopped; take charge of YOUR VOTE today!!], 56gtwq, 1475960130.0, 148
+795, [The fight for Universal Healthcare in Colorado needs your help! Calling for people to do phonebanking this weekend. Info inside.], 565yav, 1475796739.0, 153
+796, [Tim Canova camp cites new poll that shows him within striking distance  of Debbie Wasserman Schultz], 4vidjj, 1470019357.0, 148
+797, [Gary Johnson: I would sign the TPP], 4ukavm, 1469502134.0, 149
+798, [Wikileaks teasing something leading up to DNC convention.], 4tvzr0, 1469118189.0, 145
+799, [Petition: Allow 3rd Party Candidates into General Election Debates], 4ncfwi, 1465528970.0, 148
+800, [Nothing will change without electoral reform...], 4uukgv, 1469654502.0, 151
+801, [Bernie Sanders on Twitter: "We need trade policies that benefit American workers, not just corporate CEOs. Democrats must do all they can to defeat the TPP. #StopTPP"], 4qlqvr, 1467323263.0, 146
+802, [Wikileaks Mega Thread 2.0 - Podesta E-mails], 57zp1w, 1476765568.0, 145
+803, [Sanders in '93: If we're going to ask American auto workers, dairy farmers and truck drivers to be competitive with their counterparts in Mexico, Mr Speaker, the salaries of the US Congress should be competitive with the Mexican Congress], 53wptd, 1474537897.0, 146
+804, [Any Florida residents here? You know what's probably just as important, if not more important, than the primary between Wasserman-Schultz and Canova? Amendment 4. Vote yes on that thing, and tell all your friends and family to do the same.], 50c5h7, 1472605128.0, 149
+805, ["August 24th - Our First Big Event" - Bernie Sanders], 4yclir, 1471559773.0, 151
+806, [Sanders Fundraises for DWS Primary Challenger], 4x0gym, 1470832672.0, 145
+807, [He gave us a message, and a blueprint to get us there. Don't fuck it up, push progressives into office, ESPECIALLY CONGRESS, and the Bernie platform we want will be written by the man himself.], 4var1n, 1469884333.0, 146
+808, [Green Party's Stein takes message to Manchester, seeks disaffected Sanders supporters], 4t9xvu, 1468796124.0, 147
+809, [Amendments Proposal in CA for truly open primaries.], 4nh2t1, 1465604454.0, 147
+810, [Tulsi Gabbard on Twitter: "Im proud to endorse @ZephyrTeachout. She will stand up when it counts."], 58xxrh, 1477245350.0, 148
+811, [Simple List of Berniecrats for CT, WI, MN, VT Pimaries THIS TUESDAY, August 9], 4wrcne, 1470706432.0, 146
+812, [Debbie Wasserman Schultz Gets Last-Minute Help from Super PAC in Primary Race], 4wbt4l, 1470449912.0, 145
+813, [What You DIDNT See At The DNC: Bernies Movement Stronger Than Ever], 4was9o, 1470437821.0, 150
+814, [Pramila Jayapal has won the primary for Washington's 7th district and will move on to the general election. The revolution continues!], 4vwzeg, 1470231518.0, 147
+815, [WA, MO, and MI State Primary Election Mega Thread!], 4vshop, 1470174245.0, 148
+816, [The host committee for the Democratic National Convention wants to keep its donor list under wraps until after the convention even though a state open records agency has ordered its release.], 4tzrxb, 1469171131.0, 148
+817, [More Sanders voters say they will choose 'other,' or not vote, than back Clinton], 4t788c, 1468742891.0, 146
+818, [Tim Canova's "Progress For All" Pac is pushing for open primaries, non partisan elections, election integrity, and more for Florida via 2018 ballot measures], 59snmr, 1477657980.0, 147
+819, [New poll: Russ Feingold pulling away from challenger in WI Senate race, now up by 6 points.], 55rjrv, 1475579223.0, 147
+820, [Voting 3rd party is NOT a wasted vote, ESPECIALLY if you're not in a swing state!], 4q4rtx, 1467079875.0, 144
+821, [Debbie Wasserman Schultz agrees to debate Tim Canova this Sunday morning], 4x48za, 1470889978.0, 143
+822, [The political and economic elites think we're going to pack our bags and give up on the political revolution. Prove them wrong.], 4ws1sq, 1470714011.0, 147
+823, [Tim Canova Discusses Florida Primary Against Debbie Wasserman Schultz], 4vw6jm, 1470218512.0, 146
+824, [Want to replace the ACA with Single Payer? Donate funds to Coloradocare!], 4vn2lk, 1470094456.0, 141
+825, [Mark my words: Tulsi Gabbard will be a future U.S. president.], 4uowz3, 1469572465.0, 146
+826, [Pro-Fracking, Pro-Colonialism, Anti-Single Payer: The Democrats Platform Sucks], 4stinm, 1468535233.0, 145
+827, [Sanders to push a plan to ban private companies from running prisons - The Washington Post], 4qhrm8, 1467261292.0, 145
+828, ["Thank You for Taking the First Step" - Bernie Sanders], 4ol6it, 1466223622.0, 144
+829, [Adam H. Johnson on Twitter: "Comcast funded website promotes Comcast funded show promoting legislation lobbied for by Comcast https://t.co/sXM5MONFhm"], 4nivck, 1465627389.0, 144
+830, [Bernie Progressive Running Against Corporate Smear Machine In Ohio], 56w87d, 1476186416.0, 144
+831, [The entire Seattle Seahawks team will protest the national anthem at opening game], 51sbn3, 1473382864.0, 141
+832, [Lines are open to PHONEBANK for Tim Canova. You smashed the daily call target yesterday with 1.7k calls on GrassrootsPB. Only 10 calls and you can make a difference - CALL NOW -], 4zzz2q, 1472428791.0, 143
+833, [Democratic Pundits Downplay Serious Ethical Issues Raised by the Clinton Foundation], 4zrsjm, 1472286630.0, 140
+834, [Political Revolution on Twitter: "Congratulations @Tim_Canova! This endorsement is well earned. We must never give up the fight for a better future. https://t.co/t60ZF8kXz6"], 4rj9rs, 1467850679.0, 146
+835, [Why Jill Stein just might turn November upside down], 4ppoaw, 1466837101.0, 142
+836, [Bernie Sanders Urges Unions To Stand Up And Use Their Power To Crush The Koch Brothers], 5075a8, 1472531449.0, 141
+837, [8 Terrible Things About the Trans-Pacific Partnership], 4vgps6, 1469993310.0, 142
+838, [You Can Have Your Weak Nominee If You Wish  the Sanders Endorsement Backfires on Hillary Clinton, Empowers Sanders in One Masterstroke], 4thlyd, 1468907600.0, 143
+839, [How to Steal an Election], 4q9g8g, 1467149766.0, 139
+840, [My opponent Faso, along w/ his big donor Robert Mercer, is still Trump-putting party over principle & decency. #ny19], 56rmio, 1476129921.0, 142
+841, [Colorado voters will decide this November if they want a Presidential primary as opposed to a caucus and if primaries should be open to voters unaffiliated with a major party.], 51fuqa, 1473205694.0, 142
+842, [One Of The Most Reviled Prosecutors In Florida Just Got Kicked Out Of Office], 50rlq0, 1472821242.0, 138
+843, [AZ and FL State Primary Election Mega Thread], 50b2q4, 1472592036.0, 141
+844, [The ACLU has a new batch of pocket constitutions that they are giving away for free!], 4y6igp, 1471479528.0, 142
+845, [Bernie Sanders Just Made Jill Stein The Most Powerful Woman In American Politics], 4smvrh, 1468441563.0, 143
+846, [Seattle Socialist Kshama Sawant: Beyond Bernie - Still Not With Her], 4shvok, 1468369554.0, 142
+847, [New Poll - Feingold [WI] leads Senate race by 9% among likely voters], 4oaffp, 1466062984.0, 140
+848, ["It is factually incorrect that we cannot afford tuition-free higher education"], 55aoy4, 1475306793.0, 137
+849, [Meet the Democratic Socialist Whos Running for New York State Senate], 510sl0, 1472965477.0, 141
+850, [Russ Feingold calls for making internet a utility], 50uy2e, 1472872473.0, 140
+851, [Economists Say We Should Tax The Rich At 90 Percent], 4t61yi, 1468726144.0, 140
+852, [If Donald Trump wins the presidency, would you support Tulsi Gabbard for a 2020 presidential bid?], 4nf46c, 1465569940.0, 140
+853, [Sanders, Dem Senators Press Obama to Halt ND Pipeline], 57aied, 1476397563.0, 141
+854, [Senators Call For Global Super Court To Be Removed From TPP], 5540xc, 1475206923.0, 142
+855, [MCSO Joe Arpaio ("America's Toughest Sheriff") just beat 3 other candidates in the AZ GOP Primary for Maricopa County Sheriff and will face Democratic challenger Paul Penzone in the Election. Will you please help him UNSEAT Joe by DONATING him and VOTE for him if you live in AZ?], 50ffxn, 1472646933.0, 141
+856, [When this post is ten hours old, Our Revolution's launch-party will have officially begun. Click here to watch the live stream!], 4zd0fa, 1472079830.0, 138
+857, [Political Revolution on Twitter | Whether you are a Bernie Sanders, Hillary Clinton, or Jill Stein supporter, if you support progressives, #OurRevolution is for you.], 4ww94q, 1470779220.0, 139
+858, [Help Tim Canova Beat Debbie Wasserman Schultz! | Phone bank today and let's send the establishment home!], 4nvdfv, 1465849577.0, 141
+859, [Socialists build $15/Now! ballot initiative in Minneapolis], 4nnud7, 1465717064.0, 139
+860, [Robert Reich on FB: It's not just the presidential race we need to be thinking about. Democrats have a solid chance of taking back the Senate -- which is critically important.], 59hb4b, 1477514797.0, 140
+861, [Teachout claims lead five-point lead over Faso in new poll], 571zyg, 1476269450.0, 139
+862, ['Be Afraid': Largest Corporations Wealthier Than Most Countries], 52f9gf, 1473727199.0, 140
+863, ["It was true in 2003 and it's true now. Giving tax breaks to billionaires and shipping manufacturing jobs out of the country is destroying the middle class." (feat. Bernie Sanders and Alan Greenspan) | Our Revolution], 4yckia, 1471559450.0, 137
+864, [The Billionaire Class is Terrified that Russ Feingold will Return to the Senate], 59w6kz, 1477709249.0, 135
+865, [Bernie Sanders is writing a book entitled "Our Revolution"!], 51u71f, 1473404528.0, 137
+866, [Jane O'Meara Sanders on Twitter: @cenkuygur combatting misinformation, being positive as always! @TheYoungTurks: Have Some Faith in Bernie Sanders], 5010n7, 1472442000.0, 136
+867, [One Year of a Coal CEO's Salary Could Transition US Coal Miners to Work in Solar Industry], 4y2hpc, 1471418243.0, 133
+868, [Tired of Waiting for Corporate High-Speed Internet, Minnesota Farm Towns Build Their Own], 4wome5, 1470662721.0, 136
+869, [Our Revolution on Twitter | Oscar Lopez Rivera has served 34 years in prison for his commitment to Puerto Rico's independence. President Obama, it's time to let him out.], 56mf33, 1476052539.0, 136
+870, [Paul Penzone leading ahead of Joe Arpaio by 9 POINTS!!! Arizonans, please take down Arpaio for good by voting for Penzone for Maricopa County Sheriff!], 535vxq, 1474116382.0, 135
+871, [Want A Candidate who Can Win? Zephyr Teachout is The Progressive Who Can Win!], 50rt4x, 1472824858.0, 133
+872, [Why the New Sanders Group Our Revolution Is Leaving Many Bernie Backers Scratching Their Heads], 50nrxc, 1472772825.0, 132
+873, [Progressive Ohio Candidate Crashes Press Conference While He's Being Smeared], 50h9vb, 1472680269.0, 138
+874, [BREAKING: CBS News Finally Admits Election Could Be Rigged Easily], 4zqba4, 1472267597.0, 135
+875, [Outside CBS 4 in Miami this morning before the Canova/DWS debate], 4xny67, 1471207394.0, 134
+876, [To Stop Climate Change, Dont Just Cut Carbon. Redistribute Wealth.], 4xcivv, 1471018782.0, 137
+877, [Jill Stein: The Two-Party System Is Broken], 4uyjd8, 1469703268.0, 138
+878, [The Democrats Ignore the 500-Pound Lobbyist in the Room], 4rvdru, 1468022620.0, 139
+879, [Donate to help CO pass Single Payer Healthcare!!], 4ol5yv, 1466223434.0, 136
+880, [VA is short on Bernie delegates to the state convention this Saturday 6/18 : SandersForPresident], 4o809z, 1466035012.0, 139
+881, [ICYMI May 2015 - Bernie Sanders really matters: He doesn't have to win to build a progressive movement], 57xx1i, 1476746990.0, 132
+882, [Our Revolution on Twitter: Our Revolution stands with our board member Shailene Woodley following her arrest today at Standing Rock. #NoDAPL #IndigenousPeoplesDay], 56tn7t, 1476154296.0, 135
+883, [All politics are local. The revolution must play the long-game. Let's start taking back our local offices-- city councils, school boards, county positions, and make our way up.], 50kdye, 1472717448.0, 133
+884, [8 Terrible Things About the Trans-Pacific Partnership Its no wonder the Obama administration tried to keep this secretthe corporate-friendly trade agreement, decoded. inthesetimes.com/article/18695/TPP_Free-Trade_Globalization_Obama], 4xl6nq, 1471153719.0, 133
+885, [Sites like Salon.com and Slate.com are not fighting for the Political Revolution], 4wlqeh, 1470619405.0, 135
+886, [Pope Francis urges the young to abandon gadgets for life of activism], 4vgix7, 1469988646.0, 135
+887, [DWS asks for Tim Canova's name to be removed from CNN headline.], 4ug9u7, 1469441030.0, 136
+888, [I'm Jay Williams, Candidate for United States Senate in South Dakota. AMA], 4tfgac, 1468881106.0, 137
+889, [Thousands to Flood Philly for DNC Protests, Marches], 4nlv06, 1465688304.0, 136
+890, [Bernie Sanders Trying to Kill AT&T's Purchase of Time Warner - [4:00]], 5a8bks, 1477890673.0, 134
+891, [Each year, there are more than 35,000 low-income high school seniors that score in the 90th percentile on the ACT or SAT but never make it to college.], 4vpy4v, 1470129289.0, 134
+892, [Please phone bank for Bernie-endorsed candidate Pramila Jayapal! Her primary is less than a month away!], 4rfh5v, 1467789191.0, 137
+893, [Deeply Moving Message from Bernie Sanders], 4r0e09, 1467544551.0, 132
+894, [Star Progressive Pramila Jayapal on Why the Political Left Needs More Activists], 54mubg, 1474951815.0, 132
+895, [Why is Jill Stein not listed in the "Related Candidate Subreddits"?], 4svq0d, 1468560447.0, 133
+896, [Dr. Jill Stein Interview With The Young Turks' Cenk Uygur], 4nl3xq, 1465674620.0, 133
+897, [Corporate Executives Are Making Way More Money Than Anybody Reports: 950 times worker wages and NOT 375 times worker wages :)], 54yw3l, 1475128510.0, 133
+898, [Our Revolution Full Website has Been Launched], 4zf3a6, 1472104915.0, 133
+899, [Aetna's Greed Proves That Medicare-for-All Is the Best Solution], 4y1zih, 1471411914.0, 129
+900, [Strong work to the mod team. The PR front page has been much higher quality since getting rid of presidential politics.], 4wfrvh, 1470516954.0, 133
+901, [Bloomberg Politics: Sanders will return to the senate as an independent.], 4upo3y, 1469581273.0, 131
+902, [My name is Juli Dominguez and I am running for Indiana's State Senate in District 16 .], 4uive5, 1469485854.0, 135
+903, [If you want to do something about the collusion revealed by DNCLeaks, don't just go after Clinton. Demand the media outlets to explain themselves.], 4u6ahf, 1469269184.0, 134
+904, [#StopTPP -- Are Obama and Clinton Counting on Republican Majorities to Pass TPP?], 4t4ydl, 1468711155.0, 132
+905, [How to become a member of the Democratic National Committee], 4ol0r1, 1466221621.0, 135
+906, [Poll Finds Young Americans More Open to Socialist Ideas], 59xiz2, 1477724184.0, 131
+907, [Bernie Sanders on Twitter | If we beat the drug industry in California, we are going to put them on the defensive and lower the cost of medication across this country.], 57niu2, 1476586828.0, 129
+908, [Leaked Memo Told Dems: Dont Offer Support For Black Lives Matter Policy Positions], 50ih4s, 1472694330.0, 128
+909, [We have four days until the launch of Our Revolution. Please hop on the phones and call potential hosts.], 4yps4o, 1471738612.0, 131
+910, [The rich want us to believe their wealth is good for us all | George Monbiot | Opinion], 4w9jvd, 1470417074.0, 129
+911, [Forcing the Innocent to Plead Guilty: "...[G]uilty pleas set the norms for sentencing, while asserting innocence and trying a case carries a massive surcharge of lost liberty for the defendant who loses [at trial], simply because he took us up on the constitutional promise of a trial."], 4twy8y, 1469136364.0, 132
+912, [Dan Smith: Berniecrat running against neoliberal incumbent in Washington's 9th CD], 4r3210, 1467597920.0, 130
+913, [Bernie Sanders on Twitter | Our job is to have the highest voter turnout in the world, not one of the lowest.], 57x8y2, 1476738887.0, 133
+914, [Guards Join with Inmates in the Nationwide Prison Strike!], 56k87x, 1476007243.0, 130
+915, [Theres a Democratic Socialist from Los Sures Running for State Senate in New York], 4trokb, 1469057382.0, 129
+916, [Rep Tulsi Gabbard Slams Clintons Failed Foreign Policy Record], 4sompi, 1468462908.0, 131
+917, [Let us not forget who brought us all together: Donate to Bernie Sanders today!], 4nlzqc, 1465690238.0, 130
+918, [Warren To Obama: Veto Budget Over Dark Money Rider], 55965l, 1475287126.0, 126
+919, [Eugene Debs: "You argue that you dont want to throw away your vote. Thats right. Dont vote for freedom  you might not get it. Vote for slavery  you have a cinch on that." (X-post from /r/socialism)], 4v9mt7, 1469866266.0, 131
+920, [We need to hold a Third Constitutional Convention and get ranked voting implemented], 4v4v86, 1469795437.0, 130
+921, [Almost at 20,000 subscribers!], 4po8cv, 1466819666.0, 125
+922, [Why Do We Fight For Zephyr Teachout? Because She will Fight For District 19 NY! We Will All Benefit! Ten Reasons:], 58lcnk, 1477051603.0, 129
+923, [I'm bestselling healthcare journalist TR. Reid, and Colorado is about to vote become the first state in the US with universal healthcare. AMA!], 554k82, 1475213318.0, 129
+924, [Media has a hand in killing democracy in America, not just Wasserman-Schultz or the GOP], 4ugobp, 1469447607.0, 127
+925, [PBS: Hacked emails overshadow Democratic National Convention], 4uei5x, 1469415965.0, 125
+926, [It's Time For You To Run For Office], 4ozkjb, 1466468767.0, 125
+927, [Authorities Shut Down Roads &amp; Airspace Near Pipeline (read: No-Fly Zone)], 5a1awh, 1477788202.0, 130
+928, [Please share this 2 minute "Mini Movie" of an Upstate NY Republican family, Whose Land WAS Taken By Pipeline company is NOW VOTING FOR Zephyr Teachout], 56q8nv, 1476101744.0, 131
+929, [Both Parties in Congress Agree: Flint Can Wait a Few More Months for Clean Water], 54xs1f, 1475115697.0, 130
+930, ["Big pharmaceutical companies like Pfizer have gotten away with robbery for far too long. It's time that they finally lower their disgustingly high drug prices, and stop ripping off all the hard-working families of America." - Our Revolution], 4z6eih, 1471987063.0, 131
+931, [YouGov/Economist Poll Post-Convention | Sanders: Favorable 61% Unfavorable 31% (+30) Debbie W Schultz: Favorable 14% Unfavorable 44% (-30)], 4vvyo9, 1470215416.0, 125
+932, [#ColoradoBernieBus to #OccupyDNC], 4qsa48, 1467415304.0, 124
+933, ['Now or Never': Congress Flooded With Calls to Stop TPP on National Day of Action | "We must force every member of Congress to state his or her position on the TPP before the election."], 534ud7, 1474098735.0, 123
+934, [Yesterday with the release of the new DNC leaks, we discovered that the corruption of the American government goes far beyond what we had previously imagined. Use your vote to tell them that this cannot stand. Join the Political Revolution today!], 52wgo3, 1473979176.0, 129
+935, [Bernie Sanders on Twitter: Our Native American brothers and sisters & environmental justice advocates have transformed #NoDAPL into a movement.], 51s2fq, 1473379865.0, 126
+936, [Dakota Access Pipeline Company Deliberately Destroyed Sacred Sioux Burial Sites], 51h3vn, 1473220792.0, 128
+937, [With Wasserman Schultz gone, dont expect change at the D.N.C.], 4vpsqx, 1470127300.0, 126
+938, [Bernie Sanders won't be President, but he might become something even better...], 4v40z8, 1469783038.0, 126
+939, [Tinfoil Hat Time! Following her loss in 2008, Clinton was promised SOS and strategic positions in DNC for her staffers. Guess who got bumped?], 4uwdr4, 1469675819.0, 127
+940, [We're all angry about the DNCLeaks, but not angry enough. This recent reveal puts Sanders into a terrible predicament, and the party is to blame.], 4uag92, 1469342073.0, 128
+941, [@BernieSanders | No laws prevent drug companies from doubling or tripling prices. So they just do it. We are going to change that.], 59ehyo, 1477469124.0, 127
+942, [27 U.S. Senators Rebel Against Arming Saudi Arabia], 540ppz, 1474601090.0, 121
+943, [Bernie Sanders, Shailene Woodley, and Young the Giant are guests on Seth Meyers tonight, 9-15-16], 530br6, 1474029804.0, 124
+944, [Zepher Teachout for Congress], 50lphq, 1472736892.0, 125
+945, [TODAY IS THE DAY TO VOTE, FLORIDA 23rd DISTRICT! We need everyone phonebanking to GOTV for Tim Canova and help push him over the line to defeat DWS! Every single vote is important in these smaller elections. You can make a sizable difference today! PHONEBANK AND WIN!], 50c5h4, 1472605128.0, 124
+946, [I Only Made 6 calls for Canova and Two were on fire for Tim when I explained Tim on social security , opposing trade deals, wants to change laws so unions can organize better and environmental], 4y31hc, 1471426074.0, 127
+947, [Mass Exodus From the Democratic Party After Convention, July 30th], 4suyg0, 1468551441.0, 126
+948, [Zephyr Teachout's Push for Reform], 4ni4tr, 1465617356.0, 127
+949, [Bernie Sanders Hints at Putting Ongoing 'Pressure' on Hillary Clinton Over Banking Issues], 553q3q, 1475203481.0, 124
+950, [bernie sanders circa 1986 on housing issues in burlington], 4yaq42, 1471530366.0, 120
+951, [Sue Minter wins Democratic primary for governor], 4x0wz7, 1470841338.0, 124
+952, [Electoral Reform should be a cornerstone of the revolution - Both money in politics and First Past the Post are killing our democracy], 4ne7cx, 1465553384.0, 125
+953, [Justice Department to Track Use of Force by Police Across U.S.], 57ga1m, 1476479642.0, 124
+954, [Wikileaks On Twitter: "You don't publish a million secrets a year without making a few enemies"], 4wp0e1, 1470670760.0, 123
+955, [Kshma Sawant on Why Vote 3rd Party:"For Dem Party establishment defeating Trump is a priority, but a bigger priority is to defeat the agenda of working people to fight for social change, because the interests of ordinary working people and the interests of Wall Street are diametrically opposite."], 4v8ux1, 1469855353.0, 125
+956, [DNC Leaks Reveal Anti-Sanders Bias with Media and Clinton Camp Colluding], 4u7q34, 1469298609.0, 126
+957, [La Riva: We cant have a political revolution and support imperialist war hawk Clinton at same time], 4thi72, 1468906202.0, 127
+958, [Canova Says Opponent Wasserman Schultz Far Too Cozy With Modern-Day Slavery Big Sugar], 4t8bgm, 1468761310.0, 123
+959, [Bernie Sanders: Heres what Ill do the day after the election], 59v0ot, 1477697293.0, 122
+960, [Misty K Snow on Twitter | We are supposed to have a government of, by, and for the people; not a government of, by, and for the millionaires. #UTPol #Flipthesenate], 59aqoa, 1477427381.0, 119
+961, [Zephyr Teachout - How I Met Bernie Sanders], 54my6i, 1474953056.0, 123
+962, [Fast food workers from New York, Boston and Philadelphia plan to walk off their jobs Monday evening to demonstate for a $15-an-hour minimum wage during the first presidential debate at Hofstra Univesity.], 54h0br, 1474864790.0, 123
+963, [Tim Canova has 481 Youtube subscribers.], 4znxwb, 1472236386.0, 122
+964, [Our Voice. Our Future. Our Country. Our Revolution is Just Beginning [First Official Video Ad from Our Revolution!]], 4zf6qo, 1472106092.0, 120
+965, [Hi Reddit! I am Adam Sackrin, 28-year-old attorney and progressive Democrat inspired to run for Congress in Miami, where mosquitoes are now infecting people with the Zika virus (FL-27 closed Democratic primary 8/30), AMA!  /r/IAmA], 4w0wha, 1470287660.0, 118
+966, [National Nurses Union Threatens to Strike], 4o4nlm, 1465979694.0, 124
+967, [TYT's Jimmy Dore: Democrats Are Restarting The Cold War To Hide From WikiLeaks], 59c9xm, 1477444822.0, 124
+968, [Senate Bill to Establish Ranked Voting for Public Offices in Indiana (SB277)], 5700lv, 1476244618.0, 121
+969, [Elizabeth Warren DESTROYS Wells Fargo CEO For Unauthorized Accounts "YOU SHOULD RESIGN" 9/20/16], 53ro5p, 1474463908.0, 118
+970, [Los Angeles Eyeing a Switch to 100% Renewable Power], 53bb96, 1474214075.0, 122
+971, [Tim Canova's primary is in less than 30 days, early voting starts earlier, and absentee ballots and being sent out NOW! If there was a time to start phonebanking, NOW is that time, NOT in 10 or 20 days! PHONEBANK and put Tim in Congress and get DWS out!], 4wmpa5, 1470632461.0, 118
+972, [Living Wage should be based off of a single income family.], 4nm05r, 1465690421.0, 123
+973, [Democratic Socialists of America], 4njbrl, 1465634702.0, 120
+974, [Bernie Sanders on Twitter | We won't survive if we continue to destroy nature. Until the tribes are consulted, all Dakota Access pipeline construction should be halted.], 57ajtj, 1476398050.0, 118
+975, [Dear .@BernieSanders base: Remember the message, even if we didn't get the top spot], 55cppm, 1475347319.0, 119
+976, [Bernie Sanders Calls on U.S. to Stand Against Brazilian Attempt to Oust President Dilma Rousseff: "After suspending Brazils first female president on dubious grounds, without a mandate to govern, the new interim government abolished the ministry of women, racial equality and human rights."], 4x0gs1, 1470832575.0, 123
+977, [Bernie Sanders gets emotional as his brother casts vote at #RollCall], 4ureq7, 1469601618.0, 121
+978, [Jill Stein Speaking at Black Lives Matter Rally in Springfield, MA], 4sgl1u, 1468352889.0, 117
+979, [Sanders: Strengthen Social Security], 4pcpqp, 1466654580.0, 120
+980, [Obama allows State Dept. to hold Hillary emails until after election; even CNN is outraged[VIDEO]], 4oqz8x, 1466323115.0, 120
+981, [FAA Says North Dakota Cops Commited Felony by Shooting Down DAPL Protester Drones - Counter Current News], 5a8pji, 1477895030.0, 116
+982, [Ready to rumble? Proponents of Prop. 61 drug pricing measure challenge pharmaceutical companies to a debate], 55keti, 1475473123.0, 120
+983, [Bill Clinton admits that some foundation donors expected favors], 53oogk, 1474423225.0, 119
+984, [Police Begin Mass-Arrests at Dakota Access Pipeline, FB Censors Video  /r/politics], 52o3li, 1473844770.0, 115
+985, [Tim Canova is honest when he meets his financial goals. He is up against super pacs and his commercials are so on point. It is a really close race even Sun Sentinel admits it!], 4yylp6, 1471864109.0, 115
+986, [HUGE victory as Coloradans stand up the to fracking industry to put community health + safety on the ballot in Nov.], 4wyjxc, 1470805994.0, 119
+987, [Meet the 16-Year-Old DNC Delegate Who Says Bernie Changed Her Life  And America], 4ve94d, 1469945326.0, 119
+988, [Fracking Ruins Everything, Including Your Food], 4tc0rf, 1468824958.0, 123
+989, [Introducing Adopt a Delegate! For many, costs to attend the convention are in the $5,000 range. Let's support them if possible! Please share!], 4o2stk, 1465956926.0, 119
+990, [Getting money out of politics: Cenk Uygur Wants You To Join #TeamRevolution], 4nxdpb, 1465875399.0, 120
+991, [Bernie Boomer here. Wanted to tell you youngsters how impressed I am with your creativity!], 4nwe4h, 1465863706.0, 118
+992, [The Catholic Church Uses Tax-Exempt Funds To Stop Marijuana Legalization], 5acetb, 1477951678.0, 119
+993, [National Nurses United Supports Colorado Single Payer Amendment 69], 56xyp0, 1476221105.0, 117
+994, [YOU can help ColoradoCare win in November by making calls for it. Hop on the lines and make calls now!], 55aex2, 1475302833.0, 118
+995, [Jeremy Corbyn MP on Twitter: Happy birthday @JohnMcdonnellMP & @BernieSanders. Two socialist campaigners who have fought for better societies all their lives], 51uru8, 1473412110.0, 120
+996, [Hi Reddit! I AM Charlie Hardy, a former Catholic priest who ran for Congress after living in a cardboard shack in a Venezuelan slum for 8 years. And I'm Reed Lindsay, award-winning filmmaker documenting Wyomings Bernie Sanders. We're running with Bernie and Our Revolution. Ask us anything!], 4zirzp, 1472164400.0, 117
+997, [OFFICIAL @OurRevolution on Twitter: "Campaigns end. Revolutions carry on. The struggle continues. Join us."], 4wz0ne, 1470811748.0, 118
+998, [Hugely Successful Beyond Bernie Meetings], 4tbhz9, 1468817405.0, 117
+999, [Tim Canova on Twitter: "I'm glad that the court has upheld @FCC rules protecting net neutrality. The Internet must remain free and open."], 4o26f2, 1465949843.0, 116
+1000, [We should push TYT to give this new sub a shoutout], 4nofew, 1465727045.0, 120

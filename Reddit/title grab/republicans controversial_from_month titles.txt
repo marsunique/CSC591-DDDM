@@ -1,0 +1,76 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Trump: "Animals representing Hillary Clinton and Dems in North Carolina just firebombed our office in Orange County because we are winning @NCGOP"], 57ujos, 1476692696.0, 6
+2, [Report: Breitbart coordinated with liberal activist to take down Rubio, Cruz], 59bw4p, 1477440851.0, 0
+3, [More Republicans expect Clinton, rather than Trump, to win U.S. election], 59neut, 1477595728.0, 1
+4, [Unconscionable.], 58na8g, 1477086354.0, 1
+5, [Clinton Unveils Contemptuous Plan for Basement-Dwelling Millennials], 55ipgj, 1475451366.0, 7
+6, [Rigging the Election - Video I: Clinton Campaign and DNC Incite Violence at Trump Rallies], 583ocr, 1476824894.0, 8
+7, [Republicans: Did this debate moment have any effect on your views toward Donald Trump?], 58oagk, 1477097893.0, 0
+8, [Some of Hillary's crimes are so abnormal we can't even describe them using current vocabulary. So here is a new word - "hirotten - to personally benefit by helping a rapist."], 57wyhe, 1476734797.0, 10
+9, [Why The Left Should Also Worry About Trumpism], 5717nc, 1476258791.0, 1
+10, [88 US Generals Stand Together Against Hillary Clinton In One Massive Act Of Defiance], 57e84c, 1476441552.0, 6
+11, [Another (Pointless) Warning to the GOP], 56w5f2, 1476185257.0, 1
+12, [Decision 2016: A Guide for Hillary &amp; Trump Voters], 58p4ae, 1477106990.0, 12
+13, [Upvote to watch everyone that speech was AMAZEBALLLLLS!!!! Trump Florida Speech (10/13/2016)], 57c1th, 1476414681.0, 27
+14, [Donald Trump Rally in Portsmouth, NH 10/15/16], 57q4t0, 1476624596.0, 7
+15, [Trump: I'm Going To Figure Out What "Sinister Deal" Paul Ryan Made With The Establishment], 578c6s, 1476358910.0, 13
+16, [We want Brexit success - Change Britain], 58xu42, 1477242754.0, 3
+17, ["We were lied to by EU, not Brexit campaign!"], 59zlla, 1477758530.0, 9
+18, [FACT CHECK: Donald Trump and Hillary Clinton's Final Presidential Debate (From an Economic Perspective)], 58zp9i, 1477273445.0, 6
+19, [Voter Fraud is real, and here is how they do it.], 57gga5, 1476482003.0, 13
+20, [Right now Hillary Clinton is a greater threat to our national well-being than Donald Trump. Throughout her time in politics, she has shown terrible judgment and little regard for the truth...], 57h3r7, 1476489847.0, 52
+21, [Hillary Clintons Tax Plan Would Increase Taxes by $1.4 Trillion Over the Next Decade], 57btd0, 1476412098.0, 4
+22, [Theresa May Brexit hero], 55mfsq, 1475504663.0, 3
+23, [Watch: New Bombshell video just released by James O'Keefe on Mass Voter Fraud], 58c8g1, 1476933950.0, 25
+24, [Democrats Admit To Inciting Violence And 'Anarchy' At Trump Rallies], 583c6a, 1476820297.0, 9
+25, [Religious leaders slam Clinton campaign over emails], 57fduq, 1476462968.0, 9
+26, [Why This Libertarian Supports Trump], 58bbip, 1476924579.0, 15
+27, [Democratic Operative Explains Voter Fraud: We've Been Bussing People In For Fifty Years], 5863xp, 1476850904.0, 54
+28, [Giuliani on Trump groping allegations: 'I believe Donald Trump'], 57u4uv, 1476687366.0, 4
+29, [A London-based company, Smartmatic International, is providing voting machines for 16 states, and its chairman, Lord Mark Malloch-Brown, is tied to George Soros, a billionaire and political activist with deep ties to Hillary Clinton], 59im1d, 1477529415.0, 14
+30, [Watch as he talks about how Hillary Clinton has done everything in her power to silence him and his mother, and to make sure he never meets his father. Lets EXPOSE HER!], 59gs91, 1477506088.0, 13
+31, [Hillarys Values Vs Trumps America (hillary Clinton)], 57z3ed, 1476759263.0, 0
+32, [Creamer Confirms Hillary Clinton Was PERSONALLY Involved in hiring Fake Protesters], 59873z, 1477384880.0, 31
+33, [How to Make Conservatism Great Again], 595e0q, 1477354680.0, 6
+34, [An Analysis of the Clinton-Trump debate (From an economic perspective)], 561j79, 1475727137.0, 9
+35, [Presidential Temperament], 55q10g, 1475558487.0, 32
+36, [Want to save America? Read your local paper.], 59sip3, 1477655929.0, 11
+37, [Honest question: "GOP - The party of family values" ?], 56x7ry, 1476207032.0, 9
+38, [How will tonight's debate affect voter support? Lessons from Donald Trump's slowdown on social media after the first debate], 56ordf, 1476082148.0, 8
+39, [The Bonfire of the Hypocrisies], 57p4j5, 1476608262.0, 2
+40, [Sowell: Words versus deeds], 56zcgi, 1476237244.0, 2
+41, [Giuliani on rigged election: 'Dead people generally vote for Democrats'], 57u2zj, 1476686690.0, 56
+42, [DNC hires fake protestors to Incite Violence at Trump Rallies], 580az5, 1476772272.0, 94
+43, [Pence: Trump won, 'proud to stand' with him], 56s12a, 1476136090.0, 61
+44, [Could Trump Pull Off a Surprise Last-Minute Victory? Two Reputable Pollsters Say Yes.], 58vlrs, 1477204110.0, 43
+45, [The Bully Party], 59kbbq, 1477547245.0, 22
+46, [Hillary Clinton demands answers and Democrats call foul as FBI reopens email investigation over file], 5a4sw8, 1477836027.0, 15
+47, [Surprise!!!!], 5a2657, 1477798391.0, 39
+48, [Trump FP Advisor Walid Phares: A New U.S. Response to Upheaval in the Middle East], 5930og, 1477317133.0, 4
+49, [Here's A List Of The 17 Most Damaging WikiLeaks Emails Released So Far], 586lp3, 1476856081.0, 5
+50, [On top of one distortion, another one! NEWSBUSTERS: Spinning That Mexican Thing on Univision and Telemundo], 568f4x, 1475825425.0, 17
+51, [Two left wing idiots!], 56iljp, 1475984176.0, 6
+52, [Republican Defeatism About Trump Not Warranted By Current Polling], 59pd7a, 1477619095.0, 20
+53, [Watch "You Can't Stump the Trump Volume Volume XXIX (Total War)" on YouTube], 570i4c, 1476249986.0, 22
+54, [Jack Abramoff: I Was Imprisoned for Same Things Hillary Clinton Has Done], 57r4zn, 1476648541.0, 39
+55, [Donald Trump Campaign Event in Sandown, NH 10/6/16], 568m45, 1475828022.0, 11
+56, [Hillary campaign gave $50 million to "Get our Jobs Back" Superpac, managed by convicted Ponzi schemer Stephen Hoffenberg], 56c5b5, 1475885533.0, 30
+57, [Trump Had The 4 Biggest Moments Of The Debate, According To Facebook], 58gtq9, 1476998919.0, 35
+58, [Protester Interrupts Bill Clinton With A 'Bill Is A Rapist' Sign], 564u7l, 1475780778.0, 19
+59, [Obama and media eerily silent on monumental Mideast catastrophe], 56yfss, 1476227163.0, 21
+60, [Robert Reilly: The Closing of the Muslim Mind], 5a1ux6, 1477794779.0, 1
+61, [States unprepared for Election Day cyber attack.A POLITICO survey of battleground state election officials paints a troubling picture.], 59v6hc, 1477699034.0, 12
+62, [TRUMP 2016 - The Road To The White House], 59oi5g, 1477610051.0, 18
+63, [How the Media is Deceiving You!], 59ilgp, 1477529251.0, 3
+64, [Cybersecurity experts discuss the security of Americas electronic voting systems by breaking down vulnerabilities at the state, local and manufacturer level], 59hymq, 1477522640.0, 3
+65, [The Citizens United "Scare. Who Really Benefits? So Far, Democrats Mainly.], 599m2w, 1477405378.0, 6
+66, [Take a break from the rhetoric and check out ASIs video of the top 10 wackiest political swag of 2016. Trump socks? Chia Hillary? Talking/laughing pens? Crazy, but true.], 596ysn, 1477370767.0, 1
+67, [DNC Schemes to Bully Women at Trump Rally], 58ixwc, 1477021664.0, 7
+68, [Don't let these MPs block Brexit!], 5862vn, 1476850598.0, 6
+69, [Group of Democrats Rise Above Partisan Politics and Raise $13K to Reopen Torched GOP Office], 57yztj, 1476758219.0, 8
+70, [O'Reilly: At Least 3 Media Orgs Have 'Ordered Employees to Destroy Trump'], 57wdqf, 1476723370.0, 2
+71, [Leaked Email Shows [Some] Democrats Plotted To Create Fake Trump Craigslist Ads], 57w05b, 1476715085.0, 2
+72, [Improper Recycling Could Land You in Jail: How Overcriminalization Threatens Everyone], 577bds, 1476344827.0, 14
+73, [A way to encourage local government], 56y2bw, 1476222496.0, 8
+74, [A change our tax code NEEDS], 56wddy, 1476188670.0, 2
+75, [Michael Ledeen: How We Can Win the Global War Against Radical Islam], 55oefs, 1475539949.0, 9

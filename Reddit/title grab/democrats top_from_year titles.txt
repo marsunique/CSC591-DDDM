@@ -1,0 +1,1001 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [The Obama's], 4x3l41, 1470882338.0, 325
+2, [If Dems take Senate, Bernie Sanders becomes CHAIRMAN of the Budget Committee. NO EXCUSE not to vote, and EVERY REASON to turn out.], 57k1o6, 1476526009.0, 282
+3, [If You Still Vote For Trump After He Implied Obama Was In On The Orlando Shooting: Fuck You.], 4ny3qy, 1465884097.0, 262
+4, [Nice Hat], 53euvr, 1474271227.0, 229
+5, [Donald Trump has evaded every single duty of an American citizen his entire life. How can anyone call him a patriot?], 55hv80, 1475436598.0, 203
+6, [The Unsexy Truth About Millennials: Theyre Poor - If youre wondering why millennials dont have much sex, and dont buy cars, forget social theorizing: the harsh truth lies in their near-empty wallets.], 4wkrui, 1470604069.0, 197
+7, [Ivanka Trump Vacationing in Croatia With Businesswoman Who Happens to Be Vladimir Putin's Girlfriend], 4xu5z0, 1471304574.0, 197
+8, [Biden: Sanders Fans Who Back Trump Clearly Didnt Support What Bernie Stands For], 4usoi3, 1469619583.0, 193
+9, [Meghan McCain on Twitter: "I would ask what kind of barbarian would attack the parents of a fallen soldier, but oh yeah it's the same person who attacks POW's."], 4vfplr, 1469969132.0, 192
+10, [Ryan's words earn votes.], 587d4v, 1476865045.0, 186
+11, [Bernie responds to Clinton's smear campaign against him with a simple picture from 1993], 40tjfv, 1452740910.0, 185
+12, [Bernie Sanders on Twitter: "If you dont believe this election is important, if you think you can sit it out: you're wrong. Think about the future of the Supreme Court."], 4uosnd, 1469570988.0, 181
+13, [Says Donald Trump "started his career back in 1973 being sued by the Justice Department for racial discrimination because he would not rent apartments in one of his developments to African-Americans."  Hillary Clinton on Tuesday, September 27th, 2016 in the first presidential debate], 54qq3i, 1475014045.0, 175
+14, [President Obama is Officially America's Greatest Job Creator President], 5136ma, 1473006611.0, 172
+15, [True: Bernie Sanders says Walmart heirs are wealthier than bottom 40 percent of Americans], 4aij45, 1458079063.0, 167
+16, [Roe vs. Wade will be overturned if Donald Trump wins, Mike Pence says], 4v6det, 1469824899.0, 167
+17, [Garry Kasparov (Chairman of the Human Rights Foundation, 13th World Chess Champion) on Twitter: "Would Trump & Pence like it if Obama showed "strength" like Putin by jailing them & having troops close any media that criticized Hillary?"], 5282r0, 1473621236.0, 166
+18, [Dixie Chicks singer: GOP hypocrites over Trump - "I get banned for not liking Bush and now Trump can practically put a hit out on Hillary and he's still all over country radio! Hypocrites!"], 4x9hpd, 1470968699.0, 166
+19, [The only thing that really matters about homelessness], 3wzq6x, 1450243277.0, 164
+20, [Leaked Wiretaps Reveal Netanyahu Bribed Republicans To Sabotage Obamas Iran Peace Deal], 3z0w07, 1451691020.0, 164
+21, [Trump recorded having extremely lewd conversation about women in 2005], 56dfkk, 1475900358.0, 157
+22, [Elizabeth Warren Rips Into Republicans For Pledging To Block Supreme Court Process], 45wo1y, 1455574980.0, 159
+23, [As governor of California, Ronald Reagan signed the Mulford Act, which prohibited the carrying of firearms on your person, in your vehicle, and in any public place and signed a 15-day waiting period. "There's no reason why on the street today a citizen should be carrying loaded weapons," Reagan said], 419jhl, 1452997454.0, 164
+24, [Obama Just Blasted NBC's Matt Lauer For Letting Trump Lie Through His Teeth | "I think the most important thing for the public and the press is to just listen what he says and follow up, and ask questions about what appear to be either contradictory or uninformed or outright bad ideas."], 51suw7, 1473388871.0, 163
+25, [Yes, The Planned Parenthood Shooter Is A Christian Terrorist], 3v4y00, 1449089733.0, 160
+26, [George W. Bush's White House "lost" 22 million emails], 52ea0a, 1473715095.0, 158
+27, [Trump on Twitter: The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive.], 54o8ui, 1474969638.0, 155
+28, [Elizabeth Warren on Twitter: "Let's be clear: @realDonaldTrump just admitted that he peddled fake conspiracy theories to attack the integrity of @POTUS."], 5366lz, 1474122723.0, 155
+29, [DNC beats RNC ratings for third night, Trump begs you to stop watching], 4v20ur, 1469757157.0, 150
+30, [New Time Magazine Cover], 4x818g, 1470951716.0, 155
+31, [Sanders Supporter Seth MacFarlane tells Bernie fans to stop bashing Hillary over trivial crap  because theyre helping Trump], 4dxv2r, 1460170832.0, 152
+32, [Amy Goodman rips CNN for airing Trumps empty stage instead of Sanders speech], 4baddf, 1458553585.0, 150
+33, [Most Americans want Obama to nominate Scalia's replacement], 46knru, 1455917769.0, 149
+34, [Report: Trump Kept Asking During Foreign Policy Briefing Why He Cant Just Use Nukes], 4vya24, 1470256888.0, 151
+35, [Trump used $258,000 from his charity to settle legal problems], 53nmbw, 1474410625.0, 148
+36, [Time to push the Trump 13-year-old Rape victim video interview onto every front page and TV news], 5a22pd, 1477797285.0, 146
+37, [True: Bernie Sanders' claim that U.S. spends 3 times per capita what the U.K. spends on health care], 3xlf4u, 1450660193.0, 144
+38, [Trump denies saying not paying taxes 'makes me smart' an hour after he said it], 54uboe, 1475059581.0, 146
+39, [John Kasich on Twitter"There's only one way to talk about Gold Star parents: with honor and respect. Capt. Khan is a hero. Together, we should pray for his family."], 4vj0ln, 1470027841.0, 141
+40, [More Than 200,000 Viewers Sign Petition Demanding CNN and MSNBC Stop Promoting Trump], 3y3ejo, 1451003627.0, 147
+41, [Remember that time the Bush administration lost 5 million emails  & Republicans shrugged?], 4ziepp, 1472159607.0, 142
+42, [Red state elects Democratic governor; 375,000 people get health insurance less than 3 months later], 4e1p9m, 1460245233.0, 142
+43, [Obama: I think Bernie is capturing a sense among the American people that they want to know the government's on their side, that it's not bought and paid for, that our focus has to be on hard working, middle class Americans, not getting a raw deal."], 3sxicc, 1447646147.0, 142
+44, [Trump promised millions to charity. We found less than $10,000 over 7 years.], 4q99jf, 1467147114.0, 138
+45, [The GOP tried to sink Obama. Instead, the party imploded: If your political priorities are the total defeat of a single politician  not the advancement of your own policies  it fans the flames of extremism], 4xltcw, 1471163098.0, 138
+46, [BUSTED: Wisconsin Clerk Caught Limiting Campus Voting Because Students Vote For Democrats], 59drz1, 1477460687.0, 135
+47, [Elizabeth Warren on Twitter: "You never tweet at 3am with ways to help students getting crushed by debt or seniors struggling on Social Security, @realDonaldTrump"], 55b8tw, 1475315385.0, 139
+48, [Obama Drops The Mic With Coolest Exit By A President Ever: President Obama ended his final White House Correspondents Dinner with what was the coolest exit by a president in history. The President said, "Obama out," dropped the mic and walked away from the podium.], 4h7kgv, 1462101936.0, 134
+49, [Youre the weirdos: Colbert slams Republicans obsessed with private business in public bathrooms], 4goait, 1461789909.0, 138
+50, [Dear Conservatives: Scalia's Dead. No Matter What you Do, You Won't Get to Pick His Replacement], 4ay7fl, 1458335345.0, 139
+51, [Obama warns: 'If you don't vote, that's a vote for Trump'], 54ygbm, 1475123374.0, 140
+52, [Soledad OBrien eviscerates CNN: You have normalized white supremacy with shoddy Trump reporting], 5154nn, 1473040985.0, 140
+53, [New NBC poll: Clinton 50, Trump 42], 4vrrko, 1470162281.0, 133
+54, [President Obama has effectively bankrupted ISIS | "That strategy is working so efficiently that ISIS recently informed its henchmen that their salaries will be cut in half as the group tries to conserve what little money it has left."], 4211io, 1453426432.0, 134
+55, [Why Sanders supporters cannot back Gary Johnson: His libertarianism is antithetical to the senators Democratic socialism], 4y5yhq, 1471473804.0, 132
+56, [McDonald's raises their employees wages and the CEO has nothing but good things to say about it. 'McDonalds profits are up, employee turnover is lower, and customer satisfaction scores are higher.'], 4krbi0, 1464080848.0, 130
+57, [Sanders beats Clinton in Wisconsin], 4djmik, 1459935229.0, 130
+58, [As of this morning, Florida Democratic Party has submitted 469k voter registration forms; Republican Party of Florida has submitted 59k], 55qnkp, 1475566474.0, 132
+59, [Donald Trump Proved to Be No Ronald Reagan: All the nominee had to do at the first debate was appear polite and reasonable for 90 minutes. He failed.], 5524cv, 1475183954.0, 132
+60, [Why Bernie Backed Hillary: Long-term, Bernie wants to capture the Democratic Party, not break it.], 4vow1i, 1470115524.0, 132
+61, [Mitt Romney Trashes Trump: "He doesn't pay taxes. He doesn't have much income. He's receiving income from unsavory sources...There's something in those taxes that's even worse than shooting someone on Fifth Avenue"], 4nl3bs, 1465674222.0, 128
+62, [Hey Donald, your companies fail so often, you must have gone to business school at Trump University. -- Mark Cuban], 4u2rfn, 1469223111.0, 130
+63, [Don't Forget: Ted Cruz is a F*cking Lunatic Too], 49z5cl, 1457737534.0, 129
+64, [Donald J. Trump on Twitter: "Dishonest media is trying their absolute best to depict a star in a tweet as the Star of David rather than a Sheriff's Star, or plain star!" Nate Silver on Twitter: "Pretty cool that Israel honored the American frontier spirit by putting a sheriff's badge on their flag!"], 4r7reg, 1467675866.0, 129
+65, [Now, 17-Yr-Olds In Ohio Wont Be Allowed To Vote In This Months Primary - In the past, 17-yr-olds who would be 18 in November could vote in the state's primary, but the Secretary of State reversed course.], 497fhv, 1457301760.0, 126
+66, [For just the third time its history, liberal magazine The Nation has endorsed a presidential candidate: Bernie Sanders], 40xomr, 1452809144.0, 131
+67, ["Hillary Clinton says she wants to, raise taxes on the middle class. "  Donald Trump on Thursday, August 4th, 2016 in a campaign video], 4wcpff, 1470460640.0, 127
+68, [This year, millennials surpassed baby boomers as the largest share of the U.S.'s voting-age population.], 3w86jb, 1449786494.0, 129
+69, [LeBron James, the most influential person in the major swing state of Ohio, endorses Hillary Clinton], 55lgww, 1475487993.0, 126
+70, ["We're the highest taxed nation in the world."  Donald Trump on Sunday, May 8th, 2016 in an interview on 'Meet the Press'], 4igsml, 1462776876.0, 125
+71, [Hillary Clinton demands FBI show its hand in fresh email probe - Democratic candidate says sudden announcement with no explanation is not good enough after FBI director notifies Congress of new investigation], 5a00tu, 1477768676.0, 125
+72, [Melania Trump's speech plagiarizes parts of Michelle Obama's], 4tkedu, 1468951655.0, 127
+73, [In California, "the windmills are killing hundreds and hundreds of eagles."  Donald Trump on Thursday, May 26th, 2016 in a speech on energy policy], 4lv5je, 1464729425.0, 124
+74, [Virginia Governor Restoring Voting Rights to Felons; The action will overturn a Civil War-era provision in the state's Constitution aimed, he said, at disenfranchising African-Americans.], 4fyw9n, 1461367031.0, 129
+75, [Indiana Gov. Mike Pence signed a law this year that mandated funerals for fetuses], 4sv2ky, 1468552670.0, 125
+76, [Hillary: "If I'm so fortunate as to be the nominee, the first person I call on where we go and how we get it done, will be Senator Sanders". Bernie: "On our worst days, I think it is fair to say...we are a hundred times better then any of the Republican candidates." BAD....ASS!], 4497mb, 1454675230.0, 125
+77, [Less than 12 Hours Post-Debate: Clinton Uses Pence's Debate Words Against Him In Stunning New Ad], 560w2j, 1475719905.0, 120
+78, [Last year, "244 suspected terrorists walked into gun shops and attempted to purchase a firearm; 223 were able to get the firearm."  Charles Schumer on Tuesday, June 14th, 2016 in a news conference], 4o9o8z, 1466053615.0, 124
+79, [Elizabeth Warren Urges CDC to Look at Marijuana as Potential Fix to Prescription Painkiller Epidemic], 4597il, 1455232374.0, 122
+80, [Reagan's Daughter: My Dad Would Be 'So Appalled' By GOP Presidential Candidates], 3xstxd, 1450791286.0, 123
+81, [John McCain: Republicans will block anyone Clinton names to the Supreme Court], 57yqub, 1476755613.0, 122
+82, [Queen asks Republicans to stop using 'We Are the Champions' at RNC], 4tphv0, 1469018746.0, 121
+83, [Donald Trump Accused of Using His Charity as a Political Slush Fund - When the presumptive GOP nominee doled out money to veterans groups over the past few months, he did so using the Trump Foundationwhich, according to FEC rules, is not allowed.], 4ocxef, 1466106754.0, 118
+84, [Bill Nye Pleads With Reporters: Ask the Candidates About Climate Change Directly], 4dr8kt, 1460067622.0, 120
+85, [Obama To Republicans: I Didn't Create Trump, Your Bigotry Towards Me Did], 49vwb7, 1457678177.0, 119
+86, [Donald Trump's Plan for a Muslim Database Draws Comparison to Nazi Germany], 3tk6gg, 1448051480.0, 125
+87, [Rick Wilson (GOP Strategist) on Twitter: "If you think this is anywhere near the most morally repugnant thing about Trump to come out before the election, you're going to be shocked."], 56gqx8, 1475958633.0, 121
+88, [Top Economist Says Bernie's Plan Will Save USA $5 Trillion], 3xmx8k, 1450684112.0, 123
+89, [Your little brother is not the ultimate authority: How Jeb Bush cheated America & helped deliver the presidency to W - 15 yrs ago today, America voted for Al Gore. Unfortunately for Gore, he didn't have a governor for a brother], 3rco64, 1446587469.0, 118
+90, [Math is hard: Trump claims he could have blocked 5-3 abortion ruling by filling Scalias seat], 4qn0et, 1467337973.0, 120
+91, [Police: Donald Trump Supporters Grope, Pepper Spray 15-Yr-Old Girl At Wisconsin Rally], 4ckwmt, 1459375731.0, 120
+92, [Thank you for serving me when I didnt vote for you: A Republican writes the president after Obamacare saved his life], 49upva, 1457663112.0, 118
+93, [Minutes after Scalias death right-wingers sought to block nominee Obama hasnt even appointed yet], 45r2x1, 1455491426.0, 123
+94, [Maddow: "As A Gay Person In 1992, I Did Not Feel Like Bill Clinton Had My Back"], 453tjj, 1455153907.0, 120
+95, [Obama To GOP: 'Don't Act Like This Started With Donald Trump'], 57na19, 1476583702.0, 121
+96, [Bill Maher calls for taxes on all religions: Why should I subsidize a homophobic magic act?], 4f22wd, 1460845380.0, 119
+97, [The Tea Party Is Slowly Dying, But It's Being Replaced By Fascism | "The Republican Party is lurching away from the Tea Party and toward a frightening marriage of religious fanaticism and fascism. Based on history, this cannot end well, at all."], 3uqsh3, 1448852281.0, 123
+98, [America has never recovered from Ronald Reagan. That's why Bernie Sanders is so important.], 3ttz8w, 1448242432.0, 122
+99, [Donald Trump pledges to sign anti-LGBT law to permit religious discrimination], 549s70, 1474746068.0, 117
+100, ["Inner-city crime is reaching record levels."  Donald Trump on Monday, August 29th, 2016 in a tweet], 50bv9d, 1472601837.0, 121
+101, [Debbie Wasserman Schultz gets quarantined  and now wont be speaking at Democratic convention], 4ud0za, 1469394117.0, 118
+102, [To Spite Ann Coulter, I got her book signed am now selling it on Ebay with the proceeds from the book going to Planned Parenthood.], 4uajba, 1469343354.0, 114
+103, [DNC Vice Chair Quits to Endorse Bernie Sanders], 48aaye, 1456783027.0, 117
+104, [North Carolina Republicans Tried to Disenfranchise a 100-Year-Old African-American Woman: With early voting underway in North Carolina, black and Democratic voters are being wrongly purged from the rolls.], 59uxsb, 1477696389.0, 118
+105, [TV Ratings: DNC Beats RNC by Nearly 5 Million Viewers in Night 2 Final Numbers], 4v0950, 1469734611.0, 113
+106, [John Oliver: Trumps scandals are way worse than Hillarys  and voters should be f*cking outraged], 54kse7, 1474928288.0, 115
+107, [Florida poll workers find Democratic ballots in closet after telling voter primary for GOP only], 4anl62, 1458160350.0, 114
+108, [Liberals Get their Wish as Rachel Maddow will co-Moderate the just added New Hampshire Democratic Debate, Feb. 11 on PBS], 430vny, 1453972659.0, 117
+109, [Nate Silver @ 538 Now Cast has Hillary's odd of winning the election if today @ 91.5%. Cheers!!!], 4wa4uy, 1470428888.0, 113
+110, [Guess How Many Welfare Recipients Tested Positive in Michigan Gov. Rick Snyder's Drug Test Program? - The "welfare junkie" seems to be largely a mythical creature.], 4q3o7k, 1467067458.0, 116
+111, [After Refusing to Debate President Obama, Cowardly NRA Goes on Fox News to Whine About Him], 40blho, 1452467094.0, 117
+112, [1st Voter Fraud Arrest Of 2016 Is A Republican], 5a07h9, 1477772564.0, 115
+113, [Donald Trump Endorsed executing Muslim POWs with bullets dipped in pigs' blood. Six months is long enough to forget, so let's remind America.], 59refq, 1477641430.0, 110
+114, [Obama: Kaepernick exercising his constitutional right], 519m62, 1473114089.0, 113
+115, [Senators daughter who raised price of EpiPen got paid $19 million salary, perks in 2015], 4zemzj, 1472099382.0, 113
+116, [Unlike Donald Trump, Pres. Obama is actually helping Louisiana flood victims], 4yl1ee, 1471666713.0, 111
+117, [Ohio Voters Just Fired Prosecutor Who Refuses To Charge Cops Who Murdered Tamir Rice], 4aqewd, 1458199733.0, 115
+118, [Sorry, Corporate Media: The More Americans Hear Bernie Sanders, the More they Like Him], 45t9mw, 1455516512.0, 115
+119, [Obama Has Broken the Second-Term Curse: "Obama, unlike all of his second-term predecessors in the last 40 years, has not been knocked off course by scandal"], 3xudb3, 1450827011.0, 113
+120, ["I'd vote for Hillary, But..." | A site for explaining and refuting common complaints about our next president], 57071l, 1476246585.0, 111
+121, [Fox News Contributor Who Claimed Hillary Clinton Was A 'Criminal' Pleads Guilty To Felony Fraud], 4hnjq8, 1462315118.0, 110
+122, [Jimmy Carter: The U.S. Is an Oligarchy With Unlimited Political Bribery], 472tbs, 1456201989.0, 113
+123, [Outgoing Kentucky governor restores voting rights for thousands of felons], 3u3kns, 1448413869.0, 115
+124, [Wil Wheaton on Twitter: "When a black man, who is a civil rights hero, is talking about civil rights, maybe shut the f**k up for five minutes about the TPP."], 4um3ih, 1469525042.0, 108
+125, ["Regardless of what you label Sanders - and I believe the most appropriate label for him is 'progressive' - it is hard to deny that he is revitalizing the progressive spirit at a critical point in American history"], 41rbbj, 1453273596.0, 113
+126, [Rude heckler at Hillary Clinton town hall identified as New Hampshire Republican legislator], 3zctpv, 1451903670.0, 111
+127, [Fox News is lying to itself: Its violent rhetoric really is putting lives at risk], 3v9re2, 1449172345.0, 110
+128, [Obama has a soft spot for homosexuals because of the years he spent as a male prostitute in his twenties: Meet the looniest politician in Texas (and thats saying something) - Bat-shit nuts candidates are everywhere in Texas -- & sometimes even win. This year, there's a special case salon.com], 4695dp, 1455751745.0, 108
+129, [DONALD TRUMP EITHER LIED TO THE REPUBLICANS OR BROKE THE LAW: Newsweek obtained a deposition that shows Donald Trump committed perjury. Or lied.], 54665b, 1474683843.0, 110
+130, ["Risk analysts listed Donald Trump, a Donald Trump presidency, as one of the top threats facing the global economy, ahead of terrorism."  Hillary Clinton on Monday, June 27th, 2016 in a speech in Cincinnati], 4q5lvl, 1467089452.0, 106
+131, [Secret Service says no guns at GOP convention. Sh*t storm to follow], 4cbkmr, 1459220242.0, 108
+132, [The National Republican Senatorial Committee tweeted Tuesday that Illinois Senate Democratic candidate Tammy Duckworth, who lost both her legs while serving in the Iraq War, "has a sad record of not standing up for our veterans."], 49l0v8, 1457505828.0, 107
+133, ["Our African-American communities are absolutely in the worst shape they've ever been in before. Ever. Ever. Ever."  Donald Trump on Tuesday, September 20th, 2016 in a speech in Kenansville, N.C.], 540tmp, 1474602363.0, 110
+134, [dallas morning news has recommended every republican presidential candidate since '64 but says it can't support trump], 51fjgn, 1473202065.0, 106
+135, ["Donalds not releasing his tax returns because the income will be far less than he claims it is, the assets will be worth far less than what he says it is, and his charitable contributions are virtually nonexistent."], 4rm66s, 1467886599.0, 108
+136, [Change.org Petition: President Obama should make Election Day 2016 a one-time federal holiday], 40qbe6, 1452687502.0, 112
+137, [Trump Has 75 Ongoing Legal Battles -- Which Media Are Ignoring During Their Breathless FBI Letter Coverage], 5aezmi, 1477976745.0, 165
+138, [Mike Pence Argued In An Op-Ed That Disneys Mulan Was Liberal Propaganda: Obviously, this is Walt Disneys attempt to add childhood expectation to the cultural debate over the role of women in the military, Pence wrote. Obviously.], 4tb0nj, 1468811047.0, 105
+139, [The Benghazi victims were "left helpless to die as Hillary Clinton soundly slept in her bed."  Donald Trump on Wednesday, June 22nd, 2016 in a speech in New York], 4pihbm, 1466737921.0, 103
+140, [Alabama Republican wants to stop people on food stamps from owning cars  but expects them to get jobs], 4auo76, 1458271287.0, 105
+141, [Small-government conservative wants to dictate what cuts of meat poor people can eat], 471vxc, 1456190879.0, 108
+142, [Jimmy Carter says Citizens United ruling legalized bribery], 440ca1, 1454543021.0, 106
+143, [Obama: I am a single-issue voter on guns: "I will not campaign for, vote for or support any candidate, even in my own party, who does not support common-sense gun reform. And if the 90% of Americans who do support common-sense gun reforms join me, we will elect the leadership we deserve."], 3zyx6c, 1452247946.0, 110
+144, [The stories from women saying he groped or forced himself on them "largely have been debunked."  Donald Trump on Wednesday, October 19th, 2016 in the third 2016 presidential debate], 58fr44, 1476979967.0, 106
+145, [Obama approval hits new high], 564z1m, 1475783362.0, 105
+146, [School lunch worker forced to throw away students hot meal decides to quit - As a Christian, I have an issue with this.], 53tfyy, 1474497448.0, 109
+147, [Trump used $12,000 in charity money to buy himself a souvenir helmet autographed by Tim Tebow], 4qrwcr, 1467410791.0, 105
+148, [Evidence Shows "Free" College Pays a 613% Return on Investment], 44of9e, 1454919177.0, 107
+149, [Paul Krugman: Fascists like Trump only possible because Republican leadership is inbred & out of touch - Trump is "saying bluntly the things establishment candidates try to convey in coded, deniable hints" (xpost-/r/libs)], 3wdi9e, 1449870284.0, 104
+150, [If You Have A Serious Illness, Paul Ryan Is Coming To Take Away Your Healthcare: He dropped some hints about what the Republican alternative to Obamacare will look like, and it isn't pretty. One of Ryan's main goals is to take cost protections away from people who have serious illnesses.], 4gz49x, 1461961345.0, 108
+151, [Bernie Sanders taps his donor network to raise nearly $2 million in two days for House, Senate contenders], 58k8t5, 1477036504.0, 108
+152, [Artist threatened with lawsuits if she sells nude Donald Trump painting: Illma Gores painting, on display at Maddox Gallery in London now with a 1m pricetag, depicts the Republican presidential candidate with a small penis], 4f77sp, 1460938662.0, 102
+153, [Justice Scalia Dead Following 30-Year Battle With Social Progress], 45nlp4, 1455438163.0, 104
+154, [MoveOn endorses Bernie Sanders], 40mtum, 1452641074.0, 105
+155, [Democrats taxing rich & lowering unemployment in Minnesota has led to $1.9 bil budget surplus], 3vl1ci, 1449379030.0, 102
+156, [Fox Host Blames Obama And Hillary Clinton For "Baiting" Trump Into Making Controversial Comments], 4xj72n, 1471126085.0, 105
+157, [Colin Powell calls Trump 'national disgrace' in email leak], 52r0as, 1473895490.0, 102
+158, [Two-thirds of Americans Say Trump Is biased against women, minorities, & Muslims; 64 percent call Trump unqualified to serve as president], 4py6eb, 1466983088.0, 102
+159, [Ryan Responds To Trump: We're At War With Radical Islam, Not All Muslims], 4o1vk0, 1465946237.0, 101
+160, [Hidden Cameras Show Trump Workers in Dubai Toil & Live in Filthy, Awful Conditions - VICE spoke with laborers who are being barely paid & living in ways not "fit for human beings."], 4g4wxl, 1461468930.0, 102
+161, [Bernie Sanders Blocks Obamas FDA Nominee Over Big Pharma Ties], 42stc2, 1453860741.0, 103
+162, [Bernie Sanders Commits To Repealing Law That Restricts Abortion Access For Poor Women - Both Democratic presidential frontrunners have now vocally come out in favor of repealing the Hyde Amendment.], 42fhyo, 1453662134.0, 104
+163, [Bernie Sanders Proves the Pundits Wrong. Not only is Bernie defying the odds, but hes doing it by showing that an authentic candidate with an authentic message can generate an authentic peoples movement.], 4244uu, 1453469101.0, 104
+164, [I just watched CNN anchors defend their failure to fact check Trump because it would "take all day." They won't do their job because it's too hard.], 52nkom, 1473837673.0, 102
+165, [President Obama's approval rating up to 52%, CNN/ORC poll finds], 4pn4ds, 1466807104.0, 98
+166, [Lawmaker wants the rich to be drug tested before receiving high-dollar tax deductions], 4ommr4, 1466244706.0, 104
+167, [Dealing a blow to gun supporters, a federal appeals court ruled Thursday that Americans do not have a constitutional right to carry concealed weapons in public.], 4nfx1d, 1465588109.0, 104
+168, [GOP Senators Finally Starting To Realize Their Party Nominated A Total Racist], 4n6qjw, 1465441530.0, 103
+169, [Bernie Sanders Voted Americas Most Popular Senator For The Second Year In A Row], 4gz42l, 1461961243.0, 101
+170, [No, Obamacare Isnt Ruining Insurance Companies - Dont believe it when insurers paint themselves as victims], 4g7ofl, 1461522303.0, 103
+171, [Bernie Sanders has the correct diagnosis: U.S. prescription drug prices typically highest in world], 45cwz7, 1455278282.0, 102
+172, [Trump flip-flops so much that Stephen Colbart hosted a Trump-vs.-Trump debate], 43rc1b, 1454398332.0, 101
+173, [Hostages were released as soon as Ronald Reagan took office because Iran perceived that America was "no longer under the command of someone weak." --  Marco Rubio on Sunday, January 17th, 2016 in an interview on "Meet the Press"], 41gi4d, 1453108046.0, 98
+174, [The incredible shrinking middle class: 1/2 the country is either living in poverty or damn near close to it - New reports indicate 2/3 of Americans can no longer afford to fix their cars. Our Congress should be ashamed], 3xyrrm, 1450909591.0, 97
+175, [McDonald's Gives Its Shareholders $30 Billion as Its Workers Protest for $15 an Hour - In cities across the US, thousands of fast-food & service industry workers walked off the job on Tuesday to demand that McDonald's & their other employers start paying a living wage of $15 an hr. (xpost-/r/greed)], 3secdo, 1447272960.0, 101
+176, [GOP congressman on Clinton: 'A lady needs to be told when she's being nasty'], 58n719, 1477085239.0, 102
+177, [Giuliani's daughter says she's voting for Clinton], 5694pw, 1475835180.0, 99
+178, [Reports confirm Donald Trump's dad was arrested at Klan rally, and that those arrested were "berobed"], 505h0w, 1472512213.0, 97
+179, [Just a thought], 4ysv0h, 1471778271.0, 98
+180, [The House science committee hates science & should be disbanded - It's become a national embarrassment & does more harm than good.], 4jcxc5, 1463285428.0, 99
+181, [Ohio Republicans Pushing Bill To Charge Residents For Extending Voting Hours - "What types of places would be allowed to stay open? Only wealthy areas, where people tend to vote Republican."], 4fh4w1, 1461094240.0, 98
+182, [The Bottom 90% of Americans' Incomes Grow Much Faster Under Democrats], 4c29ed, 1459045763.0, 99
+183, [Fox News Cuts Away From Hillary Clinton's Speech About ISIL to Complain That She's 'Too Calm'], 4br94s, 1458849524.0, 101
+184, [Harry Reid OpEd to GOP: For the good of the country, stop your nakedly partisan obstruction: "Having gridlocked the Senate for years, Republicans now want to gridlock the Supreme Court with a campaign of partisan sabotage aimed at denying the presidents constitutional duty to pick nominees."], 462els, 1455657739.0, 102
+185, [Clinton and Sanders agree to 4 more debates], 43f8ol, 1454207317.0, 100
+186, [Bernie Sanders Introduces Bill Ending The Federal Ban On Marijuana: The measure would remove marijuana from the DEA's list of "most dangerous" drugs.], 3rjptq, 1446702391.0, 100
+187, [Michelle Obama Obliterated Donald Trump Without Once Saying His Name], 57fsr6, 1476472012.0, 102
+188, [Ken Burns shreds Trump: You need a president who doesnt just lie 200 or 300 times a day], 4vmevx, 1470085868.0, 98
+189, [FBI Recommends No Criminal Charges Against Hillary Clinton], 4rd988, 1467761707.0, 101
+190, [Planned Parenthood Sues Ohio After AG Claims to Have Found 'Fetal Remains' in Landfill], 3wsubg, 1450139106.0, 98
+191, [New Ohio poll puts Hillary Clinton ahead of Donald Trump by 9 points], 573mfi, 1476301384.0, 99
+192, [This is not how men talk. It's how sexual predators talk], 56k6nj, 1476006586.0, 101
+193, ["Hillary Clinton and her campaign of 2008 started the birther controversy."  Donald Trump on Friday, September 16th, 2016 in a speech], 5345wk, 1474089321.0, 95
+194, [Trump would wreck, not restore, Americas standing in the world], 4tyn70, 1469156744.0, 96
+195, ["We now do have evidence" that Donald Trump is being used as a recruiting tool for terrorists.  Hillary Clinton on Thursday, May 19th, 2016 in an interview on CNN], 4kacrd, 1463806471.0, 98
+196, [Maricopa County, Arizona Cuts Number Of Polling Places From 200 To 60, Chaos Ensues], 4bmknb, 1458770468.0, 94
+197, [Texas woman who believes the Civil War was not caused by slavery, Barack Obama is a former gay Arab prostitute, and gays are abominations could change Americas textbooks], 48om7g, 1456984884.0, 97
+198, [Elizabeth Warren Blasts a Republican Plan to Protect White-Collar Criminals - Its like you cant make this stuff up, right? The idea that the Republicans are trying to gut one of the main laws to prevent bank fraudthats their response to the 2008 financial crisis. (xpost-/r/greed)], 44b149, 1454711276.0, 99
+199, [Bernie Is Absolutely Right: Climate Change Makes Terrorism Worse], 3swae5, 1447624865.0, 96
+200, [Donald Trump was paid $5 million by the Saudi government], 55wzl3, 1475659038.0, 97
+201, [Why Donald Trump Should Not Be President: He dwells in bigotry, bluster and false promises.], 54i60t, 1474880538.0, 96
+202, [Trump's kids are cashing in on his campaign: Donald Trump has so far paid $7.7 million in campaign contributions to his own companies and children, according to a filing with the Federal Elections Commission, and as the campaign transitions to the general election those payments are increasing], 4z4zup, 1471960025.0, 96
+203, [Louisiana Governor Signs Executive Order Protecting LGBT Rights, Stands Alone In Deep South], 4en876, 1460604522.0, 95
+204, [Republican Combat Vet: Trump Is Openly Advocating War Crimes], 4a9gzb, 1457924136.0, 93
+205, [Face it, Oregon building takeover is terrorism], 3zfobd, 1451957094.0, 96
+206, [Bernie Sanders Unveils Forceful Climate Change Plan, and he's Going After Big Oil: He even wants to bar fossil fuel lobbyists from working in the White House], 3w2c77, 1449691481.0, 95
+207, [Donald Trump cheats on local and state taxes, turning Trump facilities into drains on communities], 59kzw4, 1477555496.0, 95
+208, [Democrats donate to help reopen firebombed Republican office in NC (currently at $9,191 of $10k goal)], 57uwaj, 1476697480.0, 98
+209, [More questionable footage of Trump and comments on women: In an Entertainment Tonight Christmas feature in 1992, Trump looked at a group of 10-year-old girls and said he would be dating one of them in ten years. At the time, Trump would have been 46 years old.], 577ais, 1476344528.0, 96
+210, [Paul Ryan Busted By Fact Checkers For Lying About Obama Obstruction Precedent], 49cufz, 1457389859.0, 97
+211, [Rubio And Cruz Took Anti-Environmental Stances On 100% Of Key Votes In 2015 - The 2015 National Environmental Scorecard called the Republican-led Congress the most anti-environmental Congress in our nations history.], 47ot0m, 1456518645.0, 97
+212, [Bernie Sanders to join Minneapolis forum on black issues; Hillary Clinton not attending], 44wxd5, 1455057497.0, 95
+213, [Donald Trump Takes 3 Different Positions On The Minimum Wage In Less Than 30 Seconds], 4uyheb, 1469702428.0, 95
+214, [This image from the RNC tonight pretty much sums the evening up], 4tvfqe, 1469107347.0, 98
+215, [Says Donald Trump has "bankrupted his companies not once, not twice but four times."  Hillary Clinton on Tuesday, June 21st, 2016 in a speech on the economy], 4p6x2i, 1466571543.0, 91
+216, [African-American Family Is Furious Donald Trump Fraudulently Uses Their Photo to Claim They Support Him: When I saw it, I immediately knew it was political propaganda], 4mn5q3, 1465158275.0, 93
+217, [Ted Cruz's Dad: My Son Ran for President After God Sent His Wife a Sign - And other tales from Rafael Cruz's world of extreme Christian fundamentalism.], 4767t0, 1456256201.0, 95
+218, [The GOP are literally killing middle America - Working class white voters are dying at alarming rates, following a generation of shredding the safety net], 3uu931, 1448911528.0, 96
+219, [True: Ten times more 'dark money' has been spent for 2016 elections than 2012, U.S. Sen. Tammy Baldwin says], 3s2ef7, 1447055137.0, 97
+220, [Elizabeth Warren Just Blasted The FBI Director For Going After Hillary Instead Of Wall Street Crooks], 5a8ieh, 1477892824.0, 92
+221, [2008 Video Trump Lauding Praises on the Clintons: "Great Senator, Great Wife, Great President"], 58dca4, 1476945922.0, 98
+222, [Michael McFaul (former Ambassador to Russia) on Twitter: "BTW, Trumps line that Obama founded ISIS echoes exactly a myth propagated by Russian state-controlled media and bloggers."], 4xcls5, 1471020707.0, 92
+223, [Senator Who Has Received More NRA Support Than Anyone Blames Obama For Orlando Shooting], 4oj860, 1466199025.0, 90
+224, [Obama attacks Trump's worldview in front of graduates: Ignorance is not a virtue. Its not cool to not know what youre talking about. Thats not keeping it real, or telling it like it is.], 4jl9ho, 1463435775.0, 96
+225, [Michael McFaul (Former Ambassador to Russia) on Twitter: "Trump complains about others not paying their taxes & then he pays nothing. He criticizes "weak" veterans when he has never served. #Enough!"], 55tedd, 1475615508.0, 94
+226, [Real Americans Dont Want to Defend Toilets. The GOP Doesnt Care About Real Americans. - Pretty much everyone is sick of phony culture wars and needless intolerance. Except for Republican elected officials.], 4j5s4h, 1463165662.0, 91
+227, [Paul Ryan isn't a moderate alternative to Donald Trump. He's not a moderate at all.], 4eg7cp, 1460498404.0, 94
+228, [New Hampshire Students Say They Were Illegally Turned Away From The Polls], 452a0w, 1455132709.0, 94
+229, [Voters give Democrats control of Pennsylvania Supreme Court: "Democrats have won all three open seats on Pennsylvania's Supreme Court. The victory secures them a majority on the high court for at least a decade"], 3rgiq2, 1446644553.0, 97
+230, [Trickle-Down Economics Has Ruined the Kansas Economy - And it threatens to launch a civil war within the state's Republican Party.], 4huzam, 1462404466.0, 92
+231, [Bernie Sanders tuition-free college plan could work, UMass study says], 4a5ze7, 1457853368.0, 89
+232, [Obama Slams Republicans: "Not American" To Only Accept Christian Syrian Refugees], 3t2jry, 1447737865.0, 92
+233, [Study: Bots accounted for a third of all pro-Trump Twitter activity during the debate], 5827tf, 1476797670.0, 90
+234, [These ladies hilariously objecting to their mothers Trump sign.], 56kgwn, 1476011094.0, 92
+235, [Latinos for Trump founder: Hispanics are a primitive and underdeveloped culture], 52khyh, 1473802807.0, 91
+236, [Sadistic pervert Roger Ailes is advising Donald Trump. Why isnt that a scandal?], 51n1zz, 1473305438.0, 91
+237, [Obama Has Now Commuted More Sentences Than The Past 9 Presidents Combined], 4w46ls, 1470341195.0, 88
+238, [GOP Homophobes Suddenly Find a Use for Gays - After years of supporting some of the most discriminatory & hateful legislation aimed at the LGBT community, some top Republicans finally found a way to exploit the community as it grieved the Orlando shootings.], 4nuyrx, 1465841224.0, 93
+239, [Sanders: We must rethink 'failed' war on drugs], 4bhtri, 1458688812.0, 91
+240, [In victory for Bernie Sanders, Ohio judge says 17-year-olds can vote in primary], 4a1tff, 1457775101.0, 91
+241, [Obama administration has decided to place lions in Africa under the protection of the Endangered Species Act, an action that will set a higher bar for hunters who want to bring lion trophies into the United States.], 3xpc99, 1450735260.0, 94
+242, [Louisiana Just Voted to Give a Quarter of a Million People Health Care], 3twpqr, 1448286285.0, 93
+243, [Donald Trump's companies destroyed or hid documents in defiance of court orders], 5absje, 1477943724.0, 89
+244, [Trump, companies accused of mistreating women in at least 20 lawsuits], 56rofm, 1476130797.0, 91
+245, [Trump caught saying 50% of Americans are lazy do-nothings], 52uhir, 1473941046.0, 90
+246, [Justice Department says it will end use of private prisons], 4ycxas, 1471563383.0, 91
+247, [Sanders Texts Delegates Personally to Ask Them Not to Protest at Convention], 4ulpqg, 1469519723.0, 91
+248, [For the First Time in American Political History, Two Transgender Women Win Major-Party Primaries [Both Are Democrats]], 4qg4qo, 1467243113.0, 90
+249, [Apple Dumps Trump By Refusing To Provide Money Or Technology To GOP Convention], 4opk13, 1466301737.0, 93
+250, [Hillary Clinton Reached Out to Super Delegates Over a Year Ago; Bernie Sanders Is Just Contacting Them Now - That's Why 541 Are Pledged to Her, While He Has Only 43], 4lnltt, 1464605988.0, 90
+251, [Nevada Poll: Sanders 45%, Clinton 45%], 45fb74, 1455320921.0, 90
+252, [Can we stop pretending that Republicans care about the deficit now?], 3xcov3, 1450480527.0, 90
+253, [Donald Trump says Obama administration is pushing refugees toward states with GOP governors], 3tcnmt, 1447913218.0, 87
+254, [Poll: 63 percent say FBI review makes no difference in vote for Clinton], 5a68fv, 1477866404.0, 90
+255, [Most Ohio Voters Purged From The Rolls Live In Black, Democratic Neighborhoods - Far more Democrats than Republicans are being purged in the state's most populous counties.], 4mckc4, 1464984631.0, 88
+256, [Hillary Clinton and Bernie Sanders are teaming up to sue the state of Arizona], 4etkue, 1460700099.0, 89
+257, [Jimmy Carter says he no longer needs cancer treatment], 49apaj, 1457350025.0, 87
+258, [George H.W. Bush to vote for Hillary], 53ljlz, 1474371477.0, 89
+259, ["Republicans held 50+ failed votes trying to TAKE Healthcare away from the Sick. Now calling #NoBillNoBreak a Political Stunt."], 4pdphu, 1466667120.0, 88
+260, [Hypocrite Alert: Trump Has Long Mocked Obama for Using a Teleprompter; Now Trump Is Also Using a Teleprompter], 4n2ll4, 1465378704.0, 88
+261, [Weve got to have the guts to rethink the so-called War on Drugs: Bernie renews call to legalize pot at debate], 4exd21, 1460764698.0, 85
+262, [Obama can appoint Merrick Garland to the Supreme Court if the Senate does nothing], 4eavej, 1460413075.0, 86
+263, [What happened in Arizona wasnt an accident: When states make voting impossible, its for a very clear reason - Arizona residents were forced to wait hours on line in order to vote in this week's primary. Some were turned away.], 4brcik, 1458851443.0, 90
+264, [Cleveland seeking to buy riot gear for Republican National Convention], 48xng8, 1457132453.0, 88
+265, [Yes, I Support Bernie Sanders. No, Im Not Naive or Unrealistic], 434wtz, 1454038528.0, 90
+266, [Cruz Says Hes Never Met An Abortion Opponent Who Advocates Violence, Despite Endorsement From One], 3v0d41, 1449014131.0, 90
+267, [Massive Respect for NYT: Dean Baquet said at Harvard that hed risk jail time to publish Donald Trump's taxes. And, two weeks later, he did.], 55gqdt, 1475408993.0, 88
+268, ["ISIS is making millions of dollars a week selling Libyan oil."  Donald Trump on Wednesday, April 27th, 2016 in a foreign policy speech], 4grebp, 1461830764.0, 87
+269, [Mayor of Phoenix Asks DOJ to Investigate Long Voting Lines - He said the situation was "unacceptable anywhere in the United States."], 4bw3ug, 1458934786.0, 84
+270, [Americas shameful state of decay: Sanders is campaigning on rebuilding the countrys infrastructure  will it work? - Sanders is promising an FDR-style public works program to rebuild our crumbling infrastructure. Here's how], 46xrvd, 1456123922.0, 88
+271, [Robert Reich: Ive Known Hillary Since She Was 19. Bernie Sanders is the Most Qualified Candidate], 42ojdf, 1453794050.0, 90
+272, [Trump Foundation ordered to stop fundraising by N.Y. attorney generals office], 55oqzi, 1475543961.0, 87
+273, [Gary Johnson, Libertarian candidate for president, Wants to Ignore Climate Change Because the Sun Will Destroy the Earth One Day], 544ijt, 1474663611.0, 85
+274, [Trump Said He Would Bring Jobs Back To The Country. He Just Quietly Hired 78 Foreign Workers.], 4v2s1f, 1469766199.0, 87
+275, [Obama calls for adding public option to ACA.], 4sdn2n, 1468304457.0, 85
+276, [Texas's Republican Governor & Florida's Republican Attorney General Received $60,000 in Political Donations from Donald Trump After They Dropped Official Investigations Into Trump University], 4m7fm7, 1464906804.0, 86
+277, [Donald Trump has collapsed in general election polls], 4cve10, 1459542820.0, 83
+278, [Watch: Trump supporter yells Go to f*cking Auschwitz at protesters "while raising his arm in what looks like the Nazi salute"], 4adi7e, 1457997785.0, 87
+279, [Chuck Todd drops a bombshell: At least one GOP senator plans to endorse Hillary if Trump wins], 48k3pw, 1456915507.0, 86
+280, ["We (Trump University) have an A from the Better Business Bureau."  Donald Trump on Sunday, February 28th, 2016 in comments on "Meet the Press"], 487nqd, 1456738705.0, 88
+281, [Let's get real: Democrats confirmed Reagan's Supreme Court nominee during the Iran-Contra Scandal!], 47f7xf, 1456379570.0, 89
+282, [Gay Republicans Care More About Democrats Losing Than LGBT Equality], 4400ly, 1454538573.0, 89
+283, [Robert Gates: Republicans' grasp of national security is at a child's level], 43oxk2, 1454369551.0, 86
+284, [I vehemently oppose gun control... except when I don't!], 4262cm, 1453506279.0, 84
+285, [It has come to this], 3vo1b0, 1449444983.0, 87
+286, [Killer Mike Introduces Bernie Sanders in Atlanta: "After spending five hours with someone who has spent the last 50 years radically fighting for your rights and mine...I am very proud tonight to announce the next President of the United States, Sen. Bernie Sanders"], 3u10yk, 1448362282.0, 84
+287, [Simon Maloy (Political writer for Salon) on Twitter: "this is a hell of a photo"], 54f4kt, 1474839548.0, 83
+288, [Meg Whitman, Calling Donald Trump a 'Demagogue,' Will Support Hillary Clinton for President], 4vw9pa, 1470219792.0, 82
+289, [CBS Reporter To Trump: Why Do You Bash Clinton On Iraq War Vote But Not Pence?], 4ten7z, 1468868663.0, 81
+290, [President Obama Creates 1st National Monument to Gay Rights - The Stonewall National Monument tells the story of LGBTQ struggles in the US], 4ps61v, 1466883579.0, 85
+291, [Why Obama Will Go Down as One of the Greatest Presidents of All Time | " But the truth is coming, and it sounds like this: Barack Obama will be inducted into the league of Great Presidents."], 4f0nbd, 1460813304.0, 84
+292, [Fracking Can Contaminate Drinking Water: It took nearly a decade, but former EPA scientist Dominic DiGiulio has proved that fracking has polluted groundwater in Wyoming], 4dgwia, 1459898736.0, 83
+293, [Iran Reveals Republicans Tried To Delay Release Of US Prisoners Until After Election 2016], 45wx7w, 1455578505.0, 85
+294, [The Bundys want federal land 'returned' to them. But it was never 'theirs' in the first place.], 3zqr7e, 1452129644.0, 83
+295, [Vox: A Trump Collapse could Give Democrats Back the House], 56iz5n, 1475989166.0, 86
+296, [Virginia Governor Terry McAuliffe Once Again Tries to Restore Voting Rights for Felons], 4z70v9, 1471994854.0, 80
+297, [Moody's: Clinton economy would create 10 million jobs], 4v9wt1, 1469870591.0, 83
+298, [6 more women accuse Fox head Roger Ailes of sexual harassment  including one who was 16 at the time], 4s1l44, 1468118115.0, 81
+299, [Actual Billionaire Mark Cuban Questions Whether Trump Is Actually A Billionaire: "Trumps lack of transparency with his finances makes his net worth difficult to determine"], 4mk3pz, 1465101298.0, 82
+300, [Trump Conveniently Wrote Checks to Veterans Groups the Same Day He Came Under Media Scrutiny], 4mgzt0, 1465046973.0, 85
+301, [Just What Were Donald Trump's Ties to the Mob? "No other candidate for the White House this year has anything close to Trumps record of repeated social and business dealings with mobsters, swindlers, and other crooks."], 4kj7mo, 1463962748.0, 85
+302, [Elizabeth Warren tears into Ted Cruz: Ive got two words for you, Ted: Boo hoo], 4fogjf, 1461201957.0, 84
+303, [Donald Trump's Idiot Guide to Foreign Policy: The GOP Frontrunner Has No Idea How the World Actually Works - It's becoming increasingly clear that Trump isn't just inexperienced  he's actually living in a fantasy world.], 46v5hv, 1456088202.0, 85
+304, [This could be your next President!], 3xjn1k, 1450614798.0, 85
+305, [Americas New Know-Nothings: The Republican Partys top presidential candidates proved that they know nothing about foreign policy.], 3x34a5, 1450307560.0, 86
+306, [Trump Held Fundraiser For Pam Bondi At Mar-a-Lago After She Dropped Investigation], 51kk6c, 1473272079.0, 79
+307, [Trump campaign chief is registered to vote in Florida at unoccupied home], 4zo4v1, 1472240098.0, 83
+308, [Hit the ground!: Trump supporter pulls gun on Black Lives Matter rally in Portland], 4ru52d, 1468004581.0, 80
+309, [Trump didn't pay taxes to IRS, claimed negative income, unearthed old IRS filings show], 4jjvrj, 1463407780.0, 84
+310, [Hey Kansas, Bullying Trans People Won't Fix Your State's Fucked-Up Budget], 4j95gn, 1463213271.0, 81
+311, [Land of the free? New reports shows the US ranks dead last in electoral integrity | "As if further proof could possibly be needed of the sorry state of the American electoral process, a new study just ranked the United States dead last in electoral integrity among established Western democracies."], 4fcu0l, 1461027564.0, 83
+312, [Flint Polling Places Ran Out Of Ballots, Turned Voters Away - Voters had to either wait over an hour or come back later to fill out their ballots.], 49ntn8, 1457555007.0, 83
+313, [Bernie Sanders chokes up as tearful woman describes struggles of living on less than $12,000 a year], 42r0p4, 1453834773.0, 82
+314, [Obama: Violent felons can buy guns online without background checks], 3znrqa, 1452077802.0, 80
+315, [There is no war on prayer: Stop hand-wringing over prayer shaming and confront the hypocrisy of empty gestures - Conservatives offering only platitudes like "thoughts and prayers" after San Bernardino need to be called out], 3vnpep, 1449438187.0, 85
+316, [John Bel Edwards beats David Vitter to become Louisiana's next governor], 3trsrn, 1448190724.0, 85
+317, [Gallup: Life got better for pretty much everyone under Obama], 50i355, 1472690036.0, 83
+318, [Anarchists Put Naked Statues of Donald Trump in Cities Across the US], 4yii9r, 1471636806.0, 83
+319, [House Democrats Hold Sit-In on Gun Control | "House Democrats led by Civil Rights veteran Rep. John Lewis, D-Georgia, are in the midst of a sit-in on the chamber floor to try and force a vote on gun control."], 4pbeuo, 1466640213.0, 82
+320, [Stop. Rachel Maddow is Not "Basically Fox News," and Dozens of Good Democrats Aren't Corrupt Shills], 4d40le, 1459670884.0, 81
+321, [Bernie Sanders rips into Donald Trump: Everybody knows this man cannot stop lying], 4a8y3w, 1457916271.0, 82
+322, [Why Donald Trump's Tax Returns May Prove He's Not That Rich: "Trump appears to have overstated his income, by a lot, which could be the reason he has so far tried to avoid releasing his returns."], 4a42t8, 1457823204.0, 82
+323, [White Privilege - The blundering Bundys who have occupied the Oregon nature refuge send out for toilet paper and french vanilla creamer, Meanwhile 12 year Tamir Rice is shot and killed on sight for playing with a toy gun in an open carry state, police thought he was an adult??..OPEN CARRY??], 40e4ya, 1452500761.0, 78
+324, [How Republicans view American freedom], 3tdtt2, 1447931617.0, 80
+325, [Poll: Majority of New Jersey voters say Christie should quit White House race], 3s9me8, 1447188600.0, 83
+326, [Ben Carson admits fabricating West Point scholarship], 3rsm21, 1446864135.0, 86
+327, [Donald Trump thinks SNL is rigging the election and should be canceled], 57sr8d, 1476670849.0, 81
+328, [Who would have thought we would see these statements a month out from Election Day?], 56hmkr, 1475971959.0, 79
+329, [The polls are not rigged. Donald Trump is just losing.], 4zbies, 1472055462.0, 79
+330, [Donald Trumps Support Among Republican Women Starts to Slide: Many women are abandoning decades of party loyalty, calling Mr. Trump emotionally unfit for the presidency and a menace to national security.], 4x14nj, 1470845881.0, 83
+331, [Paul Krugman on Twitter: "Trump to call for end to estate tax, which only kicks in at $10.9 million. Populism! http://bloom.bg/2b25fhq via @bpolitics"], 4wpuke, 1470687437.0, 79
+332, [With its new logo, the Trump/Pence campaign gets off to an appropriately pornographic start.], 4t08q6, 1468632331.0, 79
+333, [NRA Members Want To Know Why Their Organization Isnt Defending Philando Castile], 4s08r1, 1468098780.0, 79
+334, [Sorry, Donald Trump, the Trump University judge was just following the law], 4mz2xt, 1465335659.0, 80
+335, [When there is no middle class, there cannot be real democracy - Franklin knew it. So did John Quincy Adams. Working for the common good is essential to a functioning republic.], 4dvz1w, 1460144034.0, 81
+336, [Bernie Sanders accuses Republican governors of voter suppression], 4d8o78, 1459757767.0, 83
+337, [Hillary Clinton wrongly says Bernie Sanders wants to delay the Clean Power Plan], 4csqfp, 1459496263.0, 83
+338, [Canadian Island Launches Move Here if Trump Wins Campaign to Americans], 46g7rf, 1455849425.0, 81
+339, [Supreme Court Justice Antonin Scalia dead at 79.], 45n014, 1455430302.0, 77
+340, [Ted Cruz is not eligible to run for president: A Harvard Law professor close-reads the Constitution - The closer you study the Constitution, the weaker Ted Cruz's case squares with the actual meaning of "natural-born"], 41uttd, 1453332772.0, 81
+341, [At Least 110 Republican Leaders Wont Vote for Donald Trump. Heres When They Reached Their Breaking Point.], 504jdm, 1472498849.0, 81
+342, [By 4 To 1 Margin, Business Economists Say Clinton Would Manage Economy Better Than Trump], 4z1oka, 1471915854.0, 80
+343, [Obama: Every time Trump talks, 'he makes the case against' himself], 4xz8s3, 1471379524.0, 79
+344, [Trump barred from speaking to NYPD officers; Bratton says Dallas tragedy not a photo op], 4rxaad, 1468044953.0, 80
+345, [Trumps Delusions of Competence: "the idea that Donald Trump, of all people, knows how to run the U.S. economy is ludicrous."], 4lacen, 1464378045.0, 83
+346, [After Months of Bragging About Self-Funding His Campaign, Trump Begs for Money from Big GOP Donors He Was Trashing as Recently as a Month Ago], 4k26g6, 1463689291.0, 82
+347, [Politifact: 2016 GOP Presidential Frontrunners Lie With Impunity], 4bdwmr, 1458618276.0, 81
+348, [The man accused of killing three people at a Planned Parenthood clinic in Colorado asked at least one person in a nearby shopping center for directions to the facility before opening fire offering the clearest suggestion yet that he was targeting the reproductive health organization], 3vxizh, 1449612918.0, 77
+349, [Ben Carson did not apply and was not admitted to the U.S. Military Academy, despite writing in his book "Gifted Hands" that he had gotten a full scholarship offer from the school, his presidential campaign told ABC News.], 3rvvqu, 1446930895.0, 82
+350, [A New Wave Of 40 Republican And Independent Leaders Just Endorsed Hillary Clinton], 555l8q, 1475227511.0, 78
+351, [Donald Trump Is Playing the Religious Right for Rubes: Hes a thrice-married, epically greedy, congenitally dishonest serial adulterer who exalts the rich while heaping scorn upon the vulnerable. Yup, hes their man!], 519wbs, 1473117961.0, 77
+352, [Longtime Republican consultant: if black people voted Republican, voter ID laws wouldn't happen], 50uvdp, 1472871573.0, 79
+353, [Bitch! Beaner! Ni***r!: Trump Rallies Uncensored], 4w0mcf, 1470284527.0, 80
+354, [Congress spent more time investigating Benghazi than it did 9/11], 4rd7lm, 1467761201.0, 82
+355, [The brutal numbers behind a very bad month for Donald Trump: "Trump has consistently polled worse than George W. Bush in 2004, John McCain in 2008 and Mitt Romney in 2012"], 4otp67, 1466378364.0, 79
+356, [Mitch McConnells Laziest Senate In History Will Work 6 Days In July And August], 4kwf6r, 1464157050.0, 81
+357, [Trump Flip-Flops, Now Says He Won't Self-Finance His Campaign, Begins Looking for Suckers to Fund His Campaign], 4hxc5v, 1462434189.0, 77
+358, [Lame Duck Gov. Bobby Jindal Is Using His Last Days To Screw Over 31,000 Unemployed Louisianians], 3z6784, 1451789488.0, 79
+359, [New Kentucky Gov Lowers Minimum Wage By $3, Revokes Voting Rights For 140,000], 3y1qqw, 1450961195.0, 80
+360, [Republican faces recall after saying the real culprit in Colorado mass shooting is Planned Parenthood], 3vi0zq, 1449314801.0, 79
+361, [Trump Caught LYING On Medical Records To Avoid 'Obese' Classification], 559rwd, 1475294537.0, 76
+362, [Lets not get it wrong this time: The terrorists won after 9/11 because we chose to invade Iraq, shred our Constitution - We destroyed ourselves with our dumb 9/11 overreactions. It's essential not to make the same mistake again], 3sxjf2, 1447646596.0, 81
+363, [Report: Trump discussed continuing Apprentice from White House], 4yz8j5, 1471875882.0, 77
+364, [Part of Melania Trumps Speech Was Lifted Almost Verbatim From Michelle Obamas 2008 DNC Remarks], 4tjdho, 1468931572.0, 77
+365, [In Front of an Overwhelmingly White Audience, Donald Trump Compares Himself to Martin Luther King, Mocks the Japanese, and Pretends He's a Veteran When Talking to Vets About Memorial Day: Its Our Day"], 4lmx2a, 1464594854.0, 79
+366, [This is not a court of law: Why GOP obstruction over Scalia seat might open everyones eyes to a politicized Supreme Court - Any remaining faith that justices are anything but robed politicians is out the window.], 49cfjp, 1457383221.0, 79
+367, [The Kochs Worst Nightmares Come True As Bernie Sanders Smashes Fundraising Records], 3z6691, 1451789114.0, 77
+368, [Bryan Cranston says history will judge President Obama's time in the White House "very favorably."], 3sgzpk, 1447314703.0, 77
+369, [Clinton ally promises $5 million donation to veterans -- if Donald Trump releases his tax returns], 4soijc, 1468461597.0, 75
+370, [Bernie Sanders Endorses Hillary Clinton], 4shoso, 1468367504.0, 74
+371, [Donald Trump's "Star of David" Hillary Clinton Meme Was Created by White Supremacists], 4r2j9g, 1467590145.0, 77
+372, [Trump Completely Contradicts Himself On Taxes For The Wealthy In Two Interviews Hours Apart], 4ijxw9, 1462835055.0, 77
+373, [State chemist was high daily, 1000s of drug prosecutions jeopardized - "She was smoking crack 10 to 12 times a day", high on the job nearly every day for 8 yrs on drugs like crack, meth, LSD, & ketamine as she testified in court in drug cases. ACLU demands "wrongful convictions" be undone.], 4i4wm7, 1462567364.0, 78
+374, [Donald Trump loses his mind, demands long-deceased Joe Paterno be given his job back], 4eqqtz, 1460663056.0, 76
+375, [White Supremacist SuperPAC floods "every Wisconsin landline" with robocalls supporting Donald Trump], 4dct6q, 1459828590.0, 75
+376, [The GOP is the straight, white, Christian party: This is why Donald Trump is winning  and why I left a party of intolerance and hate - Republicans reject cultural diversity of any kind. It explains Trump, and why I can't be a gay GOP activist anymore], 48gqjc, 1456872030.0, 77
+377, [DNC Chair: Superdelegates Exist to Protect Party Leaders from Grassroots Competition], 45i81a, 1455358631.0, 78
+378, [Michael Moore explodes the rights biggest lie - Republicans have hid shamefully behind the patriotism & the flag. Michael Moore upends the whole scheme], 3yaj3k, 1451172160.0, 75
+379, [30 per cent of Republicans polled supported bombing Agrabah, the fictional city in Aladdin], 3xgmh4, 1450558950.0, 75
+380, [Meet a 92-Year-Old Woman Whose Life Was Ruined by Donald Trump], 59hj2q, 1477517625.0, 76
+381, [Nine more Native American tribes request early voting on their reservations: Some of them have to drive 200 miles round-trip to vote.], 596315, 1477361635.0, 73
+382, [The real vote rigging: Republicans make it harder for millions to vote in 2016 election], 58b7tq, 1476923494.0, 74
+383, [daveweigel (WaPo) on Twitter: "I've been seeing dudes selling/wearing "TRUMP THAT BITCH" shirts at Trump rallies since April. Go ahead and pretend the problem is one man."], 56nbbu, 1476064185.0, 73
+384, [Suburban Women Find Little to Like in Donald Trumps Debate Performance: Undecided women in Philadelphias suburbs, a crucial voting bloc, said Mr. Trump had not only failed to win them over but in many cases had repelled them.], 54wap8, 1475097860.0, 74
+385, ["I released the most extensive financial review of anybody in the history of politics.  You don't learn much in a tax return."  Donald Trump on Tuesday, September 6th, 2016 in an interview with ABC News], 51pmfr, 1473338459.0, 76
+386, [Donald Trumps $100,000 donation to Louisiana flood victims went to a local anti-gay hate group: Trumps six figure donation actually went to a group called the Greenwell Springs Baptist Church, which is a local front for interim pastor Tony Perkins, the head of the Family Research Council], 4z31f1, 1471931901.0, 75
+387, [CNN Poll of Polls: Clinton tops Trump by 10], 4wpmx5, 1470683799.0, 74
+388, [Democrats Have a Plan to Register 50 Million New Voters - If more people vote, Trump-Pence loses.], 4t4lyu, 1468705785.0, 75
+389, [Donald Trump Tried to Cheat Veterans out of $1 Million], 4l5ejg, 1464299659.0, 75
+390, ["There are places in America that are among the most dangerous in the world. You go to places like Oakland. Or Ferguson. The crime numbers are worse. Seriously."  Donald Trump on Wednesday, May 18th, 2016 in an interview with the New York Times Magazine], 4l2nmw, 1464250122.0, 72
+391, [Elizabeth Warren Kicks Off Grassroots Effort To Take On Wall Street - "No cheating, & no pushing the risks on taxpayers."], 4kzh74, 1464209541.0, 79
+392, [Trump Structured His Campaign So He Can Pay Himself $36 Million From Other People's Donations], 4kfct3, 1463891930.0, 74
+393, [ACLU Sues Ohio Over Purging Minority and Low Income Votes], 4dn723, 1459997676.0, 75
+394, [Atlanta: "About 30 black students who were standing silently at the top of the bleachers at Donald Trumps rally here Monday night were escorted out by Secret Service agents who said the presidential candidate had requested their removal before he began speaking"], 48eutu, 1456840881.0, 73
+395, [Bernie Sanders has released his Medicare-for-All plan - A typical family of four with wages of $50,000 and an employer health-plan with $4,955 in annual premiums and a $1,318 deductible would pay only $466 through the new 2.2 percent tax, and save $5,807, or 12 percent of income, on net.], 41hofx, 1453126399.0, 75
+396, [Obama says Republicans 'afraid of three year old orphans'], 3tbbw0, 1447894989.0, 76
+397, [Bernie Sanders' $1 trillion infrastructure bill would be cheaper than Iraq War], 3rqqny, 1446827966.0, 76
+398, [Hillary Clinton: 1/2 of Trump Supporters Belong in 'Basket of Deplorables' - Says many of the GOP candidate's voters Are "racist, sexist, homophobic, xenophobic, Islamaphobic, you name it."], 5231bc, 1473541954.0, 73
+399, [Breitbart Editor Milo Yiannopoulos Takes $100,000 for Charity, Gives $0 - The alt-right icon promised to give scholarships to white men, but almost a year later he still hasnt filed with the IRS or handed out a penny.], 4yj63n, 1471645118.0, 74
+400, [It might be time for Republicans to start worrying about their House majority], 4y187j, 1471403071.0, 74
+401, [Dan Merica (Political Producer for @CNNPolitics) on Twitter: "HRC's top policy adviser: Trump "encouraged a foreign power to conduct espionage against his political opponent.""], 4uw53w, 1469673144.0, 74
+402, [Kasich Says He Just Cant Bring Himself To Vote For Trump Despite Pledge], 4ogorq, 1466153283.0, 72
+403, [President Barack Obama endorses Hillary Clinton for president], 4nc02m, 1465523561.0, 72
+404, [Is it Going to Take a Goddamned Lynching at a Trump Rally to Wake People Up?], 49v2pl, 1457667648.0, 70
+405, [The Armed Oregon Ranchers Who Want Free Land Are Already Getting A 93 Percent Discount], 3zkb29, 1452032070.0, 75
+406, [Bernie Sanders Slams GOP On Voting Rights: 'They're Political Cowards!'], 3rxotz, 1446962030.0, 70
+407, [Trump picks top skeptic to lead EPA transition: Donald Trump has selected one of the best-known climate skeptics to lead his U.S. EPA transition team], 54ktsz, 1474928796.0, 76
+408, [CNN commentator Lewandowski remained on Trump payroll in August], 53s3ul, 1474473160.0, 74
+409, [Watch Ivanka Trump Straight Up LIE], 5309iw, 1474028685.0, 73
+410, [How Democrats could win the House: With lots of help  and almost no mistakes], 4xo2qf, 1471209799.0, 70
+411, [Elizabeth Warren On Twitter: "I didnt think the GOP could write 1 bill to hurt women, vets, Obamacare, PP, AND clean water all at once  but they did it. #Zika Is this some sort of sick joke, @SenateGOP? Is the #Zika virus  and our countrys response to this emergency  just a game to you?!"], 4qdjc0, 1467200246.0, 72
+412, [Trump SCOTUS pick William Pryor would have let states jail LGBT people for having sex in their homes], 4k5qpx, 1463734496.0, 74
+413, [Hillary PAC Spends $1 Million to Correct Commenters on Reddit and Facebook], 4fvnzy, 1461308798.0, 70
+414, [Mostly False - Dinesh D'Souza: "As a U.S. senator with salary and perks, #Bernie is in the top 1 percent, but still paid only 13 percent in taxes last year."], 4ft681, 1461277316.0, 72
+415, [Formerly Homeless Veteran Nearly Disenfranchised By Wisconsins Voter ID Law - It all began with a clerical error on his birth certificate.], 4d68z3, 1459721087.0, 71
+416, [Donald Trump supported by former KKK leader David Duke: 'I hope he does everything we hope he will do'], 47qrfp, 1456543741.0, 76
+417, [Top Hillary Clinton Advisors and Fundraisers Lobbied Against Obamacare], 44rh4h, 1454975434.0, 71
+418, [Barack Obama says U.S. has 'strongest, most durable economy in the world' during State of the Union], 4111el, 1452853859.0, 71
+419, [Donald Trump Finally Wins a Newspaper Endorsement  From the KKK], 58nutl, 1477093030.0, 74
+420, [Trump achieves new personal best in debate: A lie every 2.65 minutes], 54u95x, 1475058515.0, 72
+421, [New evidence suggests Melania Trump broke immigration laws after coming to the US], 4w4h0o, 1470345761.0, 68
+422, [Bradd Jaffy on Twitter: "Hi, @realDonaldTrump graphics team. Can you please explain your choice of a Star of David over money and 'corrupt'?"], 4qxtez, 1467504658.0, 70
+423, [New anti-Trump movement grows to include hundreds of GOP delegates], 4p1h08, 1466491841.0, 71
+424, [New Evidence Donald Trump Didnt Pay Taxes - If the presumptive GOP nominee keeps hiding his returns, Congress could force him to show his hand with a one-line amendment to the tax code.], 4o6r56, 1466017217.0, 70
+425, ["Elon Musks SpaceX had to sue before it got access to the Pentagon  but now, as it promises to deliver cargo into space at less than half the cost of the militarys favored contractor, it has pulled back the curtain on tens of billions in potentially unnecessary military spending."], 4jgwp2, 1463360086.0, 72
+426, [To people posting "Bernie Sanders gave a speech to Bank of America. When will he release the transcripts?", Here you go, Happy to oblige.], 4a2ap9, 1457782825.0, 72
+427, ["Are Democrats who support fracking wrong?" Bernie Sanders: "Yes."], 49cgua, 1457383886.0, 68
+428, [Family Farmers Support Bernie Sanders for President Over Hillary in Record Numbers], 4954an, 1457254716.0, 70
+429, [Sanders is "tapping into the exact same emotional current that Obama did"  the desire for a fundamental remaking of American politics], 41wbbq, 1453351986.0, 72
+430, [Warning From Kentucky: Managerial Democrats Can Lose to Extreme Republicans - A Republican referred to as Kentuckys Trump just beat a mainstream Democrat in a race the Democrats should have won.], 3rmd6e, 1446755063.0, 75
+431, [Bernie Sanders Begs His Followers to Defeat Trump: He Wont Stand Up for Working People - The ex-Democratic presidential candidate pleaded with his followers to support Hillary Clinton in an effort to defeat Trump, whos made bigotry the cornerstone of his campaign.], 531xu6, 1474062118.0, 68
+432, ["Im white, I was very moved": New campaign manager defends Trumps tone-deaf black outreach], 4yvh6s, 1471823401.0, 71
+433, [Hillary Clinton Campaign Says She Would Reschedule Marijuana], 4xgt8s, 1471078179.0, 70
+434, [Judge Strikes Down Voting Restrictions In Wisconsin, Calls Them A Wretched Failure], 4vdayk, 1469932134.0, 73
+435, [Obama Administration Warns States That Defunding Planned Parenthood Is Probably Illegal - Every state that cuts off Planned Parenthood's Medicaid funding is likely in violation of federal law.], 4fmq7g, 1461177394.0, 71
+436, [Big Energy CEO rewarded with $3 million bonus after historic California gas leak devastates community], 4cgrrw, 1459304824.0, 70
+437, [Trump Reveals the End of the Religious Right's Preeminence - Conservative Christian leaders have proven unable to steer the race, exposing the splintered state of their movement.], 47unmd, 1456603940.0, 70
+438, [A Houston grand jury investigating undercover footage of Planned Parenthood found no wrongdoing Monday by the abortion provider but instead indicted anti-abortion activists involved in making the videos that provoked outrage among Republican leaders nationwide.], 42o8ey, 1453790446.0, 69
+439, [Donald Trump Is Really Unpopular With General Election Voters], 41khr4, 1453173845.0, 73
+440, [This is the entire GOP plan: Credibility destroyed after Bush debacle, their only strategy is to scare us - The party of security tanked the economy and unleashed Middle East disaster. Now they have nothing but fear itself], 3ughfa, 1448653469.0, 71
+441, [Republicans abandon Fox News: Roger Ailes has turned GOP voters from their favorite channel - For the first time, Fox News is no longer a top-20 most trusted brand with conservatives], 594epl, 1477343392.0, 73
+442, [Mike Pence is An Extreme Social Conservative Wing-nut (Dick Cheney on Steroids)], 55jlhu, 1475462841.0, 69
+443, ["I never said" that Muslims would be subject to profiling under his policies.  Donald Trump on Monday, September 19th, 2016 in], 53xgj6, 1474549549.0, 69
+444, [375 Top Scientists Warn Us Not To Vote For Trump], 53tbqq, 1474495963.0, 66
+445, [The GOP's Stealth War Against Voters], 500dpo, 1472434064.0, 69
+446, [Secret Ledger in Ukraine Lists Cash for Donald Trump's Campaign Chief], 4xr9k7, 1471254013.0, 70
+447, [Donald Trump Promises to Ban Porn If Elected President], 4w7ivr, 1470382626.0, 71
+448, [Bernies big lesson: Socialists should occupy the Democratic Party, not abandon it], 4vmhpj, 1470086989.0, 70
+449, ["Almost every country on Earth sees America as stronger and more respected today than they did eight years ago when I took office"  Barack Obama on Wednesday, July 27th, 2016 in a speech at the Democratic national convention], 4v1don, 1469749792.0, 72
+450, [Gretchen Carlson files sexual harassment lawsuit against Fox News CEO Roger Ailes], 4rjbxk, 1467851401.0, 70
+451, [Reminder: Gay marriage opponents tried to disqualify a judge because he's gay], 4msdpf, 1465239597.0, 66
+452, [Jake Tapper asked Donald Trump if his judge attack was racist  then followed up 23 times], 4mghh5, 1465037964.0, 68
+453, [Cruz snaps at young protester, "You'd get a spanking at my house!"], 4hhmic, 1462228356.0, 73
+454, [On MSNBC's All In, George Takei Warns: "The Fearmongering From The Republicans, Is Chilling" Takei: "I Grew Up Behind The Barbed Wire Fences Of American Concentration Camps"], 4h33rp, 1462018238.0, 73
+455, [Hillary Clinton Gets $13 Million From Health Industry, Now Says Single-Payer Will "Never, Ever Come To Pass"], 43ighe, 1454259993.0, 70
+456, [Louisiana Embraces Obamacare - The states new Democratic governor signed an executive order to expand Medicaid. Now, the work begins. (xpost-/r/CornbreadLiberals)], 42kzjx, 1453751607.0, 69
+457, [Sarah Palins feel-bad politics: The dark allure of right-wing nihilism, self-pity & curdled nostalgia for a once-great America - The American right's rococo, self-devouring period reached its apex with Sarah Palin's deranged rant], 42aub0, 1453584703.0, 72
+458, [Republicans still can't explain why their economic ideas keep failing], 3sj5ob, 1447363932.0, 70
+459, [The Trump campaign admits it has only one card left in its deck: voter suppression.], 59o18m, 1477604708.0, 73
+460, [Salma Hayek: I Denied Trump A Date, So He Planted A National Enquirer Story About My Height], 58wo3m, 1477219608.0, 67
+461, [NYTimes Exclusive: Two Women Say Donald Trump Touched Them Inappropriately], 577237, 1476341523.0, 69
+462, [Ryan abandons Trump], 56t1b1, 1476147815.0, 66
+463, [Poll: Nearly two-thirds of debate watchers said Hillary Clinton won], 54s1ph, 1475029964.0, 69
+464, [RNC forced to close online convention chat after anti-Semites turn it into a Jew-bashing hatefest], 4thw7i, 1468911344.0, 67
+465, [Ethan O on Twitter: "So AG Lynch can't meet with Bill Clinton but Thomas and RIP Scalia can go on vacation with a plaintiff in a case before the court?"], 4quqkg, 1467445491.0, 69
+466, [How Trump Smeared Native Americans Back in 1993 - The story of how Trump told Congress 23 yrs ago that Indians were involved in organized crime. But he loved Indians. They were the best.], 4m6l73, 1464893488.0, 72
+467, [DEVASTATING anti-Trump ad by Democratic Senate candidate. This is just the start.], 4hlrp6, 1462280510.0, 67
+468, [A man who led a presidential blowjob inquisition has been accused of sexual abuse by four people], 4dxvwk, 1460171144.0, 73
+469, [20,000 support petition to allow guns at Republican National Convention], 4c1ds3, 1459031956.0, 69
+470, [Rubio Ad Says 'It's Morning Again In America' But Shows Vancouver Skyline (VIDEO)], 462hea, 1455658948.0, 72
+471, [Bernie Sanders is the only presidential candidate to oppose fracking], 43adeo, 1454124192.0, 67
+472, [Marco Rubios bomb control nonsense: Getting the logic of gun control precisely backwards - Marco Rubio wants to know why liberals are soft on bombs, inadvertently making a case for stricter gun control], 3vsbb9, 1449522311.0, 70
+473, [For Republicans Abandoning Donald Trump, Obama Has a Message: Too Late], 5942ql, 1477338525.0, 68
+474, [Paul Ryan Attacked Bernie Sanders. It Backfired Spectacularly.], 58pm8e, 1477112542.0, 68
+475, [Trump accuses Clinton of helping disgusting beauty queen, falsely cites sex tape], 5584ps, 1475274262.0, 68
+476, [Donald Trump Makes Georgia Democrats Great Again], 50gu0m, 1472673985.0, 66
+477, [Congresswoman Marcia Fudge named DNC Chair], 4udhrs, 1469402035.0, 67
+478, [Obama Is Bringing Overtime Pay To Millions Of Workers], 4ju3ly, 1463561287.0, 68
+479, [Editor of right-wing Washington Examiner "de-registers" his Republican affiliation because of Trump], 4hs5et, 1462353373.0, 68
+480, [Lesbian Made to Leave Bathroom After Police Refuse to Believe She's a Woman], 4gwzlk, 1461918746.0, 68
+481, [They Dont Just Hide Their Money. Economist Says Most of Billionaire Wealth is Unearned.], 4e6xcd, 1460341749.0, 70
+482, [Donald Trump could get the nuclear codes: How anti-intellectualism is killing American democracy], 48c7hw, 1456806079.0, 66
+483, [Students & Veterans Turned Away From The Polls Under Wisconsins New Voter ID Law - Local officials fear the law will hurt even more voters in November.], 46ek83, 1455828218.0, 68
+484, [Bernie Sanders supporting and proclaiming gay pride day as Mayor of Burlington, VT. June 22, 1985], 42lrw8, 1453763091.0, 67
+485, [The truth about Flint: This nightmare happened because of deeply undemocratic steps taken after the GOP gerrymandered a blue state], 42fsnk, 1453669609.0, 68
+486, [Obama Subtly Zings Science Deniers: 60 Years Ago We Didnt Deny Sputnik Was Up There], 40q5gn, 1452685000.0, 66
+487, [House Democrats Say BP Shouldnt Get $15.3 billion Tax Write-Off "business expense" from Gulf Oil Spill Settlement], 3tcy01, 1447917417.0, 68
+488, [Chris Christie Vetoes Legislation Making It Easier To Vote In New Jersey], 3s6e12, 1447129116.0, 67
+489, [Conservative Texas court to decide if homeschoolers can wait for the Rapture instead of teaching their kids - The all-Republican Texas Supreme Court will decide whether homeschooling families must teach educational basics to their children or be allowed to wait for the second coming. (xpost)], 3r7m8t, 1446502136.0, 69
+490, [Donald Trumps no concession stand: He and his hate-filled followers will not accept a Clinton victory & thats when things get truly chilling - Trump & his supporters will not go quietly  already armed loyalists have camped outside a Democratic office], 57rado, 1476651304.0, 63
+491, [Federal judge extends voter registration deadline, rebukes state (Florida) for 'irrational' decision], 56v79j, 1476172256.0, 63
+492, [Wasserman Schultz agrees to debate her primary opponent], 4wg5tj, 1470523975.0, 69
+493, [Conservatives Say The DNC Was 'Disaster' For The GOP], 4v4zsc, 1469797522.0, 69
+494, [Melanias Speech Was a Goof. The Rest of Monday Was a Horror Show. -- The GOPs message: Fear brown people.], 4tnsha, 1468994792.0, 66
+495, [Donald Trump buys himself an attorney general for $25,000], 4nascu, 1465507744.0, 69
+496, [The easiest way to guess if someone supports Trump? Ask if Obama is a Muslim. "The media loves to say Trump's support is fueled by economic anxiety. But race, religion, and immigration are far more closely tied to his support."], 4m8nkx, 1464921561.0, 68
+497, [Trump-loving tow truck driver says God told him to leave disabled Bernie Sanders supporter stranded], 4hzg6d, 1462475952.0, 68
+498, [Obama: You cant just keep yelling - Cautioned that Black Lives Matters leaders too dismissive of elected officials. Once youve highlighted an issue, you cant keep yelling at them. You cant refuse to meet because that might compromise the purity of your position.], 4gcita, 1461604627.0, 68
+499, [Obama Just Threatened To Take Billions From North Carolina Over Anti-Gay Law | " If the Justice Department determines that the law violates federal civil rights statutes, the state could be looking at the loss of billions of dollars in highway, school, and housing funding."], 4d6i6g, 1459725578.0, 66
+500, [Says Senate Republicans are "following a longstanding tradition of not filling vacancies on the Supreme Court in the middle of a presidential election year."  Mitch McConnell on Sunday, March 20th, 2016 in "Fox News Sunday"], 4bjf6f, 1458709801.0, 68
+501, [Donald Trump is not fit to be president of the United States], 48sp40, 1457051219.0, 67
+502, [Bob Dole: Obama Is A "Good Man," Cruz Is "So Extreme" And Trump is "Over The Top"], 3yfqu2, 1451278873.0, 65
+503, ['The Daily Show' Effectively Debunks 'Good Guy with a Gun' Theory], 3wndh6, 1450044646.0, 68
+504, [Bobby Jindal ends 2016 presidential campaign], 3t8dbf, 1447836322.0, 66
+505, [Private sector jobs soar under 'Obamacare' | "The oddity of the criticism is how easy it is to recognize how wrong it is. We know, for example, that in 2014  the first full year of ACA implementation  the job market in the United States had its best year since the late 1990s."], 3sk9cp, 1447381826.0, 71
+506, [Carrie Fisher Says Trump is Absolutely a Coke Head After Sniffling Again at Second Debate], 56sohu, 1476143985.0, 68
+507, [Ex-Trump policy chief jumps ship: I regret working for him and under no circumstances will I support him], 56hpp0, 1475973066.0, 67
+508, [Col. Morris Davis (Guantanamo Chief Prosecutor 2005-07) On Twitter: "As bottom falls out of @realDonaldTrump campaign he is enjoying a slight bump up among white males in the 11-13 age bracket."], 56gpxf, 1475958113.0, 66
+509, [Donald Trumps New Childcare Plan Would Only Help The Rich], 4wr5pq, 1470704372.0, 68
+510, [More Prefer Democrats to Control Congress: NBC News/WSJ Poll], 4wj4xx, 1470567422.0, 69
+511, [Donald Trump Has Made Almost $200 Million by Running for President ... But He Expects Donors to Pay for His Campaign], 4k05wq, 1463651083.0, 64
+512, [That Time Donald Trump Threatened to Sue The Onion Over Defamatory Story], 4jojqt, 1463478160.0, 65
+513, [Skinheads Come Out in Full Force for Donald Trump in Pennsylvania - Trump has attracted the attention & support of one of the better-organized white supremacist franchises in the country.], 4gi9qh, 1461696778.0, 64
+514, [Republicans lied in Wisconsin: Heres how you know the states voter ID law is a complete sham - Wisconsin GOPers insisted the law wasn't intended to suppress the vote. A new report suggests that wasn't true.], 4cpmop, 1459453139.0, 67
+515, [Poll: Nearly 8 in 10 think GOP is 'playing politics' on Supreme Court], 4bdkyc, 1458614163.0, 64
+516, ["In 37 states, a country other than Mexico is now the most common country of origin for newly arrived immigrants."], 49pnkg, 1457580452.0, 66
+517, [Father of Koch Brothers Helped Build Nazi Oil Refinery, Book Says], 40kfqe, 1452595364.0, 62
+518, [ Paul Ryan Accidentally Made a Great Case for Raising the Minimum Wage - In his first major speech as speaker of the House, Ryan inadvertently made one of the strongest arguments for lifting the wage floor.], 3vjalw, 1449348393.0, 66
+519, [RNC in legal trouble over Trump call for poll-watchers], 59phd4, 1477620291.0, 64
+520, [Donald Trump, the Worst of America], 57wxqs, 1476734508.0, 61
+521, [Clintons Ohio rally sets attendance record: 18,500 People Flocked To See The Democratic Nominee, with An additional 13,000 outside and around area #OSU], 56w31r, 1476184286.0, 65
+522, [Pew survey: Republicans are rejecting reality on climate change - Only 48% of Americans  and 15% of conservative Republicans  realize that humans are causing global warming], 56m16k, 1476046000.0, 64
+523, [BUSTED: Ivanka Also Bribed Florida Attorney General To Cover Up Trump U Scandal], 51ngnz, 1473309851.0, 66
+524, [Christie calls Trump criticism of the Khans 'inappropriate'], 4vu6ia, 1470193495.0, 65
+525, [Sanders agrees with Ginsburg: 'I do not believe anything that comes out of Trump's mouth'], 4sn3tc, 1468444816.0, 67
+526, [The disturbing data on Republicans & racism: Trump backers are the most bigoted within the GOP - Racists are more likely to be Republicans  and the most extreme among them are Donald Trump supporters], 4rhzjx, 1467832259.0, 68
+527, [USA TODAY exclusive: Hundreds allege Donald Trump doesnt pay his bills], 4nchhg, 1465529490.0, 62
+528, [Biden on Trump's Cinco de Mayo tweet: 'I wish he were a smarter guy than this'], 4i88lg, 1462615770.0, 66
+529, [Rolling Stones to Trump: Don't start us up again], 4hzft3, 1462475729.0, 64
+530, [Millennials Are Flocking To Democrats Because They Hate Donald Trump], 4geuf0, 1461639802.0, 68
+531, [A Trojan horse of hate: North Carolinas new bill is a hostile takeover of human rights - "It goes beyond bathrooms. A hidden clause in HB2 prevents workers from suing under a state anti-discrimination law"], 4elez4, 1460580875.0, 67
+532, ["Poll after poll after poll shows me beating Hillary."  Ted Cruz on Thursday, April 7th, 2016 in an interview on CNN], 4edaam, 1460444377.0, 65
+533, [Teens Sue Government for Failing to Address Climate Change for Future Generations], 4e49ls, 1460285211.0, 67
+534, [Under God Is Really Just Another Christian Prayer - "Its like atheists keep saying: The Pledge of Allegiance is nothing but a Christian prayer in disguise."], 46kb87, 1455912269.0, 62
+535, [Mitch McConnell Voted To Confirm A Supreme Court Justice In Reagan's Final Year. So did every single Republican senator.], 45xo06, 1455587174.0, 65
+536, [Antonin Scalia was the forefather of modern Republican nihilism: Antonin Scalia wasn't just a giant of conservative jurisprudence. He was an architect of right-wing legal extremism.], 45t8z3, 1455516275.0, 66
+537, [Bernie Sanders 'political revolution' threatens to overtake Hillary Clinton], 44laym, 1454874698.0, 62
+538, [For Sanders, who started this race as more stalking horse than viable candidate, fighting Hillary Clinton in a razor-thin contest in Iowa was more than enough], 43udht, 1454451393.0, 65
+539, [President Obama: Democrats Will Win in November], 43anrk, 1454127792.0, 66
+540, [The Democratic Debate Was Substantive, Respectful, & the Harbinger of a Long Primary - Bernie Sanders proved he'll be a tough competitor in Iowa & New Hampshire. Hillary Clinton showed she's up to the challenge.], 41imvj, 1453146690.0, 67
+541, [Black Lives Matter Protester Tackled, Beaten by Crowd at Trump Rally in Alabama], 3ty87c, 1448321246.0, 62
+542, [House Republicans apparently committing felonies in pursuit of Hillary Clinton], 4yokcw, 1471720690.0, 64
+543, [This Sh*ts Not Funny Anymore: GOP Strategist Calls Trump Extinction-Level Threat], 4xebh6, 1471047329.0, 65
+544, [Trump: 'Second Amendment people' could deal with Clinton], 4wy9v0, 1470802761.0, 62
+545, [The Iraq lies still matter: Bushs deceit & the seething distrust Americans have in their leaders - If you want to know why so many people believe that their leaders are liars, look no further than George W. Bush], 4sarx5, 1468270609.0, 64
+546, [The Trump Campaign Paid $730,000 to a Mystery Company That Appears to Be a Shell for Yet Another Mystery Company], 4piqt1, 1466740933.0, 64
+547, [Former Trump University Workers Call the School a Lie and a Scheme in Testimony: Former managers of Trump University say it relied on high-pressure sales tactics, employed unqualified instructors and made deceptive claims.], 4lz2yc, 1464777914.0, 65
+548, [Physicist Stephen Hawking bewildered by Trump - Hawking called Trump "a demagogue who seems to appeal to the lowest common denominator], 4lqtsv, 1464661045.0, 63
+549, [Heritage Foundation President Says Voter ID Helps Conservatives Win Elections], 4hj6r6, 1462244508.0, 64
+550, [Bernie Sanders is profoundly changing how millennials think about politics, poll shows], 4gga71, 1461658828.0, 64
+551, [PBS News Story on First-Time Trump Voters Prominently Displays Longtime White Power Tattoos], 4apzu3, 1458193598.0, 65
+552, [Iowa Dem rips Republicans for bill that would let children carry guns: We do not need a militia of toddlers], 47dcbv, 1456359300.0, 67
+553, [Ted Cruz Surrogate Tells MSNBC Separation of Church and State is a Myth], 463qqa, 1455675205.0, 66
+554, [The false resurrection of George W. Bush: Dont be fooled by calls to reassess his loathsome legacy - Our 43rd president looks reasonable compared to what came afterwards. But you shouldn't be fooled by appearances.], 3u7vng, 1448490179.0, 63
+555, [Dr. Oz and Donald Trump  two anti-science salesmen promote each other], 538op3, 1474168784.0, 67
+556, [How Hillary Clintons alt-right speech isolated and destroyed Donald Trump: By definitively linking him to the alt-right, she shredded any remaining legitimacy he had with sane Republicans.], 4zm7k8, 1472205386.0, 66
+557, [Garry Kasparov (Chairman of the Human Rights Foundation, 13th World Chess Champion) on Twitter: "Trump is bringing someone who openly works with Putin's propaganda channel Russia Today to get his first classified intel briefing. Amazing."], 4y45ck, 1471444278.0, 63
+558, [Texas Largest Jail Accused Of Jailing Poor People Because They Dont Have Money (xpost- /r/CornbreadLiberals)], 4ktkoj, 1464122522.0, 65
+559, [GOP pollster: "I registered Republican when I was 18 because I thought free markets and liberty were important. Not sure what "Republican" means today."], 4hsffd, 1462357181.0, 62
+560, [A Compendium of People Who Hate Ted Cruz's Guts - "One thing Ted Cruz is really good at: uniting people who otherwise disagree about everything else in a total hatred of Ted Cruz"], 4h46vw, 1462046274.0, 61
+561, [Romney mocks Trump's foreign-born wives: 'there are jobs Americans won't do...'], 4bmsnt, 1458773706.0, 64
+562, [It's time to start taking Bernie Sanders seriously], 41iwy6, 1453152193.0, 62
+563, [The Story Sheldon Adelson Didnt Want You To Read - The story was killed by the papers management team who now answers to Adelson. 2 wks ago, the conservative billionaire bought the Las Vegas Review-Journal, Nevadas largest paper.], 3y6n3z, 1451082415.0, 61
+564, [Rush Limbaugh cooperating with the Feds to protect his property from climate change beach erosion.], 3wk00t, 1449980234.0, 66
+565, [Jon Stewart: Donald Trump Is An Internet Troll Running For President], 3sj2bd, 1447361801.0, 63
+566, [Obama: How Can GOPers Stand Up to Putin If They Cant Handle CNBC Moderators?], 3rb22m, 1446551183.0, 64
+567, [Obama Warns Democrats Not to Get Too Comfortable With Lead Over Trump - President tells party to keep 'running scared until the day after the election'], 4xxo93, 1471349595.0, 61
+568, [Bryan Cranston: Black Voters Are Being Silenced at the Polls | "We must restore voting rights nowour nation's future is at stake."], 4v25ys, 1469758784.0, 64
+569, [Romney says Trump will change America with 'trickle-down racism'], 4njjte, 1465638597.0, 66
+570, [Judge directs internal Trump University documents to be released], 4lip5h, 1464517361.0, 62
+571, [Sam Brownback declares war on Kansas: This is how extremists gut a state  & democracy - The ultraconservatives take control, with an assist to ALEC & no concern for the people], 4efjix, 1460486957.0, 61
+572, [A racist stereotype is shattered: Study finds white youth are more likely to abuse hard drugs than black youth], 4dpka7, 1460032686.0, 60
+573, [Why Bernie Sanders Needs to Talk About Voting Rights - As the first primary approaches, the Vermont senator has a chance to own an issue that is essential to his "revolution."], 44gu4n, 1454804555.0, 62
+574, [Bernies Army Is Running for Congress], 442gbg, 1454569719.0, 61
+575, [Donald Trump talks at a fourth-grade level. Maybe thats why the Fox News audience loves him], 40n68q, 1452646024.0, 63
+576, [Marco Rubio enrolled under Obamacare  and benefits from taxpayer-funded subsidy], 3wff71, 1449896822.0, 60
+577, [Trump Proves That Liberals Have Been Right All Along: The left nailed the pathology of the conservative movement years ago. The Donald is just making that impossible to deny.], 3w5k5w, 1449738645.0, 62
+578, [My Visit to the Trump Dump.... Sorry, Trump Tower], 590odw, 1477284602.0, 60
+579, [Hillary Clintons 3 Presidential Debate Performances Left The Trump Campaign In Ruins], 58ylod, 1477259050.0, 60
+580, [The Price Ive Paid for Opposing Donald Trump: Trumps alt-right trolls have subjected me and my family to an unending torrent of abuse that I wouldnt wish on anyone.], 58s1z4, 1477148919.0, 63
+581, [Trump: "If I don't win on Nov. 8, I will consider this the single greatest waste of time, energy, and money of anything I've ever done."], 5776fl, 1476343065.0, 61
+582, [Trump Ally Alex Jones: "I Was Told By People Around" Clinton That "She's Demon-Possessed"], 56xhle, 1476213267.0, 60
+583, [Donald J. Trump on Twitter: "My lawyers want to sue the failing @nytimes so badly for irresponsible intent. I said no (for now), but they are watching. Really disgusting" -- Rick Wilson (GOP Strategist) on Twitter: "You're so full of shit it's amazing you're not surrounded by flies 24/7."], 53bcwh, 1474215346.0, 58
+584, [Sanders Urges Those Considering Third-Party Candidates To Vote For Clinton], 533nzm, 1474083128.0, 64
+585, [Michele Bachmann: I'm advising Trump on foreign policy], 4yv1fk, 1471817695.0, 64
+586, [Republicans nominate dangerously insane person to lead America, then panic when he proves hes dangerously insane], 4w2ces, 1470306889.0, 62
+587, [Conservatives Stunned By How Much They Liked Obama's DNC Speech], 4vgqmf, 1469993854.0, 62
+588, [Mike Pence, Cigarette Truther - "Despite the hysteria from the political class & the media, smoking doesn't kill."], 4sw0fx, 1468564138.0, 58
+589, [Donald Trump's Campaign Has Spent Over $6 Million at Trump Companies], 4p46e2, 1466538558.0, 61
+590, [The One Congress Member Donald Trump Endorsed Just Lost Her Primary - Ellmers is the first GOP incumbent to lose her seat in 2016.], 4n4ij4, 1465413658.0, 62
+591, [Donald Trump doubles down: American judge cant judge me because hes a Mexican"], 4mf22d, 1465016772.0, 61
+592, [John McCain's speechwriter jumps ship: "the GOP is going to nominate for President a guy who reads the National Enquirer and thinks it's on the level. I'm with her."], 4hq5af, 1462336870.0, 57
+593, [Trump Tells a Bewildered Matthews He Cant Rule Out Using Nukes in Europe], 4co558, 1459420845.0, 61
+594, [Biden says Obama offered financial help amid son's illness], 40m8ml, 1452629912.0, 61
+595, [Report: Sanders campaign told DNC of data issue months ago], 3xi43n, 1450586483.0, 63
+596, [Rubio Pledges To Appoint Supreme Court Justices Who Will Overturn Marriage Equality], 3wnmgt, 1450049433.0, 60
+597, [Petition calling for Jeff Sessions to be removed from Senate Judiciary Committee tops 40,000 signatures], 57bsg7, 1476411806.0, 56
+598, [BREAKING: Trump Tax Records Obtained by The NYT Reveal He Could Have Avoided Paying Taxes for Nearly Two Decades], 55gdvb, 1475402935.0, 61
+599, [Donald Trumps strange speaking style, as explained by linguists  "His speech suggests a man with scattered thoughts, a short span of attention, and a lack of intellectual discipline and analytical skills."], 54q2os, 1475003740.0, 63
+600, [Did Salmonella at Trumps Restaurant Kill Her Dad? - Donald Trump is railing against the FDA food police, but his restaurants have a long history of poor health inspections and salmonella-sickened patrons.], 53h35i, 1474313381.0, 60
+601, [The American People Agree With Clinton: Trump Is A Bigot. This New Poll Confirms It.], 52hikr, 1473753250.0, 60
+602, [Trumps history of corruption is mind-boggling. So why is Clinton supposedly the corrupt one?], 51avjl, 1473129891.0, 61
+603, [Green Party presidential candidate Jill Stein wont appear on Nevada ballot], 50zhpf, 1472948272.0, 60
+604, [Kurt Eichenwald (Contributing editor, Vanity Fair; senior writer, Newsweek) on Twitter: "Trump's dad died of a form of alzheimer's that hits after 65. Trump is 70. And he and Mexico prez have different accounts of their meeting."], 50rzgp, 1472828156.0, 60
+605, [Trump wanted to deny U.S. care to Americans critically ill with Ebola: Two years ago, Donald Trump argued that American missionaries infected with Ebola "must suffer the consequences."], 4zcfp5, 1472072303.0, 64
+606, [Comrade Manafort resigns from Trump campaign], 4yj6ml, 1471645300.0, 64
+607, [Meet Donny Hypocrisy: Trump Tells Republicans Climate Change Is a Hoax, but in His Legal Filings, He Says Climate Change Is a Deadly Threat That Must Be Stopped], 4knic5, 1464031984.0, 60
+608, [Brothers Who Said Trump Inspired Them To Beat A Homeless Immigrant Plead Guilty -- The brothers claimed to have been inspired by Donald Trumps views when they beat the Mexican immigrant in Boston.], 4jrdt9, 1463526857.0, 59
+609, [Panama Papers: Offshore Accounts Of World Leaders Revealed In Massive Leak], 4db4la, 1459806402.0, 58
+610, [Robert Reich: Were talking about the largest redistribution of wealth to the rich in American history - Trump and Cruz may call themselves outsiders, but their tax plans are firmly in line with the GOP establishment], 4br1a4, 1458844169.0, 59
+611, [11 Terrible Right-Wing Laws & Ideas Pushed by Far-Right Republicans Near You - It can happen to your town too.], 4b2xu6, 1458419683.0, 60
+612, [Christian right in decline: Religious conservatives have become so belligerent & greedy, people are turning against them - Extremist views and overreach are creating a backlash that undermines the religious right's power], 4axyyg, 1458331969.0, 59
+613, [Donald Trump Is Successfully Conning The Entire Country: The GOP front-runner is gaslighting us -- a technique that involves lying, then feigning outrage when caught.], 4atevc, 1458255233.0, 59
+614, [GoFundMe Established to Pay Legal Fees for "Anyone Who Pisses in Donald Trump's Face" (Humor)], 4asz41, 1458250087.0, 61
+615, [Elizabeth Warren slams Mitt Romney for not coming out sooner against Trumps extremism], 4ablj2, 1457957080.0, 60
+616, [Missouri Democrats Filibuster For 39 Hours To Stop Anti-Gay 'Religious Freedom' Bill -- But Republicans passed it anyway.], 49pvwd, 1457583101.0, 59
+617, [State Sen. changes endorsement from Clinton to Sanders], 47kkoa, 1456454992.0, 60
+618, [GOP College Chairman Slams Tea Party, Resigns, And Joins The Democrats - Here's To Our Youth!], 3wjr63, 1449976654.0, 57
+619, [Dem women poised for record gains in Trump backlash], 59ajwa, 1477424470.0, 56
+620, [Donald Trump Is Sniffling at the DebateAgain], 56pkfo, 1476093040.0, 60
+621, [Clinton was right: Trump HAS lifted up bigotry], 525sqk, 1473579001.0, 61
+622, [Tom Nichols (Professor @NavalWarCollege) on Twitter: "Trump's whimpering in Mexico just made Jeb look like a savage nativist by comparison. True bully: big talk except around an actual Mexican."], 50n7hc, 1472765887.0, 55
+623, [The Alt-Right Is More Than Warmed-Over White Supremacy. It's That, But Way Way Weirder.], 4zvlz4, 1472352589.0, 58
+624, [Troll So Hard: Harry Reid Demands That Trump Take The Naturalization Test], 4xwrbp, 1471336347.0, 59
+625, [Chinese are cheering for Trump because he will "mess up the US" and let China pull ahead], 4ug8z1, 1469440672.0, 57
+626, [Elizabeth Warren Rips Into Paul Ryan's Anti-Poverty Plan - "It looks more like an agenda for creating poverty."], 4natel, 1465508198.0, 60
+627, [Disability Rights Watchdog Banned From Jail That Strapped Naked, Suicidal Inmate To Chair For 18 Hrs. - The detainee was forced to defecate on himself. Texas advocacy group tapped by feds to track states jail conditions has been unable to access the facility that did this.], 4n52c2, 1465422061.0, 59
+628, [Trump to the Media: Stop Scrutinizing Me! - At a press conference, the presumptive Republican nominee's battle with the media reaches new heights.], 4m0pq2, 1464808170.0, 57
+629, [On Facebook, Trump's longtime butler calls for Obama to be killed], 4j1xz4, 1463104554.0, 57
+630, [Germany "is crime-riddled right now" because of migration to Europe.  Donald Trump on Wednesday, May 4th, 2016 in an interview with NBC News], 4iwzog, 1463027718.0, 61
+631, [Just a group photo of 5 guys who are #NeverTrump! (x-post /r/hillaryclinton)], 4imhjm, 1462866704.0, 60
+632, [Nate Cohn on Twitter: "If Super Delegates voted with their states, Clinton would have 374, Sanders 143, 197 in remaining states."], 4hb4nq, 1462161501.0, 60
+633, [Ku Klux Klan Imperial Wizard Endorses Donald Trump For President], 4h9e5h, 1462143730.0, 60
+634, [Scumbag Rick Scott Actually Released an Attack Ad Against the Woman Who Shouted at Him at Starbucks], 4e5mis, 1460320182.0, 60
+635, [Obamas Last Tango | "While Republicans ... talked loco last week ... Obamas military leaders announced that they had killed two top ISIS leaders. The president can go to a ballgame and still keep his eye on the ball."], 4c6769, 1459125888.0, 59
+636, [Barney Frank throws down with GOP strategist: [Your] party has put itself above a functioning federal govt - The former Massachusetts congressman sets the record straight about Mitch McConnell & his fellow obstructionists], 4b7gue, 1458508815.0, 59
+637, [The FCC IS Finalizing Its Plan to Subsidize Broadband for the Poor - The plan is meant to close the digital divide and address the homework gap.], 49og64, 1457564927.0, 59
+638, [Wisconsin Supreme Court Justice Appointed By Scott Walker Once Mocked 'Queers' Who Get AIDS], 49gdhz, 1457434801.0, 59
+639, [Tennessees Drug Testing of Welfare Applicants Falls Flat - Many of the states that have implemented these laws have had similar results to Tennessee, with few welfare benefit applicants testing positive (xpost-/r/CornbreadLiberals) search], 45khls, 1455401135.0, 59
+640, [In 50-49 vote, US Senate says climate change not caused by humans], 43y755, 1454502426.0, 58
+641, [Even without an endorsement she still has an impact: Elizabeth Warrens powerful influence on the Democratic race - The pressure is mounting for Warren to pick a side], 41ocnn, 1453234223.0, 60
+642, [BUSTED: Gov. Snyder Caught Lying about When He Learned of Flints Toxic Water], 4152z5, 1452920433.0, 59
+643, [5 Hidden Ways Obama Has Transformed America For The Better | "Judge President Obamas results by how desperate Republicans are to reverse them."], 40i6ns, 1452566818.0, 61
+644, [Someone asked on /r/conservatives what the definition of right wing extremism was. I copy & pasted the Wikipedia definition and got banned.], 3ylofp, 1451384315.0, 62
+645, [Texas Strips Planned Parenthood Of HIV-Prevention Money - The move is the latest in an onslaught of efforts to defund the organization in Texas. (xpost-/r/CornbreadLiberals)], 3y2wbt, 1450992217.0, 58
+646, [Michael Moore tells Donald Trump: America is no longer a country of 'angry white guys'], 3x7gjf, 1450383779.0, 57
+647, [Missouri Bill Would Make Gun Purchasers Jump Through The Same Hoops As Women Seeking Abortions], 3vk1y6, 1449363727.0, 59
+648, [Even lots of Donald Trump's supporters are starting to think he'll lose the election], 58aukr, 1476919503.0, 59
+649, [Donald Trump Tax Returns Page 2], 55g9qx, 1475401039.0, 54
+650, [Trump's modeling agency allegedly profited by hiring illegal immigrants], 50pslg, 1472795810.0, 55
+651, [Steve Bannon's Bad Day: Allegations of Voter Fraud and Domestic Violence -- Donald Trumps new campaign CEO, who is registered to vote at an empty house in Florida, may be as scandal-plagued as his predecessors], 4zsbhc, 1472294764.0, 59
+652, [Colorado now has more registered Democrats than Republicans], 4ra3vj, 1467707489.0, 58
+653, [Texas's Republican Attorney General, Currently Under Indictment for Securities Fraud, Tries to Silence Former Investigator Who Revealed He Was Ordered to Drop Trump University Probe Shortly Before the Attorney General Received a $35,000 Donation from Donald Trump], 4mt43k, 1465251250.0, 54
+654, [Trump Hotel Bookings Plummet 60% as Global Boycott Escalates], 4me4wq, 1465005427.0, 54
+655, [Trump Maryland delegate indicted on child porn, gun, explosives charges. No one is surprised.], 4k7uqw, 1463773687.0, 58
+656, [By any measure, Donald Trump is unfit to be president], 4cgzjm, 1459307549.0, 58
+657, [NBC's Meet The Press Will No Longer Allow Trump To Phone In], 4bc5bw, 1458594026.0, 57
+658, [Allies Say Obamas Court Pick Is Near, and Will Be Hard for Republicans to Ignore], 4agl00, 1458038802.0, 55
+659, [Obama Watching the Trump rally in Chicago..], 4a2ej1, 1457784643.0, 60
+660, [Is this real life? Has it come to this? A surreal new low.], 48vp76, 1457092602.0, 56
+661, [Mitt Romney: Trump is a phony, a fraud who is playing the American public for suckers], 48sjr6, 1457049291.0, 59
+662, [Jeb Bush ends White House bid], 46t4uv, 1456048030.0, 60
+663, [Sanders overtakes Clinton in Colorado: poll], 46pyjf, 1456001471.0, 60
+664, [Secret Document Exposes USPS Privatization Planning [ More Class War. Killing the USPS and Middle Class Jobs. ]], 43k3jl, 1454292397.0, 57
+665, [Majority of Americans want the next president to push for stricter gun laws: poll], 40s30t, 1452721691.0, 56
+666, [New Wisconsin poll shows, in the race for U.S. Senate, Democrat Russ Feingold is supported by 49 percent of registered voters while Republican incumbent Ron Johnson receives 38 percent support], 3tmw8v, 1448094816.0, 55
+667, [ICYMI and True 4 years ago: Bernie Sanders says 6 banks have assets equaling 60% of U.S. GDP], 3tmhfj, 1448088121.0, 59
+668, [Sanders votes against increased defense spending: "Virtually every defense contractor has been found guilty or has reached a settlement with the government because of fraudulent and illegal activities. This has got to change."], 3stesf, 1447560874.0, 57
+669, [Says Donald Trump "was asked if he would defend our allies. He said well, first he'd want to know if they made any payments to us to defend them."  Hillary Clinton on Tuesday, October 25th, 2016 in a rally in Florida], 59l6w8, 1477557977.0, 54
+670, [No, Hillary Clinton did not lose $6 billion at the State Department], 58eiix, 1476959881.0, 60
+671, [Says a tweet he sent out "wasnt saying, check out a sex tape. It was just take a look at" the background of Alicia Machado.  Donald Trump on Sunday, October 9th, 2016 in the second presidential debate], 56q9ly, 1476102132.0, 55
+672, [Trump's website pulled down Mike Pence's entire campaign schedule as Pence tries to hide], 56k8ve, 1476007506.0, 53
+673, [Trump will walk back guidance protecting transgender students, Pence confirms], 56bdai, 1475876020.0, 56
+674, [Weve Got To Face It: Trump Is Riding A Global Trend -- If Hillary Clinton Wants To Win, She Needs To Confront The Rise Of Fear-Driven Politics.], 54wmjp, 1475102247.0, 57
+675, [Trump stands by Fox's Roger Ailes: He really helped those women who are complaining - In transcripts released ahead of his Sunday appearance on NBCs Meet the Press, Republican presidential nominee Donald Trump stood by former Fox News CEO Roger Ailes.], 4ud55x, 1469396367.0, 59
+676, [Dan Savage on Jill Stein: Just No.], 4tqy10, 1469047342.0, 54
+677, [Trump has a problem with female voters. Pence could make it even worse.], 4t9cvd, 1468785600.0, 56
+678, [Trumps income tax returns once became public. They showed he didnt pay a cent.], 4k8v6q, 1463788317.0, 54
+679, [Paul Ryan is completely, utterly useless: The Zika virus, economic catastrophe & other stuff the House GOP is totally ignoring - The Speaker of the House is burnishing his credentials for 2020 but doing what John Boehner did best: Nothing], 4fmu5a, 1461179761.0, 57
+680, [Most Clinton Voters Like Bernie Sanders. Most Sanders Voters Dont Like Hillary Clinton.], 4fju4y, 1461129527.0, 56
+681, [Kentuckys Republican Governor Dramatically Cut Education Funding. Now Hes Getting Sued.], 4ehwon, 1460520242.0, 54
+682, [Wealth doesn't trickle down  it just floods offshore, research reveals], 4e6s0p, 1460339676.0, 58
+683, [Trump Says He Will Delegate Supreme Court Appointments To The Heritage Foundation], 4c5dcw, 1459109912.0, 59
+684, [North Carolina's GOP Just Fast-Tracked the Broadest Anti-LGBT Bill in the Country - The new law strikes down all existing LGBT anti-discrimination laws in the state.], 4br3gb, 1458845741.0, 56
+685, [Bernie Sanders shuts down boos from crowd about Hillary Clinton: "We can have differences."], 478v2v, 1456291364.0, 57
+686, [The longest Supreme Court confirmation process from nomination to resolution was Brandeis, at 125 days. Obama has 342 days left in office.], 45nfhg, 1455435811.0, 55
+687, [Bernie Sanders is right: Hillary Clinton praising Henry Kissinger is outrageous], 45g7et, 1455331936.0, 56
+688, [Alan Simpson Slams 'Hypocrite' Companies For Making Billions While Opposing $15 Min. Wage], 3z9tsm, 1451857143.0, 56
+689, [The DNC needs to restore Bernie Sanders access to voter data  fast], 3xdl4r, 1450494033.0, 57
+690, [One man is replacing guns with sex toys in photos of GOP politicians], 3vvt8t, 1449574890.0, 57
+691, [Dr. Ben Carson's lead in the Republican presidential race is weakening as worldwide attention zeroes in on national security in the wake of terrorist attacks in Paris and the former neurosurgeon's limited foreign policy credentials are scrutinized.], 3tflx2, 1447970482.0, 58
+692, [Hillary Says Its OK That She Takes Wall Street Money Because of Women and 9/11], 3sv42q, 1447591311.0, 56
+693, [Fox News Anchors Hilariously Struggle to Process Drop in Unemployment], 3rtu3c, 1446882513.0, 55
+694, [CNN Investigates Ben Carsons Stories of Childhood Violence, Finds No Evidence], 3rnkdq, 1446774490.0, 57
+695, [The danger on November 9th from Trump claiming the election was 'stolen.' Which is why he needs to be humiliated on November 8th], 5761sq, 1476329897.0, 56
+696, [The right says Hillary Clinton is responsible for her husband. Why isnt Melania Trump?], 56l2qs, 1476022317.0, 57
+697, [Yes, There Is a Clinton Double Standard: Anyone writing sentences like nevertheless fuels the perception that the Clintons may have might want to stop and think about whether they are reporting news or innuendo.], 50wj0m, 1472893176.0, 55
+698, [Trump may start dragging GOP senate candidates down with him], 4w4hfl, 1470345930.0, 55
+699, [Donald Trump Gave Republicans the Choice of Racism or Defeat. They Chose Racism.], 4vn7d6, 1470095995.0, 60
+700, [Trump Called Reporter 'Retarded' For Criticizing His Business Decisions], 4srd62, 1468498317.0, 59
+701, [The Extraordinarily Common Violence Against LGBT People in America: An attack in Orlando Sunday marks the worst mass shooting in U.S. history. It is not an isolated crime.], 4ns2qe, 1465791943.0, 58
+702, [Sarah Palin Incites Hatred By Lying About President Obamas Hiroshima Speech], 4ll766, 1464569983.0, 59
+703, [Hey Bernie, eat s**t & die: Unhinged Trump supporter Ted Nugent tears into Sanders at NRA convention - The NRA board member also encourages gun owners to "shoot .. & kill" recently released inmates], 4kob0p, 1464043981.0, 53
+704, [Did Donald Trump Just Hand the Senate to Elizabeth Warren? -- Progressives might be unhappy she didnt run for president. But shes been playing a long game no one is talking about.], 4i36l4, 1462529835.0, 56
+705, [Arizona poll worker testifies incorrect ballots given], 4gkzyq, 1461733654.0, 58
+706, [Arizona and North Carolina Election Day Debacles Make Case for Restoring the Voting Rights Act], 4de07y, 1459844996.0, 57
+707, [Trump Takes His Fourth Position On Abortion In Three Days. Hell Need To Change This One Immediately], 4d1k6m, 1459633814.0, 59
+708, [Death of a Mannequin: Marco Rubio's Last Day - Rubio wanted voters to give him the most important job in the world because he didn't feel like doing his current one], 4b7783, 1458502920.0, 54
+709, [Republican Party Must Answer for What It Did to Kansas and Louisiana], 4b3su4, 1458435144.0, 53
+710, [Trump Refuses To Condemn KKK And White Supremacists That Support His Campaign], 482wml, 1456701305.0, 56
+711, [Have you been waiting for this? I can't stop trumping.], 445d5o, 1454623385.0, 58
+712, [Sanders campaign to regain access to Democratic voter information on Saturday], 3xfnzw, 1450531231.0, 56
+713, [Donald Trump is a bigot and a racist: "It might be possible to explain away any one of Trumps outrages as a mistake or a misunderstanding. But at some point youre not merely saying things that could be construed as bigoted: You are a bigot."], 3vc2iy, 1449208821.0, 59
+714, [Tony Schwartz (CEO, The Energy Project) on Twitter: "Never underestimate the depth & desperation of Trump's humiliation at losing to Clinton. Revenge will be his obsession for rest of his days."], 58tjzk, 1477178443.0, 55
+715, [CNN's President Says It Was A Mistake To Air So Many Trump Rallies And "Let Them Run"], 57mmjo, 1476575456.0, 57
+716, [Donald Trump On PTSD: Vets Are Either "Strong" Or "Can't Handle It"], 55pnt3, 1475554200.0, 53
+717, [Trump blames bombings on freedom of the press -- Its called freedom of the press, where you buy magazines and they tell you how to make these same bombs that I saw.], 53kt3r, 1474360890.0, 57
+718, [Michael McFaul (Former Ambassador to Russia) on Twitter: "If Trump can't bring up his favorite idea --the wall -- in Mexico, how will he be able to defend American interests when meeting Putin?"], 50m36d, 1472744800.0, 52
+719, [Colorado Republican who posted racist photo comparing Obama to a chimp resigns under pressure], 4r2bdq, 1467586710.0, 51
+720, [The Highest Ranking Republican Will Not Support Donald Trump], 4i23zq, 1462513026.0, 55
+721, [Sanders Shouldnt Drop Out For Clintons Sake: Theres little evidence a prolonged primary hurts a nominee.], 4hzj5w, 1462477630.0, 56
+722, [Donald Trump Tax Plan Scam Exposed As A $3.2 Trillion Tax Cut For Millionaires: Donald Trump plans to make America great by cutting taxes for millionaires by $3.2 trillion while cutting programs and services for ordinary Americans.], 4gz4gp, 1461961442.0, 55
+723, [Trump threatens to weaken First Amendment protections for reporters], 47zquq, 1456655735.0, 55
+724, [Chuck Schumer opens can of whoop-ass on Ted Cruz for threatening to block Obama court appointment], 45s4rc, 1455502840.0, 52
+725, [Why is marijuana banned? The real reason is worse than you think - Across the world, more & more people are asking: Why is marijuana banned? Why are people still sent to prison for using or selling it?], 45fe5o, 1455321965.0, 56
+726, [Condoleezza Rice Aides, Colin Powell Also Got Classified Info on Personal Emails], 446oqj, 1454640619.0, 54
+727, [Elizabeth Warren: One Way to Rebuild Our Institutions - strongly punishing corporate criminals], 439xmf, 1454118918.0, 55
+728, [Muslim woman ejected from Trump rally], 406der, 1452376995.0, 54
+729, [Politifact Pants on Fire: Donald Trump's first TV ad shows migrants 'at the southern border,' but they're actually in Morocco], 3zh1fi, 1451975475.0, 54
+730, [Obamas skin looks a little different in these GOP campaign ads], 3yqz8g, 1451482119.0, 55
+731, [Donald Trump is getting all the press, but the Bernie Sanders movement is more important for the future], 3wey8g, 1449890448.0, 53
+732, [Paul Krugman: We may be doomed, and if we are, the Republican Party will be responsible - "If there are any future historians," there's only one event happening in December 2015 that they'll remember], 3vevey, 1449264188.0, 55
+733, [18 CEOs Called Out by Bernie Sanders for Taking Trillions In Bailouts, Evading Taxes, and Outsourcing Jobs: Senator Sanders, in his no-nonsense approach, released a report identifying 18 CEOs responsible for wrecking the economy], 3r897r, 1446511863.0, 56
+734, [Hillary Clintons 3 debate performances left the Trump campaign in ruins], 58fvc5, 1476982704.0, 55
+735, [Joe Biden: Donald Trump 'out there doing something very dangerous'], 583gx7, 1476822219.0, 55
+736, [Donald Trump the arsonist: The GOP nominee is inching America toward the apocalypse - Trump is touting an apocalyptic worldview that mirrors Evangelical dogma], 57r7nn, 1476649944.0, 57
+737, ['Trump Was Calling for Us to Be Murdered': Central Park Five Member Speaks Out in New Pro-Clinton Ad], 57gxk8, 1476487881.0, 53
+738, [Donald Trump Defended Putin, Had No ISIS Plan, and Was Stunningly Ignorant on Iran: How can anyone possibly vote for him?], 54rcea, 1475021827.0, 56
+739, [Obamacare Has Increased Insurance Coverage Everywhere], 53yw80, 1474579148.0, 56
+740, [How the Alt-Right Is Attempting to Hide Its White Supremacist Ties], 52xcdy, 1473989808.0, 54
+741, [Rick Wilson (GOP Strategist) on Twitter: "Pro tip for Pence: if you're unwilling to call David Duke "deplorable" may I suggest "racist shitbird" as an alternative?"], 52iqqt, 1473770476.0, 54
+742, [rik Brynjolfsson on Twitter: "The WSJ polled every living former member of the Council of Economic Advisors. Not a single one supported Trump."], 4zy6un, 1472392112.0, 52
+743, [Trump Calls Tim Kaine Governor of New Jersey (Kaine served in Virginia)], 4uw6xh, 1469673697.0, 54
+744, [Democrats Continue Gun Control Sit-In as Paul Ryan Adjourns House], 4pgecq, 1466712557.0, 51
+745, [What Would Happen If Democrats Changed How a Nominee Is Selected?], 4ltgip, 1464697616.0, 57
+746, [Obama Makes Case Against Donald Trump, Saying Presidency Is Not a Reality Show -- President Obama implored journalists on Friday to subject Mr. Trumps proposals to intense scrutiny now that he is the presumptive Republican nominee.], 4i6tq2, 1462593638.0, 54
+747, [North Dakota Loses Abortion Case, Must Pay $245,000 to Abortion Rights Group], 4exunz, 1460770829.0, 56
+748, [Nancy Reagan lent her name to an assortment of causes, but none more worthless than "Just Say No"], 49ib6o, 1457469579.0, 55
+749, [America isn't getting screwed by the GOP, they are getting screwed by the corporations that bought the GOP.], 47qex3, 1456539838.0, 54
+750, [Sanders: African-Americans lost half their wealth because of Wall Street collapse], 45div5, 1455288060.0, 52
+751, [Video: Senator Elizabeth Warren Calls for Action to Root Out Influence of Money in Politics], 42igeq, 1453707924.0, 52
+752, [Sorry, Conservatives, Obamacare Is Still Working], 3xz3ck, 1450915320.0, 55
+753, [Trump says closing that Internet is a good way to fight terrorism [ Trump: Simple-Minded "Solutions" to moderately complex problems, and this guy is Leading? in the Republican Polls? ]], 3vyiia, 1449626943.0, 57
+754, [The Little-Noticed Conservative Plan To Permanently Lock Democrats Out Of Policymaking], 3t0n97, 1447708482.0, 55
+755, [Former President Jimmy Carter's cancer has stopped spreading and is "responding well to treatment," The Carter Center in Atlanta said in a statement Tuesday.], 3sc881, 1447226958.0, 53
+756, [Theyre bonkers. Bizarre. Theyre like a Star Wars bar room: A former Republican congressman bemoans his sorry candidates], 3s072f, 1447019927.0, 54
+757, [Trump campaign using targeted Facebook posts to discourage black Americans from voting], 59obpw, 1477608099.0, 57
+758, [President Barack Obama will make a late splash into races for state senate and assembly over the next week, endorsing roughly 150 candidates across 20 states. He'll also back a candidate for the North Carolina Supreme Court.], 5927ni, 1477304466.0, 53
+759, [Clinton Probably Finished Off Trump Last Night], 58izbg, 1477022086.0, 56
+760, [John Oliver Is Back, And He Wants You To Get 'F**king Outraged' Over Donald Trump's Scandals], 54l9du, 1474933994.0, 57
+761, [DNC to pour $5 million into Senate, House races], 52wz0b, 1473985304.0, 54
+762, [Trump Has Never Met Or Spoken To The Only Economist On His Economic Advisory Team], 4xz9cr, 1471379754.0, 49
+763, [Tim Kaine Was Fighting for Civil Rights While Donald Trump Was Discriminating Against African Americans - Kaine won landmark housing discrimination cases while Trump refused to rent to black tenants.], 4uoc0z, 1469564564.0, 53
+764, [Sarah Silverman At DNC: 'To The Bernie Or Bust People, You're Being Ridiculous'], 4um823, 1469526833.0, 49
+765, [Dear Dad, Please Dont Vote For Donald Trump, "The baffling reality is that when it comes to Trump, its difficult to critique him on much besides his personality and (lack of) character  because that is all there is."], 4t016d, 1468629848.0, 56
+766, [How open-carry gun laws make mass shootings even more dangerous], 4s5skk, 1468191730.0, 54
+767, [After Saying He Forgave Loans to Campaign, Trump Won't Release Proof], 4qlm6c, 1467321569.0, 54
+768, [Rachel Maddow: "There's no @realDonaldTrump on the homepage at GOP.com. That's weird. RNC Chair named him presumptive nominee a month ago."], 4mfeds, 1465021159.0, 55
+769, [Trump would rather have a national conversation about whether he is a bigot than one about whether he is too erratic to be trusted with the nuclear codes. That's because he'd rather argue about whether he's bad for some people than about whether he's bad for everyone.], 4man81, 1464947601.0, 53
+770, [Obama is forgiving the student loans of nearly 400,000 people -- federal student loan borrowers, who cant work because of a disability, will have their loans forgiven], 4emxe0, 1460600800.0, 52
+771, [Corporate Media Gatekeepers Protect Western 1% From Panama Leak], 4d8tq9, 1459760316.0, 53
+772, [Arizona Voters Are Furious About Their Election Mess - "We're here to understand why it happened."], 4ckob5, 1459372127.0, 56
+773, [President Obama condemns vicious atmosphere in 2016 campaign | "While some may be more to blame than others for the current climate, all of us are responsible for reversing it. It is a cycle that is not an accurate reflection of America and it has to stop."], 4al2yf, 1458113297.0, 51
+774, [Sanders: Trump Absolutely Lying to Say My Campaigns Egging on Protests], 4a8xk8, 1457916035.0, 49
+775, [One-third of all U.S. presidents appointed a Supreme Court justice in an election year], 48klxo, 1456923028.0, 52
+776, [Bernie vs. Hillary], 44tnbv, 1455002847.0, 53
+777, [Elizabeth Warren: American Justice Is 'Rigged' In Favor Of The Rich], 4420mp, 1454564183.0, 52
+778, [Study Finds Republican Voter Suppression Is Even More Effective Than You Think], 43x16o, 1454485657.0, 52
+779, [Bernie Sanders Refuses to Melt: Bernie wasted no time in saying that he was going to bring back the era when government helped care for people.], 42valo, 1453891192.0, 54
+780, [Five GOP candidates to join pastor who thinks AIDS is Gods way of punishing gays], 412le4, 1452883238.0, 54
+781, [More Iowa Republicans Think Ted Cruz Was Born in the U.S. Than Obama], 40q69f, 1452685320.0, 52
+782, [Native Americans to Oregon militia: You've got nothing to complain about], 3zw273, 1452211183.0, 49
+783, [Michelle Obama Gives Powerful Speech Roasting Trump For Predatory Comments], 57cse2, 1476422861.0, 52
+784, [Donald Trump Admits He Gets Confused and Makes Things Up After Watching Fox News], 4wfuk5, 1470518417.0, 51
+785, [Bloomberg will endorse Clinton at Dem convention], 4uikd9, 1469481800.0, 56
+786, [Experts: Donald Trump Is Lying About His Fundraising Haul - After releasing fundraising reports that were anemic at best, Donald Trumps campaign announced in one single email blast he had raised at least $3.3 million. If that figure seems impossible, thats because it is.], 4q2qvk, 1467053326.0, 50
+787, [Trump Suggests Obama Is Purposely Allowing Muslims To Commit Terrorist Acts In The United States], 4nvp7o, 1465854604.0, 54
+788, [Trumps Attack on Judge Curiel Is Not Only Racist: It threatens an independent judiciary, which aligns perfectly with what the GOP has done for years.], 4mw2hi, 1465285602.0, 51
+789, [Marco Rubio recommends Obama nominate this lawyer for federal judge  then blocks her when he does], 4mlsjz, 1465127157.0, 52
+790, [Keith Olbermann: Donald Trump is winning because the media has failed the American people - You can "ask any question about Trump, Trumpism or anti-Trumpism except the existential ones," he wrote], 4m1jzm, 1464820801.0, 52
+791, [Trump Camp Accidentally Emails Politico Its Plan To Hit Clinton On Whitewater], 4l2qg5, 1464251360.0, 53
+792, [Former Latina Miss Universe: Trump Called Me Miss Piggy, Miss Housekeeping], 4kglvc, 1463910801.0, 54
+793, [Why Doesn't Every State Have Automatic Voter Registration? - These are "commonsense policies that remove unnecessary barriers and increase participation," said Vermont's governor.], 4j0zzm, 1463093012.0, 52
+794, [Donald Trump Blamed Mike Tysons Rape Victim: She Went to Hotel Room on Her Own Will], 4gw0jm, 1461905067.0, 52
+795, [More Than 300,000 California Voters Accidentally Registered for Ultra-Conservative Political Party], 4ffa7d, 1461058958.0, 53
+796, [Danny Devito Surprises Bernie Sanders Rally], 4a9o4k, 1457926928.0, 52
+797, [Trump Mortgage failed. Heres what that says about the GOP front-runner.], 4a84w1, 1457899902.0, 55
+798, [Watch As A Young Black Woman Is Repeatedly Shoved And Assaulted At A Donald Trump Rally], 48px8z, 1457001243.0, 52
+799, ["A majority of Americans (56%) say the Senate should hold hearings and vote on President Obamas choice to fill the vacancy. About four-in-ten (38%) say the Senate should not hold hearings until the next president selects a court nominee."], 476dm6, 1456259354.0, 50
+800, [Kansas Republicans threaten teachers with jail time for perfectly legal sex ed material], 4432xe, 1454578552.0, 52
+801, ["We have more illegal immigrants here" than we did five years ago.  Marco Rubio on Sunday, January 31st, 2016 in an interview on NBC's "Meet the Press"], 43l6js, 1454306513.0, 53
+802, [Bernie Sanders: 'We Would Beat Donald Trump Badly'], 42i5f3, 1453703887.0, 52
+803, [$250,000 a Year is Not Middle Class: the exact middle of the American spectrum earn $53,657, the highest 5% $206,568+], 40yjud, 1452821005.0, 54
+804, [Oregon judge plans to bill Ammon Bundy up to $70,000 a day for security costs to county], 40paj4, 1452672812.0, 50
+805, [Obama to seek 'every opportunity' to push climate plans in 2016, experts say - On the heels of the Paris climate deal, the president is likely to focus on the environment in his final year in office  & Congress can do little to stop him], 3ysa70, 1451513529.0, 52
+806, [The Bush presidency was my fault: I am so sorry my work stopped the Florida recount - 15 years ago, a Florida judge cited my stats theory and the recount ended. The Iraq War still torments me], 3updwm, 1448827153.0, 53
+807, [Obama: U.S. Will Welcome Refugees 'As Long as I'm President'], 3tqrvc, 1448172886.0, 52
+808, [Key Clinton emails did not contain highly classified secrets, inquiry finds], 3rsvqf, 1446867972.0, 49
+809, [The GOP is a neo-Confederate party now: The South and the religious right have devoured the Republicans whole | "Until it ends, the neo-Confederate, mostly white, Christian party that Kevin Phillips envisioned in 1968 continues as half of our republics two-party system."], 3rj17p, 1446692920.0, 51
+810, [Gerrymandering could cost Democrats the House in 2016. Why? Because it probably did in 2012], 59r02m, 1477636599.0, 54
+811, [Colin Powell Says He Will Vote For Hillary Clinton], 59d3ll, 1477453463.0, 53
+812, [Women Are Boycotting Ivanka Trumps Fashion Line  and the Stores That Sell It], 590l4l, 1477283557.0, 54
+813, [Michael Moore Reveals Surprise Donald Trump Film, Opening In New York City Tomorrow!!!], 586a3n, 1476852667.0, 53
+814, [The Outrage Grows: Miss Washington 2013 says Donald Trump groped her], 57791h, 1476344002.0, 48
+815, ["You can look at the propaganda on a lot of the terrorists' sites and what Donald Trump said about Muslims is used to recruit fighters."  Hillary Clinton on Sunday, October 9th, 2016 in the second 2016 presidential debate], 56qe8p, 1476104118.0, 51
+816, [Donald Trump Tax Returns Page 1], 55g9oa, 1475401012.0, 48
+817, [Native Americans in Nevada will have to travel almost 100 miles round-trip to vote], 54msvb, 1474951354.0, 50
+818, [Donald Trump reneges on $100,000 flood victim donation to Louisiana anti-gay hate group], 4zkfl9, 1472182928.0, 51
+819, [Republicans prep break glass emergency plan as Trump tumbles], 4yq6lr, 1471743715.0, 52
+820, [Jill Stein Thinks There Are 'Real Questions' About Vaccine Safety, in Case You Were Voting Green], 4v8fwm, 1469850194.0, 52
+821, [Dont be Fooled: Why Bernie Sanders Supporters Should Stay Clear of Gary Johnson ( unless you're not a real progressive)], 4ufytw, 1469436304.0, 51
+822, [Yes, the Republican Party Literally Wants to Eliminate National Parks [ Sorry Hunters And Fishermen ]], 4t6gww, 1468731781.0, 47
+823, [Donald Trumps Habit of Lying About Charitable Donations Could Land Him in Legal Trouble], 4p008w, 1466473868.0, 50
+824, [Poll Shows Asian Americans, Pacific Islanders Flocking to Democratic Party], 4lp8yx, 1464639203.0, 52
+825, [The Republicans Military Budget Could Make Every Homeless Person In America A Millionaire], 4kdxt1, 1463872151.0, 51
+826, [Louisiana wants rape victims to wait 72-hours for an abortion while their rapists buy guns whenever], 4jz7mb, 1463637595.0, 53
+827, [John McCain Has a Yuge Donald Trump Problem - McCain helped make Trump possible  a fact he must regret now that Trump might cost him his Senate seat], 4ie5ww, 1462734201.0, 54
+828, [Ben Carson: Cruz could be Trump Attorney General, then move to Supreme Court. As if possibility of Trump Presidency wasn't scary enough], 4hzsms, 1462482186.0, 51
+829, [FoxNews.com Closes Comment Section on Malia Obama Article After Avalanche of Racism], 4hptbq, 1462334512.0, 54
+830, [President Obama Weighs His Economic Legacy: Eight years after the financial crisis, unemployment is at 5 percent, deficits are down and G.D.P. is growing. Why do so many voters feel left behind? The president has a theory.], 4gu2ru, 1461880525.0, 52
+831, [The Biggest Environmental Disaster No One Is Talking About [ Methane Fracking Leaks Everywhere - This was predicted. ]], 4exo36, 1460768539.0, 54
+832, [1.5 Million People Barred From Voting in Florida Primaries: Florida has the highest number of disenfranchised voters.], 4ap04u, 1458180167.0, 51
+833, [Planned Parenthoods Worst Enemy Just Endorsed Ted Cruz - Fiorina waged war on Planned Parenthood during her campaign.], 49tfcd, 1457645590.0, 48
+834, [Bernie Sanders Far More Electable In Head-To-Head Polls], 48kun5, 1456927135.0, 47
+835, [John Oliver Finally Takes on Donald Trump & It Was Brutally Fantastic], 48aby5, 1456783434.0, 49
+836, [Bernie Sanders Presses Hillary Clinton To Demand DNC Keep Ban On Lobbyist Cash], 45os6e, 1455456526.0, 51
+837, [Carly Fiorina Really Likes to Make Shit Up], 3x7j1s, 1450385308.0, 51
+838, [Planned Parenthood singles out Republicans for 'hateful rhetoric' that incited Colorado attack], 3uucx6, 1448914001.0, 51
+839, [The greatest threat to America? Republicans | "To borrow the rhetoric of their candidates, the party is now an existential threat to America's leadership of the global community."], 3uq2m4, 1448841977.0, 53
+840, ["The presidential candidate who has most harmed American politics this year is Donald Trump, a bully who has prospered by inciting rage. Yet from the narrower perspective of the Republican Party, the most dangerous candidate of the 2016 pack may just be Senator Ted Cruz"], 3ulnio, 1448758198.0, 51
+841, [Sanders calls Trump a 'political coward' over voter suppression report], 59tqjn, 1477679801.0, 51
+842, [Donald Trumps higher ed plan will explode the student debt crisis. Trump is disguising a giveaway to Wall Street banks as a solution to the student debt crisis.], 589zph, 1476908913.0, 49
+843, [White nationalist leader: Every alt-right Nazi I know is volunteering for the Trump campaign], 5525pr, 1475184439.0, 51
+844, [I Will Never Stop Hating This Election for Normalizing Stupid - Charles Pierce - Esquire], 542ntk, 1474627065.0, 50
+845, [Powell told Clinton how to bypass State security measures [ Remember when the WHOLE Bush Admin was on Private Email Servers? And Not a Peep from Repubs. ]], 528fxe, 1473628393.0, 48
+846, ["The fact is" the Clinton Foundation has "got about 80 percent in overhead and 20 percent of the money is actually getting into the places it should."  Reince Priebus on Tuesday, August 23rd, 2016 in comments on "The Mike Gallagher Show"], 4zk2bp, 1472178918.0, 49
+847, [The Fake $400 Million Iran Ransom Story - The money was a real debt and had to be paid at some point, but the United States exploited the timing so Iran didnt delay freeing its hostages.], 4z66sv, 1471983853.0, 52
+848, [Trump campaign manager no longer wants him to release his tax returns], 4yv6yw, 1471819765.0, 50
+849, [The Doctor Behind the Dyin Hillary Meme - Meet Breitbarts favorite doctor, who is declaring Clinton medically unfit to serve. She works for an organization that thinks abortion causes breast cancer.], 4xcwrw, 1471027443.0, 54
+850, [Donald Trump Says He Gives His Workers Childcare. His Workers Say Thats Baloney. - The Donald claims its easy for employers to help take care of kids, and that he provides childcare all over. But theres little to support this claim.], 4x7sl5, 1470948351.0, 46
+851, [Clinton: Trump's coziness with Putin 'raises national security issues'], 4vho7h, 1470009878.0, 49
+852, [Draft-Dodger Trump Said Sleeping Around Was My Personal Vietnam], 4vdblr, 1469932396.0, 47
+853, [Nate Silver on Twitter: "What a total and complete shitshow this convention has been."], 4tuq85, 1469096001.0, 49
+854, [Black, Gun-Owning Congressman Says The NRA Doesnt Care About Black People - "The hypocrisy there is so blatant."], 4s1b92, 1468114542.0, 50
+855, [A fact checker looked into 158 things Donald Trump said. 78 percent were false.], 4qvw71, 1467464706.0, 51
+856, [The Trump campaign is becoming an outright catastrophe], 4oz2p4, 1466462848.0, 46
+857, [Texas's Anti-LGBT Republican Lt Gov Faces Backlash for Bible Verse Tweet After Attack at Orlando Gay Club], 4nqz73, 1465777707.0, 49
+858, [Democratic Congressman Tells Trump to Return the $150,000 He Wrongly Received From Taxpayers for Non-Existent 9/11 Damage Claims], 4mba6q, 1464958042.0, 51
+859, [Would Donald Trump Let the Muslim Mayor of London Visit the United States? - The newly elected mayor of one of the worlds great cities decries the Republicans talk of banning Muslims as a very serious threat.], 4ieebo, 1462739892.0, 50
+860, [Bernie Sanders Challenges Hillary Clinton to Debate in New York], 4c7hin, 1459145987.0, 52
+861, [Students Are Being Rejected From The Polls Because Of North Carolinas Voter ID Law], 4aj6r3, 1458088038.0, 53
+862, [Rush Limbaugh cites 19th century Democratic obstructionism to justify 21st century Republican obstructionism.], 4adqkc, 1458000970.0, 49
+863, [No GOP Candidate Will Be "Really Good for Women"], 492d5p, 1457212595.0, 49
+864, [Republican leaders are no longer trying to win the White House. Theyre trying to figure out how best to lose.], 48xa17, 1457126532.0, 49
+865, [Illinois GOP bill attacks single moms: No birth certificate or financial aid without the father], 47ka77, 1456452074.0, 49
+866, [Bernie Sanders Gets More Endorsements From Arizona Latino Leaders], 45gt6x, 1455339531.0, 50
+867, [Rachel Maddow just made a convincing case for why Bernie Sanders could be president [Video]], 454ihh, 1455161771.0, 50
+868, [Unemployment Rate Falls Below 5% For First Time Since 2008], 44azoq, 1454710636.0, 50
+869, [Bad news for the GOP: America isnt scared of Bernie's "socialism" - The Republican Party has spent generations raving about the dangers of socialism. But it isn't working anymore], 43p4j1, 1454372008.0, 47
+870, [Corporate Crime Runs Rampant Thanks to 'Rigged' System: Elizabeth Warren], 43mdea, 1454322762.0, 48
+871, [The Rise & Fall of a Fox News Fraud - Wayne Simmons used CIA credentials to get on TV & work with the Pentagon, but prosecutors say it was all a lie], 42xjvm, 1453931557.0, 48
+872, [Bernie Sanders: Audit the Department Of Defense, Contractors Wasting Money While Soldiers are on Food Stamps], 3yto0x, 1451535118.0, 52
+873, [They have no shame: It's confirmed, Fox News lied egregiously (again) in its latest Benghazi "bombshell"; Newly released document confirms that Fox News (with an assist from the GOP) flagrantly lied about Benghazi], 3wf39h, 1449892283.0, 50
+874, [More Studies Prove The Economy Always Does Better When A Democrat Is President | Correlated or not it exists], 3sk4s6, 1447379962.0, 51
+875, [Elizabeth Warren Wants to Give Seniors a Raise - The senator is introducing a bill to provide a one-time Social Security pay bump.], 3rmfne, 1446756605.0, 52
+876, [Election Update: Trump May Depress Republican Turnout, Spelling Disaster For The GOP], 5942ah, 1477338312.0, 49
+877, [Major GOP donors are asking Trump for their money back], 5757ae, 1476320915.0, 51
+878, [How Did This Trump Supporter Learn That Clinton Has Dementia?: Ive Been Watching a Lot of Fox News], 55u4fg, 1475624843.0, 52
+879, [Report: Trump Rented Space To Iranian Bank Later Linked To Terrorism], 55npnh, 1475531213.0, 51
+880, [Stephen Colbert: 'I Would Have Trump On Tomorrow, But He's A Coward'], 55fd86, 1475387274.0, 46
+881, [Obama's Trickle-Up Economics | We expected good news; but last year, it turns out, the economy partied like it was 1999. And this tells us something very important  namely, that a government that wants to can make American society more equitable, improving the quality of life for ordinary families.], 5332uw, 1474076102.0, 49
+882, [Polls show many  even most  Trump supporters really are deeply hostile to Muslims and nonwhites], 52fy82, 1473734916.0, 51
+883, [Benjy Sarlin (@NBCNews) on Twitter: "Am I missing a bunch of statements from Republican leaders saying "How dare you call our nominee racist" or has it been shockingly quiet?" -- Joy Reid (AM Joy host) on Twitter: "Crickets."], 4zmjkv, 1472210065.0, 49
+884, [Pat Buchanan Fan Leaves the GOP Over Trump - This ex-military Republican has been ultra-loyal to the party and the movements that animate it. No longer. The man at the top of the ticket is beyond the pale.], 4w42fc, 1470338944.0, 47
+885, [John Harwood (CNBC) on Twitter: "Trump spox says Obama changing rules of engagement "probably" cost Khan his life even though he was killed 4 yrs before Obama presidency"], 4vw801, 1470219084.0, 48
+886, [Donald Trumps Convention Speech Rings Terrifying Historical Alarm Bells], 4u7pii, 1469298204.0, 51
+887, [Mike Pence used campaign funds to pay his mortgage  and it cost him an election], 4t2tmm, 1468667400.0, 45
+888, [Republican Lawmakers Think Porn Is a Menace, but GOP States Watch It the Most - Republican delegates adopted an amendment to their draft platform labeling porn a "public health crisis". Odd, given that their party is led by a misogynist & red states consume the most porn.], 4shn36, 1468366991.0, 50
+889, [Orlando shooting exposes Donald Trumps biggest weakness: A total lack of empathy], 4nu076, 1465820250.0, 45
+890, [Texas Dem Congressman of Mexican descent whose great-grandfather, grandfather and father were all US military veterans tells Trump to 'take your wall and shove it'], 4mukrg, 1465267891.0, 48
+891, [A matter of conscience: Stephen King, Junot Daz & 100s of other authors sign anti-Trump letter - Amy Tan, Michael Chabon, Jennifer Egan, Cheryl Strayed, & Dave Eggers have signed on to the still-growing list], 4l8qfv, 1464343715.0, 47
+892, [Obama Is Right: Reagan's Tax Cuts Didn't Revive the Economy], 4gyubd, 1461955889.0, 46
+893, [Poll: GOP disapproval highest since 1992], 4gv0pd, 1461892698.0, 46
+894, [Bernie Sanders said poor people don't vote], 4gbo7v, 1461585861.0, 49
+895, [Bill OReilly finally admits what everyone else already knows: The GOP could very well be slaughtered next November - It appears the Fox host has finally entered the final stage of grief], 4eriko, 1460674688.0, 51
+896, [PayPal withdraws from North Carolina because of new LGBT discrimination law: That's the biggest economic backlash to hit state following signing of HB2.], 4dovma, 1460021293.0, 49
+897, [ARIZONA POLITICIAN: LETS BE CLEAR  VOTER SUPPRESSION HAPPENED], 4ca2q8, 1459199607.0, 52
+898, [Why Young People Are Right About Hillary Clinton: "The choice they see is between an honest politician, and one who is so profoundly a part of the problem that she can't even see it anymore."], 4byblb, 1458967739.0, 48
+899, [Donald Trump cant keep blaming other people for the anger of his campaign], 4a9mrv, 1457926407.0, 47
+900, [MSNBC: Sanders wins Michigan], 49mgc1, 1457527192.0, 49
+901, [The One Fact Texas Doesnt Want You To Know About Its Abortion Law - It's a case that's built on a lie.], 48mcqf, 1456957871.0, 47
+902, [Sanders once urged abolishing CIA: As anti-Vietnam War activist, he called the spy agency 'a dangerous institution that has got to go.'], 47130y, 1456180771.0, 47
+903, [Republicans Invent New Supreme Court Tradition Out of Thin Air], 45wt4y, 1455576941.0, 49
+904, [Democrats fear Sanders supporters wont back Clinton if she wins nomination], 42s0yb, 1453851636.0, 52
+905, [Is Sanders' Striking Success in New Hampshire a Sign of a National Political Shocker in the Making?], 42hxun, 1453700883.0, 50
+906, [Both Social Security and Medicare have provided enormous benefits and savings for the middle class. They provide better service than private corporations could provide, at a much lower cost. Medicare For All would do the same.], 4093yn, 1452416733.0, 45
+907, [Marco Rubio: 700,000 Americans could be affected by bill tying terrorist watch list to gun purchases], 3vpwec, 1449472742.0, 49
+908, [The New York Daily News Just Made One Helluva Perfect Statement], 3v9npq, 1449169494.0, 52
+909, [Scientists: Ted Cruz Understands Less About Climate Than A Kindergartner], 3u9z3f, 1448521201.0, 48
+910, [Bernies Health Care Proposal Saves Money: Single-payer system is an affordable way to expand health care to everyone in America], 3rxnlm, 1446961492.0, 49
+911, [Bernie Sanders: Senate votes are what Im paid to do. Sanders has missed 4% of votes, compared to 42% for Republican candidate Marco Rubio], 3riz5t, 1446692193.0, 49
+912, [Surprise, Surprise! Rep. Joe "you lie" Wilson on the Anonymous KKK member list], 3r9gba, 1446527641.0, 49
+913, [American Indians are disgusted by Trumps weird Hindi ad: He is the living embodiment of ignorance], 59r3v1, 1477637868.0, 48
+914, [Donald Trump has spent his whole life falsely trying to prove he is a winner. Now he is poised to become a historic loser. The jig is up.], 596onr, 1477367827.0, 49
+915, [Eric Trump seen with lemonade in free water cup at In-N-Out], 58ur2x, 1477193254.0, 48
+916, [Two and a half months ago, Donald Trump promised a press conference on Melania Trump's immigration fraud. Much to everyone's surprise, neither of the Trumps have held one since.], 586bfn, 1476853059.0, 48
+917, [Evan McMullin: CIA Sources Say Trump is Being Blackmailed by Putin], 52biyy, 1473667578.0, 48
+918, [Trump wont release his medical records  instead hell reveal his health regimen to TVs Dr. Oz], 521d3d, 1473507479.0, 45
+919, [WikiLeaks release excludes evidence of 2 billion transfer from Syria to Russia], 51z55u, 1473477458.0, 47
+920, [Conservative writer & professional provocateur Ann Coulter may have finally gone too far Thursday night after mocking the Muslim father of a hero Marine who died while saving 10 of his fellow soldiers in Iraq in 2004.], 4v6frn, 1469825884.0, 50
+921, [Meet The Workers Who Sewed Donald Trump Clothing For A Few Dollars A Day], 4u8z1j, 1469321351.0, 48
+922, [With Obama, the Personal Is Presidential: No matter what you think of his time in office, its hard to argue that the human being has been anything less than a model of class and dignity.], 4t303t, 1468670483.0, 48
+923, [Log Cabin Republicans: Party passes most anti-LGBT platform in GOP history], 4smxyq, 1468442461.0, 45
+924, [Former Republican Treasury Secretary: "The GOP, in putting Trump at the top of the ticket, is endorsing a brand of populism rooted in ignorance, prejudice, fear and isolationism....Its time to put country before party and say it together: Never Trump."], 4pqc70, 1466846831.0, 48
+925, [GOPs greatest outrage of all: The Republican Party is systematically screwing its own voters - The poor have been stripped of their democratic voice. Whatever the media say, this is the story of the primary.], 4fbcej, 1461006793.0, 47
+926, [Yes, there really is scientific consensus on climate change], 4ek5ag, 1460553320.0, 48
+927, [The secret to a liberal Supreme Court - The right spent decades remaking the judiciary. For the 1st time in a generation, the left could do the same], 46epdr, 1455830621.0, 45
+928, [Bernie Sanders has the most realistic plan to boost wages and job creation], 42rsdc, 1453848685.0, 50
+929, [Jeb Bush, in what was meant to be a light-hearted moment Wednesday, nicknamed a South Carolina elected official "Hurricane Katrina," a reference to a tragedy that killed nearly 2,000 people and is regarded as a low point in his brother's presidency.], 3ywtec, 1451598814.0, 46
+930, [Why Well Miss Lindsey Graham - There appears to be no room in today's GOP for someone concerned about climate change and immigration reform.], 3xpprh, 1450741800.0, 49
+931, [Texas Lands In Court For Trying To Defund Planned Parenthood], 3u0uy3, 1448359586.0, 48
+932, [Democrats Try To End Drought In The South With Louisiana Governor Win], 3tph0l, 1448152790.0, 48
+933, [Trump supporters--men with dogs--showed up at early voting polling place in Cincinnati to intimidate black voters. Yelling matches ensued.], 5aaf7f, 1477916763.0, 46
+934, [The Election is Rigged After All -- Against African Americans: Voting rights advocates have won a string of court battles, but state election officials have found ways to restrict early voting anywayoften at the behest of GOP leaders.], 59o4on, 1477605846.0, 47
+935, [Anne Applebaum (WaPo Columnist) on Twitter: ''Trump is now repeating, every day, lines lifted directly from Russian state television. Truly extraordinary."], 59l957, 1477558789.0, 45
+936, [JSTR  CTUAL on Twitter: "Riddle me this. Why is RUSSIA TODAY releasing WIKILEAKS dumps 20 minutes BEFORE WIKILEAKS if they are not in bed together?? >>"], 58wu1k, 1477222191.0, 47
+937, [Ken Burns: Trump Camps Playbook Is Out of the National Socialist Party in Germany], 58rras, 1477142875.0, 51
+938, [Says Hillary Clinton is "wrong" to say he mocked a disabled reporter.  Donald Trump on Wednesday, October 19th, 2016 in the third presidential debate in Las Vegas], 58fwvu, 1476983641.0, 50
+939, [Big donors demand Republican Party drops Donald Trump amid Numerous sexual assault allegations], 57njtl, 1476587167.0, 49
+940, [Hillary Clinton for President of the United States: A Donald Trump presidency is among the greatest threats facing America, and the Republican standard-bearer is the worst major-party candidate for the job in U.S. history. The editors have never endorsed a candidate for political office.], 56qz29, 1476115294.0, 47
+941, [Republicans Urge Replacing Man Who Hates Women with Man Who Hates Women and Gays], 56ohcu, 1476078428.0, 46
+942, [Exclusive poll: GOP voters want the party to stand by Trump], 56lsao, 1476040548.0, 45
+943, [There are five living U.S. presidents. None of them support Donald Trump.], 54imkc, 1474887200.0, 47
+944, [Max Boot (CFR Senior Fellow) On Twitter: "Why is Trump so eager to claim every event as terrorism? Like all demagogues he wants to create climate of fear so he can seize power."], 53bbcm, 1474214163.0, 47
+945, [Seven Minutes That Shook the Convention: How the father of slain Muslim soldier shamed Donald Trump, upstaged Hillary Clintonand did it without notes.], 4va6xk, 1469875009.0, 47
+946, [Sanders on Clinton support: 'It's not about the lesser of two evils'], 4smypg, 1468442780.0, 47
+947, [Trump was accused of destroying email evidence in lawsuit 10 years ago], 4s3jty, 1468146416.0, 46
+948, [Sen. Elizabeth Warren endorses Hillary Clinton for president], 4ne1re, 1465550962.0, 48
+949, [Hillary Clinton Paid Actor to Impersonate Military Member : snopes.com -- FALSE --], 4m9hg3, 1464931392.0, 48
+950, [Mississippis leaders thought welfare recipients were on drugs. They were wrong. | "Mississippi has screened 5,578 TANF applicants for drug use since August. Only eight (0.14 percent) have tested positive."], 4lwfji, 1464744916.0, 45
+951, [Tech Company Calls Trump's Bluff By Offering To Put Up $10 Million For Sanders Debate], 4lcv5l, 1464412481.0, 48
+952, [Donald Trump's Economic Plans Would Destroy the U.S. Economy - Make America have a recession again.], 4iekpy, 1462743573.0, 46
+953, [Former Republican Senator Says: Unequivocally, I am not supporting Donald Trump. I think he is a sociopath.], 4icc8w, 1462693729.0, 50
+954, [Tea Party Activist Admits What Everybody Already Knows About Voter ID Laws: They Exist To Disenfranchise Minority Voters], 4gw1un, 1461905554.0, 48
+955, [New Yorkers File Emergency Lawsuit Over Voter Registration Problems on Primary Day - The New York City comptroller is launching an audit over widespread reports of voter disenfranchisement, closed polling locations & other irregularities.], 4fms1n, 1461178543.0, 48
+956, [The FCC does something great to increase broadband access, Republicans immediately vow to curb it], 4d6pi1, 1459728753.0, 49
+957, [Democrats are poised to take back the Senate but for one problem: Money], 4byxaa, 1458976995.0, 49
+958, [Yes They DO Hate Him Because He Is Black. | "But, there is something significantly different about Republican animus towards Obama  it goes way beyond the regular partisan antagonism. "], 4bqhh2, 1458828434.0, 43
+959, [Trump threatens to send supporters to Sanders events: 'Be careful Bernie'], 4a9aue, 1457921667.0, 47
+960, [All the times Trump has called for violence at his rallies], 4a4rjz, 1457834527.0, 49
+961, [Fox News Almost Hosted a Trump/Sanders Debate, But Trump Backed Out], 49m5o4, 1457522535.0, 47
+962, [Trump supporter who shouted down young black woman at Kentucky rally is an avowed pro-white activist - Matthew Heimbach wore his Trump Make America Great Again hat as he yelled: "Youre scum, your time will come!"], 48rmkg, 1457033919.0, 45
+963, [The racist history of evangelicals proves theyre a perfect match with Trump: Why the religious rights love for The Donald makes sense - The religious right was formed to protect segregation, so it's no surprise they're drawn to Donald Trump], 47ijvf, 1456430492.0, 47
+964, [The GOP Still Doesnt Understand the Monster It Created in Donald Trump - In many ways, Trump's rise to GOP superstardom was inevitable. Yet establishment Republicans still don't get it.], 476d8c, 1456259142.0, 46
+965, [A Proud Tradition: SCOTUS nominations during election years, an infographic], 463y4w, 1455677691.0, 49
+966, [Republican math: the presidency is only two years long. They have proven that the first year doesn't count because George W Bush and 9/11. Now they say the fourth year doesn't count because Scalia.], 45y55l, 1455592765.0, 48
+967, [For anyone who tries to convince you that Bernie Sanders is new to African American Issues, remember he is the only candidate that has been arrested for protecting African American rights.], 455kyp, 1455173962.0, 49
+968, ['Black Americans for a Better Future' Super PAC 100% Funded by Rich White Guys], 4376w9, 1454069836.0, 50
+969, [Millennials have gotten royally screwed: Thats why theyre voting for Bernie Sanders], 3ykh6m, 1451365491.0, 44
+970, [Bernie Sanders Says Hes Already Started Writing His Inaugural Address], 3x9b91, 1450413056.0, 46
+971, [Incidents of harassment at Planned Parenthood jumped ninefold after release of undercover videos], 3v040j, 1449010442.0, 45
+972, [Bernie Sanders Now Has Ronda Rousey In His Corner], 3sbaxk, 1447214031.0, 48
+973, [Drawing the Line: How redistricting turned America from blue to red.], 57dtzk, 1476436050.0, 47
+974, [Donald Trumps threat to imprison Hillary Clinton is a threat to democracy], 56q2nc, 1476099459.0, 44
+975, [Donald Trump is normalizing bigotry], 55ej92, 1475376152.0, 48
+976, [Jane Goodall says Trump's antics 'remind me of male chimpanzees'], 539kq6, 1474181446.0, 50
+977, [Donald Trump On Twin Towers: 'They Were Not Great Buildings' Until 'Their Demise'], 52abed, 1473652294.0, 43
+978, [Trump returns to his old standbys: Xenophobia, hate, lies, and yes, mass deportations], 50su9q, 1472846089.0, 47
+979, [Trump rally emcee: Ban women voters who use free contraception and we will win every election], 50d48h, 1472616157.0, 42
+980, [Ex-CIA Head on Trump Guns Remark: Anyone Else Who Said That Would Be in a Police Wagon Now], 4wz459, 1470813009.0, 44
+981, [WashPo's Conservative Pundit Savages Trump: "Its getting harder to keep up the pretense that he has redeeming features or an adequate support system to make the prospect of a Trump presidency palatable. He doesnt."], 4vt7zl, 1470182975.0, 46
+982, [The sham is over: Elizabeth Warren has the last word on thin-skinned fraud Donald Trump], 4tau3q, 1468808641.0, 46
+983, [Trump campaign solicits illegal foreign donations despite warnings], 4t7k85, 1468748232.0, 43
+984, [Judge: Kansas can't cut Planned Parenthood's Medicaid money], 4rktin, 1467868608.0, 44
+985, [Jimmy Carter calls for return to publicly financed elections], 4oddp6, 1466113563.0, 47
+986, [CNN host explodes at Trump aide for relentlessly ignoring facts: Its like Groundhog Day], 4lri3d, 1464669598.0, 47
+987, [Trump Brags That 600,000 People Showed up for His DC Rally; Rally Spokesperson Says the Number Was Actually 5,000], 4lo11d, 1464613202.0, 43
+988, [The right wing hates America: The loudest flag-waving patriots are always the dangerous hypocrites], 4kjduk, 1463965159.0, 47
+989, [Trump Camp Cancels Interview Once They Catch Reporter Speaking Spanish], 4jomex, 1463479182.0, 50
+990, [A Bernie Sanders Supporter Confronted a Superdelegate  Then Leaked Their Private Conversation], 4cygxy, 1459577621.0, 48
+991, [US Is #19 Out Of 20 In New High-Speed Rail Ranking [ Thanks Republicans, 19 other nations have better infrastructure, and therefore MORE JOBS, and better economic growth. ]], 4cied2, 1459326954.0, 43
+992, [Sanders scores win in Idaho], 4blhp9, 1458744704.0, 50
+993, [John Kasich Says GOP Senators Should Meet With Supreme Court Nominee], 4ba8a3, 1458551232.0, 48
+994, [Governor Blocks $2.85 Minimum Wage Increase After Giving Staffers $73,405 Raises - "I'm troubled by the amount of raises that I've read about." (xpost-/r/CornbreadLiberals)], 4axub1, 1458329271.0, 46
+995, [These lazy federal workers cost us $1.5 million a year | "Have you heard about the federal workers who are refusing to do their jobs  while continuing to bill the taxpayers almost $1.5 million a year each?"], 4atufk, 1458260255.0, 46
+996, [Ted Cruzs Michigan Legislative Co-Chair Wants To Ban Homosexuality], 49i7nc, 1457467776.0, 50
+997, ["The [GOP] debate was another mess. The crowd sounded like a bunch of angry goons. If youre waiting for the Republican convention to see the GOP fall apart, you dont need to wait any more. It happened tonight. It was a national embarrassment"], 48vrkb, 1457093602.0, 50
+998, [8 times Chris Christie suggested Donald Trump shouldn't be president], 47rff4, 1456550837.0, 45
+999, [Trump responds to former Mexican presidents F-bomb: "The wall just got ten feet taller"], 47p3kq, 1456523676.0, 46
+1000, [How Dark Money Flows Through the Koch Network: This week, the Koch Brothers announced that they will inject nearly $900 million into the 2016 elections. In this interactive graphic, originally published in February 2014, ProPublica explored how money flows through the Koch's tangled web.], 474pjq, 1456226884.0, 46

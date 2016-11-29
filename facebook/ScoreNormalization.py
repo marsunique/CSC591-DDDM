@@ -1,0 +1,47 @@
+import psycopg2 as psql
+
+class Score_Normalization(object):
+    def __init__(self):
+        self.maxScore = 1
+    def findMax(self, cur):
+        query = "SELECT MAX(likes::int) FROM facebook_temp_data"
+        cur.execute(query);
+        res = cur.fetchone()
+        print res
+        self.maxScore = res[0] + 1
+        print self.maxScore
+    
+    def normalize(self, cur, conn):
+        print "IN NORMALIZE()"
+        query = "SELECT * FROM facebook_temp_data"
+        cur.execute(query)
+        cur2 = conn.cursor()
+        for row in cur:
+            comment = row[0]
+            likes = str((int(row[1])+1)/float(self.maxScore)*10)
+            location = row[2]
+            source = row[3]
+            identifier = row[4]
+            #print 'original score: ', row[1]
+            #print 'after normalized: ', str((int(row[1])+1)/float(self.maxScore))
+            insert_query = "INSERT INTO facebook_master_data (comment, likes, source, identifier) VALUES (%s, %s, %s, %s)"
+            cur2.execute(insert_query, (comment, likes, source, identifier));
+            conn.commit()
+
+    def run(self):
+        conn = psql.connect(database = 'team7')
+        if conn != None:
+            print "Database Connection Successful"
+        else:
+            print "Database Connection Failed!"
+        cur = conn.cursor()
+        try:
+            self.findMax(cur)
+            self.normalize(cur, conn)
+        finally:
+            conn.close()
+            print 'Normalization Done!'
+
+if __name__ == '__main__':
+    test = Score_Normalization()
+    test.run()

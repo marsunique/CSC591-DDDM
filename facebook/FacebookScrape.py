@@ -3,7 +3,9 @@ import facebook
 import json
 import requests
 import time
+import sys
 import MediaName as Media
+import Token
 
 #import sys
 #reload(sys)
@@ -12,55 +14,64 @@ import MediaName as Media
 #graph = facebook.GraphAPI(access_token=None)
 
 class Facebook_post_scrape():
-    def __init__(self, page_name):
+    def __init__(self, dic, access_token):
         self.api = 'https://graph.facebook.com'
         self.version = 'v2.3'
-        self.page_name = page_name
-        self.token = 'EAACEdEose0cBAHZAAnBrGvatCaqeCeFUhlepaO3hmb5lJW3zYYJl9nzI1i8pdzW8TGGsCRZAbl1ovvMxSmZCFmYpjthEaaJFOMEj9qTo8dweOrnZBCfBbYkP1q0vxxwn0kglVh66sntpukk3IPkgDhYxWCAbzXb1ubjgNBMJ4wZDZD'
+        self.dic = dic
+        self.token = access_token
     def scrape(self):
-        query = self.api + '/' + self.version + '/' + self.page_name + '/posts?access_token=' + self.token
-        print 'Fetch from: ' + self.page_name
-        print 'Query url: ' + query
+        for media in self.dic:
+            page_name = self.dic[media]['name']
+            query = self.api + '/' + self.version + '/' + page_name + '/posts?access_token=' + self.token
+            print 'Fetch from: ' + page_name
+            print 'Query url: ' + query
 
-        #Fetch data in json format via FB graph api
-        #Total post number: 25
-        #Total comment number: 25
-        print 'Fetching Data...'
-        try:
-            res = requests.get(query)
-            #print res.text
-            print 'Fetching Succeed'
-        except BaseException, e:
-            print 'Fetching Data Failed!'
-            print str(e)
+            #Fetch data in json format via FB graph api
+            #Total post number: 25
+            #Total comment number: 25
+            print 'Fetching Data...'
+            try:
+                res = requests.get(query)
+                #print res.text
+                print 'Fetching Succeed'
+            except BaseException, e:
+                print 'Fetching Data Failed!'
+                print str(e)
 
-        jsondata = json.loads(res.text)
-        postsdata = jsondata['data']
-        posts_count = 0
-        fetchtime = time.strftime("%Y_%m_%d_%H_%M_%S", time.localtime())
-        path = './'+self.page_name + '_' + fetchtime + '.csv'
-        print 'Save result to: ' + path
-        try:
-            result_file = open(path, 'w')
-            print >> result_file, 'Query url: ' + query
-            for post in postsdata:
-                posts_count += 1
-                message = post['message'].encode('utf-8')
-                comments = post['comments']['data']
-                print >> result_file, '----------------Post:----------------'
-                print >> result_file, message
-                print >> result_file, '--------------Comments:--------------'
-                comments_count = 1
-                for comment in comments:
-                    comment['message'] = ''.join(comment['message'].split('\n'))
-                    print >> result_file, str(comments_count) + ' | ' + comment['from']['name'].encode('utf-8') + ' | ' + comment['message'].encode('utf-8')
-                    comments_count += 1
-            print >> result_file, 'Total Posts: ' + str(posts_count)
-            print "Completed!"
-        except IOError:
-            print 'Failed To Open ' + path
-        finally:
-            result_file.close()
+            jsondata = json.loads(res.text)
+            postsdata = jsondata['data']
+            posts_count = 0
+            fetchtime = time.strftime("%Y_%m_%d_%H_%M_%S", time.localtime())
+            path = './data/' + media + '_' + fetchtime + '.csv'
+            print 'Save result to: ' + path
+            try:
+                result_file = open(path, 'w')
+                print >> result_file, 'Query url: ' + query
+                for post in postsdata:
+                    if post.has_key('message') and post.has_key('comments'):
+                        posts_count += 1
+                        message = post['message'].encode('utf-8')
+                        comments = post['comments']['data']
+                        print >> result_file, '----------------Post:----------------'
+                        print >> result_file, 'id:'+post['id'].encode('utf-8')
+                        print >> result_file, message
+                        print >> result_file, '--------------Comments:--------------'
+                        comments_count = 1
+                        for comment in comments:
+                            comment['message'] = ''.join(comment['message'].split('\n'))
+                            print >> result_file, str(comments_count) + ' | ' + comment['from']['name'].encode('utf-8') + ' | ' + str(comment['like_count']).encode('utf-8') + ' | ' \
+                                                    + comment['id'].encode('utf-8') + ' | ' + comment['message'].encode('utf-8')
+                            comments_count += 1
+                    else:
+                        pass
+                print >> result_file, 'Total Posts: ' + str(posts_count)
+                print "Completed!"
+            except IOError:
+                print 'Failed To Open ' + path
+            finally:
+                result_file.close()
+            print 'Sleep 5 seconds'
+            time.sleep(5)
 
 if __name__ == '__main__':
     index = 1
@@ -68,11 +79,13 @@ if __name__ == '__main__':
         print str(index),
         print media + '\t==>' + 'FB page name: ' + Media.media_dic[media]['name'] + '\tid: ' + Media.media_dic[media]['id']
         index += 1
-    name = raw_input("Please select a media company: ")
-    selected_name = Media.media_dic[name]['name']
-    print selected_name
-    test = Facebook_post_scrape(selected_name)
-    test.scrape()
+    command = raw_input("Continue? (yes/no)")
+    #selected_name = Media.media_dic[name]['name']
+    if command == 'yes':
+        test = Facebook_post_scrape(Media.media_dic, Token.token)
+        test.scrape()
+    else:
+        sys.exit('GoodBye!')
 
 
 '''

@@ -1,0 +1,10 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [How much credibility is there to this article? Supposedly Obama's cabinet was selected by a Citigroup executive], 57v6fn, 1476701438.0, 3
+2, [What has been the fact checking so far on "FBI agents are ready to revolt over the cozy ClintonProbe ? "], 57nrx1, 1476590066.0, 17
+3, [Need help finding the link to a certain satirical pollster that was writing during the primaries], 58hxr5, 1477011265.0, 7
+4, [Trump, the Clintons, and Jeffrey Epstein], 580cgi, 1476772731.0, 27
+5, [Is this chart of "How the Electoral Map would look if only ___ voted" true?], 58kf9q, 1477038756.0, 14
+6, [Obamacare: Is this person telling the truth/is it common?], 5980tf, 1477382759.0, 22
+7, [How credible and truthful are the popular YouTube political, social commentators (Sargon of Akkad, Nerdwriter, Paul Joseph Watson, Cult of Dusty and etc...)], 57bzqv, 1476414056.0, 17
+8, [RNC halted funding of Trump following the Access Hollywood tape release. Have they resumed funding?], 578zcn, 1476370050.0, 30
+9, [Fact: Voter Fraud does exist and here's exactly how it happens.], 5ai8by, 1478023058.0, 0

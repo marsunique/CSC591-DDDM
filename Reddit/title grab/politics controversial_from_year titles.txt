@@ -1,0 +1,999 @@
+ITEM, TITLE, THREAD_ID, CREATED, UPVOTES
+1, [Bernie Sanders Says He Will Vote for Hillary Clinton], 4pmffw, 1466797084.0, 917
+2, [Vote Hillary Clinton/Timothy Kaine on Nov. 8], 5a0k1r, 1477778458.0, 2
+3, [My Writing in The Huffington Post, Salon, and The Hill advocating Bernie Sanders has created a stir. Im now voting for Jill Stein and still advocating a shift away from Clinton. Im H. A. Goodman AMA], 4zd07t, 1472079762.0, 0
+4, [Hi Reddit, I am Maria Teresa Kumar, Emmy-nominated contributor with MSNBC and founder of Voto Latino. Ask me anything!], 57buyp, 1476412568.0, 39
+5, [Hillary Clinton would make a sober, smart and pragmatic president. Donald Trump would be a catastrophe.], 5449z7, 1474659728.0, 21
+6, [Thanks to Trump, we can better understand how Hitler was possible], 5a6d7k, 1477868252.0, 1658
+7, [New email dump reveals that Hillary Clinton is honest and boring], 56k3vy, 1476005356.0, 1731
+8, [Donald Trump's companies destroyed or hid documents in defiance of court orders], 5abng9, 1477941320.0, 2408
+9, [After being a staunch Clinton supporter, I decided to switch to Bernie Sanders after attending a Clinton rally.], 43gc7c, 1454222613.0, 65
+10, [Hillary Clinton for President], 54arfo, 1474762391.0, 288
+11, [A Veteran Spy Has Given the FBI Information Alleging a Russian Operation to Cultivate Donald Trump], 5afy42, 1477986856.0, 2065
+12, [Washington Post poll: Clinton ahead by 5], 528a3c, 1473625495.0, 80
+13, [Massive Clinton voter fraud in NY], 4fhuzy, 1461105338.0, 537
+14, [Polling Megathread [10/28 -10/30]], 5a5zty, 1477862839.0, 0
+15, [Our Opinion: Hillary Clinton for president], 5a0mh5, 1477779445.0, 161
+16, ["Its pretty amazing to me were worried about what Donald Trump says instead of what Hillary Clinton did. - US Rep. Tom Cole], 4v0vxh, 1469743853.0, 2368
+17, [Opinion: Hillary is Wrong. 100 Percent of Trump Voters are Deplorable], 526pki, 1473592560.0, 171
+18, [Clinton 'feeling great' after getting overheated at 9/11 event], 529gsd, 1473642198.0, 0
+19, [Guess which candidate's foundation was caught in an illegal campaign funding scheme?], 50sx2q, 1472847376.0, 1568
+20, [Bernie Sanders Just Urged His Supporters to Vote For Hillary Clinton], 53fc1p, 1474278057.0, 26
+21, [Clinton Walks From Daughter's New York Apartment, Says 'I'm Feeling Great,' Waves at Crowd], 529dki, 1473641133.0, 174
+22, [A full blown Trump corruption scandal is taking shape], 5279pc, 1473601929.0, 1218
+23, [Yes, half of Trump supporters are racist], 52pja8, 1473870801.0, 3
+24, [Donald Trump 'used other people's money to donate to charity'], 528bfp, 1473626138.0, 80
+25, [There are five living U.S. presidents. None of them support Donald Trump.], 57v5vf, 1476701212.0, 2256
+26, [Donald Trump is more than 1 billion in debt.], 4zdet5, 1472084637.0, 1590
+27, [Friday Fun Off-Topic Megathread], 57ejzr, 1476446518.0, 0
+28, [Clinton wins New York primary], 4fkzi5, 1461145224.0, 2137
+29, [Hillary Clinton Is Right: Pepe Is a White Supremacist], 52xogn, 1473993873.0, 19
+30, [Polling Megathread [10/16]], 57tnq5, 1476681328.0, 8
+31, [Why not openly wear your racism, Trump supporters?], 534bg6, 1474091273.0, 2
+32, [No, Clinton did not start the 'birther' movement], 539m3z, 1474182019.0, 28
+33, [Donald Trump is a consistent, brazen, serial liar], 513mno, 1473017608.0, 305
+34, [Trumps sickening attacks on Clintons health], 4yp1lb, 1471728707.0, 12
+35, [Topic Tuesday: The Keystone XL Pipeline], 584cpn, 1476832918.0, 39
+36, [How the Media Manufactured Hatred of Hillary Clinton], 5a0jbs, 1477778135.0, 433
+37, [No, Hillary Clinton did not start the 'birther' movement], 533e8x, 1474079890.0, 29
+38, [Polls Shows Bernie Sanders Would Win Election By Landslide], 5140ox, 1473025342.0, 3007
+39, [People Reveals 6 Witnesses Who Corroborate Natasha Stoynoffs Story of Being Attacked by Donald Trump], 58501x, 1476839667.0, 2709
+40, [Petition calls for Donald Trump to take 5th-grade reading and math exams], 54faea, 1474842127.0, 2698
+41, [(((Donald Trump))) is a cuck], 4zj2tu, 1472167917.0, 0
+42, [Comey Lied: FBI Synced Weiner Laptop Under Misused Terror Warrant], 5a95j1, 1477900240.0, 3
+43, [Over a Third of Trump Supporters Follow White Nationalists on Twitter, Research Finds], 5a70zz, 1477876284.0, 2037
+44, [Study: Bots accounted for a third of all pro-Trump Twitter activity during the debate], 58113f, 1476781104.0, 2959
+45, [Hillary Clinton Was Politically Incorrect, but She Wasn't Wrong About Trump's Supporters], 525afe, 1473571973.0, 633
+46, [IRS Launches Investigation Of Clinton Foundation], 4ushmd, 1469616735.0, 2388
+47, [Polling Megathread [10/17]], 57y83s, 1476750298.0, 49
+48, [Hillary Clinton makes history as Democratic nominee], 4urfbj, 1469601834.0, 82
+49, [It's All But Official: Donald Trump Won't Release His Tax Returns], 5a7p5q, 1477883756.0, 2565
+50, [Clinton: Trump has 'incited violence'], 52w24a, 1473973838.0, 0
+51, [Hillary Clinton is officially the Democratic Partys nominee], 4urjxz, 1469603456.0, 0
+52, [Poll: Nearly half of voters think Trump will detonate a nuke], 544gef, 1474662728.0, 2708
+53, [Vote House Republicans out], 57r65t, 1476649155.0, 2496
+54, [Hillary Clinton Makes History Accepting Democratic Nomination], 4v4o1m, 1469792248.0, 137
+55, [Trump Is Running Some Really Insecure Email Servers], 583cux, 1476820605.0, 1366
+56, [Here's how Bernie Sanders avoided disclosing his personal finances], 4ycad8, 1471556135.0, 2
+57, [Reminder: The pretrial date for Donald Trumps child rape case is December 16], 5acyyu, 1477957475.0, 1397
+58, [Sorry, Hillary, but were done: Keep repeating racist myths and praising Kissinger and the Reagans. Im switching to Bernie Sanders], 4ahvsa, 1458067002.0, 2694
+59, [No, 'Emailgate' Is Not Worse Than Watergate], 5acou1, 1477954719.0, 367
+60, [MSNBC Confirms Trump's Video Interview Claiming Relationship To Putin Is Real], 59xguf, 1477723434.0, 2553
+61, [How Michelle Obamas masterful DNC speech countered Trumps hate-filled rhetoric], 4uord4, 1469570555.0, 37
+62, [It's time for Bernie Sanders to admit he lost and drop out], 4n30eg, 1465384584.0, 218
+63, [Bill Clinton Mistress Dolly Kyle: Hillary Uses Lies, Threats, Intimidation, Violence], 4n8542, 1465458699.0, 15
+64, [A third of pro-Trump tweets are generated by bots], 590of4, 1477284612.0, 2770
+65, [Megathread: Donald Trump leaked comments from 2005 re:women], 56dqes, 1475903978.0, 3174
+66, [Was a Trump Server Communicating With Russia?], 5af8ku, 1477979261.0, 2329
+67, [Hillary Clinton is delusional], 4vmp8d, 1470089771.0, 207
+68, [Endorsing Hillary is the just latest sign that Warren is a fraud], 4newrw, 1465565616.0, 54
+69, [Theyre with her, now: More Republicans endorse Clinton], 4x6pmj, 1470926201.0, 0
+70, [Donald Trump is a racist conspiracy theorist. Dont let him lie his way out of it.], 532s0x, 1474072581.0, 98
+71, [/r/politics Town Hall: State Ballot Measures about Gun Laws (CA, ME, NV, WA)], 59nekm, 1477595593.0, 15
+72, [Senator Tim Kaine of Virginia Chosen as Democratic Vice Presidential Running Mate for Hillary Clinton - Megathread], 4u5usb, 1469262370.0, 587
+73, [Donald Trump Has Turned the Republicans Into the Party of Russia], 4uww92, 1469681491.0, 37
+74, [Friday Fun Off-topic Megathread], 4sxf13, 1468585092.0, 2
+75, [New poll puts Hillary Clinton nine points ahead of Donald Trump], 4xlogv, 1471160928.0, 7
+76, [Someone Was Actually Arrested For In-Person Voter Fraud. She's A Trump Supporter.], 59ylc4, 1477739023.0, 2953
+77, [Women Are Boycotting Ivanka Trumps Fashion Line  and the Stores That Sell It], 58zkip, 1477271828.0, 2662
+78, [Bernie Sanderss millennial diehards are finally #WithHer.], 59klk2, 1477550510.0, 21
+79, [Do millennials agree with Clinton on major issues?], 53ejbj, 1474266648.0, 23
+80, [Any Republican who thinks it's better to elect Trump than Hillary needs their head examined], 4hnz9p, 1462320499.0, 0
+81, [Donald Trump just said he may not accept the results of the election], 58eefg, 1476958591.0, 3467
+82, [Megathread - Clinton Campaign releases additional medical records], 52sps2, 1473915703.0, 215
+83, [On 9/11, Trump Bragged About His Building Now Being the Tallest in Lower Manhattan], 5295sp, 1473638594.0, 122
+84, [Donald Trump supports Putin's aggressions], 528fn4, 1473628247.0, 26
+85, [George W. Bush administration official announces support for Clinton over Trump], 4wpoa3, 1470684523.0, 2686
+86, [Here's why Hillary's "i've got more votes" argument is Bullshit], 4g4uv3, 1461468103.0, 0
+87, [69-year-old woman punched in face outside rally by Trump supporter], 52nms7, 1473838445.0, 1203
+88, [#HackingHillary Again! This Time Coughing Fit Is On Her New Plane], 51cd07, 1473148318.0, 37
+89, [Trump's minority outreach off to rough start], 50z0k4, 1472941504.0, 43
+90, [Child Care Reforms That Will Make America Great Again], 52ntvi, 1473841047.0, 23
+91, [Donald Trump just lied about opposing the Iraq War before it started. Heres proof.], 51ophw, 1473325444.0, 2998
+92, [Reid: FBI has 'explosive information' about Trump, Russia], 5ac5nt, 1477948620.0, 1102
+93, [Hillary Clinton's "deplorables" are real: Almost half Trump's supporters hold racist views of African Americans according to a poll conducted earlier this year.], 52gy6m, 1473746181.0, 92
+94, [More bigotry from the Trump brigade], 54lwv8, 1474941358.0, 0
+95, [Charity watchdog gives Clinton Foundation high marks], 51agmm, 1473124837.0, 39
+96, [Oops! Trump Mistook a Black Supporter at His Rally for a Protester and Called Him a Thug], 59vrcp, 1477704999.0, 2672
+97, [A third choice: Jill Stein for President], 4r8jwy, 1467685909.0, 51
+98, [Hillary slams the door on Bernie], 4amahc, 1458132324.0, 776
+99, [Trump Suggests That Soldiers Who Suffer From PTSD Arent Strong], 55of6q, 1475540188.0, 3367
+100, [Trump Says African-Americans Have No Education, No Anything], 4ysllf, 1471774402.0, 2123
+101, ['Every Time She Opens Her Mouth, She Lies': Judge Jeanine Blasts Hillary], 4q242y, 1467040346.0, 101
+102, [Democrats nominate Hillary Clinton for president], 4urhky, 1469602637.0, 93
+103, [Donald Trumps threat to imprison Hillary Clinton is a threat to democracy], 56psun, 1476096049.0, 2273
+104, [Hillary Clinton Cancels Event in California, Campaign Says Pneumonia is Back], 53ib7y, 1474330279.0, 63
+105, [Are Clintons memory lapses a health issue, or just dishonest dodging?], 526dsp, 1473587577.0, 10
+106, [Email Bombshell: Hillary Clinton 'Could Barely Climb The Podium Steps'], 52ro87, 1473903393.0, 82
+107, [Clinton asks millennials for 'fair hearing'], 53l3oz, 1474364981.0, 0
+108, [Clinton: Trump owes apology to Obama, Americans over birther claims], 5322hr, 1474063852.0, 319
+109, [Steve Harvey endorses Hillary Clinton], 48i9ii, 1456890725.0, 5
+110, [Donald Trump Makes Worst Mass Shooting in U.S. History All About Him], 4ns0zh, 1465791241.0, 22
+111, [Trump welcomes Sanders supporters 'left out in the cold'], 4n2ye5, 1465383728.0, 32
+112, [Bernie should start a new political party.], 4g64fp, 1461487533.0, 7
+113, [Hillary Clinton Isnt Qualified. Deal With It], 4ec765, 1460430233.0, 12
+114, [Voting For Hillary Is a PrivilegeOne Not Shared By the People Shell Bomb], 54m254, 1474943008.0, 49
+115, [[live] 2016 Democratic National Convention -- Day 4], 4v3obp, 1469777956.0, 44
+116, [Fact Sheet: Donald J. Trump's new child care plan], 52nut7, 1473841394.0, 6
+117, [No, Trump, Canadians do not flee en masse for US health care], 56pu13, 1476096456.0, 3383
+118, [Watch Hillary Clinton Call The Mother Of A Benghazi Victim A Liar], 49uv28, 1457665018.0, 6
+119, [Hillary Clinton gave inequality speech in a $12,000 Armani jacket], 4mwoyy, 1465293556.0, 34
+120, [Trump, Clinton equally right-wing warmongering shields of big business], 4jn59y, 1463459501.0, 1
+121, [Dick Morris: Hillary Could Be Replaced by Biden], 52bynu, 1473673469.0, 16
+122, [Donald Trump has run the worst campaign in modern history], 59tirz, 1477675271.0, 1765
+123, [Hillary Clinton Polls: Even Utah and Arizona Would Turn Blue in a Clinton vs Trump Race], 4baaog, 1458552339.0, 4
+124, [All Signs Point to Russia Being Behind the DNC Hack], 4uvp56, 1469668145.0, 22
+125, [Bravo, Ecuador, for unplugging Assange], 58quwf, 1477128331.0, 26
+126, [Is Hillary Clinton suffering the first signs of Parkinson's?], 52rswi, 1473904953.0, 54
+127, [These charts show exactly how racist and radical the alt-right has gotten this year], 54kz3q, 1474930638.0, 69
+128, [Donald Trumps Call for Russia to Hack the U.S. Might Be a Felony], 4uwkka, 1469677877.0, 26
+129, [Scandal! WikiLeaks reveals Hillary Clinton to be . . . reasonable.], 56vchl, 1476174232.0, 1911
+130, [I burned my Democratic voter registration card today], 4jrfak, 1463527376.0, 21
+131, [Clinton on pneumonia: It 'finally got some Republicans interested in women's health'], 5322db, 1474063804.0, 1315
+132, [Trump Wins 35% of His Party. Sanders 38%, Media Writes Him Off], 48t8nk, 1457058107.0, 965
+133, [Poll: Clinton leads Trump among likely voters ahead of first debate], 54mdjb, 1474946592.0, 25
+134, [Donald Trump absolutely did say global warming is a Chinese hoax], 54o7o1, 1474969190.0, 3639
+135, [Why Donald Trump Should Not Be President], 54gzzn, 1474864686.0, 2333
+136, [Hillary Clinton Ditches 9/11 Memorial Ceremony Early, Reports Say She Fainted on Way to Van], 528q2o, 1473632794.0, 110
+137, [Leaked emails show what Clinton told executives in private], 56k7zx, 1476007146.0, 3
+138, [Scope of Trump's falsehoods unprecedented for a modern presidential candidate], 54ejkg, 1474826795.0, 3099
+139, [Clinton: I've been more transparent than Trump], 52vza3, 1473972681.0, 54
+140, [Trump Blatantly Lied About Ford Motors Moving Everything to Mexico. In Fact, They're Creating U.S. Jobs], 53jb0u, 1474341945.0, 23
+141, ["Apparently Michelle Obama HATES Hillary Clinton"], 4ko0a4, 1464040059.0, 3
+142, [Hillary Clinton Absolutely Violated the Federal Records Act; Heres Why She Cant Be Punished], 4j7utz, 1463195055.0, 0
+143, [Oops! Chelsea shot off her mouth on guns, and now Hillary has to pander  and fails], 4gfxxg, 1461653865.0, 0
+144, [Clinton Clinches Democratic Nomination], 4lc15i, 1464401418.0, 27
+145, [American Nurses Association Endorses Hillary Clinton for President (3/22/16)], 4bk6u7, 1458720651.0, 24
+146, [James OKeefes latest video appears to have violated state wiretapping laws], 5ack3i, 1477953299.0, 1833
+147, [Trump: Mexican-Americans Not Really Americans], 4mf2jn, 1465016945.0, 22
+148, [Stop right there: assuming a Hillary Clinton victory is downright dangerous], 59tvfo, 1477682342.0, 2971
+149, [Hillary Clinton Campaigns to Packed House in Green Bay], 4cipvr, 1459331759.0, 2
+150, [Donald Trump just made his worst tweet yet], 4zud25, 1472335789.0, 2979
+151, [Why Trumps fake publicist act matters: It proves hes exactly the weirdo and liar we all suspected he was], 4jmszy, 1463455456.0, 18
+152, [Donald Trump lost the first presidential debate. And then... this happened.], 55o4fn, 1475536589.0, 28
+153, [Donald Trump's Comment About Hillary Clinton and the Second Amendment Cannot Be Excused], 4x30mi, 1470875696.0, 11
+154, [Press, lies and Hillarys campaign: Years of smears have created a fictional version of Clinton. Theyre also a disservice to voters.], 51f6g4, 1473197150.0, 87
+155, [Data Reveals Hillary Clinton Was Right About Donald Trumps 'Deplorable Supporters], 5260i0, 1473582146.0, 262
+156, [Elizabeth Warren: "Donald Trump makes death threats because he's a pathetic coward who cant handle the fact that hes losing to a girl."], 4wz6nv, 1470813942.0, 2549
+157, [Green Party's Jill Stein tied with dead gorilla Harambe and lost to 'Deez Nuts' in Texas poll], 4ye7s1, 1471577059.0, 0
+158, [A newly surfaced video shows Donald Trump grabbing and kissing a former Miss Universe onstage], 59wnzz, 1477714367.0, 2170
+159, [FBI 'Revolt of Watergate Proportions' If Hillary Skates], 4pedwg, 1466676392.0, 2348
+160, [Bernie Abandons the Revolution: Time to Back Jill Stein!], 4unkyc, 1469549680.0, 30
+161, [Dems lap up Hillary Kool Aid at their own risk], 4vmfnd, 1470086169.0, 46
+162, [Report: Ivanka Trump wrong about Trump Organization's leave policy], 52uhel, 1473940988.0, 5
+163, [FBI defends Hillary Clintons handling of classified material, says markings werent conclusive], 4y5bpy, 1471466319.0, 18
+164, [Don't blame us when Hillary loses the General], 4h5bjs, 1462065954.0, 512
+165, [Only Voter Suppression Can Stop Bernie Sanders], 4gkqle, 1461730466.0, 863
+166, [Is Trump mentally unstable?], 4w8oii, 1470400146.0, 2
+167, [Donald Trump either lied under oath or during a debate], 54a73i, 1474753884.0, 3043
+168, [Pick one: Hillary is indicted now, or Hillary is impeached two years from now.], 4c4of3, 1459088154.0, 10
+169, [Comey graded Hillary on the Clinton Curve], 4s7uox, 1468220026.0, 5
+170, [Sanders under fire for supporters whores remarks], 4equsa, 1460665076.0, 9
+171, [We can't reward Hillary Clinton with the White House for breaking all the rules], 4n5pr1, 1465430020.0, 2758
+172, [Clinton was right: Trump has lifted up the deplorable], 525sbn, 1473578840.0, 579
+173, [June 2016 Metathread], 4ngh7g, 1465596891.0, 0
+174, [Why Trump will win the White House], 4mo26d, 1465171995.0, 259
+175, [My name is Kenneth Preston, Im 17 years old, and Im a registered candidate for President trying to get the Anti-Corruption Act on the ballot. AMA!], 574j2b, 1476313587.0, 0
+176, [Gary Johnson and William Weld on Hillary, Trump, and Why You Should Vote Libertarian], 4v4ov4, 1469792608.0, 0
+177, [Birtherism and bigotry: These are the vile impulses driving voters to Trump  stop thinking its anything else], 4mfd3p, 1465020648.0, 0
+178, [The GOP died this weekend], 53k5e2, 1474352063.0, 0
+179, [Donald Trump Is Proving How Mortally Dangerous He Is To LGBT Equality], 4njath, 1465634233.0, 6
+180, [Drop Out Hillary: Campaign to Dump Democratic Frontrunner Hillary Clinton Goes Viral, Nearly 100K Tweets to #DropOutHillary], 4hwepp, 1462421828.0, 3616
+181, [Libertarian VP Candidate Admits Defeat, Tells Voters To Pick Clinton Over Trump], 59hp8m, 1477519712.0, 2239
+182, [Clinton Likely be Indicted by May for Breach of National Security  Facing 1 to 10 Years], 498ebl, 1457316425.0, 42
+183, [Donald Trump thinks SNL is rigging the election and should be canceled], 57rhmq, 1476654652.0, 3501
+184, [Donald Trump is facing a child rape lawsuit. Why aren't we talking about it?], 4r6w1p, 1467661957.0, 104
+185, [Bill Clinton calls Obama legacy awful, potentially dooming wifes campaign], 4bf8bj, 1458636685.0, 2323
+186, [Poll: Comeys bombshell changes few votes], 5abopo, 1477941913.0, 930
+187, [Darrell Issa: There Is Enough Evidence to Indict Hillary Clinton], 4pvpkq, 1466936801.0, 36
+188, [Susan Sarandon on Clinton: 'There's going to be' an indictment | Washington Examiner], 4m8p9i, 1464922101.0, 36
+189, [Clinton Suggests Russia Working To Elect Trump], 51cmh2, 1473151925.0, 11
+190, [Only Trump Will Stop the TPP], 4uun0e, 1469655470.0, 34
+191, [By November, Russian hackers could target voting machines: "there's no reason political interference would end with the DNC emails."], 4uww62, 1469681459.0, 18
+192, [Clinton Foundation gives tiny fraction of $2 billion in revenue to veterans groups], 4p7g0y, 1466577878.0, 2
+193, [Haitians at DNC: 'We Hate Hillary'; She 'Belongs in Jail'], 4v6cg6, 1469824489.0, 43
+194, [Spare me the phony outrage over Clintons basket of deplorables remark], 523yj9, 1473555090.0, 796
+195, [Donald Trump just declared himself ineligible for the presidency], 51ljjk, 1473287666.0, 30
+196, [Let's Call the Conspiracy Theories about Hillary's Health What They Are], 4zrpmd, 1472285363.0, 19
+197, [Judicial Watch chief: Slowly but surely, the Clinton email cover up is unraveling], 4spulq, 1468477311.0, 17
+198, [Clinton didn't knock Sanders out. But she definitely won on points.], 4ev3dn, 1460722838.0, 0
+199, [Rigging the Election - Video II: Mass Voter Fraud], 585fan, 1476843952.0, 326
+200, [Bernie Sanders Should Have Been Debating Donald Trump. The DNC Favored the Wrong Candidate], 54lt8r, 1474940225.0, 2602
+201, [Nominating Trump the bigot will be historic GOP error], 4t9hec, 1468788157.0, 39
+202, [How Hillary Clintons alt-right speech isolated and destroyed Donald Trump.], 4zoea3, 1472244206.0, 23
+203, [Trumps racist ruse: His farcical outreach to black voters is just white supremacy in disguise], 54evnt, 1474835112.0, 160
+204, [Crowd at Hillary Clinton's Omaha rally exceeded 3,300 with overflow], 4w6aw6, 1470367641.0, 17
+205, [H.A. Goodman: "Why I say 'Bernie or Bust': If Sanders isnt the Democratic nominee, his backers should by no means pull the lever for Hillary Clinton"], 4gem0q, 1461636878.0, 22
+206, [Trump admits Obama born in U.S. but falsely blames Clinton for starting rumors], 532hqh, 1474069121.0, 492
+207, [Sanders: 'Of course' Sandy Hook victims should be able to sue gun manufacturers], 4f6tts, 1460932866.0, 2
+208, [Hillary Clinton is the most corrupt candidate in history], 52ltkk, 1473817629.0, 118
+209, [Trump campaign calls on FBI to make additional Clinton email investigation records public], 51cjs3, 1473150900.0, 3
+210, [If you support Donald Trump, after all the racist things he has said, then you are a bigot as well], 4ihjrc, 1462788823.0, 29
+211, [Bernie Sanders Will Remain the True Democratic Front-Runner Until the FBI Finishes Its Investigation], 4fnqpl, 1461193270.0, 46
+212, [I'm A Bernie Sanders Supporter Who Won't Back Hillary Clinton & Calling Me Names Won't Change My Mind], 4nb27z, 1465511698.0, 3027
+213, [Trump Diverts From Trump Foundation Questions By Releasing Fake Medical Info], 52su9g, 1473917183.0, 0
+214, [Republicans nominate dangerously insane person to lead America, then panic when he proves hes dangerously insane], 4w0gbp, 1470282633.0, 3492
+215, [Trump is trying to rewrite his history of birtherism. This is what really happened.], 5324de, 1474064560.0, 570
+216, [Friends of Hillary say she has Parkinson's], 52p260, 1473860024.0, 62
+217, [Clinton is the clear choice for president], 57m91b, 1476570176.0, 412
+218, [Trump Is the Ignorant Candidate Ignorant Americans Deserve], 4domww, 1460017540.0, 15
+219, [Sorry, Hillary: Trump actually has made a few things in the USA], 4vmpka, 1470089900.0, 44
+220, [Trump drives the media nuts, literally: The Chicago Tribunes delusional Gary Johnson endorsement is a symptom of a deeper illness], 55ebjt, 1475373328.0, 8
+221, [Clinton: Trumps Campaign Was Founded On Birther Conspiracy], 5326nc, 1474065359.0, 92
+222, [Trump booed at Al Smith dinner], 58kpb3, 1477042483.0, 3247
+223, [Two Women Say Donald Trump Touched Them Inappropriately], 5770hr, 1476340954.0, 3332
+224, [Want $5,000? Call Bill Clinton A Rapist On National Television], 57j9m9, 1476514687.0, 18
+225, [Busting The Myth - Bernie Sanders doesn't increase turnout], 4c4d6t, 1459081201.0, 3
+226, [Hillarys hot sauce long con: If Clinton is pandering with this latest food revelation, its the most impressive suck-up ever], 4fesba, 1461052042.0, 6
+227, [Trump's racist appeal becomes more explicit every day], 4sqnxb, 1468488352.0, 9
+228, [One of Hillary Clinton's sharpest critics says the FBI was 'wrong and unfair' to drop last-minute campaign bombshell], 5acdoa, 1477951348.0, 842
+229, [Donald Trump, The Liar], 4u05p3, 1469176487.0, 0
+230, [Clinton shuts down Sanders with a big win in New York. It's over for the Vermont senator], 4flht6, 1461152475.0, 80
+231, [David Duke, a prominent white supremacist, says Trump is helping rehabilitate Hitlers image], 4b8sit, 1458529468.0, 67
+232, [Dont let Donald Trump bury the birther issue.], 532mvf, 1474070864.0, 78
+233, [How Hitlers Rise to Power Explains Why Republicans Accept Donald Trump - "Those Republicans who publicly endorse Trump because he probably wont win may be making an error on a historic scale."], 4roy65, 1467931917.0, 13
+234, [Clinton reaches out to Sanders supporters in acceptance speech], 4v52wn, 1469799057.0, 3
+235, [Colin Powell: Im Voting for Hillary Clinton], 59cu6p, 1477450638.0, 3291
+236, [Trump's Own Pay-for-Play Problem Just Got Worse], 52qnem, 1473890983.0, 72
+237, [A Bernie Supporter's Enthusiastic Case For Hillary], 55e06u, 1475369230.0, 121
+238, [Hillary Clinton may drop out of US presidential race after major health scare], 52be0t, 1473665714.0, 191
+239, [Senator Bernie Sanders Makes a Case for His Supporters to Rally Behind Hillary Clinton], 536tmx, 1474139756.0, 466
+240, [Why Hillary Clinton's big Super Tuesday wins are great news for Democrats], 48kmtd, 1456923413.0, 39
+241, [Sanders warns his supporters against choosing a third party], 4upagf, 1469576858.0, 5
+242, [Is Hillary Morally Unfit to Be President?], 4v4b1j, 1469786941.0, 441
+243, [Bernie or bust protesters, if you genuinely believe Hillary Clinton is worse than Donald Trump you are deluded.], 4vpgn8, 1470122894.0, 40
+244, [This is how the FBI destroys Hillary: The 10 questions that could end her White House dreams -- These questions, if answered honestly, would most likely hand the Democratic nomination to Bernie Sanders], 4dgwwc, 1459898868.0, 3
+245, [Ignatius: Hillary Clinton Has Lost The Trust Battle], 4reszc, 1467780403.0, 0
+246, [Gary Johnson's own VP pick pretty much just endorsed Hillary Clinton], 562ek1, 1475737769.0, 15
+247, [Why the Media Won't Cover the Child Rape Case Pending Against Donald Trump], 5actwb, 1477956089.0, 636
+248, [Hey progressives, Hillary isnt the enemy: Im a Sanders supporter, but Im sick of Bernie Bros Clinton Derangement Syndrome. I'm pulling for Sanders. But if Clinton wins the nomination, progressives should go all in for her. Here's why], 3sk299, 1447378874.0, 163
+249, [Democrats Turn to Hillary Clinton After Flirting With Bernie Sanders], 48jxyv, 1456913330.0, 55
+250, [Bernie supporters chant "English-only" to stop civil rights leader Dolores Huerta from providing Spanish translation], 46seaw, 1456037302.0, 47
+251, [Hillary Clinton has a $10 billion plan to stop the heroin epidemic. Donald Trump has some slogans.], 53tg3g, 1474497495.0, 368
+252, [My Names is Alex Merced, 2016 Libertarian Party Candidate for US Senate (NY) against Chuck Schumer... Ask Me Anything], 595z56, 1477360562.0, 160
+253, [Hillary Clinton may want to close every public school in America, according to math], 3yc8ub, 1451202866.0, 10
+254, [9/11 tapes reveal raw and emotional Hillary Clinton], 51x0ng, 1473451169.0, 47
+255, [Endorsement: Hillary Clinton has needed knowledge, experience], 42d8b0, 1453618806.0, 23
+256, [Are robots stealing the election for Hillary Clinton? 100% of states with computerized voting have gone to Hillary Clinton], 4bcsrg, 1458604117.0, 25
+257, [Gov. Kate Brown endorses Hillary Clinton for president], 4bfa7m, 1458637499.0, 0
+258, [Its time to start taking Bernie Sanders seriously], 41hiza, 1453123686.0, 4
+259, [Endorsement: Hillary Clinton is the only choice to move America ahead], 54u04r, 1475054898.0, 1228
+260, [Clinton is guilty of lies, scandal, corruption], 4msyjg, 1465249216.0, 0
+261, [Remember When Mike Pence Said Smoking Doesnt Kill?], 5a5qav, 1477858100.0, 2887
+262, [Hillary Clinton crushes Donald Trump in another national poll as Khan controversy disgusts voters], 4wp0ut, 1470671056.0, 1
+263, [Trump on porn actress who accused him of misconduct: 'Oh, I'm sure she's never been grabbed before'], 59676l, 1477362830.0, 3614
+264, [Clinton cheating her way to Democratic nomination no grand victory for women], 4n5orv, 1465429708.0, 1900
+265, [Im a Latina and heres why I support Trumpand his immigration plan], 530hvd, 1474033052.0, 17
+266, ["Smug" liberals have been right all along: Republican voters this year behaved exactly as the smuggest liberal wouldve predicted, supporting a race-baiting pseudo-strongman who is basically an outgrowth of the conservative infotainment complex.], 4yy7h2, 1471857991.0, 1992
+267, [Romney Calls Dishonesty Trump's Hallmark in Speech Eviscerating Front-runner], 48surq, 1457053292.0, 0
+268, [New email shows Donna Brazile leaked a second question to Clinton campaign], 5acr49, 1477955315.0, 21
+269, [Hillary Clintons Got This], 48lz3r, 1456951359.0, 186
+270, [Trump Foundation Paid Activist Filmmaker James O'Keefe], 58yeq4, 1477255815.0, 3267
+271, [Anyone else exited to see Bernie leading Hillary in polls?], 4176h2, 1452953510.0, 0
+272, [Why Hillary Clinton is unfit to be president], 4d6ll7, 1459727119.0, 9
+273, [Can we stop spreading lies about alternative candidates (No, Jill Stein is not anti-vax)], 4h7kbj, 1462101857.0, 17
+274, [Hillary supporters, let us celebrate her decisive, crushing win over Bernie Sanders!], 480aj1, 1456664643.0, 51
+275, [There Is No Bernie Sanders Movement], 4f9auz, 1460967921.0, 21
+276, [33 Percent of Bernie Sanders Supporters Will Not Vote for Hillary Clinton.], 4anqri, 1458163071.0, 3550
+277, [No, Donald Trump, abortions do not happen at 9 months pregnant], 58egke, 1476959267.0, 3348
+278, [Just 5.7 Percent Of Clinton Foundation Budget Actually Went To Charitable Grants], 534pkx, 1474096807.0, 14
+279, [Announcing AMA event Thursday 9/8: Join us for discussions with the editors-in-chief of Reason and Talking Points Memo!], 51myj0, 1473304291.0, 8
+280, [The Polls Arent Skewed: Trump Really Is Losing Badly], 4wvjkp, 1470767994.0, 3425
+281, [Bernie Sanders: I support Hillary Clinton. So should everyone who voted for me], 4wc8y0, 1470455090.0, 53
+282, [Nevada Democrats: Sanders campaign has violent streak], 4joh0l, 1463477150.0, 0
+283, [Why are there any liberals supporting Gary Johnson?], 53xbqt, 1474547100.0, 14
+284, [Poll: Clinton crushes Trump among Hispanics], 47iv5s, 1456435992.0, 9
+285, [Why Many Bernie Sanders Supporters Will Soon be Abandoning the Democratic Party: And Why Their Super-Delegates Will Some Day Regret Sabotaging His Candidacy], 4o7om7, 1466031136.0, 540
+286, [Clinton: Trump 'clearly has something to hide' in his tax returns], 51kjbx, 1473271604.0, 1897
+287, [Its beyond debate that Donald Trump is unfit to be president], 54i45n, 1474879800.0, 1241
+288, [Hillarys Lying about lying - "This perhaps is the most disturbing condition of our current political scene. Trump supporters notice his unfiltered shortfalls, but Hillary supporters are blind to her untruths."], 4vswz7, 1470179493.0, 58
+289, [Former NSA analyst: FBI may reopen investigation if Clinton loses], 54hurq, 1474876124.0, 13
+290, [Mark Cuban says Donald Trump 'scares the s--- out of me'], 53x5uo, 1474544342.0, 6
+291, [New Poll Shows Trump Making Strong Gains Among Key Demographic To Lead Clinton], 4t674v, 1468728079.0, 4
+292, [#NextFakeTrumpVictim Is Why Sexual-Assault Survivors Dont Come Forward], 57aev2, 1476396350.0, 3110
+293, [Trump adviser, son post image featuring white nationalist symbol], 52ai7h, 1473654565.0, 20
+294, [New Clinton Sex Assault Accuser Will Be At Debate Tonight], 58d0ki, 1476942173.0, 12
+295, [Millennials are feeling the Bern in part for all the goodies hes offering  free college, better health care, higher wages. They grew up during the Great Recession, worry about making a good living and dont trust the system to help them.], 49f7hq, 1457418804.0, 5
+296, [John Podesta Says Russian Spies Hacked His Emails to Sway Election], 574891, 1476310041.0, 19
+297, [Poll: Jill Stein tied with Harambe, trailing Deez Nutz in Texas], 535uyu, 1474115838.0, 2
+298, [Dont Believe Any Headline Showing Hillary Clinton with a 12-Point Lead over Donald Trump], 4q157s, 1467024427.0, 15
+299, [I am Eddie Goldberg, author of the new book JOINT VENTURED NATION: Why America Needs a Foreign Policy - My book is the antidote to Trumps walling off America, AMA], 584zrg, 1476839584.0, 0
+300, [Trump backers realize theyve been played as WikiLeaks fails to deliver October surprise], 55t5wt, 1475611733.0, 3242
+301, [Hillary Clintons Tax Plan Will Shrink the Economy and Lose Jobs, According to New Study], 42vd0n, 1453892096.0, 12
+302, [Donald Trump, Pepe the frog, and white supremacists: an explainer], 52iqem, 1473770327.0, 3318
+303, [Its Time for Hillary Clinton to Concede the Democratic Nomination to Bernie Sanders], 4cagf3, 1459205557.0, 521
+304, [Clinton Wins Arizona], 4bkwau, 1458732164.0, 1468
+305, [It is urgent that shes stopped: Hillary Clintons nightmare neoliberalism and American exceptionalism makes the world a dangerous place], 4bbzyw, 1458591051.0, 0
+306, [Fact-checking Hillary Clinton's claim that Bernie Sanders supported 'Charleston Loophole'], 41hd6b, 1453121021.0, 4
+307, [2016 SCOTUS rulings Megathread], 4q3pj7, 1467067901.0, 10
+308, [Frenzied Donald Trump Supporters Are Turning On The Media -- And It's Getting Scary], 57ftup, 1476472583.0, 2705
+309, [Clinton emails continue to be non-scandal, disappointing Republicans], 48ydif, 1457142258.0, 17
+310, [Hillary Clinton may not be able to continue her campaign. Indictment seems inevitable.], 4aqgh5, 1458200412.0, 24
+311, [Topic Tuesday: Women in Combat], 59aetx, 1477421958.0, 53
+312, [Krauthammer: Trump's Russia reference set a trap for Clinton], 4uxk0a, 1469689658.0, 0
+313, [Sanders Leaves Michigan, Cops Begin Raiding Medical Marijuana Shops Next Day], 4abnsb, 1457958245.0, 2
+314, [Heres What Jill Stein Would Say To Clinton in a Debate], 512zzq, 1473002082.0, 7
+315, [The people are behind Bernie Sanders and won't stand for Hillary Clinton's shenanigans], 4kofiv, 1464045538.0, 0
+316, [Libertarian Gary Johnson: Stop Calling Them Illegal Immigrants! Also, Obamas Executive Amnesty Was Great!], 50ktx7, 1472723463.0, 0
+317, [Bye bye, Bernie: The Democratic race is all but over], 4aowzn, 1458179028.0, 16
+318, [Hillary Camp Freaking Out As This Video Goes Viral No Way To Stop It Now], 48a6ke, 1456781178.0, 20
+319, [Here, Mr. Trump, this is what sacrifice looks like], 4vmw3h, 1470092234.0, 8
+320, [CNNs Jake Tapper Edits out Hillary Clintons Bombings Remark], 53ce79, 1474238366.0, 46
+321, [Clinton corruption swept under the rug], 4t47zp, 1468698085.0, 152
+322, [Trump refuses to say he will accept election results], 58efiq, 1476958932.0, 3136
+323, [Bring Back Bernie Sanders. Clinton Might Actually Lose To Trump.], 52ecqu, 1473716238.0, 3597
+324, [Six reasons Trump is still better than Clinton], 48bzbl, 1456803693.0, 30
+325, [Donald Trump will win the US presidency by a landslide  don't underestimate him yet again], 4mpbbg, 1465188184.0, 85
+326, [Watch George Takei Blast Donald Trump], 4qoq4u, 1467358754.0, 1
+327, [Poll: 44% of likely voters think Trump is 'racist'], 510yr8, 1472967827.0, 2956
+328, [Poll: Most Americans think Donald Trump is a raging jackass], 58cedv, 1476935643.0, 3076
+329, [Bernie Sanders Supporters in Brooklyn: Polls That Show Hillary Leading Are Rigged - So what if the polls show Clinton leading in crucial New York by double digits? They mean nothing, Berniacs at a Prospect Park rally said Sunday: Sanders is headed for an epic upset.], 4fbpzi, 1461013414.0, 10
+330, [There will be an announcement of no charges being brought against Hillary, sources familiar with the investigation told CNN.], 4qz9xx, 1467526094.0, 431
+331, [No, Hillary Clinton Didn't Insult Sanders' Supporters as 'Basement Dwellers'], 55ev3d, 1475380505.0, 1879
+332, [Clinton wins Arizona], 4bkyq0, 1458733307.0, 27
+333, [When It Comes To Donald Trump's Russia Ties, It's All About The Aides], 4xkxcy, 1471150031.0, 7
+334, [Donald Trump is facing a child rape lawsuit. Why aren't we talking about it?], 4vqrqt, 1470141614.0, 20
+335, [Trump didn't get post-9/11 funds for helping people], 5284jh, 1473622411.0, 53
+336, [Analysis: Clinton speaks at higher grade level than Trump], 4zkoby, 1472185774.0, 52
+337, ["Sources tell CNN the expectation is Clinton will not face charges."], 4qzss9, 1467534330.0, 65
+338, [Bernie Blew It], 4qb6o5, 1467169725.0, 13
+339, [Hillary Clinton is career criminal, clinical psychopath: Analyst], 4czrru, 1459595346.0, 0
+340, [Clinton Has 8-Point Lead In New Iowa Poll], 43pqjx, 1454379180.0, 0
+341, [Both third-party candidates would be terrible presidents], 55b567, 1475313709.0, 28
+342, [Is Hillary Clintons deplorables remark like Mitt Romneys 47% gaffe?], 526cnj, 1473587106.0, 0
+343, [Susan Brown: Never Hillary - "The last thing we need is a president so preoccupied with all the scandals she creates she cant address what matters. With that said, I can definitively say Id never vote for that woman."], 4sn92l, 1468446743.0, 699
+344, [Trump campaign manager charged with battery over reporter incident], 4cfzqx, 1459294999.0, 2
+345, [Hillary Clinton Parkinson's Disease: Evidences, Videos And More Theories], 52b73g, 1473663109.0, 94
+346, [Surprise! Donald Trump Is Wrong About Elizabeth Warren], 4iwtk0, 1463025737.0, 0
+347, [Why Bernie Sanders Should Not Be President], 3z5o57, 1451781751.0, 9
+348, [[live] 2016 Democratic National Convention -- Day 3], 4uxr4w, 1469692249.0, 40
+349, [Will Trumps Tape Help Gary Johnson Get Into the Last Debate?], 56q2il, 1476099406.0, 9
+350, [After a brain injury, I suddenly displayed some behavior similar to Donald Trumps], 4wg3vg, 1470523175.0, 13
+351, [If Hillary Isn't Indicted, the Rule of Law and the Republic Are Dead], 4c1f2o, 1459032568.0, 16
+352, [Sorry, "deplorables": Being called Racist doesn't mean you're being oppressed.], 55nt6a, 1475532545.0, 2225
+353, [10 Ways That Bernie Sanders Has Described Democratic Socialism That Prove It Isnt a Radical Idea at All], 4jp7va, 1463488561.0, 0
+354, [Question: Could we all stop up-voting things without looking at them, who they're written by, or whether they have any validity at all?], 4d37p7, 1459658494.0, 9
+355, [Hillary's Huge Libya Disaster], 4odxv0, 1466120272.0, 15
+356, [Friday Fun Off-Topic Megathread], 4zoa09, 1472242435.0, 11
+357, [If Donald Trump was President when wife Melania came to America she wouldnt have been allowed in], 4j2bx0, 1463109259.0, 7
+358, [Donald Trump Is Right About Justice Ruth Bader Ginsburg], 4smhhj, 1468434755.0, 7
+359, [GOP presidential front-runner Donald Trump is less popular than Nickelback, traffic jams, lice], 4ix49l, 1463029232.0, 11
+360, [Donald Trumps bad month just got worse, because Sanders backers just rallied to Clinton], 4pxqbq, 1466976167.0, 26
+361, [Republicans just cant help themselves from overreaching on every Clinton scandal], 4rpcpm, 1467936444.0, 20
+362, [Is Hillary Clinton Medically Unfit to Serve?], 52a9un, 1473651800.0, 66
+363, [Clinton Accused Of Using Donations To Silence Bills Victims!], 4qndd4, 1467342039.0, 18
+364, [Clinton should condemn violent protesters at Trump rallies], 4menhf, 1465011817.0, 5
+365, [Friday Fun Off-Topic Megathread], 56b30c, 1475871878.0, 0
+366, [I have had it with naive Bernie Sanders idealists], 42rjws, 1453845311.0, 7
+367, [Sanders wins Wyoming!], 4e36dr, 1460267034.0, 4
+368, [Sanders Voter Lists Reasons She Wont Vote For Clinton in General Election], 4fud9v, 1461292027.0, 9
+369, [Electoral Map: Hillary Clinton is on track for a blowout win in November], 4w6c27, 1470368027.0, 15
+370, [MittCarthyism: Romney Disgraces Himself With Dishonest Attack On Trump], 48tcrj, 1457059540.0, 9
+371, [Clinton: I was monitoring Osama raid as Trump hosted Celebrity Apprentice], 58ej2v, 1476960069.0, 3089
+372, [Trump asks why US can't use nukes: MSNBC's Joe Scarborough reports], 4vy544, 1470254725.0, 3688
+373, [The Mexico sends them myth: Trumps not just racist but channeling far-right immigration conspiracies], 50yg2w, 1472931169.0, 48
+374, [Hillary Clinton Pretends to Be Progressive, Shes Actually Conservative], 3rgg6n, 1446643177.0, 13
+375, [Heres what happened at Saturdays dramatic Nevada Democratic convention], 4jhf2o, 1463367437.0, 5
+376, [The Democrats are about to blow it: This election is about new millennials, not aging baby boomers], 49bw3h, 1457371685.0, 5
+377, [Trumps Biggest Clinton Conspiracy Theories, Debunked], 54f30d, 1474838868.0, 44
+378, [Both third-party candidates would be terrible presidents], 558g31, 1475278274.0, 20
+379, [Donald Trump Remembers 7-Eleven Like It Was Yesterday], 4ffaft, 1461059035.0, 0
+380, [If Trump Wins, Dont Blame Bernie: Bernie is the strongest candidate.], 4iao6f, 1462668021.0, 24
+381, [Bernie Sanders Can't Explain How He'd Break up the Banks], 4dinb0, 1459921108.0, 45
+382, [American Nurses Association endorses Clinton], 4bk91y, 1458721591.0, 0
+383, [Donald Trump is refusing to pay his campaign pollster nearly three-quarters of a million dollars], 5adhss, 1477962460.0, 2974
+384, [Mitt Romney's Top Strategist Says Hillary Clinton Would Be a Better President Than Donald Trump], 48jxan, 1456913070.0, 0
+385, [AG Loretta Lynch Can't Make Her Mouth Say: 'Driving 65 MPH in a 55 MPH Zone Is Against the Law'], 4svaor, 1468555371.0, 5
+386, [Bernie Sanders Ignores Supporters and endorses Hillary Clinton], 4umlin, 1469532377.0, 42
+387, [Clinton memo: Sanders' path 'relies on overturning the will of the voters'], 4ddpjp, 1459840739.0, 0
+388, [The Rise of Donald Trump and The Delusional Politics of White Supremacy], 4sv3z7, 1468553105.0, 7
+389, [Dallas Morning News: We recommend Hillary Clinton for president], 51kq40, 1473275416.0, 368
+390, [Bernie Sanders Goes All In for Hillary Clinton], 4uokdj, 1469567914.0, 22
+391, [Could Hillary Be Any Worse? Sure, Add Tim Kaine to the Ticket], 4u9suq, 1469332695.0, 28
+392, [Trump Didnt Like His Wives to Work Because it Made His Dinner Late], 4m7trf, 1464911628.0, 21
+393, [Rush Limbaugh: Trump will beat Clinton by 'landslide proportions'], 4hwcxh, 1462421206.0, 9
+394, [Donald Trump Just Put Politics Aside and Delivered a Heartfelt 9/11 Message to All Americans], 52bh22, 1473666847.0, 63
+395, [Donald Trump lies. All the time.], 54kvv3, 1474929511.0, 38
+396, [Ex-UN President 'Conveniently' Crushes His Own Throat Before Clinton-Linked Federal Case Starts], 4q58lo, 1467085063.0, 3
+397, [Bill and Hillary have a much higher than average amount of associates that end up dead. 46!], 4a9k88, 1457925420.0, 28
+398, [Is Donald Trump OK? Erratic behaviour raises mental health questions], 4vk8gw, 1470045346.0, 1006
+399, [Trump's organization did business with Iranian bank later linked to terrorism], 55mzkf, 1475517984.0, 3202
+400, [Green Party Watch: Talk of Stein as Possible Alternative to Sanders Gets Louder], 4hj1wl, 1462242843.0, 0
+401, [Mark Cuban: Trump's statement on the Fed is 'exactly why the market will tank if he is elected'], 52eoio, 1473720446.0, 14
+402, [Over the Waterfall Into Trump's Racist Abyss], 4lwb46, 1464743557.0, 19
+403, [Why are you so sick?: Martin Shkreli shows up to taunt Clinton], 52a1en, 1473649006.0, 29
+404, [Meanwhile, Donald Trump Did a Q&A Wednesday Night on a Hate Speech Forum], 4v8ohh, 1469853100.0, 28
+405, [Donald Trump says he'll attract Democrats; polls say that's unlikely], 48ee3r, 1456833464.0, 1
+406, [Gore: I'm voting for Clinton], 4uk3bu, 1469499617.0, 47
+407, [Dont Drop Out, Bernie], 4btpn0, 1458884478.0, 0
+408, [Clinton led 'destruction overseas, poverty at home': Trump], 52unfi, 1473944066.0, 14
+409, [Speaker Paul Ryan hints at "President Hillary Clinton], 4we37g, 1470481102.0, 7
+410, [Hillary Clinton Top Six Campaign Staffers Are All White Men], 45f3fv, 1455318115.0, 5
+411, [Obama Boosts Clinton: Carry Her like You Carried Me], 4uywvo, 1469709314.0, 25
+412, [Trump To Sanders Supporters: "We Welcome You With Open Arms"], 4n2rb2, 1465380931.0, 111
+413, [Bernie Sanders: I support Hillary Clinton. So should everyone who voted for me], 4w9z2v, 1470426142.0, 878
+414, [The Republican Party is now institutionally defending Donald Trumps racism], 53i1nc, 1474327147.0, 267
+415, [Obama May Have Lied About His Knowledge of Clinton Private Email Server, and No One Cares!], 54lwni, 1474941289.0, 60
+416, [Friday Fun Off-Topic Megathread], 557lf2, 1475266331.0, 0
+417, [Donald Trump: 'Hillary Clinton Wants to Take Your Guns'], 4ifm74, 1462759843.0, 7
+418, [The press thought Trumps first 30 minutes were his best. They were his worst.], 54tjwc, 1475048521.0, 18
+419, [Trump's Weak Attempt to Win Over Women], 52szys, 1473919185.0, 0
+420, [Hillary Is Haunted By Mens Dicks Getting Them In Trouble], 59z40h, 1477747870.0, 0
+421, [There Is a Moderate Republican in This Race, But She's Running as a Democrat], 4fbnjn, 1461012328.0, 3512
+422, [Trumps bizarre claim that the Clinton email controversy is bigger than Watergate], 5a65fx, 1477865255.0, 1245
+423, [Hillary Clinton Has the Best Solution to Homegrown Terrorism], 54a5v4, 1474753289.0, 76
+424, [The latest Clinton email story just isnt a scandal], 4zdcdj, 1472083753.0, 27
+425, [Voters Really Want to See Donald Trump's Tax Returns], 4x1l2m, 1470855544.0, 3534
+426, [Is it time for the Democrats to admit Bernie Sanders is their best hope against Trump?], 4j06xq, 1463080845.0, 3712
+427, [Its All Over But The Shouting: Hillary Clinton Crushed Bernie Sanders], 4gmm5x, 1461755571.0, 76
+428, [Donald Trump's Reddit AMA Was Very Low-Energy. Sad!], 4uya16, 1469699447.0, 94
+429, [Bernie Sanders Is Now the 'Inevitable' Democratic Nominee and Presidential Winner], 4162su, 1452934561.0, 0
+430, [Bernie Sanders secures five minutes with Pope Francis], 4f28l9, 1460847914.0, 0
+431, [Hillary Clinton, Bernie Sanders criticise Donald Trump for xenophobic rhetoric], 49yduc, 1457724320.0, 3
+432, [Bernie Sanders explains losses to Hillary Clinton: 'Poor people don't vote'], 4g8ast, 1461536231.0, 6
+433, [Poll: Trump less popular than lice, still backed by GOP voters], 4itce1, 1462970941.0, 0
+434, [Bernie Sanders Renews Attacks on Hillary Clinton in Pennsylvania], 4fw11s, 1461313919.0, 2
+435, [U.S. Presidential Debates without candidates Jill Stein & Gary Johnson is a shameful censorship scam], 54o6hw, 1474968769.0, 97
+436, [Mystery Surrounds Sources of Many Bill Clinton Speaking Fees], 4u083v, 1469177464.0, 26
+437, [The Trump Democrats are real, are abandoning Hillary, and the unions are in a panic!], 4iv8m0, 1463006752.0, 14
+438, [Trump keeps saying Rubio is missing the most votes in the Senate. Its actually Bernie Sanders.], 48vsql, 1457094114.0, 0
+439, [How Clinton Emails Became The New Whitewater: A Scandal In Search of A Crime], 4xu7vt, 1471305199.0, 42
+440, [Clinton Will Build Her Biggest Lead on March 15. Sanders Will Erode It After That], 4alqon, 1458123044.0, 52
+441, [Overall 81 percent of Sanders backers have rallied to Clinton, surpassing the 74 percent of Clinton supporters in 2008 who fell in behind Barack Obama], 4qcq20, 1467188715.0, 20
+442, [Trump hints at assassination of Hillary Clinton by gun rights supporters], 4wy5aw, 1470801345.0, 3357
+443, [The Myth of the Trump Democrat - At this stage of the election, there is nothing that points to any Democratic support or enthusiasm for Trump. Instead, its just the opposite. Trump is deeply unpopular with Democratic voters. Even white ones.], 4buhks, 1458896154.0, 0
+444, [Trump is right: The greatest U.S. threat is indeed from within. (Its him)], 4xzwou, 1471388180.0, 15
+445, [The Second Amendment Was Never Meant to Protect an Individuals Right to a Gun], 3vkg9r, 1449370086.0, 44
+446, [Judge Jeanine: Alleged Clinton hacker's claims are credible], 4i3hsc, 1462535225.0, 4
+447, [Who Is Behind the Lie That More Guns Makes Us Safe? The NRA doesnt need just cash to bully legislatorsit needs bad information too.], 4fqkim, 1461228923.0, 0
+448, [Donald Trump riles 2016 race with anti-Semitic imagery], 4rdglc, 1467764138.0, 0
+449, [Shedding light on Sanders' anti-science views], 4d4p2k, 1459682609.0, 55
+450, [Why I support Hillary Clinton (gilded thread from r/PoliticalDiscussion)], 43f3g6, 1454205395.0, 1
+451, [Charity Watchdog gives the Clinton foundation an 'A' rating with 88% of the money going to charitable causes], 4pysqg, 1466991699.0, 17
+452, [Judicial Watch Uncovers Smoking Gun Clinton Emails], 4q9yno, 1467156154.0, 137
+453, [Poll: Clinton leads Trump by 7 points following Dem convention], 4vm5n8, 1470082195.0, 63
+454, [The day Trump killed the fact], 4cluoi, 1459388371.0, 0
+455, [FBI Agreed to Destroy Evidence Pertaining to Hillarys Private Server Including Laptops], 55tdqh, 1475615254.0, 16
+456, [Poll: Hillary Clinton Solidifies Big Lead On Donald Trump - NBC News], 4woxwc, 1470669195.0, 0
+457, [Putin is surely backing Trump, whether or not Russia was behind DNC hack | US news], 4uuwav, 1469658805.0, 25
+458, [The Democrats are in more trouble than they realize proceeding with their rigged effort to crown Hillary Clinton as their nominee.], 4h1gyg, 1461992080.0, 22
+459, [Hillary Clinton Struggles to Fight Back Coughing Attack], 51bdmb, 1473135967.0, 1034
+460, [Bill Maher: Id Vote For Dead Hillary Over Trump], 52i2xt, 1473760600.0, 893
+461, [The Trump Effect': Report says children of color are deeply traumatized by 2016 campaign], 4en10u, 1460602027.0, 0
+462, [David Brooks: "The Trump comparison of the looks of the wives, he does have, over the course of his life, a consistent misogynistic view of women as arm candy, as pieces of meat. Its a consistent attitude toward women which is the stuff of a diseased adolescent."], 4c14rh, 1459027219.0, 0
+463, [Friday Fun Off-topic Megathread], 4wajwm, 1470434805.0, 0
+464, [Hillary Clinton's quiet supporters explain why they're with her], 4vuls0, 1470198110.0, 20
+465, [Bernie Sanderss false claim that he has released his full federal tax returns], 4dfe54, 1459869708.0, 20
+466, [Shutting Down Trump Doesnt Violate The First Amendment, Police Assaulting Trump Protesters Does], 4a9wjg, 1457930281.0, 0
+467, [Louis C.K. Compares Donald Trump to Hitler: Hes an Insane Bigot], 493iva, 1457231228.0, 24
+468, [Be Afraid of How Much Donald Trumps Supreme Court Could Change America], 4ihehd, 1462786516.0, 9
+469, [Remember, there are more than two options in this election.], 542rry, 1474628677.0, 37
+470, [As a show of support, I just donated to the Sanders campaign], 46sits, 1456039002.0, 9
+471, [Elizabeth Warren Cant Stop, Wont Stop Laying Into Donald Trump], 4ml6tn, 1465116864.0, 9
+472, [On his Vermont tax return, Sanders made a total of $150 in voluntary contributions to support four causes: at-risk children, endangered wildlife, military veterans and the environment.], 4ez6vo, 1460788436.0, 7
+473, [Trump brags about not paying taxes: 'That makes me smart'], 54ogs7, 1474972559.0, 4341
+474, [Pastor Chides Donald Trump For Electioneering At Her Church], 52sz4f, 1473918893.0, 1
+475, [Clintonism, RIP], 4eueow, 1460712096.0, 0
+476, [John Oliver has the Donald Trump takedown America has been waiting for], 48aafc, 1456782804.0, 0
+477, [Bernie Sanders going nowhere after winning four states on Super Tuesday], 48l22p, 1456930943.0, 31
+478, [Trump Campaign Bombs in Virginia, Again - Empty bleachers and a hostile student body greeted Trump vice presidential nominee Mike Pence in Virginia on Saturday at one of the most religiously conservative schools in the country.], 4zz5r5, 1472415524.0, 3366
+479, [Donald Trump 'would wipe $1 trillion from the US economy if he is elected president'], 530f06, 1474031470.0, 0
+480, [How Reddit Ruined The Hillary Clinton Campaign], 54e7k6, 1474817640.0, 18
+481, [Bernie Sanders' campaign just dropped a major hint that the race is over], 4gmmg5, 1461755701.0, 28
+482, [Major Nevada union accuses Sanders aides of posing as union members], 43555r, 1454041425.0, 3
+483, [Covering Up Hillarys Libyan Fiasco], 4dy1nn, 1460173278.0, 6
+484, [Cornel West: Why I Endorse the Green Partys Jill Stein Over Neoliberal Disaster Hillary Clinton], 4u0k2f, 1469182271.0, 47
+485, [New Emails Show Hillary Slept Through Meeting Day After Benghazi Attacks], 493fxg, 1457230045.0, 37
+486, [Vote for Hillary Clinton: Vote for the Military-Industrial Complex and World War], 4ws03i, 1470713473.0, 56
+487, [Ben Carson Doesn't Know Who Wrote The Constitution Even After Writing a Book About It], 3u35t2, 1448407909.0, 612
+488, [Republicans abandoning racist Donald Trump], 4nj6y0, 1465632364.0, 16
+489, [Clinton slams Trump abortion comments, says: 'The Republicans all line up together'], 4co7hj, 1459421922.0, 0
+490, [Trump: I didnt sexually assault a People magazine reporter, because look at her], 57blqt, 1476409763.0, 3793
+491, [The 'Blacks for Trump' Guy Is a Former Cult Member Who Thinks Obama Is the Devil], 59nfs7, 1477596186.0, 3327
+492, [Inside Bernie's longshot victory strategy], 4amgpp, 1458135799.0, 2
+493, [The myth of the Democratic rift: Despite media hot air, the data show Sanders supporters will embrace Clinton - Salon.com], 4tb0i6, 1468810997.0, 14
+494, [Donald Trump has another white power-loving delegate], 4kjp9h, 1463969383.0, 7
+495, [Trump Turns Victory Speech Into QVC Pitch: I Got Steaks, Wine And Mags!], 49mc56, 1457525383.0, 4
+496, [Clinton's debate performance spoke to every woman who has had to humor an incompetent man], 54t8pl, 1475044267.0, 80
+497, [September 28th, 2016 Libertarian Race  MSNBC Hardball College Tour Megathread], 54z0h5, 1475130064.0, 30
+498, [Trump wants revenge: His hunger to be president is all about gaining power to settle petty personal scores], 4lw35z, 1464741030.0, 28
+499, [I Was Wrong: Trump Will Be The Next President], 4mi1gw, 1465070770.0, 13
+500, [This week Donald Trump supporters punched an elderly woman, slapped a protestor, and hung Hillary Clinton in effigy], 52qgzl, 1473888605.0, 36
+501, ['History made': Clinton claims nomination. Clinton puts Trump on watch: 'We are better than this. We wont let this happen in America.'], 4n2yht, 1465383772.0, 81
+502, [Trump son: Dad can't release tax returns because then everyone will see them], 52vyjk, 1473972360.0, 3680
+503, [The national media is talking about Trumps racist campaign. Thats good for Hillary Clinton.], 52ko2x, 1473804890.0, 37
+504, [Jill Stein: "I am the only candidate that is not controlled by predatory banks" BBC News], 4xgnfh, 1471075665.0, 37
+505, [Trump officially launches LyingCrookedHillary.com], 4pjc9v, 1466748275.0, 16
+506, [Why Hillary Clinton's Polling Bounce Has a Better Chance of Persisting], 4vu7od, 1470193848.0, 11
+507, [Ivanka Trump lies, says Clinton has no childcare or maternity leave proposals], 52qzph, 1473895294.0, 64
+508, [Study: White Extremists More Dangerous Than Islamists Since 9/11 time.com], 4u9e5e, 1469327151.0, 30
+509, [Hillary Clinton Is Now the Presumptive Democratic Nominee], 4amd9r, 1458133819.0, 215
+510, [Bernie Sanders Is Almost Totally A Creation Of The Wealth He Disdains], 3uqzyz, 1448855313.0, 4
+511, [DeLay: FBI 'Ready to Indict' Hillary], 42oa2x, 1453791008.0, 14
+512, [Poll: Clinton up 4 points over Trump in Arizona], 589lkc, 1476902172.0, 2599
+513, [Hillary Clinton Deadpans On 'Between Two Ferns'], 53zk3g, 1474587633.0, 29
+514, [It's official: Hillary Clinton makes history], 4urij5, 1469602970.0, 0
+515, [Hillary Clinton expresses 'regret' for calling Donald Trump supporters 'deplorables'], 524i7x, 1473562079.0, 1
+516, [The lies Trump told this week: from 'deplorables' to his interrupted speech], 5329id, 1474066368.0, 73
+517, [Eighty-five percent of Sanders supporters intend to vote for Clinton], 4shj76, 1468365801.0, 83
+518, [While Media Goes Crazy Over Trump KKK Story, A Stunning Hillary Video Surfaced], 48hcvr, 1456879913.0, 26
+519, [Trump again refuses to acknowledge Obama was born in U.S.], 530c3n, 1474030000.0, 3
+520, [Bernie Sanders: 'I am proud to stand with her'], 4umq3v, 1469534272.0, 79
+521, [Hillary Clinton thanks Bernie Sanders for challenging her in victory speech], 4gmklq, 1461754956.0, 11
+522, [No, Jimmy Fallon, Donald Trump isn't a laughing matter | Steven Thrasher | Opinion], 536inh, 1474131607.0, 6
+523, [Elizabeth Warren is actually the most punk rock anti-Wall Street crusader the left has got left - Warren is far more likely than Hillary Clinton to crusade against free market corruption and the surreptitious right-wingers who endorse it.], 4j9lcu, 1463220662.0, 0
+524, [Trump in 2013: We must 'leave borders behind' because future of US 'depends on a cohesive global economy'], 58asqf, 1476918939.0, 3832
+525, [Wow: Joe Biden passionately Calls Out Donald Trump on His PTSD Comments, Shares Story of Son Beau], 55qqv9, 1475567754.0, 4116
+526, [Mark Cuban: Hillary Clinton Is a 'Smarter Businessperson' and 'Better Negotiator' Than Donald Trump], 4v7szw, 1469842751.0, 101
+527, [Trump failed the commander in chief test. Badly.], 54w0a0, 1475093571.0, 2824
+528, [81 percent of Sanders backers now support Clinton against Trump. At this point in 2008, 22 percent of Clinton primary supporters said they would vote for John McCain in the fall], 4pzadz, 1466998345.0, 52
+529, [Dont let Donald Trump take the Fifth], 52rqn4, 1473904205.0, 0
+530, [Since he won the nomination, over half of voters have said Donald Trump isnt qualified for the job], 52kpb8, 1473805300.0, 57
+531, [Sorry, Donald Trump. American workers wont fall for your scam.], 4rdi0e, 1467764618.0, 22
+532, [Honest question: what do Hillary supporters make of Juanita Broaddrick's accusations?], 4h57sh, 1462064437.0, 5
+533, [Bombshell Newsweek Report: Trump's Biz Ties Would Be NatSec Nightmare], 52rkue, 1473902348.0, 43
+534, [How Hillary blew her big moment], 4v51bi, 1469798251.0, 0
+535, [A $1 Million Fight Against Hillary Clinton's Online Trolls], 4lvy22, 1464739346.0, 2
+536, [Clinton to Sanders: End the 'very artful' smears], 448umx, 1454669571.0, 0
+537, [Pervy Ted Cruz Caught Cheating  With 5 Secret Mistresses!], 4bwwpi, 1458948443.0, 1787
+538, [O'Keefe Sting Reveals 'Bird-Dogging' to Incite Violence at Trump Events], 57y8b2, 1476750353.0, 507
+539, [What Bill and Hillary Clinton's Controversial Foundation Actually Does. Although the foundation has a wide array of initiatives promoting economic equality for women, boosting entrepreneurship in emerging markets and tackling climate change it is perhaps best known for its health care initiatives.], 4zzgfx, 1472421235.0, 244
+540, [Former US Presidents discussion series - Part XII], 4sp58x, 1468468754.0, 7
+541, [Dead Broke? Hillary Pays Herself Over $250K From Campaign Coffers], 48z0sq, 1457150670.0, 9
+542, [Bill Maher Likens Donald Trump To A Spoiled 5-Year-Old Throwing A Tantrum. He is the grown-up version of every pain-in-the-ass kid...], 4b5wub, 1458468742.0, 0
+543, [Trump presidency is a global threat, The Economist Intelligence Unit warns], 4aqugq, 1458206573.0, 0
+544, [Hillary Clinton: Alt-Right Conservatives Are Not True Republicans], 50hv96, 1472687541.0, 0
+545, [SMART endorses Hillary Clinton for President], 426rvi, 1453515244.0, 4
+546, [Latest polls point to post-convention bounce for Clinton], 4vn729, 1470095908.0, 13
+547, [After the weekends attacks, Clinton acted like a leader. Trump did not.], 53kqpb, 1474359962.0, 0
+548, [No, Trump wont win votes from disaffected Democrats in the fall], 4bytw2, 1458975465.0, 10
+549, [Some Bernie supporters are rejecting his endorsement of Hillary Clinton and choosing to back Jill Stein of the Green Party instead. Here's why.], 4xqwpj, 1471248940.0, 0
+550, [Gallup: Clinton most admired woman in the US for 20th year], 3yitpe, 1451339233.0, 0
+551, [The Cult of Trump], 517jux, 1473074995.0, 11
+552, [Obama: 'There has never been a man or a woman more qualified' than Clinton], 4uyn1h, 1469704839.0, 59
+553, [Donna Brazile is the worst mole in history], 5ag1xw, 1477988074.0, 29
+554, [Here's a list of Bernie Sanders' $19.6 trillion in tax hikes], 41p8er, 1453247650.0, 5
+555, [Sanders not surprised media establishment backing Clinton], 42g8fj, 1453678051.0, 4
+556, [Jill Stein makes push to be included in presidential debates], 51czna, 1473156959.0, 10
+557, [Clinton borrows Kremlins playbook with troll army: #NeverTrump is really #ImWithHer], 4i2eni, 1462517493.0, 12
+558, [Donald Trump is obsessed with race-baiting conspiracy theories], 4hp8wx, 1462330354.0, 12
+559, [Hillary Clinton has an 81% chance of winning the Iowa caucuses.], 41hbjm, 1453120333.0, 47
+560, [FiveThirtyEight: Bernie Sanders Is Even Less Competitive Than He Appears], 4dyqoq, 1460182981.0, 37
+561, [69-year-old woman punched in the face by man leaving Donald Trump rally], 52svwz, 1473917762.0, 8
+562, [Elizabeth Warren And Hillary Clinton Join Forces To Troll Donald Trump. Warren called Trump a small, insecure, money-grubber who fights for no one but himself.], 4q6w14, 1467106220.0, 2
+563, [Bill Clintons Ugly Defense Of His Crime Bill That Harmed Black Communities], 4e3cfz, 1460269587.0, 2
+564, [Why Donald Trump doesn't deserve even one vote], 5a5mqu, 1477856089.0, 569
+565, [There is a liberal case to be made for Donald Trump. The prospect of Trump defeating Clinton this November is not necessarily the apocalypse that some would lead you to believe.], 4gysij, 1461954753.0, 54
+566, [Clinton commits Benghazi gaffe, saying US 'didn't lose a single person' in Libya], 4aid4z, 1458076306.0, 2929
+567, [I Wrote That I Despised Hillary Clinton. Today, I Want To Publicly Take It Back.], 54x42o, 1475107946.0, 67
+568, [Clinton lucks out with Jill Stein on her left], 4ydoqz, 1471571535.0, 0
+569, [Has Donald Trump Ruined Journalism?], 4y8jw4, 1471501113.0, 0
+570, [This is Why Voting for Hillary is Not the Best Idea], 4h2msf, 1462009727.0, 50
+571, [Donald Trump gains on Hillary Clinton in Pennsylvania with help from defecting Democrats], 54hlcs, 1474872462.0, 29
+572, [Al Gore endorses Hillary Clinton], 4ukbr7, 1469502422.0, 45
+573, [Donald Trumps infrastructure plan costs 10 times more than the Obama plan Republicans voted against], 5a03yb, 1477770607.0, 3791
+574, [Election Update: Clintons Bounce Appears Bigger Than Trumps], 4vn6mh, 1470095764.0, 25
+575, [Hillary Clinton Slams Donald Trump, Says It's Time to Pick Country Over Party], 4vkc4n, 1470046844.0, 22
+576, [Don't want to vote for Clinton or Trump? How about this woman who says Wi-Fi melts kids' brains?], 4w5s1v, 1470361537.0, 50
+577, [Dems in Panic Over Hillary Candidacy: 'Our Nominee Is a Disaster'], 4b3vcq, 1458436228.0, 17
+578, [I sold Trump $100,000 worth of pianos. Then he stiffed me.], 54xm65, 1475113804.0, 4477
+579, [Donald Trump wrong that Hillary Clinton 'doesnt do very well with women'], 4hjolk, 1462250549.0, 33
+580, [MSNBC Host Thinks Trump Not Releasing Tax Returns Is Worse Than Clinton Foundation Scandals], 500ug8, 1472439819.0, 45
+581, [Trump raised $0 for RNC in October], 59r63s, 1477638617.0, 3069
+582, [Someone finally told Trump to shut up], 52w7ln, 1473975968.0, 130
+583, [Bernie Sanders' backers should stop booing Hillary Clinton], 43xdy4, 1454490460.0, 15
+584, [Bernie Sanders revolution threatens Hillary Clinton in Iowa: Clinton is losing young women to a cranky older man.], 43qfnn, 1454387381.0, 3
+585, [Why Clinton can thank Trump for her polling bump], 4wlk1m, 1470616967.0, 4
+586, [Hillary Clinton: 'We Didn't Lose a Single Person' in Libya | Fox News Insider], 4ak135, 1458099151.0, 4
+587, [Donald Trump Rally - White man punches black protester... police make arrest], 49uw2j, 1457665341.0, 8
+588, [Hillary Clintons Moment - "Shes a deeply flawed politician."], 48k8gp, 1456917463.0, 12
+589, [Trumps coded racism is as dangerous as his lies. Debate moderators must call it out.], 549uo1, 1474747607.0, 1071
+590, [Donald Trump's employees are picketing his Nevada hotel], 47b0om, 1456320462.0, 2
+591, [No record that Clinton, aides took required ethics training], 4ychd0, 1471558437.0, 7
+592, [Bernie Sanders to Reassess Candidacy After Tuesdays Vote, But Hell Stay in Race], 4gkdgy, 1461726036.0, 3
+593, [Economists have a message: Clinton's policies are wrong for America], 54lzz6, 1474942343.0, 73
+594, [Not Even a Dimes Worth of Difference - Clinton/Bush Hug], 4akb61, 1458102780.0, 1
+595, [Yes, theres a rigged election: The one that ensures a Republican House majority], 58t15j, 1477170192.0, 2650
+596, [Nearly 20% of Trump Fans Think Freeing the Slaves Was a Bad Idea], 4a3rye, 1457817166.0, 1858
+597, [Donald Trump: the modern-day Nero ready to burn down America?], 4nlbc4, 1465679116.0, 1
+598, [Physically Attacked by Donald Trump  A People Writers Own Harrowing Story], 5783zm, 1476355575.0, 3001
+599, [Hillary Blames Coughing Fit On Trump Allergy At Rally], 51bhbt, 1473137153.0, 51
+600, [The lie that is Hillary], 4pdxoy, 1466670156.0, 0
+601, [Bill Clinton: Bernie Sanders Supporters Would Shoot Every Third Person on Wall Street], 4f00a1, 1460801205.0, 0
+602, [Trump campaign wrong about Clinton influence on debates against Sanders, Trump], 4vjxof, 1470040800.0, 143
+603, [Donald Trump is wrong. Rigging an election is almost impossible.], 4wh6ph, 1470538337.0, 0
+604, [Should Hillary Clinton release menu of her $353000 per plate fundraising dinners? #ReleaseTheMenu], 4f0ze2, 1460821048.0, 0
+605, [Hillarys Nightmare "Hillary Clintons nightmare is not the sudden resurgence of Bernie Sanders. It is the fidelity to the rule of law of the FBI."], 432ap5, 1453995013.0, 6
+606, [Sanders: I can still win], 4glzks, 1461746830.0, 0
+607, [Martha Stewart went to prison, but Hillary gets off?], 4rxzxa, 1468054737.0, 19
+608, [Harry Reid calls Donald Trump 'a racist'], 54ni4l, 1474959827.0, 12
+609, [Trump says Sanders 'lost his energy,' believes he can sway some of his supporters], 4uocst, 1469564889.0, 8
+610, [New poll: No convention bounce for Trump], 4uo4hh, 1469560863.0, 11
+611, [Donald Trumps shocking ignorance, laid bare], 4bvbqh, 1458911291.0, 0
+612, [Clinton voter fraud in Polk County, Iowa Caucus], 43slid, 1454415934.0, 3812
+613, [Trumps long record of broken promises], 4u9eup, 1469327415.0, 30
+614, [Joe Bidens D.N.C. Speech Shows Why Hes Hillarys White Man Whisperer], 4uyrdb, 1469706766.0, 11
+615, [In new poll, Clinton leads Trump in every single category], 5279pk, 1473601931.0, 201
+616, [August 2016 Meta Thread], 4wajx9, 1470434810.0, 89
+617, [Former US Presidents discussion series - Part XIII], 4vmue0, 1470091638.0, 123
+618, [Sanders Tells DNC-Goers 'Hillary Clinton Will Make An Outstanding President'], 4umo8e, 1469533486.0, 35
+619, [Donald Trump's Plan to Make Americans Poor Again], 4kj52z, 1463961763.0, 18
+620, [Hoisted on Her Own Petard-Hillarys Gratuitous Attack On Snowden And Lies About Her Own Emails], 4h9ap7, 1462142456.0, 17
+621, [Clinton unfit to be president], 4paba4, 1466626243.0, 30
+622, [Yes, Bernie Sanders Will Win the Contested Democratic Convention], 4iyxfd, 1463054696.0, 29
+623, [Meet The Workers Who Sewed Donald Trump Clothing For A Few Dollars A Day], 4ugar3, 1469441437.0, 22
+624, [Hillary Clinton Campaigns With Scandal Plagued Friend Charlie Rangel In Harlem], 4cmf1v, 1459395549.0, 7
+625, [Trump's Blood Libel & Press Failure], 50yv2u, 1472939156.0, 12
+626, [Hillary Clinton Now Gives Press Conferences While Donald Trump Avoids Them], 53k59j, 1474352016.0, 0
+627, [Dr. Cornel West Is Right, Jill Stein Should Be Americas First Female President], 4t04zb, 1468631103.0, 117
+628, [I like Bernie Sanders. His supporters? Not so much], 43vjjw, 1454466679.0, 16
+629, [Giuliani: Trump believes now Obama was born in the U.S.], 51vmhh, 1473424196.0, 1
+630, [Hillary Clinton: "One of my biggest contrasts with Senator Sanders, that he would place gun manufacturer's rights and immunity from liability against the parents of the children killed at Sandy Hook." [8:18]], 4dnfx8, 1460000836.0, 11
+631, [Clinton will build her biggest lead on March 15th. Sanders will erode it after that.], 495jto, 1457261944.0, 0
+632, [All choked up! Hillary caught up in coughing fit in Cleveland and plays it off as an 'allergic reaction' to Trump], 51beme, 1473136285.0, 133
+633, [Hillary Clintons Hit Men Target Bernie Sanders at Blue Nation Review], 49bfkl, 1457362110.0, 0
+634, [Trump's stamina attack on Clinton stirs talk of gender bias], 4z65vm, 1471983427.0, 66
+635, [Sanders to supporters: We must elect Hillary Clinton], 4umjzg, 1469531740.0, 69
+636, [Report: Trump buys $20K Trump portrait with donor money], 52kbiz, 1473800462.0, 562
+637, [Inside the bitter last days of Bernie's revolution], 4n32p9, 1465385531.0, 2040
+638, [Clinton vs. Trump: Even their supporters dont like them], 4e91zl, 1460374237.0, 6
+639, [Despite Clinton's Lead, Is Bernie Sanders' Campaign Too Rich To Quit?], 4alsrb, 1458123941.0, 0
+640, [Hillary emails show ties to Rahm, Blumenthal, Clinton Foundation], 3z7ttq, 1451814261.0, 0
+641, [Hillary Clinton Is Even More Dishonest than You Thought], 50wbxh, 1472890229.0, 136
+642, [Trump Just Drove a Truck Through Hole DNC Platform Panel Left in Clinton's TPP Promise], 4qdgdb, 1467198982.0, 9
+643, [Bernie Sander's health care plan isn't realistic], 41h9ns, 1453119533.0, 70
+644, [Bill Clinton: Hillary has 'the flu' (NOT pneumonia?)], 52s7lb, 1473909713.0, 37
+645, [Donald Trump Encourages Violence At His Rallies. His Fans Are Listening.], 49wivx, 1457687636.0, 10
+646, [Trump and Clinton react very differently to terror incidents. That tells us how theyd act as president.], 53kt30, 1474360879.0, 16
+647, [Are Trumps Poll Numbers Collapsing?], 4nfz4b, 1465589214.0, 21
+648, [Advantage Hillary: Clinton widens lead as first debate looms], 544prs, 1474666411.0, 194
+649, [Clintons email server did not lead to an Iranian scientists death], 4wtsr7, 1470737641.0, 64
+650, [Hillary Clinton says America is stronger together. But in Hillary Clintons America, millions of people are left out in the cold.], 4v7hfm, 1469839038.0, 352
+651, [Clintons National Lead Over Sanders Widens to 25 Points], 41grah, 1453111774.0, 15
+652, [Donald Trumps Charity Scandal Is About to Spread Nationwide], 55z122, 1475696385.0, 3297
+653, [Hillary Clinton: "As president, I will be a vocal champion for D.C. statehood"], 4ixq9g, 1463037079.0, 12
+654, [Donald Trump Launches Blatantly Anti-Semitic Attack Against Hillary Clinton], 4qy91h, 1467511004.0, 24
+655, [Hillary Clinton Leads Donald Trump 54% to 41%: CNN/ORC Poll], 4hvb7e, 1462408486.0, 18
+656, [Hillary Clinton Leads Donald Trump by 10 Points in New Poll], 4zkfsd, 1472182987.0, 8
+657, [Could Gary Johnson Be Even Dumber Than Sarah Palin?], 56jwa6, 1476002068.0, 112
+658, [CNN Poll: Hillary's Convention Speech Received Much More Favorably than Trump's], 4v738z, 1469834418.0, 59
+659, [Sanders says he has lost primaries to Clinton because poor people dont vote], 4ga6y2, 1461563123.0, 0
+660, [Donald Trump's 500 businesses would pose 'unprecedented ethical dilemma'], 4au93q, 1458265688.0, 0
+661, [President Obamas brutal assessment of the rise of Donald Trump], 4ablwc, 1457957267.0, 2
+662, [Sanders Campaign Distances Itself From its Own Campaign Ads], 3wlauw, 1449999443.0, 2
+663, [Ohio: Hillary Clinton Loses to All Republicans], 47kcaq, 1456452627.0, 0
+664, [Hillarys nightmare | Mishandling state secrets is an indictable offense], 433ys0, 1454026712.0, 0
+665, [Gun ownership isn't some inalienable right granted by God], 3vly0z, 1449394118.0, 6
+666, [Hillary Clinton talks down to young black voter in Minneapolis], 498tsd, 1457322557.0, 57
+667, [Pants On Fire for viral rumor Bernie Sanders won California], 4njatf, 1465634233.0, 31
+668, [Polling Megathread [10/13 - 10/15]], 57moat, 1476576103.0, 88
+669, [Donald Trump is failing at basically everything right now. This poll proves it.], 57r5rt, 1476648951.0, 1777
+670, [Loser Pope takes on Donald Trump, suffers massive humiliation, slinks off to Vatican], 46helf, 1455863599.0, 7
+671, [While Khan talks peace, Trump tweets against him], 4vn8pn, 1470096441.0, 17
+672, [Dear Anti-Trump protesters: You're making things worse.], 4b5ocj, 1458464774.0, 18
+673, [Exclusive - Black Men for Bernie founder: 'Trump does not scare me as much as Hillary Clinton does'], 4s3gma, 1468144948.0, 168
+674, [Donald Trump hits all-time low in the polls that really matter], 4bwy93, 1458949032.0, 0
+675, [Donald Trump tried to get me fired after I wrote about Trump University], 49pene, 1457577206.0, 19
+676, [WikiLeaks Releases Alleged Clinton Wall Street Speeches In Batch Of Campaign Emails], 56icxp, 1475981201.0, 24
+677, [The Hillary Clinton email story is out of control], 51v4jq, 1473416965.0, 48
+678, [Trump Calls For Punishing Women Who Have Abortions, Then Backtracks], 4cn3yo, 1459404849.0, 5
+679, [2006 Audio Emerges of Hillary Clinton Proposing Rigging Palestine Election |], 59wu2d, 1477716185.0, 0
+680, [California Gov. Jerry Brown praises Sanders on his way to lukewarm endorsement of Clinton "California Gov. Jerry Brown issued a less-than-enthusiastic endorsement of Hillary Clinton"], 4lw7b5, 1464742359.0, 5
+681, [Obama is 'fired up' for Clinton as Democrats seek to unify party], 4nngtg, 1465711191.0, 3
+682, [Hillary Clinton is not a Feminist], 3yvb4e, 1451562253.0, 8
+683, [Poll: 48% of Americans Say Russia Is Trying to Control the Election], 4vsppt, 1470177167.0, 19
+684, [Stop Pretending You Don't Know Why People Hate Hillary Clinton], 54rwrs, 1475028377.0, 57
+685, [Polling Megathread [10/10 - 10/12]], 575aqp, 1476321931.0, 223
+686, [WikiLeaks' Julian Assange accuses Hillary Clinton of electoral 'extortion'], 4wn7q2, 1470639676.0, 49
+687, [Trump lies more often than Clinton. But Americans think shes more dishonest. Heres why.], 4v9p98, 1469867365.0, 29
+688, [Trump Presidency Is a Global Threat, Economist Intelligence Unit Warns], 4aqbep, 1458198266.0, 0
+689, [Caucusing for Hillary Clinton at 102 years old], 43xk4d, 1454492875.0, 0
+690, [The media is giving Hillary a pass on her most vile lie], 3xa4dz, 1450425559.0, 3
+691, [It's Clinton's Foreign Policy Not Trump's That's Reckless], 4n8bhy, 1465461139.0, 57
+692, [Remarks in Philadelphia], 53r9ab, 1474456809.0, 9
+693, [NBC Poll: Clinton maintains national lead after NH loss], 463wbp, 1455677094.0, 8
+694, [Bernie Sanders Campaign Accessed Confidential Clinton Data], 3xb5gh, 1450444769.0, 19
+695, [Forget This Hillary Is Unlikable Stuff. Hillary Is Downright Inspiring.], 57ts1b, 1476682827.0, 0
+696, [Hillary Clinton is the only real choice for president], 57rsxn, 1476659301.0, 81
+697, ['We could have been there': Squadron member speaks out on stalled Benghazi response], 4iyg7d, 1463047295.0, 11
+698, [Yep, Trump just made another joke about assassinating], 539ibu, 1474180439.0, 56
+699, [What voters know about Hillary Clinton: She's a crook], 444mo7, 1454608271.0, 1
+700, [I salute Bernie and his supporters. Signed a Hillary supporter.], 4a6dgb, 1457859841.0, 0
+701, [Progressive 3.0: Beware the Latest Version of Hillary Clinton], 44cvsk, 1454735255.0, 1
+702, [Obama Passes Baton of Optimism to Clinton], 4uz0x1, 1469711159.0, 14
+703, [I'm probably going to get down voted for this, but I think Bernie Sanders is going to win], 44j2an, 1454834237.0, 25
+704, [Sorry, deplorables': Being called racist doesnt mean youre being oppressed], 52xy57, 1473997037.0, 322
+705, [Clinton vs. Trump: Hillary Clinton Wants To Carry Forward Obamas Legacy, Woos Black Voters], 53br1g, 1474225998.0, 41
+706, [The Clinton Campaign Can't Even Tell The Truth About Water: "I drink tons of water. Just as much water as I can possibly drink."], 52rxqx, 1473906597.0, 37
+707, [A group of 30 black students were reportedly removed from a Donald Trump rally before it even started], 48emsu, 1456837163.0, 0
+708, [Piers Morgan: All the pressure is on Hillary tonight and if she wobbles, wavers or walks into a Trump right hook, you can start counting her out], 54mm02, 1474949219.0, 0
+709, [Hillary Clinton says 'the unborn person doesn't have constitutional rights' as she explains her stance on abortion], 4d91di, 1459763849.0, 5
+710, [John Lewis On Sanders' Involvement In Civil Rights Movement: I Never Saw Him], 45ait6, 1455247063.0, 8
+711, [Exclusive  NSA Architect: Agency Has All of Clintons Deleted Emails], 4vi3zr, 1470015869.0, 18
+712, [Clinton's 2008 Campaign Manager On Whether They Promoted Rumors About Obama's Heritage: "Yeah"], 533zqw, 1474087182.0, 44
+713, [Clinton mocks Trump with her own 3 a.m. tweetstorm], 55d0uq, 1475354225.0, 2957
+714, [Hillary's secret emails strike again: New report says secretary of state's private server held two top-secret messages], 3wz9z2, 1450237284.0, 5
+715, [Donald Trump is shocked to learn that politics is complicated], 4emn43, 1460597393.0, 6
+716, [Hillary Clinton says none of her emails had classification headers], 51posb, 1473339575.0, 50
+717, ["Hillary Clinton must become the next president of the United States." - Bernie Sanders, Democratic National Convention 2016 Full Speech], 4ummq8, 1469532877.0, 72
+718, [Meet the Horde of Neo-Nazis, Klansmen, and Other Extremist Leaders Endorsing Donald Trump], 53t8z7, 1474495011.0, 465
+719, [Hillary Clintons million little lies], 3umxul, 1448777315.0, 13
+720, [Could Hillary Clinton be Worse Than Trump?], 4b07qj, 1458363649.0, 19
+721, [Trump used $258,000 from his charity to settle legal problems], 53nm2j, 1474410534.0, 3888
+722, [2016 Democratic National Convention - Final Day], 4v0hyx, 1469738529.0, 188
+723, [Clinton May Have Stood Out Front Before, But Now Bernie is Literally Standing Out Front], 4a70pu, 1457871676.0, 0
+724, [Clinton Slams Comedians for Making Jokes About Her (Demands Their Personal Info). "Hillary Clinton is out to prove she has no sense of humor"], 3tdggo, 1447925499.0, 0
+725, [Judge Jeanine: Clinton lied to the public and the FBI], 4wm2v9, 1470624168.0, 68
+726, [Why Trump's Canned Speech Won't Help Him: "Both rhetorically and substantively, Trump flatlined last night. It is hard to see how this speech, or more speeches like it, will help Trump broaden his appeal."], 4nb100, 1465511216.0, 15
+727, [Poll: Clinton snags 7-point convention bounce], 4vh1i9, 1469999984.0, 402
+728, [Jane Sanders: Bernie will provide tax returns when Clinton releases transcripts], 4gkh5i, 1461727284.0, 6
+729, [Clinton Most Admired Woman for Record 20th Time], 3yjzai, 1451358045.0, 16
+730, [Salma Hayek: I Denied Trump A Date So He Planted A National Enquirer Story About My Height], 58ple6, 1477112282.0, 3495
+731, [WikiLeaks Julian Assange accuses Hillary Clinton of electoral extortion'], 4wmsgy, 1470633718.0, 38
+732, [Trumps false claim that undocumented immigrants collect Social Security benefits], 4youtw, 1471725795.0, 3103
+733, [Does Donald Trump have dementia? 8 troubling signs that deserve a closer look], 52tp3z, 1473928934.0, 0
+734, [Hillary Clinton leads Bernie Sanders by 33 points: poll], 3x7yg6, 1450393307.0, 77
+735, [Jenner: 'Hillary Couldn't Care Less About Women, She Cares About Herself'], 49juxg, 1457491110.0, 37
+736, [Harambe the gorilla stands a better chance of becoming president than Jill Stein], 4vjvmu, 1470039920.0, 41
+737, [Green Party Nominee Jill Stein: People Aren't Happy With Rigged Economy, System | Power Lunch | CNBC], 4w0607, 1470279429.0, 19
+738, [On Islam, the GOP has lost its mind and forfeited its soul: As a Christian who served in the Bush and Obama administrations, I watched in dismay.], 4umlu1, 1469532512.0, 14
+739, [Trump supporter warns of 'civil war' if Clinton...], 58rrtd, 1477143155.0, 7
+740, [Longtime Clinton Aide Walks Out of FBI Interview], 4ixxko, 1463039928.0, 9
+741, [Clinton outlines LGBT agenda to promote 'full equality'], 3xa86y, 1450427356.0, 1
+742, [Clinton says Trump's Mexico visit "not how it works"], 50iln9, 1472695779.0, 0
+743, [Trumps Speeches Are At A Middle-School Reading Level, Study Says], 4aqetq, 1458199701.0, 2
+744, [Top Massachusetts Democrats lining up behind Hillary Clinton], 3syxj3, 1447668859.0, 0
+745, [Offering Clinton to ones daughter as a model to aspire to  given the former secretary of states long history of lying and recent history of selling the power of her office to enrich herself and her husband  is telling ones daughter that gender trumps decency.], 4p3x5y, 1466533507.0, 62
+746, [Business owner denies Clinton claim he's a Republican backing Hillary], 4wo4po, 1470653860.0, 4
+747, ["Love Trumps Hate": Actress Rosario Dawson on Why She Supports Bernie Sanders for President], 4dcqo4, 1459827729.0, 4
+748, [Trump crossed a line with donation to Florida AG], 52baqh, 1473664483.0, 0
+749, [Clinton to Trump: 'Delete your account'], 4ncoca, 1465531884.0, 39
+750, [Why millennials may never give up on socialism], 4dec1j, 1459849932.0, 0
+751, [Deepak Chopra: Trump 'emotionally retarded'], 4nxb6b, 1465874592.0, 19
+752, [Yet Another Failed Attempt to Discredit Bernie Sanders, Courtesy of the New York Times], 4oyj48, 1466455167.0, 2425
+753, [Is the media biased against Bernie Sanders?], 4dsgrc, 1460083126.0, 0
+754, [Mark Cuban slams Donald Trump: Not paying taxes is greedy, not smart], 54vxj1, 1475092263.0, 3910
+755, [Donald Trump challenges Hillary Clinton to hold a press conference: 'I think it's time'], 4uvu4n, 1469669703.0, 3483
+756, [APs Clinton Victory Story Breaches Journalism Ethics and Public Trust], 4nl70t, 1465676678.0, 3782
+757, [Ralph Who? Millennials backing 3rd Party Candidates ignorant of Nader votes tipping the 2000 election to Bush (leading to the Iraq War)], 558604, 1475274737.0, 53
+758, [Most of the media is ignoring the Trump Foundations shady work. Stephen Colbert isnt.], 5323hg, 1474064247.0, 896
+759, [Donald Trump and the Long History of White Men Claiming Fraud], 4wnwyw, 1470650242.0, 0
+760, [Donald Trump Isnt Going to Be President 0 Hed have to win unprecedented shares of the very kinds of voters who hate him: blacks, Latinos, and women.], 4hw2d0, 1462417489.0, 0
+761, [Does Clinton really have 2.5 million more votes than Sanders?], 4divtq, 1459924237.0, 0
+762, [Clinton E-mails: Is the Fix In?], 4jc38d, 1463272702.0, 9
+763, [Donald Trump starts the general election trailing Hillary Clinton by a mile], 4huop1, 1462400576.0, 11
+764, [Bernie Sanders: I attacked Hillary Clinton because she attacked me], 4dudwt, 1460109849.0, 19
+765, [Did Google adjust its autocomplete algorithm to hide Hillary Clinton's problems?], 4pjwvn, 1466755972.0, 10
+766, [GOP Official Alleges Bernie Sanders Pressured Bank for Burlington College Loan], 4lioxf, 1464517242.0, 12
+767, [Why the Miami debate was Clinton's personal nightmare.], 49ucme, 1457658522.0, 12
+768, [In which I take a second look at Hillary Clinton's paid speeches], 56ojks, 1476079273.0, 0
+769, [Chris Hayes To Susan Sarandon: Your Bernie Support Is Dangerous], 4d5nch, 1459705994.0, 5
+770, [Security Logs of Hillary Clintons Email Server Are Said to Show No Evidence of Hacking], 48ugk1, 1457074022.0, 8
+771, [Student Debt Helps, Not Harms, the U.S. Economy, White House Says], 4ufe3h, 1469427727.0, 1
+772, [Susan Sarandon: Trump Might Be Better for America Than Hillary Clinton], 4cgbeb, 1459299161.0, 26
+773, [Why does Bernie encourage the wage gap myth?], 46tpm8, 1456056370.0, 4
+774, [McCain condemns Trump comments], 4vmig1, 1470087271.0, 22
+775, [Trump Brags About His Penis Size: 'I Guarantee You There Is No Problem'], 48vett, 1457088225.0, 3
+776, [Clinton campaign: Bernie Sanders is delaying scheduling New York debate], 4d2hyw, 1459648249.0, 8
+777, [Conservative group may have broken Fla. law in secret recording of Clinton campaign voter-registration shenanigans], 57ekiu, 1476446731.0, 15
+778, [Sarah Silverman Scolds Bernie or Bust], 4umfmy, 1469529962.0, 15
+779, [Clinton up 12 points nationwide], 44yrv3, 1455078964.0, 12
+780, [Donald Trumps big abortion flip-flop, and how the media should handle it], 4cqntn, 1459469010.0, 0
+781, [Ginsburg Says Kaepernick Comment Were 'Inappropriately Dismissive'], 57mm0x, 1476575256.0, 6
+782, [Trump, Clinton win Arizona on big night in the West], 4bl0qx, 1458734311.0, 9
+783, [Under Intense Pressure to Silence Wikileaks, Secretary of State Hillary Clinton Proposed Drone Strike on Julian Assange], 55nemr, 1475526458.0, 213
+784, [Bernie Sanderss aides just threw him under the bus], 4n3bae, 1465389286.0, 75
+785, [Megathread: AP declares Hillary Clinton has enough delegates to be Democratic nominee], 4mznpw, 1465343040.0, 731
+786, [Republicans See Trump as a Racist They Can Work With], 4ng2am, 1465590742.0, 10
+787, [Hillary Clinton keeps losing. So how come she's winning?], 4jnu5g, 1463468288.0, 14
+788, [Porn star Jessica Drake claims Donald Trump offered her $10G, use of his private jet for sex], 58vfr8, 1477201926.0, 3291
+789, [Jon Stewart on Donald Trump: 'He is a man-baby'], 4irv9h, 1462948731.0, 25
+790, [Trump campaign manager charged with battery], 4cfwkk, 1459293869.0, 0
+791, [Trump is right: Bill Clintons sordid sexual history is fair game], 3ylqri, 1451385296.0, 14
+792, [Glenn Beck: If not electing Trump means electing Clinton, 'so be it'], 56nhdd, 1476066192.0, 4120
+793, [Air Force Chief to Donald Trump: Americas Military Is Not a Disaster], 5ach5e, 1477952395.0, 2355
+794, [Sanders Crushing Trump in Polls 53 Percent to 38 Percent, Seen as Strongest General Election Candidate], 4ikml4, 1462843542.0, 4191
+795, [Awkward Timing: Hillary Clinton Featured In New Issue Of Womens Health], 52pv11, 1473878568.0, 44
+796, [Clinton Laments Income Inequality While Wearing $12K Armani Jacket], 4muxzz, 1465272105.0, 4052
+797, [Did Hillary Clinton lie to Congress about her emails?], 4srpfd, 1468504046.0, 6
+798, [Donald Trump states that if abortion were to be made illegal, the doctor would be held accountable for performing one, instead of the woman.], 4cmvv3, 1459401767.0, 7
+799, [Pence declines to call David Duke 'deplorable'], 52gwst, 1473745719.0, 457
+800, [Welcome to Trumpton: Why billionaire Trump is getting the vote of poverty-stricken Americans], 54h8qc, 1474867771.0, 3
+801, [Donald Trump said 34 false things at first presidential debate], 54q9y8, 1475007432.0, 3840
+802, [Lying is what the Clintons are about.], 46s1ai, 1456032495.0, 8
+803, [Coin Toss Backwards, Per Rule 28 - Hillary lost Delegates, Didn't Gain Delegates - Bernie Wins], 43ud77, 1454451273.0, 0
+804, [Donald Trump takes time to congratulate himself after deadliest shooting in US history], 4nrsqy, 1465788158.0, 79
+805, [Trump to Sanders: Sorry, I don't debate people who don't win], 4ldxu9, 1464429442.0, 15
+806, [Trump spokeswoman diagnoses Hillary Clinton with dysphasia, despite not being doctor], 4ygqao, 1471607114.0, 12
+807, [Ashamed of Trump, Harvard Republican Club wont endorse top GOP nominee for first time since 1888], 4wknd2, 1470601343.0, 4052
+808, ['Trump is a bully,' says man who rushed stage.], 4aaq0r, 1457942501.0, 0
+809, [Koch Brothers Now Supporting Hillary Clinton], 4ucd9j, 1469377574.0, 223
+810, [Narcissist and Agitator: Donald Trump Is One of the Greatest Threats of Our Time], 4yub3a, 1471805352.0, 0
+811, [Why is the DNC ignoring national security?], 4uxmyl, 1469690761.0, 0
+812, [Poll: Trump trails Clinton by double digits], 4hvxbf, 1462415742.0, 22
+813, [The time Trump called a female Inquirer reporter the worst word possible], 553vr5, 1475205250.0, 12
+814, [Town Rejects Solar Farm, Fearing it Will Kill Plants, Cause Cancer and Suck up All the Suns Energy], 3xl3kb, 1450654650.0, 5
+815, [Donald Trump leads Hillary Clinton by 2 points nationally: poll], 51f2dh, 1473195528.0, 3589
+816, [Hillary Clinton coughing episode at Cleveland rally], 51c3dj, 1473144712.0, 126
+817, [Trump Left Nothing But Ruins Everywhere Hes Gone], 528vkv, 1473634893.0, 8
+818, [Green Party presidential candidate Dr. Jill Stein joins Alex Witt in Philadelphia where they discuss Steins campaign], 4ufnc1, 1469431466.0, 4
+819, [Clinton Gains Support From 170 African American Women Leaders], 44x1zl, 1455059238.0, 4
+820, [Trump used charity dollars for presidential campaign, report says], 55ud1m, 1475627671.0, 3929
+821, [Why Can't Hillary Clinton Stop Lying?], 4vo37t, 1470106138.0, 1029
+822, [Khizr Khan: Trump is 'Without Empathy' - NBC News], 4vml0n, 1470088238.0, 22
+823, [Rubio mocks Trump for repeating himself], 47ng2w, 1456490444.0, 1
+824, [Libertarians for Trump], 4aloig, 1458122109.0, 16
+825, [Source: Clinton email server logs show no breach], 48vogp, 1457092276.0, 18
+826, [Assange: 'We have more material related to the Hillary Clinton campaign'], 4vi0ro, 1470014662.0, 22
+827, [Hillary makes a minimum of 225,000 for a speech, But she thinks a 15 dollar minimum wage is to high. Well Hillary it would take a minimum wage worker 15 years to make as much money as you do for a one hour speech to Goldman Sachs], 44g0e0, 1454790641.0, 3802
+828, [New Poll: Trump Leading Hillary With Hispanic Voters], 4j6vy8, 1463182654.0, 26
+829, [Donald Trump Answers Questions From Press On Trump Plane 9/5/16], 51c2r7, 1473144488.0, 9
+830, [Khizr Khan: Trumps statements proof of his ignorance and arrogance], 4vmjmr, 1470087725.0, 9
+831, [Tell-All Book from Secret Service Agent Who Protected Hillary Reveals Sickening Behavior of Clinton White House], 4mv4ua, 1465274252.0, 11
+832, [Hillary Clinton Turned a Stable, Developed Nation Into an ISIS Safe Haven. Thats the Real Benghazi Scandal], 4clbvj, 1459381511.0, 3160
+833, [Ed Klein: Not the first time Clinton has collapsed], 52rfpq, 1473900635.0, 16
+834, [Charity watchdog gives Clinton Foundation high marks], 50mp4p, 1472757997.0, 0
+835, [The Big Short is a $28 million campaign ad for Bernie Sanders], 40bbkq, 1452462015.0, 0
+836, [Trump makes questionable comments about young girls in 1992 video], 577a5j, 1476344393.0, 3334
+837, [Major GOP donors are asking Trump for their money back], 573crr, 1476295813.0, 3853
+838, [Breitbart coordinated with liberal activist and organizer who disrupted GOP primary campaign events], 5986jp, 1477384688.0, 3501
+839, [Clinton, Trump are the presumptive nominees. Get used to it.], 48omkb, 1456984999.0, 5
+840, [Chris Matthews blasts Trump; once said Cheney 'created ISIS'], 4xusyo, 1471311900.0, 0
+841, [Bernie Sanders, Hillary Clinton in virtual tie: poll], 4br7pt, 1458848634.0, 0
+842, [Sanders scores caucus win over Hillary], 4974ey, 1457295645.0, 0
+843, [Polls: If Bernie Sanders wins nomination, hell crush Donald Trump], 4bjo4l, 1458713219.0, 3698
+844, [Clinton cheating Sanders out of primary win], 4gj979, 1461712429.0, 23
+845, [Moving All Americans Forward: Why I Endorse Bernie Sanders for President], 4et0lx, 1460692986.0, 0
+846, [Sanders urges supporters to unify around Clinton], 4umhm9, 1469530764.0, 20
+847, [Polling Expert Says Bernie to Win All Upcoming 8 States], 4bh4h6, 1458677424.0, 2894
+848, [A Reminder That Donald Trump Has Offended Pretty Much Everyone During His Campaign], 4njxtx, 1465645566.0, 0
+849, [Mexican president compares Trump rhetoric to Hitler and Mussolini], 49etcq, 1457413850.0, 5
+850, [Bernies Revolution Is Too White to Win], 48m8hx, 1456956071.0, 28
+851, [DNC Chair: Although She Had to Be Lifted Into That Van, Hillary Clinton Kept Fighting], 53cost, 1474242535.0, 47
+852, [Bernie Sanders to Oregonians: Drop Off Your Ballots or Im Toast], 4jie0r, 1463380960.0, 0
+853, [Donald Trump insists he was assaulted by reporter who charged his campaign manager with assault: She had a pen or something], 4cimeo, 1459330332.0, 2
+854, [Clinton: 'I Did Not Put Down Conditions' Before Supporting Obama in 2008], 4ggp6g, 1461665019.0, 0
+855, [Hillary Clinton scored the endorsement of the Human Rights Campaign on Tuesday, with the LGBT rights group hailing the Democratic candidate as the best choice to advance their message in November.], 41ov7a, 1453242046.0, 4
+856, [DNC Email Leak Megathread], 4uive8, 1469485854.0, 0
+857, [Hillary Clinton suffers debilitating coughing fit in Ohio], 51cj1l, 1473150621.0, 116
+858, [A Trump speech is just a story starring Trump: Science proves The Donald is a textbook narcissist], 4s5j0v, 1468187125.0, 623
+859, [George H.W. Bush to vote for Hillary], 53lhrx, 1474370713.0, 3991
+860, [How Russia Dominates Your Twitter Feed to Promote Lies (And, Trump, Too)], 4wgzp1, 1470535723.0, 20
+861, [Hillary forgets Benghazi victims: US didnt lose a single person in Libya], 4akd9r, 1458103528.0, 21
+862, [Topic Tuesday: Congressional Term Limits], 52kzbg, 1473808494.0, 54
+863, [Le Pen: Clinton Most 'Dangerous' US Presidential Candidate for France], 4k8x3h, 1463788983.0, 13
+864, [Trump denies he claimed climate change is a Chinese hoax. Hes lying.], 54odtd, 1474971486.0, 3990
+865, [Hillary Clinton Offers an 'Awesome Gay Agenda': Hillary Clinton today released a comprehensive policy paper on LGBT issues, laying out goals that include passing the Equality Act, ending the use of conversion therapy on minors, protecting the rights of transgender people, and more.], 3xb7hh, 1450445948.0, 2
+866, [Clinton Email Scandal: Its Time Hillary Suspended Her Campaign], 4bdqzz, 1458616288.0, 37
+867, [FBI Agents Believe An 'Inside Deal' Protected Hillary Clinton], 4som5x, 1468462746.0, 3555
+868, [Tale of Two Charities: Trumps Helps Trump While the Clintons Is the Real Deal.], 53z0vb, 1474580944.0, 71
+869, [McCain: Trump defamed Khan, does not represent GOP], 4vmjzi, 1470087853.0, 15
+870, [Bernie Sanders' latest tweet], 3yd4ui, 1451219495.0, 7
+871, [Sarah Silverman heckles Sanders supporters: 'You're being ridiculous'], 4umde4, 1469529033.0, 13
+872, [Hillary Clinton: Trumps Business Books All Seem To End At Chapter 11], 4p6ib8, 1466566724.0, 14
+873, [Trump: 'Bernie sanders has abandoned his supporters by endorsing pro-war pro-TPP pro-Wall Street Crooked Hillary Clinton.'], 4sibp9, 1468374344.0, 45
+874, [Donald Trump 'had to ask what a Gold Star family was' after he attacked the Muslim-American parents of the soldier killed in Iraq], 5a7dgy, 1477880153.0, 2420
+875, [Who's Jill Stein? Googlers are asking, and the answer is: Clinton's new problem], 4sqder, 1468484311.0, 30
+876, [Hillary Clinton Coughing Fit Returns in Cincinnati Speech], 4q71l5, 1467108361.0, 0
+877, [Clinton surges to 12-point lead in WaPo poll], 4pxvj4, 1466978633.0, 26
+878, [Tale of the Trump Tape: NBC Has A Lot of Explaining to Do], 56n72c, 1476062716.0, 14
+879, [Trump 'flabbergasted' about Lynch-Clinton private meeting], 4qosuy, 1467359796.0, 9
+880, [Hofstra University Provides 'Trigger Warning' for Presidential Debate], 54n1ni, 1474954209.0, 7
+881, [Donald Trump: I'll be better for women than Clinton], 4i13au, 1462499756.0, 7
+882, [Poll: Clinton leads Trump by 7 points after convention], 4vmm7j, 1470088672.0, 39
+883, [No, Bernie Sanders didn't retroactively win Nevada], 4dsxjs, 1460089042.0, 18
+884, [Role reversal: Trump embraces humility as arrogant Clinton stumbles], 52k75o, 1473798733.0, 19
+885, ["All in for Hillary: John Lewis attacked Bernie Sanders as the Congressional Black Caucus endorsed Clinton - and used the press conference to savage the Vermont senator's civil rights record"], 45bu8f, 1455263371.0, 3
+886, [LeBron James: Why I'm endorsing Hillary Clinton], 55l24t, 1475482016.0, 2070
+887, [When Hillary collapsed this weekend so did her credibility. Her inability to just be straight with America is what's truly Deplorable], 52g5dq, 1473737111.0, 259
+888, [Hilary Clinton's Favorability Rating Soars, Bernie Sanders is Stagnant], 3t0qn7, 1447710395.0, 0
+889, [Donald Trump's pro-Russian comments still under scrutiny], 4zkcnk, 1472182038.0, 3
+890, [Russell Simmons endorses Hillary Clinton, says Bernie Sanders 'insensitive' to black voters], 48yut3, 1457148481.0, 0
+891, [Video of Hillary Clinton's speech at Goldman Sachs, 09/23/2014], 44izqv, 1454833244.0, 0
+892, [Hillary Clinton Campaign Raised $37 Million for Primary Bid Last Quarter: It said 94% of its donations in the fourth quarter were for $100 or less, and that more than 60% of its donors were women. Mrs. Clinton also raised $18 million for the Democratic National Committee and state parties.], 3z2rdx, 1451721876.0, 3
+893, [Topic Tuesday: NATO], 53nwut, 1474414265.0, 51
+894, [Clinton rape accuser blasts 'tasteless' Trump for using her voice in campaign ad], 4xzaow, 1471380306.0, 23
+895, [Jill Steins anti-vax game: How and why the Green Party candidate is pandering to the anti-vaccination crowd], 4vzrmb, 1470275029.0, 18
+896, [Ive always voted Republican. Until now.], 4ybv2k, 1471550382.0, 2012
+897, [Vermonts Black Leaders: We Were Invisible To Bernie Sanders], 466raj, 1455715447.0, 21
+898, [She has lied about the Benghazi terrorist attack, that she was under sniper attack in fear for her life and much more. She in ingenuous and will say anything to look better. How could anyone want someone so dishonest to lead the nation?], 4aaups, 1457944539.0, 40
+899, [A Confederacy of Dunces: The Democratic Establishments Assault on Sanders Begins], 4atptu, 1458258773.0, 0
+900, [Bernie Sanders' brother: Bill Clinton 'a dreadful president'], 46m0gx, 1455935201.0, 1
+901, [Legendary civil-rights leader John Lewis takes a shot at Bernie Sanders: Never saw him'], 45aozb, 1455248931.0, 0
+902, [Caucusing for Clinton at 102 years old], 43vczh, 1454464417.0, 0
+903, [Bernie Sanderss misleading comparison of mortgage rates and student loan interest rates], 41oe3v, 1453234880.0, 0
+904, [Trump: murder is at a 45-year high. Actual statistics: thats not remotely true.], 5745u6, 1476309219.0, 4202
+905, [Sanders: White people don't know life in a ghetto], 49ap6q, 1457349988.0, 883
+906, [Don't Tell Dad I'm Voting for Hillary: Young Women on Sexism in the Family], 54yhx8, 1475123893.0, 34
+907, [Trump earns endorsement of 88 retired generals, admirals.], 51ervf, 1473190845.0, 24
+908, [Bernie Sanders May Be Our Last Chance In This Lifetime to Begin Restoring Our Democracy], 4i2xgp, 1462525760.0, 3159
+909, [Que? Donald Trump Leads Hillary Clinton By 10 Points Among Hispanics?], 4jbr11, 1463267361.0, 15
+910, [Trump Basically Says he Would Combat Terrorism By Starting a War in Iraq], 53ii2v, 1474332567.0, 413
+911, [69-year-old woman punched in the face by man leaving Donald Trump rally], 52ss4w, 1473916477.0, 14
+912, [Trump Opens Up 7-Point Lead (48-41) in LA Times/USC Poll], 53ho0c, 1474322399.0, 39
+913, [Trump: Hillary probably 'demanded' Lynch meeting], 4qrqbx, 1467408538.0, 0
+914, [Hillary Clinton for President of the United States], 56qw2y, 1476113397.0, 17
+915, [Donald Trump and Bernie Sanders are products of US imperialism's post-Obama stupor. After eight years of bipartisan consensus on nearly every venture of imperialism, from privatization to endless war, Washington's corporate duopoly finds itself in a delicate moment], 4f7mce, 1460944174.0, 0
+916, [Fox News Poll: Clinton drops below 50 percent as her lead over Sanders shrinks [National]], 42opbb, 1453796160.0, 1
+917, [Every 3 Minutes And 15 Seconds Donald Trump Tells Another Lie], 54hufo, 1474875991.0, 92
+918, [Donald Trump Will Beat Hillary Clinton For The Presidency], 4g8qqi, 1461543212.0, 52
+919, [There's a name for Trump's brand of politics: neo-fascism], 4dsjfx, 1460084058.0, 0
+920, [It Turns Out That Millennials Like Hillary Clinton Just Fine], 4438le, 1454580776.0, 0
+921, [Donald Trumps Factory of Ignorant Black Surrogates], 50z2iu, 1472942267.0, 15
+922, [Donald Trump could get the nuclear codes: How anti-intellectualism is killing American democracy], 48aa0j, 1456782620.0, 0
+923, [Ben Stein: 'I don't think Trump knows a goddamn thing about economics'], 4mkk2t, 1465107747.0, 39
+924, [More than 45K sign petition to arrest Bill Clinton], 48ocjm, 1456981603.0, 3696
+925, [In Praise of a President Who Offered America Eight Dignified Years Free of Sex Scandals], 577hd1, 1476347061.0, 4554
+926, [Bernie Sanders: HIs Awakening Of America's Middle-Class], 43mscc, 1454328882.0, 2
+927, [Donald J. Trump Statement Regarding Dallas], 4rut3q, 1468015420.0, 8
+928, [Hillary Clinton Strikes Back With a Big Win in Louisiana], 4977sk, 1457297733.0, 5
+929, [Donald Trump will face child rape charges in court, says lawyer for alleged victim], 57fxa1, 1476474386.0, 3051
+930, [Hillary Clinton Widens Lead Over Donald Trump in Poll], 4hvdpz, 1462409300.0, 50
+931, [New Poll Reflects a Post-Convention Bounce for Hillary Clinton], 4vnfh7, 1470098684.0, 18
+932, [Donald Trump Endorsed By The Ku Klux Klan? Nope.], 48dggj, 1456820293.0, 16
+933, [Donald Trump Is a Small Man: In a recent interview with The Washington Posts editorial board, the GOP front-runner struggled with the truthand his insecurities.], 4birzk, 1458701294.0, 0
+934, [A conservative's case for Clinton], 4whmgt, 1470544272.0, 0
+935, [I Muted Donald Trump and Hillary Clinton During the Debate. I Still Knew the Score.], 54t6zz, 1475043646.0, 0
+936, [Louisiana should give Clinton most of its 51 delegates to extend her lead over Sanders], 495p9s, 1457264660.0, 0
+937, [Donald Trump brags about sex life and admits he 'only stays with his wife for her breasts' in shocking new tapes], 573ugn, 1476304939.0, 2822
+938, [Obama Praises 'The Country I Know,' Says Clinton Is The One To Lead It], 4uyt8r, 1469707613.0, 27
+939, [This Equal Pay Champion Just Endorsed Hillary Clinton], 43mkqo, 1454325736.0, 0
+940, [Bernie Sanders Is Currently Winning the Democratic Primary Race, and I'll Prove It to You], 4cydqt, 1459576568.0, 28
+941, [Clinton Foundation refiles three years of tax forms], 55y0to, 1475674274.0, 28
+942, [Trump admits Obama was born in U.S., but falsely blames Clinton for starting rumors], 532ogr, 1474071381.0, 11
+943, [Poll: Clinton Support Spikes Following Democratic Convention], 4vrqne, 1470161709.0, 13
+944, [At rallies, Hillary Clintons supporters are looking for logic, not passion], 4d2b4p, 1459645541.0, 14
+945, [Hillary Clinton Endorsed for U.S. President by Boston Globe], 42it2e, 1453712681.0, 10
+946, [Poll: Nearly half of Sanders' millennial supporters would vote third-party], 4stmhc, 1468536539.0, 2173
+947, [Harper Poll: Clinton 61% Sanders 33%], 4gfqhn, 1461650913.0, 40
+948, [Clinton Derangement Syndrome Is Alive and Well], 47sn7s, 1456564844.0, 4
+949, [Jill Stein Should Be Part of a 4-Way Presidential Debate], 4ynkdy, 1471701390.0, 55
+950, [Hillary Clintons Wall Street Speeches Have Leaked. No Wonder She Didnt Want Them to Get Out.], 56md5m, 1476051735.0, 78
+951, [Clinton knocks Trump on his heels in first debate], 54qbnd, 1475008186.0, 13
+952, [Hillary Clinton cant possibly beat Trump in a race for the White House. Her track record in public office has been horrible. Her candidacy is being weighed down by all sorts of ethical and legal scandals that make her practically unelectable.], 4e16dx, 1460235991.0, 0
+953, [In the first major poll after both conventions, Trump's bump has vanished], 4vmsgf, 1470090949.0, 16
+954, [Reading Between the Lines of Hillary and Bernie's Big Media Battle: "Hillary went trolling with live bait, and Sanders gobbled it right down."], 4dth7h, 1460096285.0, 4
+955, [The millennials who support Bernie Sanders have low expectations but high hopes.], 4ch6se, 1459310108.0, 0
+956, [Sanders campaign blasts Human Rights Campaign over Clinton support], 41pofr, 1453253219.0, 0
+957, [Why the Donald Trump child rape lawsuit is credible and cant be dismissed], 4skocu, 1468403775.0, 0
+958, [Sanders Campaign Hints That It Might Admit It Cant Win], 4gmyqa, 1461761378.0, 12
+959, [Bernie has received $203,885 in donations from energy industry employees], 4d1l3x, 1459634268.0, 12
+960, [What Trump's tax returns could reveal about Russia], 4v0x6y, 1469744274.0, 11
+961, [Jerry Brown: I say Trump lies  I say Trump is a fraud], 4uy58k, 1469697562.0, 15
+962, [The insane risks of Donald Trump's stance on nuclear weapons], 4mgm5f, 1465040215.0, 11
+963, [Hillary Clinton Distributing Official Woman Card To Supporters - Donate to get your official woman card, the website reads.], 4gzp8r, 1461969914.0, 11
+964, [Donald Trump falsely claims Hillary Clinton 'wants to abolish the 2nd Amendment'], 4j1oml, 1463101402.0, 19
+965, [Half The Country Sees Fascist Undertones In Donald Trumps Campaign: New Survey], 4b4a5x, 1458442563.0, 0
+966, [Statement On Clinton Foundation CEO Admitting Donors Got Special Treatment At State], 52rs92, 1473904737.0, 71
+967, [After Brexit, support soars for Texas secession movement Texit], 4poyv5, 1466828071.0, 11
+968, [WikiLeaks' Julian Assange: Clinton Lied Under Oath About Her Knowledge of Libyan Arms Exports], 4voo2d, 1470112813.0, 78
+969, [Trump boots baby from Virginia rally], 4vti6k, 1470186114.0, 0
+970, [Fact-checking Clinton's claim she 'never received nor sent any material that was marked classified'], 4r4jpo, 1467619435.0, 19
+971, [Donald Trump Rallies Are Turning Violent], 49w2yw, 1457680799.0, 19
+972, [Hillary Clinton is on wrong side of everything: Stop telling me I have to vote for her because of the Supreme Court; "These justices aren't going anywhere. Hillary's been slow to evolve on everything that matters, and is not for me"], 3sg0u1, 1447300594.0, 16
+973, [Trump Jumps To Conclusions Minutes After Nice Attack, Says He Would Declare A World War As President.], 4swqyy, 1468574421.0, 24
+974, [Hillarys nomination is inevitable: Bernie has fought the good fight, but after Super Tuesday, the numbers just dont add up for him], 48lvkb, 1456949403.0, 0
+975, [Attorney General Loretta Lynch defends her 'social' chat with Bill Clinton before Hillary ruling and refuses to comment on facts of investigation  but decided 'some time ago' to rubber-stamp FBI decision], 4skfia, 1468400328.0, 1
+976, [Trump refers to alleged Bill Clinton sexual indiscretions as 'rape'], 4k107w, 1463664842.0, 2
+977, [Proud Democrat Clinton Jabs Sanders on Party Fund-Raising. Clinton made a rare jab at Bernie Sanders for not being a longtime member of the party and for not fundraising for other Democrats.], 4d4fwq, 1459678001.0, 0
+978, [Former President Bill Clinton kicks off tour for wife Hillary Clinton's presidential campaign: "I do not believe in my lifetime anybody has run for this job at a moment of great importance who was better qualified by knowledge, experience and temperament to do what needs to be done now"], 3zfzza, 1451961439.0, 0
+979, [Why Sanders holds potential appeal for Trump voters], 3z0wlw, 1451691387.0, 2
+980, [How Hillary Clinton is building an army of millennial women supporters: As Democratic frontrunner continues a young-female-focused pop culture blitz, her diverse team intensifies voter strategy to keep campaign wheels turning], 3xn3s4, 1450687213.0, 0
+981, [No, the Election Isnt Rigged], 57xhty, 1476742099.0, 771
+982, [Sanders: If Youre White You Dont Know What Its Like To Be Poor], 49aojk, 1457349718.0, 78
+983, [Sean Hannitys Defense Of Trump Is Now Beyond Parody: King David Had 500 Concubines For Crying Out Loud], 56gt8f, 1475959793.0, 4237
+984, [Former KKK Leader Issues His Support for Donald Trump], 47ksv1, 1456457326.0, 0
+985, [Bernie Sanders during tonights debate: "When you are white, you dont know what its like to be living in a ghetto, you dont know what its like to be poor."], 49bdyr, 1457361296.0, 60
+986, [Hillary Clinton leads Donald Trump by 5 points], 4vi5og, 1470016481.0, 7
+987, [Mark Cuban insults Trump before backing 'true leader' Hillary Clinton], 4vi4lv, 1470016086.0, 8
+988, [President Fox Apologizes, Invites Trump to Mexico], 4hx8bx, 1462432687.0, 7
+989, [Trump refuses to condemn violence at his rallies], 4b8jzb, 1458526015.0, 0
+990, [Hillary Clinton Expresses Regret for Calling Donald Trump Supporters Deplorables], 524kkk, 1473562887.0, 12
+991, [Hillary Clinton Is Trying Really Hard to Repel Progressives], 52om4h, 1473852192.0, 42
+992, [Donald Trump says he wants to punish women who have abortions, making him just like every other pro-life politician], 4cmp0o, 1459399201.0, 0
+993, [Superdelegates Are Propping Up Hillary Clinton], 4c6s0e, 1459134890.0, 13
+994, [Judge Nap: Hillary Should Be More Worried About the FBI Than About Sanders], 48uuez, 1457079611.0, 16
+995, [Hillary Clinton comments on Bernie Sanders supporters in leaked recording], 55dzpk, 1475369056.0, 81
+996, ["Voters given Clinton's political money platform without hearing who authored it invariably identified it as a Sanders plan."], 4l8wbo, 1464347403.0, 0
+997, [Europes Leaders Blast Bill Over Democracy Jibe: The Mouth Belongs To Clinton, The Voice Belongs To Soros], 4k9837, 1463792657.0, 9
+998, [Sanders: White people don't know life in a ghetto], 49as1j, 1457351170.0, 2767

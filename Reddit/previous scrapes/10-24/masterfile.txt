@@ -1,0 +1,4 @@
+ITEM NUMBER, THREAD TITLE
+0, DEFAULT ENTRY
+1, [In early Utah turnout, a third more Democrats than expected have voted]
+2, [Whoops: Pro-Donald Trump super PAC publishes donor credit card numbers]
