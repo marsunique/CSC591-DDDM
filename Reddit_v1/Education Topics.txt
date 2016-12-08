@@ -1,0 +1,6 @@
+college, tuition
+college, student
+college, map
+education, law
+point, scholarship
+education, policy
